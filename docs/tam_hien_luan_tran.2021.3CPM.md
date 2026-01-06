@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vo Tam, Do Hien, Phan Luan, Van Tran, Long Nguyen, Hoang Huong, Tran Uyen, Pham Nga
+    - footer
+title: Tam Vo, Hien Do, Luan Phan, Tran Van, Nguyen Long, Huong Hoang, Uyen Tran, Nga Pham
 description:
 tags:
  - concrete
@@ -11,31 +12,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing-Material:<br/>:aca-blank: Preliminary Study ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1007/978-3-030-99666-6_100" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-99666-6_100</a>
+#3D Concrete Printing-Material&nbsp;([2021-11](date/2021/11))
+<div class="h1-like">Preliminary Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-99666-6_100" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-99666-6_100" target="_blank">10.1007/978-3-030-99666-6_100</a>
 
--------------------------
+<a href="../../../author/tam_chi_vo"><b>Tam</b>&nbsp;Vo</a></span>, <a href="../../../author/hien_thi-thu_do"><b>Hien</b>&nbsp;Do</a></span>, <a href="../../../author/luan_gia_phan"><b>Luan</b>&nbsp;Phan</a></span>, <a href="../../../author/tran_tron_van"><b>Tran</b>&nbsp;Van</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2303-5989" title="ORCID: 0000-0003-2303-5989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_nhut-phi_long"><b>Nguyen</b>&nbsp;Long</a></span>, <a href="../../../author/huong_hoang"><b>van&nbsp;Huong</b>&nbsp;Hoang</a></span>, <a href="../../../author/uyen_minh-the_tran"><b>Uyen</b>&nbsp;Tran</a></span>, <a href="../../../author/nga_thi-hong_pham"><b>Nga</b>&nbsp;Pham</a></span><br>
+Contribution - Proceedings of the International Conference on Advanced Mechanical Engineering, Automation, and Sustainable Development, pp. 689-693
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tam_chi_vo"><b>Tam</b> Vo</a>
-,     <a href="../../../author/hien_thi-thu_do"><b>Hien</b> Do</a>
-,     <a href="../../../author/luan_gia_phan"><b>Luan</b> Phan</a>
-,     <a href="../../../author/tran_tron_van"><b>Tran</b> Van</a>
-,     <a href="../../../author/nguyen_nhut-phi_long"><b>Nguyen</b> Long</a> <a href="https://orcid.org/0000-0003-2303-5989" title="ORCID: 0000-0003-2303-5989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huong_hoang"><b>van Huong</b> Hoang</a>
-,     <a href="../../../author/uyen_minh-the_tran"><b>Uyen</b> Tran</a>
-,     <a href="../../../author/nga_thi-hong_pham"><b>Nga</b> Pham</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the International Conference on Advanced Mechanical Engineering, Automation, and Sustainable Development, pp. 689-693
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing-Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130403866&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285214272" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-99666-6_100" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-99666-6_100?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing uses fresh concrete to create complex, nonstandard geometries and details architecture or part of architecture by layering new concrete on top of each other. As mentioned above, this method has more advantages than conventional construction, such as the absence of formwork, optimizing construct time, cost, and safety, the primary material used in 3D concrete printing. The quality of the printed constructs significantly depends on the new property of the used material. During the printing process, pre-mixed concrete is continuously hardening due to the exothermic process, which is the factor of open time. Besides, most concrete 3D printing is applicable in civil construction, requiring a solid interface concrete layer. Hence, to ensure the structure's durability, supports are needed for building and large-scale concrete printing. The preview of fresh concrete properties and their impact is summarized in the second section of this study. The most sensitive factor of a new property, an interface between layer problems, is considered in the third section. In the fourth section, we introduce the standard method to overcome these problems using supports.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
@@ -88,7 +68,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{tam_hien_luan_tran.2021.3CPM,
+      author            = "Vo Chi Tam and Do Thi Thu Hien and Phan Gia Luan and Van Tron Tran and Long Nhut Phi Nguyen and Hoang van Huong and Tran Minh The Uyen and Pham Thi Hong Nga",
+      title             = "3D Concrete Printing-Material: Preliminary Study",
+      doi               = "10.1007/978-3-030-99666-6_100",
+      year              = "2021",
+      pages             = "689--693",
+      booktitle         = "Proceedings of the International Conference on Advanced Mechanical Engineering, Automation, and Sustainable Development",
+      editor            = "Banh Tien Long and Hyung Sun Kim and Kozo Ishizaki and Nguyen Duc Toan and Ivan A. Parinov and Yun-Hea Kim",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. C. Tam, “3D Concrete Printing-Material: Preliminary Study”, in <i>Proceedings of the International Conference on Advanced Mechanical Engineering, Automation, and Sustainable Development</i>,  2021, pp. 689–693. doi: 10.1007/978-3-030-99666-6_100.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tam, Vo Chi, Do Thi Thu Hien, Phan Gia Luan, Van Tron Tran, Long Nhut Phi Nguyen, Hoang van Huong, Tran Minh The Uyen, and Pham Thi Hong Nga. “3D Concrete Printing-Material: Preliminary Study”. In <i>Proceedings of the International Conference on Advanced Mechanical Engineering, Automation, and Sustainable Development</i>, edited by Banh Tien Long, Hyung Sun Kim, Kozo Ishizaki, Nguyen Duc Toan, Ivan A. Parinov, and Yun-Hea Kim, 689–93, 2021. https://doi.org/10.1007/978-3-030-99666-6_100.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

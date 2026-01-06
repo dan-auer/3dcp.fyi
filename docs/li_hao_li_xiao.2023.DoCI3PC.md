@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Long Li, Lucen Hao, Xiao-Sheng Li, Jianzhuang Xiao, Shipeng Zhang, Chi Poon
+    - footer
+title: Li Long, Hao Lucen, Li Xiao-Sheng, Xiao Jianzhuang, Zhang Shipeng, Poon Chi
 description:
 tags:
  - co2
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of CO2-Integrated 3D Printing Concrete ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.134233" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.134233</a>
+#Development of CO2-Integrated 3D Printing Concrete ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.134233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134233" target="_blank">10.1016/j.conbuildmat.2023.134233</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-8518-3407" title="ORCID: 0009-0003-8518-3407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_long"><b>Li</b>&nbsp;Long</a></span>, <a href="../../../author/hao_lucen"><b>Hao</b>&nbsp;Lucen</a></span>, <a href="../../../author/li_xiao-sheng"><b>Li</b>&nbsp;Xiao-Sheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/zhang_shipeng"><b>Zhang</b>&nbsp;Shipeng</a></span>, <a href="../../../author/poon_sun_chi"><b>Poon</b>&nbsp;Chi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 409, No. 134233
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_long"><b>Li</b> Long</a> <a href="https://orcid.org/0009-0003-8518-3407" title="ORCID: 0009-0003-8518-3407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>
-,     <a href="../../../author/li_xiao-sheng"><b>Li</b> Xiao-Sheng</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>
-,     <a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 409, No. 134233
-
-:aca-blank:{ .lg .middle}
-    [`#co2`](keyword/co2)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#integration`](keyword/integration)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20CO2-Integrated%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85177602960&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388888720" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.134233" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.134233?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete (3DPC) technology is a promising technique for construction due to its advantages such as no formwork is needed, fast production, automation, and high architectural freedom. However, the layer-by-layer extrusion method has stricter requirements on the rheological properties of concrete. One of challenges of this technology is how to improve the rheological properties of concrete to satisfy the conflicting requirements during pumping and after extrusion. This study proposed to use CO2 as accelerator and rheology modifier by injecting CO2 during secondary mixing to improve the rheological and mechanical properties of 3DPC. The influences of the secondary CO2 mixing on the properties of poured concrete and 3DPC were investigated. After using the secondary CO2 mixing, the setting time and workability of concrete were reduced, which contributed to the significantly improved buildability of 3DPC. This was because CO2 accelerated the hydration of tricalcium aluminate (C3A) and tricalcium silicate (C3S) during the secondary mixing. After that, they were continuously accelerated by the calcium carbonate formed during CO2 mixing. Also, the compressive strength of poured concrete was enhanced by the secondary CO2 mixing because it reduced the volume of larger pores (>200 nm) and promoted the formation of calcium silicate hydrates (C-S-H), which simultaneously slightly increased the drying shrinkage. In addition, after using the secondary CO2 mixing, the compressive strength and interlayer bond strength of 3DPC was enhanced.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
@@ -83,8 +62,10 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dao_trang"><b>Dao</b> Trang</a>, <a href="../../../author/chau_ngoc_vinh"><b>Chau</b> Vinh</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dao_chau_tran_tran.2026.BWBaCSi3PCvDCM/">Balancing Workability, Buildability, and Carbon Sequestration in 3D Printed Concrete via Direct CO2 Mineralization</a></li>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/he_yao"><b>He</b> Yao</a>, <a href="../../../author/yu_miao"><b>Yu</b> Miao</a>, <a href="../../../author/wang_changhao"><b>Wang</b> Changhao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xiao_he_yu_wang.2025.EoPCMotPoM/">Effects of Pressurized CO2 Mixing on the Properties of Mortar</a></li>
@@ -102,4 +83,34 @@ tags:
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/beytekin_elif_hatice"><b>Beytekin</b> Hatice</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../sahi_mard_beyt.2024.EoSFUoSBUMaDSPoFR3PC/">Effect of Silica-Fume Utilization on Structural Build-Up, Mechanical and Dimensional Stability Performance of Fiber-Reinforced 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_hao_li_xiao.2023.DoCI3PC,
+      author            = "Long Li and Lucen Hao and Xiao-Sheng Li and Jianzhuang Xiao and Shipeng Zhang and Chi Sun Poon",
+      title             = "Development of CO2-Integrated 3D Printing Concrete",
+      doi               = "10.1016/j.conbuildmat.2023.134233",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "409",
+      pages             = "134233",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Li, L. Hao, X.-S. Li, J. Xiao, S. Zhang and C. S. Poon, “Development of CO2-Integrated 3D Printing Concrete”, <i>Construction and Building Materials</i>, vol. 409, p. 134233, 2023, doi: 10.1016/j.conbuildmat.2023.134233.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Long, Lucen Hao, Xiao-Sheng Li, Jianzhuang Xiao, Shipeng Zhang, and Chi Sun Poon. “Development of CO2-Integrated 3D Printing Concrete”. <i>Construction and Building Materials</i> 409 (2023): 134233. https://doi.org/10.1016/j.conbuildmat.2023.134233.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

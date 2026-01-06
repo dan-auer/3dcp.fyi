@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Zhang, Zijian Jia, Zhe Luo, Zhicong Deng, Zhibin Wang, Chun Chen, Yamei Zhang
+    - footer
+title: Zhang Chao, Jia Zijian, Luo Zhe, Deng Zhicong, Wang Zhibin, Chen Chun, Zhang Yamei
 description:
 tags:
  - brick
@@ -21,40 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Printability and Pore-Structure of 3D Printing Low-Carbon Concrete Using Recycled Clay-Brick-Powder with Various Particle-Features ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1080/21650373.2022.2149633" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2022.2149633</a>
+#Printability and Pore-Structure of 3D Printing Low-Carbon Concrete Using Recycled Clay-Brick-Powder with Various Particle-Features ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2022.2149633" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2022.2149633" target="_blank">10.1080/21650373.2022.2149633</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chao"><b>Zhang</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/luo_zhe"><b>Luo</b>&nbsp;Zhe</a></span>, <a href="../../../author/deng_zhicong"><b>Deng</b>&nbsp;Zhicong</a></span>, <a href="../../../author/wang_zhibin"><b>Wang</b>&nbsp;Zhibin</a></span>, <a href="../../../author/chen_chun"><b>Chen</b>&nbsp;Chun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> <a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/luo_zhe"><b>Luo</b> Zhe</a>
-,     <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>
-,     <a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a>
-,     <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-10
-
-:aca-blank:{ .lg .middle}
-    [`#brick`](keyword/brick)
-    [`#carbon`](keyword/carbon)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#low`](keyword/low)
-    [`#particle`](keyword/particle)
-    [`#porosity`](keyword/porosity)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#recycling`](keyword/recycling)
-    [`#structure`](keyword/structure)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Pore-Structure%20of%203D%20Printing%20Low-Carbon%20Concrete%20Using%20Recycled%20Clay-Brick-Powder%20with%20Various%20Particle-Features" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85142510314&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4309825634" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2022.2149633" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2022.2149633?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the utilization of recycled brick powder (BP) as supplementary cementitious material to prepare low carbon 3D printing concrete (3DPC). The effect of grinding time on the characteristics of BP was first analyzed, then the effect of BP on the rheology, printability, mechanical properties, and pore structure of 3DPC was studied. Since the porous microstructure of BP particles is destroyed during grinding process, as the grinding time increases, the average particle size and BET specific surface area of BP decrease synchronously. The BP with larger average particle size and specific surface area worsens printing quality and brings to wider interface zone and higher porosity of 3DPC. However, the BP with small average particle size (27.4 lm in this research) hardly affects the rheology and printability of 3DPC, and only slightly decreases the mechanical properties. This research can provide guidance for applying recycled BP to prepare low carbon 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -108,8 +78,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/manalo_c_allan"><b>Manalo</b> Allan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rama_pasu_mana_sanj.2025.RMaFRPoWGAGfC3P/">Rheological, Mechanical and Fire Resistance Performance of Waste Glass Activated Geopolymers for Concrete 3D Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b> Kirushnapillai</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/elakneswaran_yogarajah"><b>Elakneswaran</b> Yogarajah</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../kopi_raje_sanj_elak.2025.CSaLCSi3PC/">CO2 Sequestration and Low-Carbon-Strategies in 3D Printed Concrete</a></li>
@@ -124,4 +94,33 @@ tags:
       <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
       <li><a href="../../../author/cui_dong"><b>Cui</b> Dong</a>, <a href="../../../author/wu_yingxuan"><b>Wu</b> Yingxuan</a>, <a href="../../../author/xie_xiaoying"><b>Xie</b> Xiaoying</a>, <a href="../../../author/tian_guanfei"><b>Tian</b> Guanfei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../cui_wu_xie_tian.2023.IotMSoa3PMTaNLST/">Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_jia_luo_deng.2022.PaPSo3PLCCURCBPwVPF,
+      author            = "Chao Zhang and Zijian Jia and Zhe Luo and Zhicong Deng and Zhibin Wang and Chun Chen and Yamei Zhang",
+      title             = "Printability and Pore-Structure of 3D Printing Low-Carbon Concrete Using Recycled Clay-Brick-Powder with Various Particle-Features",
+      doi               = "10.1080/21650373.2022.2149633",
+      year              = "2022",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Zhang, “Printability and Pore-Structure of 3D Printing Low-Carbon Concrete Using Recycled Clay-Brick-Powder with Various Particle-Features”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–10, 2022, doi: 10.1080/21650373.2022.2149633.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Chao, Zijian Jia, Zhe Luo, Zhicong Deng, Zhibin Wang, Chun Chen, and Yamei Zhang. “Printability and Pore-Structure of 3D Printing Low-Carbon Concrete Using Recycled Clay-Brick-Powder with Various Particle-Features”. <i>Journal of Sustainable Cement-Based Materials</i>, 2022, 1–10. https://doi.org/10.1080/21650373.2022.2149633.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

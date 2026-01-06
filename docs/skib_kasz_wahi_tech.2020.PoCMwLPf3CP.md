@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Szymon Skibicki, Maria Kaszyńska, Nawid Wahib, Mateusz Techman, Karol Federowicz, Adam Zieliński, Tomasz Wróblewski, Norbert Olczyk, Marcin Hoffmann
+    - footer
+title: Skibicki Szymon, Kaszyńska Maria, Wahib Nawid, Techman Mateusz, Federowicz Karol, Zieliński Adam, Wróblewski Tomasz, Olczyk Norbert, Hoffmann Marcin
 description:
 tags:
  - composite
@@ -15,36 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Properties of Composite Modified with Limestone-Powder for 3D Concrete Printing ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_13</a>
+#Properties of Composite Modified with Limestone-Powder for 3D Concrete Printing ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_13" target="_blank">10.1007/978-3-030-49916-7_13</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaszynska_maria"><b>Kaszyńska</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3483-1665" title="ORCID: 0000-0003-3483-1665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wahib_nawid"><b>Wahib</b>&nbsp;Nawid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/techman_mateusz"><b>Techman</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/federowicz_karol"><b>Federowicz</b>&nbsp;Karol</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7949-1831" title="ORCID: 0000-0001-7949-1831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zielinski_adam"><b>Zieliński</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3731-1542" title="ORCID: 0000-0003-3731-1542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wroblewski_tomasz"><b>Wróblewski</b>&nbsp;Tomasz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4261-4946" title="ORCID: 0000-0002-4261-4946" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olczyk_norbert"><b>Olczyk</b>&nbsp;Norbert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 125-134
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a> <a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wahib_nawid"><b>Wahib</b> Nawid</a> <a href="https://orcid.org/0000-0003-3483-1665" title="ORCID: 0000-0003-3483-1665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> <a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> <a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> <a href="https://orcid.org/0000-0001-7949-1831" title="ORCID: 0000-0001-7949-1831" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wroblewski_tomasz"><b>Wróblewski</b> Tomasz</a> <a href="https://orcid.org/0000-0003-3731-1542" title="ORCID: 0000-0003-3731-1542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a> <a href="https://orcid.org/0000-0002-4261-4946" title="ORCID: 0000-0002-4261-4946" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 125-134
-
-:aca-blank:{ .lg .middle}
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#limestone`](keyword/limestone)
-    [`#modification`](keyword/modification)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%20Composite%20Modified%20with%20Limestone-Powder%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088249581&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3041828648" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_13" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_13?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The design of proper mixes for 3D concrete printing has been already a subject of many studies. Modification to mixes aim to obtain certain properties (extrudability, workability, flowability, open time or buildability) which allow for proper printing of the material. There are different types of reactive or non-reactive mineral additives that were already used to modify the mixes for 3D concrete printing. Studies have already shown the usefulness offly ash, silica fume, metakaolin, limestone powder or quartz powder. The properties of the mix can also be changed with different chemical admixtures such as plasticizer, accelerators or retarders and viscosity modifying agents. Use of different admixtures can however significantly increase the cost of designed mixes. The study determined the influence of non-reactive limestone powder on the properties of the mix. The mixes were modified with 10% to 50% of additive, that replaced the fine aggregate. Rheological properties of the mixes were studied in this research. The stiffness and load-bearing capacity of mixes (t  45 min) were tested. Chosen mixes were printed out to experimentally if h l h d h h h h li d verify the results. The study has shown that the limestone powder can successfully be used to improve the properties of printing mixes with simultaneous reduction of cement content. The results are promising regarding the sustainable development attitude in modern constructions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a> <a href="../../../date/2015/10">(2015-10)</a><br><a href="../../../duba_goss_roux.2015.AMaMOOoGPACS/">Additive Manufacturing and Multi-Objective Optimization of Graded Polystyrene-Aggregate Concrete Structures</a></li>
@@ -86,8 +60,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../kasz_skib.2025.SDAf3CP/">Sustainable Development Approach for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chou_skib_noai_fede.2024.CAoTBCwCaEBAfHP3P/">Comparative Analysis of Ternary Blended Cement with Clay and Engineering-Brick-Aggregate for High-Performance 3D Printing</a></li>
@@ -110,4 +84,35 @@ tags:
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pultorak_monika"><b>Pułtorak</b> Monika</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../skib_put_kasz.2021.EoMMUPi3CPT/">Evaluation of Material-Modification Using PET in 3D Concrete Printing Technology</a></li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../kasz_skib_hoff.2020.3CPfSC/">3D Concrete Printing for Sustainable Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{skib_kasz_wahi_tech.2020.PoCMwLPf3CP,
+      author            = "Szymon Skibicki and Maria Kaszyńska and Nawid Wahib and Mateusz Techman and Karol Federowicz and Adam Zieliński and Tomasz Wróblewski and Norbert Olczyk and Marcin Hoffmann",
+      title             = "Properties of Composite Modified with Limestone-Powder for 3D Concrete Printing",
+      doi               = "10.1007/978-3-030-49916-7_13",
+      year              = "2020",
+      volume            = "28",
+      pages             = "125--134",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Skibicki, “Properties of Composite Modified with Limestone-Powder for 3D Concrete Printing”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 125–134. doi: 10.1007/978-3-030-49916-7_13.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Skibicki, Szymon, Maria Kaszyńska, Nawid Wahib, Mateusz Techman, Karol Federowicz, Adam Zieliński, Tomasz Wróblewski, Norbert Olczyk, and Marcin Hoffmann. “Properties of Composite Modified with Limestone-Powder for 3D Concrete Printing”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:125–34, 2020. https://doi.org/10.1007/978-3-030-49916-7_13.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

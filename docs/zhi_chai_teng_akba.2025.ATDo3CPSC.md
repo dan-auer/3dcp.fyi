@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yefan Zhi, Hua Chai, Teng Teng, Masoud Akbarzadeh
+    - footer
+title: Zhi Yefan, Chai Hua, Teng Teng, Akbarzadeh Masoud
 description:
 tags:
  - automation
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automated Toolpath Design of 3D Concrete Printing Structural Components ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.addma.2025.104662" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.104662</a>
+#Automated Toolpath Design of 3D Concrete Printing Structural Components ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.104662" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104662" target="_blank">10.1016/j.addma.2025.104662</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1654-4865" title="ORCID: 0000-0003-1654-4865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_yefan"><b>Zhi</b>&nbsp;Yefan</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-1276-7705" title="ORCID: 0009-0005-1276-7705" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chai_hua"><b>Chai</b>&nbsp;Hua</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6460-7109" title="ORCID: 0000-0001-6460-7109" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_teng"><b>Teng</b>&nbsp;Teng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b>&nbsp;Masoud</a></span><br>
+Journal Article - Additive Manufacturing, No. 104662
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> <a href="https://orcid.org/0000-0003-1654-4865" title="ORCID: 0000-0003-1654-4865" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chai_hua"><b>Chai</b> Hua</a> <a href="https://orcid.org/0009-0005-1276-7705" title="ORCID: 0009-0005-1276-7705" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teng_teng"><b>Teng</b> Teng</a> <a href="https://orcid.org/0000-0001-6460-7109" title="ORCID: 0000-0001-6460-7109" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104662
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#toolpath`](keyword/toolpath)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/toolpath"><button class="btn">#toolpath</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Toolpath%20Design%20of%203D%20Concrete%20Printing%20Structural%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216786478&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407056326" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.104662" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.104662?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) structural components for construction assemblies are known for reduced material use and enhanced efficiency and design freedom. This article investigates the limitations in the geometrical and toolpath design of 3DCP structural components and presents an automated and comprehensive approach to their toolpath design and optimization. It exploits hierarchical geometric data structures and graph algorithms to achieve the following features: (1) By analyzing the overhang of toolpaths, the method offers quantitative criteria for determining the buildability of the components and predicting failure, thus assisting design decisions. (2) It provides toolpath offsetting and filleting methods that can enhance the dimensional accuracy of the print concerning layer line textures and overfills. (3) For branching and porous geometries, the method creates as-continuous-as-possible toolpaths with minimal stop-starts based on their topologies, thus reducing seam defects. (4) It converts the toolpath into efficient visualization meshes representing layer line textures and toolpath meshes compatible with finite elements analysis. The proposed method is implemented as a plug-in software within the environment of Grasshopper® for Rhino® to facilitate designers and engineers working with 3DCP. The effectiveness and versatility of the tool are demonstrated through the toolpath design and printing of four sets of examples. The tool reduces the number of toolpaths by 90% for a typical 80 mm nozzle and takes 0.21 s per meter of toolpath to slice, analyze overhang, generate continuous printing toolpaths, and visualize the print.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "51 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/lin_wei_che"><b>Lin</b> Che</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/wang_mingyang"><b>Wang</b> Mingyang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../anto_lin_skev_wang.2024.TA/">Tor Alva:<br/>A 3D Concrete Printed Tower</a></li>
@@ -115,13 +94,40 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../zhan_wu_zhan_yuan.2021.3CPwVWF/">3D Concrete Printing with Variable-Width Filament</a></li>
-      <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhi_chai_teng_akba.2025.ATDo3CPSC/">Automated Toolpath Design of 3D Concrete Printing Structural Components</a></li>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhi_teng_akba.2024.D3PCSwSFM/">Designing 3D Printed Concrete Structures with Scaled Fabrication Models</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhi_akba.2025.STToSCi3CPfOBaSQ/">Surface-Toolpath Twins of Shell Components in 3D Concrete Printing for Optimized Buildability and Surface Quality</a></li>
-      <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhi_chai_teng_akba.2025.ATDo3CPSC/">Automated Toolpath Design of 3D Concrete Printing Structural Components</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhi_chai_teng_akba.2025.ATDo3CPSC,
+      author            = "Yefan Zhi and Hua Chai and Teng Teng and Masoud Akbarzadeh",
+      title             = "Automated Toolpath Design of 3D Concrete Printing Structural Components",
+      doi               = "10.1016/j.addma.2025.104662",
+      year              = "2025",
+      journal           = "Additive Manufacturing",
+      pages             = "104662",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhi, H. Chai, T. Teng and M. Akbarzadeh, “Automated Toolpath Design of 3D Concrete Printing Structural Components”, <i>Additive Manufacturing</i>, p. 104662, 2025, doi: 10.1016/j.addma.2025.104662.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhi, Yefan, Hua Chai, Teng Teng, and Masoud Akbarzadeh. “Automated Toolpath Design of 3D Concrete Printing Structural Components”. <i>Additive Manufacturing</i>, 2025, 104662. https://doi.org/10.1016/j.addma.2025.104662.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

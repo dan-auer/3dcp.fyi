@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rida Foulki, Mouad Mesoudy, Khalid Cherkaoui
+    - footer
+title: Foulki Rida, Mesoudy Mouad, Cherkaoui Khalid
 description:
 tags:
  - analysis
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1007/s00170-025-16633-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00170-025-16633-1</a>
+#Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00170-025-16633-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-025-16633-1" target="_blank">10.1007/s00170-025-16633-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-7174-6245" title="ORCID: 0009-0004-7174-6245" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/foulki_rida"><b>Foulki</b>&nbsp;Rida</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-4921-9030" title="ORCID: 0009-0002-4921-9030" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b>&nbsp;Mouad</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-3019-4196" title="ORCID: 0009-0009-3019-4196" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b>&nbsp;Khalid</a></span><br>
+Journal Article - The International Journal of Advanced Manufacturing Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a> <a href="https://orcid.org/0009-0004-7174-6245" title="ORCID: 0009-0004-7174-6245" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a> <a href="https://orcid.org/0009-0002-4921-9030" title="ORCID: 0009-0002-4921-9030" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="https://orcid.org/0009-0009-3019-4196" title="ORCID: 0009-0009-3019-4196" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The International Journal of Advanced Manufacturing Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#pump`](keyword/pump)
-    [`#theory`](keyword/theory)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20and%20Theoretical%20Analysis%20of%20Pumping%20and%20Extrusion%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019199242&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415352258" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00170-025-16633-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00170-025-16633-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based concrete printing, a key Industry 4.0 technology, is transforming construction by eliminating formwork and enabling complex geometries. This study presents an integrated numerical theoretical framework for predicting the pumping and extrusion behavior of cementitious mixtures in 3D concrete printing. Closed-form velocity profiles for fully developed laminar pipe flow of Herschel–Bulkley fluids with wall slip are revisited and benchmarked against experimental results from the literature for different concretes, showing that accounting for slip is essential to match observations (R2 > 0.86). Comparison of the original Bingham model with its Papanastasiou regularization shows near-identical fully developed velocity and wall shear rate, in excellent agreement with the regularized viscosity model implemented in Fluent (R2 > 0.99), thereby validating the regularized forms. Analytical predictions of pumping pressure drop agree with experimental data from the literature, with a maximum error of 13% at the lowest discharge rate (6 L/min). In addition, the proposed linearized analytical approximation outperforms the Madlener, Hanks, and Kaplan models, achieving errors ≤ 10%, although the simulations remain closer to the experimental results than the analytical model, particularly at higher flow rates (9 and 12 L/min). Classical extrusion theory is revised to include billet loss, thereby eliminating the nonphysical zero-pressure limit as the die-to-barrel diameter ratio approaches unity. The framework is further demonstrated on a representative mixture featuring an experimentally motivated lubricating layer. Overall, the results establish a consistent link between measurable rheological and tribological parameters and pump/extruder design variables in 3D concrete printing, highlighting the critical role of wall slip.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "50 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../akhr_oulk_jai_riha.2025.EBM3PEaBNI/">Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -115,7 +95,35 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{foul_meso_cher.2025.NaTAoPaEi3CP,
+      author            = "Rida Foulki and Mouad el Mesoudy and Khalid Cherkaoui",
+      title             = "Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing",
+      doi               = "10.1007/s00170-025-16633-1",
+      year              = "2025",
+      journal           = "The International Journal of Advanced Manufacturing Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Foulki, M. el Mesoudy and K. Cherkaoui, “Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing”, <i>The International Journal of Advanced Manufacturing Technology</i>, 2025, doi: 10.1007/s00170-025-16633-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Foulki, Rida, Mouad el Mesoudy, and Khalid Cherkaoui. “Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing”. <i>The International Journal of Advanced Manufacturing Technology</i>, 2025. https://doi.org/10.1007/s00170-025-16633-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

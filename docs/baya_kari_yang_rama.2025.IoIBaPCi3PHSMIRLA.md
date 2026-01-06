@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hamid Bayat, Sagegh Karimpouli, Liming Yang, Hamed Ramandi, Alireza Kashani
+    - footer
+title: Bayat Hamid, Karimpouli Sagegh, Yang Liming, Ramandi Hamed, Kashani Alireza
 description:
 tags:
  - aggregate
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2025.112183) Investigation of Interlayer Bonding and Pore Characteristics in 3D-Printed High-Strength Mortar Incorporating Recycled Lightweight Aggregates ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.jobe.2025.112183" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112183</a>
+#Investigation of Interlayer Bonding and Pore Characteristics in 3D-Printed High-Strength Mortar Incorporating Recycled Lightweight Aggregates ([2025-02](date/2025/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.112183) <a href="https://doi.org/10.1016/j.jobe.2025.112183" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112183" target="_blank">10.1016/j.jobe.2025.112183</a>
 
--------------------------
+<a href="../../../author/bayat_hamid"><b>Bayat</b>&nbsp;Hamid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1781-9760" title="ORCID: 0000-0003-1781-9760" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/karimpouli_sagegh"><b>Karimpouli</b>&nbsp;Sagegh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0095-5635" title="ORCID: 0000-0003-0095-5635" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_liming"><b>Yang</b>&nbsp;Liming</a></span>, <a href="../../../author/ramandi_lamei_hamed"><b>Ramandi</b>&nbsp;Hamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kashani_alireza"><b>Kashani</b>&nbsp;Alireza</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112183
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>
-,     <a href="../../../author/karimpouli_sagegh"><b>Karimpouli</b> Sagegh</a> <a href="https://orcid.org/0000-0003-1781-9760" title="ORCID: 0000-0003-1781-9760" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_liming"><b>Yang</b> Liming</a> <a href="https://orcid.org/0000-0003-0095-5635" title="ORCID: 0000-0003-0095-5635" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramandi_lamei_hamed"><b>Ramandi</b> Hamed</a>
-,     <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112183
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#bond`](keyword/bond)
-    [`#characteristic`](keyword/characteristic)
-    [`#height`](keyword/height)
-    [`#incorporation`](keyword/incorporation)
-    [`#interlayer`](keyword/interlayer)
-    [`#investigation`](keyword/investigation)
-    [`#light`](keyword/light)
-    [`#mortar`](keyword/mortar)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Interlayer%20Bonding%20and%20Pore%20Characteristics%20in%203D-Printed%20High-Strength%20Mortar%20Incorporating%20Recycled%20Lightweight%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218334817&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407727815" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112183" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112183?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explores the incorporation of recycled lightweight aggregates i.e. fly ash cenosphere (FAC) and expanded glass (EG) into 3D-printed cementitious mortar to enhance both thermal insulation and sustainability. The novelty lies in examining how these aggregates impact the mechanical and thermal properties of 3D-printed structures, while also analyzing the pore structure, particularly at the critical interface between successive printed layers. Replacing sand with 60% FAC (C60) and 65% EG (G65) resulted in a lightweight mortar with a density of 1800 kg/m3, but also led to reductions in compressive, interlayer bonding, and flexural strength. X-ray microtomography (μ-CT) analysis revealed significant variations in porosity, particularly at the interlayer region where porosity peaked at around 33%. The thermal conductivity of the printed samples was reduced by up to 58%, driven by both the lightweight aggregates and the porous interlayer structure. Despite the weakened mechanical properties, the enhanced thermal performance of the 3D-printed samples suggests potential for sustainable, energy-efficient construction. The findings highlight the critical role of pore structure, especially at layer interfaces, in determining the strength and insulation properties of 3D-printed mortars. This work provides valuable insights into the trade-offs between strength and thermal insulation when using lightweight aggregates, offering a pathway to more energy-efficient and sustainable 3D-printed buildings with potential lower operational carbon footprints for 3D-printing construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../baya_kash.2023.AoRPaPoa3PMCSFHLaBFS/">Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag</a></li>
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -101,7 +73,36 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{baya_kari_yang_rama.2025.IoIBaPCi3PHSMIRLA,
+      author            = "Hamid Bayat and Sagegh Karimpouli and Liming Yang and Hamed Lamei Ramandi and Alireza Kashani",
+      title             = "Investigation of Interlayer Bonding and Pore Characteristics in 3D-Printed High-Strength Mortar Incorporating Recycled Lightweight Aggregates",
+      doi               = "10.1016/j.jobe.2025.112183",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112183",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Bayat, S. Karimpouli, L. Yang, H. L. Ramandi and A. Kashani, “Investigation of Interlayer Bonding and Pore Characteristics in 3D-Printed High-Strength Mortar Incorporating Recycled Lightweight Aggregates”, <i>Journal of Building Engineering</i>, p. 112183, 2025, doi: 10.1016/j.jobe.2025.112183.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bayat, Hamid, Sagegh Karimpouli, Liming Yang, Hamed Lamei Ramandi, and Alireza Kashani. “Investigation of Interlayer Bonding and Pore Characteristics in 3D-Printed High-Strength Mortar Incorporating Recycled Lightweight Aggregates”. <i>Journal of Building Engineering</i>, 2025, 112183. https://doi.org/10.1016/j.jobe.2025.112183.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

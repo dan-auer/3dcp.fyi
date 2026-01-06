@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hüseyin İlcan, Hamza Özkılıç, Merve Tuğluca, Mustafa Şahmaran
+    - footer
+title: İlcan Hüseyin, Özkılıç Hamza, Tuğluca Merve, Şahmaran Mustafa
 description:
 tags:
  - cement
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Inter-Layer Mechanical Performance of 3D Printed Cementitious Systems:<br/>:aca-blank: A Comprehensive Study on Operational and Material Parameters ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.135463" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.135463</a>
+#Inter-Layer Mechanical Performance of 3D Printed Cementitious Systems&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">A Comprehensive Study on Operational and Material Parameters</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135463" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135463" target="_blank">10.1016/j.conbuildmat.2024.135463</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <a href="../../../author/ozkilic_hamza"><b>Özkılıç</b>&nbsp;Hamza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5197-4863" title="ORCID: 0000-0002-5197-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b>&nbsp;Merve</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 419, No. 135463
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozkilic_hamza"><b>Özkılıç</b> Hamza</a>
-,     <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a> <a href="https://orcid.org/0000-0002-5197-4863" title="ORCID: 0000-0002-5197-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 419, No. 135463
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#comprehension`](keyword/comprehension)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#operation`](keyword/operation)
-    [`#parameter`](keyword/parameter)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/operation"><button class="btn">#operation</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Mechanical%20Performance%20of%203D%20Printed%20Cementitious%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185886927&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392128223" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.135463" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.135463?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study delves into the interlayer mechanical performance of 3D-printed cementitious materials, exploring a variety of operational and material parameters to understand the practical effects on the performance of printed structures. To achieve this, a comprehensive battery of tests, encompassing compression, triplet shear, direct tensile, and diagonal tension tests, was conducted. Within the scope of this investigation, the anisotropic performance in perpendicular, lateral, and parallel directions was examined, along with varying printing time intervals (0, 15, 30, and 60 min between consecutive layers), material aging times (0, 30, and 60 min), and different manufacturing methodologies, including cast, horizontal-printed, and vertical-printed specimens. The research findings indicate that well-established mechanical tests, commonly utilized for evaluating masonry structures, can be effectively transferred and applied to assess 3D printed structures. A noteworthy discovery is the anisotropic behavior observed in compressive strength, characterized by diminishing results from perpendicular to parallel and parallel to lateral loading directions. Extended printing time intervals have an adverse impact on the interlayer mechanical performance of cementitious systems. Material aging time also significantly influences bond strength, particularly in mixtures aged for 60 min. In conclusion, it is evident that material aging exerts a more substantial influence on bond strength compared to printing time intervals in cementitious systems. Additionally, it was observed that vertically printed specimens replicate the mechanical performance and fracture mechanism of cast specimens, while horizontally printed specimens exhibit slightly lower performance with distinct fracture patterns.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "53 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -127,8 +103,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
       <li><a href="../../../author/altehaini_zakiah"><b>Altehaini</b> Zakiah</a>, <a href="../../../author/dayili_mohammed"><b>Dayili</b> Mohammed</a>, <a href="../../../author/alrajab_meshari"><b>Alrajab</b> Meshari</a>, <a href="../../../author/harbi_al_adel"><b>Harbi</b> Adel</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../alte_dayi_alra_harb.2025.D3CPfLSBCiSA/">Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia:<br/>A Case Study</a></li>
@@ -142,4 +118,34 @@ tags:
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wu_liu_bai_liu.2024.EoTIotILAo3PCwRS/">Effect of Time Interval on the Inter-Layer Adhesion of 3D Printed Concrete with Recycled Sand:<br/>Multi-Factor Influencing Mechanisms and Superabsorbent Polymer Enhancement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ilca_ozk_tugl_sahm.2024.ILMPo3PCS,
+      author            = "Hüseyin İlcan and Hamza Özkılıç and Merve Sönmez Tuğluca and Mustafa Şahmaran",
+      title             = "Inter-Layer Mechanical Performance of 3D Printed Cementitious Systems: A Comprehensive Study on Operational and Material Parameters",
+      doi               = "10.1016/j.conbuildmat.2024.135463",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "419",
+      pages             = "135463",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. İlcan, H. Özkılıç, M. S. Tuğluca and M. Şahmaran, “Inter-Layer Mechanical Performance of 3D Printed Cementitious Systems: A Comprehensive Study on Operational and Material Parameters”, <i>Construction and Building Materials</i>, vol. 419, p. 135463, 2024, doi: 10.1016/j.conbuildmat.2024.135463.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">İlcan, Hüseyin, Hamza Özkılıç, Merve Sönmez Tuğluca, and Mustafa Şahmaran. “Inter-Layer Mechanical Performance of 3D Printed Cementitious Systems: A Comprehensive Study on Operational and Material Parameters”. <i>Construction and Building Materials</i> 419 (2024): 135463. https://doi.org/10.1016/j.conbuildmat.2024.135463.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

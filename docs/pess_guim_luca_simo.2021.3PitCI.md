@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sofia Pessoa, Ana Guimarães, Sandra Lucas, Nuno Simões
+    - footer
+title: Pessoa Sofia, Guimarães Ana, Lucas Sandra, Simões Nuno
 description:
 tags:
  - buildability
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing in the Construction Industry:<br/>:aca-blank: A Systematic Review of the Thermal Performance in Buildings ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1016/j.rser.2021.110794" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rser.2021.110794</a>
+#3D Printing in the Construction Industry&nbsp;([2021-02](date/2021/02))
+<div class="h1-like">A Systematic Review of the Thermal Performance in Buildings</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.rser.2021.110794" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rser.2021.110794" target="_blank">10.1016/j.rser.2021.110794</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pessoa_sofia"><b>Pessoa</b>&nbsp;Sofia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3418-0030" title="ORCID: 0000-0003-3418-0030" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/simoes_nuno"><b>Simões</b>&nbsp;Nuno</a></span><br>
+Journal Article - Renewable and Sustainable Energy Reviews, Vol. 141
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a> <a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="https://orcid.org/0000-0003-3418-0030" title="ORCID: 0000-0003-3418-0030" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Renewable and Sustainable Energy Reviews, Vol. 141, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100882963&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3133081345" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rser.2021.110794" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rser.2021.110794?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Building Information Modelling (BIM) paved the way to better information management in the construction sector, simplifying and encouraging the advent of digital technologies and tools. The application of large-scale additive manufacturing (AM) is growing and therefore subject to intensive research – on account of its disruptive potential to revolutionise the Architecture, Engineering and Construction (AEC) industry. With this systematic literature review, the authors aim to identify the major advances made so far on AM’s applicability to the construction sector, with particular attention being given to the thermal efficiency of 3D printed buildings. The article begins by presenting the review methodology applied and offering an outline of the current situation in the construction industry, followed by a discussion on different AM processes. Applications in the construction industry are presented and the development of extrudable materials is addressed. The influence of the thermal insulation of the building’s envelope on its energy consumption is explained and experimental applications presented. The state-of-the-art shows that 3D printing (3DP) is still in an early stage and the research remains focused on the printability and structural capacity. There is a noticeable gap on physical aspects such as thermal and acoustic behaviour, which are of major importance to the indoor environment quality. By discussing the difference in performance between commercial thermal insulation materials and the existing 3D printed materials, this research outlines new ways of improving the thermal performance of 3D printed structures, by using additives in the printed mix or by acting on the wall’s structure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "61 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
@@ -129,8 +108,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "92 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nadais_mariana"><b>Nadais</b> Mariana</a>, <a href="../../../author/cunha_p_rui"><b>Cunha</b> Rui</a>, <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nada_cunh_pess_delg.2026.EIEQTRTM/">Enhancing Indoor Environmental Quality Through Real-Time Monitoring:<br/>A Case Study of a 3D-Printed House</a></li>
       <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
       <li><a href="../../../author/latorraca_f_tassia"><b>Latorraca</b> Tássia</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lato_rang_guim.2026.O3PCPTPwMMaGD/">Optimizing 3D-Printed Concrete Panels’ Thermal Performance with Materials, Metrics, and Generative Design</a></li>
@@ -161,7 +140,7 @@ tags:
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../baya_kash.2025.RMaECiSSBT3PWD/">Reducing Material and Energy Consumption in Single-Story Buildings Through 3D-Printed Wall Designs</a></li>
       <li><a href="../../../author/olivo_eftekhar_nik"><b>Olivo</b> Nik</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/milano_francesco"><b>Milano</b> Francesco</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../oliv_picc_mila_gram.2025.TEoHC3TNDC/">Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_sahi.2024.TIoAEoFEi3PC/">The Impact of Air-Entraining on Frost-Endurance in 3D Printed Concrete:<br/>The Function of Printing Orientation and Curing Process</a></li>
-      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
+      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
       <li><a href="../../../author/eid_abdulmohsen_zainab"><b>Eid</b> Zainab</a>, <a href="../../../author/almerbati_nehal"><b>Almerbati</b> Nehal</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../eid_alme.2025.MtAtEIo3PBUCW/">Methodologies to Assess the Environmental Impact of 3D Printed Buildings Using Construction Waste</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dey_pand.2024.NEoTPaISf3PCS/">Numerical Evaluation of Thermal Performance and Improvement-Strategies for 3D Printed Concrete Structures</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../khan_mcna.2024.ARoDiLC3PCiE/">A Review of Developments in Low-Carbon 3D Printed Concrete in Europe:<br/>Steps Towards Sustainable Construction</a></li>
@@ -224,4 +203,33 @@ tags:
       <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a></li>
       <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../guim_delg_luca.2021.AMiCE/">Advanced Manufacturing in Civil Engineering</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pess_guim_luca_simo.2021.3PitCI,
+      author            = "Sofia Pessoa and Ana Sofia Guimarães and Sandra Simaria de Oliveira Lucas and Nuno Simões",
+      title             = "3D Printing in the Construction Industry: A Systematic Review of the Thermal Performance in Buildings",
+      doi               = "10.1016/j.rser.2021.110794",
+      year              = "2021",
+      journal           = "Renewable and Sustainable Energy Reviews",
+      volume            = "141",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Pessoa, A. S. Guimarães, S. S. de Oliveira Lucas and N. Simões, “3D Printing in the Construction Industry: A Systematic Review of the Thermal Performance in Buildings”, <i>Renewable and Sustainable Energy Reviews</i>, vol. 141, 2021, doi: 10.1016/j.rser.2021.110794.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pessoa, Sofia, Ana Sofia Guimarães, Sandra Simaria de Oliveira Lucas, and Nuno Simões. “3D Printing in the Construction Industry: A Systematic Review of the Thermal Performance in Buildings”. <i>Renewable and Sustainable Energy Reviews</i> 141 (2021). https://doi.org/10.1016/j.rser.2021.110794.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

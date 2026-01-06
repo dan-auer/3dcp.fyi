@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Benny Suryanto, J. Higgins, M. Aitken, Asdam Tambusay, Priyo Suprobo
+    - footer
+title: Suryanto Benny, Higgins J., Aitken M., Tambusay Asdam, Suprobo Priyo
 description:
 tags:
  - application
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2023.133561) Developments in Portland Cement/GGBS Binders for 3D Printing Applications:<br/>:aca-blank: Material-Calibration and Structural Testing ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133561" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133561</a>
+#Developments in Portland Cement/GGBS Binders for 3D Printing Applications&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">Material-Calibration and Structural Testing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2023.133561) <a href="https://doi.org/10.1016/j.conbuildmat.2023.133561" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133561" target="_blank">10.1016/j.conbuildmat.2023.133561</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3979-9994" title="ORCID: 0000-0002-3979-9994" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/suryanto_benny"><b>Suryanto</b>&nbsp;Benny</a></span>, <a href="../../../author/higgins_j"><b>Higgins</b>&nbsp;J.</a></span>, <a href="../../../author/aitken_w_m"><b>Aitken</b>&nbsp;M.</a></span>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b>&nbsp;Asdam</a></span>, <a href="../../../author/suprobo_priyo"><b>Suprobo</b>&nbsp;Priyo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 407, No. 133561
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a> <a href="https://orcid.org/0000-0002-3979-9994" title="ORCID: 0000-0002-3979-9994" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/higgins_j"><b>Higgins</b> J.</a>
-,     <a href="../../../author/aitken_w_m"><b>Aitken</b> M.</a>
-,     <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a>
-,     <a href="../../../author/suprobo_priyo"><b>Suprobo</b> Priyo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 407, No. 133561
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#binder`](keyword/binder)
-    [`#calibration`](keyword/calibration)
-    [`#cement`](keyword/cement)
-    [`#development`](keyword/development)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/calibration"><button class="btn">#calibration</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Developments%20in%20Portland%20Cement/GGBS%20Binders%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173028904&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387321391" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133561" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133561?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The work presented in this paper forms part of a wider research programme being undertaken on the development of low-carbon cementitious mortars for 3D printing applications. Specifically, this paper investigates the potential of ground granulated blast-furnace slag (GGBS) as a partial replacement for Portland cement. Five mortar mixes with varying water/binder (w/b) ratios (0.35 to 0.45) were tested, and to investigate their pumpability and buildability, a series of wall-like specimens were printed using a custom-built 3D printer under a range of speeds of 2 to 4 m/min. Pumpability was found to be directly related to w/b ratio, whereas buildability was found to be dependent upon both test parameters. Mortar mixes with w/b ratios in the range 0.37 to 0.40 demonstrated promising pumpability and buildability characteristics when extruded at the optimum printing speed of 2.5 m/min. Moreover, to demonstrate the application of the optimised mix, an arch truss prototype was printed and subsequently tested to failure to provide insights into the structural behaviour of a 3D printed arch truss member. From the process of crack formation and accompanying analysis, it was found that although the development of tensile stresses in the 3D printed prototype was minimal (a direct result of the arch geometry), it still governed the overall member behaviour due to the presence of internal stresses induced by restrained shrinkage.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -98,8 +75,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xiao_chen_ding_zou.2022.BBoSCR3PCitDPttI/">Bending Behavior of Steel-Cable-Reinforced 3D Printed Concrete in the Direction Perpendicular to the Interfaces</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
@@ -117,4 +94,34 @@ tags:
       <li><a href="../../../author/du_jiashuai"><b>Du</b> Jiashuai</a>, <a href="../../../author/wei_yazhi"><b>Wei</b> Yazhi</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/idriss_i-b_aboubaker"><b>Idriss</b> Aboubaker</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../du_wei_zhan_idri.2024.EoOSDoPEoBB3PC/">Effects of Oyster-Shell-Derivatives on Performance Enhancement of Biomass-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sury_higg_aitk_tamb.2023.DiPCGBf3PA,
+      author            = "Benny Suryanto and J. Higgins and M. W. Aitken and Asdam Tambusay and Priyo Suprobo",
+      title             = "Developments in Portland Cement/GGBS Binders for 3D Printing Applications: Material-Calibration and Structural Testing",
+      doi               = "10.1016/j.conbuildmat.2023.133561",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "407",
+      pages             = "133561",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Suryanto, J. Higgins, M. W. Aitken, A. Tambusay and P. Suprobo, “Developments in Portland Cement/GGBS Binders for 3D Printing Applications: Material-Calibration and Structural Testing”, <i>Construction and Building Materials</i>, vol. 407, p. 133561, 2023, doi: 10.1016/j.conbuildmat.2023.133561.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Suryanto, Benny, J. Higgins, M. W. Aitken, Asdam Tambusay, and Priyo Suprobo. “Developments in Portland Cement/GGBS Binders for 3D Printing Applications: Material-Calibration and Structural Testing”. <i>Construction and Building Materials</i> 407 (2023): 133561. https://doi.org/10.1016/j.conbuildmat.2023.133561.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

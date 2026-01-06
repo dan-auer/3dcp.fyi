@@ -21,3 +21,310 @@
 }
 
 
+/* footer background */
+.md-footer,
+.md-footer-meta {
+  background: transparent !important;
+}
+
+.md-footer {
+  box-shadow: none !important;
+  border-top: 0 !important;
+}
+
+
+
+
+/* Firefox - F12 - Stilbearbeitung */
+
+
+/* wrapper provides the shared border */
+.split-wrap{
+  display: inline-flex;
+  border: 2px solid #000;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* main link just lays out the left/right spans */
+.split-btn__main{
+  display: inline-flex;
+  text-decoration: none; !important
+  font: 600 18px/1 system-ui, sans-serif;
+}
+
+
+/* segments */
+.split-btn__icon,
+.split-btn__left,
+.split-btn__right{
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 8px;
+  text-decoration-color: transparent;
+}
+
+/* icon (now a link) */
+[data-md-color-scheme=slate] .split-btn__icon,
+[data-md-color-scheme=slate] .split-btn__left,
+[data-md-color-scheme=slate] .split-btn__right,
+{
+  background: hsla(var(--md-hue),0%,100%,1);
+  color: var(--md-default-bg-color);
+}
+
+[data-md-color-scheme=default] .split-btn__icon,
+[data-md-color-scheme=default] .split-btn__left,
+[data-md-color-scheme=default] .split-btn__right,
+{
+  background: var(--md-default-fg-color);
+  color: var(--md-default-bg-color);
+}
+
+
+
+/* design der headers */
+.md-typeset h1{   
+  margin-block-start: 0;
+  margin-block-end: 0;        /* removes gap to next text */
+  padding-bottom: .15em;
+  border-bottom: 1px solid var(--md-default-fg-color, currentColor); 
+  color: var(--md-default-fg-color, #000);
+}
+
+.h1-like{
+  color:var(--md-default-fg-color);
+  font-size:1.875em;
+  line-height:1.3;
+  margin:0 0 1.25em;
+  font-weight:700;
+  letter-spacing:-.025em
+}
+
+.md-typeset h1 + h1-like{ margin-top: 0; }
+
+
+/* keyword buttons */
+.btn{
+  display:inline-block;
+  margin-bottom:0;
+  font-weight:normal;
+  text-align:center;
+  white-space:nowrap;
+  vertical-align:middle;
+  border:0px solid transparent;
+  padding:1px 5px;
+  font-size:12px;
+  line-height:1.5;
+  border-radius:3px;
+  color:var(--md-default-bg-color);
+  background-color: var(--md-typeset-a-color);
+  border-color: var(--md-default-bg-color);
+}
+
+.btn:hover,
+.btn:focus{
+  color:var(--md-default-bg-color);
+  background-color: var(--md-default-fg-color);
+  border-color: var(--md-default-bg-color);
+  text-decoration:none;
+}
+
+.btn-mat{
+  --btn-hover-bg: #6FA25F;  /* hover accent */
+}
+
+.btn-col{
+  --btn-hover-bg: #FFA25F;  /* hover accent */
+}
+
+/*author name formatting*/
+
+/* so orcid icon, first and last name are kept together */
+.author{
+  white-space: nowrap;     /* keep the bundle together */
+}
+
+
+/* vertikale linie bei ordered lists */
+
+ol.bordered-list{
+  background: transparent;
+  list-style: none;              /* disable native markers */
+  margin: 0;
+  padding: 0 0 0 25px;           /* gutter for [0000] */
+  counter-reset: item 0;        /* first li becomes 0 */
+}
+
+ol.bordered-list > li{
+  position: relative;
+  border-left: 1px solid var(--md-accent-fg-color);
+  padding: 0 0 0 6px;            /* gap from left border */
+  counter-increment: item;
+}
+
+/* base marker style */
+ol.bordered-list > li::before{
+  position: absolute;
+  left: -60px;                   /* aligns marker in gutter */
+  width: 54px;                   /* fixed width = stable alignment */
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  color: var(--md-default-fg-color, inherit);
+}
+
+/* 0 … 9 => [0000]..[0009] */
+ol.bordered-list > li:nth-child(n+1):nth-child(-n+9)::before{
+  content: "[00" counter(item) "]";
+}
+
+/* 10 … 99 => [0010]..[0099] */
+ol.bordered-list > li:nth-child(n+10):nth-child(-n+99)::before{
+  content: "[0" counter(item) "]";
+}
+
+/* 100 … 999 => [0100]..[0999] */
+ol.bordered-list > li:nth-child(n+100):nth-child(-n+999)::before{
+  content: "[" counter(item) "]";
+}
+
+/* 1000 … 9999 => [1000]..[9999] */
+ol.bordered-list > li:nth-child(n+1000):nth-child(-n+9999)::before{
+  content: "[" counter(item) "]";
+}
+
+
+
+
+.md-typeset .admonition.bug,
+.md-typeset .admonition.example,
+.md-typeset .admonition.quote,
+.md-typeset .admonition.danger,
+.md-typeset .admonition.question,
+.md-typeset .admonition.success,
+.md-typeset .admonition.tip,
+.md-typeset .admonition.warning,
+.md-typeset .admonition.failure,
+.md-typeset details.bug,
+.md-typeset details.example,
+.md-typeset details.quote,
+.md-typeset details.danger,
+.md-typeset details.question,
+.md-typeset details.success,
+.md-typeset details.tip,
+.md-typeset details.warning,
+.md-typeset details.failure
+{
+  background-color:#9e9e9e1a;
+}
+
+
+.md-typeset .bug>.admonition-title:before,
+.md-typeset .bug>summary:before,
+.md-typeset .bug>.admonition-title:after,
+.md-typeset .bug>summary:after,
+.md-typeset .example>.admonition-title:before,
+.md-typeset .example>summary:before,
+.md-typeset .example>.admonition-title:after,
+.md-typeset .example>summary:after,
+.md-typeset .quote>.admonition-title:before,
+.md-typeset .quote>summary:before,
+.md-typeset .quote>.admonition-title:after,
+.md-typeset .quote>summary:after,
+.md-typeset .danger>.admonition-title:before,
+.md-typeset .danger>summary:before,
+.md-typeset .danger>.admonition-title:after,
+.md-typeset .danger>summary:after,
+.md-typeset .question>.admonition-title:before,
+.md-typeset .question>summary:before,
+.md-typeset .question>.admonition-title:after,
+.md-typeset .question>summary:after,  
+.md-typeset .success>.admonition-title:before,
+.md-typeset .success>summary:before,
+.md-typeset .success>.admonition-title:after,
+.md-typeset .success>summary:after,  
+.md-typeset .tip>.admonition-title:before,
+.md-typeset .tip>summary:before,
+.md-typeset .tip>.admonition-title:after,
+.md-typeset .tip>summary:after,  
+.md-typeset .warning>.admonition-title:before,
+.md-typeset .warning>summary:before,
+.md-typeset .warning>.admonition-title:after,
+.md-typeset .warning>summary:after,  
+.md-typeset .failure>.admonition-title:before,
+.md-typeset .failure>summary:before,
+.md-typeset .failure>.admonition-title:after,
+.md-typeset .failure>summary:after  
+{
+  background-color:var(--md-admonition-fg-color);
+}
+
+/**/
+
+.md-typeset mark {
+  background-color:#2CA25F;
+}
+
+:root {
+  --md-search-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-file-search"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M14 3v4a1 1 0 0 0 1 1h4" /><path d="M12 21h-5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v4.5" /><path d="M16.5 17.5m-2.5 0a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0" /><path d="M18.5 19.5l2.5 2.5" /></svg>')
+}
+
+a:visited {
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset ol li a,
+.md-typeset h1 a {
+  padding: 0.1em;
+  border-radius: 0.2em;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.md-typeset ol li a:hover,
+.md-typeset ol li a:focus,
+.md-typeset h1 a:hover,
+.md-typeset h1 a:focus  {
+  background-color: var(--md-typeset-a-color);
+  color: #000;
+}
+
+
+
+
+/**/
+
+.md-typeset .admonition dl,
+.md-typeset details dl{
+  margin: 0;
+}
+.md-typeset .admonition dt,
+.md-typeset details dt{
+  float: left;
+  clear: left;
+}
+.md-typeset .admonition dd,
+.md-typeset details dd{
+  text-align: right;
+  margin: 0;
+}
+
+
+
+/*content card icons*/
+.md-typeset .emojione svg,
+.md-typeset .gemoji svg,
+.md-typeset .twemoji svg {
+  fill:none; 
+  max-height:100%;
+  width:var(--md-icon-size)
+}
+
+
+/*header icons*/
+
+.md-icon svg {
+  fill:none;
+  display:block;
+  height:1.2rem;
+  width:1.2rem
+}

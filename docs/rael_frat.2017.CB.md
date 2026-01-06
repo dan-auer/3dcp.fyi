@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ronald Rael, Virginia Fratello
+    - footer
+title: Rael Ronald, Fratello Virginia
 description:
 tags:
  - clay
@@ -12,26 +13,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Clay Bodies:<br/>:aca-blank: Crafting the Future with 3D Printing ([2017-11](date/2017/11))
-<a href="https://doi.org/10.1002/ad.2243" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/ad.2243</a>
+#Clay Bodies&nbsp;([2017-11](date/2017/11))
+<div class="h1-like">Crafting the Future with 3D Printing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/ad.2243" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.2243" target="_blank">10.1002/ad.2243</a>
 
--------------------------
+<a href="../../../author/rael_ronald"><b>Rael</b>&nbsp;Ronald</a></span>, <a href="../../../author/fratello_virginia"><b>san&nbsp;Fratello</b>&nbsp;Virginia</a></span><br>
+Journal Article - Architectural Design, Vol. 87, Iss. 6, pp. 92-97
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>
-,     <a href="../../../author/fratello_virginia"><b>san Fratello</b> Virginia</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architectural Design, Vol. 87, Iss. 6, pp. 92-97
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#craf`](keyword/craf)
-    [`#future`](keyword/future)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Clay%20Bodies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85032888311&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,20 +35,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2765772794" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/ad.2243" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/ad.2243?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Clay is the basic building block of contemporary civilisation. The oldest permanent cities, constructed some 10,000 years ago, were built from unfi red mud bricks. Scientists theorise that this humble material also comprises the fundamental building blocks of life itself. One particular type of clay, Montmorillonite, is considered to be the material segue between matter that is not ‘alive’ and life, which began as a muddy stew of clay and water transformed into living matter by electrical charges from lightning, forming the fi rst microscopic structures that one fi nds in living cells.1 Clay is a combination of alumina, silica and chemically bonded water, and is primarily composed of feldspar, which over the course of millions of years is pulverised through water pressure and transformed into fi ne particles. Because clay is a product of ubiquitous geological processes, it can be found on every continent, is readily available and inexpensive, and has unique material properties. It exists in a vast spectrum of colours (ranging from white to red to black, with every shade and tint in between); and when fi red, it transforms into a stone-like material that lasts indefi nitely. In nature, however, clay typically is fairly homogeneous; but when the material is designed, it possesses far more varied characteristics. The wide range of techniques employed by a potter require clay recipes, which are referred to as a ‘clay bodies’. In addition to clay, clay bodies might include silica, grog (pulverised fi red ceramic), sand and other materials, which when combined are designed to respond to issues of fi ring, plasticity, colour, transparency, workability, warping, cracking, shrinkage, porosity, texture, strength and other important factors in the making of ceramics.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../teix_jesu_rang_maia.2026.E3CPCwBT/">Expanding 3D Concrete Printing Customization with Biomimetic Textures</a></li>
       <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../madr_orte_olss_teno.2024.3C/">3D Constructing:<br/>Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation</a></li>
       <li><a href="../../../author/nan_cristina"><b>Nan</b> Cristina</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../nan.2024.TCCC/">The Computational Clay Column:<br/>Computational Ceramic Systems with Additive Manufacturing</a></li>
@@ -88,4 +73,35 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../lowk_talk_mai_wege.2020.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Applications, Material and Process Technology</a></li>
       <li><a href="../../../author/im_claire_hyeonji"><b>Im</b> Hyeonji</a>, <a href="../../../author/othman_sulaiman"><b>Othman</b> Sulaiman</a>, <a href="../../../author/castillo_luis-garcia_jose"><b>Castillo</b> Jose</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../im_othm_cast.2018.RSP/">Responsive Spatial Print:<br/>Clay 3D Printing of Spatial Lattices Using Real-Time Model-Recalibration</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rael_frat.2017.CB,
+      author            = "Ronald Rael and Virginia san Fratello",
+      title             = "Clay Bodies: Crafting the Future with 3D Printing",
+      doi               = "10.1002/ad.2243",
+      year              = "2017",
+      journal           = "Architectural Design",
+      volume            = "87",
+      number            = "6",
+      pages             = "92--97",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Rael  and V. san Fratello, “Clay Bodies: Crafting the Future with 3D Printing”, <i>Architectural Design</i>, vol. 87, no. 6, pp. 92–97, 2017, doi: 10.1002/ad.2243.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rael, Ronald, and Virginia san Fratello. “Clay Bodies: Crafting the Future with 3D Printing”. <i>Architectural Design</i> 87, no. 6 (2017): 92–97. https://doi.org/10.1002/ad.2243.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anthony Mackin, Zaid Hanoun, Jenna Migliorino, Aly Ahmed, Islam Mantawy
+    - footer
+title: Mackin Anthony, Hanoun Zaid, Migliorino Jenna, Ahmed Aly, Mantawy Islam
 description:
 tags:
  - additive
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2024.138941) Multi-Functional Additively Constructed Honeycomb Walls for Housing and Sheltering ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138941" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138941</a>
+#Multi-Functional Additively Constructed Honeycomb Walls for Housing and Sheltering ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.138941) <a href="https://doi.org/10.1016/j.conbuildmat.2024.138941" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138941" target="_blank">10.1016/j.conbuildmat.2024.138941</a>
 
--------------------------
+<a href="../../../author/mackin_anthony"><b>Mackin</b>&nbsp;Anthony</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-2997-0740" title="ORCID: 0009-0002-2997-0740" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hanoun_zaid"><b>Hanoun</b>&nbsp;Zaid</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-9602-688X" title="ORCID: 0009-0006-9602-688X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/migliorino_jenna"><b>Migliorino</b>&nbsp;Jenna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6226-7040" title="ORCID: 0000-0001-6226-7040" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_mohamed-aly_aly"><b>Ahmed</b>&nbsp;Aly</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7309-5061" title="ORCID: 0000-0001-7309-5061" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mantawy_m_islam"><b>Mantawy</b>&nbsp;Islam</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 452, No. 138941
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mackin_anthony"><b>Mackin</b> Anthony</a>
-,     <a href="../../../author/hanoun_zaid"><b>Hanoun</b> Zaid</a> <a href="https://orcid.org/0009-0002-2997-0740" title="ORCID: 0009-0002-2997-0740" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/migliorino_jenna"><b>Migliorino</b> Jenna</a> <a href="https://orcid.org/0009-0006-9602-688X" title="ORCID: 0009-0006-9602-688X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahmed_mohamed-aly_aly"><b>Ahmed</b> Aly</a> <a href="https://orcid.org/0000-0001-6226-7040" title="ORCID: 0000-0001-6226-7040" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> <a href="https://orcid.org/0000-0001-7309-5061" title="ORCID: 0000-0001-7309-5061" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 452, No. 138941
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#function`](keyword/function)
-    [`#honeycomb`](keyword/honeycomb)
-    [`#house`](keyword/house)
-    [`#multi`](keyword/multi)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/honeycomb"><button class="btn">#honeycomb</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multi-Functional%20Additively%20Constructed%20Honeycomb%20Walls%20for%20Housing%20and%20Sheltering" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207336130&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403912448" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138941" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138941?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Honeycomb designs have become increasingly popular in additive manufacturing due to their great mechanical properties. The honeycomb infill pattern has allowed the creation of lightweight objects without sacrificing the strength of solid objects. Honeycombs have been utilized in different applications, including architecture, aerospace, and automotive. However, there is a lack of honeycomb designs within the construction industry. With the growth of concrete additive construction, there is an opportunity to introduce honeycomb designs into construction practices. This paper proposes a methodology for manufacturing multi-functional walls through additive construction. The methodology includes several key steps, from material development and quality control testing to wall assembly and experimental investigation. Two multi-functional wall segments were additively constructed, reaching a height of 1180 mm, a width of 610 mm, and a thickness of 90 mm. These measurements led to the manufacturing of seven distinct cellular sections per wall, comprising three main, two intermediate, and two end cellular units. In addition, a columnar unit was additively constructed for corner connection, featuring two vertical octagonal cells with end brackets. A preliminary wall system made up of honeycomb wall segments was assembled using various additional materials such as sealant, clamping systems, and insulative materials. Furthermore, an additional wall segment with end connections was designed and manufactured to test its load-carrying capacity. The wall segment performed well compared to wooden stud walls and showed sufficient load-carrying capacity. Unlike traditional un-reinforced concrete structures, which are brittle and experience small plastic deformations before failing, the honeycomb wall structure experienced large plastic deformation before failure due to the use of insulation foam and silicon rubber. The preliminary testing showed that the honeycomb wall system could be an alternative to traditional housing construction, especially for shelters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dey_pand.2023.AESoTPo3PCS/">An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs</a></li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../krei_krei_case.2019.DotCPfRACC/">Development of the Construction Processes for Reinforced Additively Constructed Concrete</a></li>
       <li><a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/guru_v_k"><b>Guru</b> K.</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kris_guru.2021.3PC/">3D Printing Concrete:<br/>A Review</a></li>
@@ -80,8 +58,38 @@ tags:
       <li><a href="../../../author/tuvayanond_wiput"><b>Tuvayanond</b> Wiput</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tuva_pras.2023.DfMaAoDFaAMiC/">Design for Manufacture and Assembly of Digital Fabrication and Additive Manufacturing in Construction:<br/>A Review</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aly-ahmed_muhammed_aly"><b>Aly Ahmed</b> Aly</a>, <a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../aly_mant.2025.ACoLECC/">Additive Construction of Low Embodied Carbon Concrete:<br/>Geopolymer Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mack_hano_migl_ahme.2024.MFACHWfHaS,
+      author            = "Anthony Mackin and Zaid Hanoun and Jenna Migliorino and Aly Mohamed Aly Ahmed and Islam M. Mantawy",
+      title             = "Multi-Functional Additively Constructed Honeycomb Walls for Housing and Sheltering",
+      doi               = "10.1016/j.conbuildmat.2024.138941",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "452",
+      pages             = "138941",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Mackin, Z. Hanoun, J. Migliorino, A. M. A. Ahmed and I. M. Mantawy, “Multi-Functional Additively Constructed Honeycomb Walls for Housing and Sheltering”, <i>Construction and Building Materials</i>, vol. 452, p. 138941, 2024, doi: 10.1016/j.conbuildmat.2024.138941.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mackin, Anthony, Zaid Hanoun, Jenna Migliorino, Aly Mohamed Aly Ahmed, and Islam M. Mantawy. “Multi-Functional Additively Constructed Honeycomb Walls for Housing and Sheltering”. <i>Construction and Building Materials</i> 452 (2024): 138941. https://doi.org/10.1016/j.conbuildmat.2024.138941.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

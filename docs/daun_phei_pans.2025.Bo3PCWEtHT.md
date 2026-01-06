@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Totsawat Daungwilailuk, Phoonsak Pheinsusom, Withit Pansuk
+    - footer
+title: Daungwilailuk Totsawat, Pheinsusom Phoonsak, Pansuk Withit
 description:
 tags:
  - behavior
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Behavior of 3D Printed Concrete Walls Exposed to High Temperatures ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1061/jaeied.aeeng-2107" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jaeied.aeeng-2107</a>
+#Behavior of 3D Printed Concrete Walls Exposed to High Temperatures ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jaeied.aeeng-2107" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-2107" target="_blank">10.1061/jaeied.aeeng-2107</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0917-8580" title="ORCID: 0000-0002-0917-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b>&nbsp;Totsawat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8553-8939" title="ORCID: 0000-0002-8553-8939" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b>&nbsp;Phoonsak</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8910-2043" title="ORCID: 0000-0001-8910-2043" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pansuk_withit"><b>Pansuk</b>&nbsp;Withit</a></span><br>
+Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a> <a href="https://orcid.org/0000-0002-0917-8580" title="ORCID: 0000-0002-0917-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a> <a href="https://orcid.org/0000-0002-8553-8939" title="ORCID: 0000-0002-8553-8939" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="https://orcid.org/0000-0001-8910-2043" title="ORCID: 0000-0001-8910-2043" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#exposure`](keyword/exposure)
-    [`#height`](keyword/height)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Behavior%20of%203D%20Printed%20Concrete%20Walls%20Exposed%20to%20High%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015046705&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413900369" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jaeied.aeeng-2107" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jaeied.aeeng-2107?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fire accidents can occur in all types of buildings, even three-dimensional (3D) printed concrete structures. The 3D printed concrete exhibits increased susceptibility to interlayer delamination under high temperatures, a critical vulnerability that can undermine structural integrity. The behavior of 3D printed concrete walls under such conditions, however, has not yet been thoroughly investigated. Therefore, in this study, two patterns of large-scale wall specimens were constructed and exposed to temperatures of approximately 1,200°C for 4 h to monitor their behavior and determine the most effective pattern ofa 3D printed wall in a fire scenario. All wall specimens remained standing without failure, collapse, or fire penetration through cracks after heating. The inner truss of the wall mitigated the temperature gradient to the unexposed surface, where temperature reached 100°C. Finite-element analysis results revealed that vertical and horizontal cracking occurred due to thermal tensile stress exceeding the tensile strength of material. However, horizontal cracking was primarily due to delamination between interlayers in certain areas of the unexposed surface. This partial detachment facilitated the vaporization of internal moisture and prevented spalling and explosion ofthe surface during heating.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -82,7 +62,37 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{daun_phei_pans.2025.Bo3PCWEtHT,
+      author            = "Totsawat Daungwilailuk and Phoonsak Pheinsusom and Withit Pansuk",
+      title             = "Behavior of 3D Printed Concrete Walls Exposed to High Temperatures",
+      doi               = "10.1061/jaeied.aeeng-2107",
+      year              = "2025",
+      journal           = "Journal of Architectural Engineering",
+      volume            = "31",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Daungwilailuk, P. Pheinsusom and W. Pansuk, “Behavior of 3D Printed Concrete Walls Exposed to High Temperatures”, <i>Journal of Architectural Engineering</i>, vol. 31, no. 4, 2025, doi: 10.1061/jaeied.aeeng-2107.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Daungwilailuk, Totsawat, Phoonsak Pheinsusom, and Withit Pansuk. “Behavior of 3D Printed Concrete Walls Exposed to High Temperatures”. <i>Journal of Architectural Engineering</i> 31, no. 4 (2025). https://doi.org/10.1061/jaeied.aeeng-2107.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Claudia Eugenin, Iván Navarrete, Wernher Brevis, Mauricio Lopez
+    - footer
+title: Eugenin Claudia, Navarrete Iván, Brevis Wernher, Lopez Mauricio
 description:
 tags:
  - admixture
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831532) Air-Bubbles as an Admixture for Printable Concrete:<br/>:aca-blank: A Review of the Rheological Effect of Entrained Air ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1089/3dp.2020.0302" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1089/3dp.2020.0302</a>
+#Air-Bubbles as an Admixture for Printable Concrete&nbsp;([2022-02](date/2022/02))
+<div class="h1-like">A Review of the Rheological Effect of Entrained Air</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831532) <a href="https://doi.org/10.1089/3dp.2020.0302" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0302" target="_blank">10.1089/3dp.2020.0302</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-3820-8783" title="ORCID: 0009-0009-3820-8783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/eugenin_claudia"><b>Eugenin</b>&nbsp;Claudia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7900" title="ORCID: 0000-0002-2918-7900" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/navarrete_ivan"><b>Navarrete</b>&nbsp;Iván</a></span>, <a href="../../../author/brevis_wernher"><b>Brevis</b>&nbsp;Wernher</a></span>, <a href="../../../author/lopez_mauricio"><b>Lopez</b>&nbsp;Mauricio</a></span><br>
+Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 1, pp. 64-80
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/eugenin_claudia"><b>Eugenin</b> Claudia</a> <a href="https://orcid.org/0009-0009-3820-8783" title="ORCID: 0009-0009-3820-8783" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> <a href="https://orcid.org/0000-0002-2918-7900" title="ORCID: 0000-0002-2918-7900" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brevis_wernher"><b>Brevis</b> Wernher</a>
-,     <a href="../../../author/lopez_mauricio"><b>Lopez</b> Mauricio</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 1, pp. 64-80
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#air`](keyword/air)
-    [`#bubble`](keyword/bubble)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#entrainment`](keyword/entrainment)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/bubble"><button class="btn">#bubble</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Air-Bubbles%20as%20an%20Admixture%20for%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124885995&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3164743899" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1089/3dp.2020.0302" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1089/3dp.2020.0302?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article presents a review of the current solutions for the rheological challenge of three-dimensional concrete printing (3DCP), providing a rheological definition for printability, and an overview of the current techniques for obtaining a printable concrete, placing special emphasis on understanding structural build-up and the current mixture proportions and admixtures used to improve it. A promising alternative for improving structural build-up is the use of entrained air (EA), as bubbles, whose effects are reviewed in generic yield stress fluids and then specifically in concrete. After revision of micromechanical models and experimental trials from literature on yield stress fluid bubble suspensions and concrete, EA appears to be ideal for 3DCP when generated by anionic surfactants, as it increases static yield stress and decreases plastic viscosity. Cationic surfactants, however, maintain or slightly decrease static yield stress. It is proposed that the lubricating or stiffening property of the bubbles determines their ability to deform under the shear stress generated by the surrounding fluid. The ability to deform depends on the surfactant used to entrain the bubbles and the mixture design of the concrete. Further experimental research must be carried out for the advantages of EA to be fully realized.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../bent_jone_bent_pelt.2019.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -108,7 +86,6 @@ tags:
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a>, <a href="../../../author/barna_a_lynette"><b>Barna</b> Lynette</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../rush_styn_barn_chaa.2019.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
-      <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/hamill_gerard"><b>Hamill</b> Gerard</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sone_kaus_amzi_hami.2025.OoRaHPo3CP/">Optimization of Rheological and Hardened Properties of 3D Concrete Printing</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../szab_reit_llor_gram.2020.MYSEaFFfSDC/">Mastering Yield-Stress-Evolution and Formwork-Friction for Smart Dynamic Casting</a></li>
@@ -123,8 +100,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../givk_mood_rame.2024.EoPPotPo3PCCAEA/">Effect of Pumping Process on the Properties of 3D Printed Concrete Containing Air-Entraining-Agent</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b> Mohammad</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../givk_tohi.2024.TEoFTCaSAASotCSaMo3PAEC/">The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete</a></li>
       <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/chauhan_harshitsinh"><b>Chauhan</b> Harshitsinh</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../trip_nair_chau_neit.2024.PGAaLStEMPoPaFRTDPC/">Print Geometry Alterations and Layer-Staggering to Enhance Mechanical Properties of Plain and Fiber-Reinforced Three-Dimensional-Printed Concrete</a></li>
@@ -135,4 +112,35 @@ tags:
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
       <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/ma_ji"><b>Ma</b> Ji</a>, <a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kili_ma_baha_ozbu.2023.EoVMAaNCoFaRVPaPCoCC/">Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{euge_nava_brev_lope.2022.ABaaAfPC,
+      author            = "Claudia Eugenin and Iván Navarrete and Wernher Brevis and Mauricio Lopez",
+      title             = "Air-Bubbles as an Admixture for Printable Concrete: A Review of the Rheological Effect of Entrained Air",
+      doi               = "10.1089/3dp.2020.0302",
+      year              = "2022",
+      journal           = "3D Printing and Additive Manufacturing",
+      volume            = "9",
+      number            = "1",
+      pages             = "64--80",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Eugenin, I. Navarrete, W. Brevis and M. Lopez, “Air-Bubbles as an Admixture for Printable Concrete: A Review of the Rheological Effect of Entrained Air”, <i>3D Printing and Additive Manufacturing</i>, vol. 9, no. 1, pp. 64–80, 2022, doi: 10.1089/3dp.2020.0302.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Eugenin, Claudia, Iván Navarrete, Wernher Brevis, and Mauricio Lopez. “Air-Bubbles as an Admixture for Printable Concrete: A Review of the Rheological Effect of Entrained Air”. <i>3D Printing and Additive Manufacturing</i> 9, no. 1 (2022): 64–80. https://doi.org/10.1089/3dp.2020.0302.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

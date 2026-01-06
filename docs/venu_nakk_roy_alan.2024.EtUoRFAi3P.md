@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: P. Venugopal Reddy, G. Nakkeeran, Dipankar Roy, George Alaneme
+    - footer
+title: Venugopal Reddy P., Nakkeeran G., Roy Dipankar, Alaneme George
 description:
 tags:
  - aggregate
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1007/s42452-024-06358-3) Evaluating the Use of Recycled Fine Aggregates in 3D Printing:<br/>:aca-blank: A Systematic Review ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1007/s42452-024-06358-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s42452-024-06358-3</a>
+#Evaluating the Use of Recycled Fine Aggregates in 3D Printing&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">A Systematic Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s42452-024-06358-3) <a href="https://doi.org/10.1007/s42452-024-06358-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42452-024-06358-3" target="_blank">10.1007/s42452-024-06358-3</a>
 
--------------------------
+<a href="../../../author/venugopal-reddy_p"><b>Venugopal Reddy</b>&nbsp;P.</a></span>, <a href="../../../author/nakkeeran_g"><b>Nakkeeran</b>&nbsp;G.</a></span>, <a href="../../../author/roy_dipankar"><b>Roy</b>&nbsp;Dipankar</a></span>, <a href="../../../author/alaneme_uwadiegwu_george"><b>Alaneme</b>&nbsp;George</a></span><br>
+Journal Article - Discover Applied Sciences, Vol. 6, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/venugopal-reddy_p"><b>Venugopal Reddy</b> P.</a>
-,     <a href="../../../author/nakkeeran_g"><b>Nakkeeran</b> G.</a>
-,     <a href="../../../author/roy_dipankar"><b>Roy</b> Dipankar</a>
-,     <a href="../../../author/alaneme_uwadiegwu_george"><b>Alaneme</b> George</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Discover Applied Sciences, Vol. 6, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#evaluation`](keyword/evaluation)
-    [`#fine`](keyword/fine)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20the%20Use%20of%20Recycled%20Fine%20Aggregates%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209714841&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404584261" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s42452-024-06358-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s42452-024-06358-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study addresses environmental concerns related to construction and demolition waste (CDW), which constitutes 35–40% of global waste. It explores the potential use of recycled fine aggregates (RFA) from concrete demolition waste as a sustainable alternative to natural fine aggregates in 3D printed mortar (3DPM). By conducting a systematic literature review (SLR) and utilizing VOSviewer for bibliometric analysis, the research assesses the mechanical properties, flowability, extrudability, and buildability of RFAs in 3DPM. The analysis also highlights key trends in keywords and research distribution across different countries. The findings reveal that while RFAs in 3DPM slightly reduce compressive and flexural strengths compared to natural aggregates, they significantly contribute to environmental sustainability by reducing landfill waste and conserving natural resources. The study underscores the importance of further research to optimize RFA-based mixtures for wider application in 3D printing technologies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "60 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
@@ -128,10 +107,40 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/lamb_bannon"><b>Lamb</b> Bannon</a>, <a href="../../../author/sabih_gauhar"><b>Sabih</b> Gauhar</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lamb_sabi.2025.Ai3CPM/">Advancements in 3D Concrete Printing Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{venu_nakk_roy_alan.2024.EtUoRFAi3P,
+      author            = "P. Venugopal Reddy and G. Nakkeeran and Dipankar Roy and George Uwadiegwu Alaneme",
+      title             = "Evaluating the Use of Recycled Fine Aggregates in 3D Printing: A Systematic Review",
+      doi               = "10.1007/s42452-024-06358-3",
+      year              = "2024",
+      journal           = "Discover Applied Sciences",
+      volume            = "6",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. V. Reddy, G. Nakkeeran, D. Roy and G. U. Alaneme, “Evaluating the Use of Recycled Fine Aggregates in 3D Printing: A Systematic Review”, <i>Discover Applied Sciences</i>, vol. 6, no. 12, 2024, doi: 10.1007/s42452-024-06358-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Reddy, P. Venugopal, G. Nakkeeran, Dipankar Roy, and George Uwadiegwu Alaneme. “Evaluating the Use of Recycled Fine Aggregates in 3D Printing: A Systematic Review”. <i>Discover Applied Sciences</i> 6, no. 12 (2024). https://doi.org/10.1007/s42452-024-06358-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

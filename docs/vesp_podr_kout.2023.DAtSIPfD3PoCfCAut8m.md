@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnošt Vespalec, Jan Podroužek, Daniel Koutný
+    - footer
+title: Vespalec Arnošt, Podroužek Jan, Koutný Daniel
 description:
 tags:
  - aggregate
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/9/3418/pdf?version=1682646098) DoE Approach to Setting Input Parameters for Digital 3D Printing of Concrete for Coarse Aggregates up to 8 mm ([2023-04](date/2023/04))
-<a href="https://doi.org/10.3390/ma16093418" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16093418</a>
+#DoE Approach to Setting Input Parameters for Digital 3D Printing of Concrete for Coarse Aggregates up to 8 mm ([2023-04](date/2023/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/9/3418/pdf?version=1682646098) <a href="https://doi.org/10.3390/ma16093418" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16093418" target="_blank">10.3390/ma16093418</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8415-4346" title="ORCID: 0000-0001-8415-4346" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vespalec_arnost"><b>Vespalec</b>&nbsp;Arnošt</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0493-5922" title="ORCID: 0000-0003-0493-5922" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/podrouzek_jan"><b>Podroužek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5384-8668" title="ORCID: 0000-0002-5384-8668" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koutny_daniel"><b>Koutný</b>&nbsp;Daniel</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vespalec_arnost"><b>Vespalec</b> Arnošt</a> <a href="https://orcid.org/0000-0001-8415-4346" title="ORCID: 0000-0001-8415-4346" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/podrouzek_jan"><b>Podroužek</b> Jan</a> <a href="https://orcid.org/0000-0003-0493-5922" title="ORCID: 0000-0003-0493-5922" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koutny_daniel"><b>Koutný</b> Daniel</a> <a href="https://orcid.org/0000-0002-5384-8668" title="ORCID: 0000-0002-5384-8668" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#approach`](keyword/approach)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#setting`](keyword/setting)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=DoE%20Approach%20to%20Setting%20Input%20Parameters%20for%20Digital%203D%20Printing%20of%20Concrete%20for%20Coarse%20Aggregates%20up%20to%208%20mm" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85159367991&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4367317370" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16093418" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16093418?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper is primarily concerned with determining and assessing the properties of a cement-based composite material containing large particles of aggregate in digital manufacturing. The motivation is that mixtures with larger aggregate sizes offer benefits such as increased resistance to cracking, savings in other material components (such as Portland cement), and ultimately cost savings. Consequently, in the context of 3D Construction/Concrete Print technology (3DCP), these materials are environmentally friendly, unlike the fine-grained mixtures previously utilized. Prior to printing, these limits must be established within the virtual environment's process parameters in order to reduce the amount of waste produced. This study extends the existing research in the field of large-scale 3DCP by employing coarse aggregate (crushed coarse river stone) with a maximum particle size of 8 mm. The research focuses on inverse material characterization, with the primary goal of determining the optimal combination of three monitored process parameters-print speed, extrusion height, and extrusion width-that will maximize buildability. Design Of Experiment was used to cover all possible variations and reduce the number of required simulations. In particular, the Box-Behnken method was used for three factors and a central point. As a result, thirteen combinations of process parameters covering the area of interest were determined. Thirteen numerical simulations were conducted using the Abaqus software, and the outcomes were discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -109,11 +88,41 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a>, <a href="../../../author/li_ziang"><b>Li</b> Ziang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_han_yang_li.2025.OPaRPf3PwCM/">Optimizing Printing and Rheological Parameters for 3D Printing with Cementitious Materials</a></li>
       <li><a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../negr_krei_krei.2024.DoPSBotFMSoToACCbUC/">Determination of Print Speed Based on the Fresh Mechanical Strength over Time of Additively Constructed Concrete by Unconfined Compression</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vesp_podr_kout.2023.DAtSIPfD3PoCfCAut8m,
+      author            = "Arnošt Vespalec and Jan Podroužek and Daniel Koutný",
+      title             = "DoE Approach to Setting Input Parameters for Digital 3D Printing of Concrete for Coarse Aggregates up to 8 mm",
+      doi               = "10.3390/ma16093418",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Vespalec, J. Podroužek and D. Koutný, “DoE Approach to Setting Input Parameters for Digital 3D Printing of Concrete for Coarse Aggregates up to 8 mm”, <i>Materials</i>, vol. 16, no. 9, 2023, doi: 10.3390/ma16093418.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vespalec, Arnošt, Jan Podroužek, and Daniel Koutný. “DoE Approach to Setting Input Parameters for Digital 3D Printing of Concrete for Coarse Aggregates up to 8 Mm”. <i>Materials</i> 16, no. 9 (2023). https://doi.org/10.3390/ma16093418.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

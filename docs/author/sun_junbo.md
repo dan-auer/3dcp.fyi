@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,9 @@ search:
 
 #  Sun Junbo 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
+  <li><a href="../../../author/zhang_genbao"><b>Zhang</b> Genbao</a>, <a href="../../../author/chen_lingke"><b>Chen</b> Lingke</a>, <a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/morsy_m_amr"><b>Morsy</b> Amr</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhan_chen_liu_mors.2025.EtSPoUSSWMR3PC/">Enhancing the Shear Properties of U-Shaped Steel Wire Mesh Reinforced 3D Printed Composites</a></li>
   <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_sun_chen_liu.2025.3PCwRMI/">3D Printed Concrete with Red Mud Incorporation:<br/>Influence of Red Mud Manufacturing Procedures on Mechanical Properties at Elevated Temperatures</a></li>
   <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_sun_wang_huan.2025.EaEEoaP3PSUURAfCaDW/">Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste:<br/>A Case Study in China</a></li>
   <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/mann_dhruv"><b>Mann</b> Dhruv</a>, <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sun_asla_mann_huan.2025.MaPBo3PSSOWCS/">Mechanical and Piezoresistive Behaviour of 3D Printed Self-Sensing One-Way Concrete Slab</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Azamat Mustafa, Florian Storch, Kairov Rustem, Paul Plashnik, Frank Will, Sagyntai Mukhagali, Zhumadil Baigunchekov, Volker Waurich
+    - footer
+title: Mustafa Azamat, Storch Florian, Rustem Kairov, Plashnik Paul, Will Frank, Mukhagali Sagyntai, Baigunchekov Zhumadil, Waurich Volker
 description:
 tags:
  - base
@@ -13,33 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Compensation Manipulator for Concrete 3D Printing Based on the CONPrint3D ([2024-04](date/2024/04))
-<a href="https://doi.org/10.30919/esmm1127" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.30919/esmm1127</a>
+#Compensation Manipulator for Concrete 3D Printing Based on the CONPrint3D ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.30919/esmm1127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.30919/esmm1127" target="_blank">10.30919/esmm1127</a>
 
--------------------------
+<a href="../../../author/mustafa_azamat"><b>Mustafa</b>&nbsp;Azamat</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2559-908X" title="ORCID: 0009-0007-2559-908X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/storch_florian"><b>Storch</b>&nbsp;Florian</a></span>, <a href="../../../author/rustem_kairov"><b>Rustem</b>&nbsp;Kairov</a></span>, <a href="../../../author/plashnik_paul"><b>Plashnik</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9168-0835" title="ORCID: 0000-0002-9168-0835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/will_frank"><b>Will</b>&nbsp;Frank</a></span>, <a href="../../../author/mukhagali_sagyntai"><b>Mukhagali</b>&nbsp;Sagyntai</a></span>, <a href="../../../author/baigunchekov_zhumadil"><b>Baigunchekov</b>&nbsp;Zhumadil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1886-2824" title="ORCID: 0000-0003-1886-2824" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/waurich_volker"><b>Waurich</b>&nbsp;Volker</a></span><br>
+Journal Article - ES Materials & Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>
-,     <a href="../../../author/storch_florian"><b>Storch</b> Florian</a> <a href="https://orcid.org/0009-0007-2559-908X" title="ORCID: 0009-0007-2559-908X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rustem_kairov"><b>Rustem</b> Kairov</a>
-,     <a href="../../../author/plashnik_paul"><b>Plashnik</b> Paul</a>
-,     <a href="../../../author/will_frank"><b>Will</b> Frank</a> <a href="https://orcid.org/0000-0002-9168-0835" title="ORCID: 0000-0002-9168-0835" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mukhagali_sagyntai"><b>Mukhagali</b> Sagyntai</a>
-,     <a href="../../../author/baigunchekov_zhumadil"><b>Baigunchekov</b> Zhumadil</a>
-,     <a href="../../../author/waurich_volker"><b>Waurich</b> Volker</a> <a href="https://orcid.org/0000-0003-1886-2824" title="ORCID: 0000-0003-1886-2824" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ES Materials & Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#compensation`](keyword/compensation)
-    [`#concrete`](keyword/concrete)
-    [`#manipulator`](keyword/manipulator)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/compensation"><button class="btn">#compensation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manipulator"><button class="btn">#manipulator</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Compensation%20Manipulator%20for%20Concrete%203D%20Printing%20Based%20on%20the%20CONPrint3D" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195027508&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394977116" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.30919/esmm1127" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.30919/esmm1127?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     According to the CONPrint3D concepts, in order to improve the reliability of machine technology and expand the scope of 3D concrete printing, the printing system will be integrated into the truck-mounted concrete pump, which has the problem of insufficient positioning accuracy of the printhead. This article discusses a manipulator for compensation and positioning of the printhead from deflections of the boom of a truck-mounted concrete pump used as a construction 3D printing manipulator. The manipulator must compensate for the workspace X ±300, Y ±300, Z ±250x mm (X – length, Y – width, Z – height). To solve these problems, a comprehensive literature review of manipulators (serial, parallel, and hybrid) was carried out. Manipulators were sorted according to several criteria: degree of freedom, number of actuators, leg designs; and workspace and overall dimensions. Inverse kinematic problems are solved to determine the workspace and dimensions of the manipulators. Clavel's delta robot was selected among the manipulators, and the direct and inverse kinematics problems were solved. To understand and predict the behavior of Clavel's delta robot, a virtual experiment was made using dynamic modeling with the OpenModelica program.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -83,8 +60,35 @@ tags:
       <li><a href="../../../author/tobi_l-mohd_a"><b>Tobi</b> A.</a>, <a href="../../../author/omar_a_s"><b>Omar</b> S.</a>, <a href="../../../author/yehia_z"><b>Yehia</b> Z.</a>, <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b> S.</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../tobi_omar_yehi_alo.2018.CVo3PHiU/">Cost Viability of 3D Printed House in UK</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{must_stor_rust_plas.2024.CMfC3PBotC,
+      author            = "Azamat Mustafa and Florian Storch and Kairov Rustem and Paul Plashnik and Frank Will and Sagyntai Mukhagali and Zhumadil Baigunchekov and Volker Waurich",
+      title             = "Compensation Manipulator for Concrete 3D Printing Based on the CONPrint3D",
+      doi               = "10.30919/esmm1127",
+      year              = "2024",
+      journal           = "ES Materials & Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Mustafa, “Compensation Manipulator for Concrete 3D Printing Based on the CONPrint3D”, <i>ES Materials & Manufacturing</i>, 2024, doi: 10.30919/esmm1127.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mustafa, Azamat, Florian Storch, Kairov Rustem, Paul Plashnik, Frank Will, Sagyntai Mukhagali, Zhumadil Baigunchekov, and Volker Waurich. “Compensation Manipulator for Concrete 3D Printing Based on the CONPrint3D”. <i>ES Materials & Manufacturing</i>, 2024. https://doi.org/10.30919/esmm1127.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

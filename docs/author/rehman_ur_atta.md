@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Rehman Atta 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/fakhrayee-nejad_siamak"><b>Fakhrayee Nejad</b> Siamak</a>, <a href="../../../author/ng_serina"><b>Ng</b> Serina</a>, <a href="../../../author/bose_baishakhi"><b>Bose</b> Baishakhi</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mikh_fakh_ng_bose.2024.PIaAiCP/">Practical Insights and Advances in Concrete Pumping</a></li>
   <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_manmin"><b>Kang</b> Manmin</a>, <a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/choi_kichang"><b>Choi</b> Kichang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rehm_kang_bash_choi.2024.KCToC/">Knife-Cut-Test of Concrete:<br/>The Introduction of a New Test-Method for Measurement of the Structural Build-Up of 3D Concrete Printing-Materials</a></li>
   <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rehm_kang_kim.2024.NISST/">Nozzle-Integrated Slump-Scanner-Test:<br/>Development of an Automated Shape-Stability and Instantaneous Yield-Stress-Measurement-Method for the Set-on-Demand 3D Concrete Printing</a></li>

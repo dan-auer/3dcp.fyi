@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongping Zhang, Shuni Duan, Qi Han, Qiangqiang He, Ziteng Shi, Lan Liu, Shuwei Qu
+    - footer
+title: Zhang Hongping, Duan Shuni, Han Qi, He Qiangqiang, Shi Ziteng, Liu Lan, Qu Shuwei
 description:
 tags:
  - aggregate
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Strength and Proportioning Design of 3D Printed Concrete (3DPC) Based on Aggregate-Gradation-Optimization ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1007/s11837-024-06461-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11837-024-06461-1</a>
+#Strength and Proportioning Design of 3D Printed Concrete (3DPC) Based on Aggregate-Gradation-Optimization ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11837-024-06461-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11837-024-06461-1" target="_blank">10.1007/s11837-024-06461-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9799-6374" title="ORCID: 0000-0001-9799-6374" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hongping"><b>Zhang</b>&nbsp;Hongping</a></span>, <a href="../../../author/duan_shuni"><b>Duan</b>&nbsp;Shuni</a></span>, <a href="../../../author/han_qi"><b>Han</b>&nbsp;Qi</a></span>, <a href="../../../author/he_qiangqiang"><b>He</b>&nbsp;Qiangqiang</a></span>, <a href="../../../author/shi_ziteng"><b>Shi</b>&nbsp;Ziteng</a></span>, <a href="../../../author/liu_lan"><b>Liu</b>&nbsp;Lan</a></span>, <a href="../../../author/qu_shuwei"><b>Qu</b>&nbsp;Shuwei</a></span><br>
+Journal Article - Journal of The Minerals, Metals & Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a> <a href="https://orcid.org/0000-0001-9799-6374" title="ORCID: 0000-0001-9799-6374" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duan_shuni"><b>Duan</b> Shuni</a>
-,     <a href="../../../author/han_qi"><b>Han</b> Qi</a>
-,     <a href="../../../author/he_qiangqiang"><b>He</b> Qiangqiang</a>
-,     <a href="../../../author/shi_ziteng"><b>Shi</b> Ziteng</a>
-,     <a href="../../../author/liu_lan"><b>Liu</b> Lan</a>
-,     <a href="../../../author/qu_shuwei"><b>Qu</b> Shuwei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of The Minerals, Metals & Materials, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#grade`](keyword/grade)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strength%20and%20Proportioning%20Design%20of%203D%20Printed%20Concrete%20%283DPC%29%20Based%20on%20Aggregate-Gradation-Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189017585&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393201039" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11837-024-06461-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11837-024-06461-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The inadequate bonding between the layers in 3D printing generally leads to lower resulting concrete strength. In this study, the optimal match between aggregates was theoretically determined using the experimental method of minimum voids based on the surplus coefficient of paste and experimentally validated. The effect of the slurry ratio on the characterization was also analyzed. The concrete strength after printing was tested by cutting different segments of the printed component. The results show that the gradation optimization of 3D-printed concrete aggregate can be realized according to the minimum porosity method. The minimum porosity is 40.7%. The optimal proportion of 1.18:2.36 mm:0.6–1.18 mm:0.3–0.6 mm is 055:0.248:0.202 for quartz sand, and the optimal sand cement ratio is 1.7. The resulting concrete ratio meets the characterization requirements of 3D-printed concrete. The 28d strength is 81.9 MPa before printing and 60.4 MPa after printing; the strength loss is 26.3%. The hydration, hardening mechanism and microstructure were studied through XRD and SEM. The composition features of hydration products and microstructure characteristic were discovered. The fundamental reason why the concrete has higher mechanical properties under the 3D printing process is explored from the static dense packing filling effect of the compound system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../he_zhan_zhan_zhou.2020.ESPo3PCBwILW/">Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall</a></li>
@@ -95,8 +70,36 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/cheng_zhi"><b>Cheng</b> Zhi</a>, <a href="../../../author/zhao_zhiyi"><b>Zhao</b> Zhiyi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhan_liu_chen_zhao.2022.EoLMPoSo3PCCBM/">Effect of Layering Molding Process on Strength of 3D Printed Composite Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a>, <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>, <a href="../../../author/ramahi_siraj"><b>Ramahi</b> Siraj</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../irsh_cabi_fadl_rama.2024.WMUi3PCfSCA/">Waste Materials Utilization in 3D Printable Concrete for Sustainable Construction Applications:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_duan_han_he.2024.SaPDo3PC3BoAGO,
+      author            = "Hongping Zhang and Shuni Duan and Qi Han and Qiangqiang He and Ziteng Shi and Lan Liu and Shuwei Qu",
+      title             = "Strength and Proportioning Design of 3D Printed Concrete (3DPC) Based on Aggregate-Gradation-Optimization",
+      doi               = "10.1007/s11837-024-06461-1",
+      year              = "2024",
+      journal           = "Journal of The Minerals, Metals & Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhang, “Strength and Proportioning Design of 3D Printed Concrete (3DPC) Based on Aggregate-Gradation-Optimization”, <i>Journal of The Minerals, Metals & Materials</i>, 2024, doi: 10.1007/s11837-024-06461-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Hongping, Shuni Duan, Qi Han, Qiangqiang He, Ziteng Shi, Lan Liu, and Shuwei Qu. “Strength and Proportioning Design of 3D Printed Concrete (3DPC) Based on Aggregate-Gradation-Optimization”. <i>Journal of The Minerals, Metals & Materials</i>, 2024. https://doi.org/10.1007/s11837-024-06461-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

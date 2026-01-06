@@ -8,7 +8,7 @@ search:
 
 # #path
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../klof.2025.DBFTPTtUoMPaF/">Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form:<br/>A Personal Reflection from Research and Practice</a></li>
   <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/zhou_yubao"><b>Zhou</b> Yubao</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../naka_zhou_hash_sugi.2025.AEMoFBo3PCwDPP/">Acoustic Emission Monitoring of Fracture Behaviour of 3D Printed Concrete with Different Printing Paths</a></li>
   <li><a href="../../../author/ye_fan"><b>Ye</b> Fan</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ye_ren.2026.AECBRLPOMf3CP/">A Eulerian Circuit-Based Reinforcement Learning Path Optimization Method for 3D Concrete Printing</a></li>

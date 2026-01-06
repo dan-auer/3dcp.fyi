@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qifeng Lyu, Pengfei Dai, Anguo Chen
+    - footer
+title: Lyu Qifeng, Dai Pengfei, Chen Anguo
 description:
 tags:
  - concrete
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Strengths and Optical Properties of Translucent Concrete Manufactured by Mortar-Extrusion 3D Printing with Polymethyl-Methacrylate Fibers ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.compositesb.2023.111079" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2023.111079</a>
+#Mechanical Strengths and Optical Properties of Translucent Concrete Manufactured by Mortar-Extrusion 3D Printing with Polymethyl-Methacrylate Fibers ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2023.111079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2023.111079" target="_blank">10.1016/j.compositesb.2023.111079</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_qifeng"><b>Lyu</b>&nbsp;Qifeng</a></span>, <a href="../../../author/dai_pengfei"><b>Dai</b>&nbsp;Pengfei</a></span>, <a href="../../../author/chen_anguo"><b>Chen</b>&nbsp;Anguo</a></span><br>
+Journal Article - Composites Part B: Engineering, Vol. 268, No. 111079
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>
-,     <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, Vol. 268, No. 111079
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#optics`](keyword/optics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#strength`](keyword/strength)
-    [`#translucent`](keyword/translucent)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/optics"><button class="btn">#optics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/translucent"><button class="btn">#translucent</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Strengths%20and%20Optical%20Properties%20of%20Translucent%20Concrete%20Manufactured%20by%20Mortar-Extrusion%203D%20Printing%20with%20Polymethyl-Methacrylate%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175088472&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387953157" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2023.111079" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2023.111079?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Manufacturing conventional translucent concrete consumes lots of labors and formworks. To solve this problem, novel translucent concrete was proposed and manufactured in this work by mortar-extrusion 3D printing, which used polymethyl methacrylate (PMMA) fibers to transmit light and also reinforce the printed concrete. The printing procedures started by extruding one-layer mortar first, and then the fibers were placed on top the printed mortar. Afterward, repeated the above two steps multiple times. The printability, mechanical strengths, optical properties and micro characteristics of the printed translucent concrete were tested. Results showed the fibers increased the buildability and anisotropy of the printed specimens. Specifically, in comparison with the printed specimens without fibers, the flexural strengths of the printed translucent concrete with fibers increased when loading perpendicular to the fiber orientation, whereas those in other loading directions decreased. The fibers also increased the compressive strengths of the printed specimens when loading perpendicular to the fiber orientation, but decreased those in loading parallel to the fiber orientation. Light transmittance of the fibers in the printed translucent concrete was also studied. Results showed reflection coefficients of concrete, fiber diameters, light incident angles influenced the light transmittance. Generally, the light transmittance increased with the reflection coefficients and fiber diameters but decreased with the light incident angles. And the incident angles, which were affected by the printing quality, influenced the light transmittance more than other two factors did. The results and methods in this work can help to increase the efficiency of manufacturing translucent concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../cao_yu_wu_cui.2023.ESoHMoPaCiPtR3PC/">Experimental Study of Hybrid Manufacture of Printing and Cast-in-Process to Reinforce 3D Printed Concrete</a></li>
@@ -112,8 +88,8 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yu_sanj_du.2022.EoCMCoAB3CP/">Effects of Cement Mortar Characteristics on Aggregate-Bed 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/motiani_ronak"><b>Motiani</b> Ronak</a>, <a href="../../../author/sylvain_keunang_saha"><b>Sylvain</b> Saha</a>, <a href="../../../author/dalal_p_sejal"><b>Dalal</b> Sejal</a>, <a href="../../../author/vora_jay"><b>Vora</b> Jay</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../moti_sylv_dala_vora.2025.IRTf3PC/">Innovative Reinforcement Techniques for 3D-Printed Concrete:<br/>The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
@@ -127,4 +103,34 @@ tags:
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>, <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dai_lyu_zong_zhu.2024.EoWPFotPaMPo3PCM/">Effect of Waste-Plastic-Fibers on the Printability and Mechanical Properties of 3D Printed Cement Mortar</a></li>
       <li><a href="../../../author/lucen_hao"><b>Lucen</b> Hao</a>, <a href="../../../author/long_li"><b>Long</b> Li</a>, <a href="../../../author/shipeng_zhang"><b>Shipeng</b> Zhang</a>, <a href="../../../author/huanghua_zhang"><b>Huanghua</b> Zhang</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../luce_long_ship_huan.2023.TSEoGGCaSFotPo3PM/">The Synergistic Effect of Greenhouse Gas CO2 and Silica-Fume on the Properties of 3D Printed Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lyu_dai_chen.2024.MSaOPoTCMbME3PwPMF,
+      author            = "Qifeng Lyu and Pengfei Dai and Anguo Chen",
+      title             = "Mechanical Strengths and Optical Properties of Translucent Concrete Manufactured by Mortar-Extrusion 3D Printing with Polymethyl-Methacrylate Fibers",
+      doi               = "10.1016/j.compositesb.2023.111079",
+      year              = "2024",
+      journal           = "Composites Part B: Engineering",
+      volume            = "268",
+      pages             = "111079",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Lyu, P. Dai and A. Chen, “Mechanical Strengths and Optical Properties of Translucent Concrete Manufactured by Mortar-Extrusion 3D Printing with Polymethyl-Methacrylate Fibers”, <i>Composites Part B: Engineering</i>, vol. 268, p. 111079, 2024, doi: 10.1016/j.compositesb.2023.111079.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lyu, Qifeng, Pengfei Dai, and Anguo Chen. “Mechanical Strengths and Optical Properties of Translucent Concrete Manufactured by Mortar-Extrusion 3D Printing with Polymethyl-Methacrylate Fibers”. <i>Composites Part B: Engineering</i> 268 (2024): 111079. https://doi.org/10.1016/j.compositesb.2023.111079.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marco Giulivo, Vittorio Capozzi, Costantino Menna
+    - footer
+title: Giulivo Marco, Capozzi Vittorio, Menna Costantino
 description:
 tags:
  - analysis
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.engstruct.2025.121516" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.121516</a>
+#Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.121516" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121516" target="_blank">10.1016/j.engstruct.2025.121516</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-2542-3348" title="ORCID: 0009-0008-2542-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giulivo_marco"><b>Giulivo</b>&nbsp;Marco</a></span>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b>&nbsp;Vittorio</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menna_costantino"><b>Menna</b>&nbsp;Costantino</a></span><br>
+Journal Article - Engineering Structures, Vol. 345, No. 121516
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a> <a href="https://orcid.org/0009-0008-2542-3348" title="ORCID: 0009-0008-2542-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>
-,     <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 345, No. 121516
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#assessment`](keyword/assessment)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#experiment`](keyword/experiment)
-    [`#load`](keyword/load)
-    [`#plane`](keyword/plane)
-    [`#print`](keyword/print)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/plane"><button class="btn">#plane</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20and%20Analytical%20Assessment%20of%20the%20in-Plane%20Behaviour%20of%203D%20Printed%20Concrete%20Walls%20Subjected%20to%20Cyclic%20Loads" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020423981&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415216353" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.121516" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.121516?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) has the potential to have a significant impact on the construction industry due to its wide versatility of application and design optimization. From the structural engineering point of view, mostly regular geometries have been adopted so far in demonstration projects, often with the shape of 3D printed load bearing (reinforced or not) walls. The study assesses the structural behaviour of full-scale 3D-printed concrete walls subjected to in-plane cyclic tests. Two different wall configurations are examined: one with a prefabricated steel base anchorage, and the other with a traditional cast-in-place base anchorage using steel rebars. Both configurations simulate fixed constraints by integrating anchor elements or rebars. The printing processes also differ, with prefabricated elements integrated into the printing path in one configuration and anchorage bars incorporated during assembly in the other. The results of the cyclic tests showed distinct force-displacement behaviours for both configurations, with three stages observed: elastic, yielding up to peak of capacity, and ultimate failure. A detailed analysis of the crack patterns revealed varied damage propagation influenced by the complexity of the layered structure associated to the printing process and base connection method. The study also develops an analytical interpretation, considering an equivalent bilinear capacity curve and classic failure mechanisms of masonry such as flexural-compression, shear, and diagonal tension.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../aram_cald_puen.2022.3PEotCSoCS/">3D Printing Effect on the Compressive Strength of Concrete Structures</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -95,7 +72,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{giul_capo_menn.2025.EaAAotiPBo3PCWStCL,
+      author            = "Marco Giulivo and Vittorio Capozzi and Costantino Menna",
+      title             = "Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads",
+      doi               = "10.1016/j.engstruct.2025.121516",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "345",
+      pages             = "121516",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Giulivo, V. Capozzi and C. Menna, “Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads”, <i>Engineering Structures</i>, vol. 345, p. 121516, 2025, doi: 10.1016/j.engstruct.2025.121516.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Giulivo, Marco, Vittorio Capozzi, and Costantino Menna. “Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads”. <i>Engineering Structures</i> 345 (2025): 121516. https://doi.org/10.1016/j.engstruct.2025.121516.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

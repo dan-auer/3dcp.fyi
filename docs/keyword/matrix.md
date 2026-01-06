@@ -8,7 +8,7 @@ search:
 
 # #matrix
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF/">3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers</a></li>
   <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jacq_perr.2024.HIoOMCWSaaStEBo3PEBMS/">Hygroscopic Insulation of Open Matrix Core Wall System as a Strategy to Enhance Buildability of 3D Printed Earth-Based Materials Structures</a></li>

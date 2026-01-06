@@ -8,7 +8,7 @@ search:
 
 # #stack
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_ziqi"><b>Zhang</b> Ziqi</a>, <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guoa_rongxin"><b>Guoa</b> Rongxin</a>, <a href="../../../author/lin_runsheng"><b>Lin</b> Runsheng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC/">Simulation and Analysis of Material Stacking and Migration Induced by Extrusion Behavior in 3D Printed Concrete</a></li>
   <li><a href="../../../author/wei_ying"><b>Wei</b> Ying</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/chen_ziwei"><b>Chen</b> Ziwei</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wei_han_yu_chen.2024.PIo3CPfStMLS/">Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking</a></li>
   <li><a href="../../../author/wu_dinglue"><b>Wu</b> Dinglue</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zhang_shunxian"><b>Zhang</b> Shunxian</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wu_luo_long_zhan.2024.AC3PwPILBS/">Advancing Construction 3D Printing with Predictive Inter-Layer Bonding Strength:<br/>A Stacking Model Paradigm</a></li>

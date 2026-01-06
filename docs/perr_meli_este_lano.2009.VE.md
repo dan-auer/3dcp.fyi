@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnaud Perrot, Yannick Mélinge, Patrice Estellé, Christophe Lanos
+    - footer
+title: Perrot Arnaud, Mélinge Yannick, Estellé Patrice, Lanos Christophe
 description:
 tags:
  - base
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Vibro-Extrusion:<br/>:aca-blank: A New Forming Process for Cement-Based Materials ([2009-04](date/2009/04))
-<a href="https://doi.org/10.1680/adcr.2008.00030" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/adcr.2008.00030</a>
+#Vibro-Extrusion&nbsp;([2009-04](date/2009/04))
+<div class="h1-like">A New Forming Process for Cement-Based Materials</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/adcr.2008.00030" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/adcr.2008.00030" target="_blank">10.1680/adcr.2008.00030</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <a href="../../../author/melinge_yannick"><b>Mélinge</b>&nbsp;Yannick</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3305-7831" title="ORCID: 0000-0003-3305-7831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/estelle_patrice"><b>Estellé</b>&nbsp;Patrice</a></span>, <a href="../../../author/lanos_christophe"><b>Lanos</b>&nbsp;Christophe</a></span><br>
+Journal Article - Advances in Cement Research, Vol. 21, Iss. 3, pp. 125-133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>
-,     <a href="../../../author/estelle_patrice"><b>Estellé</b> Patrice</a> <a href="https://orcid.org/0000-0003-3305-7831" title="ORCID: 0000-0003-3305-7831" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lanos_christophe"><b>Lanos</b> Christophe</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Cement Research, Vol. 21, Iss. 3, pp. 125-133
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#extrusion`](keyword/extrusion)
-    [`#form`](keyword/form)
-    [`#material`](keyword/material)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Vibro-Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-67649209528&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,20 +37,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2057393117" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/adcr.2008.00030" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/adcr.2008.00030?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion is a common forming process for a wide range of materials (food, polymer, clay, metal), although it is not yet a common way to form cement-based materials on an industrial scale. This is both explained by the heterogeneity (large range of grain size) and the specific rheological behaviour (frictional behaviour due to high solid volume fraction) of such materials. Recent studies have highlighted the predominance of the filtration phenomenon during the extrusion flow of firm cement-based materials. Such a filtration leads to process blockage and prohibits its utilisation in industrial settings. In the present study the introduction of a vibration system to the extruder in order to inprove the extrusion flow was investigated. The effects of such external excitation on the rheological behaviour of a firm extrudible cement-based paste (yield stress reduction without losing retaining shape properties) were examined and some extrusion tests (ram and screw extruders) were performed to show the potential of a vibration/extrusion coupling.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../si_khan_mcna.2025.ACRoRDaPPi3CP/">A Comprehensive Review of Rheological Dynamics and Process Parameters in 3D Concrete Printing</a></li>
@@ -89,4 +70,35 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../perr_rang_nere_mech.2018.EoCBM/">Extrusion of Cement-Based Materials:<br/>An Overview</a></li>
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{perr_meli_este_lano.2009.VE,
+      author            = "Arnaud Perrot and Yannick Mélinge and Patrice Estellé and Christophe Lanos",
+      title             = "Vibro-Extrusion: A New Forming Process for Cement-Based Materials",
+      doi               = "10.1680/adcr.2008.00030",
+      year              = "2009",
+      journal           = "Advances in Cement Research",
+      volume            = "21",
+      number            = "3",
+      pages             = "125--133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Perrot, Y. Mélinge, P. Estellé and C. Lanos, “Vibro-Extrusion: A New Forming Process for Cement-Based Materials”, <i>Advances in Cement Research</i>, vol. 21, no. 3, pp. 125–133, 2009, doi: 10.1680/adcr.2008.00030.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Perrot, Arnaud, Yannick Mélinge, Patrice Estellé, and Christophe Lanos. “Vibro-Extrusion: A New Forming Process for Cement-Based Materials”. <i>Advances in Cement Research</i> 21, no. 3 (2009): 125–33. https://doi.org/10.1680/adcr.2008.00030.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

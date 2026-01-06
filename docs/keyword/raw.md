@@ -8,7 +8,7 @@ search:
 
 # #raw
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/rossetti_pietro"><b>Rossetti</b> Pietro</a>, <a href="../../../author/polidoro_anthony"><b>Polidoro</b> Anthony</a>, <a href="../../../author/rossi_emilio"><b>Rossi</b> Emilio</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sang_ross_poli_ross.2025.SREBAw3PF/">Sustainable Raw-Earth Blocks Achieved with 3D-Printed Formworks:<br/>Parametric Modeling, Prototyping, and Laboratory Testing</a></li>
   <li><a href="../../../author/souza_araujo_eduarda"><b>Souza</b> Eduarda</a>, <a href="../../../author/rodrigues-e-silva_de-kassia_rafaela"><b>Rodrigues e Silva</b> Rafaela</a>, <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../souz_rodr_ribe.2024.OMftIMaRMfA/">Overburden Materials from the Iron Mining as Raw Materials for AAM:<br/>Preliminary Assessment of Mixes for 3D Concrete Printing</a></li>
   <li><a href="../../../author/nashed-kabalan_ola"><b>Nashed Kabalan</b> Ola</a>, <a href="../../../author/ciblac_thierry"><b>Ciblac</b> Thierry</a>, <a href="../../../author/marceau_sandrine"><b>Marceau</b> Sandrine</a>, <a href="../../../author/roy_robert"><b>Roy</b> Robert</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../nash_cibl_marc_roy.2025.ARERf3PA/">Advancing Raw Earth Reinforcement for 3D Printed Architecture:<br/>Durability-Assessment</a></li>

@@ -8,7 +8,7 @@ search:
 
 # #future
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
   <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
   <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_core_tran_fan.2025.3PCC/">3D Printable Cellulose Concrete:<br/>A Review and Pathway to Future Research</a></li>

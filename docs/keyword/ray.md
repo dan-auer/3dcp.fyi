@@ -8,7 +8,7 @@ search:
 
 # #ray
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/chen_weihua"><b>Chen</b> Weihua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_xiao_ding_chen.2025.INDAo3PUMUXRCTaUW/">Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves</a></li>
   <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/hai_hoang"><b>Hai</b> Hoang</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_hai_tran_tran.2025.AMIi3PCMvXRMCT/">Advancing Microstructural Insights in 3D-Printed Cementitious Materials via X-Ray Micro-Computed Tomography</a></li>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/wu_jian"><b>Wu</b> Jian</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_liu_wu_wu.2025.EoXRCCPSotFTRo3PCwRCA/">Effect of X-Ray CT Characterized Pore Structure on the Freeze-Thaw Resistance of 3D Printed Concrete with Recycled Coarse Aggregate</a></li>

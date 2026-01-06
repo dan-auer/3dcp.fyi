@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mei Liu, Huai Wang, Yang Li, Xiulin Li, Peijun Wang, Liming Jiang, Hexin Zhang, Lei Zhang
+    - footer
+title: Liu Mei, Wang Huai, Li Yang, Li Xiulin, Wang Peijun, Jiang Liming, Zhang Hexin, Zhang Lei
 description:
 tags:
  - concrete
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.istruc.2025.110946" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.110946</a>
+#Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.istruc.2025.110946" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.110946" target="_blank">10.1016/j.istruc.2025.110946</a>
 
--------------------------
+<a href="../../../author/liu_mei"><b>Liu</b>&nbsp;Mei</a></span>, <a href="../../../author/wang_huai"><b>Wang</b>&nbsp;Huai</a></span>, <a href="../../../author/li_yang"><b>Li</b>&nbsp;Yang</a></span>, <a href="../../../author/li_xiulin"><b>Li</b>&nbsp;Xiulin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_peijun"><b>Wang</b>&nbsp;Peijun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8112-2330" title="ORCID: 0000-0001-8112-2330" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_liming"><b>Jiang</b>&nbsp;Liming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5262-6476" title="ORCID: 0000-0001-5262-6476" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hexin"><b>Zhang</b>&nbsp;Hexin</a></span>, <a href="../../../author/zhang_lei"><b>Zhang</b>&nbsp;Lei</a></span><br>
+Journal Article - Structures, Vol. 84, No. 110946
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_mei"><b>Liu</b> Mei</a>
-,     <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>
-,     <a href="../../../author/li_yang"><b>Li</b> Yang</a>
-,     <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>
-,     <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> <a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_liming"><b>Jiang</b> Liming</a> <a href="https://orcid.org/0000-0001-8112-2330" title="ORCID: 0000-0001-8112-2330" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_hexin"><b>Zhang</b> Hexin</a> <a href="https://orcid.org/0000-0001-5262-6476" title="ORCID: 0000-0001-5262-6476" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_lei"><b>Zhang</b> Lei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 84, No. 110946
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#cool`](keyword/cool)
-    [`#difference`](keyword/difference)
-    [`#fire`](keyword/fire)
-    [`#mechanics`](keyword/mechanics)
-    [`#method`](keyword/method)
-    [`#post`](keyword/post)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cool"><button class="btn">#cool</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Post-Fire%20Mechanical%20Properties%20of%203D%20Printed%20Concrete%20Under%20Different%20Cooling%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.110946" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.110946?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the mechanical properties of 3D Printed Concrete (3DPC) exposed to different elevated temperatures. After exposure to temperatures ranging from 200°C to 600°C and subsequent cooling by either air or water, the compressive strength and splitting tensile strength of 3DPC were evaluated. The results indicate that higher temperatures lead to increased anisotropy in 3DPC. Furthermore, water-cooling results in more severe deterioration of strength compared to air-cooling, with the maximum differences in compressive and splitting tensile strengths between the two methods reaching 23.2 % and 29.8 %, respectively. Additionally, the incorporation of fly ash in 3DPC more effectively improves post-fire strength compared to cast concrete. Comparisons with existing design codes reveal that current codes lack accuracy in predicting the post-fire strength of 3DPC and exhibit relatively large dispersion. Moreover, re-curing of heated specimens after cooling was conducted to assess its effect on post-fire mechanical properties. Test results indicated that compressive strength increased by up to 46.5 %, splitting tensile strength increased by up to 98.2 %, and anisotropy was significantly reduced. This study is the first to quantify the strength recovery effect of re-curing on 3DPC, elucidate the influence of cooling methods on high-temperature deterioration, and provide essential data to support post-fire assessment, repair strategies for 3DPC, and the revision of relevant codes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
@@ -88,7 +61,37 @@ tags:
       <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/zhai_mingang"><b>Zhai</b> Mingang</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/wu_qing"><b>Wu</b> Qing</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_zhai_yao_wu.2022.PaMPo3PCEMIW/">Printable and Mechanical Performance of 3D Printed Concrete Employing Multiple Industrial Wastes</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../xiao_han_zhan_zou.2021.MaMEo3PCwPFaRSaET/">Mechanical and Microstructural Evolution of 3D Printed Concrete with Polyethylene-Fiber and Recycled Sand at Elevated Temperatures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_wang_li_li.2026.PFMPo3PCUDCM,
+      author            = "Mei Liu and Huai Wang and Yang Li and Xiulin Li and Peijun Wang and Liming Jiang and Hexin Zhang and Lei Zhang",
+      title             = "Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods",
+      doi               = "10.1016/j.istruc.2025.110946",
+      year              = "2026",
+      journal           = "Structures",
+      volume            = "84",
+      pages             = "110946",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Liu, “Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods”, <i>Structures</i>, vol. 84, p. 110946, 2026, doi: 10.1016/j.istruc.2025.110946.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Mei, Huai Wang, Yang Li, Xiulin Li, Peijun Wang, Liming Jiang, Hexin Zhang, and Lei Zhang. “Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods”. <i>Structures</i> 84 (2026): 110946. https://doi.org/10.1016/j.istruc.2025.110946.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

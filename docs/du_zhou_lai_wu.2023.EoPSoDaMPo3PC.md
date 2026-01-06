@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Longyu Du, Jiehang Zhou, Jianzhong Lai, Kai Wu, Xuexiang Yin, Yuanyuan He
+    - footer
+title: Du Longyu, Zhou Jiehang, Lai Jianzhong, Wu Kai, Yin Xuexiang, He Yuanyuan
 description:
 tags:
  - concrete
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132581" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132581</a>
+#Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete ([2023-07](date/2023/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132581" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132581" target="_blank">10.1016/j.conbuildmat.2023.132581</a>
 
--------------------------
+<a href="../../../author/du_longyu"><b>Du</b>&nbsp;Longyu</a></span>, <a href="../../../author/zhou_jiehang"><b>Zhou</b>&nbsp;Jiehang</a></span>, <a href="../../../author/lai_jianzhong"><b>Lai</b>&nbsp;Jianzhong</a></span>, <a href="../../../author/wu_kai"><b>Wu</b>&nbsp;Kai</a></span>, <a href="../../../author/yin_xuexiang"><b>Yin</b>&nbsp;Xuexiang</a></span>, <a href="../../../author/he_yuanyuan"><b>He</b>&nbsp;Yuanyuan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 400
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>
-,     <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>
-,     <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>
-,     <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>
-,     <a href="../../../author/yin_xuexiang"><b>Yin</b> Xuexiang</a>
-,     <a href="../../../author/he_yuanyuan"><b>He</b> Yuanyuan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 400, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#effect`](keyword/effect)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Pore-Structure%20on%20Durability%20and%20Mechanical%20Performance%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166334083&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385437899" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132581" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132581?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The application of 3D printed concrete (3DPC) technology in the construction industry has become widespread in recent years. This paper provided a method for the 3DPC mix design and investigated the mechanical performance and durability of 3DPC. In this study, two optimized mixes were obtained based on the particle dense packing theory and the least squares method for calculating the proportions of binder for 3DPC. The microstructure of 3DPC was investigated by X-CT scanning to characterize its porosity for discussion of the anisotropic mechanical performance in the 3DPC. In addition, the frost resistance and chloride ion penetration resistance of 3DPC had been investigated. The results showed that the pore connectivity of 3DPC was better than that of casting concrete and the pores accumulated near the interface. In addition, the porosity calculation results showed that the porosity of the interface between layers was lower than that of the interface between filaments in 3DPC. All specimens of 3DPC showed excellent frost resistance with a maximum mass loss of only 0.18% and the average flexural strength and compressive strength of 3DPC were only reduced by 31.2% and 21.0% respectively after 300 freeze–thaw cycles. The maximum chloride migration coefficients for the 3D printed concrete specimen was 79 × 10-14 m2/s and the glass fiber enhanced the chloride ion penetration resistance of the specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
@@ -99,8 +75,8 @@ tags:
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
       <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
@@ -139,4 +115,33 @@ tags:
       <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/rashidi_kourosh"><b>Rashidi</b> Kourosh</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../sedg_rash_hoja.2024.LS3WP/">Large-Scale 3D Wall Printing:<br/>From Concept to Reality</a></li>
       <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../kurn_kim.2023.UIBfSTDPIA/">Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications:<br/>A Comprehensive Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{du_zhou_lai_wu.2023.EoPSoDaMPo3PC,
+      author            = "Longyu Du and Jiehang Zhou and Jianzhong Lai and Kai Wu and Xuexiang Yin and Yuanyuan He",
+      title             = "Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2023.132581",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "400",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Du, J. Zhou, J. Lai, K. Wu, X. Yin and Y. He, “Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 400, 2023, doi: 10.1016/j.conbuildmat.2023.132581.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Du, Longyu, Jiehang Zhou, Jianzhong Lai, Kai Wu, Xuexiang Yin, and Yuanyuan He. “Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete”. <i>Construction and Building Materials</i> 400 (2023). https://doi.org/10.1016/j.conbuildmat.2023.132581.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhen Xu, Tao Song, Shuai Guo, Jiangtao Peng, Lingdong Zeng, Mengmeng Zhu
+    - footer
+title: Xu Zhen, Song Tao, Guo Shuai, Peng Jiangtao, Zeng Lingdong, Zhu Mengmeng
 description:
 tags:
  - construction
@@ -13,31 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robotics Technologies Aided for 3D Printing in Construction:<br/>:aca-blank: A Review ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1007/s00170-021-08067-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00170-021-08067-2</a>
+#Robotics Technologies Aided for 3D Printing in Construction&nbsp;([2021-10](date/2021/10))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00170-021-08067-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-021-08067-2" target="_blank">10.1007/s00170-021-08067-2</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2353-7834" title="ORCID: 0000-0002-2353-7834" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_zhen"><b>Xu</b>&nbsp;Zhen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2319-1682" title="ORCID: 0000-0003-2319-1682" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/song_tao"><b>Song</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8774-4963" title="ORCID: 0000-0002-8774-4963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_shuai"><b>Guo</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5103-2086" title="ORCID: 0000-0001-5103-2086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_jiangtao"><b>Peng</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6314-0535" title="ORCID: 0000-0001-6314-0535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_lingdong"><b>Zeng</b>&nbsp;Lingdong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8465-0339" title="ORCID: 0000-0002-8465-0339" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_mengmeng"><b>Zhu</b>&nbsp;Mengmeng</a></span><br>
+Journal Article - The International Journal of Advanced Manufacturing Technology, Vol. 118, Iss. 11-12, pp. 3559-3574
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_zhen"><b>Xu</b> Zhen</a> <a href="https://orcid.org/0000-0002-2353-7834" title="ORCID: 0000-0002-2353-7834" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/song_tao"><b>Song</b> Tao</a> <a href="https://orcid.org/0000-0003-2319-1682" title="ORCID: 0000-0003-2319-1682" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_shuai"><b>Guo</b> Shuai</a> <a href="https://orcid.org/0000-0002-8774-4963" title="ORCID: 0000-0002-8774-4963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/peng_jiangtao"><b>Peng</b> Jiangtao</a> <a href="https://orcid.org/0000-0001-5103-2086" title="ORCID: 0000-0001-5103-2086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zeng_lingdong"><b>Zeng</b> Lingdong</a> <a href="https://orcid.org/0000-0001-6314-0535" title="ORCID: 0000-0001-6314-0535" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_mengmeng"><b>Zhu</b> Mengmeng</a> <a href="https://orcid.org/0000-0002-8465-0339" title="ORCID: 0000-0002-8465-0339" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The International Journal of Advanced Manufacturing Technology, Vol. 118, Iss. 11-12, pp. 3559-3574
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#robot`](keyword/robot)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotics%20Technologies%20Aided%20for%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117822595&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3208362342" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00170-021-08067-2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00170-021-08067-2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotics and 3D printing are becoming more widely used in the field of construction industry. This paper reviews the work focused on the robotics technologies that aided for 3D printing in construction. Several aspects of them can be summarized as follows: (1) system composition and information flow, (2) robot workspace and motion planning, (3) control system and optimization of control strategy, (4) precision measurement and optimization, (5) quality assessment of 3D printing, (6) others, such as stability and interoperability. The challenge of every aspect is analyzed, and the correspondingly technical characteristics and methods are discussed in detail. The differences between robotics and construction mechanisms for 3D printing are analyzed and compared. Also, the robotics are further classified based on the workpiece size and their configurations. Finally, a brief description of future work to the robotics that suitable for 3D printing in construction is prospected.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../bard_cupk_wash_zegl.2018.RCSF/">Robotic Concrete Surface Finishing:<br/>A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
@@ -83,12 +63,43 @@ tags:
       <li><a href="../../../author/urhal_pinar"><b>Urhal</b> Pinar</a>, <a href="../../../author/weightman_andrew"><b>Weightman</b> Andrew</a>, <a href="../../../author/diver_carl"><b>Diver</b> Carl</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../urha_weig_dive_bart.2019.RAAM/">Robot-Assisted Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/henao-rios_m_laura"><b>Henao-Rios</b> Laura</a>, <a href="../../../author/orobio_armando"><b>Orobio</b> Armando</a>, <a href="../../../author/campana_wilmer"><b>Campaña</b> Wilmer</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../hena_orob_camp.2026.BIiPACP/">BIM Integration in Prefabricated Additive Construction Projects:<br/>Case Study</a></li>
       <li><a href="../../../author/musathik_am_a"><b>Musathik</b> A.</a>, <a href="../../../author/ashfak_hm_m"><b>Ashfak</b> M.</a>, <a href="../../../author/arif_ama_m"><b>Arif</b> M.</a>, <a href="../../../author/samaraweera_gtd_b"><b>Samaraweera</b> B.</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../musa_ashf_arif_sama.2025.TSC/">Towards Smart Construction:<br/>Development of an Automated Small Scale 3D Concrete Printer</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../plac_schw.2024.CoMaPSoC3P/">Comparison of Machine- and Performance Specifications of Concrete 3D Printers</a></li>
       <li><a href="../../../author/waqar_ahsan"><b>Waqar</b> Ahsan</a>, <a href="../../../author/othman_idris"><b>Othman</b> Idris</a>, <a href="../../../author/pomares_carlos_juan"><b>Pomares</b> Juan</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../waqa_othm_poma.2023.Io3PotOPSoRCPUSEM/">Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_song_guo_peng.2022.RTAf3PiC,
+      author            = "Zhen Xu and Tao Song and Shuai Guo and Jiangtao Peng and Lingdong Zeng and Mengmeng Zhu",
+      title             = "Robotics Technologies Aided for 3D Printing in Construction: A Review",
+      doi               = "10.1007/s00170-021-08067-2",
+      year              = "2022",
+      journal           = "The International Journal of Advanced Manufacturing Technology",
+      volume            = "118",
+      number            = "11-12",
+      pages             = "3559--3574",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Xu, T. Song, S. Guo, J. Peng, L. Zeng and M. Zhu, “Robotics Technologies Aided for 3D Printing in Construction: A Review”, <i>The International Journal of Advanced Manufacturing Technology</i>, vol. 118, no. 11–12, pp. 3559–3574, 2022, doi: 10.1007/s00170-021-08067-2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Zhen, Tao Song, Shuai Guo, Jiangtao Peng, Lingdong Zeng, and Mengmeng Zhu. “Robotics Technologies Aided for 3D Printing in Construction: A Review”. <i>The International Journal of Advanced Manufacturing Technology</i> 118, no. 11-12 (2022): 3559–74. https://doi.org/10.1007/s00170-021-08067-2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

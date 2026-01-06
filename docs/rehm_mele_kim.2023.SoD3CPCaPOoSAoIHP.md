@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Atta Rehman, Birru Melesse, Jung-Hoon Kim
+    - footer
+title: Rehman Atta, Melesse Birru, Kim Jung-Hoon
 description:
 tags:
  - accelerator
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e01955) Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.cscm.2023.e01955" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e01955</a>
+#Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties ([2023-02](date/2023/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e01955) <a href="https://doi.org/10.1016/j.cscm.2023.e01955" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01955" target="_blank">10.1016/j.cscm.2023.e01955</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_atta"><b>Rehman</b>&nbsp;Atta</a></span>, <a href="../../../author/melesse_bizu_birru"><b>Melesse</b>&nbsp;Birru</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
+Journal Article - Case Studies in Construction Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> <a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/melesse_bizu_birru"><b>Melesse</b> Birru</a>
-,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#demand`](keyword/demand)
-    [`#hardened`](keyword/hardened)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#setting`](keyword/setting)
-    [`#shotcrete`](keyword/shotcrete)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Set-on-Demand%203D%20Concrete%20Printing%20Construction%20and%20Potential%20Outcome%20of%20Shotcrete-Accelerators%20on%20Its%20Hardened%20Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149667911&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4321793860" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e01955" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e01955?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Set-on-demand 3D Concrete Printing (3DCP) construction is a new method of handling printable concrete mixes to reduce the pumping and transport issues of 3DCP. In this method, rapid stiffening of a flowable mix is achieved near the nozzle by the chemical intervention of the accelerators. The literature on the set-on-demand 3DCP and the effect of the accelerators on the hardened properties of printed concrete is limited. Keeping in view the literature gap, the first part of this study presents a brief overview of the material handling issues when stiff mixes are used for printing and discusses the opportunities offered by set-on-demand 3DCP to mitigate these issues. Then this study selects a shotcrete set accelerator as a case study to tune the rheology of a self-compacting mortar for a set-on-demand 3DCP process and investigates the effects on the hardened properties. The experimental results showed that the set accelerator improved the compressive and flexural properties by 290% and 233% on the first day of concrete age and then slightly reduced these properties at the later ages (3, 7, and 28 days). Shotcrete accelerator remarkably changed the hydration kinetics by modifying hydration phases and produced new profile peaks in the calorimetry test. The change of hydration was reflected in the ultrasonic pulse velocity and X-ray diffraction test results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
       <li><a href="../../../author/chung_jihoon"><b>Chung</b> Jihoon</a>, <a href="../../../author/lee_ghang"><b>Lee</b> Ghang</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../chun_lee_kim.2021.FfTSo3CP/">Framework for Technical Specifications of 3D Concrete Printers</a></li>
@@ -96,8 +73,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
       <li><a href="../../../author/kinski_wojciech"><b>Kiński</b> Wojciech</a>, <a href="../../../author/siwicki_przemyslaw"><b>Siwicki</b> Przemysław</a>, <a href="../../../author/zielinski_jacek"><b>Zieliński</b> Jacek</a>, <a href="../../../author/smater_michal"><b>Smater</b> Michał</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kins_siwi_ziel_smat.2026.AoaLSMPMMf3PfC/">Adaptation of a Large-Scale, Modular Printer-Milling Machine for 3D Printing from Concrete</a></li>
@@ -123,4 +100,32 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../rehm_perr_birr_kim.2023.RfQCiI3CPCwMCC/">Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete:<br/>A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index</a></li>
       <li><a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a>, <a href="../../../author/vieira_gomes_manuel"><b>Vieira</b> Manuel</a>, <a href="../../../author/oliveira_jose_miguel"><b>Oliveira</b> Miguel</a>, <a href="../../../author/yanamala_akhileswar"><b>Yanamala</b> Akhileswar</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../mcco_viei_oliv_yana.2023.3CP/">3D Concrete Printing:<br/>Factors Affecting the US and Portugal</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rehm_mele_kim.2023.SoD3CPCaPOoSAoIHP,
+      author            = "Atta Ur Rehman and Birru Bizu Melesse and Jung-Hoon Kim",
+      title             = "Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties",
+      doi               = "10.1016/j.cscm.2023.e01955",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. U. Rehman, B. B. Melesse and J.-H. Kim, “Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties”, <i>Case Studies in Construction Materials</i>, 2023, doi: 10.1016/j.cscm.2023.e01955.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rehman, Atta Ur, Birru Bizu Melesse, and Jung-Hoon Kim. “Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties”. <i>Case Studies in Construction Materials</i>, 2023. https://doi.org/10.1016/j.cscm.2023.e01955.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

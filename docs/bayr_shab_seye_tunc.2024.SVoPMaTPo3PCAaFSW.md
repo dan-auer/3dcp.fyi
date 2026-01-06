@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alper Bayrak, Nefize Shaban, Sepehr Seyedian Choubi, Emran Tuncer, Shih-Hsien Yang, Halit Yılmaz, Abdallah Alkilani, Hüsnü Dal, Cise Unluer, İpek Dino, Emre Örtemiz, Afsin Sarıtaş, Cagla Meral Akgul
+    - footer
+title: Bayrak Alper, Shaban Nefize, Seyedian Choubi Sepehr, Tuncer Emran, Yang Shih-Hsien, Yılmaz Halit, Alkilani Abdallah, Dal Hüsnü, Unluer Cise, Dino İpek, Örtemiz Emre, Sarıtaş Afsin, Meral Akgul Cagla
 description:
 tags:
  - concrete
@@ -18,43 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Spatial Variation of Physical, Mechanical, and Thermophysical Properties of 3D Printed Concrete Across a Full-Scale Wall ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136574" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136574</a>
+#Spatial Variation of Physical, Mechanical, and Thermophysical Properties of 3D Printed Concrete Across a Full-Scale Wall ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136574" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136574" target="_blank">10.1016/j.conbuildmat.2024.136574</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2300-9433" title="ORCID: 0000-0002-2300-9433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b>&nbsp;Alper</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8556-3790" title="ORCID: 0000-0001-8556-3790" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shaban_nefize"><b>Shaban</b>&nbsp;Nefize</a></span>, <a href="../../../author/seyedian-choubi_sepehr"><b>Seyedian Choubi</b>&nbsp;Sepehr</a></span>, <a href="../../../author/tuncer_emran"><b>Tuncer</b>&nbsp;Emran</a></span>, <a href="../../../author/yang_shih-hsien"><b>Yang</b>&nbsp;Shih-Hsien</a></span>, <a href="../../../author/yilmaz_dilsad_halit"><b>Yılmaz</b>&nbsp;Halit</a></span>, <a href="../../../author/alkilani_zaid_abdallah"><b>Alkilani</b>&nbsp;Abdallah</a></span>, <a href="../../../author/dal_husnu"><b>Dal</b>&nbsp;Hüsnü</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/unluer_cise"><b>Unluer</b>&nbsp;Cise</a></span>, <a href="../../../author/dino_gursel_ipek"><b>Dino</b>&nbsp;İpek</a></span>, <a href="../../../author/ortemiz_emre"><b>Örtemiz</b>&nbsp;Emre</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8772-0497" title="ORCID: 0000-0001-8772-0497" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saritas_afsin"><b>Sarıtaş</b>&nbsp;Afsin</a></span>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b>&nbsp;Cagla</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 431, No. 136574
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a> <a href="https://orcid.org/0000-0002-2300-9433" title="ORCID: 0000-0002-2300-9433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a> <a href="https://orcid.org/0000-0001-8556-3790" title="ORCID: 0000-0001-8556-3790" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/seyedian-choubi_sepehr"><b>Seyedian Choubi</b> Sepehr</a>
-,     <a href="../../../author/tuncer_emran"><b>Tuncer</b> Emran</a>
-,     <a href="../../../author/yang_shih-hsien"><b>Yang</b> Shih-Hsien</a>
-,     <a href="../../../author/yilmaz_dilsad_halit"><b>Yılmaz</b> Halit</a>
-,     <a href="../../../author/alkilani_zaid_abdallah"><b>Alkilani</b> Abdallah</a>
-,     <a href="../../../author/dal_husnu"><b>Dal</b> Hüsnü</a>
-,     <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dino_gursel_ipek"><b>Dino</b> İpek</a>
-,     <a href="../../../author/ortemiz_emre"><b>Örtemiz</b> Emre</a>
-,     <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a> <a href="https://orcid.org/0000-0001-8772-0497" title="ORCID: 0000-0001-8772-0497" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 431, No. 136574
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#full`](keyword/full)
-    [`#mechanics`](keyword/mechanics)
-    [`#physics`](keyword/physics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#scale`](keyword/scale)
-    [`#space`](keyword/space)
-    [`#variation`](keyword/variation)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Spatial%20Variation%20of%20Physical%2C%20Mechanical%2C%20and%20Thermophysical%20Properties%20of%203D%20Printed%20Concrete%20Across%20a%20Full-Scale%20Wall" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193031307&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396881181" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136574" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136574?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed concrete (3DPC) is a layered anisotropic material whose properties are significantly impacted by the production parameters. To design and analyze large-scale printed structures, it is vital to understand the spatial variation of material properties throughout full-scale printed components. Presented study addresses this need by presenting a comprehensive experimental investigation that explores the variation of physical, mechanical, and thermophysical properties across a full-scale 3DPC wall with an approximate height of 2.36 m. The cores extracted from the wall were categorized in terms of the extraction location along the wall height (upper (U) and lower (L)) and the alignment of the specimen’s longitudinal axis with respect to the printing space (printing (P), translation (T), and deposition (D) direction). Additionally, direct shear and four-point bending tests were carried out on printed beams. Control samples, mold-cast from the same concrete mix, were used for comparison. Obtained results indicated a pronounced anisotropy and property variation along the 3DPC wall height. These were linked not only to the frequency and orientation but also to the porosity of the interfaces which was significantly influenced by the self-weight compaction of the layers and the progressively increasing concrete viscosity caused by pump system heating over time. CT investigations, rate of water absorption, and water penetration tests revealed sparse and less connected interstrip and interlayer porosity in the L samples. Depending on the sample orientation and loading direction, compressive strength, elastic modulus and splitting tensile strength increased by up to 108 %, 53 %, and 100 %, respectively, in the L samples when compared to the U samples. The same trend was observed in the Poisson’s ratio, albeit to a lesser extent. The triaxial thermal conductivities of the L samples calculated from the transient plane source measurements were up to 26 % higher than those for the U samples. Given the limited number of studies on real-scale applications, the presented research can serve as a benchmark, offering valuable insights to explore and validate the 3DPC behavior on a large scale.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/wang_xiaoyi"><b>Wang</b> Xiaoyi</a>, <a href="../../../author/fang_yizhi"><b>Fang</b> Yizhi</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cai_shen_wang_fang.2022.EoRCotFBo3PFRCCB/">Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams</a></li>
@@ -111,12 +78,42 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC/">A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bayr_shab_seye_tunc.2024.SVoPMaTPo3PCAaFSW,
+      author            = "Alper Tunga Bayrak and Nefize Shaban and Sepehr Seyedian Choubi and Emran Tuncer and Shih-Hsien Yang and Halit Dilşad Yılmaz and Abdallah Zaid Alkilani and Hüsnü Dal and Cise Unluer and İpek Gürsel Dino and Emre Örtemiz and Afsin Sarıtaş and Cagla Meral Akgul",
+      title             = "Spatial Variation of Physical, Mechanical, and Thermophysical Properties of 3D Printed Concrete Across a Full-Scale Wall",
+      doi               = "10.1016/j.conbuildmat.2024.136574",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "431",
+      pages             = "136574",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. T. Bayrak, “Spatial Variation of Physical, Mechanical, and Thermophysical Properties of 3D Printed Concrete Across a Full-Scale Wall”, <i>Construction and Building Materials</i>, vol. 431, p. 136574, 2024, doi: 10.1016/j.conbuildmat.2024.136574.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bayrak, Alper Tunga, Nefize Shaban, Sepehr Seyedian Choubi, Emran Tuncer, Shih-Hsien Yang, Halit Dilşad Yılmaz, Abdallah Zaid Alkilani, et al.. “Spatial Variation of Physical, Mechanical, and Thermophysical Properties of 3D Printed Concrete Across a Full-Scale Wall”. <i>Construction and Building Materials</i> 431 (2024): 136574. https://doi.org/10.1016/j.conbuildmat.2024.136574.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #rebar
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bates_rhys"><b>Bates</b> Rhys</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bate_asla.2025.Po3PCCwGRUAC/">Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression</a></li>
   <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_yang_sun.2025.SCoSB3PRCS/">Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure:<br/>Effect of 2.5D Rebar Structure on the Flexural Performance of Slab</a></li>
   <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/hara_koichiro"><b>Hara</b> Koichiro</a>, <a href="../../../author/yamamoto_shinya"><b>Yamamoto</b> Shinya</a>, <a href="../../../author/abe_hiroyuki"><b>Abe</b> Hiroyuki</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ogur_hara_yama_abe.2024.FPoFR3PCBwAR/">Flexural Performance of Fiber-Reinforced 3D Printed Concrete Beams with Axial Rebar</a></li>

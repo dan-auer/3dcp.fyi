@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xinhao Liu, Jiajun Hu, Guiyan Xiong, Andrew Cundy, Jörg Wiedenmann, Xiqiang Lin, Ming Xia, Xiaolu Guo
+    - footer
+title: Liu Xinhao, Hu Jiajun, Xiong Guiyan, Cundy Andrew, Wiedenmann Jörg, Lin Xiqiang, Xia Ming, Guo Xiaolu
 description:
 tags:
  - agent
@@ -19,39 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106426" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106426</a>
+#Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106426" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106426" target="_blank">10.1016/j.cemconcomp.2025.106426</a>
 
--------------------------
+<a href="../../../author/liu_xinhao"><b>Liu</b>&nbsp;Xinhao</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9447-602X" title="ORCID: 0009-0005-9447-602X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_jiajun"><b>Hu</b>&nbsp;Jiajun</a></span>, <a href="../../../author/xiong_guiyan"><b>Xiong</b>&nbsp;Guiyan</a></span>, <a href="../../../author/cundy_andrew"><b>Cundy</b>&nbsp;Andrew</a></span>, <a href="../../../author/wiedenmann_jorg"><b>Wiedenmann</b>&nbsp;Jörg</a></span>, <a href="../../../author/lin_xiqiang"><b>Lin</b>&nbsp;Xiqiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_ming"><b>Xia</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-5802" title="ORCID: 0000-0003-1395-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_xiaolu"><b>Guo</b>&nbsp;Xiaolu</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 167, No. 106426
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>
-,     <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a> <a href="https://orcid.org/0009-0005-9447-602X" title="ORCID: 0009-0005-9447-602X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>
-,     <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a>
-,     <a href="../../../author/wiedenmann_jorg"><b>Wiedenmann</b> Jörg</a>
-,     <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a>
-,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> <a href="https://orcid.org/0000-0003-1395-5802" title="ORCID: 0000-0003-1395-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 167, No. 106426
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#degradation`](keyword/degradation)
-    [`#durability`](keyword/durability)
-    [`#environment`](keyword/environment)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#length`](keyword/length)
-    [`#marine`](keyword/marine)
-    [`#mechanism`](keyword/mechanism)
-    [`#print`](keyword/print)
-    [`#term`](keyword/term)
-    [`#without`](keyword/without)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/degradation"><button class="btn">#degradation</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Long-Term%20Durability%20and%20Degradation%20Mechanisms%20of%203D%20Printed%20Geopolymers%20%283DPG%29%20With/Without%20Healing%20Agents%20in%20Marine%20Environments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417118210" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106426" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106426?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The degradation performance and mechanisms of 3D printed geopolymers (3DPG) under atmospheric (atmospheric zone, AZ), seawater submerged (submerged zone, SZ), intertidal (tidal zone, TZ) conditions over 12 months exposure were evaluated by monitoring their large-scale properties (apparent morphology, mass change, mechanical behavior), combined with microstructural analysis of pore structure and reaction product distribution, aggressive ions' penetration depth and distribution. AZ samples showed minimal mass change and steadily increasing strength over time. SZ samples' mass increased due to salt absorption, but surface aggregate precipitates; the mechanical strength first increased and then decreased. TZ samples' mass continuously losses, the mechanical strength first increased and then decreased. Notably, adding healing agent significantly enhanced the mechanical properties of 3DPG. 3DPG exhibited vertical layering pore distribution characteristics and had no high interlayer porosity defects after seawater erosion. With increasing erosion time, porosity increased in AZ samples; both SZ and TZ samples experienced decreasing porosity and reduced pore throat number and length. After seawater erosion, AZ samples formed geopolymer gel, Ca(OH)2, CaCO3, with minimal Cl− or SO42− penetration. SZ samples have geopolymer gel with deeper Cl− penetration (6.0 mm) and SO42− intrusion (2.0 mm). TZ samples contained gel and CaSO4, showing the deepest Cl− infiltration (>10.0 mm) and an SO42− enrichment peak at 2.0 mm depth. Prolonged erosion progressively leached Ca2+ from SZ and TZ samples, causing geopolymer decalcification, increasing the Na/Ca ratio, disrupting the gel's change balance and structural integrity, distorting the 3D network, reducing stability, with salt recrystallization caused by tidal action exacerbating damage.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a>, <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a>, <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../beer_soet_giel_eyke.2023.3PoaIRSBHM/">3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>A Durable, Sustainable and Cost-Competitive Product?</a></li>
@@ -117,7 +88,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME,
+      author            = "Xinhao Liu and Jiajun Hu and Guiyan Xiong and Andrew Cundy and Jörg Wiedenmann and Xiqiang Lin and Ming Xia and Xiaolu Guo",
+      title             = "Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments",
+      doi               = "10.1016/j.cemconcomp.2025.106426",
+      year              = "2026",
+      journal           = "Cement and Concrete Composites",
+      volume            = "167",
+      pages             = "106426",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, “Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments”, <i>Cement and Concrete Composites</i>, vol. 167, p. 106426, 2026, doi: 10.1016/j.cemconcomp.2025.106426.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xinhao, Jiajun Hu, Guiyan Xiong, Andrew Cundy, Jörg Wiedenmann, Xiqiang Lin, Ming Xia, and Xiaolu Guo. “Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments”. <i>Cement and Concrete Composites</i> 167 (2026): 106426. https://doi.org/10.1016/j.cemconcomp.2025.106426.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

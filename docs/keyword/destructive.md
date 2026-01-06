@@ -8,7 +8,7 @@ search:
 
 # #destructive
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/chen_weihua"><b>Chen</b> Weihua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_xiao_ding_chen.2025.INDAo3PUMUXRCTaUW/">Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves</a></li>
   <li><a href="../../../author/shiotani_tomoki"><b>Shiotani</b> Tomoki</a>, <a href="../../../author/asaue_hisafumi"><b>Asaue</b> Hisafumi</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/okude_nobuhiro"><b>Okude</b> Nobuhiro</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../shio_asau_ogur_okud.2025.EoP3PFoaBPUNDTM/">Evaluation of Permanent 3D Printed Formwork of a Bridge Pier Using Non-Destructive Testing Methods</a></li>
   <li><a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/yoshihara_rei"><b>Yoshihara</b> Rei</a>, <a href="../../../author/honda_yoshiki"><b>Honda</b> Yoshiki</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hash_naka_yosh_hond.2025.EaIoMaMPo3PCbMoNDTM/">Evaluation and Investigation of Material and Mechanical Property of 3D Printed Concrete by Means of Non-Destructive Testing Methods</a></li>

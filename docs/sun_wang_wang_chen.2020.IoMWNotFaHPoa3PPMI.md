@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaoyan Sun, Qun Wang, Hailong Wang, Long Chen
+    - footer
+title: Sun Xiaoyan, Wang Qun, Wang Hailong, Chen Long
 description:
 tags:
  - fresh
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Multi-Walled Nanotubes on the Fresh and Hardened Properties of a 3D Printing PVA Mortar Ink ([2020-03](date/2020/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.118590" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.118590</a>
+#Influence of Multi-Walled Nanotubes on the Fresh and Hardened Properties of a 3D Printing PVA Mortar Ink ([2020-03](date/2020/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.118590" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.118590" target="_blank">10.1016/j.conbuildmat.2020.118590</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_xiaoyan"><b>Sun</b>&nbsp;Xiaoyan</a></span>, <a href="../../../author/wang_qun"><b>Wang</b>&nbsp;Qun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <a href="../../../author/chen_long"><b>Chen</b>&nbsp;Long</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 247
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> <a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>
-,     <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_long"><b>Chen</b> Long</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 247, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#influence`](keyword/influence)
-    [`#mortar`](keyword/mortar)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#pva`](keyword/pva)
-
-
--------------------------
+<a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Multi-Walled%20Nanotubes%20on%20the%20Fresh%20and%20Hardened%20Properties%20of%20a%203D%20Printing%20PVA%20Mortar%20Ink" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85080987526&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3010029075" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.118590" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.118590?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete has been accepted as a promising construction material which can realise formless construction and digital design. The fresh properties and the hardened strength of concrete ink are crucial for structural applications. In this study, different volume fractions of multi-walled carbon nanotubes (MWCNTs) were added to a 3D printing PVA fibre-reinforced mortar ink to modify its mechanical properties. To evaluate the effect ofMWCNTs on the workability of 3D printing mortar, the buildability, shape stability, flowability and setting time of fresh mortar were tested. The improvement efficiency of MWCNTs on the mechanical properties of 3D printing PVA mortar ink was also experimentally studied. The test results indicate that a small amount of MWCNTs has almost no effect on the ink’s workability. The early age compressive and flexural strength of printing mortars with MWCNTs can be effectively improved, which benefits the requirements of 3D printing. The 3-d compressive strength of mortar with addition of 0.1 wt% of MWCNTs can be enhanced by 33.6%, while the 28-d strength was hardly affected. Agglomeration and poor dispersion of MWCNTs can generally be detected by SEM images as volume content of carbon nanotubes increases. Considering the influence of MWCNTs on the fresh and hardened properties of mortar and on the requirements of 3D printing, the optimum volume fraction of carbon nanotubes for 3D printing PVA fibre-reinforced mortar should be 0.02–0.05 wt%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_zhu"><b>Ding</b> Zhu</a>, <a href="../../../author/wang_xiaodong"><b>Wang</b> Xiaodong</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/zou_x-w_patrick"><b>Zou</b> Patrick</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../ding_wang_sanj_zou.2018.AFSoHISCf3P/">A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -77,8 +55,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
@@ -117,4 +95,33 @@ tags:
       <li><a href="../../../author/cui_peng"><b>Cui</b> Peng</a>, <a href="../../../author/wu_chun-ran"><b>Wu</b> Chun-ran</a>, <a href="../../../author/chen_jie"><b>Chen</b> Jie</a>, <a href="../../../author/luo_fuming"><b>Luo</b> Fuming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../cui_wu_chen_luo.2021.PoMOCaa3PM/">Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material</a></li>
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_wang_wang_chen.2020.IoMWNotFaHPoa3PPMI,
+      author            = "Xiaoyan Sun and Qun Wang and Hailong Wang and Long Chen",
+      title             = "Influence of Multi-Walled Nanotubes on the Fresh and Hardened Properties of a 3D Printing PVA Mortar Ink",
+      doi               = "10.1016/j.conbuildmat.2020.118590",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "247",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Sun, Q. Wang, H. Wang and L. Chen, “Influence of Multi-Walled Nanotubes on the Fresh and Hardened Properties of a 3D Printing PVA Mortar Ink”, <i>Construction and Building Materials</i>, vol. 247, 2020, doi: 10.1016/j.conbuildmat.2020.118590.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Xiaoyan, Qun Wang, Hailong Wang, and Long Chen. “Influence of Multi-Walled Nanotubes on the Fresh and Hardened Properties of a 3D Printing PVA Mortar Ink”. <i>Construction and Building Materials</i> 247 (2020). https://doi.org/10.1016/j.conbuildmat.2020.118590.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

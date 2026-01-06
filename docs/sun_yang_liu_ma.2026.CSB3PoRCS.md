@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuhang Sun, Xiaojie Yang, Xiongfei Liu, Guowei Ma, Tianwei Feng
+    - footer
+title: Sun Yuhang, Yang Xiaojie, Liu Xiongfei, Ma Guowei, Feng Tianwei
 description:
 tags:
  - angle
@@ -20,37 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>:aca-blank: A Multi-Angle Strategy for Blockage Mitigation ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.144875" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.144875</a>
+#Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure&nbsp;([2025-12](date/2025/12))
+<div class="h1-like">A Multi-Angle Strategy for Blockage Mitigation</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.144875" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144875" target="_blank">10.1016/j.conbuildmat.2025.144875</a>
 
--------------------------
+<a href="../../../author/sun_yuhang"><b>Sun</b>&nbsp;Yuhang</a></span>, <a href="../../../author/yang_xiaojie"><b>Yang</b>&nbsp;Xiaojie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <a href="../../../author/feng_tianwei"><b>Feng</b>&nbsp;Tianwei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 506, No. 144875
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>
-,     <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>
-,     <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_tianwei"><b>Feng</b> Tianwei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 506, No. 144875
-
-:aca-blank:{ .lg .middle}
-    [`#angle`](keyword/angle)
-    [`#base`](keyword/base)
-    [`#block`](keyword/block)
-    [`#concrete`](keyword/concrete)
-    [`#coordinate`](keyword/coordinate)
-    [`#mitigation`](keyword/mitigation)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#spray`](keyword/spray)
-    [`#strategy`](keyword/strategy)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/angle"><button class="btn">#angle</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/coordinate"><button class="btn">#coordinate</button></a> <a href="../../keyword/mitigation"><button class="btn">#mitigation</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Coordinated%20Spray-Based%203D%20Printing%20of%20Reinforced%20Concrete%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7115198208" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.144875" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.144875?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates a multi-angle spray-based 3D (S-3D) printing strategy to mitigate blockage during the coordinated construction of reinforced concrete structures. The influence of three key parameters on printed concrete integrity is examined: rebar diameter (D-8, 12, 16 mm), rebar-to-print platform distance (L1-30, 60, 100 mm), and nozzle-to-rebar distance (L2-30, 70, 100 mm). A novel printability evaluation methodology is proposed to quantify rebar blockage, incorporating both internal defects and external deposition irregularities in printed cross-sections. Furthermore, an optimization methodology for multi-angle printing parameters is developed to address single-rebar obstruction through coordinated adjustments of spray angle and lateral displacement and then improve deposition accuracy and printing quality. Experimental results indicate significant rebar obstruction consistently occurs in vertically printed cross-sections. Among the tested parameters, D and L1 demonstrate positive correlations with the internal defect index (IDI) and external deposition error index (DEI), whereas L2 shows a negative correlation. Sensitivity analysis reveals that L1 has the most obvious effect on index IDI (L1>L2>D), while L2 greatly influences index EDI (L2>L1>D). Optimizing the spray angle substantially reduces blockage effects. Compared to the control group (D16–100–100), the optimized parameters (OP-3: θ1=30°, x1=10.5 mm, θ2=30°, x2=5.8 mm) reduce IDI and DEI by 99.6 % and 77.3 % respectively. Multi-angle printing enhances compactness at rebar-concrete interfaces. A reinforced concrete beam is fabricated using the multi-angle S-3D printing method to validate its feasibility. The flexural performance matches that of traditionally cast and fully vibrated beams, with crack and ultimate flexural strength increasing by 7.6 % and 5.3 %, respectively. These results confirm the efficacy of the proposed method in minimizing rebar obstruction and ensuring structural integrity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../cars.2020.TOwNSRfMETAM/">Topology-Optimization with Nozzle-Size-Restrictions for Material-Extrusion-Type Additive Manufacturing</a></li>
@@ -114,7 +88,37 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_yang_liu_ma.2026.CSB3PoRCS,
+      author            = "Yuhang Sun and Xiaojie Yang and Xiongfei Liu and Guowei Ma and Tianwei Feng",
+      title             = "Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure: A Multi-Angle Strategy for Blockage Mitigation",
+      doi               = "10.1016/j.conbuildmat.2025.144875",
+      year              = "2026",
+      journal           = "Construction and Building Materials",
+      volume            = "506",
+      pages             = "144875",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Sun, X. Yang, X. Liu, G. Ma and T. Feng, “Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure: A Multi-Angle Strategy for Blockage Mitigation”, <i>Construction and Building Materials</i>, vol. 506, p. 144875, 2026, doi: 10.1016/j.conbuildmat.2025.144875.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Yuhang, Xiaojie Yang, Xiongfei Liu, Guowei Ma, and Tianwei Feng. “Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure: A Multi-Angle Strategy for Blockage Mitigation”. <i>Construction and Building Materials</i> 506 (2026): 144875. https://doi.org/10.1016/j.conbuildmat.2025.144875.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

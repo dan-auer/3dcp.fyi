@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeou-Fong Li, Chih-Chieh Lin, Jin-Yuan Syu, Chih-Hong Huang, Yu-Tsung Chiu, Man-Hoi Lok, Wen-Shyong Kuo
+    - footer
+title: Li Yeou-Fong, Lin Chih-Chieh, Syu Jin-Yuan, Huang Chih-Hong, Chiu Yu-Tsung, Lok Man-Hoi, Kuo Wen-Shyong
 description:
 tags:
  - assessment
@@ -22,41 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers:<br/>:aca-blank: Printability, Mechanical Strength, and FEM-Based Structural Assessment ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jobe.2025.114485" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114485</a>
+#Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">Printability, Mechanical Strength, and FEM-Based Structural Assessment</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114485" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114485" target="_blank">10.1016/j.jobe.2025.114485</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7054-7293" title="ORCID: 0000-0002-7054-7293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yeou-fong"><b>Li</b>&nbsp;Yeou-Fong</a></span>, <a href="../../../author/lin_chih-chieh"><b>Lin</b>&nbsp;Chih-Chieh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8859-3693" title="ORCID: 0000-0002-8859-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/syu_jin-yuan"><b>Syu</b>&nbsp;Jin-Yuan</a></span>, <a href="../../../author/huang_chih-hong"><b>Huang</b>&nbsp;Chih-Hong</a></span>, <a href="../../../author/chiu_yu-tsung"><b>Chiu</b>&nbsp;Yu-Tsung</a></span>, <a href="../../../author/lok_man-hoi"><b>Lok</b>&nbsp;Man-Hoi</a></span>, <a href="../../../author/kuo_wen-shyong"><b>Kuo</b>&nbsp;Wen-Shyong</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114485
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a> <a href="https://orcid.org/0000-0002-7054-7293" title="ORCID: 0000-0002-7054-7293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_chih-chieh"><b>Lin</b> Chih-Chieh</a>
-,     <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a> <a href="https://orcid.org/0000-0002-8859-3693" title="ORCID: 0000-0002-8859-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a>
-,     <a href="../../../author/chiu_yu-tsung"><b>Chiu</b> Yu-Tsung</a>
-,     <a href="../../../author/lok_man-hoi"><b>Lok</b> Man-Hoi</a>
-,     <a href="../../../author/kuo_wen-shyong"><b>Kuo</b> Wen-Shyong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114485
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#enhancement`](keyword/enhancement)
-    [`#fem`](keyword/fem)
-    [`#fiber`](keyword/fiber)
-    [`#glass`](keyword/glass)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#recycling`](keyword/recycling)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fem"><button class="btn">#fem</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%203D-Printed%20Cement%20Mortar%20with%20Recycled%20PCB%20Glass%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020910318&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415751907" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114485" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114485?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study evaluates the feasibility of incorporating waste printed circuit board glass fiber powder (WPCBP) into 3D-printed cement mortar for structural applications. Printability was assessed by measuring initial setting time, extrudability, flowability, and buildability. Mechanical properties were evaluated through compressive, flexural, and splitting tensile tests. Among all specimens, the mortar with a WPCBP-to-cement ratio of 0.2 exhibited the best mechanical performance across all tests. Four-point bending tests on 3D-printed truss elements, validated by finite element simulations, confirmed that WPCBP enhances the mechanical and structural behavior of the components. In addition, the results highlighted pronounced anisotropic behavior in the 3D-printed specimens, with strength dependent on the printing and loading directions. Overall, integrating WPCBP with 3D printing improves material performance and facilitates effective recycling of non-metallic electronic waste.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -117,7 +87,36 @@ tags:
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_lin_syu_huan.2025.E3PCMwRPGF,
+      author            = "Yeou-Fong Li and Chih-Chieh Lin and Jin-Yuan Syu and Chih-Hong Huang and Yu-Tsung Chiu and Man-Hoi Lok and Wen-Shyong Kuo",
+      title             = "Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers: Printability, Mechanical Strength, and FEM-Based Structural Assessment",
+      doi               = "10.1016/j.jobe.2025.114485",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114485",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y.-F. Li, “Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers: Printability, Mechanical Strength, and FEM-Based Structural Assessment”, <i>Journal of Building Engineering</i>, p. 114485, 2025, doi: 10.1016/j.jobe.2025.114485.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Yeou-Fong, Chih-Chieh Lin, Jin-Yuan Syu, Chih-Hong Huang, Yu-Tsung Chiu, Man-Hoi Lok, and Wen-Shyong Kuo. “Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers: Printability, Mechanical Strength, and FEM-Based Structural Assessment”. <i>Journal of Building Engineering</i>, 2025, 114485. https://doi.org/10.1016/j.jobe.2025.114485.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

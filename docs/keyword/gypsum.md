@@ -8,7 +8,7 @@ search:
 
 # #gypsum
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/huang_jianxiang"><b>Huang</b> Jianxiang</a>, <a href="../../../author/wang_caifeng"><b>Wang</b> Caifeng</a>, <a href="../../../author/jian_shouwei"><b>Jian</b> Shouwei</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../huan_wang_jian_tan.2025.FoAASBaNSaaVMAf3PoGBM/">Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials</a></li>
   <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/bumanis_girts"><b>Bumanis</b> Girts</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sahm_sink_buma_sapa.2024.TGCPCf3PwREI/">Ternary Gypsum-Cement-Pozzolan Composites for 3D Printing with Reduced Environmental Impact</a></li>
   <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../perr_jacq_caro_mesn.2024.So3PwABaM/">Snapshot on 3D Printing with Alternative Binders and Materials:<br/>Earth, Geopolymers, Gypsum and Low-Carbon Concrete</a></li>

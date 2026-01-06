@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yifan Li, Shuisheng Chen, Liuhua Yang, Chuan Guo, Zhentao Li, Youliang Chen
+    - footer
+title: Li Yifan, Chen Shuisheng, Yang Liuhua, Guo Chuan, Li Zhentao, Chen Youliang
 description:
 tags:
  - bond
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/buildings15050780) Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components ([2025-02](date/2025/02))
-<a href="https://doi.org/10.3390/buildings15050780" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15050780</a>
+#Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components ([2025-02](date/2025/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings15050780) <a href="https://doi.org/10.3390/buildings15050780" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15050780" target="_blank">10.3390/buildings15050780</a>
 
--------------------------
+<a href="../../../author/li_yifan"><b>Li</b>&nbsp;Yifan</a></span>, <a href="../../../author/chen_shuisheng"><b>Chen</b>&nbsp;Shuisheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7642-9629" title="ORCID: 0000-0001-7642-9629" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_liuhua"><b>Yang</b>&nbsp;Liuhua</a></span>, <a href="../../../author/guo_chuan"><b>Guo</b>&nbsp;Chuan</a></span>, <a href="../../../author/li_zhentao"><b>Li</b>&nbsp;Zhentao</a></span>, <a href="../../../author/chen_youliang"><b>Chen</b>&nbsp;Youliang</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 5, No. 780
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_yifan"><b>Li</b> Yifan</a>
-,     <a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a>
-,     <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a> <a href="https://orcid.org/0000-0001-7642-9629" title="ORCID: 0000-0001-7642-9629" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a>
-,     <a href="../../../author/li_zhentao"><b>Li</b> Zhentao</a>
-,     <a href="../../../author/chen_youliang"><b>Chen</b> Youliang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 5, No. 780
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#component`](keyword/component)
-    [`#interlayer`](keyword/interlayer)
-    [`#investigation`](keyword/investigation)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#solid`](keyword/solid)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20the%20Impact%20of%20Material%20Rheology%20on%20the%20Interlayer%20Bonding%20Performance%20of%20Solid%20Waste%203D-Printed%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000561249&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407991784" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15050780" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15050780?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the rapid advancement of 3D printing technology in low-carbon construction, the constructability of 3D printing materials has increasingly garnered attention. The constructability of these materials is intrinsically linked to their rheological properties. Therefore, this paper investigates the impact of additives, specifically hydroxypropyl methylcellulose (HPMC) and polycarboxylate superplasticizer (PCE), on the rheological properties of materials. The findings indicated that HPMC significantly increased both shear stress and apparent viscosity while also enhancing the thixotropic loop area. In contrast, PCE was found to reduce viscosity and yield stress, thereby improving fluidity and plasticity. The judicious incorporation of PCE (less than 0.003) and HPMC (less than 0.002) can enhance the rheological properties of the printing material, thereby improving the stability and interlayer bonding characteristics of the 3D printing structure. However, an excessive amount will result in a reduction in fluidity and cohesion, adversely impacting the printing quality. At this stage, the occurrence of cracks increases, which is detrimental to interlayer adhesion. Therefore, the judicious control of the proportions of PCE and HPMC can enhance the fluidity and viscosity of the material, thereby improving interlayer bonding strength and print quality.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a>, <a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../bala_sasi_govi.2024.SoCoCACoEAPo3PC/">Study on Criticality of Coarse Aggregate Content on Early-Age Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/bao_minh-phuong_ta"><b>Bao</b> Ta</a>, <a href="../../../author/yeakleang_muy"><b>Yeakleang</b> Muy</a>, <a href="../../../author/abdelouhab_sandra"><b>Abdelouhab</b> Sandra</a>, <a href="../../../author/courard_luc"><b>Courard</b> Luc</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../bao_yeak_abde_cour.2024.TMf3P/">Testing Mortars for 3D Printing:<br/>Correlation with Rheological Behavior</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
@@ -107,7 +81,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_chen_yang_guo.2025.IotIoMRotIBPoSW3PC,
+      author            = "Yifan Li and Shuisheng Chen and Liuhua Yang and Chuan Guo and Zhentao Li and Youliang Chen",
+      title             = "Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components",
+      doi               = "10.3390/buildings15050780",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "5",
+      pages             = "780",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Li, S. Chen, L. Yang, C. Guo, Z. Li and Y. Chen, “Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components”, <i>Buildings</i>, vol. 15, no. 5, p. 780, 2025, doi: 10.3390/buildings15050780.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Yifan, Shuisheng Chen, Liuhua Yang, Chuan Guo, Zhentao Li, and Youliang Chen. “Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components”. <i>Buildings</i> 15, no. 5 (2025): 780. https://doi.org/10.3390/buildings15050780.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

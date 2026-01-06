@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huanbao Li, Zihan Li, Mirosław Skibniewski, Liang Wang, Xuhui Cong, Jarosław Górecki, Wenyu Jin
+    - footer
+title: Li Huanbao, Li Zihan, Skibniewski Mirosław, Wang Liang, Cong Xuhui, Górecki Jarosław, Jin Wenyu
 description:
 tags:
  - cement
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2023.112455) Molding-Quality-Control with Non-Linear Forming-Method in 3D Cement Printing ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.matdes.2023.112455" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2023.112455</a>
+#Molding-Quality-Control with Non-Linear Forming-Method in 3D Cement Printing ([2023-11](date/2023/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2023.112455) <a href="https://doi.org/10.1016/j.matdes.2023.112455" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2023.112455" target="_blank">10.1016/j.matdes.2023.112455</a>
 
--------------------------
+<a href="../../../author/li_huanbao"><b>Li</b>&nbsp;Huanbao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5936-8422" title="ORCID: 0000-0001-5936-8422" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zihan"><b>Li</b>&nbsp;Zihan</a></span>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b>&nbsp;Mirosław</a></span>, <a href="../../../author/wang_liang"><b>Wang</b>&nbsp;Liang</a></span>, <a href="../../../author/cong_xuhui"><b>Cong</b>&nbsp;Xuhui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6829-3127" title="ORCID: 0000-0001-6829-3127" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gorecki_jaroslaw"><b>Górecki</b>&nbsp;Jarosław</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7808-7121" title="ORCID: 0000-0002-7808-7121" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jin_wenyu"><b>Jin</b>&nbsp;Wenyu</a></span><br>
+Journal Article - Materials & Design, Vol. 235, No. 112455
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_huanbao"><b>Li</b> Huanbao</a>
-,     <a href="../../../author/li_zihan"><b>Li</b> Zihan</a> <a href="https://orcid.org/0000-0001-5936-8422" title="ORCID: 0000-0001-5936-8422" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>
-,     <a href="../../../author/wang_liang"><b>Wang</b> Liang</a>
-,     <a href="../../../author/cong_xuhui"><b>Cong</b> Xuhui</a>
-,     <a href="../../../author/gorecki_jaroslaw"><b>Górecki</b> Jarosław</a> <a href="https://orcid.org/0000-0001-6829-3127" title="ORCID: 0000-0001-6829-3127" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jin_wenyu"><b>Jin</b> Wenyu</a> <a href="https://orcid.org/0000-0002-7808-7121" title="ORCID: 0000-0002-7808-7121" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, Vol. 235, No. 112455
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#form`](keyword/form)
-    [`#linear`](keyword/linear)
-    [`#method`](keyword/method)
-    [`#mould`](keyword/mould)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/linear"><button class="btn">#linear</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Molding-Quality-Control%20with%20Non-Linear%20Forming-Method%20in%203D%20Cement%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176277033&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388461200" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2023.112455" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2023.112455?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D cement printing is an emerging technology that can construct building elements without formwork, which has broad application prospects in the field of constructing non-linear and complex building structures. However, the high-quality printing and molding of nonlinear structure has become one of the bottleneck technologies restricting the development of 3D building printing. In this paper, variable radian 3D printing nozzle is firstly developed to verify the controllability of extruded concrete material based on self-developed 3D building printer. Then, variable radian forming theory is presented and used to evaluate the mechanism material fracture and accumulation, and improve the molding quality of nonlinear structure. Finally, simulation analysis and experiments are designed to explore the controllable mechanism of variable radian molding and verify the consistency between the experimental results and the theoretical analysis. The research results can promote the application of 3D printing in the construction industry, and provide support for the utilization of building resources and green buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../bai_wang_wang_ma.2021.IPRM/">In-Process Reinforcing Method:<br/>Dual 3D Printing Procedure for Ultra-High-Performance Concrete Reinforced Cementitious Composites</a></li>
       <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a></li>
@@ -98,7 +73,37 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a>, <a href="../../../author/zhang_lichao"><b>Zhang</b> Lichao</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../xu_ding_cai_zhan.2019.VF3CPUaVSSN/">Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle</a></li>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_li_skib_wang.2023.MQCwNLFMi3CP,
+      author            = "Huanbao Li and Zihan Li and Mirosław J. Skibniewski and Liang Wang and Xuhui Cong and Jarosław Górecki and Wenyu Jin",
+      title             = "Molding-Quality-Control with Non-Linear Forming-Method in 3D Cement Printing",
+      doi               = "10.1016/j.matdes.2023.112455",
+      year              = "2023",
+      journal           = "Materials & Design",
+      volume            = "235",
+      pages             = "112455",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Li, “Molding-Quality-Control with Non-Linear Forming-Method in 3D Cement Printing”, <i>Materials & Design</i>, vol. 235, p. 112455, 2023, doi: 10.1016/j.matdes.2023.112455.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Huanbao, Zihan Li, Mirosław J. Skibniewski, Liang Wang, Xuhui Cong, Jarosław Górecki, and Wenyu Jin. “Molding-Quality-Control with Non-Linear Forming-Method in 3D Cement Printing”. <i>Materials & Design</i> 235 (2023): 112455. https://doi.org/10.1016/j.matdes.2023.112455.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

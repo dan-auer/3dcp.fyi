@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shiping Li, Yan Sun, Ye Qian, Wujun Chen, Daxu Zhang, Xiaoniu Yu
+    - footer
+title: Li Shiping, Sun Yan, Qian Ye, Chen Wujun, Zhang Daxu, Yu Xiaoniu
 description:
 tags:
  - architecture
@@ -20,38 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bio-Inspired Bouligand Architectures for Enhanced Flexural Performance in 3D-Printed Strain-Hardening Cementitious Composites (3DP-SHCC) ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.compositesb.2025.112922" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2025.112922</a>
+#Bio-Inspired Bouligand Architectures for Enhanced Flexural Performance in 3D-Printed Strain-Hardening Cementitious Composites (3DP-SHCC) ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2025.112922" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2025.112922" target="_blank">10.1016/j.compositesb.2025.112922</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7639-2985" title="ORCID: 0000-0001-7639-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shiping"><b>Li</b>&nbsp;Shiping</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yan"><b>Sun</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span>, <a href="../../../author/chen_wujun"><b>Chen</b>&nbsp;Wujun</a></span>, <a href="../../../author/zhang_daxu"><b>Zhang</b>&nbsp;Daxu</a></span>, <a href="../../../author/yu_xiaoniu"><b>Yu</b>&nbsp;Xiaoniu</a></span><br>
+Journal Article - Composites Part B: Engineering, No. 112922
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_shiping"><b>Li</b> Shiping</a> <a href="https://orcid.org/0000-0001-7639-2985" title="ORCID: 0000-0001-7639-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_yan"><b>Sun</b> Yan</a> <a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a>
-,     <a href="../../../author/zhang_daxu"><b>Zhang</b> Daxu</a>
-,     <a href="../../../author/yu_xiaoniu"><b>Yu</b> Xiaoniu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, No. 112922
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#bio`](keyword/bio)
-    [`#bouligand`](keyword/bouligand)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#enhancement`](keyword/enhancement)
-    [`#flexural`](keyword/flexural)
-    [`#hardened`](keyword/hardened)
-    [`#inspiration`](keyword/inspiration)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/bouligand"><button class="btn">#bouligand</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bio-Inspired%20Bouligand%20Architectures%20for%20Enhanced%20Flexural%20Performance%20in%203D-Printed%20Strain-Hardening%20Cementitious%20Composites%20%283DP-SHCC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013982843&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413389210" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2025.112922" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2025.112922?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Natural organisms such as mantis shrimp dactyl clubs and coelacanth fish scales have evolved natural damage-resistant biological helical microstructures, such as single- and double-bouligand architected models, which are considered unique and promising biological structures, providing innovative inspiration for high-performance architectural design. Inspired by the bouligand architecture, robotics additive manufacturing technology has been successfully used to manufacture 3DP-SHCC laminates with single- and double-bouligand architectures, aiming to develop their inherent excellent mechanical behavior and toughness mechanism. Compared to the corresponding cast counterparts, the single-bouligand architected 3DP-SHCC laminates with a small pitch angle have increased cracking load, peak load, and energy absorption by 71.5%, 72.6%, and 98.1%, respectively, while the specimens with double-bouligand architectures significantly improved cracking load and peak load by 22.2% and 57.2%, respectively. By developing the unique helically layered bouligand architecture, the 3DP-SHCC laminates effectively suppress damage localization and activate multiple toughening mechanisms—including crack bifurcation, twisting, and deflection—thereby achieving a synergistic enhancement of both strength and toughness. This study develops a strain-hardening-based framework to evaluate the flexural toughness of 3DP-SHCC laminates and systematically clarifies the fiber directionality contribution rate throughout the entire loading process. The advancement overcomes the long-standing limitations of conventional concrete’s tensile properties, complementing the traditional concrete design and construction concepts under solely compressive conditions. The study combines the biological wisdom of the helically layered bouligand architecture with the intrinsic characteristics of 3DP-SHCC, revealing the enhanced mechanical behavior and toughening mechanism of single- and double-bouligand architectures, offering valuable tools for damage-tolerant design in engineering applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -98,8 +70,38 @@ tags:
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_qian_yu_leun.2022.TPo3PSHCCCMPNSaPP/">Tensile Performance of 3D Printed Strain-Hardening Cementitious Composites Considering Material-Parameters, Nozzle-Size and Printing-Pattern</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_sun_qian_chen.2025.BIBAfEFPi3PSHCC3S,
+      author            = "Shiping Li and Yan Sun and Ye Qian and Wujun Chen and Daxu Zhang and Xiaoniu Yu",
+      title             = "Bio-Inspired Bouligand Architectures for Enhanced Flexural Performance in 3D-Printed Strain-Hardening Cementitious Composites (3DP-SHCC)",
+      doi               = "10.1016/j.compositesb.2025.112922",
+      year              = "2025",
+      journal           = "Composites Part B: Engineering",
+      pages             = "112922",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Li, Y. Sun, Y. Qian, W. Chen, D. Zhang and X. Yu, “Bio-Inspired Bouligand Architectures for Enhanced Flexural Performance in 3D-Printed Strain-Hardening Cementitious Composites (3DP-SHCC)”, <i>Composites Part B: Engineering</i>, p. 112922, 2025, doi: 10.1016/j.compositesb.2025.112922.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Shiping, Yan Sun, Ye Qian, Wujun Chen, Daxu Zhang, and Xiaoniu Yu. “Bio-Inspired Bouligand Architectures for Enhanced Flexural Performance in 3D-Printed Strain-Hardening Cementitious Composites (3DP-SHCC)”. <i>Composites Part B: Engineering</i>, 2025, 112922. https://doi.org/10.1016/j.compositesb.2025.112922.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

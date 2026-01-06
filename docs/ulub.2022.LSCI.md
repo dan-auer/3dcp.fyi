@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Serdar Ulubeyli
+    - footer
+title: Ulubeyli Serdar
 description:
 tags:
  - construction
@@ -12,25 +13,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Lunar Shelter Construction Issues:<br/>:aca-blank: The State of the Art Towards 3D Printing Technologies ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.actaastro.2022.03.033" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.actaastro.2022.03.033</a>
+#Lunar Shelter Construction Issues&nbsp;([2022-03](date/2022/03))
+<div class="h1-like">The State of the Art Towards 3D Printing Technologies</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.actaastro.2022.03.033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.actaastro.2022.03.033" target="_blank">10.1016/j.actaastro.2022.03.033</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0871-7391" title="ORCID: 0000-0003-0871-7391" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b>&nbsp;Serdar</a></span><br>
+Journal Article - Acta Astronautica, Vol. 195, pp. 318-343
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b> Serdar</a> <a href="https://orcid.org/0000-0003-0871-7391" title="ORCID: 0000-0003-0871-7391" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Acta Astronautica, Vol. 195, pp. 318-343
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#state`](keyword/state)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Lunar%20Shelter%20Construction%20Issues" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127137316&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220909843" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.actaastro.2022.03.033" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.actaastro.2022.03.033?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The next step for the exploration of space seems to require the human participation by means of a long-lasting lunar outpost. Therefore, this paper attempts to review the up-to-date knowledge regarding prominent issues surrounding the construction stage of a permanent base on the Moon in the light of the 3D printing process. In this context, a number of significant and specific issues are presented and discussed in a detailed manner to determine both the state-of-the-art position of the related literature and the relevant fields for improvement and implications. As a result, the use of heterogeneous and collective swarms of ground robots through a decentralized approach seems reasonable for the 3D printing tasks. However, as it is an emerging technology, it has to be improved further and tested in a terrestrial context as well as on the Moon. In this regard, it is a must to investigate precisely if the solar energy will be adequate for the operation of robots during preparation, transportation, and printing processes of local and Earth-based construction materials. In terms of structural needs, a composite shelter, including (i) an inner inflatable shell with a three-layer membrane, (ii) an outer concrete layer with regolith, polymer, and reinforcing fibers, and (iii) an outermost shield with raw regolith, will likely be viable. However, sieving and binding issues during the preparation phase of concrete under vacuum and microgravity conditions must be solved efficiently.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -90,8 +76,8 @@ tags:
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a>, <a href="../../../author/sanchez_salgado_p"><b>Sánchez</b> P.</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/ezquerro_m_j"><b>Ezquerro</b> J.</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kach_sanc_moll_ezqu.2025.NAoC3PLH/">Numerical Analysis of Coaxially 3D Printed Lunar Habitats:<br/>Integrating Regolith and PCM for Passive Temperature Control</a></li>
       <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../wang_han_liu_yang.2025.Rot3PPaFSoCMiLG/">Research on the 3D Printing Process and Filament Shape of Cementitious Materials in Low Gravity</a></li>
       <li><a href="../../../author/venugopal-reddy_p"><b>Venugopal Reddy</b> P.</a>, <a href="../../../author/nakkeeran_g"><b>Nakkeeran</b> G.</a>, <a href="../../../author/roy_dipankar"><b>Roy</b> Dipankar</a>, <a href="../../../author/alaneme_uwadiegwu_george"><b>Alaneme</b> George</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../venu_nakk_roy_alan.2024.EtUoRFAi3P/">Evaluating the Use of Recycled Fine Aggregates in 3D Printing:<br/>A Systematic Review</a></li>
@@ -101,4 +87,34 @@ tags:
       <li><a href="../../../author/arslan_volkan"><b>Arslan</b> Volkan</a>, <a href="../../../author/dogan_zekeriya"><b>Dogan</b> Zekeriya</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../arsl_doga.2023.TDPPS/">Three-Dimensional, Printable Paving Stone:<br/>A Preliminary Study</a></li>
       <li><a href="../../../author/ren_chuangnan"><b>Ren</b> Chuangnan</a>, <a href="../../../author/hua_dongliang"><b>Hua</b> Dongliang</a>, <a href="../../../author/bai_yonghui"><b>Bai</b> Yonghui</a>, <a href="../../../author/wu_shuang"><b>Wu</b> Shuang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../ren_hua_bai_wu.2022.Pa3PBAoSCMUISW/">Preparation and 3D Printing Building Application of Sulfoaluminate-Cementitious-Material Using Industrial Solid-Waste</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ulub.2022.LSCI,
+      author            = "Serdar Ulubeyli",
+      title             = "Lunar Shelter Construction Issues: The State of the Art Towards 3D Printing Technologies",
+      doi               = "10.1016/j.actaastro.2022.03.033",
+      year              = "2022",
+      journal           = "Acta Astronautica",
+      volume            = "195",
+      pages             = "318--343",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Ulubeyli, “Lunar Shelter Construction Issues: The State of the Art Towards 3D Printing Technologies”, <i>Acta Astronautica</i>, vol. 195, pp. 318–343, 2022, doi: 10.1016/j.actaastro.2022.03.033.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ulubeyli, Serdar. “Lunar Shelter Construction Issues: The State of the Art Towards 3D Printing Technologies”. <i>Acta Astronautica</i> 195 (2022): 318–43. https://doi.org/10.1016/j.actaastro.2022.03.033.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

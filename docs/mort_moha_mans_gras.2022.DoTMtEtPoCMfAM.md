@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Youssef Mortada, Malek Mohammad, Bilal Mansoor, Zachary Grasley, Eyad Masad
+    - footer
+title: Mortada Youssef, Mohammad Malek, Mansoor Bilal, Grasley Zachary, Masad Eyad
 description:
 tags:
  - additive
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/18/6486/pdf?version=1663587242) Development of Test-Methods to Evaluate the Printability of Concrete Materials for Additive Manufacturing ([2022-09](date/2022/09))
-<a href="https://doi.org/10.3390/ma15186486" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15186486</a>
+#Development of Test-Methods to Evaluate the Printability of Concrete Materials for Additive Manufacturing ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/18/6486/pdf?version=1663587242) <a href="https://doi.org/10.3390/ma15186486" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15186486" target="_blank">10.3390/ma15186486</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1403-4669" title="ORCID: 0000-0003-1403-4669" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mortada_youssef"><b>Mortada</b>&nbsp;Youssef</a></span>, <a href="../../../author/mohammad_malek"><b>Mohammad</b>&nbsp;Malek</a></span>, <a href="../../../author/mansoor_bilal"><b>Mansoor</b>&nbsp;Bilal</a></span>, <a href="../../../author/grasley_zachary"><b>Grasley</b>&nbsp;Zachary</a></span>, <a href="../../../author/masad_eyad"><b>Masad</b>&nbsp;Eyad</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 18
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a> <a href="https://orcid.org/0000-0003-1403-4669" title="ORCID: 0000-0003-1403-4669" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>
-,     <a href="../../../author/mansoor_bilal"><b>Mansoor</b> Bilal</a>
-,     <a href="../../../author/grasley_zachary"><b>Grasley</b> Zachary</a>
-,     <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 18, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#evaluation`](keyword/evaluation)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#printability`](keyword/printability)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Test-Methods%20to%20Evaluate%20the%20Printability%20of%20Concrete%20Materials%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138752370&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4296794832" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15186486" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15186486?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study proposes test methods for assessing the printability of concrete materials for Additive Manufacturing. The printability of concrete is divided into three main aspects: flowability, setting time, and buildability. These properties are considered to monitor the critical quality of 3DCP and to ensure a successful print. Flowability is evaluated through a rheometer test, where the evolution of shear yield strength is monitored at a constant rate (rpm), similar to the printer setup. Flowability limits were set based on the user-defined maximum thickness of a printed layer and the onset of gaps/cracks during printing. Setting time is evaluated through an ultrasonic wave pulse velocity test (UPV), where the first inflection point of the evolution of the UPV graph corresponds to the setting time of the concrete specimen. The results from this continuous non-destructive test were found to correlate with the results from the discrete destructive ASTM C-191 test for measuring setting time with a maximum difference of 5% between both sets of values. Lastly, buildability was evaluated through the measurement of the early-age compressive strength of concrete, and a correlation with the UPV results obtained a predictive model that can be used in real-time to non-destructively assess the material buildability. This predictive model had a maximum percentage difference of 13% with the measured values. The outcome of this study is a set of tests to evaluate the properties of 3D printable concrete (3DP) material and provide a basis for a framework to benchmark and design materials for additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/widjaya_christian_david"><b>Widjaya</b> David</a>, <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b> Alexander</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_widj_wibo_chan.2022.UCOaAtCtISToMi3CP/">Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing</a></li>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
@@ -92,8 +68,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
       <li><a href="../../../author/anop_darya"><b>Anop</b> Darya</a>, <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>, <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../anop_sade_beis_rude.2025.AMaaAtCSiCSA/">Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment</a></li>
       <li><a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/masoud_laith"><b>Masoud</b> Laith</a>, <a href="../../../author/wyrzykowski_mateusz"><b>Wyrzykowski</b> Mateusz</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../mort_hamm_maso_wyrz.2025.3PCO2BGCwSFR/">3D Printable Ca(OH)2-Based Geopolymer Concrete with Steel Fiber Reinforcement</a></li>
@@ -104,4 +80,34 @@ tags:
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_he_schl.2023.LMoEACo3PSwtCoSH/">Lattice-Modelling of Early-Age Creep of 3D Printed Segments with the Consideration of Stress-History</a></li>
       <li><a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/kogbara_b_reginald"><b>Kogbara</b> Reginald</a>, <a href="../../../author/mansoor_bilal"><b>Mansoor</b> Bilal</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../mort_masa_kogb_mans.2023.DoCO2BGfAMUCWaNM/">Development of Ca(OH)2-Based Geopolymer for Additive Manufacturing Using Construction Wastes and Nano-Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mort_moha_mans_gras.2022.DoTMtEtPoCMfAM,
+      author            = "Youssef Mortada and Malek Mohammad and Bilal Mansoor and Zachary Grasley and Eyad Masad",
+      title             = "Development of Test-Methods to Evaluate the Printability of Concrete Materials for Additive Manufacturing",
+      doi               = "10.3390/ma15186486",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "18",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Mortada, M. Mohammad, B. Mansoor, Z. Grasley and E. Masad, “Development of Test-Methods to Evaluate the Printability of Concrete Materials for Additive Manufacturing”, <i>Materials</i>, vol. 15, no. 18, 2022, doi: 10.3390/ma15186486.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mortada, Youssef, Malek Mohammad, Bilal Mansoor, Zachary Grasley, and Eyad Masad. “Development of Test-Methods to Evaluate the Printability of Concrete Materials for Additive Manufacturing”. <i>Materials</i> 15, no. 18 (2022). https://doi.org/10.3390/ma15186486.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

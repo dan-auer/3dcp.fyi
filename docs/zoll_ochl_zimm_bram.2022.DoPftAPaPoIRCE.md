@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Raphael Zöller, Andreas Ochlast, Florian Zimmert, Thomas Braml
+    - footer
+title: Zöller Raphael, Ochlast Andreas, Zimmert Florian, Braml Thomas
 description:
 tags:
  - automation
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Processes for the Automated Planning and Production of Individual Reinforced Concrete Elements ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1002/best.202100102" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/best.202100102</a>
+#Development of Processes for the Automated Planning and Production of Individual Reinforced Concrete Elements ([2022-02](date/2022/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202100102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202100102" target="_blank">10.1002/best.202100102</a>
 
--------------------------
+<a href="../../../author/zoller_raphael"><b>Zöller</b>&nbsp;Raphael</a></span>, <a href="../../../author/ochlast_andreas"><b>Ochlast</b>&nbsp;Andreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2411-1106" title="ORCID: 0000-0002-2411-1106" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zimmert_florian"><b>Zimmert</b>&nbsp;Florian</a></span>, <a href="../../../author/braml_thomas"><b>Braml</b>&nbsp;Thomas</a></span><br>
+Journal Article - Beton- und Stahlbetonbau, Vol. 117, Iss. 4, pp. 222-234
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>
-,     <a href="../../../author/ochlast_andreas"><b>Ochlast</b> Andreas</a>
-,     <a href="../../../author/zimmert_florian"><b>Zimmert</b> Florian</a> <a href="https://orcid.org/0000-0002-2411-1106" title="ORCID: 0000-0002-2411-1106" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/braml_thomas"><b>Braml</b> Thomas</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Beton- und Stahlbetonbau, Vol. 117, Iss. 4, pp. 222-234
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#element`](keyword/element)
-    [`#individuality`](keyword/individuality)
-    [`#process`](keyword/process)
-    [`#production`](keyword/production)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/individuality"><button class="btn">#individuality</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Processes%20for%20the%20Automated%20Planning%20and%20Production%20of%20Individual%20Reinforced%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124895878&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4293225565" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/best.202100102" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/best.202100102?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Industry 4.0, digitalization and automation have the potential to significantly advance reinforced concrete as a material in terms of resource conservation, prefabrication, durability, quality of execution and many other aspects. Robots and robotic machines can already be found more and more frequently in production halls. In line with this trend, this article presents research and development work currently being carried out by the Max Bögl Group and the Bundeswehr University Munich, Institute of Structural Engineering. The first declared development goals of this alliance concern the implementation of drivers of digitalization and Industry 4.0 in the planning and production of precast reinforced concrete elements. To this end, a process for parametric 3D modeling and path planning for robot applications is being developed in digital planning. The resulting data sets are then used in the technical implementation using industrial robots on the one hand for the individual production of reinforcement cages and on the other hand for the production of alternative component geometries using a concrete 3D printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -85,9 +63,41 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
       <li><a href="../../../author/kromoser_benjamin"><b>Kromoser</b> Benjamin</a>, <a href="../../../author/gappmeier_peter"><b>Gappmeier</b> Peter</a>, <a href="../../../author/ahmed_iyad"><b>Ahmed</b> Iyad</a>, <a href="../../../author/reichenbach_sara"><b>Reichenbach</b> Sara</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krom_gapp_ahme_reic.2024.ANAfADaRAPoSORCBE/">A New Approach for Automated Design and Robot-Assisted Production of Structurally Optimised Reusable Concrete Building Elements</a></li>
       <li><a href="../../../author/zohrabyan_vahan"><b>Zohrabyan</b> Vahan</a>, <a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/gradic_simon"><b>Gradic</b> Simon</a>, <a href="../../../author/braml_thomas"><b>Braml</b> Thomas</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zohr_zoll_grad_bram.2023.Po3PSFRCCftPoCI/">Potential of 3D Printed Steel Fiber Reinforced Concrete Components for the Protection of Critical Infrastructure:<br/>Impact and Free-Fall Tests</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zoll_ochl_zimm_bram.2022.DoPftAPaPoIRCE,
+      author            = "Raphael Zöller and Andreas Ochlast and Florian Zimmert and Thomas Braml",
+      title             = "Development of Processes for the Automated Planning and Production of Individual Reinforced Concrete Elements",
+      doi               = "10.1002/best.202100102",
+      year              = "2022",
+      journal           = "Beton- und Stahlbetonbau",
+      volume            = "117",
+      number            = "4",
+      pages             = "222--234",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Zöller, A. Ochlast, F. Zimmert and T. Braml, “Development of Processes for the Automated Planning and Production of Individual Reinforced Concrete Elements”, <i>Beton- und Stahlbetonbau</i>, vol. 117, no. 4, pp. 222–234, 2022, doi: 10.1002/best.202100102.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zöller, Raphael, Andreas Ochlast, Florian Zimmert, and Thomas Braml. “Development of Processes for the Automated Planning and Production of Individual Reinforced Concrete Elements”. <i>Beton- Und Stahlbetonbau</i> 117, no. 4 (2022): 222–34. https://doi.org/10.1002/best.202100102.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

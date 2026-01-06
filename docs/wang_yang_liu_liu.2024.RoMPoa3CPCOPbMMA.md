@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bolin Wang, Min Yang, Shilong Liu, Xianda Liu, Hongyu Zhao, Xiangyu Wang, Yishuang Liang, Xiaofei Yao
+    - footer
+title: Wang Bolin, Yang Min, Liu Shilong, Liu Xianda, Zhao Hongyu, Wang Xiangyu, Liang Yishuang, Yao Xiaofei
 description:
 tags:
  - analysis
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/su16219388) Research on Mechanical Properties of a 3D Concrete Printing Component-Optimized Path by Multi-Modal Analysis ([2024-10](date/2024/10))
-<a href="https://doi.org/10.3390/su16219388" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su16219388</a>
+#Research on Mechanical Properties of a 3D Concrete Printing Component-Optimized Path by Multi-Modal Analysis ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/su16219388) <a href="https://doi.org/10.3390/su16219388" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su16219388" target="_blank">10.3390/su16219388</a>
 
--------------------------
+<a href="../../../author/wang_bolin"><b>Wang</b>&nbsp;Bolin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_min"><b>Yang</b>&nbsp;Min</a></span>, <a href="../../../author/liu_shilong"><b>Liu</b>&nbsp;Shilong</a></span>, <a href="../../../author/liu_xianda"><b>Liu</b>&nbsp;Xianda</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/liang_yishuang"><b>Liang</b>&nbsp;Yishuang</a></span>, <a href="../../../author/yao_xiaofei"><b>Yao</b>&nbsp;Xiaofei</a></span><br>
+Journal Article - Sustainability, Vol. 16, Iss. 21, No. 9388
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>
-,     <a href="../../../author/yang_min"><b>Yang</b> Min</a> <a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_shilong"><b>Liu</b> Shilong</a>
-,     <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>
-,     <a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> <a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liang_yishuang"><b>Liang</b> Yishuang</a>
-,     <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 16, Iss. 21, No. 9388
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#mechanics`](keyword/mechanics)
-    [`#multi`](keyword/multi)
-    [`#optimization`](keyword/optimization)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20Mechanical%20Properties%20of%20a%203D%20Concrete%20Printing%20Component-Optimized%20Path%20by%20Multi-Modal%20Analysis" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208545606&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403870950" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su16219388" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su16219388?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) technology with solid wastes has significant potential for sustainable construction. However, the hardened mechanical properties of components manufactured using 3DCP technology are affected by weak interlayer interfaces, limiting the widespread application of 3DCP technology. To address the inherent limitations of 3DCP technology, conventional improvement strategies, such as external reinforcement and the optimization of material properties, lead to increased production costs, complex fabrication, and decreased automation. This study proposes an innovative spatial path optimization method to enhance the mechanical performance of 3D-printed, cement-based components. The novel S-path design introduces additional printed layers in the weak interlayer regions of the printed samples. This design improves the spatial distribution of fiber-reinforced filaments in continuous weak zones, thus enhancing the functional efficiency of fibers. This approach improves the mechanical performance of the printed samples, achieving compressive strengths close to those of cast samples and only a 20% reduction in average flexural strength. Compared to using a conventional printing path, the average compressive strength and flexural strength are improved by 30% and 55%, respectively, when the S-path layout is employed in 3DCP. Additionally, this method significantly reduces the anisotropy in compressive and flexural strengths to 26% and 28% of samples using conventional printing paths, respectively. Therefore, the proposed method can improve the mechanical properties and stability of the material, reducing the safety risks of printed structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../batt_mill_veri.2020.PCC/">Print-Cast Concrete:<br/>Additive Manufacturing for 3D Printing Mortar in Robotically Fabricated Green Sand Molds</a></li>
@@ -106,11 +79,42 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a>, <a href="../../../author/li_keyan"><b>Li</b> Keyan</a>, <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_li_liu.2025.S3PECCIRCM/">Sustainable 3D Printed Engineered Cementitious Composites Incorporating Recycled Ceramic Materials:<br/>Rheology and Mechanical Behavior</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhao_wang_sun_wu.2025.AASfMDi3PC/">Automated Analysis System for Micro-Defects in 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhao_wang_chen_liu.2025.MIo3PCUMTN/">Microcrack Investigations of 3D Printing Concrete Using Multiple Transformer Networks</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_yang_liu_liu.2024.RoMPoa3CPCOPbMMA,
+      author            = "Bolin Wang and Min Yang and Shilong Liu and Xianda Liu and Hongyu Zhao and Xiangyu Wang and Yishuang Liang and Xiaofei Yao",
+      title             = "Research on Mechanical Properties of a 3D Concrete Printing Component-Optimized Path by Multi-Modal Analysis",
+      doi               = "10.3390/su16219388",
+      year              = "2024",
+      journal           = "Sustainability",
+      volume            = "16",
+      number            = "21",
+      pages             = "9388",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Wang, “Research on Mechanical Properties of a 3D Concrete Printing Component-Optimized Path by Multi-Modal Analysis”, <i>Sustainability</i>, vol. 16, no. 21, p. 9388, 2024, doi: 10.3390/su16219388.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Bolin, Min Yang, Shilong Liu, Xianda Liu, Hongyu Zhao, Xiangyu Wang, Yishuang Liang, and Xiaofei Yao. “Research on Mechanical Properties of a 3D Concrete Printing Component-Optimized Path by Multi-Modal Analysis”. <i>Sustainability</i> 16, no. 21 (2024): 9388. https://doi.org/10.3390/su16219388.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

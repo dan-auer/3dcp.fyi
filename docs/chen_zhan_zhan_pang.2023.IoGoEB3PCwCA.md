@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yidong Chen, Yunsheng Zhang, Yu Zhang, Bo Pang, Wenhua Zhang, Cheng Liu, Zhiyong Liu, Dafu Wang, Guowen Sun
+    - footer
+title: Chen Yidong, Zhang Yunsheng, Zhang Yu, Pang Bo, Zhang Wenhua, Liu Cheng, Liu Zhiyong, Wang Dafu, Sun Guowen
 description:
 tags:
  - aggregate
@@ -16,37 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Gradation on Extrusion-Based 3D Printing Concrete with Coarse Aggregate ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133135" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133135</a>
+#Influence of Gradation on Extrusion-Based 3D Printing Concrete with Coarse Aggregate ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133135" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133135" target="_blank">10.1016/j.conbuildmat.2023.133135</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yidong"><b>Chen</b>&nbsp;Yidong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yunsheng"><b>Zhang</b>&nbsp;Yunsheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yu"><b>Zhang</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pang_bo"><b>Pang</b>&nbsp;Bo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6516-655X" title="ORCID: 0000-0002-6516-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_wenhua"><b>Zhang</b>&nbsp;Wenhua</a></span>, <a href="../../../author/liu_cheng"><b>Liu</b>&nbsp;Cheng</a></span>, <a href="../../../author/liu_zhiyong"><b>Liu</b>&nbsp;Zhiyong</a></span>, <a href="../../../author/wang_dafu"><b>Wang</b>&nbsp;Dafu</a></span>, <a href="../../../author/sun_guowen"><b>Sun</b>&nbsp;Guowen</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 403, No. 133135
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a> <a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> <a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> <a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pang_bo"><b>Pang</b> Bo</a> <a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a> <a href="https://orcid.org/0000-0002-6516-655X" title="ORCID: 0000-0002-6516-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a>
-,     <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>
-,     <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a>
-,     <a href="../../../author/sun_guowen"><b>Sun</b> Guowen</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 403, No. 133135
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#base`](keyword/base)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#grade`](keyword/grade)
-    [`#influence`](keyword/influence)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Gradation%20on%20Extrusion-Based%203D%20Printing%20Concrete%20with%20Coarse%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85170034413&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386323074" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133135" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133135?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Coarse aggregate is an indispensable component of concrete, the gradation of which plays an important role in the properties of concrete due to its effect on particle distribution. The extrusion-based 3D concrete printing (3DCP) has become a promising technology while the influence of coarse aggregate gradation on the material design and performance of 3D printed concrete still lack understanding. This study experimentally investigates the fresh and hardened properties of 3D printed concrete with 4.75–20 mm continuous and discontinuous grading coarse aggregates, including flowability, buildability, axial compression, and drying shrinkage. The results reveal that 3D printed concrete with continuous grading performs better on flowability retaining and multilayer structure stacking than that with discontinuous grading. The evaluation coefficient of aggregate particle size is proposed to characterize the average particle size of coarse aggregates with different gradations, which shows linear relationship with coarse aggregate 3D spacing in 3D printed concrete. The current axial compressive stress–strain model for the conventional concrete prediction curve is modified to predict the effect of coarse aggregate gradation on constitutive relationship of 3D printed concrete. The increasing proportion of large-sized coarse aggregates can lead to a reduction in long-term drying shrinkage of 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/zheng_dapeng"><b>Zheng</b> Dapeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../cao_yu_zhen_cui.2022.NPtEtIBSi3PC/">Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
@@ -103,8 +76,9 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yu_zhan_pan.2025.MSODCMf3PCIbPS/">Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure</a></li>
       <li><a href="../../../author/geng_shao-bo"><b>Geng</b> Shao-bo</a>, <a href="../../../author/zhang_chen"><b>Zhang</b> Chen</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/hai_lu"><b>Hai</b> Lu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../geng_zhan_zhan_hai.2025.UCGCAi3PC/">Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete:<br/>Multi-Scale Mechanisms of Fracture Behaviour</a></li>
@@ -121,4 +95,34 @@ tags:
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
       <li><a href="../../../author/ma_liangzhu"><b>Ma</b> Liangzhu</a>, <a href="../../../author/yin_deshun"><b>Yin</b> Deshun</a>, <a href="../../../author/ren_jiangtao"><b>Ren</b> Jiangtao</a>, <a href="../../../author/tian_mingyuan"><b>Tian</b> Mingyuan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_yin_ren_tian.2024.AETSDRMf3PCMitFS/">An Effective Thixotropic Structural-Dynamics Rheological-Model for 3D Printed Concrete Materials in the Flow-State</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_zhan_pang.2023.IoGoEB3PCwCA,
+      author            = "Yidong Chen and Yunsheng Zhang and Yu Zhang and Bo Pang and Wenhua Zhang and Cheng Liu and Zhiyong Liu and Dafu Wang and Guowen Sun",
+      title             = "Influence of Gradation on Extrusion-Based 3D Printing Concrete with Coarse Aggregate",
+      doi               = "10.1016/j.conbuildmat.2023.133135",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "403",
+      pages             = "133135",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, “Influence of Gradation on Extrusion-Based 3D Printing Concrete with Coarse Aggregate”, <i>Construction and Building Materials</i>, vol. 403, p. 133135, 2023, doi: 10.1016/j.conbuildmat.2023.133135.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yidong, Yunsheng Zhang, Yu Zhang, Bo Pang, Wenhua Zhang, Cheng Liu, Zhiyong Liu, Dafu Wang, and Guowen Sun. “Influence of Gradation on Extrusion-Based 3D Printing Concrete with Coarse Aggregate”. <i>Construction and Building Materials</i> 403 (2023): 133135. https://doi.org/10.1016/j.conbuildmat.2023.133135.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

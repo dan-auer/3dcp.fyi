@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meysam Alizamir, Sungwon Kim, Rana Ikram, Kaywan Ahmed, Salim Heddam, Aliakbar Gholampour
+    - footer
+title: Alizamir Meysam, Kim Sungwon, Ikram Rana, Ahmed Kaywan, Heddam Salim, Gholampour Aliakbar
 description:
 tags:
  - concrete
@@ -21,39 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.rineng.2025.105715) A Reliable Hybrid Extreme Learning Machine-Metaheuristic Framework for Enhanced Strength Prediction of 3D-Printed Fiber-Reinforced Concrete ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.rineng.2025.105715" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2025.105715</a>
+#A Reliable Hybrid Extreme Learning Machine-Metaheuristic Framework for Enhanced Strength Prediction of 3D-Printed Fiber-Reinforced Concrete ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rineng.2025.105715) <a href="https://doi.org/10.1016/j.rineng.2025.105715" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.105715" target="_blank">10.1016/j.rineng.2025.105715</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1047-1917" title="ORCID: 0000-0003-1047-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alizamir_meysam"><b>Alizamir</b>&nbsp;Meysam</a></span>, <a href="../../../author/kim_sungwon"><b>Kim</b>&nbsp;Sungwon</a></span>, <a href="../../../author/ikram_muhammad-adnan_rana"><b>Ikram</b>&nbsp;Rana</a></span>, <a href="../../../author/ahmed_othman_kaywan"><b>Ahmed</b>&nbsp;Kaywan</a></span>, <a href="../../../author/heddam_salim"><b>Heddam</b>&nbsp;Salim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gholampour_aliakbar"><b>Gholampour</b>&nbsp;Aliakbar</a></span><br>
+Journal Article - Results in Engineering, No. 105715
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alizamir_meysam"><b>Alizamir</b> Meysam</a> <a href="https://orcid.org/0000-0003-1047-1917" title="ORCID: 0000-0003-1047-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_sungwon"><b>Kim</b> Sungwon</a>
-,     <a href="../../../author/ikram_muhammad-adnan_rana"><b>Ikram</b> Rana</a>
-,     <a href="../../../author/ahmed_othman_kaywan"><b>Ahmed</b> Kaywan</a>
-,     <a href="../../../author/heddam_salim"><b>Heddam</b> Salim</a>
-,     <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, No. 105715
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#extreme`](keyword/extreme)
-    [`#fiber`](keyword/fiber)
-    [`#framework`](keyword/framework)
-    [`#hybrid`](keyword/hybrid)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#reliability`](keyword/reliability)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/extreme"><button class="btn">#extreme</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/reliability"><button class="btn">#reliability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Reliable%20Hybrid%20Extreme%20Learning%20Machine-Metaheuristic%20Framework%20for%20Enhanced%20Strength%20Prediction%20of%203D-Printed%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008325885&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411196147" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2025.105715" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2025.105715?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing has emerged as a promising technology in the construction industry, offering significant advantages over traditional methods. This innovative approach addresses longstanding challenges such as low workforce efficiency while providing economic and environmental benefits, including reduced waste generation and decreased labor requirements. The primary objective of this research is to develop accurate predictive models for compressive strength (CS) and flexural strength (FS) of 3D-printed fiber-reinforced concrete (3DP-FRC) using advanced machine learning techniques. The study evaluates six extreme learning-based approaches: the standard extreme learning machine (ELM) and its optimized variants using differential evolution (ELM-DE), grey wolf optimization (ELM-GWO), whale optimization algorithm (ELM-WOA), genetic algorithm (ELM-GA), and bat algorithm (ELM-BAT). A substantial database was assembled for this investigation, consisting of 299 CS laboratory specimens and 200 FS examples extracted from published research. This data was leveraged to develop diverse, dependable predictive frameworks based on ELM technology. A methodical approach was incorporated, starting with initial model training phases, followed by rigorous assessment procedures to evaluate accuracy and forecasting efficiency. Moreover, each model was tested across nine distinct feature parameter scenarios to ensure robust strength prediction capabilities. A SelectKBest algorithm was implemented to analyze how different feature variables affect the prediction of CS and FS parameters. This technique ranked the relative importance of each feature parameter, providing insights into the relationships between features and outputs. The performance of each model was evaluated using four key statistical metrics: mean absolute error (MAE), Nash-Sutcliffe efficiency (NSE), root mean square error (RMSE), and correlation coefficient (R). These performance indicators enabled a thorough evaluation of each model's predictive capabilities. Based on the RMSE indicator, the top three performing models for CS prediction were ELM-BAT (RMSE = 9.332 MPa), ELM-DE (RMSE = 9.363 MPa), and ELM-GWO (RMSE = 9.422 MPa). Similarly, for FS prediction, ELM-BAT achieved the best performance (RMSE = 1.163 MPa), followed by ELM-DE (RMSE = 1.928 MPa) and ELM-GWO (RMSE = 3.203 MPa). According to the SelectKBest algorithm results, fly ash emerged as the most influential feature parameter for both CS and FS variables. The study demonstrates that the parameters applied across different scenarios effectively predict CS and FS values of 3DP-FRC when used with the proposed algorithms.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/javed_faisal_muhammad"><b>Javed</b> Muhammad</a>, <a href="../../../author/ali_mujahid"><b>Ali</b> Mujahid</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../alya_khan_jave_ali.2024.AoMOAiPtCSo3PFRC/">Application of Metaheuristic Optimization Algorithms in Predicting the Compressive Strength of 3D Printed Fiber-Reinforced Concrete</a></li>
@@ -102,7 +73,36 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aliz_kim_ikra_ahme.2025.ARHELMMFfESPo3PFRC,
+      author            = "Meysam Alizamir and Sungwon Kim and Rana Muhammad Adnan Ikram and Kaywan Othman Ahmed and Salim Heddam and Aliakbar Gholampour",
+      title             = "A Reliable Hybrid Extreme Learning Machine-Metaheuristic Framework for Enhanced Strength Prediction of 3D-Printed Fiber-Reinforced Concrete",
+      doi               = "10.1016/j.rineng.2025.105715",
+      year              = "2025",
+      journal           = "Results in Engineering",
+      pages             = "105715",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Alizamir, S. Kim, R. M. A. Ikram, K. O. Ahmed, S. Heddam and A. Gholampour, “A Reliable Hybrid Extreme Learning Machine-Metaheuristic Framework for Enhanced Strength Prediction of 3D-Printed Fiber-Reinforced Concrete”, <i>Results in Engineering</i>, p. 105715, 2025, doi: 10.1016/j.rineng.2025.105715.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alizamir, Meysam, Sungwon Kim, Rana Muhammad Adnan Ikram, Kaywan Othman Ahmed, Salim Heddam, and Aliakbar Gholampour. “A Reliable Hybrid Extreme Learning Machine-Metaheuristic Framework for Enhanced Strength Prediction of 3D-Printed Fiber-Reinforced Concrete”. <i>Results in Engineering</i>, 2025, 105715. https://doi.org/10.1016/j.rineng.2025.105715.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

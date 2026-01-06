@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hanghua Zhang, Yanke Tan, Lucen Hao, Shipeng Zheng, Jianzhuang Xiao, Chi Poon
+    - footer
+title: Zhang Hanghua, Tan Yanke, Hao Lucen, Zheng Shipeng, Xiao Jianzhuang, Poon Chi
 description:
 tags:
  - concrete
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.autcon.2024.105325" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105325</a>
+#Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105325" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105325" target="_blank">10.1016/j.autcon.2024.105325</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7224-4555" title="ORCID: 0000-0001-7224-4555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hanghua"><b>Zhang</b>&nbsp;Hanghua</a></span>, <a href="../../../author/tan_yanke"><b>Tan</b>&nbsp;Yanke</a></span>, <a href="../../../author/hao_lucen"><b>Hao</b>&nbsp;Lucen</a></span>, <a href="../../../author/zheng_shipeng"><b>Zheng</b>&nbsp;Shipeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/poon_sun_chi"><b>Poon</b>&nbsp;Chi</a></span><br>
+Journal Article - Automation in Construction, Vol. 160, No. 105325
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a> <a href="https://orcid.org/0000-0001-7224-4555" title="ORCID: 0000-0001-7224-4555" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_yanke"><b>Tan</b> Yanke</a>
-,     <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>
-,     <a href="../../../author/zheng_shipeng"><b>Zheng</b> Shipeng</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 160, No. 105325
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#intelligence`](keyword/intelligence)
-    [`#mixing`](keyword/mixing)
-    [`#near`](keyword/near)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#real`](keyword/real)
-    [`#secondary`](keyword/secondary)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/near"><button class="btn">#near</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/secondary"><button class="btn">#secondary</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Intelligent%20Real-Time%20Quality-Control%20for%203D%20Printed%20Concrete%20with%20Near-Nozzle%20Secondary-Mixing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184993382&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391812984" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105325" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105325?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     An intelligent monitoring method coupled with a feedback adjustment system was developed to accomplish real-time quality control of 3D printed concrete (3DPC). To achieve instant concrete rheology modification, a liquid accelerator was added in 3DPC before extrusion employing the near-nozzle secondary mixing strategy. Effects of accelerator contents on fresh and mechanical properties of 3DPC were explored, providing valuable insights for real-time regulation of material fluidity. Images of filaments captured during concrete 3D printing were categorized into 15 classes according to geometry and material characteristics. Subsequently, classification models were developed based on a lightweight modified Inception-ResNet, and its superiority was confirmed through a comparison with traditional VGG network. The classification ability, confusion harmful effects and the generalization performance of the models were evaluated. Eventually, guided by AI-aided quality assessment, real-time automated adjustments to extrusion speed and accelerator injection rate were realized, achieving in-situ quality control for automatic construction of 3DPC structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../davt_kaze_yuan_khos.2022.AIiRAMUDLfLDD/">Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection</a></li>
       <li><a href="../../../author/garcia_rill_rodrigo"><b>García</b> Rodrigo</a>, <a href="../../../author/dokladalova_eva"><b>Dokladalova</b> Eva</a>, <a href="../../../author/dokladal_petr"><b>Dokládal</b> Petr</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../garc_dokl_dokl_caro.2022.ILMo3CPUCV/">In-Line Monitoring of 3D Concrete Printing Using Computer-Vision</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -111,12 +84,43 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>, <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_ji_cui_shi.2025.RPoQCMoC3PBoCV/">Research Progress on Quality Control Method of Concrete 3D Printing Based on Computer Vision</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/chen_jianhua"><b>Chen</b> Jianhua</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bani_demp_chen_kaze.2025.MLAtPtEAFSoSE3PS/">Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b> Hung-Xuan</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../li_lan_nguy_tran.2024.FiC3P/">Frontiers in Construction 3D Printing:<br/>Self-Monitoring, Multi-Robot, Drone-Assisted Processes</a></li>
       <li><a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a>, <a href="../../../author/prigol_hellen"><b>Prigol</b> Hellen</a>, <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a>, <a href="../../../author/silva-nazario_samara"><b>Silva Nazário</b> Samara</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../mato_prig_scha_silv.2024.QCToF3PCBM/">Quality-Control-Tests of Fresh 3D Printable Cement-Based Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM,
+      author            = "Hanghua Zhang and Yanke Tan and Lucen Hao and Shipeng Zheng and Jianzhuang Xiao and Chi Sun Poon",
+      title             = "Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing",
+      doi               = "10.1016/j.autcon.2024.105325",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "160",
+      pages             = "105325",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhang, Y. Tan, L. Hao, S. Zheng, J. Xiao and C. S. Poon, “Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing”, <i>Automation in Construction</i>, vol. 160, p. 105325, 2024, doi: 10.1016/j.autcon.2024.105325.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Hanghua, Yanke Tan, Lucen Hao, Shipeng Zheng, Jianzhuang Xiao, and Chi Sun Poon. “Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing”. <i>Automation in Construction</i> 160 (2024): 105325. https://doi.org/10.1016/j.autcon.2024.105325.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

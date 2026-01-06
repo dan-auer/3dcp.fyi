@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Stefan Gantner, Philipp Rennen, Fatemeh Amiri, Tom Rothe, Christian Hühne, Dirk Lowke, Harald Kloft, Norman Hack
+    - footer
+title: Gantner Stefan, Rennen Philipp, Amiri Fatemeh, Rothe Tom, Hühne Christian, Lowke Dirk, Kloft Harald, Hack Norman
 description:
 tags:
  - concrete
@@ -20,40 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s41693-025-00154-0.pdf) Robotic Frame Winding:<br/>:aca-blank: Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1007/s41693-025-00154-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41693-025-00154-0</a>
+#Robotic Frame Winding&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41693-025-00154-0.pdf) <a href="https://doi.org/10.1007/s41693-025-00154-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-025-00154-0" target="_blank">10.1007/s41693-025-00154-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gantner_stefan"><b>Gantner</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0188-3314" title="ORCID: 0000-0002-0188-3314" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rennen_philipp"><b>Rennen</b>&nbsp;Philipp</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2813-2024" title="ORCID: 0000-0003-2813-2024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b>&nbsp;Fatemeh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7066-3211" title="ORCID: 0000-0001-7066-3211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rothe_niklas_tom"><b>Rothe</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2218-1223" title="ORCID: 0000-0002-2218-1223" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huhne_christian"><b>Hühne</b>&nbsp;Christian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span><br>
+Journal Article - Construction Robotics, Vol. 9, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> <a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a> <a href="https://orcid.org/0000-0002-0188-3314" title="ORCID: 0000-0002-0188-3314" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a> <a href="https://orcid.org/0000-0003-2813-2024" title="ORCID: 0000-0003-2813-2024" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> <a href="https://orcid.org/0000-0001-7066-3211" title="ORCID: 0000-0001-7066-3211" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> <a href="https://orcid.org/0000-0002-2218-1223" title="ORCID: 0000-0002-2218-1223" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Robotics, Vol. 9, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#element`](keyword/element)
-    [`#fabrication`](keyword/fabrication)
-    [`#fiber`](keyword/fiber)
-    [`#formwork`](keyword/formwork)
-    [`#frame`](keyword/frame)
-    [`#prefabrication`](keyword/prefabrication)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#robot`](keyword/robot)
-    [`#shell`](keyword/shell)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/frame"><button class="btn">#frame</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Frame%20Winding" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410237901" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41693-025-00154-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41693-025-00154-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integration of reinforcement in digital fabrication with concrete has led to the development of various approaches, many of which are constrained by the requirements of the concrete printing process. In contrast, the aim here was to investigate the robotic production of complex reinforcement structures as a primary process which supports the application of concrete and therefore acts as stay-in-place formwork that creates shaping potential beyond conventional printing processes. Based on the concept of combining the robotic processes of Fibre Winding and Shotcrete 3D Printing (SC3DP), the presented methodology comprised design explorations, fabrication variations, the realisation of a real-scale demonstrator and the assessment of the structural performance. Accordingly, an automated process for the fabrication of thin-shell double-curved reinforced concrete elements with controlled thickness and homogeneous concrete distribution was developed and characterised. Following this approach in the future will not only contribute to fabrication-informed design but also minimise concrete use and formwork waste.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/ranaudo_francesco"><b>Ranaudo</b> Francesco</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../bhoo_dell_rana_mele.2024.UCMfCC/">Unreinforced Concrete Masonry for Circular Construction</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
@@ -115,7 +86,37 @@ tags:
       <li><a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../roth_huhn_gant_hack.2023.DWPoIFRSfAMiC/">Dynamic Winding Process of Individualized Fiber-Reinforcement Structures for Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../taha_walz_ruan_burg.2019.RA/">Robotic AeroCrete:<br/>A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gant_renn_amir_roth.2025.RFW,
+      author            = "Stefan Gantner and Philipp Rennen and Fatemeh Salehi Amiri and Tom Niklas Rothe and Christian Hühne and Dirk Lowke and Harald Kloft and Norman Peter Hack",
+      title             = "Robotic Frame Winding: Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements",
+      doi               = "10.1007/s41693-025-00154-0",
+      year              = "2025",
+      journal           = "Construction Robotics",
+      volume            = "9",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Gantner, “Robotic Frame Winding: Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements”, <i>Construction Robotics</i>, vol. 9, no. 1, 2025, doi: 10.1007/s41693-025-00154-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gantner, Stefan, Philipp Rennen, Fatemeh Salehi Amiri, Tom Niklas Rothe, Christian Hühne, Dirk Lowke, Harald Kloft, and Norman Peter Hack. “Robotic Frame Winding: Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements”. <i>Construction Robotics</i> 9, no. 1 (2025). https://doi.org/10.1007/s41693-025-00154-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

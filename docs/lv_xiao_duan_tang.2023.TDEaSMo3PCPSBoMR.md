@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhenyuan Lv, Jianzhuang Xiao, Zhenhua Duan, Yuxiang Tang
+    - footer
+title: Lv Zhenyuan, Xiao Jianzhuang, Duan Zhenhua, Tang Yuxiang
 description:
 tags:
  - base
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Time-Dependent Evolution and Strength Modulation of 3D Printed Concrete Pore-Structure Based on Microbial Remediation ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.jobe.2023.107830" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.107830</a>
+#Time-Dependent Evolution and Strength Modulation of 3D Printed Concrete Pore-Structure Based on Microbial Remediation ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107830" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107830" target="_blank">10.1016/j.jobe.2023.107830</a>
 
--------------------------
+<a href="../../../author/lv_zhenyuan"><b>Lv</b>&nbsp;Zhenyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8756-3054" title="ORCID: 0000-0002-8756-3054" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tang_yuxiang"><b>Tang</b>&nbsp;Yuxiang</a></span><br>
+Journal Article - Journal of Building Engineering, No. 107830
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tang_yuxiang"><b>Tang</b> Yuxiang</a> <a href="https://orcid.org/0000-0002-8756-3054" title="ORCID: 0000-0002-8756-3054" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 107830
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#dependency`](keyword/dependency)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#modular`](keyword/modular)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Time-Dependent%20Evolution%20and%20Strength%20Modulation%20of%203D%20Printed%20Concrete%20Pore-Structure%20Based%20on%20Microbial%20Remediation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172474247&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386986671" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.107830" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.107830?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The post-hardened pore structure's characteristics and the properties of concrete are strongly connected. This study uses 3D printed concrete (3DPC) as the sample to examine how the porosity, average diameter, and printing parameters affect strength after hardened. In order to accomplish the time-dependent management of the concrete pore structure, pre-embedding microorganisms and employing recycled aggregates as carriers were used which rises concrete strength. According to the experimental findings, the porosity of 3DPC is more directly connected to strength increase, and the variation in average diameters represents the strength of anisotropy. Comparing the microbially repaired samples to the control group, the pore structure revealed a 5.66% reduction in 28 day porosity, a maximum reduction in mean pore size of 49.67 μm, and a smaller dispersed pore size for the same volume. Based on the anisotropy coefficient, a prediction model for the time-dependent strength in 3DPC was put forth, and the computed values were confirmed to be the best fit in the Y-axis with the experimental results. The strength performance in the X-axis of the printed specimens after pore structure repair was greater than that of the cast one, and the anisotropy difference was comparatively less.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
@@ -84,8 +60,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/tam_w-y_vivian"><b>Tam</b> Vivian</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sing_anan_liu_tam.2025.EIBi3PCUBBB/">Enhancing Interlayer Bonding in 3D Printed Concrete Using Bacteria-Based Biomineralization</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
@@ -95,4 +71,33 @@ tags:
       <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a>, <a href="../../../author/yu_jiamian"><b>Yu</b> Jiamian</a>, <a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_bu_yu_shao.2024.FBoTR3PCUQSaDIL/">Flexural Behavior of Textile Reinforced 3D Printed Concrete Under Quasi-Static and Dynamic Impact Loads</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../liu_hu_guo.2024.PaILBPo3PFRG/">Printability and Inter-Layer Bonding Property of 3D Printed Fiber-Reinforced Geopolymer</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lv_xiao_duan_tang.2023.TDEaSMo3PCPSBoMR,
+      author            = "Zhenyuan Lv and Jianzhuang Xiao and Zhenhua Duan and Yuxiang Tang",
+      title             = "Time-Dependent Evolution and Strength Modulation of 3D Printed Concrete Pore-Structure Based on Microbial Remediation",
+      doi               = "10.1016/j.jobe.2023.107830",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      pages             = "107830",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Lv, J. Xiao, Z. Duan and Y. Tang, “Time-Dependent Evolution and Strength Modulation of 3D Printed Concrete Pore-Structure Based on Microbial Remediation”, <i>Journal of Building Engineering</i>, p. 107830, 2023, doi: 10.1016/j.jobe.2023.107830.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lv, Zhenyuan, Jianzhuang Xiao, Zhenhua Duan, and Yuxiang Tang. “Time-Dependent Evolution and Strength Modulation of 3D Printed Concrete Pore-Structure Based on Microbial Remediation”. <i>Journal of Building Engineering</i>, 2023, 107830. https://doi.org/10.1016/j.jobe.2023.107830.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

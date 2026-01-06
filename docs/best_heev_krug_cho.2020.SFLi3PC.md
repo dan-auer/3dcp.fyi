@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Frederick Bester, Marchant Heever, Jacques Kruger, Seung Cho, Gideon Zijl
+    - footer
+title: Bester Frederick, Heever Marchant, Kruger Jacques, Cho Seung, Zijl Gideon
 description:
 tags:
  - concrete
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Steel-Fiber Links in 3D Printed Concrete ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_41" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_41</a>
+#Steel-Fiber Links in 3D Printed Concrete ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_41" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_41" target="_blank">10.1007/978-3-030-49916-7_41</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8262-5538" title="ORCID: 0000-0001-8262-5538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bester_a_frederick"><b>Bester</b>&nbsp;Frederick</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5980-2719" title="ORCID: 0000-0001-5980-2719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heever_marchant"><b>van den&nbsp;Heever</b>&nbsp;Marchant</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cho_seung"><b>Cho</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 398-406
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a> <a href="https://orcid.org/0000-0001-8262-5538" title="ORCID: 0000-0001-8262-5538" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/heever_marchant"><b>van den Heever</b> Marchant</a> <a href="https://orcid.org/0000-0001-5980-2719" title="ORCID: 0000-0001-5980-2719" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 398-406
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#link`](keyword/link)
-    [`#print`](keyword/print)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/link"><button class="btn">#link</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Steel-Fiber%20Links%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088279118&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3041474369" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_41" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_41?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing exhibits the potential to proliferate the industrialization of the concrete construction sector, which is notoriously conservative and indolent towards change. This emerging technology is propitious given its advancements in geometric design freedom, reductions in construction time, waste and material usage through formwork-free construction. However, when 3D concrete printing is fastidiously compared to current methods of concrete construction, a detrimental disadvantage, the absence of effective steel reinforcement is evident. Therefore, the amelioration of the brittle interlayer interface is the focus of several 3DCP research and industry endeavors. Steel reinforcement is favored as most modern concrete structures rely on the compressive and tensile strength of concrete and steel, respectively. However, a significant technical challenge is posed by the addition of reinforcement during the automated 3DCP process. Thus, the post-crack behavior of specimens reinforced during the printing process with straight steel fibers orthogonal to the interlayer interface is experimentally evaluated through four-point flexural tests in this research. The brittle interfacial failure is ameliorated through the addition of steel fibers that link consecutively deposited layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -74,8 +54,8 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/huang_zhangshuo"><b>Huang</b> Zhangshuo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../ding_zhu_huan.2025.ESotSFODoEB3PUHPC/">Experimental Study on the Steel Fiber Orientational Distribution of Extrusion-Based 3D-Printed Ultra High-Performance Concrete</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cao_cui.2025.SFNPTtR3PC/">Simple Floor Nail Placement Technique to Reinforce 3D-Printed Concrete:<br/>An Experimental Investigation</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/kaya_yahya"><b>Kaya</b> Yahya</a>, <a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../sahi_kaya_akgu_mard.2025.DoMPo3FRPCMEtET/">Degradation of Mechanical Properties of 3D Fiber Reinforced Printed Concrete Mixtures Exposed to Elevated Temperatures</a></li>
@@ -111,4 +91,35 @@ tags:
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{best_heev_krug_cho.2020.SFLi3PC,
+      author            = "Frederick A. Bester and Marchant van den Heever and Jacques Pienaar Kruger and Seung Cho and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Steel-Fiber Links in 3D Printed Concrete",
+      doi               = "10.1007/978-3-030-49916-7_41",
+      year              = "2020",
+      volume            = "28",
+      pages             = "398--406",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. A. Bester, M. van den Heever, J. P. Kruger, S. Cho and G. P. A. G. van Zijl, “Steel-Fiber Links in 3D Printed Concrete”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 398–406. doi: 10.1007/978-3-030-49916-7_41.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bester, Frederick A., Marchant van den Heever, Jacques Pienaar Kruger, Seung Cho, and Gideon Pieter Adriaan Greeff van Zijl. “Steel-Fiber Links in 3D Printed Concrete”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:398–406, 2020. https://doi.org/10.1007/978-3-030-49916-7_41.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

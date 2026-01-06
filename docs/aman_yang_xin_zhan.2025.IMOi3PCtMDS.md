@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdulkerim Aman, Zhe Yang, Yubo Xin, Xiaoman Zhang, Yangbo Li, Dahai Huang, Jing Shen
+    - footer
+title: Aman Abdulkerim, Yang Zhe, Xin Yubo, Zhang Xiaoman, Li Yangbo, Huang Dahai, Shen Jing
 description:
 tags:
  - concrete
@@ -13,32 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04610) Introducing Magnesium Oxide into 3D Printed Concrete to Mitigate Dry-Shrinkage ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04610" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04610</a>
+#Introducing Magnesium Oxide into 3D Printed Concrete to Mitigate Dry-Shrinkage ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04610) <a href="https://doi.org/10.1016/j.cscm.2025.e04610" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04610" target="_blank">10.1016/j.cscm.2025.e04610</a>
 
--------------------------
+<a href="../../../author/aman_mohammed_abdulkerim"><b>Aman</b>&nbsp;Abdulkerim</a></span>, <a href="../../../author/yang_zhe"><b>Yang</b>&nbsp;Zhe</a></span>, <a href="../../../author/xin_yubo"><b>Xin</b>&nbsp;Yubo</a></span>, <a href="../../../author/zhang_xiaoman"><b>Zhang</b>&nbsp;Xiaoman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6821-5751" title="ORCID: 0000-0001-6821-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yangbo"><b>Li</b>&nbsp;Yangbo</a></span>, <a href="../../../author/huang_dahai"><b>Huang</b>&nbsp;Dahai</a></span>, <a href="../../../author/shen_jing"><b>Shen</b>&nbsp;Jing</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04610
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aman_mohammed_abdulkerim"><b>Aman</b> Abdulkerim</a>
-,     <a href="../../../author/yang_zhe"><b>Yang</b> Zhe</a>
-,     <a href="../../../author/xin_yubo"><b>Xin</b> Yubo</a>
-,     <a href="../../../author/zhang_xiaoman"><b>Zhang</b> Xiaoman</a>
-,     <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> <a href="https://orcid.org/0000-0001-6821-5751" title="ORCID: 0000-0001-6821-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_dahai"><b>Huang</b> Dahai</a>
-,     <a href="../../../author/shen_jing"><b>Shen</b> Jing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04610
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#dry`](keyword/dry)
-    [`#magnesium`](keyword/magnesium)
-    [`#print`](keyword/print)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dry"><button class="btn">#dry</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Introducing%20Magnesium%20Oxide%20into%203D%20Printed%20Concrete%20to%20Mitigate%20Dry-Shrinkage" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001847307&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409201295" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04610" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04610?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing has gained significant attention in recent years as an innovative method for construction. However, 3D printed concrete (3DPC) faces greater shrinkage challenges compared to conventional concrete due to several factors, including the absence of coarse aggregates, a higher proportion of cementitious materials, and the lack of formwork. Magnesium oxide (MgO), known for its water-expanding properties, can be incorporated into the concrete mix to address shrinkage issues, mitigating cracking and promoting a zero-shrinkage outcome for 3DPC. This research explores the role of MgO as an expansion agent to counteract the shrinkage of 3DPC, aiming to improve its shrinkage-related properties. In the study, different concentrations of magnesium oxide, specifically 0%, 3%, 6%, and 9%, were tested to formulate 3DPC mixtures. The study assesses the impact of varying MgO contents on the material's flowability, rapid solidification, and printability. Experiments have shown that when the MgO content increases from 0% to 9%, the flowability of concrete decreases by 250%, the 12‐hour penetration resistance decreases by 450%, and it cannot be effectively formed. After 90 days, the compressive and flexural strengths decreased by 20% and 15% respectively, but the MgO expansion effect significantly alleviated the drying shrinkage problem, indicating that although high content improved crack resistance, it seriously damaged the mechanical and construction properties. After completing the test process, the microstructure of the sample was analyzed by SEM to assess the impact of different MgO contents. Based on the examination results, the optimal dosage of MgO was determined, which significantly contributed to improving the material properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -96,8 +74,37 @@ tags:
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aman_yang_xin_zhan.2025.IMOi3PCtMDS,
+      author            = "Abdulkerim Mohammed Aman and Zhe Yang and Yubo Xin and Xiaoman Zhang and Yangbo Li and Dahai Huang and Jing Shen",
+      title             = "Introducing Magnesium Oxide into 3D Printed Concrete to Mitigate Dry-Shrinkage",
+      doi               = "10.1016/j.cscm.2025.e04610",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04610",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. M. Aman, “Introducing Magnesium Oxide into 3D Printed Concrete to Mitigate Dry-Shrinkage”, <i>Case Studies in Construction Materials</i>, p. e04610, 2025, doi: 10.1016/j.cscm.2025.e04610.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aman, Abdulkerim Mohammed, Zhe Yang, Yubo Xin, Xiaoman Zhang, Yangbo Li, Dahai Huang, and Jing Shen. “Introducing Magnesium Oxide into 3D Printed Concrete to Mitigate Dry-Shrinkage”. <i>Case Studies in Construction Materials</i>, 2025, e04610. https://doi.org/10.1016/j.cscm.2025.e04610.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

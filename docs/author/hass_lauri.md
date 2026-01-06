@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Hass Lauri 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../hass_bos_sale.2024.BGIBHRa3PC/">Bond Governed Interactions Between Helical Reinforcement and 3D Printed Concrete</a></li>
   <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../hass_nefs_bos_sale.2023.APoCSHCCaHRf3CPS/">Application Potential of Combining Strain-Hardening Cementitious Composites and Helical Reinforcement for 3D Concrete Printed Structures:<br/>Case Study of a Spiral Staircase</a></li>
   <li><a href="../../../author/joon_hillar"><b>Joon</b> Hillar</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/peetrimagi_lauri"><b>Peetrimägi</b> Lauri</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../joon_hass_peet.2023.IoLFoTPoMf3CP/">Influence of Limestone-Filler on Technological Parameters of Mixtures for 3D Concrete Printing</a></li>

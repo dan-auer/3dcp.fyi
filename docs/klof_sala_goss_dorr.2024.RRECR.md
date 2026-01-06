@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harald Kloft, Ali Salamatian, Joschua Gosslar, Evelien Dorresteijn, Dirk Lowke
+    - footer
+title: Kloft Harald, Salamatian Ali, Gosslar Joschua, Dorresteijn Evelien, Lowke Dirk
 description:
 tags:
  - additive
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robotic Rammed Earth-Concrete (RREC):<br/>:aca-blank: A Novel Additive Manufacturing Technology to Strengthen Rammed Earth Structures by Integrated Rammed Concrete Parts ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1007/978-3-031-62690-6_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-62690-6_7</a>
+#Robotic Rammed Earth-Concrete (RREC)&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">A Novel Additive Manufacturing Technology to Strengthen Rammed Earth Structures by Integrated Rammed Concrete Parts</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-62690-6_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-62690-6_7" target="_blank">10.1007/978-3-031-62690-6_7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <a href="../../../author/salamatian_ali"><b>Salamatian</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7060-0007" title="ORCID: 0000-0002-7060-0007" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gosslar_joschua"><b>Gosslar</b>&nbsp;Joschua</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-6992-6885" title="ORCID: 0009-0005-6992-6885" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorresteijn_evelien"><b>Dorresteijn</b>&nbsp;Evelien</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 60-70
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salamatian_ali"><b>Salamatian</b> Ali</a>
-,     <a href="../../../author/gosslar_joschua"><b>Gosslar</b> Joschua</a> <a href="https://orcid.org/0000-0002-7060-0007" title="ORCID: 0000-0002-7060-0007" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorresteijn_evelien"><b>Dorresteijn</b> Evelien</a> <a href="https://orcid.org/0009-0005-6992-6885" title="ORCID: 0009-0005-6992-6885" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 60-70
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#earth`](keyword/earth)
-    [`#integration`](keyword/integration)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#ram`](keyword/ram)
-    [`#robot`](keyword/robot)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/ram"><button class="btn">#ram</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Rammed%20Earth-Concrete%20%28RREC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200436023&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,21 +41,47 @@ tags:
 <a href="https://inciteful.xyz/p/W4400040069" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-62690-6_7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-62690-6_7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Rammed earth is part of our building culture and is a suitable solid construction method for load-bearing structures. The advantages are its global availability, low ecological footprint, and complete reusability. However, challenges arise from the manual construction processes, which makes manufacturing time intense and leads to significant scatter in the compressive strengths. The robotic rammed earth process (RRE) developed at the Institute of Structural Design at TU Braunschweig (ITE) unifies formwork and compaction in one process step and enables the automated manufacturing of rammed earth components with consistent material properties. Nevertheless, even robotically rammed earth components have a significantly lower load-bearing capacity compared to concrete structures and are, therefore, very limited in their application. In order to increase the structural performance of rammed earth elements, a new additive manufacturing method has been developed at the ITE that combines rammed earth and rammed concrete in one-step automated process and enables the manufacturing of structural components with hybrid materiality. The so-called robotic rammed earth-concrete technology (RREC) makes it possible to utilise the different performance capabilities of the two materials, earth and concrete, in a customised way. RREC can be used for structural or architectural purposes, e.g. structural optimisation or erosion reinforcement, and ensures material-specific separation and recycling of materials at the end of their service life. The paper presents initial research results on material-process interactions in automated processing material studies, tool developments and structural design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../perr_jacq_caro_mesn.2024.So3PwABaM/">Snapshot on 3D Printing with Alternative Binders and Materials:<br/>Earth, Geopolymers, Gypsum and Low-Carbon Concrete</a></li>
-      <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{klof_sala_goss_dorr.2024.RRECR,
+      author            = "Harald Kloft and Ali Salamatian and Joschua Gosslar and Evelien Dorresteijn and Dirk Lowke",
+      title             = "Robotic Rammed Earth-Concrete (RREC): A Novel Additive Manufacturing Technology to Strengthen Rammed Earth Structures by Integrated Rammed Concrete Parts",
+      doi               = "10.1007/978-3-031-62690-6_7",
+      year              = "2024",
+      volume            = "52",
+      pages             = "60--70",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Earthen Construction",
+      editor            = "Christopher Beckett and Ana Rita Brás and Antonin Fabbri and Emmanuel Keita and Céline Perlot and Arnaud Perrot",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Kloft, A. Salamatian, J. Gosslar, E. Dorresteijn and D. Lowke, “Robotic Rammed Earth-Concrete (RREC): A Novel Additive Manufacturing Technology to Strengthen Rammed Earth Structures by Integrated Rammed Concrete Parts”, in <i>Proceedings of the 2nd RILEM International Conference on Earthen Construction</i>,  2024, vol. 52, pp. 60–70. doi: 10.1007/978-3-031-62690-6_7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kloft, Harald, Ali Salamatian, Joschua Gosslar, Evelien Dorresteijn, and Dirk Lowke. “Robotic Rammed Earth-Concrete (RREC): A Novel Additive Manufacturing Technology to Strengthen Rammed Earth Structures by Integrated Rammed Concrete Parts”. In <i>Proceedings of the 2nd RILEM International Conference on Earthen Construction</i>, edited by Christopher Beckett, Ana Rita Brás, Antonin Fabbri, Emmanuel Keita, Céline Perlot, and Arnaud Perrot, 52:60–70, 2024. https://doi.org/10.1007/978-3-031-62690-6_7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

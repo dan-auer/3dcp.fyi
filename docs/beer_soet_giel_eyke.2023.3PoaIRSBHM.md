@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Glenn Beersaerts, Jeroen Soete, Michiel Giels, Lies Eykens, Sandra Lucas, Yiannis Pontikes
+    - footer
+title: Beersaerts Glenn, Soete Jeroen, Giels Michiel, Eykens Lies, Lucas Sandra, Pontikes Yiannis
 description:
 tags:
  - base
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>:aca-blank: A Durable, Sustainable and Cost-Competitive Product? ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105304" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105304</a>
+#3D Printing of an Iron-Rich Slag-Based Hybrid Mortar&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">A Durable, Sustainable and Cost-Competitive Product?</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2023.105304" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105304" target="_blank">10.1016/j.cemconcomp.2023.105304</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5183-9971" title="ORCID: 0000-0001-5183-9971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/beersaerts_glenn"><b>Beersaerts</b>&nbsp;Glenn</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3357-4070" title="ORCID: 0000-0003-3357-4070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soete_jeroen"><b>Soete</b>&nbsp;Jeroen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4163-3501" title="ORCID: 0000-0003-4163-3501" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giels_michiel"><b>Giels</b>&nbsp;Michiel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3658-2316" title="ORCID: 0000-0003-3658-2316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/eykens_lies"><b>Eykens</b>&nbsp;Lies</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2210-5394" title="ORCID: 0000-0002-2210-5394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pontikes_yiannis"><b>Pontikes</b>&nbsp;Yiannis</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105304
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a> <a href="https://orcid.org/0000-0001-5183-9971" title="ORCID: 0000-0001-5183-9971" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a> <a href="https://orcid.org/0000-0003-3357-4070" title="ORCID: 0000-0003-3357-4070" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a> <a href="https://orcid.org/0000-0003-4163-3501" title="ORCID: 0000-0003-4163-3501" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> <a href="https://orcid.org/0000-0003-3658-2316" title="ORCID: 0000-0003-3658-2316" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="https://orcid.org/0000-0002-2210-5394" title="ORCID: 0000-0002-2210-5394" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105304
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#competition`](keyword/competition)
-    [`#cost`](keyword/cost)
-    [`#durability`](keyword/durability)
-    [`#hybrid`](keyword/hybrid)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-    [`#slag`](keyword/slag)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/competition"><button class="btn">#competition</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20an%20Iron-Rich%20Slag-Based%20Hybrid%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173226314&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386959504" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105304" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105304?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Automation through 3D printing can be a possible technological breakthrough in construction. However, the carbon footprint is not necessarily reduced as the print formulations consist of more ordinary Portland cement (OPC) compared to conventional high-performance mortar. In this study, a hybrid mortar with minor amount of OPC and mainly Fe-rich, low-Ca slag is used for printing several structures, followed by a profound study on the durability properties of the printed material. The hybrid mortar outperformed the benchmark with respect to its compressive strength (80.5 ± 4.3 MPa versus 52.4 ± 1.7 MPa) and drying shrinkage (0.8 mm/m versus 1.3 mm/m). The capillary pores present in the printed hybrid resulted in a lower freeze-thaw resistance. Leaching tests showed that the hybrid binder immobilized heavy metals. The hybrid mortar has a CO2 impact between 164 kg CO2/m3 and 548 kg CO2/m3, and costs range from 129 to 193 euro/m3. This study showed that the hybrid mortar can offer a suitable alternative to 3D-printable OPC-mortars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/hertel_tobias"><b>Hertel</b> Tobias</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../beer_hert_luca_pont.2023.PtUoFRSiC/">Promoting the Use of Fe-Rich Slag in Construction:<br/>Development of a Hybrid Binder for 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -99,8 +74,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
@@ -112,4 +87,33 @@ tags:
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wei_ying"><b>Wei</b> Ying</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/chen_ziwei"><b>Chen</b> Ziwei</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wei_han_yu_chen.2024.PIo3CPfStMLS/">Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{beer_soet_giel_eyke.2023.3PoaIRSBHM,
+      author            = "Glenn Beersaerts and Jeroen Soete and Michiel Giels and Lies Eykens and Sandra Simaria de Oliveira Lucas and Yiannis Pontikes",
+      title             = "3D Printing of an Iron-Rich Slag-Based Hybrid Mortar: A Durable, Sustainable and Cost-Competitive Product?",
+      doi               = "10.1016/j.cemconcomp.2023.105304",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105304",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Beersaerts, J. Soete, M. Giels, L. Eykens, S. S. de Oliveira Lucas and Y. Pontikes, “3D Printing of an Iron-Rich Slag-Based Hybrid Mortar: A Durable, Sustainable and Cost-Competitive Product?”, <i>Cement and Concrete Composites</i>, p. 105304, 2023, doi: 10.1016/j.cemconcomp.2023.105304.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Beersaerts, Glenn, Jeroen Soete, Michiel Giels, Lies Eykens, Sandra Simaria de Oliveira Lucas, and Yiannis Pontikes. “3D Printing of an Iron-Rich Slag-Based Hybrid Mortar: A Durable, Sustainable and Cost-Competitive Product?”. <i>Cement and Concrete Composites</i>, 2023, 105304. https://doi.org/10.1016/j.cemconcomp.2023.105304.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shao-bo Geng, Chen Zhang, Hui Zhang, Lu Hai, Bo-Tao Huang, Yuan-Shan Han, Chuan-Xin Du, Yujie Huang
+    - footer
+title: Geng Shao-bo, Zhang Chen, Zhang Hui, Hai Lu, Huang Bo-Tao, Han Yuan-Shan, Du Chuan-Xin, Huang Yujie
 description:
 tags:
  - aggregate
@@ -18,38 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete:<br/>:aca-blank: Multi-Scale Mechanisms of Fracture Behaviour ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106275" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106275</a>
+#Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Multi-Scale Mechanisms of Fracture Behaviour</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106275" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106275" target="_blank">10.1016/j.cemconcomp.2025.106275</a>
 
--------------------------
+<a href="../../../author/geng_shao-bo"><b>Geng</b>&nbsp;Shao-bo</a></span>, <a href="../../../author/zhang_chen"><b>Zhang</b>&nbsp;Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0680-6916" title="ORCID: 0000-0002-0680-6916" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hui"><b>Zhang</b>&nbsp;Hui</a></span>, <a href="../../../author/hai_lu"><b>Hai</b>&nbsp;Lu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9237-504X" title="ORCID: 0000-0002-9237-504X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_bo-tao"><b>Huang</b>&nbsp;Bo-Tao</a></span>, <a href="../../../author/han_yuan-shan"><b>Han</b>&nbsp;Yuan-Shan</a></span>, <a href="../../../author/du_chuan-xin"><b>Du</b>&nbsp;Chuan-Xin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7349-6711" title="ORCID: 0000-0001-7349-6711" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_yujie"><b>Huang</b>&nbsp;Yujie</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 164, No. 106275
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geng_shao-bo"><b>Geng</b> Shao-bo</a>
-,     <a href="../../../author/zhang_chen"><b>Zhang</b> Chen</a>
-,     <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> <a href="https://orcid.org/0000-0002-0680-6916" title="ORCID: 0000-0002-0680-6916" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hai_lu"><b>Hai</b> Lu</a>
-,     <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a> <a href="https://orcid.org/0000-0002-9237-504X" title="ORCID: 0000-0002-9237-504X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_yuan-shan"><b>Han</b> Yuan-Shan</a>
-,     <a href="../../../author/du_chuan-xin"><b>Du</b> Chuan-Xin</a>
-,     <a href="../../../author/huang_yujie"><b>Huang</b> Yujie</a> <a href="https://orcid.org/0000-0001-7349-6711" title="ORCID: 0000-0001-7349-6711" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 164, No. 106275
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#behavior`](keyword/behavior)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#fracture`](keyword/fracture)
-    [`#mechanism`](keyword/mechanism)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#upcycling`](keyword/upcycling)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/upcycling"><button class="btn">#upcycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Upcycling%20Coal%20Gangue%20Coarse%20Aggregates%20into%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012616579&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413119788" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106275" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106275?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The advent of 3D printed concrete (3DPC) has transformed construction industrialization, especially in the context of intelligent construction. Nevertheless, conventional cement-based printable materials, mainly composed of extrusion-adapted mortar without coarse aggregates, exhibit low stiffness, high shrinkage cracking potential, and excessive cement dependence, compromising sustainability and increasing carbon footprints. This study introduces the first use of coal gangue as a sustainable coarse aggregate in 3D printed coal gangue concrete (3DP-CC), offering an innovative strategy for upcycling coal mining waste into printable construction materials. We systematically perform uniaxial compression, three-point bending, interlayer bonding tests, and micro X-ray CT to evaluate the multi-scale mechanical behaviour of 3DP-CC with varying coal gangue contents. Key findings include: (1) Pore structure evolves with coal gangue content, with total porosity first decreasing (to 1.8% at 10% content) then increasing (to 3.4% at 40% content), driven by aggregate skeleton and fine aggregate filling; (2) 3DP-CC’s compressive strength anisotropy is reduced compared to printed mortar due to aggregate interlocking, whereas flexural strength anisotropy increases as a result of pore accumulation and weak interlayers; at equal coarse aggregate content, 3DP-CC exhibits lower compressive anisotropy than printed natural aggregate concrete; (3) Compressive and flexural strengths increase initially and peak at 10%–20% coal gangue content, with values in all directions surpassing those of printed concrete with 40% natural aggregate. This work quantifies relationships between coal gangue content, structural anisotropy, and fracture resistance, offering actionable insights for industrial upcycling of coal wastes and addressing key challenges in eco-friendly 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/cai_jianguo"><b>Cai</b> Jianguo</a>, <a href="../../../author/wang_jingsong"><b>Wang</b> Jingsong</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a>, <a href="../../../author/du_caixia"><b>Du</b> Caixia</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cai_wang_zhan_du.2024.SotAoMPo3PC/">State of the Art of Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/zhang_longfei"><b>Zhang</b> Longfei</a>, <a href="../../../author/wei_kai"><b>Wei</b> Kai</a>, <a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../chen_zhan_wei_gao.2024.RCaSMo3PGCUNCaMO/">Rheology-Control and Shrinkage-Mitigation of 3D Printed Geopolymer Concrete Using Nano-Cellulose and Magnesium-Oxide</a></li>
@@ -113,7 +86,39 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/li_jin"><b>Li</b> Jin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS/">Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures:<br/>A Case Study of a Full-Size Two-Story Building</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{geng_zhan_zhan_hai.2025.UCGCAi3PC,
+      author            = "Shao-bo Geng and Chen Zhang and Hui Zhang and Lu Hai and Bo-Tao Huang and Yuan-Shan Han and Chuan-Xin Du and Yujie Huang",
+      title             = "Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete: Multi-Scale Mechanisms of Fracture Behaviour",
+      doi               = "10.1016/j.cemconcomp.2025.106275",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "164",
+      pages             = "106275",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S.-. bo . Geng, “Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete: Multi-Scale Mechanisms of Fracture Behaviour”, <i>Cement and Concrete Composites</i>, vol. 164, p. 106275, 2025, doi: 10.1016/j.cemconcomp.2025.106275.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geng, Shao-bo, Chen Zhang, Hui Zhang, Lu Hai, Bo-Tao Huang, Yuan-Shan Han, Chuan-Xin Du, and Yujie Huang. “Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete: Multi-Scale Mechanisms of Fracture Behaviour”. <i>Cement and Concrete Composites</i> 164 (2025): 106275. https://doi.org/10.1016/j.cemconcomp.2025.106275.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

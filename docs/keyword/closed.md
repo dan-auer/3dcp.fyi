@@ -8,7 +8,7 @@ search:
 
 # #closed
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
   <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a>, <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lan_yang_xu_chen.2024.QAoIFPi3PAARSCBoaCFFM/">Quantitative Assessment of Interfacial-Fracture-Properties in 3D Printed Alkali-Activated Recycled Sand Concrete Based on a Closed-Form Fracture-Model</a></li>
   <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../slep_borr.2024.FIMfCLDaQIiAMfC/">Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenjing Xing, Zhengrong Li
+    - footer
+title: Xing Wenjing, Li Zhengrong
 description:
 tags:
  - anisotropy
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>:aca-blank: A Multiscale Computational Approach ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143501" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143501</a>
+#Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">A Multiscale Computational Approach</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143501" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143501" target="_blank">10.1016/j.conbuildmat.2025.143501</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6942-8310" title="ORCID: 0000-0001-6942-8310" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xing_wenjing"><b>Xing</b>&nbsp;Wenjing</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8676-667X" title="ORCID: 0000-0001-8676-667X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhengrong"><b>Li</b>&nbsp;Zhengrong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 494, No. 143501
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> <a href="https://orcid.org/0000-0001-6942-8310" title="ORCID: 0000-0001-6942-8310" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="https://orcid.org/0000-0001-8676-667X" title="ORCID: 0000-0001-8676-667X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 494, No. 143501
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#approach`](keyword/approach)
-    [`#base`](keyword/base)
-    [`#computer`](keyword/computer)
-    [`#extrusion`](keyword/extrusion)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#quantity`](keyword/quantity)
-    [`#structure`](keyword/structure)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quantifying%20the%20Heterogeneous%20Anisotropic%20Thermal%20Performance%20of%20Extrusion-Based%203D%20Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015364410&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414107011" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143501" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143501?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D printed structures exhibit inherent anisotropy and heterogeneity, resulting in regional variations and directional dependencies in their heat transfer behaviour. The current research lacks systematic investigations quantifying how these structural characteristics affect thermal properties. This study presents a multiscale computational framework that combines experimental characterisation with numerical simulations to evaluate the thermal behaviour of extrusion-based 3D printed structures with heterogeneous anisotropic features. The research results demonstrate that spatial variations in porosity and material continuity constitute the primary factors governing thermal conductivity distributions. The combined influence of heterogeneous and anisotropic heat transfer mechanisms results in macroscopic anisotropic thermal conductivity of 3D printed structures. Quantitative validation demonstrates a 2.94 % relative deviation between simulated and experimental thermal conductivity values. The heat transfer simulations further reveal localised temperature variations surpassing 0.5°C, underscoring the critical role of surface topography in influencing thermal transport phenomena. The proposed methodology establishes a fundamental connection between multiscale structural characteristics and thermal performance in 3D printed components, with efficacy in evaluating complex heat transfer processes. The study will provide valuable guidance for the thermal performance optimisation and functional design of 3D printed building walls.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
@@ -100,7 +79,37 @@ tags:
       <li><a href="../../../author/zahrani_a_abdullah"><b>Zahrani</b> Abdullah</a>, <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zahr_algh_basa.2022.COo3PCWfIBTP/">Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a>, <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhou_xu_meng_xie.2025.FS/">Filament Stitching:<br/>An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xing_li.2025.QtHATPoEB3PS,
+      author            = "Wenjing Xing and Zhengrong Li",
+      title             = "Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures: A Multiscale Computational Approach",
+      doi               = "10.1016/j.conbuildmat.2025.143501",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "494",
+      pages             = "143501",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Xing  and Z. Li, “Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures: A Multiscale Computational Approach”, <i>Construction and Building Materials</i>, vol. 494, p. 143501, 2025, doi: 10.1016/j.conbuildmat.2025.143501.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xing, Wenjing, and Zhengrong Li. “Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures: A Multiscale Computational Approach”. <i>Construction and Building Materials</i> 494 (2025): 143501. https://doi.org/10.1016/j.conbuildmat.2025.143501.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

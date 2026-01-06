@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tinghong Pan, Huaijin Teng, Hengcheng Liao, Yaqing Jiang, Chunxiang Qian, Yu Wang
+    - footer
+title: Pan Tinghong, Teng Huaijin, Liao Hengcheng, Jiang Yaqing, Qian Chunxiang, Wang Yu
 description:
 tags:
  - base
@@ -19,37 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://arxiv.org/pdf/2109.05156) Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials:<br/>:aca-blank: Experimental and Numerical Studies ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106785" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106785</a>
+#Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials&nbsp;([2022-03](date/2022/03))
+<div class="h1-like">Experimental and Numerical Studies</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://arxiv.org/pdf/2109.05156) <a href="https://doi.org/10.1016/j.cemconres.2022.106785" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106785" target="_blank">10.1016/j.cemconres.2022.106785</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <a href="../../../author/teng_huaijin"><b>Teng</b>&nbsp;Huaijin</a></span>, <a href="../../../author/liao_hengcheng"><b>Liao</b>&nbsp;Hengcheng</a></span>, <a href="../../../author/jiang_yaqing"><b>Jiang</b>&nbsp;Yaqing</a></span>, <a href="../../../author/qian_chunxiang"><b>Qian</b>&nbsp;Chunxiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yu"><b>Wang</b>&nbsp;Yu</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 155
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a> <a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teng_huaijin"><b>Teng</b> Huaijin</a>
-,     <a href="../../../author/liao_hengcheng"><b>Liao</b> Hengcheng</a>
-,     <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>
-,     <a href="../../../author/qian_chunxiang"><b>Qian</b> Chunxiang</a>
-,     <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 155, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#experiment`](keyword/experiment)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#numeric`](keyword/numeric)
-    [`#plate`](keyword/plate)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#shape`](keyword/shape)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/plate"><button class="btn">#plate</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Shaping%20Plate%20Apparatus%20on%20Mechanical%20Properties%20of%203D%20Printed%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126908629&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220823949" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106785" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106785?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Precisely controlling the shape of the printed-layers, eliminating the curved sides and internal stress concentration, and increasing the mechanical properties are essential to guarantee the quality of 3D printed cement-based structures. This work aims at achieving the above-mentioned targets through a specially designed shaping plate apparatus. The pressure (stress) distribution in the printed structure with a shaping plate apparatus (SP-3DPC), and the cross-sectional shape, microstructure and mechanical properties of SP-3DPC were systematically investigated. Results indicate that using the shaping plate apparatus may slightly reduce the printing speed, but it can effectively constrain the free expansion of extrudate, control its cross-sectional geometry, and improve the surface finish quality and mechanical properties of the printed structure. This study provides a theoretical basis and technical guidance for the design and application of the shaping plate apparatus.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
@@ -128,8 +102,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_nan"><b>Li</b> Nan</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/li_lingyu"><b>Li</b> Lingyu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../li_deng_li_li.2025.PoAMBMPCaAoRS3PT/">Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
       <li><a href="../../../author/zhang_ziqi"><b>Zhang</b> Ziqi</a>, <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guoa_rongxin"><b>Guoa</b> Rongxin</a>, <a href="../../../author/lin_runsheng"><b>Lin</b> Runsheng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC/">Simulation and Analysis of Material Stacking and Migration Induced by Extrusion Behavior in 3D Printed Concrete</a></li>
@@ -143,4 +117,33 @@ tags:
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../pan_guo_jian_ji.2022.FaDBoCMTNwDGP/">Flow and Deformation Behaviors of Cementitious Materials Through Nozzles with Different Geometric Parameters:<br/>Experimental and Numerical Approaches</a></li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../pan_guo_jian_ji.2022.HDtCSFAtILBSo3PM/">How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar?</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pan_teng_liao_jian.2022.EoSPAoMPo3PCBM,
+      author            = "Tinghong Pan and Huaijin Teng and Hengcheng Liao and Yaqing Jiang and Chunxiang Qian and Yu Wang",
+      title             = "Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials: Experimental and Numerical Studies",
+      doi               = "10.1016/j.cemconres.2022.106785",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "155",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Pan, H. Teng, H. Liao, Y. Jiang, C. Qian and Y. Wang, “Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials: Experimental and Numerical Studies”, <i>Cement and Concrete Research</i>, vol. 155, 2022, doi: 10.1016/j.cemconres.2022.106785.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pan, Tinghong, Huaijin Teng, Hengcheng Liao, Yaqing Jiang, Chunxiang Qian, and Yu Wang. “Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials: Experimental and Numerical Studies”. <i>Cement and Concrete Research</i> 155 (2022). https://doi.org/10.1016/j.cemconres.2022.106785.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

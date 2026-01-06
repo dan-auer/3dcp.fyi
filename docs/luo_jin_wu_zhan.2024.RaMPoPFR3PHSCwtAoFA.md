@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Surong Luo, Wenhao Jin, Weihong Wu, Kaijian Zhang
+    - footer
+title: Luo Surong, Jin Wenhao, Wu Weihong, Zhang Kaijian
 description:
 tags:
  - ash
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological and Mechanical Properties of Polyformaldehyde-Fiber-Reinforced 3D Printed High-Strength Concrete with the Addition of Fly-Ash ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.jobe.2024.111387" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111387</a>
+#Rheological and Mechanical Properties of Polyformaldehyde-Fiber-Reinforced 3D Printed High-Strength Concrete with the Addition of Fly-Ash ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111387" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111387" target="_blank">10.1016/j.jobe.2024.111387</a>
 
--------------------------
+<a href="../../../author/luo_surong"><b>Luo</b>&nbsp;Surong</a></span>, <a href="../../../author/jin_wenhao"><b>Jin</b>&nbsp;Wenhao</a></span>, <a href="../../../author/wu_weihong"><b>Wu</b>&nbsp;Weihong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6146-9561" title="ORCID: 0000-0002-6146-9561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_kaijian"><b>Zhang</b>&nbsp;Kaijian</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111387
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/luo_surong"><b>Luo</b> Surong</a>
-,     <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>
-,     <a href="../../../author/wu_weihong"><b>Wu</b> Weihong</a>
-,     <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="https://orcid.org/0000-0002-6146-9561" title="ORCID: 0000-0002-6146-9561" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111387
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20and%20Mechanical%20Properties%20of%20Polyformaldehyde-Fiber-Reinforced%203D%20Printed%20High-Strength%20Concrete%20with%20the%20Addition%20of%20Fly-Ash" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210115644&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404630261" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111387" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111387?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete (3DPC) technology is a relatively new and rapidly developing technology in the construction industry recently, often employing the addition of external fibers to enhance its rheological and mechanical properties. Polyoxymethylene (POM) fibers have a broad research prospect due to their good compatibility with inorganic materials and resistance to alkali. This study investigates the rheological and mechanical properties of 3D-printed high-strength concrete which contain POM fibers. The study examines the effects of POM fiber volume fraction (1.5%, 2%, 2.5%) and fly ash content (0%, 10%, 20%) on the rheological and mechanical properties of 3D-printed concrete, and evaluates the yield stress and plastic viscosity at different volume fractions, and the effects of different fiber contents on compressive and flexural strength were evaluated through compression and bending tests. The study also characterizes the microstructure using scanning electron microscopy. The results show that POM fibers will significantly improve rheological parameters, and fly ash will effectively improve rheology, making 3DPC able to meet the requirements of workability. The maximum enhancement in compressive and flexural strength were both observed at 2% POM fiber volume, providing optimal balance between rheology and strength. In addition, the effect of fiber orientation arrangement on strengthening compressive and flexural strength was proved by microscopic tests. These results can provide an important experimental reference for evaluating the rheological and mechanical properties of 3D-printed fiber-reinforced concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
@@ -116,8 +92,8 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF/">Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
@@ -130,4 +106,33 @@ tags:
       <li><a href="../../../author/li_yifan"><b>Li</b> Yifan</a>, <a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a>, <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../li_chen_yang_guo.2025.IotIoMRotIBPoSW3PC/">Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components</a></li>
       <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{luo_jin_wu_zhan.2024.RaMPoPFR3PHSCwtAoFA,
+      author            = "Surong Luo and Wenhao Jin and Weihong Wu and Kaijian Zhang",
+      title             = "Rheological and Mechanical Properties of Polyformaldehyde-Fiber-Reinforced 3D Printed High-Strength Concrete with the Addition of Fly-Ash",
+      doi               = "10.1016/j.jobe.2024.111387",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111387",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Luo, W. Jin, W. Wu and K. Zhang, “Rheological and Mechanical Properties of Polyformaldehyde-Fiber-Reinforced 3D Printed High-Strength Concrete with the Addition of Fly-Ash”, <i>Journal of Building Engineering</i>, p. 111387, 2024, doi: 10.1016/j.jobe.2024.111387.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Luo, Surong, Wenhao Jin, Weihong Wu, and Kaijian Zhang. “Rheological and Mechanical Properties of Polyformaldehyde-Fiber-Reinforced 3D Printed High-Strength Concrete with the Addition of Fly-Ash”. <i>Journal of Building Engineering</i>, 2024, 111387. https://doi.org/10.1016/j.jobe.2024.111387.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

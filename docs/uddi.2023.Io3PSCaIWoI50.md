@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Md Uddin
+    - footer
+title: Uddin Md
 description:
 tags:
  - concrete
@@ -14,27 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of 3D Printable Sustainable Concrete and Industrial Waste on Industry 5.0 ([2022-12](date/2022/12))
-<a href="https://doi.org/10.4018/978-1-6684-6113-6.ch008" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.4018/978-1-6684-6113-6.ch008</a>
+#Influence of 3D Printable Sustainable Concrete and Industrial Waste on Industry 5.0 ([2022-12](date/2022/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.4018/978-1-6684-6113-6.ch008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4018/978-1-6684-6113-6.ch008" target="_blank">10.4018/978-1-6684-6113-6.ch008</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/uddin_nasir_md"><b>Uddin</b>&nbsp;Md</a></span><br>
+Contribution - Implications of Industry 5.0 on Environmental Sustainability, pp. 156-191
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Implications of Industry 5.0 on Environmental Sustainability, pp. 156-191
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#industry`](keyword/industry)
-    [`#influence`](keyword/influence)
-    [`#printability`](keyword/printability)
-    [`#sustainability`](keyword/sustainability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%203D%20Printable%20Sustainable%20Concrete%20and%20Industrial%20Waste%20on%20Industry%205.0" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151463048&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313326548" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.4018/978-1-6684-6113-6.ch008" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.4018/978-1-6684-6113-6.ch008?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Industry 5.0 acknowledges the construction industry's capacity to be a sustainable source of prosperity by ensuring the use of eco-friendly resources, ecologically friendly solutions, and climate-friendly practices. Innovative, eco-friendly, recyclable, bacterial, and recycled 3D-printed concrete will be an industry option for large-scale structures in the future. Additionally, industrial waste would be of innovative, sustainable aggregates and might be an upcoming material for 3D-printed concrete. Consider that humans collaborate with robots to make the building industry safe, sustainable, and cost-effective, which can fulfill the goal of Industry 5.0. New techniques, like 3D printing technology for concrete and Industry 5.0 for 3D printing in construction, are also discussed. Human-machine interaction in the construction business will be a breakthrough concept for Industry 5.0. However, deploying machine learning to solve problems in the concrete industry has proven difficult.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chou_ghaf_siko_chun.2021.IoAIoRMaMPo3PAAM/">Investigation of Additive Incorporation on Rheological, Microstructural and Mechanical Properties of 3D Printable Alkali-Activated Materials</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
@@ -86,7 +69,37 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{uddi.2023.Io3PSCaIWoI50,
+      author            = "Md Nasir Uddin",
+      title             = "Influence of 3D Printable Sustainable Concrete and Industrial Waste on Industry 5.0",
+      doi               = "10.4018/978-1-6684-6113-6.ch008",
+      year              = "2023",
+      pages             = "156--191",
+      booktitle         = "Implications of Industry 5.0 on Environmental Sustainability",
+      editor            = "Ayman Batisha and Muhammad Jawad Sajid and Syed Abdul Rehman Khan and Zhang Yu",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. N. Uddin, “Influence of 3D Printable Sustainable Concrete and Industrial Waste on Industry 5.0”, in <i>Implications of Industry 5.0 on Environmental Sustainability</i>,  2023, pp. 156–191. doi: 10.4018/978-1-6684-6113-6.ch008.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Uddin, Md Nasir. “Influence of 3D Printable Sustainable Concrete and Industrial Waste on Industry 5.0”. In <i>Implications of Industry 5.0 on Environmental Sustainability</i>, edited by Ayman Batisha, Muhammad Jawad Sajid, Syed Abdul Rehman Khan, and Zhang Yu, 156–91, 2023. https://doi.org/10.4018/978-1-6684-6113-6.ch008.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

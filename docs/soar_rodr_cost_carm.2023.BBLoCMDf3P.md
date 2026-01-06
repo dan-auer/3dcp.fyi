@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Augusto Soares, Ana Rodrigues, Hugo Costa, Ricardo Carmo, Florindo Gaspar, Eduardo Júlio
+    - footer
+title: Soares Augusto, Rodrigues Ana, Costa Hugo, Carmo Ricardo, Gaspar Florindo, Júlio Eduardo
 description:
 tags:
  - bond
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bond Between Layers of Cementitious Mortars Developed for 3D Printing ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1007/978-3-031-32519-9_62" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-32519-9_62</a>
+#Bond Between Layers of Cementitious Mortars Developed for 3D Printing ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-32519-9_62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32519-9_62" target="_blank">10.1007/978-3-031-32519-9_62</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5772-3600" title="ORCID: 0000-0002-5772-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soares_cezar-maciel_augusto"><b>Soares</b>&nbsp;Augusto</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7133-7159" title="ORCID: 0000-0002-7133-7159" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodrigues_ana"><b>Rodrigues</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3445-0694" title="ORCID: 0000-0003-3445-0694" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costa_hugo"><b>Costa</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3254-2221" title="ORCID: 0000-0002-3254-2221" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carmo_ricardo"><b>do&nbsp;Carmo</b>&nbsp;Ricardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1690-9887" title="ORCID: 0000-0003-1690-9887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/julio_eduardo"><b>Júlio</b>&nbsp;Eduardo</a></span><br>
+Contribution - Proceedings of the fib Symposium 2023, pp. 638-647
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/soares_cezar-maciel_augusto"><b>Soares</b> Augusto</a> <a href="https://orcid.org/0000-0002-5772-3600" title="ORCID: 0000-0002-5772-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rodrigues_ana"><b>Rodrigues</b> Ana</a> <a href="https://orcid.org/0000-0002-7133-7159" title="ORCID: 0000-0002-7133-7159" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/costa_hugo"><b>Costa</b> Hugo</a> <a href="https://orcid.org/0000-0003-3445-0694" title="ORCID: 0000-0003-3445-0694" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/carmo_ricardo"><b>do Carmo</b> Ricardo</a> <a href="https://orcid.org/0000-0002-3254-2221" title="ORCID: 0000-0002-3254-2221" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/julio_eduardo"><b>Júlio</b> Eduardo</a> <a href="https://orcid.org/0000-0003-1690-9887" title="ORCID: 0000-0003-1690-9887" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the fib Symposium 2023, pp. 638-647
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#cement`](keyword/cement)
-    [`#layer`](keyword/layer)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bond%20Between%20Layers%20of%20Cementitious%20Mortars%20Developed%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163948267&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4378807571" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-32519-9_62" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-32519-9_62?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Despite the recent technological advances, there are still no huge advances in the worldwide construction processes. With the Industrial Revolution 4.0, new possibilities emerged, being additive manufacturing, also called 3D printing, using cementitious materials, one of the most promising. This building process has numerous advantages, such as: automation of the construction processes with reduction of labour costs; productivity increase at the prefabrication plant; optimization of shapes and possibility to adopting complex geometries; reduction of raw materials and waste; no need for formwork; among others. Taking into account all the above-mentioned benefits, over the last few years, several research studies were dedicated to improving this building technique and significant progresses were made. However, there are still challenges to be considered, as for instance the reduced bond between layers. In fact, the overlapping of successive layers, printed at different instants, can result in weak bond and, in addition, the absence of formwork earlier exposes the material to the environment conditions and thus increases the time-dependent effects, resulting in higher differential shrinkage between layers. Most recent studies indicate that several parameters also contribute to reduce the bond strength between layers. For these reasons, it has been concluded that 3Dprinted elementsmaydevelop an anisotropic behaviour. This study is dedicated to evaluate the longitudinal shear strength between layers, using pre-selected mixtures. Results are discussed and major conclusions are drawn.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -76,7 +55,38 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{soar_rodr_cost_carm.2023.BBLoCMDf3P,
+      author            = "Augusto Cezar Maciel Soares and Ana Rodrigues and Hugo Costa and Ricardo do Carmo and Florindo Gaspar and Eduardo Júlio",
+      title             = "Bond Between Layers of Cementitious Mortars Developed for 3D Printing",
+      doi               = "10.1007/978-3-031-32519-9_62",
+      year              = "2023",
+      volume            = "349",
+      pages             = "638--647",
+      booktitle         = "Proceedings of the fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient",
+      editor            = "Alper Ilki and Derya Çavunt and Yavuz Selim Çavunt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. C. M. Soares, A. Rodrigues, H. Costa, R. do Carmo, F. Gaspar and E. Júlio, “Bond Between Layers of Cementitious Mortars Developed for 3D Printing”, in <i>Proceedings of the fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient</i>,  2023, vol. 349, pp. 638–647. doi: 10.1007/978-3-031-32519-9_62.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Soares, Augusto Cezar Maciel, Ana Rodrigues, Hugo Costa, Ricardo do Carmo, Florindo Gaspar, and Eduardo Júlio. “Bond Between Layers of Cementitious Mortars Developed for 3D Printing”. In <i>Proceedings of the Fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient</i>, edited by Alper Ilki, Derya Çavunt, and Yavuz Selim Çavunt, 349:638–47, 2023. https://doi.org/10.1007/978-3-031-32519-9_62.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

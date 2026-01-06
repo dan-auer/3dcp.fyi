@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meruyert Sovetova, John Kaiser Calautit
+    - footer
+title: Sovetova Meruyert, Kaiser Calautit John
 description:
 tags:
  - buildability
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.enbuild.2024.114731) Thermal and Energy Efficiency in 3D Printed Buildings:<br/>:aca-blank: Review of Geometric Design, Materials and Printing Processes ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.enbuild.2024.114731" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.enbuild.2024.114731</a>
+#Thermal and Energy Efficiency in 3D Printed Buildings&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">Review of Geometric Design, Materials and Printing Processes</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.enbuild.2024.114731) <a href="https://doi.org/10.1016/j.enbuild.2024.114731" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.enbuild.2024.114731" target="_blank">10.1016/j.enbuild.2024.114731</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4716-8498" title="ORCID: 0000-0002-4716-8498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sovetova_meruyert"><b>Sovetova</b>&nbsp;Meruyert</a></span>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b>&nbsp;John</a></span><br>
+Journal Article - Energy and Buildings, No. 114731
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a> <a href="https://orcid.org/0000-0002-4716-8498" title="ORCID: 0000-0002-4716-8498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energy and Buildings, No. 114731
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#design`](keyword/design)
-    [`#efficient`](keyword/efficient)
-    [`#energy`](keyword/energy)
-    [`#geometry`](keyword/geometry)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#review`](keyword/review)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20and%20Energy%20Efficiency%20in%203D%20Printed%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204366944&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402042629" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.enbuild.2024.114731" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.enbuild.2024.114731?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Applying 3D printing in construction is a promising, sustainable alternative to conventional methods. However, the thermal and energy performance of 3D-printed structures remains underexplored, particularly regarding the interactions between geometric design, material selection, and printing parameters. This review addresses this gap by critically examining how main steps related to printing process impact on the thermal efficiency of 3D-printed buildings. Key findings indicate that material development needs to focus on mixes that balance thermal properties, printability, and structural integrity. The review demonstrates how optimising wall cross-sections and cavity shapes can reduce thermal conductivity and enhance energy efficiency. Innovative geometric designs, such as cellular and honeycomb structures, have shown improvements in thermal insulation. Optimising printing parameters such as extrusion rate and nozzle travel speed is crucial to minimise thermal bridges and reduce material anisotropy. Advanced numerical models, validated with experimental data and incorporating inhomogeneous porosity, anisotropy, and surface roughness, are essential for accurately predicting the thermal behaviour of 3D-printed structures. The review underscores the need for large-scale, long-term performance studies of 3D-printed structures under diverse climatic conditions. Additionally, developing standardised fabrication protocols and testing methods is essential to ensure consistent quality and broader adoption. Addressing these research gaps is crucial to fully realise the potential of 3D printing in sustainable construction and accelerate the adoption of additive manufacturing in the construction area.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "93 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
@@ -163,8 +142,9 @@ tags:
       <li><a href="../../../author/zahrani_a_abdullah"><b>Zahrani</b> Abdullah</a>, <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zahr_algh_basa.2022.COo3PCWfIBTP/">Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_hanmo"><b>Wang</b> Hanmo</a>, <a href="../../../author/wan_yujia"><b>Wan</b> Yujia</a>, <a href="../../../author/owyong_shawn"><b>Owyong</b> Shawn</a>, <a href="../../../author/connie-lim_en"><b>Connie Lim</b> En</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wan_owyo_conn.2026.TLCC/">Towards Low-Carbon Construction:<br/>Nature-Inspired Internal Patterns for Thermal Insulation in Lightweight Concrete Component Cast Using 3D-Printed Formwork</a></li>
       <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/liu_yiming"><b>Liu</b> Yiming</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ding_li_liu.2025.SoMPaEBo3PLMOCFCBoTDMS/">Study on Mechanical Properties and Environmental Benefits of 3D Printed Lean Magnesium Ore Concrete Filled Columns Based on Three-Dimensional Meso-Structure</a></li>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
@@ -175,4 +155,33 @@ tags:
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../arau_mart_cabr_nune.2025.EoLECALOtPoCCf3P/">Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing</a></li>
       <li><a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a>, <a href="../../../author/brown_lesa"><b>Brown</b> Lesa</a>, <a href="../../../author/thorne_garret"><b>Thorne</b> Garret</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../koss_brow_thor_sanc.2024.IoIAaIFotTBo3PCM/">Influence of Internal Architecture and Ink Formulation on the Thermal Behavior of 3D Printed Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sove_kais.2024.TaEEi3PB,
+      author            = "Meruyert Sovetova and John Kaiser Calautit",
+      title             = "Thermal and Energy Efficiency in 3D Printed Buildings: Review of Geometric Design, Materials and Printing Processes",
+      doi               = "10.1016/j.enbuild.2024.114731",
+      year              = "2024",
+      journal           = "Energy and Buildings",
+      pages             = "114731",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sovetova  and J. K. Calautit, “Thermal and Energy Efficiency in 3D Printed Buildings: Review of Geometric Design, Materials and Printing Processes”, <i>Energy and Buildings</i>, p. 114731, 2024, doi: 10.1016/j.enbuild.2024.114731.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sovetova, Meruyert, and John Kaiser Calautit. “Thermal and Energy Efficiency in 3D Printed Buildings: Review of Geometric Design, Materials and Printing Processes”. <i>Energy and Buildings</i>, 2024, 114731. https://doi.org/10.1016/j.enbuild.2024.114731.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dimitri Feys, Geert Schutter, Shirin Fataei, Nicos Martys, Viktor Mechtcherine
+    - footer
+title: Feys Dimitri, Schutter Geert, Fataei Shirin, Martys Nicos, Mechtcherine Viktor
 description:
 tags:
  - challenge
@@ -12,29 +13,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2022.106720) Pumping of Concrete:<br/>:aca-blank: Understanding a Common Placement Method with Lots of Challenges ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106720" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106720</a>
+#Pumping of Concrete&nbsp;([2022-01](date/2022/01))
+<div class="h1-like">Understanding a Common Placement Method with Lots of Challenges</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2022.106720) <a href="https://doi.org/10.1016/j.cemconres.2022.106720" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106720" target="_blank">10.1016/j.cemconres.2022.106720</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1146-7998" title="ORCID: 0000-0002-1146-7998" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feys_dimitri"><b>Feys</b>&nbsp;Dimitri</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7102-5094" title="ORCID: 0000-0001-7102-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fataei_shirin"><b>Fataei</b>&nbsp;Shirin</a></span>, <a href="../../../author/martys_s_nicos"><b>Martys</b>&nbsp;Nicos</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 154
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="https://orcid.org/0000-0002-1146-7998" title="ORCID: 0000-0002-1146-7998" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a> <a href="https://orcid.org/0000-0001-7102-5094" title="ORCID: 0000-0001-7102-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martys_s_nicos"><b>Martys</b> Nicos</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 154, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#method`](keyword/method)
-    [`#pump`](keyword/pump)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pumping%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123643518&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4226523147" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106720" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106720?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Several million cubic meters of concrete are pumped daily, as this technique permits fast concrete placement. Fundamental research has been performed and practical guidelines have been developed to increase the knowledge of concrete behavior in pipes. However, the pumping process and concrete behavior are not fully understood. This paper gives an overview of the current knowledge of concrete pumping. At first, the known physics governing the flow of concrete in pipes are introduced. A series of experimental techniques characterizing concrete flow behavior near a smooth wall to predict pressure-flow rate relationships are discussed, followed by recent developments in the use of numerical simulations of concrete behavior in pipes. The influence of the pumping process on concrete rheology and air-void system is reviewed, and the first developments in active rheology control for concrete pumping are introduced. The last section of this paper gives an overview of open research questions and challenges.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../fata_secr_mech_rous.2021.AFOPMftPoSIPMaLLFDCP/">A First-Order Physical Model for the Prediction of Shear-Induced Particle-Migration and Lubricating-Layer Formation During Concrete Pumping</a></li>
@@ -72,8 +54,8 @@ tags:
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/cotardo_dario"><b>Cotardo</b> Dario</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/lohaus_ludger"><b>Lohaus</b> Ludger</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../secr_cota_mech_loha.2018.CiCPDPaFoLMUP/">Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/khodor_jad"><b>Khodor</b> Jad</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../secr_khod_schr_mech.2018.FoLLaFTDPoCBM/">Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
       <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>
       <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../vers_wolf_sale.2025.DDAMwCEILSDwDKb/">Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge:<br/>Part II: Moisture and Heat</a></li>
@@ -96,4 +78,33 @@ tags:
       <li><a href="../../../author/medicis_carolina"><b>Medicis</b> Carolina</a>, <a href="../../../author/gonzalez_sergio"><b>Gonzalez</b> Sergio</a>, <a href="../../../author/alvarado_a_yezid"><b>Alvarado</b> Yezid</a>, <a href="../../../author/vacca_ariel_hermes"><b>Vacca</b> Hermes</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../medi_gonz_alva_vacc.2022.MPoCAPUB3PC/">Mechanical Performance of Commercially Available Premix UHPC-Based 3D Printable Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ma_bai_wang_wang.2022.ERo3PUHPCBoCET/">Explosion-Resistance of 3D Printing Ultra-High-Performance Concrete Based on Contact-Explosion Tests</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{feys_schu_fata_mart.2022.PoC,
+      author            = "Dimitri Feys and Geert de Schutter and Shirin Fataei and Nicos S. Martys and Viktor Mechtcherine",
+      title             = "Pumping of Concrete: Understanding a Common Placement Method with Lots of Challenges",
+      doi               = "10.1016/j.cemconres.2022.106720",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "154",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Feys, G. de Schutter, S. Fataei, N. S. Martys and V. Mechtcherine, “Pumping of Concrete: Understanding a Common Placement Method with Lots of Challenges”, <i>Cement and Concrete Research</i>, vol. 154, 2022, doi: 10.1016/j.cemconres.2022.106720.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Feys, Dimitri, Geert de Schutter, Shirin Fataei, Nicos S. Martys, and Viktor Mechtcherine. “Pumping of Concrete: Understanding a Common Placement Method with Lots of Challenges”. <i>Cement and Concrete Research</i> 154 (2022). https://doi.org/10.1016/j.cemconres.2022.106720.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

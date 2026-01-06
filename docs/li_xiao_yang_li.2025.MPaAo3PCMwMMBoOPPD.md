@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fuhai Li, Sai Xiao, Bo Yang, Kepu Li, Yuecheng Zhou, Xiaobin Li, Gengyuan Liu
+    - footer
+title: Li Fuhai, Xiao Sai, Yang Bo, Li Kepu, Zhou Yuecheng, Li Xiaobin, Liu Gengyuan
 description:
 tags:
  - anisotropy
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.jobe.2025.113965" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113965</a>
+#Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113965" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113965" target="_blank">10.1016/j.jobe.2025.113965</a>
 
--------------------------
+<a href="../../../author/li_fuhai"><b>Li</b>&nbsp;Fuhai</a></span>, <a href="../../../author/xiao_sai"><b>Xiao</b>&nbsp;Sai</a></span>, <a href="../../../author/yang_bo"><b>Yang</b>&nbsp;Bo</a></span>, <a href="../../../author/li_kepu"><b>Li</b>&nbsp;Kepu</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-5951-5304" title="ORCID: 0009-0008-5951-5304" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_yuecheng"><b>Zhou</b>&nbsp;Yuecheng</a></span>, <a href="../../../author/li_xiaobin"><b>Li</b>&nbsp;Xiaobin</a></span>, <a href="../../../author/liu_gengyuan"><b>Liu</b>&nbsp;Gengyuan</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113965
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_fuhai"><b>Li</b> Fuhai</a>
-,     <a href="../../../author/xiao_sai"><b>Xiao</b> Sai</a>
-,     <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>
-,     <a href="../../../author/li_kepu"><b>Li</b> Kepu</a>
-,     <a href="../../../author/zhou_yuecheng"><b>Zhou</b> Yuecheng</a> <a href="https://orcid.org/0009-0008-5951-5304" title="ORCID: 0009-0008-5951-5304" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_xiaobin"><b>Li</b> Xiaobin</a>
-,     <a href="../../../author/liu_gengyuan"><b>Liu</b> Gengyuan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113965
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#modification`](keyword/modification)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Anisotropy%20of%203D-Printed%20Concrete%20Modified%20with%20Multiscale%20Materials%20Based%20on%20Optimized%20Printing%20Process%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015093438&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414011227" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113965" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113965?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The layer-by-layer extrusion process of 3D-printed concrete (3DPC) often leads to insufficient interlayer bonding strength, which compromises the overall mechanical performance and intensifies anisotropy. To address this issue, this study systematically enhances the mechanical properties of 3DPC through the optimization of printing parameters and multiscale material modification. First, key printing parameters, including nozzle diameter, extrusion speed, and layer height, are optimized based on extrusion compactness and print quality. On this basis, a multiscale composite modification system comprising nano silica (NS, 0–3%), polypropylene fibers (PP, 0–0.6%), and calcium carbonate whiskers (CW, 0–3%) is established. The effects of different dosages on compressive and flexural strength anisotropy, as well as interlayer defect evolution during curing, are systematically investigated. SEM-EDS and X-CT analyses reveals that CW enhances matrix strength by filling pores and deflecting cracks, NS improves structural compactness through nucleation effects, and PP fibers bridge cracks to increase energy dissipation. The combination of 1% NS, 1% CW, and 0.2% PP exhibits the best overall performance, significantly reducing anisotropy and enhancing mechanical strength and toughness, with the lowest porosity reaching 1.1%. This study provides both theoretical and experimental support for the synergistic toughening mechanisms of multiscale functional materials and the optimization of 3DPC printing processes, demonstrating strong potential for practical engineering applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../ambi_raje_kali.2023.MDOaPEoEB3PC/">Mix-Design, Optimization and Performance-Evaluation of Extrusion-Based 3D Printable Concrete</a></li>
       <li><a href="../../../author/anandaraj_s"><b>Anandaraj</b> S.</a>, <a href="../../../author/sowmya_sakthi_s"><b>Sowmya</b> S.</a>, <a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/mithun_t"><b>Mithun</b> T.</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../anan_sowm_kris_mith.2024.DoGECCUFAaNSf3P/">Development of Green Engineered Cementitious Composite Using Fly-Ash and Nano-Silica for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -115,7 +87,36 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_xiao_yang_li.2025.MPaAo3PCMwMMBoOPPD,
+      author            = "Fuhai Li and Sai Xiao and Bo Yang and Kepu Li and Yuecheng Zhou and Xiaobin Li and Gengyuan Liu",
+      title             = "Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design",
+      doi               = "10.1016/j.jobe.2025.113965",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113965",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Li, “Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design”, <i>Journal of Building Engineering</i>, p. 113965, 2025, doi: 10.1016/j.jobe.2025.113965.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Fuhai, Sai Xiao, Bo Yang, Kepu Li, Yuecheng Zhou, Xiaobin Li, and Gengyuan Liu. “Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design”. <i>Journal of Building Engineering</i>, 2025, 113965. https://doi.org/10.1016/j.jobe.2025.113965.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

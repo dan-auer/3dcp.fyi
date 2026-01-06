@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ball Richard 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
   <li><a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a>, <a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ball_dams_shep_chen.2025.EAAMwCMUAD/">Exploring Aerial Additive Manufacturing with Cementitious Materials Using Autonomous Drones</a></li>
   <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>

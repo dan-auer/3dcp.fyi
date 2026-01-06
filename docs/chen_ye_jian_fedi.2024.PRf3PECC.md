@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenguang Chen, Junhong Ye, Fangming Jiang, Roman Fediuk, Jiangtao Yu, Victor Li, Kequan Yu
+    - footer
+title: Chen Wenguang, Ye Junhong, Jiang Fangming, Fediuk Roman, Yu Jiangtao, Li Victor, Yu Kequan
 description:
 tags:
  - cement
@@ -13,32 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Printability Region for 3D Printable Engineered Cementitious Composites ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105599" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105599</a>
+#Printability Region for 3D Printable Engineered Cementitious Composites ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105599" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105599" target="_blank">10.1016/j.cemconcomp.2024.105599</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-8254-8208" title="ORCID: 0009-0009-8254-8208" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_wenguang"><b>Chen</b>&nbsp;Wenguang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <a href="../../../author/jiang_fangming"><b>Jiang</b>&nbsp;Fangming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2279-1240" title="ORCID: 0000-0002-2279-1240" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fediuk_roman"><b>Fediuk</b>&nbsp;Roman</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_c_victor"><b>Li</b>&nbsp;Victor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 151, No. 105599
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a> <a href="https://orcid.org/0009-0009-8254-8208" title="ORCID: 0009-0009-8254-8208" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>
-,     <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> <a href="https://orcid.org/0000-0002-2279-1240" title="ORCID: 0000-0002-2279-1240" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>
-,     <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 151, No. 105599
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#printability`](keyword/printability)
-    [`#region`](keyword/region)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/region"><button class="btn">#region</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20Region%20for%203D%20Printable%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194160935&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399037264" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105599" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105599?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integration of reinforcement in 3D concrete printing (3DCP) presents a major challenge in current 3DCP industry. Engineered cementitious composites (ECC) with self-reinforcing characteristic provides a promising solution. However, the conflicting requirements between extrudability and buildability are amplified for 3D-printable ECC (3DP-ECC) due to the existence of a large-amount of fibers. This study investigates the printability region for 3DP-ECC based on standardized field-friendly workability test. The effects of superplasticizer (SP) dosage, hydroxypropyl methylcellulose (HPMC) dosage and fiber content on the workability and printability of 3DP-ECC at varying resting times were explored. The results of grey relational analysis (GRA) show that the workability can be regulated by SP dosage, HPMC dosage, fiber content and resting time. The workability test results in conjunction with the printability evaluation results were used to define the printable region. The suitable ranges of workability parameters including spread diameter, slump, and penetration depth for 3DP-ECC are 130–142.5 mm, 1–31 mm, and 7.5–22 mm, respectively. In addition, the hardened mechanical properties of 3DP-ECC with satisfactory printability were examined by tensile and compressive performance. This study proposes a simple but effective method for predicting the printability of 3DP-ECC and the findings provide guidance for researchers and engineers to easily develop printable ECC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -104,8 +82,9 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
@@ -126,4 +105,34 @@ tags:
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wars_pand_bisw.2024.DoUDSH3PCCUCFVaCA/">Development of Ultra-Ductile Strain-Hardening 3D Printed Concrete Composite Utilizing Critical Fiber Volume and Coarse Aggregate</a></li>
       <li><a href="../../../author/yan_kang-tai"><b>Yan</b> Kang-Tai</a>, <a href="../../../author/wang_xian-peng"><b>Wang</b> Xian-Peng</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../yan_wang_ding_li.2024.3PLBLECC/">3D Printed LC3-Based Lightweight Engineered Cementitious Composites:<br/>Fresh State, Hardened Material-Properties and Beam-Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_ye_jian_fedi.2024.PRf3PECC,
+      author            = "Wenguang Chen and Junhong Ye and Fangming Jiang and Roman Fediuk and Jiangtao Yu and Victor C. Li and Kequan Yu",
+      title             = "Printability Region for 3D Printable Engineered Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2024.105599",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "151",
+      pages             = "105599",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Chen, “Printability Region for 3D Printable Engineered Cementitious Composites”, <i>Cement and Concrete Composites</i>, vol. 151, p. 105599, 2024, doi: 10.1016/j.cemconcomp.2024.105599.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Wenguang, Junhong Ye, Fangming Jiang, Roman Fediuk, Jiangtao Yu, Victor C. Li, and Kequan Yu. “Printability Region for 3D Printable Engineered Cementitious Composites”. <i>Cement and Concrete Composites</i> 151 (2024): 105599. https://doi.org/10.1016/j.cemconcomp.2024.105599.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Aniket Patel, Avinaya Tripathi, Ravi Kiran, Manu Santhanam, Gaurav Sant, Narayanan Neithalath
+    - footer
+title: Patel Aniket, Tripathi Avinaya, Kiran Ravi, Santhanam Manu, Sant Gaurav, Neithalath Narayanan
 description:
 tags:
  - age
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106405" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106405</a>
+#Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106405" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106405" target="_blank">10.1016/j.cemconcomp.2025.106405</a>
 
--------------------------
+<a href="../../../author/patel_kumar_aniket"><b>Patel</b>&nbsp;Aniket</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4535-4104" title="ORCID: 0000-0003-4535-4104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tripathi_avinaya"><b>Tripathi</b>&nbsp;Avinaya</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8300-0767" title="ORCID: 0000-0001-8300-0767" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kiran_ravi"><b>Kiran</b>&nbsp;Ravi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhanam_manu"><b>Santhanam</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sant_gaurav"><b>Sant</b>&nbsp;Gaurav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106405
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>
-,     <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> <a href="https://orcid.org/0000-0003-4535-4104" title="ORCID: 0000-0003-4535-4104" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a> <a href="https://orcid.org/0000-0001-8300-0767" title="ORCID: 0000-0001-8300-0767" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> <a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106405
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#concrete`](keyword/concrete)
-    [`#correlation`](keyword/correlation)
-    [`#digital`](keyword/digital)
-    [`#early`](keyword/early)
-    [`#effect`](keyword/effect)
-    [`#image`](keyword/image)
-    [`#print`](keyword/print)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Decoupling%20Early-Age%20Free%20Shrinkage%20and%20Restraint%20Effects%20in%203D%20Printed%20Concrete%20Using%20Digital%20Image%20Correlation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022280622&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106234892" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106405" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106405?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete (3DPC) undergoes substantial early-age shrinkage and cracking, driven by its formwork-free nature and high surface area-to-volume ratio that accelerates moisture loss. Measuring early-age deformations in 3DPC is complex because of the local heterogeneity caused by layering variations, overburden effects, print geometry, and the restraint effects that result in non-uniform volume changes. This paper utilizes Digital Image Correlation (DIC) to capture early-age (first 24 h) shrinkage deformations in 3D printed elements made using different binders, and with different layer and filament configurations. DIC-based surface strain measurements accurately capture the rapid volume change due to early drying, and the gradual plateauing as the mixture sets and hardens. The differences in restraint effects—both from the substrate as well as the layers and filaments—impose substantial differences in measured shrinkage. Hence, a novel framework is proposed here to quantify the multi-directional restraint effects, and to decouple them from the measured shrinkage. The result is the extraction of free shrinkage strains (geometry- and restraint independent) in 3DPC that is a function of the mixture design and exposure condition. The framework is validated for multiple layers and filaments with different dimensions as well. The approach, in conjunction with measurements of time-dependent elastic modulus, also allows for the determination of tensile stresses and thus the cracking propensity in in-place 3D printed concrete elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/chen_tiefeng"><b>Chen</b> Tiefeng</a>, <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../han_yan_chen_tang.2023.PSo3PCUDSWoUL/">Plastic Shrinkage of 3D Printed Concrete Under Different Self-Weight of Upper Layers</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
@@ -89,7 +64,36 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC,
+      author            = "Aniket Kumar Patel and Avinaya Tripathi and Ravi Kiran and Manu Santhanam and Gaurav Sant and Narayanan Neithalath",
+      title             = "Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation",
+      doi               = "10.1016/j.cemconcomp.2025.106405",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106405",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. K. Patel, A. Tripathi, R. Kiran, M. Santhanam, G. Sant and N. Neithalath, “Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation”, <i>Cement and Concrete Composites</i>, p. 106405, 2025, doi: 10.1016/j.cemconcomp.2025.106405.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Patel, Aniket Kumar, Avinaya Tripathi, Ravi Kiran, Manu Santhanam, Gaurav Sant, and Narayanan Neithalath. “Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation”. <i>Cement and Concrete Composites</i>, 2025, 106405. https://doi.org/10.1016/j.cemconcomp.2025.106405.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

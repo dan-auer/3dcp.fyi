@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manfang Lin, Lingzhi Li, Fangming Jiang, Yao Ding, Fan Yu, Fangyuan Dong, Kequan Yu
+    - footer
+title: Lin Manfang, Li Lingzhi, Jiang Fangming, Ding Yao, Yu Fan, Dong Fangyuan, Yu Kequan
 description:
 tags:
  - automation
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automated Reinforcement of 3D Printed Engineered Cementitious Composite Beams ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.autcon.2024.105851" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105851</a>
+#Automated Reinforcement of 3D Printed Engineered Cementitious Composite Beams ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105851" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105851" target="_blank">10.1016/j.autcon.2024.105851</a>
 
--------------------------
+<a href="../../../author/lin_manfang"><b>Lin</b>&nbsp;Manfang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_lingzhi"><b>Li</b>&nbsp;Lingzhi</a></span>, <a href="../../../author/jiang_fangming"><b>Jiang</b>&nbsp;Fangming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6654-0996" title="ORCID: 0000-0002-6654-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_yao"><b>Ding</b>&nbsp;Yao</a></span>, <a href="../../../author/yu_fan"><b>Yu</b>&nbsp;Fan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9323-9026" title="ORCID: 0000-0001-9323-9026" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dong_fangyuan"><b>Dong</b>&nbsp;Fangyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Automation in Construction, Vol. 168, No. 105851
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>
-,     <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> <a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>
-,     <a href="../../../author/ding_yao"><b>Ding</b> Yao</a> <a href="https://orcid.org/0000-0002-6654-0996" title="ORCID: 0000-0002-6654-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>
-,     <a href="../../../author/dong_fangyuan"><b>Dong</b> Fangyuan</a> <a href="https://orcid.org/0000-0001-9323-9026" title="ORCID: 0000-0001-9323-9026" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 168, No. 105851
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#beam`](keyword/beam)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Reinforcement%20of%203D%20Printed%20Engineered%20Cementitious%20Composite%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207802533&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403999702" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105851" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105851?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The advancement of emerging 3D concrete printing (3DCP) has been hindered by two significant challenges: the weak tensile properties of conventional concrete and the difficulty of simultaneously placing reinforcement during printing. In this paper, engineered cementitious composites (ECC) with superior tensile properties along with an in-process reinforcement technique through laying CFRP meshes between ECC layers were strategically composited. Four-point bending tests were performed on 3DP-ECC beams reinforced with different layers and configurations of CFRP mesh. Experimental results demonstrated that CFRP meshes can deform collaboratively with ECC, and enhance the load bearing capacity of 3DP-ECC beams to 1.22–2.01 times compared to that of unreinforced beam, while moderately decrease the deformation capacity of printed beams. A theoretical model for predicting the load bearing capacity and bending moment-curvature relationship of 3DP-ECC beams was further proposed. This paper validated the feasibility and effectiveness of CFRP mesh in reinforcing 3DP-ECC beams for efficient 3DCP construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -94,8 +70,8 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
@@ -103,4 +79,34 @@ tags:
       <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_ding_yu_li.2025.SSo3pEBTSWMaIT/">Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments</a></li>
       <li><a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/he_qianpeng"><b>He</b> Qianpeng</a>, <a href="../../../author/ping_pengxin"><b>Ping</b> Pengxin</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_he_ping_pan.2025.AFBaEAo3PECC3EBULVI/">Anisotropic Flexural Behavior and Energy Absorption of 3D Printed Engineered Cementitious Composites (3DP-ECC) Beams Under Low-Velocity Impact</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lin_li_jian_ding.2024.ARo3PECCB,
+      author            = "Manfang Lin and Lingzhi Li and Fangming Jiang and Yao Ding and Fan Yu and Fangyuan Dong and Kequan Yu",
+      title             = "Automated Reinforcement of 3D Printed Engineered Cementitious Composite Beams",
+      doi               = "10.1016/j.autcon.2024.105851",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "168",
+      pages             = "105851",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Lin, “Automated Reinforcement of 3D Printed Engineered Cementitious Composite Beams”, <i>Automation in Construction</i>, vol. 168, p. 105851, 2024, doi: 10.1016/j.autcon.2024.105851.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lin, Manfang, Lingzhi Li, Fangming Jiang, Yao Ding, Fan Yu, Fangyuan Dong, and Kequan Yu. “Automated Reinforcement of 3D Printed Engineered Cementitious Composite Beams”. <i>Automation in Construction</i> 168 (2024): 105851. https://doi.org/10.1016/j.autcon.2024.105851.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

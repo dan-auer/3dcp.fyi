@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zoubeir Lafhaj, Andry Rabenantoandro, Soufiane Moussaoui, Zakaria Dakhli, Nicolas Youssef
+    - footer
+title: Lafhaj Zoubeir, Rabenantoandro Andry, Moussaoui Soufiane, Dakhli Zakaria, Youssef Nicolas
 description:
 tags:
  - approach
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/9/12/245/pdf?version=1576751522) Experimental Approach for Printability-Assessment:<br/>:aca-blank: Toward a Practical Decision-Making Framework of Printability for Cementitious Materials ([2019-12](date/2019/12))
-<a href="https://doi.org/10.3390/buildings9120245" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings9120245</a>
+#Experimental Approach for Printability-Assessment&nbsp;([2019-12](date/2019/12))
+<div class="h1-like">Toward a Practical Decision-Making Framework of Printability for Cementitious Materials</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/9/12/245/pdf?version=1576751522) <a href="https://doi.org/10.3390/buildings9120245" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings9120245" target="_blank">10.3390/buildings9120245</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b>&nbsp;Zoubeir</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9689-121X" title="ORCID: 0000-0002-9689-121X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rabenantoandro_zaid_andry"><b>Rabenantoandro</b>&nbsp;Andry</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-977X" title="ORCID: 0000-0001-8626-977X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moussaoui_soufiane"><b>el&nbsp;Moussaoui</b>&nbsp;Soufiane</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6097-0015" title="ORCID: 0000-0001-6097-0015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dakhli_zakaria"><b>Dakhli</b>&nbsp;Zakaria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3171-0470" title="ORCID: 0000-0003-3171-0470" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youssef_nicolas"><b>Youssef</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Buildings, Vol. 9, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a> <a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rabenantoandro_zaid_andry"><b>Rabenantoandro</b> Andry</a> <a href="https://orcid.org/0000-0002-9689-121X" title="ORCID: 0000-0002-9689-121X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moussaoui_soufiane"><b>el Moussaoui</b> Soufiane</a> <a href="https://orcid.org/0000-0001-8626-977X" title="ORCID: 0000-0001-8626-977X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dakhli_zakaria"><b>Dakhli</b> Zakaria</a> <a href="https://orcid.org/0000-0001-6097-0015" title="ORCID: 0000-0001-6097-0015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3171-0470" title="ORCID: 0000-0003-3171-0470" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 9, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#assessment`](keyword/assessment)
-    [`#cement`](keyword/cement)
-    [`#decision`](keyword/decision)
-    [`#experiment`](keyword/experiment)
-    [`#framework`](keyword/framework)
-    [`#material`](keyword/material)
-    [`#practice`](keyword/practice)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/decision"><button class="btn">#decision</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Approach%20for%20Printability-Assessment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078335543&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2996363245" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings9120245" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings9120245?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The objective of this paper is to propose a pre-experimental framework of printability pre-assessment of cementitious materials. This study firstly presents a general review of additive manufacturing in construction and then examines the main characteristic of the material formulation and printability properties based on extrusion technique. This framework comes with experimental tests to determine a qualitative printability index of mixtures. It uses mix-designs reported in the literature to define interval ratio of mixture design to be investigated in this study. The focus was put on two criteria that influence the formulation namely flowability and buildability. Two practiced based tests, mini slump and cone penetrometer, were used to draw the flowability and buildability dimensionless index. The results were analyzed by introducing an optimal printability coefficient and examining their time evolution. An optimal time of printing was determined Toptimal. Finally, a 3D mortar printing system and its operational process are presented. Then, based on the measurement, the optimal mixture is identified and printed in a large-scale geometry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -108,8 +85,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/atalay_berrin"><b>Atalay</b> Berrin</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_atal.2025.PaBaAfSaHP3PC/">Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete</a></li>
       <li><a href="../../../author/vico-lujano_raul"><b>Vico Lujano</b> Raúl</a>, <a href="../../../author/perez-villarejo_luis"><b>Pérez Villarejo</b> Luis</a>, <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a>, <a href="../../../author/hidalgo-torrano_pilar"><b>Hidalgo-Torrano</b> Pilar</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../vico_pere_nova_hida.2025.OMFf3P/">Optimized Mortar Formulations for 3D Printing:<br/>A Rheological Study of Cementitious Pastes Incorporating Potassium-Rich Biomass Fly Ash Wastes</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
@@ -133,4 +110,34 @@ tags:
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../kasz_skib_hoff.2020.3CPfSC/">3D Concrete Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/pal_ankit"><b>Pal</b> Ankit</a>, <a href="../../../author/patel_singh_shiv"><b>Patel</b> Shiv</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../dwiv_pal_pate_chou.2022.EoM3PaDMf3CP/">Evaluation of Model 3D Printer and Design Mix for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lafh_rabe_mous_dakh.2019.EAfPA,
+      author            = "Zoubeir Lafhaj and Andry Zaid Rabenantoandro and Soufiane El Moussaoui and Zakaria Dakhli and Nicolas Youssef",
+      title             = "Experimental Approach for Printability-Assessment: Toward a Practical Decision-Making Framework of Printability for Cementitious Materials",
+      doi               = "10.3390/buildings9120245",
+      year              = "2019",
+      journal           = "Buildings",
+      volume            = "9",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Lafhaj, A. Z. Rabenantoandro, S. E. Moussaoui, Z. Dakhli and N. Youssef, “Experimental Approach for Printability-Assessment: Toward a Practical Decision-Making Framework of Printability for Cementitious Materials”, <i>Buildings</i>, vol. 9, no. 12, 2019, doi: 10.3390/buildings9120245.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lafhaj, Zoubeir, Andry Zaid Rabenantoandro, Soufiane El Moussaoui, Zakaria Dakhli, and Nicolas Youssef. “Experimental Approach for Printability-Assessment: Toward a Practical Decision-Making Framework of Printability for Cementitious Materials”. <i>Buildings</i> 9, no. 12 (2019). https://doi.org/10.3390/buildings9120245.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

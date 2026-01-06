@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jolien Putten, Melissa Volder, Philip Heede, Geert Schutter, Kim Tittelboom
+    - footer
+title: Putten Jolien, Volder Melissa, Heede Philip, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - chloride
@@ -13,30 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing of Concrete:<br/>:aca-blank: The Influence on Chloride Penetration ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_51</a>
+#3D Printing of Concrete&nbsp;([2020-07](date/2020/07))
+<div class="h1-like">The Influence on Chloride Penetration</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_51" target="_blank">10.1007/978-3-030-49916-7_51</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/putten_jolien"><b>van der&nbsp;Putten</b>&nbsp;Jolien</a></span>, <a href="../../../author/volder_melissa"><b>de&nbsp;Volder</b>&nbsp;Melissa</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1307-2831" title="ORCID: 0000-0003-1307-2831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heede_philip"><b>van den&nbsp;Heede</b>&nbsp;Philip</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 500-507
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/putten_jolien"><b>van der Putten</b> Jolien</a> <a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/volder_melissa"><b>de Volder</b> Melissa</a>
-,     <a href="../../../author/heede_philip"><b>van den Heede</b> Philip</a> <a href="https://orcid.org/0000-0003-1307-2831" title="ORCID: 0000-0003-1307-2831" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 500-507
-
-:aca-blank:{ .lg .middle}
-    [`#chloride`](keyword/chloride)
-    [`#concrete`](keyword/concrete)
-    [`#influence`](keyword/influence)
-    [`#penetration`](keyword/penetration)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/chloride"><button class="btn">#chloride</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088254629&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,24 +36,20 @@ tags:
 <a href="https://inciteful.xyz/p/W3041435457" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_51" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_51?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is one type of additive manufacturing (AM) which comprises all modern techniques of fabricating building elements layer by layer. It shows great perspectives with respect to freedom of form, time management and eco-friendly use of the material as the material is only applied where it is necessary. However, due to the lack of formwork and the layered end result, this construction technique induces more shrinkage, internal voids and crack formation, increasing the amount of preferential ingress paths for chemical substances. The additional amount of voids caused by this layered fabrication technique will not only induce anisotropic properties on a structural level, but will also affect the microstructure and durability of the printed specimens. For the aim of this research, 3 different time gaps are selected to investigate the influence of the layered construction process on chloride penetration and a comparison with traditional cast concrete was made. First results showed that the print process affects the chloride penetration in a significant way. Although the ingress front is uniform in both cases, the chloride ingress is approximately three times higher in case of specimens fabricated with a zero minute time gap compared with traditional cast elements and this only after one week of chloride exposure. An increased time gap increases the porosity at the interface and consequently also the chloride ingress rate of the printed elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/azima_m"><b>Azima</b> M.</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/mullem_t"><b>Mullem</b> T.</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../putt_azim_heed_mull.2020.NRtStWIvtILo3PCMfCL/">Neutron-Radiography to Study the Water-Ingress via the Inter-Layer of 3D Printed Cementitious Materials for Continuous Layering</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
       <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../dong_wu_liu_wu.2025.CTAaIDi3PUHPC/">Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete:<br/>Multi-Scale Evaluation and Engineering Implications</a></li>
       <li><a href="../../../author/jalil_siti-nur-natasha-abdul"><b>Jalil</b> Siti Nur Natasha Abdul</a>, <a href="../../../author/rizal-alias_ahmad"><b>Rizal Alias</b> Ahmad</a>, <a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../jali_riza_alia.2025.CaSiI3CP3TiM/">Challenges and Strategies in Implementing 3D Concrete Printing (3DCP) Technology in Malaysia:<br/>Materials and Design Codes</a></li>
@@ -104,4 +85,35 @@ tags:
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{putt_vold_heed_schu.2020.3PoC,
+      author            = "Jolien van der Putten and Melissa de Volder and Philip van den Heede and Geert de Schutter and Kim van Tittelboom",
+      title             = "3D Printing of Concrete: The Influence on Chloride Penetration",
+      doi               = "10.1007/978-3-030-49916-7_51",
+      year              = "2020",
+      volume            = "28",
+      pages             = "500--507",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. van der Putten, M. de Volder, P. van den Heede, G. de Schutter and K. van Tittelboom, “3D Printing of Concrete: The Influence on Chloride Penetration”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 500–507. doi: 10.1007/978-3-030-49916-7_51.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Putten, Jolien van der, Melissa de Volder, Philip van den Heede, Geert de Schutter, and Kim van Tittelboom. “3D Printing of Concrete: The Influence on Chloride Penetration”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:500–507, 2020. https://doi.org/10.1007/978-3-030-49916-7_51.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

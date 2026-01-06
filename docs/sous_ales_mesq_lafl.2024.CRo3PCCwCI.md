@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Israel Sousa, Antonella Alessandro, Esequiel Mesquita, Simon Laflamme, Filippo Ubertini
+    - footer
+title: Sousa Israel, Alessandro Antonella, Mesquita Esequiel, Laflamme Simon, Ubertini Filippo
 description:
 tags:
  - capability
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.111192) Comprehensive Review of 3D Printed Cementitious Composites with Carbon Inclusions:<br/>:aca-blank: Current Status and Perspective for Self-Sensing Capabilities ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.jobe.2024.111192" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111192</a>
+#Comprehensive Review of 3D Printed Cementitious Composites with Carbon Inclusions&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Current Status and Perspective for Self-Sensing Capabilities</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.111192) <a href="https://doi.org/10.1016/j.jobe.2024.111192" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111192" target="_blank">10.1016/j.jobe.2024.111192</a>
 
--------------------------
+<a href="../../../author/sousa_israel"><b>Sousa</b>&nbsp;Israel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2928-1961" title="ORCID: 0000-0003-2928-1961" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alessandro_antonella"><b>d'&nbsp;Alessandro</b>&nbsp;Antonella</a></span>, <a href="../../../author/mesquita_esequiel"><b>Mesquita</b>&nbsp;Esequiel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0601-9664" title="ORCID: 0000-0002-0601-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/laflamme_simon"><b>Laflamme</b>&nbsp;Simon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5044-8482" title="ORCID: 0000-0002-5044-8482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ubertini_filippo"><b>Ubertini</b>&nbsp;Filippo</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111192
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>
-,     <a href="../../../author/alessandro_antonella"><b>d' Alessandro</b> Antonella</a> <a href="https://orcid.org/0000-0003-2928-1961" title="ORCID: 0000-0003-2928-1961" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesquita_esequiel"><b>Mesquita</b> Esequiel</a>
-,     <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> <a href="https://orcid.org/0000-0002-0601-9664" title="ORCID: 0000-0002-0601-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="https://orcid.org/0000-0002-5044-8482" title="ORCID: 0000-0002-5044-8482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111192
-
-:aca-blank:{ .lg .middle}
-    [`#capability`](keyword/capability)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#comprehension`](keyword/comprehension)
-    [`#inclusion`](keyword/inclusion)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#self`](keyword/self)
-    [`#sensor`](keyword/sensor)
-
-
--------------------------
+<a href="../../keyword/capability"><button class="btn">#capability</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/inclusion"><button class="btn">#inclusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comprehensive%20Review%20of%203D%20Printed%20Cementitious%20Composites%20with%20Carbon%20Inclusions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208091257&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403973435" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111192" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111192?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of 3D printing in concrete constructions holds great promise due to its inherent benefits, including environmental sustainability, increased productivity, and minimized labor and material waste. Concurrently, the emergence of self-sensing cementitious composites, often achieved by incorporating conductive fillers within the cement matrix, has captured considerable attention in both scientific literature and industry. These composites exhibit sensory capabilities via piezoresistivity, whereby mechanical stress and strain induce changes in material resistivity, yielding measurable responses. The fusion of these two technologies holds vast potential, especially in enabling scalable smart concrete structures via 3D printing, supplemented with self-monitoring and self-diagnosing capabilities at strategic locations. Despite recent research and development efforts, there remains a notable absence of a comprehensive examination of existing knowledge coupled with a forward-looking assessment of potential future avenues. This review aims to fill this gap by providing an in-depth exploration of the current state of 3D concrete printing incorporating carbon inclusions, covering articles from 2017 to 2024. Moreover, it seeks to identify and analyze foreseeable challenges and outline prospective trajectories for the advancement of this groundbreaking technology. The addition of fillers alters the rheological properties of the composite while enhancing other characteristics, such as sensing capabilities, highlighting the need to develop tailored mixing and preparation procedures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "59 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/atkinson_d_cynthia"><b>Atkinson</b> Cynthia</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../atki_asla.2023.Po3PCUSSCC/">Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites</a></li>
@@ -98,7 +74,6 @@ tags:
       <li><a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>, <a href="../../../author/pugacheva_polina"><b>Pugacheva</b> Polina</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/weiss_ursula"><b>Weiss</b> Ursula</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../lauf_puga_rutz_weis.2021.EotBoCSFRCCBoaMSEIaaNMSA/">Evaluation of the Behavior of Carbon-Short-Fiber-Reinforced Concrete (CSFRC) Based on a Multi-Sensory Experimental Investigation and a Numerical Multi-Scale Approach</a></li>
       <li><a href="../../../author/li_zhuming"><b>Li</b> Zhuming</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../li_asla.2023.Po3PBaSUSSCCaDM/">Performance of 3D Printed Beams and Slabs Using Self-Sensing Cementitious Composites and DIC Method</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
-      <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/liang_yu-fang"><b>Liang</b> Yu-Fang</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chi-hong"><b>Huang</b> Chi-Hong</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_lian_syu_huan.2024.SaDMCo3PABFRCM/">Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar</a></li>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/tsai_pei-jen"><b>Tsai</b> Pei-Jen</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/lok_man-hoi"><b>Lok</b> Man-Hoi</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../li_tsai_syu_lok.2023.MPo3PCFRCM/">Mechanical Properties of 3D Printed Carbon Fiber-Reinforced Cement Mortar</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../liu_chen_zhan_niu.2022.SotIoSoRPBFaBoFFCf3P/">Study of the Influence of Sand on Rheological Properties, Bubble Features and Buildability of Fresh Foamed Concrete for 3D Printing</a></li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../liu_lafl_ales_uber.2024.3PSSCCUGaCMF/">3D Printed Self-Sensing Cementitious Composites Using Graphite and Carbon-Micro-Fibers</a></li>
@@ -133,10 +108,39 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>
       <li><a href="../../../author/lopes-sousa_nilton_israel"><b>Lopes Sousa</b> Israel</a>, <a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../lope_liu_ales_lafl.2025.PPo3PCCDwCM/">Piezoresistive Performance of 3D Printed Cementitious Composites Doped with Carbon Microfibers</a></li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/cai_bin"><b>Cai</b> Bin</a>, <a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_lafl_cai_lyu.2024.Io3PSSUCUGaHCM/">Investigation of 3D Printed Self-Sensing UHPC Composites Using Graphite and Hybrid Carbon Microfibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sous_ales_mesq_lafl.2024.CRo3PCCwCI,
+      author            = "Israel Sousa and Antonella d' Alessandro and Esequiel Mesquita and Simon Laflamme and Filippo Ubertini",
+      title             = "Comprehensive Review of 3D Printed Cementitious Composites with Carbon Inclusions: Current Status and Perspective for Self-Sensing Capabilities",
+      doi               = "10.1016/j.jobe.2024.111192",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111192",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Sousa, A. d' Alessandro, E. Mesquita, S. Laflamme and F. Ubertini, “Comprehensive Review of 3D Printed Cementitious Composites with Carbon Inclusions: Current Status and Perspective for Self-Sensing Capabilities”, <i>Journal of Building Engineering</i>, p. 111192, 2024, doi: 10.1016/j.jobe.2024.111192.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sousa, Israel, Antonella d' Alessandro, Esequiel Mesquita, Simon Laflamme, and Filippo Ubertini. “Comprehensive Review of 3D Printed Cementitious Composites with Carbon Inclusions: Current Status and Perspective for Self-Sensing Capabilities”. <i>Journal of Building Engineering</i>, 2024, 111192. https://doi.org/10.1016/j.jobe.2024.111192.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Roshan Jayathilakage, Pathmanathan Rajeev, Jay Sanjayan
+    - footer
+title: Jayathilakage Roshan, Rajeev Pathmanathan, Sanjayan Jay
 description:
 tags:
  - assessment
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing ([2020-01](date/2020/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2019.117989" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2019.117989</a>
+#Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing ([2020-01](date/2020/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2019.117989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2019.117989" target="_blank">10.1016/j.conbuildmat.2019.117989</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2031-2541" title="ORCID: 0000-0002-2031-2541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b>&nbsp;Roshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 240
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a> <a href="https://orcid.org/0000-0002-2031-2541" title="ORCID: 0000-0002-2031-2541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 240, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#criteria`](keyword/criteria)
-    [`#print`](keyword/print)
-    [`#stress`](keyword/stress)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Yield-Stress-Criteria%20to%20Assess%20the%20Buildability%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85077491454&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3000333157" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2019.117989" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2019.117989?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) using the extrusion method is a commonly used additive manufacturing technique to construct the structures layer by layer without using formwork. Therefore, the green (wet or fresh) strength of the printable concrete determines the possible printable height of the structure and the rate of printing to avoid collapse during the printing process. This paper aims to identify the buildability criteria based on the green strength of concrete and the effect of early age material properties on the stability of printed structures. The commonly available strength-based failure models based on the material yield stress and the vertical stresses induced were developed considering higher aspect ratios (height to width ratio). This may be not suitable for lower aspect ratios used in 3DCP layer geometries. Also, the frictional behaviour due to the applied vertical stresses should be considered in the material used for 3DCP applications. In this work, the Mohr-Coulomb based buildability criterion was developed and validated with laboratory experiments and numerical simulations. The laboratory experiments were carried out to establish the time-dependent material and rheological properties of 3D printable concrete mixes. Further, 3D printing of hollow circular sections was carried out to study the failure modes and to obtain the build height at the time of failure. The nonlinear finite difference model of the 3D printed sections was developed with the user-defined time-dependent material models to assess the accuracy of the proposed buildability criterion. Additionally, the proposed buildability criterion was further validated with the 3DCP experimental and numerical data presented in literature and all confirm that the proposed criterion shows higher accuracy over existing methods in assessing the buildability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/ferron_raissa"><b>Ferron</b> Raissa</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../delg_clay_brie_ferr.2017.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Prospective Review</a></li>
@@ -84,8 +64,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "195 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/liew_xiang_jia"><b>Liew</b> Jia</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../yu_zhan_liew_yin.2026.SMFaEDi3CP/">Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing</a></li>
@@ -280,6 +261,34 @@ tags:
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../jaya_sanj_raje.2020.CEf3CPUDES/">Characterizing Extrudability for 3D Concrete Printing Using Discrete Element Simulations</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../krug_zera_zijl.2020.ARBQSSRMfDFC/">A Rheology-Based Quasi-Static Shape-Retention-Model for Digitally Fabricated Concrete</a></li>
-      <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../jaya_sanj_raje.2021.CoRMTUi3CPA/">Comparison of Rheology Measurement Techniques Used in 3D Concrete Printing Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jaya_raje_sanj.2020.YSCtAtBo3CP,
+      author            = "Roshan I. Jayathilakage and Pathmanathan Rajeev and Jay Gnananandan Sanjayan",
+      title             = "Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing",
+      doi               = "10.1016/j.conbuildmat.2019.117989",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "240",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. I. Jayathilakage, P. Rajeev and J. G. Sanjayan, “Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing”, <i>Construction and Building Materials</i>, vol. 240, 2020, doi: 10.1016/j.conbuildmat.2019.117989.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jayathilakage, Roshan I., Pathmanathan Rajeev, and Jay Gnananandan Sanjayan. “Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing”. <i>Construction and Building Materials</i> 240 (2020). https://doi.org/10.1016/j.conbuildmat.2019.117989.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qamar Shahzad, Fangyuan Li
+    - footer
+title: Shahzad Qamar, Li Fangyuan
 description:
 tags:
  - age
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133167" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133167</a>
+#An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133167" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133167" target="_blank">10.1016/j.conbuildmat.2023.133167</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahzad_qamar"><b>Shahzad</b>&nbsp;Qamar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2815-3602" title="ORCID: 0000-0002-2815-3602" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_fangyuan"><b>Li</b>&nbsp;Fangyuan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 403, No. 133167
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="https://orcid.org/0000-0002-2815-3602" title="ORCID: 0000-0002-2815-3602" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 403, No. 133167
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#innovation`](keyword/innovation)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Innovative%20Method%20for%20Buildability-Assessment%20of%203D%20Printed%20Concrete%20at%20Early-Ages" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85170099915&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386390212" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133167" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133167?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The field of construction is experiencing a swift advancement in the method of 3D concrete printing (3DCP), which presents numerous advantages over traditional building techniques. Nevertheless, there remain various uncertainties surrounding the implementation of 3DCP in production, particularly with regards to the buildability of a printed structure and the maximum height it can reach before failure or collapse. The aim of this research is to ascertain the load-bearing capacity of a printed structure, in order to predict the maximum attainable height of the printed concrete, while ensuring there are no occurrences of structural failure or collapse. Therefore, an innovative experimental method was put forward to gauge the load bearing capacity of printed concrete in its early stages. During the initial stages of development, experiments were carried out to assess the load-bearing capacity and maximum printing height of the structure. Subsequently, time-dependent properties were investigated through experimental methods with the aim of incorporating them into simulation modeling in a later phase. Afterward, the buildability standard using the Drucker-Prager (DP) plasticity model was established, and its precision was confirmed by experimental and computational evaluations. The employed model displayed adequate effectiveness in precisely depicting the mechanical attributes of material properties as they progressed with time. Furthermore, the simulation model exhibited sufficient proficiency in predicting the early-stage load bearing capacity of printed concrete. In order to improve the future simulation modeling of 3D printed concrete (3DPC), suggestions have been put forward. These proposals entail the inclusion of advanced modeling parameters as inputs, aimed at enhancing the precision and efficacy of the model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chan_xu_chen_gan.2021.ADLMfAoBPo3PC/">A Discrete Lattice-Model for Assessment of Buildability Performance of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wang_ziyue"><b>Wang</b> Ziyue</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ding_wang_liu_xiao.2023.SoPOPoSBf3PC/">Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a></li>
@@ -97,8 +77,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
       <li><a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a>, <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_han.2025.BAi3CPUCVaAA/">Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
@@ -113,4 +93,34 @@ tags:
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/beytekin_elif_hatice"><b>Beytekin</b> Hatice</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../sahi_mard_beyt.2024.EoSFUoSBUMaDSPoFR3PC/">Effect of Silica-Fume Utilization on Structural Build-Up, Mechanical and Dimensional Stability Performance of Fiber-Reinforced 3D Printable Concrete</a></li>
       <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../kuma_pand_muth.2023.ASPEFf3CPSCtSEitBD/">A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_li.2023.AIMfBAo3PCaEA,
+      author            = "Qamar Shahzad and Fangyuan Li",
+      title             = "An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages",
+      doi               = "10.1016/j.conbuildmat.2023.133167",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "403",
+      pages             = "133167",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Shahzad  and F. Li, “An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages”, <i>Construction and Building Materials</i>, vol. 403, p. 133167, 2023, doi: 10.1016/j.conbuildmat.2023.133167.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahzad, Qamar, and Fangyuan Li. “An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages”. <i>Construction and Building Materials</i> 403 (2023): 133167. https://doi.org/10.1016/j.conbuildmat.2023.133167.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

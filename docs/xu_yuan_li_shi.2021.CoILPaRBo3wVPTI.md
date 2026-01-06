@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yanqun Xu, Qiang Yuan, Zemin Li, Caijun Shi, Qihong Wu, Yanlin Huang
+    - footer
+title: Xu Yanqun, Yuan Qiang, Li Zemin, Shi Caijun, Wu Qihong, Huang Yanlin
 description:
 tags:
  - behavior
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals ([2021-09](date/2021/09))
-<a href="https://doi.org/10.1016/j.addma.2021.102327" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2021.102327</a>
+#Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals ([2021-09](date/2021/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2021.102327" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.102327" target="_blank">10.1016/j.addma.2021.102327</a>
 
--------------------------
+<a href="../../../author/xu_yanqun"><b>Xu</b>&nbsp;Yanqun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/li_zemin"><b>Li</b>&nbsp;Zemin</a></span>, <a href="../../../author/shi_caijun"><b>Shi</b>&nbsp;Caijun</a></span>, <a href="../../../author/wu_qihong"><b>Wu</b>&nbsp;Qihong</a></span>, <a href="../../../author/huang_yanlin"><b>Huang</b>&nbsp;Yanlin</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 47
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>
-,     <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a> <a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>
-,     <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>
-,     <a href="../../../author/wu_qihong"><b>Wu</b> Qihong</a>
-,     <a href="../../../author/huang_yanlin"><b>Huang</b> Yanlin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 47, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#correlation`](keyword/correlation)
-    [`#inter`](keyword/inter)
-    [`#interval`](keyword/interval)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#time`](keyword/time)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interval"><button class="btn">#interval</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Correlation%20of%20Inter-Layer%20Properties%20and%20Rheological%20Behaviors%20of%203DPC%20with%20Various%20Printing%20Time%20Intervals" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85116038658&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3199700717" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2021.102327" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2021.102327?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The weak interlayer of 3D printing cementitious materials (3DPC) remains a critical challenge for 3D printing technology, which can print fresh materials layer by layer based on a pre-defined computer model. In this paper, the effects of the printing time interval on rheological behavior, shear bond strength, penetration resistance to chloride and CO2 of 3DPC interlayers were investigated, and the correlations among them were analyzed based on the gray relational analysis(GRA) method, a statistical method for measuring correlations between factors by their trends. The results showed that the carbonation resistance is the most sensitive to the printing time interval, followed by chloride penetration and shear bond strength. The rheological behaviors of 3DPC had weaker correlation with the shear bond strength when comparing with the interlayer surface moisture. Additionally, the porosity was more related to the shear bond strength than the number of pores. Furthermore, a quantitative relationship between shear bond strength and printing time interval was established.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
@@ -108,8 +82,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "51 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
@@ -162,4 +136,33 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/a_ruhan"><b>A</b> Ruhan</a>, <a href="../../../author/xie_panpan"><b>Xie</b> Panpan</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ma_a_xie_pan.2022.3PAIC/">3D Printable Aerogel-Incorporated Concrete:<br/>Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties</a></li>
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_yuan_li_shi.2021.CoILPaRBo3wVPTI,
+      author            = "Yanqun Xu and Qiang Yuan and Zemin Li and Caijun Shi and Qihong Wu and Yanlin Huang",
+      title             = "Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals",
+      doi               = "10.1016/j.addma.2021.102327",
+      year              = "2021",
+      journal           = "Additive Manufacturing",
+      volume            = "47",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Xu, Q. Yuan, Z. Li, C. Shi, Q. Wu and Y. Huang, “Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals”, <i>Additive Manufacturing</i>, vol. 47, 2021, doi: 10.1016/j.addma.2021.102327.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Yanqun, Qiang Yuan, Zemin Li, Caijun Shi, Qihong Wu, and Yanlin Huang. “Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals”. <i>Additive Manufacturing</i> 47 (2021). https://doi.org/10.1016/j.addma.2021.102327.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

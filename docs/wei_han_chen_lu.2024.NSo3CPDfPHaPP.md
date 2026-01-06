@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ying Wei, Song Han, Ziwei Chen, Jianxian Lu, Ziang Li, Shiwei Yu, Wenbo Cheng, Mingzhe An, Peiyu Yan
+    - footer
+title: Wei Ying, Han Song, Chen Ziwei, Lu Jianxian, Li Ziang, Yu Shiwei, Cheng Wenbo, An Mingzhe, Yan Peiyu
 description:
 tags:
  - concrete
@@ -15,36 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical Simulation of 3D Concrete Printing Derived from Printer Head and Printing Process ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.jobe.2024.109241" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109241</a>
+#Numerical Simulation of 3D Concrete Printing Derived from Printer Head and Printing Process ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109241" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109241" target="_blank">10.1016/j.jobe.2024.109241</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3636-049X" title="ORCID: 0000-0003-3636-049X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wei_ying"><b>Wei</b>&nbsp;Ying</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5071-4018" title="ORCID: 0000-0001-5071-4018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_song"><b>Han</b>&nbsp;Song</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3707-0235" title="ORCID: 0000-0002-3707-0235" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_ziwei"><b>Chen</b>&nbsp;Ziwei</a></span>, <a href="../../../author/lu_jianxian"><b>Lu</b>&nbsp;Jianxian</a></span>, <a href="../../../author/li_ziang"><b>Li</b>&nbsp;Ziang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_shiwei"><b>Yu</b>&nbsp;Shiwei</a></span>, <a href="../../../author/cheng_wenbo"><b>Cheng</b>&nbsp;Wenbo</a></span>, <a href="../../../author/an_mingzhe"><b>An</b>&nbsp;Mingzhe</a></span>, <a href="../../../author/yan_peiyu"><b>Yan</b>&nbsp;Peiyu</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109241
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wei_ying"><b>Wei</b> Ying</a> <a href="https://orcid.org/0000-0003-3636-049X" title="ORCID: 0000-0003-3636-049X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_song"><b>Han</b> Song</a> <a href="https://orcid.org/0000-0001-5071-4018" title="ORCID: 0000-0001-5071-4018" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_ziwei"><b>Chen</b> Ziwei</a> <a href="https://orcid.org/0000-0002-3707-0235" title="ORCID: 0000-0002-3707-0235" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a>
-,     <a href="../../../author/li_ziang"><b>Li</b> Ziang</a>
-,     <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> <a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_wenbo"><b>Cheng</b> Wenbo</a>
-,     <a href="../../../author/an_mingzhe"><b>An</b> Mingzhe</a>
-,     <a href="../../../author/yan_peiyu"><b>Yan</b> Peiyu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109241
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#derivative`](keyword/derivative)
-    [`#head`](keyword/head)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/derivative"><button class="btn">#derivative</button></a> <a href="../../keyword/head"><button class="btn">#head</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20of%203D%20Concrete%20Printing%20Derived%20from%20Printer%20Head%20and%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189686104&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394014549" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109241" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109241?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     nsuring the repeatability and stability of printing process is significant for the 3D Concrete Printing (3DCP). However, the diversity of printers often leads to unpredictable printing journeys. Hence, in this study the printer head was dimensionally characterized by three factors: channel diameter, neck height, and nozzle diameter. The effects of printer head and process parameters (travel speed, extrusion flow rate, and nozzle height) on the geometry stability and shape of printed filament were investigated with computational fluid dynamics method. The results indicated that, for printing materials without coarse aggregates, extrusion methods had a negligible impact on 3DCP process. For the printer head, the nozzle diameter dominated the geometry stability while the neck height and channel diameter had little effects. A dimensionless parameter was proposed to quantitatively analyze the influences of travel speed, extrusion flow rate, and nozzle diameter. The systematic mechanical analysis indicated that the geometry instability (tearing and meandering) was controlled by the and nozzle height. Based on the above analysis, the selection principle for printing parameters was proposed to ensure a stable and repeatable printing. The research results regarding printer heads and printing parameters can greatly promise the large-scale application of 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
@@ -114,8 +88,8 @@ tags:
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sola_foru.2026.ARTMfDtPZoC3P/">A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
@@ -136,4 +110,33 @@ tags:
       <li><a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/zhang_xuanzheng"><b>Zhang</b> Xuanzheng</a>, <a href="../../../author/liu_zhenhua"><b>Liu</b> Zhenhua</a>, <a href="../../../author/zhao_jiasheng"><b>Zhao</b> Jiasheng</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wang_zhan_liu_zhao.2024.SotEoPPaRMotPo3PGBIM/">Study on the Effects of Printing Process and Reinforcement Materials on the Performance of 3D-Printed Glass Bead Insulation Mortar</a></li>
       <li><a href="../../../author/wei_ying"><b>Wei</b> Ying</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/chen_ziwei"><b>Chen</b> Ziwei</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wei_han_yu_chen.2024.PIo3CPfStMLS/">Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wei_han_chen_lu.2024.NSo3CPDfPHaPP,
+      author            = "Ying Wei and Song Han and Ziwei Chen and Jianxian Lu and Ziang Li and Shiwei Yu and Wenbo Cheng and Mingzhe An and Peiyu Yan",
+      title             = "Numerical Simulation of 3D Concrete Printing Derived from Printer Head and Printing Process",
+      doi               = "10.1016/j.jobe.2024.109241",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109241",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wei, “Numerical Simulation of 3D Concrete Printing Derived from Printer Head and Printing Process”, <i>Journal of Building Engineering</i>, p. 109241, 2024, doi: 10.1016/j.jobe.2024.109241.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wei, Ying, Song Han, Ziwei Chen, Jianxian Lu, Ziang Li, Shiwei Yu, Wenbo Cheng, Mingzhe An, and Peiyu Yan. “Numerical Simulation of 3D Concrete Printing Derived from Printer Head and Printing Process”. <i>Journal of Building Engineering</i>, 2024, 109241. https://doi.org/10.1016/j.jobe.2024.109241.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

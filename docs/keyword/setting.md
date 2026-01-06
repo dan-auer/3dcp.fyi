@@ -8,7 +8,7 @@ search:
 
 # #setting
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
   <li><a href="../../../author/gonsalves_a_nicolas"><b>Gonsalves</b> Nicolas</a>, <a href="../../../author/morgan_ashlei"><b>Morgan</b> Ashlei</a>, <a href="../../../author/thiele_heidi"><b>Thiele</b> Heidi</a>, <a href="../../../author/olarra_andre"><b>Olarra</b> Andre</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gons_morg_thie_olar.2025.3PoSIURSCCwBA/">3D Printing of Sustainable Infrastructure Using Rapid-Set Clay Concrete with Biobased Additives</a></li>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/cheung_hang_lok"><b>Cheung</b> Lok</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marc_cheu.2025.MLLMfA3CP/">Multimodal Large Language Models for Adaptive 3D Concrete Printing:<br/>Real-Time Control of Materials and Settings According to Performance Requirements and Environmental Conditions</a></li>

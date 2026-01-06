@@ -8,7 +8,7 @@ search:
 
 # #attack
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/safdar-gardezi_shujaa_syed"><b>Safdar Gardezi</b> Syed</a>, <a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/haroglu_hasan"><b>Haroglu</b> Hasan</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../safd_tany_haro_cosk.2025.AAPo3PNZMGM/">Acid Attack Performance of 3D Printing Nano-ZnO Modified Geopolymer Mortar</a></li>
   <li><a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a>, <a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gupt_saha_soda_dwiv.2025.DoCS3PSEM/">Development of Carbon Sequestering 3D-Printable Stabilized Earth Materials:<br/>Investigation into Engineering Performance and Resistance Against Acid Attack</a></li>
   <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b> Mohammad</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../givk_tohi.2024.TEoFTCaSAASotCSaMo3PAEC/">The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete</a></li>

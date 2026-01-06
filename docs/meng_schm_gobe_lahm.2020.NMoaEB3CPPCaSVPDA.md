@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meron Mengesha, Albrecht Schmidt, Luise Göbel, Tom Lahmer
+    - footer
+title: Mengesha Meron, Schmidt Albrecht, Göbel Luise, Lahmer Tom
 description:
 tags:
  - approach
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical Modeling of an Extrusion-Based 3D Concrete Printing-Process Considering a Spatially-Varying Pseudo-Density Approach ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_33" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_33</a>
+#Numerical Modeling of an Extrusion-Based 3D Concrete Printing-Process Considering a Spatially-Varying Pseudo-Density Approach ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_33" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_33" target="_blank">10.1007/978-3-030-49916-7_33</a>
 
--------------------------
+<a href="../../../author/mengesha_meron"><b>Mengesha</b>&nbsp;Meron</a></span>, <a href="../../../author/schmidt_albrecht"><b>Schmidt</b>&nbsp;Albrecht</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1955-1024" title="ORCID: 0000-0003-1955-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gobel_luise"><b>Göbel</b>&nbsp;Luise</a></span>, <a href="../../../author/lahmer_tom"><b>Lahmer</b>&nbsp;Tom</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 323-332
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mengesha_meron"><b>Mengesha</b> Meron</a>
-,     <a href="../../../author/schmidt_albrecht"><b>Schmidt</b> Albrecht</a>
-,     <a href="../../../author/gobel_luise"><b>Göbel</b> Luise</a> <a href="https://orcid.org/0000-0003-1955-1024" title="ORCID: 0000-0003-1955-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lahmer_tom"><b>Lahmer</b> Tom</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 323-332
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#density`](keyword/density)
-    [`#extrusion`](keyword/extrusion)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#pseudo`](keyword/pseudo)
-    [`#space`](keyword/space)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/density"><button class="btn">#density</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/pseudo"><button class="btn">#pseudo</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Modeling%20of%20an%20Extrusion-Based%203D%20Concrete%20Printing-Process%20Considering%20a%20Spatially-Varying%20Pseudo-Density%20Approach" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088253404&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3040984141" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_33" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_33?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     During the past few years, additive manufacturing techniques for concrete have gained extensive attention. In particular, the extrusion-based 3D concrete printing exhibited a rapid development. However, further progress is hampered by a time-consuming trial-and-error exploration, i.e., mainly experimental studies have been performed so far. A more fundamental understanding of the relations between the printing process, the process parameters and the properties of the printed product could be achieved by means of numerical simulations. They enable to study a wide range of parameters such that dependencies of properties of the printed product on different influencing factors can be identified. Taking into account the uncertain nature of the process and material parameters of the extrusion-based 3D concrete printing, the process can be reliably controlled and finally optimized. The present study introduces a novel modeling approach, applying the Finite Element (FE) method while considering a pseudo-density approach. This density is used to define the material properties of each FE, similarly to the soft-killing approaches in topology optimization. Along with the progressing printing process, a previously generated FE mesh is activated layer by layer. Additionally, all material parameters vary temporarily due to the time dependency of the curing process. The numerical simulation allows to investigate the deformation behavior of the printed wall for different printing velocities.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -88,8 +62,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/saad_e"><b>Saad</b> E.</a>, <a href="../../../author/correa_david"><b>Correa</b> David</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../saad_corr.2025.TPIoBDv3P/">Thermal Performance Improvement of Brick Design via 3D Printing</a></li>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/alzara_majed"><b>Alzara</b> Majed</a>, <a href="../../../author/yosri_m_ahmed"><b>Yosri</b> Ahmed</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../shah_akba_alza_yosr.2024.TDBEo3PC/">Time-Dependent Buildability Evaluation of 3D Printed Concrete:<br/>Experimental Validation and Numerical Simulation</a></li>
@@ -103,4 +77,35 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
       <li><a href="../../../author/mengesha_meron"><b>Mengesha</b> Meron</a>, <a href="../../../author/schmidt_albrecht"><b>Schmidt</b> Albrecht</a>, <a href="../../../author/gobel_luise"><b>Göbel</b> Luise</a>, <a href="../../../author/lahmer_tom"><b>Lahmer</b> Tom</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../meng_schm_gobe_lahm.2021.NSf3PWSDtPoPCU/">Numerical Simulation for 3D Printed Wall Structure During the Process of Printing Considering Uncertainty</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{meng_schm_gobe_lahm.2020.NMoaEB3CPPCaSVPDA,
+      author            = "Meron Mengesha and Albrecht Schmidt and Luise Göbel and Tom Lahmer",
+      title             = "Numerical Modeling of an Extrusion-Based 3D Concrete Printing-Process Considering a Spatially-Varying Pseudo-Density Approach",
+      doi               = "10.1007/978-3-030-49916-7_33",
+      year              = "2020",
+      volume            = "28",
+      pages             = "323--332",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Mengesha, A. Schmidt, L. Göbel and T. Lahmer, “Numerical Modeling of an Extrusion-Based 3D Concrete Printing-Process Considering a Spatially-Varying Pseudo-Density Approach”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 323–332. doi: 10.1007/978-3-030-49916-7_33.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mengesha, Meron, Albrecht Schmidt, Luise Göbel, and Tom Lahmer. “Numerical Modeling of an Extrusion-Based 3D Concrete Printing-Process Considering a Spatially-Varying Pseudo-Density Approach”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:323–32, 2020. https://doi.org/10.1007/978-3-030-49916-7_33.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

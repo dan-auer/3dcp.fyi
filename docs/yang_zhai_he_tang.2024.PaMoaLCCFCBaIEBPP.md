@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jin Yang, Gaoyuan Zhai, Xingyang He, Yuanzhen Tang, Ying Su, Xiaolei Yu, Jingyi Zeng, Fulong Wang
+    - footer
+title: Yang Jin, Zhai Gaoyuan, He Xingyang, Tang Yuanzhen, Su Ying, Yu Xiaolei, Zeng Jingyi, Wang Fulong
 description:
 tags:
  - base
@@ -19,39 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Properties and Microstructure of a Low-Carbon Clinker-Free Cementitious Binder and Its Extrusion-Based Printing Performance ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.jobe.2024.109483" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109483</a>
+#Properties and Microstructure of a Low-Carbon Clinker-Free Cementitious Binder and Its Extrusion-Based Printing Performance ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109483" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109483" target="_blank">10.1016/j.jobe.2024.109483</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5332-7862" title="ORCID: 0000-0002-5332-7862" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_jin"><b>Yang</b>&nbsp;Jin</a></span>, <a href="../../../author/zhai_gaoyuan"><b>Zhai</b>&nbsp;Gaoyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7938-8057" title="ORCID: 0000-0002-7938-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_xingyang"><b>He</b>&nbsp;Xingyang</a></span>, <a href="../../../author/tang_yuanzhen"><b>Tang</b>&nbsp;Yuanzhen</a></span>, <a href="../../../author/su_ying"><b>Su</b>&nbsp;Ying</a></span>, <a href="../../../author/yu_xiaolei"><b>Yu</b>&nbsp;Xiaolei</a></span>, <a href="../../../author/zeng_jingyi"><b>Zeng</b>&nbsp;Jingyi</a></span>, <a href="../../../author/wang_fulong"><b>Wang</b>&nbsp;Fulong</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 90, No. 109483
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_jin"><b>Yang</b> Jin</a> <a href="https://orcid.org/0000-0002-5332-7862" title="ORCID: 0000-0002-5332-7862" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhai_gaoyuan"><b>Zhai</b> Gaoyuan</a>
-,     <a href="../../../author/he_xingyang"><b>He</b> Xingyang</a> <a href="https://orcid.org/0000-0002-7938-8057" title="ORCID: 0000-0002-7938-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tang_yuanzhen"><b>Tang</b> Yuanzhen</a>
-,     <a href="../../../author/su_ying"><b>Su</b> Ying</a>
-,     <a href="../../../author/yu_xiaolei"><b>Yu</b> Xiaolei</a>
-,     <a href="../../../author/zeng_jingyi"><b>Zeng</b> Jingyi</a>
-,     <a href="../../../author/wang_fulong"><b>Wang</b> Fulong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 90, No. 109483
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#clinker`](keyword/clinker)
-    [`#extrusion`](keyword/extrusion)
-    [`#low`](keyword/low)
-    [`#micro`](keyword/micro)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clinker"><button class="btn">#clinker</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20and%20Microstructure%20of%20a%20Low-Carbon%20Clinker-Free%20Cementitious%20Binder%20and%20Its%20Extrusion-Based%20Printing%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192069825&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396520965" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109483" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109483?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The extensive use of cement binders in the construction industry limits the progress of carbon emission reduction. A low-carbon clinker-free cementitious binder (CFCB) was developed by using wet grinding to activate granulated blast furnace slag (GGBS), combining fly ash (FA) spheres as rheology-modified material and calcium carbide slag (CS) together with sodium metasilicate (NS) powder as the compound activator. The effects of FA content and CS/NS ratio on the hydration, performances, and microstructure were systematically investigated. The printability and mechanical anisotropy of extrusion-based printed CFCB were also analyzed. The results show that lower fly ash content and CS/NS ratio positively influenced the yield stress and improved rheology and thixotropy within a certain range. The compressive strength of the CFCB mortar reaches a maximum of 46.6 MPa at 28 days. At the same time, the decrease in the CS/NS ratio is conducive to the development of the hydration process, generating a higher amount of hydration and forming a denser microstructure. The FA20-CS18 group shows suitable extrudability, buildability, and shape retention ability with a height loss of only 0.8 %. The existence of interlayer property differences causes the extrusion-based printed mortar to exhibit anisotropic mechanical properties, with the highest flexural and compressive strength in the Z-direction. The anisotropy coefficient was below 0.25 before 7 days.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
@@ -87,7 +58,37 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_zhai_he_tang.2024.PaMoaLCCFCBaIEBPP,
+      author            = "Jin Yang and Gaoyuan Zhai and Xingyang He and Yuanzhen Tang and Ying Su and Xiaolei Yu and Jingyi Zeng and Fulong Wang",
+      title             = "Properties and Microstructure of a Low-Carbon Clinker-Free Cementitious Binder and Its Extrusion-Based Printing Performance",
+      doi               = "10.1016/j.jobe.2024.109483",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "90",
+      pages             = "109483",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Yang, “Properties and Microstructure of a Low-Carbon Clinker-Free Cementitious Binder and Its Extrusion-Based Printing Performance”, <i>Journal of Building Engineering</i>, vol. 90, p. 109483, 2024, doi: 10.1016/j.jobe.2024.109483.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Jin, Gaoyuan Zhai, Xingyang He, Yuanzhen Tang, Ying Su, Xiaolei Yu, Jingyi Zeng, and Fulong Wang. “Properties and Microstructure of a Low-Carbon Clinker-Free Cementitious Binder and Its Extrusion-Based Printing Performance”. <i>Journal of Building Engineering</i> 90 (2024): 109483. https://doi.org/10.1016/j.jobe.2024.109483.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

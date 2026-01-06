@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Liu, Rongfei Zhang, Huawei Liu, Chunhui He, Youqiang Wang, Yiwen Wu, Shuhua Liu, Lin Song, Fan Zuo
+    - footer
+title: Liu Chao, Zhang Rongfei, Liu Huawei, He Chunhui, Wang Youqiang, Wu Yiwen, Liu Shuhua, Song Lin, Zuo Fan
 description:
 tags:
  - analysis
@@ -18,39 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Analysis of the Mechanical Performance and Damage Mechanism for 3D Printed Concrete Based on Pore-Structure ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.125572" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.125572</a>
+#Analysis of the Mechanical Performance and Damage Mechanism for 3D Printed Concrete Based on Pore-Structure ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.125572" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.125572" target="_blank">10.1016/j.conbuildmat.2021.125572</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/zhang_rongfei"><b>Zhang</b>&nbsp;Rongfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/he_chunhui"><b>He</b>&nbsp;Chunhui</a></span>, <a href="../../../author/wang_youqiang"><b>Wang</b>&nbsp;Youqiang</a></span>, <a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <a href="../../../author/liu_shuhua"><b>Liu</b>&nbsp;Shuhua</a></span>, <a href="../../../author/song_lin"><b>Song</b>&nbsp;Lin</a></span>, <a href="../../../author/zuo_fan"><b>Zuo</b>&nbsp;Fan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 314
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_rongfei"><b>Zhang</b> Rongfei</a>
-,     <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/he_chunhui"><b>He</b> Chunhui</a>
-,     <a href="../../../author/wang_youqiang"><b>Wang</b> Youqiang</a>
-,     <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>
-,     <a href="../../../author/liu_shuhua"><b>Liu</b> Shuhua</a>
-,     <a href="../../../author/song_lin"><b>Song</b> Lin</a>
-,     <a href="../../../author/zuo_fan"><b>Zuo</b> Fan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 314, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#damage`](keyword/damage)
-    [`#mechanics`](keyword/mechanics)
-    [`#mechanism`](keyword/mechanism)
-    [`#performance`](keyword/performance)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%20the%20Mechanical%20Performance%20and%20Damage%20Mechanism%20for%203D%20Printed%20Concrete%20Based%20on%20Pore-Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119061422&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3212403056" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.125572" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.125572?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete (3DPC) technology is one of the fastest-growing technologies in the construction industry. In this study, the pore structure of 3DPC and its parameters were investigated. The variation patterns of compressive strength, splitting tensile strength, and flexural strength of 3DPC were studied with the increase of curing time in different loading directions. Characterisation of the meso-destructive mechanism and ultimate strength of 3DPC by X-ray computed tomography (X-CT) and the digital image correlation (DIC) techniques is conducted. The results showed that the internal pore structure of 3DPC was different from that of cast concrete, showing irregular shapes and the pores were prone to stress concentration, resulting in the mechanical strength of 3DPC being generally lower than that of cast specimens. Moreover, the mechanical strength of 3DPC showed significant anisotropy. 3DPC showed variability in the relationship between its pore structure and strength when compressed in the X-, Y- and Z-directions. The ultimate compressive strength of 3DPC and its damage mechanism were analysed based on the parallel pore connection model. The three-dimensional stress field distribution at the 3DPC interface was predicted when the cracks extend along the direction parallel or perpendicular to the interface.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "55 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -132,8 +103,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "70 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
@@ -205,4 +176,33 @@ tags:
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/a_ruhan"><b>A</b> Ruhan</a>, <a href="../../../author/xie_panpan"><b>Xie</b> Panpan</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ma_a_xie_pan.2022.3PAIC/">3D Printable Aerogel-Incorporated Concrete:<br/>Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_zhan_liu_he.2022.AotMPaDMf3PCBoPS,
+      author            = "Chao Liu and Rongfei Zhang and Huawei Liu and Chunhui He and Youqiang Wang and Yiwen Wu and Shuhua Liu and Lin Song and Fan Zuo",
+      title             = "Analysis of the Mechanical Performance and Damage Mechanism for 3D Printed Concrete Based on Pore-Structure",
+      doi               = "10.1016/j.conbuildmat.2021.125572",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "314",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, “Analysis of the Mechanical Performance and Damage Mechanism for 3D Printed Concrete Based on Pore-Structure”, <i>Construction and Building Materials</i>, vol. 314, 2022, doi: 10.1016/j.conbuildmat.2021.125572.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chao, Rongfei Zhang, Huawei Liu, Chunhui He, Youqiang Wang, Yiwen Wu, Shuhua Liu, Lin Song, and Fan Zuo. “Analysis of the Mechanical Performance and Damage Mechanism for 3D Printed Concrete Based on Pore-Structure”. <i>Construction and Building Materials</i> 314 (2022). https://doi.org/10.1016/j.conbuildmat.2021.125572.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

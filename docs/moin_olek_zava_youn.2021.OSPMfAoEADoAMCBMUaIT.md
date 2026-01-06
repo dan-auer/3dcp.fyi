@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamadreza Moini, Jan Olek, Pablo Zavattieri, Jeffrey Youngblood
+    - footer
+title: Moini Mohamadreza, Olek Jan, Zavattieri Pablo, Youngblood Jeffrey
 description:
 tags:
  - additive
@@ -21,37 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Open-Span Printing Method for Assessment of Early-Age Deformations of Additively Manufactured Cement-Based Materials Using an Isosceles Triangle ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1520/stp163620200089" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1520/stp163620200089</a>
+#Open-Span Printing Method for Assessment of Early-Age Deformations of Additively Manufactured Cement-Based Materials Using an Isosceles Triangle ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/stp163620200089" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200089" target="_blank">10.1520/stp163620200089</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olek_jan"><b>Olek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b>&nbsp;Pablo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b>&nbsp;Jeffrey</a></span><br>
+Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 1-12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> <a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> <a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 1-12
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#age`](keyword/age)
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#deformation`](keyword/deformation)
-    [`#early`](keyword/early)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#open`](keyword/open)
-    [`#print`](keyword/print)
-    [`#triangle`](keyword/triangle)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/open"><button class="btn">#open</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/triangle"><button class="btn">#triangle</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Open-Span%20Printing%20Method%20for%20Assessment%20of%20Early-Age%20Deformations%20of%20Additively%20Manufactured%20Cement-Based%20Materials%20Using%20an%20Isosceles%20Triangle" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153185352&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4213367096" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1520/stp163620200089" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1520/stp163620200089?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Successful additive manufacturing of cement-based elements depends upon understanding the materials' fresh properties and their influence on early-age deformations. However, to be able to monitor early-age deformations of cement-based materials for 3D-printing applications, one must be able to assess these distortions “in situ,” that is, during the actual 3D-printing operation. This paper discusses the use of a new open-span printing method as a tool for evaluating the deformation of freshly printed plain cement paste filaments containing chemical admixtures. The method uses a rigid isosceles triangle as a support structure that allows for the deposition of filaments over varied span lengths. The vertical deformations of filaments printed with materials of variable composition (i.e., different solids content and types of chemical admixtures) were quantified. Elements printed using materials with increased solids content were observed to develop reduced mid-span deflection across span lengths larger than 12 mm. This test method can be used to inform the selection of materials in order to achieve suitable shape stability (e.g., to ensure minimal early-age deformations).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../casa_espo_menn_aspr.2020.MCoCBMUi3IEACE/">Mechanical Characterization of Cement-Based Mortar Used in 3DCP Including Early-Age Creep Effects</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../digg_krei_krei_case.2019.PTvET/">Print Time vs. Elapsed Time:<br/>A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../duco_carn_mesn_demo.2020.TST/">The Slug-Test:<br/>In-Line-Assessment of Yield-Stress for Extrusion-Based Additive Manufacturing</a></li>
@@ -97,8 +70,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC/">Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../hasa_dora.2024.TC/">Transforming Construction?:<br/>Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</a></li>
@@ -106,4 +79,34 @@ tags:
       <li><a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a>, <a href="../../../author/evseeva_anastasiia"><b>Evseeva</b> Anastasiia</a>, <a href="../../../author/dickey_brandon"><b>Dickey</b> Brandon</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../ghan_evse_dick_gupt.2023.EEoPDoFaTRoTDPCP/">Examining Effect of Printing-Directionality on Freezing-and-Thawing Response of Three-Dimensional-Printed Cement-Paste</a></li>
       <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gupt_esma_prih_ghan.2023.FaTAoH3PLCM/">Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{moin_olek_zava_youn.2021.OSPMfAoEADoAMCBMUaIT,
+      author            = "Mohamadreza Moini and Jan Olek and Pablo D. Zavattieri and Jeffrey P. Youngblood",
+      title             = "Open-Span Printing Method for Assessment of Early-Age Deformations of Additively Manufactured Cement-Based Materials Using an Isosceles Triangle",
+      doi               = "10.1520/stp163620200089",
+      year              = "2021",
+      pages             = "1--12",
+      booktitle         = "Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers",
+      editor            = "Scott Z. Jones and Eric L. Kreiger",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Moini, J. Olek, P. D. Zavattieri and J. P. Youngblood, “Open-Span Printing Method for Assessment of Early-Age Deformations of Additively Manufactured Cement-Based Materials Using an Isosceles Triangle”, in <i>Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers</i>,  2021, pp. 1–12. doi: 10.1520/stp163620200089.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Moini, Mohamadreza, Jan Olek, Pablo D. Zavattieri, and Jeffrey P. Youngblood. “Open-Span Printing Method for Assessment of Early-Age Deformations of Additively Manufactured Cement-Based Materials Using an Isosceles Triangle”. In <i>Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers</i>, edited by Scott Z. Jones and Eric L. Kreiger, 1–12, 2021. https://doi.org/10.1520/stp163620200089.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

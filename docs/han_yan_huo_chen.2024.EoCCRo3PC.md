@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaoyu Han, Jiachuan Yan, Yanlin Huo, Tiefeng Chen
+    - footer
+title: Han Xiaoyu, Yan Jiachuan, Huo Yanlin, Chen Tiefeng
 description:
 tags:
  - carbonation
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Carbonation-Curing-Regime on 3D Printed Concrete:<br/>:aca-blank: Compressive Strength, CO2 Uptake, and Characterization ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.jobe.2024.111341" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111341</a>
+#Effect of Carbonation-Curing-Regime on 3D Printed Concrete&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Compressive Strength, CO2 Uptake, and Characterization</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111341" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111341" target="_blank">10.1016/j.jobe.2024.111341</a>
 
--------------------------
+<a href="../../../author/han_xiaoyu"><b>Han</b>&nbsp;Xiaoyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_jiachuan"><b>Yan</b>&nbsp;Jiachuan</a></span>, <a href="../../../author/huo_yanlin"><b>Huo</b>&nbsp;Yanlin</a></span>, <a href="../../../author/chen_tiefeng"><b>Chen</b>&nbsp;Tiefeng</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 98, No. 111341
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>
-,     <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a> <a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huo_yanlin"><b>Huo</b> Yanlin</a>
-,     <a href="../../../author/chen_tiefeng"><b>Chen</b> Tiefeng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 98, No. 111341
-
-:aca-blank:{ .lg .middle}
-    [`#carbonation`](keyword/carbonation)
-    [`#characteristic`](keyword/characteristic)
-    [`#co2`](keyword/co2)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#cure`](keyword/cure)
-    [`#effect`](keyword/effect)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Carbonation-Curing-Regime%20on%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209553012&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404455442" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111341" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111341?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Carbonation curing is a promising method to improve the mechanical strength and reduce the carbon emissions of 3D printed concrete (3DPC). To avoid the adverse impacts of excessive CO2 exposure, the effect of carbonation curing regimes on 3DPC was investigated in this study. The CO2 uptake and compressive strength of 3DPC with different pre-curing and carbonation durations were determined. The prolonged pre-curing and carbonation duration led to increased CO2 uptake of 3DPC, while its compressive strength reached the highest for 10–17.5-h pre-curing and 12 ~16-h carbonation. The water loss rate, as an important factor for determining the pre-curing duration of 3DPC, is optimal at 20 %. The appropriate carbonation curing can lead to 39.9 % increase in 3-day compressive strength, but the effect on the later-age strength is weakened. Carbonation curing can improve the pore structure of 3DPC by reducing the porosity and volume fraction of harmful pores. In addition, the prolonged pre-curing and carbonation may result in excessive consumption of C3S and C2S and water loss, adversely affecting the subsequent hydration reactions and decreasing the compressive strength of 3DPC. Hence, suitable pre-curing and carbonation duration should be determined by considering the balance of mechanical strength and CO2 uptake of 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -103,7 +81,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{han_yan_huo_chen.2024.EoCCRo3PC,
+      author            = "Xiaoyu Han and Jiachuan Yan and Yanlin Huo and Tiefeng Chen",
+      title             = "Effect of Carbonation-Curing-Regime on 3D Printed Concrete: Compressive Strength, CO2 Uptake, and Characterization",
+      doi               = "10.1016/j.jobe.2024.111341",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "98",
+      pages             = "111341",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Han, J. Yan, Y. Huo and T. Chen, “Effect of Carbonation-Curing-Regime on 3D Printed Concrete: Compressive Strength, CO2 Uptake, and Characterization”, <i>Journal of Building Engineering</i>, vol. 98, p. 111341, 2024, doi: 10.1016/j.jobe.2024.111341.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Han, Xiaoyu, Jiachuan Yan, Yanlin Huo, and Tiefeng Chen. “Effect of Carbonation-Curing-Regime on 3D Printed Concrete: Compressive Strength, CO2 Uptake, and Characterization”. <i>Journal of Building Engineering</i> 98 (2024): 111341. https://doi.org/10.1016/j.jobe.2024.111341.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Albert Patterson, Bhaskar Vajipeyajula, William Norris
+    - footer
+title: Patterson Albert, Vajipeyajula Bhaskar, Norris William
 description:
 tags:
  - architecture
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} System Architecture and Design Parameters for Extrusion-Based Autonomous Construction Systems ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1115/iam2022-93884" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1115/iam2022-93884</a>
+#System Architecture and Design Parameters for Extrusion-Based Autonomous Construction Systems ([2022-10](date/2022/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/iam2022-93884" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/iam2022-93884" target="_blank">10.1115/iam2022-93884</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0849-1599" title="ORCID: 0000-0003-0849-1599" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/patterson_e_albert"><b>Patterson</b>&nbsp;Albert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9038-2273" title="ORCID: 0000-0001-9038-2273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vajipeyajula_bhaskar"><b>Vajipeyajula</b>&nbsp;Bhaskar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4940-4458" title="ORCID: 0000-0002-4940-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/norris_r_william"><b>Norris</b>&nbsp;William</a></span><br>
+Contribution - Proceedings of the ASME 2022 International Additive Manufacturing Conference
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/patterson_e_albert"><b>Patterson</b> Albert</a> <a href="https://orcid.org/0000-0003-0849-1599" title="ORCID: 0000-0003-0849-1599" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vajipeyajula_bhaskar"><b>Vajipeyajula</b> Bhaskar</a> <a href="https://orcid.org/0000-0001-9038-2273" title="ORCID: 0000-0001-9038-2273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/norris_r_william"><b>Norris</b> William</a> <a href="https://orcid.org/0000-0002-4940-4458" title="ORCID: 0000-0002-4940-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the ASME 2022 International Additive Manufacturing Conference, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#base`](keyword/base)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#extrusion`](keyword/extrusion)
-    [`#parameter`](keyword/parameter)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=System%20Architecture%20and%20Design%20Parameters%20for%20Extrusion-Based%20Autonomous%20Construction%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176742770&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320062728" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1115/iam2022-93884" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1115/iam2022-93884?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Autonomous construction systems (ACSs) have become a topic ofgreat interest in recent years in a variety ofareas, including design, materials science, architecture, space exploration, natural disaster recover, military operations, and others. Several different approaches have been proposed, the most promising (and so far most widely-applied) one being a large-scale system based on additive manufacturing (or 3-D printing) principles, where a concrete- or foam-based material is extruded in layers to produce a structure. This structure may be used as a basic shell around which a useful building, shelter, bridge, extraterrestrial habitat, or other infrastructure can be built or may be able to produce a full building in one operation. This article extracts information about the the major components, subsystems, and interfaces in these systems from a broad sampling of published literature and uses this information to propose a quasi-general system architecture and identify design opportunities. These models can be used to drive further research efforts on these systems, assist with more agile implementation, and improve the design oflarge-scale 3-D printing-based systems. This work is a first step in the development ofa reliable general system architecture similar to those used in the design oflarge-scale military and aerospace systems.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
@@ -90,7 +70,35 @@ tags:
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{patt_vaji_norr.2022.SAaDPfEBACS,
+      author            = "Albert E. Patterson and Bhaskar Vajipeyajula and William R. Norris",
+      title             = "System Architecture and Design Parameters for Extrusion-Based Autonomous Construction Systems",
+      doi               = "10.1115/iam2022-93884",
+      year              = "2022",
+      booktitle         = "Proceedings of the ASME 2022 International Additive Manufacturing Conference",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. E. Patterson, B. Vajipeyajula and W. R. Norris, “System Architecture and Design Parameters for Extrusion-Based Autonomous Construction Systems”,  2022. doi: 10.1115/iam2022-93884.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Patterson, Albert E., Bhaskar Vajipeyajula, and William R. Norris. “System Architecture and Design Parameters for Extrusion-Based Autonomous Construction Systems”. In <i>Proceedings of the ASME 2022 International Additive Manufacturing Conference</i>, 2022. https://doi.org/10.1115/iam2022-93884.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

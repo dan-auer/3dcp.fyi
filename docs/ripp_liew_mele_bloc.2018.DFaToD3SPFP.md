@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matthias Rippmann, A. Liew, Tom Mele, Philippe Block
+    - footer
+title: Rippmann Matthias, Liew A., Mele Tom, Block Philippe
 description:
 tags:
  - design
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes ([2018-03](date/2018/03))
-<a href="https://doi.org/10.1016/j.mtcomm.2018.03.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.mtcomm.2018.03.005</a>
+#Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes ([2018-03](date/2018/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.mtcomm.2018.03.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtcomm.2018.03.005" target="_blank">10.1016/j.mtcomm.2018.03.005</a>
 
--------------------------
+<a href="../../../author/rippmann_matthias"><b>Rippmann</b>&nbsp;Matthias</a></span>, <a href="../../../author/liew_a"><b>Liew</b>&nbsp;A.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
+Journal Article - Materials Today Communications, Vol. 15, pp. 254-259
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>
-,     <a href="../../../author/liew_a"><b>Liew</b> A.</a>
-,     <a href="../../../author/mele_tom"><b>van Mele</b> Tom</a> <a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today Communications, Vol. 15, pp. 254-259
-
-:aca-blank:{ .lg .middle}
-    [`#design`](keyword/design)
-    [`#discrete`](keyword/discrete)
-    [`#fabrication`](keyword/fabrication)
-    [`#floor`](keyword/floor)
-    [`#print`](keyword/print)
-    [`#prototype`](keyword/prototype)
-    [`#sand`](keyword/sand)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%2C%20Fabrication%20and%20Testing%20of%20Discrete%203D%20Sand-Printed%20Floor%20Prototypes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85044935843&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2791168300" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.mtcomm.2018.03.005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.mtcomm.2018.03.005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper describes the concept, design, fabrication and experimental testing of prototype 3D sand-printed floors, derived from principles of shallow arching action and discrete structural systems to initiate internal compressive stresses rather than exclusively flexural stresses. Using industrial 3D printing with silica sand, the presented system enables significant weight reduction of up to 70% when compared to conventional concrete floor slabs, by placing the 3D printed material in key structural areas and by externalising tension forces. The form-finding process for the global shape of the floors and the generation of structurally optimised print mesh geometries are presented. Three floor prototypes with varying rib geometries and discretisation layouts were studied. The results from the serviceability and ultimate load testing of the floors are documented in detail. The data showed that this relatively weak material can be used, without internal reinforcement, to print a floor that is able to support loads in excess of typical design code levels.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -76,8 +54,9 @@ tags:
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "42 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
       <li><a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a>, <a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a>, <a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jin_xu_xu.2025.I3PCFiTVGR/">Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof</a></li>
       <li><a href="../../../author/zhou_zhuang"><b>Zhou</b> Zhuang</a>, <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a>, <a href="../../../author/zhou_haining"><b>Zhou</b> Haining</a>, <a href="../../../author/liang_yuan"><b>Liang</b> Yuan</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhou_shi_zhou_lian.2025.Ro3CMfSHPCG/">Research on 3DPC Construction Method for Structural High-Performance Component Generation</a></li>
@@ -120,4 +99,34 @@ tags:
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/shammas_demetris"><b>Shammas</b> Demetris</a> et al. <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../meib_jipa_gies_sham.2018.SS/">Smart Slab:<br/>Computational Design and Digital Fabrication of a Lightweight Concrete Slab</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ripp_liew_mele_bloc.2018.DFaToD3SPFP,
+      author            = "Matthias Rippmann and A. Liew and Tom van Mele and Philippe Block",
+      title             = "Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes",
+      doi               = "10.1016/j.mtcomm.2018.03.005",
+      year              = "2018",
+      journal           = "Materials Today Communications",
+      volume            = "15",
+      pages             = "254--259",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Rippmann, A. Liew, T. van Mele and P. Block, “Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes”, <i>Materials Today Communications</i>, vol. 15, pp. 254–259, 2018, doi: 10.1016/j.mtcomm.2018.03.005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rippmann, Matthias, A. Liew, Tom van Mele, and Philippe Block. “Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes”. <i>Materials Today Communications</i> 15 (2018): 254–59. https://doi.org/10.1016/j.mtcomm.2018.03.005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehdi Chougan, Seyed Ghaffar, Mohammad Jahanzat, Abdulrahman Albar, Nahzatullah Mujaddedi, Rafiq Swash
+    - footer
+title: Chougan Mehdi, Ghaffar Seyed, Jahanzat Mohammad, Albar Abdulrahman, Mujaddedi Nahzatullah, Swash Rafiq
 description:
 tags:
  - additive
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2020.118928) The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites ([2020-04](date/2020/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.118928" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.118928</a>
+#The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites ([2020-04](date/2020/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2020.118928) <a href="https://doi.org/10.1016/j.conbuildmat.2020.118928" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.118928" target="_blank">10.1016/j.conbuildmat.2020.118928</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6147-2448" title="ORCID: 0000-0001-6147-2448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/albar_m_abdulrahman"><b>Albar</b>&nbsp;Abdulrahman</a></span>, <a href="../../../author/mujaddedi_nahzatullah"><b>Mujaddedi</b>&nbsp;Nahzatullah</a></span>, <a href="../../../author/swash_rafiq"><b>Swash</b>&nbsp;Rafiq</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 250
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>
-,     <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> <a href="https://orcid.org/0000-0001-6147-2448" title="ORCID: 0000-0001-6147-2448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mujaddedi_nahzatullah"><b>Mujaddedi</b> Nahzatullah</a>
-,     <a href="../../../author/swash_rafiq"><b>Swash</b> Rafiq</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 250, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#binder`](keyword/binder)
-    [`#composite`](keyword/composite)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#multi`](keyword/multi)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Influence%20of%20Nano-Additives%20in%20Strengthening%20Mechanical%20Performance%20of%203D%20Printed%20Multi-Binder%20Geopolymer%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85082766965&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3014618988" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.118928" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.118928?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The weak mechanical properties the 3D printed parts can limit the competence of this technology when compared to conventionally cast-in-mold cementitious composites structures. However, experimental results in this study showed that the incorporation of nano additives could improve the mechanical property of printed structures. Six geopolymeric mixtures were designed and tested for their flow-ability, shape stability, buildability and mechanical performance. Different dosage of nano graphite platelets (NGPs) ranging from 0.1% to 1%, by the weight of geopolymer, were incorporated to the best performing geopolymer. The 3D printed geopolymer with 1% of NGPs increased the flexural strength by 89% and 46% compared to the same 3D printed and casted geopolymer without any NGPs, respectively. The same increase for compressive strength was 28% and 12%. Moreover, the geopolymer mix containing 1% of NGPs demonstrated the best shape retention and buildability
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -93,8 +67,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "89 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/mostazid_ibrahim_md"><b>Mostazid</b> Md</a>, <a href="../../../author/faysal_abdul-motaleb_md"><b>Faysal</b> Md</a>, <a href="../../../author/shi_xinjun"><b>Shi</b> Xinjun</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../uddi_most_fays_shi.2025.DaNSPMf3PGC/">Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete:<br/>An Interpretable Data-Driven Approach</a></li>
       <li><a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a>, <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a>, <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME/">Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments</a></li>
@@ -184,4 +159,33 @@ tags:
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/musacchi_ettore"><b>Musacchi</b> Ettore</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../vale_samb_siba_musa.2020.MPAfRCAiBaAF/">Multi-Physics Analysis for Rubber-Cement Applications in Building and Architectural Fields:<br/>A Preliminary Analysis</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC,
+      author            = "Mehdi Chougan and Seyed Hamidreza Ghaffar and Mohammad Jahanzat and Abdulrahman M. Albar and Nahzatullah Mujaddedi and Rafiq Swash",
+      title             = "The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites",
+      doi               = "10.1016/j.conbuildmat.2020.118928",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "250",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chougan, S. H. Ghaffar, M. Jahanzat, A. M. Albar, N. Mujaddedi and R. Swash, “The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites”, <i>Construction and Building Materials</i>, vol. 250, 2020, doi: 10.1016/j.conbuildmat.2020.118928.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chougan, Mehdi, Seyed Hamidreza Ghaffar, Mohammad Jahanzat, Abdulrahman M. Albar, Nahzatullah Mujaddedi, and Rafiq Swash. “The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites”. <i>Construction and Building Materials</i> 250 (2020). https://doi.org/10.1016/j.conbuildmat.2020.118928.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

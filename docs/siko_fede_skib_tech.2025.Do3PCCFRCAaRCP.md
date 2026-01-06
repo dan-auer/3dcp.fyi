@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paweł Sikora, Karol Federowicz, Szymon Skibicki, Mateusz Techman, Marcin Hoffmann, João Pacheco, Mehdi Chougan, Daniel Grochała, Krzysztof Cendrowski, Daniel Sibera, Jarosław Błyszko, Bartosz Budziński, Guan Lin, Aleksandra Ludwiczak-Sarzała
+    - footer
+title: Sikora Paweł, Federowicz Karol, Skibicki Szymon, Techman Mateusz, Hoffmann Marcin, Pacheco João, Chougan Mehdi, Grochała Daniel, Cendrowski Krzysztof, Sibera Daniel, Błyszko Jarosław, Budziński Bartosz, Lin Guan, Ludwiczak-Sarzała Aleksandra
 description:
 tags:
  - age
@@ -23,49 +24,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>:aca-blank: Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance. ([2025-11](date/2025/11))
-<a href="https://doi.org/10.3390/buildings15234255" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15234255</a>
+#Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/buildings15234255" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15234255" target="_blank">10.3390/buildings15234255</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/federowicz_karol"><b>Federowicz</b>&nbsp;Karol</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/techman_mateusz"><b>Techman</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9348-1226" title="ORCID: 0000-0001-9348-1226" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pacheco_nuno_joao"><b>Pacheco</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2553-7739" title="ORCID: 0000-0003-2553-7739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/grochala_daniel"><b>Grochała</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b>&nbsp;Krzysztof</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibera_daniel"><b>Sibera</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0870-119X" title="ORCID: 0000-0002-0870-119X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blyszko_jaroslaw"><b>Błyszko</b>&nbsp;Jarosław</a></span>, <a href="../../../author/budzinski_bartosz"><b>Budziński</b>&nbsp;Bartosz</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3745-8675" title="ORCID: 0000-0003-3745-8675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lin_guan"><b>Lin</b>&nbsp;Guan</a></span>, <a href="../../../author/ludwiczak-sarzala_aleksandra"><b>Ludwiczak-Sarzała</b>&nbsp;Aleksandra</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 23, No. 4255
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> <a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> <a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pacheco_nuno_joao"><b>Pacheco</b> João</a> <a href="https://orcid.org/0000-0001-9348-1226" title="ORCID: 0000-0001-9348-1226" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/grochala_daniel"><b>Grochała</b> Daniel</a> <a href="https://orcid.org/0000-0003-2553-7739" title="ORCID: 0000-0003-2553-7739" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a> <a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> <a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blyszko_jaroslaw"><b>Błyszko</b> Jarosław</a> <a href="https://orcid.org/0000-0002-0870-119X" title="ORCID: 0000-0002-0870-119X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/budzinski_bartosz"><b>Budziński</b> Bartosz</a>
-,     <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="https://orcid.org/0000-0003-3745-8675" title="ORCID: 0000-0003-3745-8675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ludwiczak-sarzala_aleksandra"><b>Ludwiczak-Sarzała</b> Aleksandra</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 23, No. 4255
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#aggregate`](keyword/aggregate)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#demonstration`](keyword/demonstration)
-    [`#durability`](keyword/durability)
-    [`#early`](keyword/early)
-    [`#fine`](keyword/fine)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#rheology`](keyword/rheology)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/demonstration"><button class="btn">#demonstration</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Demonstration%20of%203D-Printed%20Concrete%20Containing%20Fine%20Recycled%20Concrete%20Aggregates%20and%20Recycled%20Concrete%20Powder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -80,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106625729" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15234255" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15234255?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The paper presents a comprehensive analysis of cement-based composites incorporating both fine recycled concrete aggregates (fRAs) and recycled concrete powder (RCP), which were used for 3D concrete printing. The study evaluates properties ranging from fresh-state behaviour to hardened properties, durability, andmicrostructural characteristics. In the final stage, a life cycle assessment (LCA) was conducted. A study found that it is feasible to print a composite containing up to 100% fRA as a replacement for natural river sand. Notably, an increase in fRA content enhances the buildability of the mix, as confirmed by green strength tests. However, the open time of mixes containing fRA and RCP was shortened. Incorporation of RCP and fRA led to a decrease in shrinkage within the first 24 h of hydration. Mechanical studies reported a significant reduction in compressive strength (up to 55%) when RCP and fRAwere introduced to the mix. Despite the reduction in mechanical properties in specific configurations, all mixes—including 100% fRA and 10%RCP—exhibited compressive strengths above 30 MPa, demonstrating their potential suitability for use in the construction industry. The durability properties of mixes modified with fRA show that there is a statistically significant reduction in flexural strength after 25 and 50 freeze–thaw cycles. In terms of compressive strength, cast specimens did not exhibit any notable reduction in mechanical performance after freezing and thawing cycles. The LCA results demonstrate the high potential for using fRA and RCP derived from concrete waste in the additive manufacturing industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
       <li><a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cava_tole_mend.2025.RaEIoRCPaFiC3P/">Rheological and Environmental Implications of Recycled Concrete Powder as Filler in Concrete 3D Printing</a></li>
@@ -121,7 +83,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{siko_fede_skib_tech.2025.Do3PCCFRCAaRCP,
+      author            = "Paweł Sikora and Karol Federowicz and Szymon Skibicki and Mateusz Techman and Marcin Hoffmann and João Nuno Pacheco and Mehdi Chougan and Daniel Grochała and Krzysztof Cendrowski and Daniel Sibera and Jarosław Błyszko and Bartosz Budziński and Guan Lin and Aleksandra Ludwiczak-Sarzała",
+      title             = "Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder: Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.",
+      doi               = "10.3390/buildings15234255",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "23",
+      pages             = "4255",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Sikora, “Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder: Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.”, <i>Buildings</i>, vol. 15, no. 23, p. 4255, 2025, doi: 10.3390/buildings15234255.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sikora, Paweł, Karol Federowicz, Szymon Skibicki, Mateusz Techman, Marcin Hoffmann, João Nuno Pacheco, Mehdi Chougan, et al.. “Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder: Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.”. <i>Buildings</i> 15, no. 23 (2025): 4255. https://doi.org/10.3390/buildings15234255.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Luis Flor Juncal, Allan Scott, Don Clucas, Giuseppe Loporcaro
+    - footer
+title: Flor Juncal Luis, Scott Allan, Clucas Don, Loporcaro Giuseppe
 description:
 tags:
  - alternative
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1617/s11527-025-02851-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02851-2</a>
+#Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-025-02851-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02851-2" target="_blank">10.1617/s11527-025-02851-2</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-5755-8879" title="ORCID: 0009-0001-5755-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flor-juncal_luis"><b>de la&nbsp;Flor Juncal</b>&nbsp;Luis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7385-7633" title="ORCID: 0000-0002-7385-7633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scott_allan"><b>Scott</b>&nbsp;Allan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6724-3037" title="ORCID: 0000-0002-6724-3037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/clucas_don"><b>Clucas</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1834-8879" title="ORCID: 0000-0002-1834-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b>&nbsp;Giuseppe</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/flor-juncal_luis"><b>de la Flor Juncal</b> Luis</a> <a href="https://orcid.org/0009-0001-5755-8879" title="ORCID: 0009-0001-5755-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/scott_allan"><b>Scott</b> Allan</a> <a href="https://orcid.org/0000-0002-7385-7633" title="ORCID: 0000-0002-7385-7633" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/clucas_don"><b>Clucas</b> Don</a> <a href="https://orcid.org/0000-0002-6724-3037" title="ORCID: 0000-0002-6724-3037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="https://orcid.org/0000-0002-1834-8879" title="ORCID: 0000-0002-1834-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#alternative`](keyword/alternative)
-    [`#cement`](keyword/cement)
-    [`#influence`](keyword/influence)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#supplement`](keyword/supplement)
-
-
--------------------------
+<a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/supplement"><button class="btn">#supplement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Alternative%20Supplementary%20Cementitious%20Materials%20and%20Printing%20Parameters%20on%20the%20Mechanical%20Properties%20of%203D-Printed%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020851237&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415878480" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02851-2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02851-2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Large-scale cement-based additive manufacturing, commonly known as 3D concrete printing (3DCP), exhibits greater porosity than traditional cast concrete, with pores mainly concentrated at interface regions, forming interconnected channels that negatively affect their mechanical properties. Additionally, 3DCP has a larger environmental footprint than conventional concrete due to the high cement content in printable mortars (~ 480 kg/m3). One strategy to reduce the environmental footprint is to replace cement with locally available supplementary cementitious materials (SCMs). On the other hand, printing parameters can be optimised to improve the hardened properties of 3D-printed structures. This research aims to assess the feasibility of locally sourced (zeolite and calcined clay) and recycled (mussel shell powder) SCMs in 3DCP mixes, and analyse the effects of printing parameters (filament overlap and nozzle offset) on the mechanical properties. The mechanical properties (elastic modulus, compressive strength, and splitting tensile strength) of 7 mixes were tested at different ages. Results showed that mussel shell powder delayed the binder hydration, decreasing the compressive strength of LC3LCMS and Z40MS cast (by 38.2% and 8.8%) and printed samples (by 11.2% and 13.4%) compared to their counterparts with calcium carbonate at 90 days. Z40 showed the greatest compressive strength results at all ages besides the benchmark samples with metakaolin, achieving a maximum compressive strength of 69.9 ± 1.4 MPa and 53.4 ± 4.6 MPa at 90 days for cast and printed samples, respectively. A 4 ± 1 mm filament overlap improved the mechanical properties and reduced the anisotropy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
@@ -97,7 +73,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{flor_scot_cluc_lopo.2025.IoASCMaPPotMPo3PM,
+      author            = "Luis de la Flor Juncal and Allan Scott and Don Clucas and Giuseppe Loporcaro",
+      title             = "Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars",
+      doi               = "10.1617/s11527-025-02851-2",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. de la Flor Juncal, A. Scott, D. Clucas and G. Loporcaro, “Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars”, <i>Materials and Structures</i>, vol. 58, no. 10, 2025, doi: 10.1617/s11527-025-02851-2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Flor Juncal, Luis de la, Allan Scott, Don Clucas, and Giuseppe Loporcaro. “Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars”. <i>Materials and Structures</i> 58, no. 10 (2025). https://doi.org/10.1617/s11527-025-02851-2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

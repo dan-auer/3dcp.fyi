@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nadia Ralston, Shashank Gupta, Mohamadreza Moini
+    - footer
+title: Ralston Nadia, Gupta Shashank, Moini Mohamadreza
 description:
 tags:
  - architecture
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2350768?needAccess=true) 3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1080/17452759.2024.2350768" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2350768</a>
+#3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation ([2024-05](date/2024/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2350768?needAccess=true) <a href="https://doi.org/10.1080/17452759.2024.2350768" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2350768" target="_blank">10.1080/17452759.2024.2350768</a>
 
--------------------------
+<a href="../../../author/ralston_nadia"><b>Ralston</b>&nbsp;Nadia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1192-9603" title="ORCID: 0000-0002-1192-9603" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gupta_shashank"><b>Gupta</b>&nbsp;Shashank</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ralston_nadia"><b>Ralston</b> Nadia</a>
-,     <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> <a href="https://orcid.org/0000-0002-1192-9603" title="ORCID: 0000-0002-1192-9603" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#binder`](keyword/binder)
-    [`#carbonation`](keyword/carbonation)
-    [`#enhancement`](keyword/enhancement)
-    [`#print`](keyword/print)
-    [`#silica`](keyword/silica)
-    [`#situ`](keyword/situ)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Architected%20Calcium-Silicate%20Binders%20with%20Enhanced%20and%20In-Situ%20Carbonation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193358290&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396920188" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2350768" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2350768?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the use of architected cellular and solid designs of materials via additive manufacturing and in-situ CO2 circulation to augment the carbonation and mechanical properties of a calcium silicate-based cement (CSC) binder. A wollastonite-based binder was formulated for extrusion-based 3D-printing. Solid and cellular lamellar architectures were designed to probe the role of layered interfaces and higher surface area on the degree of carbonation (DOC), respectively. Two carbonation exposure scenarios, with and without in-situ carbonation were employed. The DOC, microstructural phases, and flexural strength were characterised using TGA, modified over-flow image analysis technique, and three-point-bending, respectively. By exploiting 3D-printing and harnessing the higher surface area of cellular architecture, the material obtained a significantly higher DOC (by 8.9-folds) and flexural strength (by 5.7-folds) compared to reference cast. In-situ carbonation of cellular architected materials can additionally improve early-stage deformation, DOC (by 12.9-folds) and flexural strength (by 16.5-folds), compared to cast.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
@@ -89,13 +69,42 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/phua_liang-bryan_seng"><b>Phua</b> Seng</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tay_lim_phua_tan.2023.ECSPT3CP/">Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/fahim_abdullah"><b>Fahim</b> Abdullah</a>, <a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b> Syed</a>, <a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b> Mehdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../fahi_bukh_khan.2025.AMoCTCSwCN/">Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals</a></li>
       <li><a href="../../../author/cao_yifang"><b>Cao</b> Yifang</a>, <a href="../../../author/shen_luming"><b>Shen</b> Luming</a>, <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b> Abhijit</a>, <a href="../../../author/abbas_ali"><b>Abbas</b> Ali</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../cao_shen_mukh_abba.2025.IotIBSia3PMwBSiIS/">Improvement of the Interlayer Bonding Strength in a 3D-Printed Mortar with Biocement Sprayed into Interlayer Surfaces</a></li>
       <li><a href="../../../author/jiang_yu"><b>Jiang</b> Yu</a>, <a href="../../../author/zhang_qingxin"><b>Zhang</b> Qingxin</a>, <a href="../../../author/tabbaa_abir"><b>Tabbaa</b> Abir</a>, <a href="../../../author/daly_ronan"><b>Daly</b> Ronan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../jian_zhan_tabb_daly.2025.TCRoTDRfIQCo3PCS/">The Critical Role of Time-Dependent Rheology for Improved Quality Control of 3D Printed Cementitious Structures</a></li>
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lori_mehr.2024.MPaCDMi3PPGwCS/">Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC/">Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression</a></li>
-      <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../moin.2023.PiAIM/">Perspectives in Architected Infrastructure Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rals_gupt_moin.2024.3PoACSBwEaISC,
+      author            = "Nadia Ralston and Shashank Gupta and Mohamadreza Moini",
+      title             = "3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation",
+      doi               = "10.1080/17452759.2024.2350768",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Ralston, S. Gupta and M. Moini, “3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2350768.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ralston, Nadia, Shashank Gupta, and Mohamadreza Moini. “3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2350768.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

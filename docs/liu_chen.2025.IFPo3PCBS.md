@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Renlong Liu, Zhangqi Cheng
+    - footer
+title: Liu Renlong, Cheng Zhangqi
 description:
 tags:
  - base
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>:aca-blank: Influencing Factors and Mechanisms ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.144228" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.144228</a>
+#Interlayer Fracture Properties of 3D-Printed Cement-Based Structures&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">Influencing Factors and Mechanisms</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.144228" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144228" target="_blank">10.1016/j.conbuildmat.2025.144228</a>
 
--------------------------
+<a href="../../../author/liu_renlong"><b>Liu</b>&nbsp;Renlong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7745-7074" title="ORCID: 0000-0001-7745-7074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_zhangqi"><b>Cheng</b>&nbsp;Zhangqi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 500, No. 144228
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>
-,     <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="https://orcid.org/0000-0001-7745-7074" title="ORCID: 0000-0001-7745-7074" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 500, No. 144228
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#factor`](keyword/factor)
-    [`#fracture`](keyword/fracture)
-    [`#influence`](keyword/influence)
-    [`#interlayer`](keyword/interlayer)
-    [`#mechanism`](keyword/mechanism)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interlayer%20Fracture%20Properties%20of%203D-Printed%20Cement-Based%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020908061&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415687408" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.144228" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.144228?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technology presents new opportunities for the construction industry; however, the weak interlayer bonding significantly limits the overall mechanical performance of printed structures. To address the incomplete understanding of interfacial behavior, this study systematically investigates the factors influencing interlayer adhesion in 3D-printed cement-based materials and reevaluates the underlying mechanisms. Specifically, the effects of static yield stress, printing height, time intervals, and moisture loss on interfacial fracture behavior are analyzed. Three-point bending tests, X-ray computed tomography (XCT), and scanning electron microscopy (SEM) are conducted to evaluate interfacial fracture toughness, fracture energy, and microstructural characteristics. The results indicate that both printing height and static yield stress influence fracture performance through changes in the interfacial pore structure, and their effects can partially compensate each other. Time intervals significantly degrade interfacial performance. Even before initial setting, a 40-minute interval will lead to a 21.3 % decrease in the interfacial fracture toughness. Moisture loss further disrupts the bridging between pore structures and hydration products, exacerbating interfacial deterioration. This study provides a theoretical basis for optimizing the interfacial performance of 3D-printed cement-based materials and highlights the importance of minimizing the simultaneous occurrence of adverse factors in practical applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
@@ -110,7 +89,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_chen.2025.IFPo3PCBS,
+      author            = "Renlong Liu and Zhangqi Cheng",
+      title             = "Interlayer Fracture Properties of 3D-Printed Cement-Based Structures: Influencing Factors and Mechanisms",
+      doi               = "10.1016/j.conbuildmat.2025.144228",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "500",
+      pages             = "144228",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Liu  and Z. Cheng, “Interlayer Fracture Properties of 3D-Printed Cement-Based Structures: Influencing Factors and Mechanisms”, <i>Construction and Building Materials</i>, vol. 500, p. 144228, 2025, doi: 10.1016/j.conbuildmat.2025.144228.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Renlong, and Zhangqi Cheng. “Interlayer Fracture Properties of 3D-Printed Cement-Based Structures: Influencing Factors and Mechanisms”. <i>Construction and Building Materials</i> 500 (2025): 144228. https://doi.org/10.1016/j.conbuildmat.2025.144228.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

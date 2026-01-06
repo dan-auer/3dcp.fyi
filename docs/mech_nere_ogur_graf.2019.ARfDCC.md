@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Viktor Mechtcherine, Venkatesh Nerella, Hiroki Ogura, Jasmin Grafe, Erik Spaniol, Martin Hertel, Uwe Füssel
+    - footer
+title: Mechtcherine Viktor, Nerella Venkatesh, Ogura Hiroki, Grafe Jasmin, Spaniol Erik, Hertel Martin, Füssel Uwe
 description:
 tags:
  - alternative
@@ -13,32 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Alternative Reinforcements for Digital Concrete Construction ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-99519-9_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-99519-9_15</a>
+#Alternative Reinforcements for Digital Concrete Construction ([2018-09](date/2018/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_15" target="_blank">10.1007/978-3-319-99519-9_15</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0262-9913" title="ORCID: 0000-0003-0262-9913" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ogura_hiroki"><b>Ogura</b>&nbsp;Hiroki</a></span>, <a href="../../../author/grafe_jasmin"><b>Grafe</b>&nbsp;Jasmin</a></span>, <a href="../../../author/spaniol_erik"><b>Spaniol</b>&nbsp;Erik</a></span>, <a href="../../../author/hertel_martin"><b>Hertel</b>&nbsp;Martin</a></span>, <a href="../../../author/fussel_uwe"><b>Füssel</b>&nbsp;Uwe</a></span><br>
+Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 167-175
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a> <a href="https://orcid.org/0000-0003-0262-9913" title="ORCID: 0000-0003-0262-9913" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>
-,     <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a>
-,     <a href="../../../author/hertel_martin"><b>Hertel</b> Martin</a>
-,     <a href="../../../author/fussel_uwe"><b>Füssel</b> Uwe</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 167-175
-
-:aca-blank:{ .lg .middle}
-    [`#alternative`](keyword/alternative)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Alternative%20Reinforcements%20for%20Digital%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052715417&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2888795021" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-99519-9_15" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-99519-9_15?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Applications of structural concrete require use of reinforcement in one form or another. The known reinforcement concepts in additive concrete construction typically rely on conventional reinforcement approaches, which provide a solid basis for structural design, since existing guidelines and codes can be used. However, the use of conventional steel reinforcement poses serious limitations to the digitalization and automation of fabrication techniques. The article at hand presents two alternative approaches of reinforcing 3D-printed concrete structures: (1) additive manufacturing of steel reinforcement elements, (2) use of high-performance microfiber to achieve strain-hardening behavior of printed concrete. For both approaches materials and manufacturing techniques are briefly described followed by the results of mechanical testing and complimentary microscopic investigations. The printed steel bars showed similar mechanical performance in comparison to ordinary steel bars of the same crosssection area and comparable bond behavior to concrete too, as observed in pullout experiments. The addition of 1% to 1.5% high-density polyethylene microfiber to fine-grained matrix enabled for printable strain-hardening cementbased composites (SHCC) with a tensile strain capacity of up to 3.2%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../mech_graf_nere_span.2018.3PSRfDCC/">3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>Manufacture, Mechanical Properties and Bond Behavior</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../mech_nere.2018.3PwC/">3D Printing with Concrete:<br/>State-of-the-Art, Trends, Challenges</a></li>
@@ -71,8 +49,8 @@ tags:
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/huseien_fahim_ghasan"><b>Huseien</b> Ghasan</a>, <a href="../../../author/tan_qin_shea"><b>Tan</b> Shea</a>, <a href="../../../author/saleh_taha_ali"><b>Saleh</b> Ali</a>, <a href="../../../author/lim_hasanah-abdul-shukor_nor"><b>Lim</b> Nor</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huse_tan_sale_lim.2024.TPaMPoTDPCEDMP/">Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions:<br/>A Review and Bibliometric Analysis</a></li>
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../rame_raje_sanj.2024.AoTRf3CPS/">Application of Textile Reinforcement for 3D Concrete Printed Structures</a></li>
       <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM/">Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars</a></li>
@@ -91,4 +69,35 @@ tags:
       <li><a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a>, <a href="../../../author/brown_lesa"><b>Brown</b> Lesa</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../koss_brow_sanc.2020.EAPo3PCNFaCMFCC/">Early-Age Performance of 3D Printed Carbon-Nano-Fiber and Carbon Micro-Fiber Cement Composites</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../perr_rang.2019.3PwC/">3D Printing with Concrete:<br/>Impact and Designs of Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mech_nere_ogur_graf.2019.ARfDCC,
+      author            = "Viktor Mechtcherine and Venkatesh Naidu Nerella and Hiroki Ogura and Jasmin Grafe and Erik Spaniol and Martin Hertel and Uwe Füssel",
+      title             = "Alternative Reinforcements for Digital Concrete Construction",
+      doi               = "10.1007/978-3-319-99519-9_15",
+      year              = "2019",
+      volume            = "19",
+      pages             = "167--175",
+      booktitle         = "Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018",
+      editor            = "Timothy Paul Wangler and Robert Johann Flatt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Mechtcherine, “Alternative Reinforcements for Digital Concrete Construction”, in <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>,  2019, vol. 19, pp. 167–175. doi: 10.1007/978-3-319-99519-9_15.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mechtcherine, Viktor, Venkatesh Naidu Nerella, Hiroki Ogura, Jasmin Grafe, Erik Spaniol, Martin Hertel, and Uwe Füssel. “Alternative Reinforcements for Digital Concrete Construction”. In <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>, edited by Timothy Paul Wangler and Robert Johann Flatt, 19:167–75, 2019. https://doi.org/10.1007/978-3-319-99519-9_15.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Givkashi, Faramarz Moodi, Amir Ramezanianpour
+    - footer
+title: Givkashi Mohammad, Moodi Faramarz, Ramezanianpour Amir
 description:
 tags:
  - agent
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1061/jmcee7.mteng-19488" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jmcee7.mteng-19488</a>
+#Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-19488" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-19488" target="_blank">10.1061/jmcee7.mteng-19488</a>
 
--------------------------
+<a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3397-443X" title="ORCID: 0000-0002-3397-443X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moodi_faramarz"><b>Moodi</b>&nbsp;Faramarz</a></span>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b>&nbsp;Amir</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>
-,     <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a> <a href="https://orcid.org/0000-0002-3397-443X" title="ORCID: 0000-0002-3397-443X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#air`](keyword/air)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#emphasis`](keyword/emphasis)
-    [`#hardened`](keyword/hardened)
-    [`#permeability`](keyword/permeability)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#structure`](keyword/structure)
-    [`#void`](keyword/void)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/emphasis"><button class="btn">#emphasis</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/permeability"><button class="btn">#permeability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/void"><button class="btn">#void</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Air-Entraining%20Agent%20on%20Hardened%20Properties%20of%203D%20Printed%20Concrete%20with%20Emphasis%20on%20Permeability%20and%20Air%20Void%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219625961&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408042816" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jmcee7.mteng-19488" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jmcee7.mteng-19488?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing is proposed as a potential solution in construction. Therefore, it is necessary to examine different properties of these concretes. On the other hand, air entrainment is a well-established method to improve the resistance of concrete against freeze–thaw cycles. Although the primary purpose of using these materials in the concrete mixture is to increase its resistance to freeze–thaw cycles, it affects other properties of concrete, including its hardened properties, which have to be evaluated. This study investigates the effect of air-entraining agents (AEAs) on the hardened properties of 3D printed concrete, including its permeability, chloride penetration, and air void structure. Several mixes with various amounts of AEAs were used, all of which had the necessary specifications for pumpability, printability, and buildability. The results show that although the use of air-entraining agent reduced the compressive (2.7%–17.4%) and flexural (7.6%–21.2%) strength of the samples, the permeability decreased (e.g., 1.4%–15.5% decrease in 0.5-h water absorption at different ages), and the resistance against chloride attack increased (e.g., reduction of 12.5%–19.4% in chloride ion migration coefficient). An acceptable increase in the resistance against freeze–thaw cycles was achieved for all mixes containing AEA. Although the samples containing 0.12% air-entraining agent showed the highest resistance to freeze–thaw cycles, it seems that lower values were more suitable for reaching the lowest permeability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/song_yu"><b>Song</b> Yu</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../das_song_mant_wang.2020.IoPEotAVSo3PC/">Influence of Pumping-Extrusion on the Air-Void System of 3D Printed Concrete</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/song_yu"><b>Song</b> Yu</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../das_song_mant_wang.2022.EoPotAVSo3PC/">Effect of Processing on the Air-Void System of 3D Printed Concrete</a></li>
@@ -97,7 +73,37 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{givk_mood_rame.2025.EoAEAoHPo3PCwEoPaAVS,
+      author            = "Mohammad Rasul Givkashi and Faramarz Moodi and Amir Mohammad Ramezanianpour",
+      title             = "Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure",
+      doi               = "10.1061/jmcee7.mteng-19488",
+      year              = "2025",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "37",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Givkashi, F. Moodi and A. M. Ramezanianpour, “Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure”, <i>Journal of Materials in Civil Engineering</i>, vol. 37, no. 5, 2025, doi: 10.1061/jmcee7.mteng-19488.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Givkashi, Mohammad Rasul, Faramarz Moodi, and Amir Mohammad Ramezanianpour. “Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure”. <i>Journal of Materials in Civil Engineering</i> 37, no. 5 (2025). https://doi.org/10.1061/jmcee7.mteng-19488.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

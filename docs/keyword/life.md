@@ -8,7 +8,7 @@ search:
 
 # #life
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
   <li><a href="../../../author/nair_r_sajitha"><b>Nair</b> Sajitha</a>, <a href="../../../author/nagarajan_praveen"><b>Nagarajan</b> Praveen</a>, <a href="../../../author/thampi_g_santosh"><b>Thampi</b> Santosh</a>, <a href="../../../author/das_sudha"><b>Das</b> Sudha</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../nair_naga_tham_das.2025.LCBSAoO3PCMISaRA/">Life Cycle-Based Sustainability Assessment of Optimized 3D Printable Concrete Mixes Incorporating Scms and Recycled Aggregates</a></li>
   <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>

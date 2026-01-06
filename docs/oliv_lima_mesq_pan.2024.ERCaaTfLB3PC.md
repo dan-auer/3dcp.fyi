@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Roberto Oliveira Romano, Francisco Lima, José Mesquita, Eduardo Pan, Rafael Pileggi
+    - footer
+title: Oliveira Romano Roberto, Lima Francisco, Mesquita José, Pan Eduardo, Pileggi Rafael
 description:
 tags:
  - binder
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-# Extended Rheological Characterization as a Tool for Low-Binder 3D Printing Compositions ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24355/dbbs.084-202408160950-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24355/dbbs.084-202408160950-0</a>
+#Extended Rheological Characterization as a Tool for Low-Binder 3D Printing Compositions ([2024-09](date/2024/09))
+ <a href="https://doi.org/10.24355/dbbs.084-202408160950-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202408160950-0" target="_blank">10.24355/dbbs.084-202408160950-0</a>
 
--------------------------
+<a href="../../../author/oliveira-romano_cesar_roberto"><b>de&nbsp;Oliveira Romano</b>&nbsp;Roberto</a></span>, <a href="../../../author/lima_jordao-nunes_francisco"><b>de&nbsp;Lima</b>&nbsp;Francisco</a></span>, <a href="../../../author/mesquita_augusto-ferreira-sales_jose"><b>de&nbsp;Mesquita</b>&nbsp;José</a></span>, <a href="../../../author/pan_maia_eduardo"><b>Pan</b>&nbsp;Eduardo</a></span>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b>&nbsp;Rafael</a></span><br>
+Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/oliveira-romano_cesar_roberto"><b>de Oliveira Romano</b> Roberto</a>
-,     <a href="../../../author/lima_jordao-nunes_francisco"><b>de Lima</b> Francisco</a>
-,     <a href="../../../author/mesquita_augusto-ferreira-sales_jose"><b>de Mesquita</b> José</a>
-,     <a href="../../../author/pan_maia_eduardo"><b>Pan</b> Eduardo</a>
-,     <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#characteristic`](keyword/characteristic)
-    [`#composite`](keyword/composite)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extended%20Rheological%20Characterization%20as%20a%20Tool%20for%20Low-Binder%203D%20Printing%20Compositions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,25 +37,48 @@ tags:
 <a href="https://inciteful.xyz/p/W6907802310" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24355/dbbs.084-202408160950-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24355/dbbs.084-202408160950-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Implementing 3D-printing technology of cementitious compositions holds a significant contribution for revolutionizing the construction sector. However, the current stage of the technology often requires a higher amount of binder compared to conventional concretes, posing environmental challenges during the production of the components. So, as well as a trend in the cement industry, the development of low-binder 3D-printing compositions is an essential step for the sustainability of this process. To this strategy be successfully achieved, the impact of raw material proportioning must be studied on printing properties. Another relevant piece of information is that the development of printable compositions must be carried out in parallel with the choice of printing equipment, adapting its rheological properties to the characteristics of the printer. In this research we developed compositions with low-binder content to be used in a 1k 3D-printer, applying an extended rheological approach to understand the printability requirements. The work was started using a reference composition indicated by the equipment manufacturer, to obtain rheological information of practical interest, creating a list of parameters and behaviors for adequate printability. The development of low-binder compositions was carried out considering the concepts of packing of particles, and our target was a consumption below 290 kg/m³ of cement, the lowest reported in the literature so far for dense components. The rheological properties were investigated applying the methods of rotational rheometry, squeeze flow, Benbow and Bridgwater and flow table. With the results, was possible to highlight the significant rheological contributions at each step in the development of 3D printed compositions, improve sustainability and achieve high-quality printed structures with lower cement consumption than previously reported in the literature.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/jeong_hoseong"><b>Jeong</b> Hoseong</a>, <a href="../../../author/han_sun-jin"><b>Han</b> Sun-Jin</a>, <a href="../../../author/choi_seung-ho"><b>Choi</b> Seung-Ho</a>, <a href="../../../author/lee_jung_yoon"><b>Lee</b> Yoon</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../jeon_han_choi_lee.2019.RPCfB3PC/">Rheological Property Criteria for Buildable 3D Printing Concrete</a></li>
       <li><a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a>, <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../klyu_klyu_fedi_agee.2022.FaMPoLCMf3P/">Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing</a></li>
-      <li><a href="../../../author/oliveira-romano_cesar_roberto"><b>Oliveira Romano</b> Roberto</a>, <a href="../../../author/lima_jordao-nunes_francisco"><b>Lima</b> Francisco</a>, <a href="../../../author/mesquita_augusto-ferreira-sales_jose"><b>Mesquita</b> José</a>, <a href="../../../author/pan_maia_eduardo"><b>Pan</b> Eduardo</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../oliv_lima_mesq_pan.2024.ERCaaTfLB3PC/">Extended Rheological Characterization as a Tool for Low-Binder 3D Printing Compositions</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/oliveira-romano_cesar_roberto"><b>Oliveira Romano</b> Roberto</a>, <a href="../../../author/lima_jordao-nunes_francisco"><b>Lima</b> Francisco</a>, <a href="../../../author/mesquita_augusto-ferreira-sales_jose"><b>Mesquita</b> José</a>, <a href="../../../author/pan_maia_eduardo"><b>Pan</b> Eduardo</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../oliv_lima_mesq_pan.2024.ERCaaTfLB3PC/">Extended Rheological Characterization as a Tool for Low-Binder 3D Printing Compositions</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{oliv_lima_mesq_pan.2024.ERCaaTfLB3PC,
+      author            = "Roberto Cesar de Oliveira Romano and Francisco Jordão Nunes de Lima and José Augusto Ferreira Sales de Mesquita and Eduardo Maia Pan and Rafael Giuliano Pileggi",
+      title             = "Extended Rheological Characterization as a Tool for Low-Binder 3D Printing Compositions",
+      doi               = "10.24355/dbbs.084-202408160950-0",
+      year              = "2024",
+      booktitle         = "Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. C. de Oliveira Romano, F. J. N. de Lima, J. A. F. S. de Mesquita, E. M. Pan and R. G. Pileggi, “Extended Rheological Characterization as a Tool for Low-Binder 3D Printing Compositions”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408160950-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Oliveira Romano, Roberto Cesar de, Francisco Jordão Nunes de Lima, José Augusto Ferreira Sales de Mesquita, Eduardo Maia Pan, and Rafael Giuliano Pileggi. “Extended Rheological Characterization as a Tool for Low-Binder 3D Printing Compositions”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408160950-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

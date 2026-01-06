@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amardeep Singh, Song Yang, Dianchao Wang, Jianzhuang Xiao, Chuanrui Wang, Yanming Sheng, Haitan Zhang
+    - footer
+title: Singh Amardeep, Yang Song, Wang Dianchao, Xiao Jianzhuang, Wang Chuanrui, Sheng Yanming, Zhang Haitan
 description:
 tags:
  - concrete
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143683" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143683</a>
+#Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143683" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143683" target="_blank">10.1016/j.conbuildmat.2025.143683</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span>, <a href="../../../author/yang_song"><b>Yang</b>&nbsp;Song</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_dianchao"><b>Wang</b>&nbsp;Dianchao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/wang_chuanrui"><b>Wang</b>&nbsp;Chuanrui</a></span>, <a href="../../../author/sheng_yanming"><b>Sheng</b>&nbsp;Yanming</a></span>, <a href="../../../author/zhang_haitan"><b>Zhang</b>&nbsp;Haitan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 495, No. 143683
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_song"><b>Yang</b> Song</a>
-,     <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a> <a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_chuanrui"><b>Wang</b> Chuanrui</a>
-,     <a href="../../../author/sheng_yanming"><b>Sheng</b> Yanming</a>
-,     <a href="../../../author/zhang_haitan"><b>Zhang</b> Haitan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 495, No. 143683
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#content`](keyword/content)
-    [`#critical`](keyword/critical)
-    [`#fiber`](keyword/fiber)
-    [`#freeze`](keyword/freeze)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#thaw`](keyword/thaw)
-    [`#threshold`](keyword/threshold)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> <a href="../../keyword/threshold"><button class="btn">#threshold</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Critical%20Threshold%20Fiber%20Content%20for%20Freeze-Thaw%20Resistance%20in%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016454833&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414446320" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143683" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143683?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The durability performance of fiber-reinforced 3D-printed concrete (3DPC) under freeze-thaw cycling remains poorly understood, limiting its application in cold climates. This study systematically investigates the effects of steel micro-fiber content (0.3–1.3 % by volume) on freeze-thaw resistance through mass loss, gas permeability, and microstructural analysis. Two critical fiber content thresholds govern performance transitions: 0.6 % for mechanical optimization achieving 25 % permeability reduction at 12 MPa versus 44 % for control specimens, and 1.0 % minimum for freeze-thaw protection, above which permeability degradation remains manageable (K150/K0 ∼ 15–31) compared to catastrophic failure (>550-fold increase) below this threshold. These thresholds represent transition zones where dominant mechanisms shift rather than absolute boundaries. Printing-induced fiber alignment transforms 3DPC from durability liability to advantage only above the 1.0 % threshold, with controlled fiber orientation achieving up to 25 times better freeze-thaw resistance than cast specimens by converting interlayer weaknesses into reinforced zones. X-ray computed tomography revealed preferential damage in the 89–356 μm pore range, with pore evolution patterns varying with fiber content and printing orientation, establishing that 0.6 % optimizes general 3DPC applications while 1.0–1.3 % is required for extreme freeze-thaw environments. This threshold-based framework provides evidence-based design guidance for developing durable 3DPC systems across varying climatic conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -91,7 +65,37 @@ tags:
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_sahi.2024.TIoAEoFEi3PC/">The Impact of Air-Entraining on Frost-Endurance in 3D Printed Concrete:<br/>The Function of Printing Orientation and Curing Process</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_luo_anan_sing.2024.SUoURGiAMRPC/">Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sing_yang_wang_xiao.2025.CTFCfFTRi3PC,
+      author            = "Amardeep Singh and Song Yang and Dianchao Wang and Jianzhuang Xiao and Chuanrui Wang and Yanming Sheng and Haitan Zhang",
+      title             = "Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2025.143683",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "495",
+      pages             = "143683",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Singh, “Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete”, <i>Construction and Building Materials</i>, vol. 495, p. 143683, 2025, doi: 10.1016/j.conbuildmat.2025.143683.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Singh, Amardeep, Song Yang, Dianchao Wang, Jianzhuang Xiao, Chuanrui Wang, Yanming Sheng, and Haitan Zhang. “Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete”. <i>Construction and Building Materials</i> 495 (2025): 143683. https://doi.org/10.1016/j.conbuildmat.2025.143683.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

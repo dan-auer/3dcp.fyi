@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Chen, Yu Zhang, Shan He, Xuhui Liang, Erik Schlangen, Oğuzhan Çopuroğlu
+    - footer
+title: Chen Yu, Zhang Yu, He Shan, Liang Xuhui, Schlangen Erik, Çopuroğlu Oğuzhan
 description:
 tags:
  - additive
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2023.131959) Improving Structural Build-Up of Limestone-Calcined-Clay-Cement-Pastes by Using Inorganic Additives ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.131959" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.131959</a>
+#Improving Structural Build-Up of Limestone-Calcined-Clay-Cement-Pastes by Using Inorganic Additives ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2023.131959) <a href="https://doi.org/10.1016/j.conbuildmat.2023.131959" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131959" target="_blank">10.1016/j.conbuildmat.2023.131959</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yu"><b>Zhang</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4175-2877" title="ORCID: 0000-0003-4175-2877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_shan"><b>He</b>&nbsp;Shan</a></span>, <a href="../../../author/liang_xuhui"><b>Liang</b>&nbsp;Xuhui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 392
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> <a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/he_shan"><b>He</b> Shan</a> <a href="https://orcid.org/0000-0003-4175-2877" title="ORCID: 0000-0003-4175-2877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liang_xuhui"><b>Liang</b> Xuhui</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 392, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#improvement`](keyword/improvement)
-    [`#limestone`](keyword/limestone)
-    [`#paste`](keyword/paste)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20Structural%20Build-Up%20of%20Limestone-Calcined-Clay-Cement-Pastes%20by%20Using%20Inorganic%20Additives" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163552477&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4379136516" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.131959" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.131959?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In 3D concrete printing, fast structuration is a prerequisite for ideal buildability. This paper aims to study the impact of inorganic additives, i.e., CaCl2 and gypsum, on structural build-up and very early-age hydration of limestone-calcined clay-cement (LC3) pastes within the first 70–80 min. Results show that, increasing the dosage of CaCl2 or gypsum can accelerate storage modulus G’ and static yield stress evolution with time, as well as increase chemically bound water (H) content and total specific surface area (SSAtotal). Furthermore, good correlations were found between G’ and H content, as well as static yield stress and the ratio of free water content to SSAtotal. The acceleration by CaCl2 can be attributed to stimulating C3S and C3A hydration and promoting crystal formation, i.e., ettringite, portlandite, and Friedel’s salt. Additionally, the increase in gypsum percentage led to a large amount of unreacted gypsum in the system, resulting in an increase in SSAtotal.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -99,8 +75,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../yuan_zhou_huan_peng.2020.SBUHaSDoCBMwA/">Structural Build-Up, Hydration and Strength Development of Cement-Based Materials with Accelerators</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/jiang_chengzhi"><b>Jiang</b> Chengzhi</a>, <a href="../../../author/gan_xingyu"><b>Gan</b> Xingyu</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../jin_jian_gan_sun.2025.EtPo3PWCMwA/">Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators:<br/>Evolution of Early-Age Hydration and Rheology</a></li>
@@ -110,6 +86,34 @@ tags:
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../cui_liu_guo_da.2025.GQIi3CPUAACV/">Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision</a></li>
       <li><a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>, <a href="../../../author/liu_jian"><b>Liu</b> Jian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhao_jian_xia_liu.2024.MICRf3PC/">Microbial-Induced Carbonate Reinforcement for 3D Printed Concrete:<br/>Testing in Printable and Mechanical Strength</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tao_moha_rahu_schu.2023.IoRoMHaMBoTP3PC/">Influence of Rheology on Mixing Homogeneity and Mechanical Behavior of Twin-Pipe 3D Printable Concrete</a></li>
-      <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../chen_lian_zhan_li.2023.CSPBUaRMfCMitCo3CP/">Can Superabsorbent Polymers Be Used as Rheology-Modifiers for Cementitious Materials in the Context of 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_he_lian.2023.ISBUoLCCCPbUIA,
+      author            = "Yu Chen and Yu Zhang and Shan He and Xuhui Liang and Erik Schlangen and Oğuzhan Çopuroğlu",
+      title             = "Improving Structural Build-Up of Limestone-Calcined-Clay-Cement-Pastes by Using Inorganic Additives",
+      doi               = "10.1016/j.conbuildmat.2023.131959",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "392",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, Y. Zhang, S. He, X. Liang, E. Schlangen and O. Çopuroğlu, “Improving Structural Build-Up of Limestone-Calcined-Clay-Cement-Pastes by Using Inorganic Additives”, <i>Construction and Building Materials</i>, vol. 392, 2023, doi: 10.1016/j.conbuildmat.2023.131959.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yu, Yu Zhang, Shan He, Xuhui Liang, Erik Schlangen, and Oğuzhan Çopuroğlu. “Improving Structural Build-Up of Limestone-Calcined-Clay-Cement-Pastes by Using Inorganic Additives”. <i>Construction and Building Materials</i> 392 (2023). https://doi.org/10.1016/j.conbuildmat.2023.131959.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

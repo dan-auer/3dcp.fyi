@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adam Hutyra, Magdalena Bańkosz, Bożena Tyliszczak
+    - footer
+title: Hutyra Adam, Bańkosz Magdalena, Tyliszczak Bożena
 description:
 tags:
  - automation
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/17/15/3829/pdf?version=1722603051) Technology for Automated Production of High-Performance Building Compounds for 3D Printing ([2024-08](date/2024/08))
-<a href="https://doi.org/10.3390/ma17153829" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17153829</a>
+#Technology for Automated Production of High-Performance Building Compounds for 3D Printing ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/15/3829/pdf?version=1722603051) <a href="https://doi.org/10.3390/ma17153829" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17153829" target="_blank">10.3390/ma17153829</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-9171-0575" title="ORCID: 0009-0007-9171-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hutyra_adam"><b>Hutyra</b>&nbsp;Adam</a></span>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2761-6185" title="ORCID: 0000-0002-2761-6185" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b>&nbsp;Bożena</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 15, No. 3829
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a> <a href="https://orcid.org/0009-0007-9171-0575" title="ORCID: 0009-0007-9171-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>
-,     <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="https://orcid.org/0000-0002-2761-6185" title="ORCID: 0000-0002-2761-6185" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 15, No. 3829
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#buildability`](keyword/buildability)
-    [`#compound`](keyword/compound)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/compound"><button class="btn">#compound</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Technology%20for%20Automated%20Production%20of%20High-Performance%20Building%20Compounds%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200768854&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401244117" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17153829" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17153829?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing technology in construction is a rapidly growing field that offers innovative opportunities for design and construction execution. A key component of this process is the automated production of high-performance construction mixtures that meet specific requirements for strength, fluidity, and setting speed. This overview article outlines the history and development of 3D printing technology in the construction industry, describes various printing technologies, and discusses the properties and requirements for construction mixes. Special attention is given to automated systems for batching and mixing ingredients, which increase the precision and efficiency of production. The different types of construction mixes used in 3D printing and the main technical and operational challenges associated with their application are also presented. The article’s conclusions highlight the potential of this technology to revolutionize the construction industry by improving efficiency and reducing costs and project lead times.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "50 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/bumanis_girts"><b>Bumanis</b> Girts</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../buma_sapa_sink_spur.2023.AMoLGaEPGC/">Additive Manufacturing of Lightweight Gypsum and Expanded Polystyrene Granulate Composite</a></li>
@@ -117,8 +96,39 @@ tags:
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{huty_bank_tyli.2024.TfAPoHPBCf3P,
+      author            = "Adam Hutyra and Magdalena Bańkosz and Bożena Tyliszczak",
+      title             = "Technology for Automated Production of High-Performance Building Compounds for 3D Printing",
+      doi               = "10.3390/ma17153829",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "15",
+      pages             = "3829",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Hutyra, M. Bańkosz and B. Tyliszczak, “Technology for Automated Production of High-Performance Building Compounds for 3D Printing”, <i>Materials</i>, vol. 17, no. 15, p. 3829, 2024, doi: 10.3390/ma17153829.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hutyra, Adam, Magdalena Bańkosz, and Bożena Tyliszczak. “Technology for Automated Production of High-Performance Building Compounds for 3D Printing”. <i>Materials</i> 17, no. 15 (2024): 3829. https://doi.org/10.3390/ma17153829.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

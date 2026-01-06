@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lijing Shao, Zhaolong Liu, Qi Liu, Haochuan Wang, Chong Wang, Wei Wang, Jinxiang Hong, Changwen Miao, Pan Feng
+    - footer
+title: Shao Lijing, Liu Zhaolong, Liu Qi, Wang Haochuan, Wang Chong, Wang Wei, Hong Jinxiang, Miao Changwen, Feng Pan
 description:
 tags:
  - base
@@ -16,37 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A New Strategy to Enhance 3D Printability of Cement-Based Materials:<br/>:aca-blank: In-Situ Polymerization ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.addma.2024.104299" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104299</a>
+#A New Strategy to Enhance 3D Printability of Cement-Based Materials&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">In-Situ Polymerization</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104299" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104299" target="_blank">10.1016/j.addma.2024.104299</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4209-3888" title="ORCID: 0000-0002-4209-3888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shao_lijing"><b>Shao</b>&nbsp;Lijing</a></span>, <a href="../../../author/liu_zhaolong"><b>Liu</b>&nbsp;Zhaolong</a></span>, <a href="../../../author/liu_qi"><b>Liu</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1123-5636" title="ORCID: 0000-0002-1123-5636" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_haochuan"><b>Wang</b>&nbsp;Haochuan</a></span>, <a href="../../../author/wang_chong"><b>Wang</b>&nbsp;Chong</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span>, <a href="../../../author/hong_jinxiang"><b>Hong</b>&nbsp;Jinxiang</a></span>, <a href="../../../author/miao_changwen"><b>Miao</b>&nbsp;Changwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2692-5971" title="ORCID: 0000-0002-2692-5971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_pan"><b>Feng</b>&nbsp;Pan</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 89, No. 104299
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a> <a href="https://orcid.org/0000-0002-4209-3888" title="ORCID: 0000-0002-4209-3888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhaolong"><b>Liu</b> Zhaolong</a>
-,     <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>
-,     <a href="../../../author/wang_haochuan"><b>Wang</b> Haochuan</a> <a href="https://orcid.org/0000-0002-1123-5636" title="ORCID: 0000-0002-1123-5636" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_chong"><b>Wang</b> Chong</a>
-,     <a href="../../../author/wang_wei"><b>Wang</b> Wei</a>
-,     <a href="../../../author/hong_jinxiang"><b>Hong</b> Jinxiang</a>
-,     <a href="../../../author/miao_changwen"><b>Miao</b> Changwen</a>
-,     <a href="../../../author/feng_pan"><b>Feng</b> Pan</a> <a href="https://orcid.org/0000-0002-2692-5971" title="ORCID: 0000-0002-2692-5971" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 89, No. 104299
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#enhancement`](keyword/enhancement)
-    [`#material`](keyword/material)
-    [`#polymer`](keyword/polymer)
-    [`#printability`](keyword/printability)
-    [`#situ`](keyword/situ)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20New%20Strategy%20to%20Enhance%203D%20Printability%20of%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198014678&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400314289" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104299" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104299?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Printability is a crucial attribute for 3D-printed cement-based materials, as it not only governs the material's printability but also directly impacts the quality of the final structure. A good printability indicates that the printed materials are flowable for transport and extrusion, followed by a rapid increase in strength to establish a stable structure. In this paper, a novel strategy is proposed to enhance the 3D printability of cementitious materials by leveraging the rapid strength enhancement of fresh mortar during in-situ polymerization of acrylamide (AM) in the matrix within 30–60 min of contact with water. Prior to extrusion, AM monomers are absorbed onto cement particles to enhance the flowability of mortar to approximately 185 mm, thereby improving pumpability and extrudability of printed materials. Shortly after extrusion, in-situ polymerization of AM monomers within the mortar takes place, resulting in a sudden albeit modest strength increases in the fresh mortar, enhancing the buildability of the printed mortar. Moreover, the flexural strength of 3D printed filaments with 5 % AM are increased by 52.4 % at 28d, respectively. Meanwhile, the interactions between the AM in-situ polymerization and cement hydration are comprehensively discussed. This innovative approach to enhance 3D printability is expected to drive the advancement of 3D-printed materials with enhanced adaptability and superior properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -100,11 +74,41 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../yuan_xie_yao_huan.2022.EoPotWaILIPo3PCM/">Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../xia_chen_chen_jia.2025.PTf3PCaACM/">Programmable Toughening for 3D Printed Concrete and Architected Cementitious Materials</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
       <li><a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/zhao_yuyang"><b>Zhao</b> Yuyang</a>, <a href="../../../author/hou_dongshuai"><b>Hou</b> Dongshuai</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sun_zhao_hou_li.2025.RCoCPbISPf3PA/">Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications</a></li>
       <li><a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chaj_savi.2024.TEoUSFGPWoFPo3PCC/">The Effect of Using Surface Functionalized Granite-Powder-Waste on Fresh Properties of 3D Printed Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shao_liu_liu_wang.2024.ANStE3PoCBM,
+      author            = "Lijing Shao and Zhaolong Liu and Qi Liu and Haochuan Wang and Chong Wang and Wei Wang and Jinxiang Hong and Changwen Miao and Pan Feng",
+      title             = "A New Strategy to Enhance 3D Printability of Cement-Based Materials: In-Situ Polymerization",
+      doi               = "10.1016/j.addma.2024.104299",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      volume            = "89",
+      pages             = "104299",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Shao, “A New Strategy to Enhance 3D Printability of Cement-Based Materials: In-Situ Polymerization”, <i>Additive Manufacturing</i>, vol. 89, p. 104299, 2024, doi: 10.1016/j.addma.2024.104299.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shao, Lijing, Zhaolong Liu, Qi Liu, Haochuan Wang, Chong Wang, Wei Wang, Jinxiang Hong, Changwen Miao, and Pan Feng. “A New Strategy to Enhance 3D Printability of Cement-Based Materials: In-Situ Polymerization”. <i>Additive Manufacturing</i> 89 (2024): 104299. https://doi.org/10.1016/j.addma.2024.104299.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

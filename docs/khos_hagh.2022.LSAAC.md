@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Khosravani, Azadeh Haghighi
+    - footer
+title: Khosravani Mohammad, Haghighi Azadeh
 description:
 tags:
  - additive
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/14/15/9782/pdf?version=1660034860) Large-Scale Automated Additive Construction:<br/>:aca-blank: Overview, Robotic Solutions, Sustainability, and Future Prospect ([2022-08](date/2022/08))
-<a href="https://doi.org/10.3390/su14159782" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su14159782</a>
+#Large-Scale Automated Additive Construction&nbsp;([2022-08](date/2022/08))
+<div class="h1-like">Overview, Robotic Solutions, Sustainability, and Future Prospect</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/14/15/9782/pdf?version=1660034860) <a href="https://doi.org/10.3390/su14159782" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su14159782" target="_blank">10.3390/su14159782</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8926-2346" title="ORCID: 0000-0001-8926-2346" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b>&nbsp;Mohammad</a></span>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b>&nbsp;Azadeh</a></span><br>
+Journal Article - Sustainability, Vol. 14, Iss. 15
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a> <a href="https://orcid.org/0000-0001-8926-2346" title="ORCID: 0000-0001-8926-2346" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 14, Iss. 15, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#automation`](keyword/automation)
-    [`#construction`](keyword/construction)
-    [`#future`](keyword/future)
-    [`#large`](keyword/large)
-    [`#overview`](keyword/overview)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-    [`#solution`](keyword/solution)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%20Automated%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137030541&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4296450891" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su14159782" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su14159782?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing has drawn significant attention in both academia and industry due to its capabilities and promising potential in various sectors. However, the adoption of this technology in large-scale construction is still limited due to the numerous existing challenges. In this work, a comprehensive review of large-scale automated additive construction, its challenges, and emerging advances with a focus on robotic solutions and environmental sustainability is presented. The potential interrelations of the two topics are also discussed. A new classification scheme of available and emerging robotic solutions in automated additive construction is presented. Moreover, the vision of environmental sustainability is explored through three lenses: process, material, and printed large-scale structures/buildings. Finally, the current challenges and potential future directions are highlighted. The provided state of the art and challenges can be used as a guideline for future research on large-scale automated additive construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "116 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../agus_jipa_habe.2019.EAoMFBECwDFT/">Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -186,8 +165,8 @@ tags:
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ke_zhijiang"><b>Ke</b> Zhijiang</a>, <a href="../../../author/li_zichang"><b>Li</b> Zichang</a>, <a href="../../../author/chen_zhengfei"><b>Chen</b> Zhengfei</a>, <a href="../../../author/xu_yao"><b>Xu</b> Yao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ke_li_chen_xu.2026.TAaCoRAB3PfHTL/">Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/liang_jingwen"><b>Liang</b> Jingwen</a>, <a href="../../../author/zeng_zuo"><b>Zeng</b> Zuo</a>, <a href="../../../author/wang_penglin"><b>Wang</b> Penglin</a>, <a href="../../../author/wang_zhongxu"><b>Wang</b> Zhongxu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lian_zeng_wang_wang.2025.ERM3PS/">Emergency Response Mobile 3D Printing System:<br/>A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges</a></li>
@@ -206,4 +185,34 @@ tags:
       <li><a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/paudel_satish"><b>Paudel</b> Satish</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../tana_jira_paud_tang.2022.EaNIo3PMWUUAC/">Experimental and Numerical Investigation of 3D Printed Mortar Walls Under Uniform Axial Compression</a></li>
       <li><a href="../../../author/salandin_andrea"><b>Salandin</b> Andrea</a>, <a href="../../../author/quintana-gallardo_alberto"><b>Quintana-Gallardo</b> Alberto</a>, <a href="../../../author/gomez-lozano_vicente"><b>Gómez-Lozano</b> Vicente</a>, <a href="../../../author/guillen-guillamon_ignacio"><b>Guillén-Guillamón</b> Ignacio</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sala_quin_gome_guil.2022.TF3PBiS/">The First 3D Printed Building in Spain:<br/>A Study on Its Acoustic, Thermal and Environmental Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khos_hagh.2022.LSAAC,
+      author            = "Mohammad Reza Khosravani and Azadeh Haghighi",
+      title             = "Large-Scale Automated Additive Construction: Overview, Robotic Solutions, Sustainability, and Future Prospect",
+      doi               = "10.3390/su14159782",
+      year              = "2022",
+      journal           = "Sustainability",
+      volume            = "14",
+      number            = "15",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Khosravani  and A. Haghighi, “Large-Scale Automated Additive Construction: Overview, Robotic Solutions, Sustainability, and Future Prospect”, <i>Sustainability</i>, vol. 14, no. 15, 2022, doi: 10.3390/su14159782.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khosravani, Mohammad Reza, and Azadeh Haghighi. “Large-Scale Automated Additive Construction: Overview, Robotic Solutions, Sustainability, and Future Prospect”. <i>Sustainability</i> 14, no. 15 (2022). https://doi.org/10.3390/su14159782.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

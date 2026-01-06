@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Salma Mozaffari, Mackenzie Bruce, Gabrielle Clune, Ruxin Xie, Wesley McGee, Arash Adel
+    - footer
+title: Mozaffari Salma, Bruce Mackenzie, Clune Gabrielle, Xie Ruxin, McGee Wesley, Adel Arash
 description:
 tags:
  - cast
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2023.104969) Digital Design and Fabrication of Clay Formwork for Concrete Casting ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.autcon.2023.104969" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.104969</a>
+#Digital Design and Fabrication of Clay Formwork for Concrete Casting ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2023.104969) <a href="https://doi.org/10.1016/j.autcon.2023.104969" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104969" target="_blank">10.1016/j.autcon.2023.104969</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5364-3849" title="ORCID: 0000-0002-5364-3849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mozaffari_salma"><b>Mozaffari</b>&nbsp;Salma</a></span>, <a href="../../../author/bruce_mackenzie"><b>Bruce</b>&nbsp;Mackenzie</a></span>, <a href="../../../author/clune_gabrielle"><b>Clune</b>&nbsp;Gabrielle</a></span>, <a href="../../../author/xie_ruxin"><b>Xie</b>&nbsp;Ruxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0456-2460" title="ORCID: 0000-0002-0456-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcgee_wesley"><b>McGee</b>&nbsp;Wesley</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1469-9345" title="ORCID: 0000-0003-1469-9345" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adel_arash"><b>Adel</b>&nbsp;Arash</a></span><br>
+Journal Article - Automation in Construction, Vol. 154, No. 104969
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a> <a href="https://orcid.org/0000-0002-5364-3849" title="ORCID: 0000-0002-5364-3849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bruce_mackenzie"><b>Bruce</b> Mackenzie</a>
-,     <a href="../../../author/clune_gabrielle"><b>Clune</b> Gabrielle</a>
-,     <a href="../../../author/xie_ruxin"><b>Xie</b> Ruxin</a>
-,     <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> <a href="https://orcid.org/0000-0002-0456-2460" title="ORCID: 0000-0002-0456-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/adel_arash"><b>Adel</b> Arash</a> <a href="https://orcid.org/0000-0003-1469-9345" title="ORCID: 0000-0003-1469-9345" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 154, No. 104969
-
-:aca-blank:{ .lg .middle}
-    [`#cast`](keyword/cast)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#formwork`](keyword/formwork)
-
-
--------------------------
+<a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Design%20and%20Fabrication%20of%20Clay%20Formwork%20for%20Concrete%20Casting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162197236&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382630024" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.104969" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.104969?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the potential of clay extrusion as formwork for casting customized and buildingscale fiber-reinforced concrete elements. Customizable shapes are produced using clay as cheap, sustainable, and easily demoldable formwork, extending its printable height limit. The coupled incremental clay 3D printing and concrete casting process allows the layered casts to start curing and reduces the hydrostatic pressure from concrete. The concluding case study, the Cocoon, demonstrates the method’s capability to achieve building-scale height, integrate openings, and create complex surfaces. The introduced method seeks to challenge techniques and materials for 3D-printed formworks, demonstrating the ability to reduce the environmental impacts of concrete construction without compromising the complexity and time efficiency of bespoke elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
       <li><a href="../../../author/bruce_mackenzie"><b>Bruce</b> Mackenzie</a>, <a href="../../../author/clune_gabrielle"><b>Clune</b> Gabrielle</a>, <a href="../../../author/xie_ruxin"><b>Xie</b> Ruxin</a>, <a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../bruc_clun_xie_moza.2021.C/">Cocoon:<br/>3D Printed Clay Formwork for Concrete Casting</a></li>
@@ -75,7 +52,6 @@ tags:
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../gebh_burg_mata_llor.2022.TECSwUT3PF/">Towards Efficient Concrete Structures with Ultra-Thin 3D Printed Formwork:<br/>Exploring Reinforcement-Strategies and Optimization</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
-      <li><a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../gurs.2018.FCtUi3PwC/">From Control to Uncertainty in 3D Printing with Clay</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../hube_burg_mata_kauf.2023.SDaToMORRSw3PF/">Structural Design and Testing of Material-Optimized Ribbed RC Slabs with 3D Printed Formwork</a></li>
@@ -97,8 +73,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/abdelaziz_mohamed"><b>Abdelaziz</b> Mohamed</a>, <a href="../../../author/vukorep_ilija"><b>Vukorep</b> Ilija</a>, <a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../abde_vuko_mahd.2025.EE3PCOwIAHADSoRA/">Exploring Extreme 3D Printed Clay Overhangs with Integrated Active Hot Air Drying System on Robotic Arm</a></li>
       <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bajw_flem_sama_bao.2025.So3PT/">Sustainability of 3D Printing Technology:<br/>A Review on Research Trends and Developments</a></li>
@@ -115,4 +91,34 @@ tags:
       <li><a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a>, <a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a>, <a href="../../../author/qian_xidong"><b>Qian</b> Xidong</a>, <a href="../../../author/jin_zihao"><b>Jin</b> Zihao</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../xu_jin_qian_jin.2024.MCoIGWBBtCPF/">Mass-Customization of Integrated Green Wall Building Blocks through Clay Printing Formwork</a></li>
       <li><a href="../../../author/wang_xianlin"><b>Wang</b> Xianlin</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a>, <a href="../../../author/yoo_doo-yeol"><b>Yoo</b> Doo-Yeol</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_bant_yoo.2023.RBPi3CP/">Reinforcement Bond Performance in 3D Concrete Printing:<br/>Explainable Ensemble Learning Augmented by Deep Generative Adversarial Networks</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moza_bruc_clun_xie.2023.DDaFoCFfCC,
+      author            = "Salma Mozaffari and Mackenzie Bruce and Gabrielle Clune and Ruxin Xie and Wesley McGee and Arash Adel",
+      title             = "Digital Design and Fabrication of Clay Formwork for Concrete Casting",
+      doi               = "10.1016/j.autcon.2023.104969",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "154",
+      pages             = "104969",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Mozaffari, M. Bruce, G. Clune, R. Xie, W. McGee and A. Adel, “Digital Design and Fabrication of Clay Formwork for Concrete Casting”, <i>Automation in Construction</i>, vol. 154, p. 104969, 2023, doi: 10.1016/j.autcon.2023.104969.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mozaffari, Salma, Mackenzie Bruce, Gabrielle Clune, Ruxin Xie, Wesley McGee, and Arash Adel. “Digital Design and Fabrication of Clay Formwork for Concrete Casting”. <i>Automation in Construction</i> 154 (2023): 104969. https://doi.org/10.1016/j.autcon.2023.104969.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

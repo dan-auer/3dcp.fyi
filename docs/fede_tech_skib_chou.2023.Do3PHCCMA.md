@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Karol Federowicz, Mateusz Techman, Szymon Skibicki, Mehdi Chougan, Ahmed Khayatt, H. Saudi, Jarosław Błyszko, Mohamed Elrahman, Sang-Yeop Chung, Paweł Sikora
+    - footer
+title: Federowicz Karol, Techman Mateusz, Skibicki Szymon, Chougan Mehdi, Khayatt Ahmed, Saudi H., Błyszko Jarosław, Elrahman Mohamed, Chung Sang-Yeop, Sikora Paweł
 description:
 tags:
  - aggregate
@@ -14,36 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2023.112246) Development of 3D Printed Heavyweight Concrete Containing Magnetite-Aggregate ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.matdes.2023.112246" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2023.112246</a>
+#Development of 3D Printed Heavyweight Concrete Containing Magnetite-Aggregate ([2023-08](date/2023/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2023.112246) <a href="https://doi.org/10.1016/j.matdes.2023.112246" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2023.112246" target="_blank">10.1016/j.matdes.2023.112246</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/federowicz_karol"><b>Federowicz</b>&nbsp;Karol</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/techman_mateusz"><b>Techman</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5482-8848" title="ORCID: 0000-0001-5482-8848" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayatt_m_ahmed"><b>el&nbsp;Khayatt</b>&nbsp;Ahmed</a></span>, <a href="../../../author/saudi_a_h"><b>Saudi</b>&nbsp;H.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0870-119X" title="ORCID: 0000-0002-0870-119X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blyszko_jaroslaw"><b>Błyszko</b>&nbsp;Jarosław</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6993-2725" title="ORCID: 0000-0002-6993-2725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/elrahman_mohamed"><b>abd&nbsp;Elrahman</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8295-8137" title="ORCID: 0000-0002-8295-8137" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chung_sang-yeop"><b>Chung</b>&nbsp;Sang-Yeop</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span><br>
+Journal Article - Materials & Design, Vol. 233, No. 112246
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> <a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> <a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khayatt_m_ahmed"><b>el Khayatt</b> Ahmed</a> <a href="https://orcid.org/0000-0001-5482-8848" title="ORCID: 0000-0001-5482-8848" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/saudi_a_h"><b>Saudi</b> H.</a>
-,     <a href="../../../author/blyszko_jaroslaw"><b>Błyszko</b> Jarosław</a> <a href="https://orcid.org/0000-0002-0870-119X" title="ORCID: 0000-0002-0870-119X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/elrahman_mohamed"><b>abd Elrahman</b> Mohamed</a> <a href="https://orcid.org/0000-0002-6993-2725" title="ORCID: 0000-0002-6993-2725" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> <a href="https://orcid.org/0000-0002-8295-8137" title="ORCID: 0000-0002-8295-8137" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, Vol. 233, No. 112246
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#development`](keyword/development)
-    [`#heavy`](keyword/heavy)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/heavy"><button class="btn">#heavy</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printed%20Heavyweight%20Concrete%20Containing%20Magnetite-Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85168544982&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385804369" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2023.112246" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2023.112246?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The main objective of this study is to develop 3D printed heavyweight concrete (3DPHWC) to produce elements with a dry density of up to 3500 kg/m3 by replacing natural aggregate (SA) with magnetite aggregate (MA) up to 100%. A comprehensive systematic study was conducted to thoroughly assess mixtures’ mechanical properties, physical proficiency, fresh properties, and printing qualities. The inclusion of MA exhibited the desired fresh properties required for 3D printing and promising physical and mechanical properties. Evaluation of the mechanical properties of designed 3DPHWC indicates that replacing SA with MA increases both cast and printed samples’ strengths. The 3D printed M100 sample achieved higher 28 days flexural and compressive strengths by 18 % and 20 %, respectively, compared to printed control mix (M0). Micro-CT study correspondingly demonstrated improvements in the composites’ porosity, pore size, and pore morphologies. The linear attenuation coefficients (LACs) and half-value layer (HVLs) for slow neutron and gamma-ray were measured to assess radiation shielding characteristics. A significant performance improvement was obtained for slow neutrons by introducing the magnetite aggregate. Unlike slow neutrons, no significant difference was observed between cast and printed samples against γ-rays. Moreover, the effect of porosity on the shielding performance was discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chou_ghaf_siko_chun.2021.IoAIoRMaMPo3PAAM/">Investigation of Additive Incorporation on Rheological, Microstructural and Mechanical Properties of 3D Printable Alkali-Activated Materials</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -94,8 +68,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/szewczyk_piotr"><b>Szewczyk</b> Piotr</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../siko_skib_chou_szew.2025.SCAoBaGOf3PCA/">Silica-Coated Admixtures of Bismuth and Gadolinium Oxides for 3D Printed Concrete Applications:<br/>Rheology, Hydration, Strength, Microstructure, and Radiation Shielding Perspective</a></li>
@@ -105,4 +79,34 @@ tags:
       <li><a href="../../../author/shoaei_parham"><b>Shoaei</b> Parham</a>, <a href="../../../author/gallantree-smith_harrison"><b>Gallantree-Smith</b> Harrison</a>, <a href="../../../author/martinez-pacheco_victor"><b>Martínez Pacheco</b> Victor</a>, <a href="../../../author/pamies_ramon"><b>Pamies</b> Ramón</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../shoa_gall_mart_pami.2024.CAo3PoPCMwHMaMFCaVMA/">Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/szewczyk_piotr"><b>Szewczyk</b> Piotr</a>, <a href="../../../author/majewska_julia"><b>Majewska</b> Julia</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../skib_szew_maje_sibe.2024.TEoILAoSDi3PBE/">The Effect of Inter-Layer Adhesion on Stress-Distribution in 3D Printed Beam Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fede_tech_skib_chou.2023.Do3PHCCMA,
+      author            = "Karol Federowicz and Mateusz Techman and Szymon Skibicki and Mehdi Chougan and Ahmed M. El Khayatt and H. A. Saudi and Jarosław Błyszko and Mohamed Abd Elrahman and Sang-Yeop Chung and Paweł Sikora",
+      title             = "Development of 3D Printed Heavyweight Concrete Containing Magnetite-Aggregate",
+      doi               = "10.1016/j.matdes.2023.112246",
+      year              = "2023",
+      journal           = "Materials & Design",
+      volume            = "233",
+      pages             = "112246",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Federowicz, “Development of 3D Printed Heavyweight Concrete Containing Magnetite-Aggregate”, <i>Materials & Design</i>, vol. 233, p. 112246, 2023, doi: 10.1016/j.matdes.2023.112246.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Federowicz, Karol, Mateusz Techman, Szymon Skibicki, Mehdi Chougan, Ahmed M. El Khayatt, H. A. Saudi, Jarosław Błyszko, Mohamed Abd Elrahman, Sang-Yeop Chung, and Paweł Sikora. “Development of 3D Printed Heavyweight Concrete Containing Magnetite-Aggregate”. <i>Materials & Design</i> 233 (2023): 112246. https://doi.org/10.1016/j.matdes.2023.112246.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

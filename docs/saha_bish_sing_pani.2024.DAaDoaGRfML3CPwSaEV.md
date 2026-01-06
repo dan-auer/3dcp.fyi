@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rajan Sahai, Ravindra Bisht, Siddharth Singh, Soraj Panigrahi
+    - footer
+title: Sahai Rajan, Bisht Ravindra, Singh Siddharth, Panigrahi Soraj
 description:
 tags:
  - analysis
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design-Analysis and Development of a Gantry Robot for Multi-Layer 3D Concrete Printing with Simulation and Experimental Validation ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1080/15397734.2024.2377266" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/15397734.2024.2377266</a>
+#Design-Analysis and Development of a Gantry Robot for Multi-Layer 3D Concrete Printing with Simulation and Experimental Validation ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/15397734.2024.2377266" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15397734.2024.2377266" target="_blank">10.1080/15397734.2024.2377266</a>
 
--------------------------
+<a href="../../../author/sahai_rajan"><b>Sahai</b>&nbsp;Rajan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5833-3703" title="ORCID: 0000-0001-5833-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bisht_singh_ravindra"><b>Bisht</b>&nbsp;Ravindra</a></span>, <a href="../../../author/singh_siddharth"><b>Singh</b>&nbsp;Siddharth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8927-8302" title="ORCID: 0000-0002-8927-8302" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b>&nbsp;Soraj</a></span><br>
+Journal Article - Mechanics Based Design of Structures and Machines, pp. 1-30
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>
-,     <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a> <a href="https://orcid.org/0000-0001-5833-3703" title="ORCID: 0000-0001-5833-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_siddharth"><b>Singh</b> Siddharth</a>
-,     <a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b> Soraj</a> <a href="https://orcid.org/0000-0002-8927-8302" title="ORCID: 0000-0002-8927-8302" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Mechanics Based Design of Structures and Machines, pp. 1-30
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#development`](keyword/development)
-    [`#experiment`](keyword/experiment)
-    [`#gantry`](keyword/gantry)
-    [`#layer`](keyword/layer)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#simulation`](keyword/simulation)
-    [`#validation`](keyword/validation)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/gantry"><button class="btn">#gantry</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design-Analysis%20and%20Development%20of%20a%20Gantry%20Robot%20for%20Multi-Layer%203D%20Concrete%20Printing%20with%20Simulation%20and%20Experimental%20Validation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198737304&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400737228" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/15397734.2024.2377266" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/15397734.2024.2377266?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The present study investigates the design analysis and development of a framed gantry robot (FGR) for 3-D concrete printing. Finite element simulations are performed for design validation and parameter estimation to conduct detailed analysis of the concrete printer. The kinematic and dynamic models of FGR are used for workspace analysis, motion control study, and motor sizing for printer development. The motion trajectory of the printer nozzle tip is evaluated using MATLAB simulations. An integrated programmable logic controller (PLC) with an in-built human-machine interface (HMI) through control algorithms has been implemented for interactive, user-friendly, and precise motion control. A separate control system is developed to monitor the pumping power and feed rate of mortar mix during printing. The simulated control scheme is validated experimentally using trajectory tracking for various input printing paths through HMI, with a maximum tracking error of 1 mm. Successful concrete printing trials have been conducted using various mix-design, following extensive evaluation of different printer and material parameters at the laboratory scale. The proposed design concept, mechanisms, interactive control interface, and tracking accuracy have been validated through simulation and experimental results, for ensuring quality concrete prints by the developed printer. Material testing parameters have been evaluated experimentally for modeling various mix-designs. To further evaluate printing performance, simulations of layer deformation in printed structures are conducted using finite element analysis, incorporating non-linear material models and various contact layer interactions. The simulated results of printed layers of different shapes of structures show a close resemblance with the experimental concrete printing trials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -99,9 +73,39 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bassi_utkarsh"><b>Bassi</b> Utkarsh</a>, <a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/verma_kumar_yash"><b>Verma</b> Yash</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bass_saha_bish_verm.2026.DAaDoaB3CP/">Design Analysis and Development of a Benchtop 3D Concrete Printer</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/hiremath_shivashankarayya"><b>Hiremath</b> Shivashankarayya</a>, <a href="../../../author/mathapati_shrishail_gururaj"><b>Mathapati</b> Gururaj</a>, <a href="../../../author/chiniwar_s_dundesh"><b>Chiniwar</b> Dundesh</a>, <a href="../../../author/vishwanatha_m_h"><b>Vishwanatha</b> H.</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../hire_math_chin_vish.2025.PEoCCbDaESfC3P/">Performance Evaluation of Cementitious Composites by Designing an Extrusion System for Construction 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{saha_bish_sing_pani.2024.DAaDoaGRfML3CPwSaEV,
+      author            = "Rajan Sahai and Ravindra Singh Bisht and Siddharth Singh and Soraj Kumar Panigrahi",
+      title             = "Design-Analysis and Development of a Gantry Robot for Multi-Layer 3D Concrete Printing with Simulation and Experimental Validation",
+      doi               = "10.1080/15397734.2024.2377266",
+      year              = "2024",
+      journal           = "Mechanics Based Design of Structures and Machines",
+      pages             = "1--30",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Sahai, R. S. Bisht, S. Singh and S. K. Panigrahi, “Design-Analysis and Development of a Gantry Robot for Multi-Layer 3D Concrete Printing with Simulation and Experimental Validation”, <i>Mechanics Based Design of Structures and Machines</i>, pp. 1–30, 2024, doi: 10.1080/15397734.2024.2377266.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sahai, Rajan, Ravindra Singh Bisht, Siddharth Singh, and Soraj Kumar Panigrahi. “Design-Analysis and Development of a Gantry Robot for Multi-Layer 3D Concrete Printing with Simulation and Experimental Validation”. <i>Mechanics Based Design of Structures and Machines</i>, 2024, 1–30. https://doi.org/10.1080/15397734.2024.2377266.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

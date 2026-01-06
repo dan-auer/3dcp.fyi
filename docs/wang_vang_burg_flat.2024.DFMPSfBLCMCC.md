@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Timothy Wangler, Kathrina Vangen, Joris Burger, Robert Flatt
+    - footer
+title: Wangler Timothy, Vangen Kathrina, Burger Joris, Flatt Robert
 description:
 tags:
  - bespoke
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matpr.2024.05.043) Digital Fabrication Material-Processing-Strategy for Bespoke Low-Clinker Mass-Concrete Components ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.matpr.2024.05.043" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2024.05.043</a>
+#Digital Fabrication Material-Processing-Strategy for Bespoke Low-Clinker Mass-Concrete Components ([2024-05](date/2024/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matpr.2024.05.043) <a href="https://doi.org/10.1016/j.matpr.2024.05.043" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2024.05.043" target="_blank">10.1016/j.matpr.2024.05.043</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <a href="../../../author/vangen_kathrina"><b>Vangen</b>&nbsp;Kathrina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/burger_jan_joris"><b>Burger</b>&nbsp;Joris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vangen_kathrina"><b>Vangen</b> Kathrina</a>
-,     <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a> <a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bespoke`](keyword/bespoke)
-    [`#clinker`](keyword/clinker)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#low`](keyword/low)
-    [`#mass`](keyword/mass)
-    [`#material`](keyword/material)
-    [`#process`](keyword/process)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/bespoke"><button class="btn">#bespoke</button></a> <a href="../../keyword/clinker"><button class="btn">#clinker</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/mass"><button class="btn">#mass</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20Material-Processing-Strategy%20for%20Bespoke%20Low-Clinker%20Mass-Concrete%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396829075" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2024.05.043" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2024.05.043?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital manufacturing techniques are seen to be very promising in concrete construction because of their potential for increasing productivity, as well as their potential to increase sustainability due to reduced material usage via nonstandard geometry. Concrete 3D printing via extrusion has received the most attention as a method, however the problem of implementing reinforcement remains unresolved; therefore, printed concrete typically serves as either a formwork or as unreinforced masonry. The recently developed technique of Digital Casting allows for digitally produced concrete components that implement standard reinforcement bars. The technique was developed especially for digitally produced, nonstandard formworks, and relies on controlled set acceleration of a self-compacting concrete to control formwork pressure during production. Digital fabrication techniques such as Digital Casting (and 3D Printing), however, have notoriously high cement contents due to processing requirements, and this may negate any sustainability benefit that can be realized through material savings in a bespoke concrete component. Research efforts to bring these cement contents closer to standard concretes have focused on: 1) reducing paste content through increased aggregate content and 2) reducing clinker content through substitutions, with most recent efforts focused on the latter. A recent project demonstrated, additionally, that elevated clinker contents negatively impact the casting of mass concrete elements due to high heat generation, which limits the applicability of digital fabrication for mass concrete applications. In this study, the use of a CEMIII (slag substituted cement) based mix design for this type of application was examined. The mix was successfully accelerated to control formwork pressure in a digital casting process of a thick (>1 m) bespoke element with overhang, and internal temperatures monitored. The reduced heat release generated temperatures of only half of those generated by a previous mix design with higher clinker content.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -91,7 +66,35 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_vang_burg_flat.2024.DFMPSfBLCMCC,
+      author            = "Timothy Paul Wangler and Kathrina Vangen and Joris Jan Burger and Robert Johann Flatt",
+      title             = "Digital Fabrication Material-Processing-Strategy for Bespoke Low-Clinker Mass-Concrete Components",
+      doi               = "10.1016/j.matpr.2024.05.043",
+      year              = "2024",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. P. Wangler, K. Vangen, J. J. Burger and R. J. Flatt, “Digital Fabrication Material-Processing-Strategy for Bespoke Low-Clinker Mass-Concrete Components”, <i>Materials Today: Proceedings</i>, 2024, doi: 10.1016/j.matpr.2024.05.043.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wangler, Timothy Paul, Kathrina Vangen, Joris Jan Burger, and Robert Johann Flatt. “Digital Fabrication Material-Processing-Strategy for Bespoke Low-Clinker Mass-Concrete Components”. <i>Materials Today: Proceedings</i>, 2024. https://doi.org/10.1016/j.matpr.2024.05.043.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #remote
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/arash_motalebi"><b>Arash</b> Motalebi</a>, <a href="../../../author/mohammad_hasan-khondoker_aba"><b>Mohammad</b> Aba</a>, <a href="../../../author/golam_kabir"><b>Golam</b> Kabir</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../aras_moha_gola.2025.AtEIoBHiRA/">Assessing the Environmental Impact of Building Houses in Remote Areas:<br/>3D Printing vs. Traditional Construction Techniques</a></li>
   <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
   <li><a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/watson_d_nathan"><b>Watson</b> Nathan</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../meis_wats_bile_duar.2022.DaSCfCSCAMiREvRAD/">Design and System Considerations for Construction-Scale Concrete Additive Manufacturing in Remote Environments via Robotic-Arm-Deposition</a></li>

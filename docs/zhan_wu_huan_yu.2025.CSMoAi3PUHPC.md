@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hui Zhang, Jie Wu, Bo-Tao Huang, Rena Yu, Ming Xia, Jay Sanjayan, Yujie Huang
+    - footer
+title: Zhang Hui, Wu Jie, Huang Bo-Tao, Yu Rena, Xia Ming, Sanjayan Jay, Huang Yujie
 description:
 tags:
  - anisotropy
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.addma.2025.105014" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.105014</a>
+#Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.105014" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.105014" target="_blank">10.1016/j.addma.2025.105014</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0680-6916" title="ORCID: 0000-0002-0680-6916" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hui"><b>Zhang</b>&nbsp;Hui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4107-8336" title="ORCID: 0000-0002-4107-8336" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_jie"><b>Wu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9237-504X" title="ORCID: 0000-0002-9237-504X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_bo-tao"><b>Huang</b>&nbsp;Bo-Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4176-0324" title="ORCID: 0000-0003-4176-0324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_c_rena"><b>Yu</b>&nbsp;Rena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_ming"><b>Xia</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7349-6711" title="ORCID: 0000-0001-7349-6711" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_yujie"><b>Huang</b>&nbsp;Yujie</a></span><br>
+Journal Article - Additive Manufacturing, No. 105014
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> <a href="https://orcid.org/0000-0002-0680-6916" title="ORCID: 0000-0002-0680-6916" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_jie"><b>Wu</b> Jie</a> <a href="https://orcid.org/0000-0002-4107-8336" title="ORCID: 0000-0002-4107-8336" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a> <a href="https://orcid.org/0000-0002-9237-504X" title="ORCID: 0000-0002-9237-504X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> <a href="https://orcid.org/0000-0003-4176-0324" title="ORCID: 0000-0003-4176-0324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_yujie"><b>Huang</b> Yujie</a> <a href="https://orcid.org/0000-0001-7349-6711" title="ORCID: 0000-0001-7349-6711" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 105014
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#cross`](keyword/cross)
-    [`#height`](keyword/height)
-    [`#mechanism`](keyword/mechanism)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cross-Scale%20Mechanisms%20of%20Anisotropy%20in%203D-Printed%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022487292&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415931179" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.105014" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.105014?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Integrating ultra-high-performance concrete (UHPC) into 3D printing (3DP-UHPC) offers a rebar-free reinforcement solution, yet the effect of fibre fraction on micro/meso-structural and mechanical properties remains poorly understood. This study bridges this gap through a multi-scale framework combining DIC, X-ray CT, and in-situ micro-loading to elucidate the interrelations among processing, structure, and performance. Results show that fibre volume fraction significantly affects fracture anisotropy through its impact on interfacial quality, pore morphology, and fibre alignment. Elongated pores are mainly distributed along interlayer and interstrip interfaces, but extrusion-induced “de-airing” enhances matrix densification, reducing porosity below that of cast UHPC. Steel fibres align along the print path, constrained by layer height, with dominant orientations between 60-90°. A novel compression-interlock strip-stacking strategy further improves interlayer compactness by eliminating macro-pores. These improvements lead to superior compressive strength compared to prior reports, attributed to enhanced fibre orientation and matrix density. The study provides a quantitative basis for understanding mechanical anisotropy in 3DP-UHPC and proposes design strategies to optimise fibre distribution, pore architecture, and layer integration, delivering valuable cross-scale insights for tailored material design and enhanced printing control.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -113,7 +88,36 @@ tags:
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhi_chai_teng_akba.2025.ATDo3CPSC/">Automated Toolpath Design of 3D Concrete Printing Structural Components</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/li_jin"><b>Li</b> Jin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS/">Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures:<br/>A Case Study of a Full-Size Two-Story Building</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_wu_huan_yu.2025.CSMoAi3PUHPC,
+      author            = "Hui Zhang and Jie Wu and Bo-Tao Huang and Rena C. Yu and Ming Xia and Jay Gnananandan Sanjayan and Yujie Huang",
+      title             = "Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete",
+      doi               = "10.1016/j.addma.2025.105014",
+      year              = "2025",
+      journal           = "Additive Manufacturing",
+      pages             = "105014",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhang, “Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete”, <i>Additive Manufacturing</i>, p. 105014, 2025, doi: 10.1016/j.addma.2025.105014.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Hui, Jie Wu, Bo-Tao Huang, Rena C. Yu, Ming Xia, Jay Gnananandan Sanjayan, and Yujie Huang. “Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete”. <i>Additive Manufacturing</i>, 2025, 105014. https://doi.org/10.1016/j.addma.2025.105014.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

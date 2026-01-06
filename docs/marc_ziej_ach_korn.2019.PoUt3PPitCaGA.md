@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joanna Marczyk, Celina Ziejewska, Michał Łach, Kinga Korniejenko, Wei-Ting Lin, Marek Hebda
+    - footer
+title: Marczyk Joanna, Ziejewska Celina, Łach Michał, Korniejenko Kinga, Lin Wei-Ting, Hebda Marek
 description:
 tags:
  - application
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1088/1757-899x/706/1/012019) Possibilities of Using the 3D Printing Process in the Concrete and Geopolymers Application ([2019-11](date/2019/11))
-<a href="https://doi.org/10.1088/1757-899x/706/1/012019" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1757-899x/706/1/012019</a>
+#Possibilities of Using the 3D Printing Process in the Concrete and Geopolymers Application ([2019-11](date/2019/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/706/1/012019) <a href="https://doi.org/10.1088/1757-899x/706/1/012019" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/706/1/012019" target="_blank">10.1088/1757-899x/706/1/012019</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3916-4585" title="ORCID: 0000-0002-3916-4585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marczyk_joanna"><b>Marczyk</b>&nbsp;Joanna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6383-7639" title="ORCID: 0000-0002-6383-7639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ziejewska_celina"><b>Ziejewska</b>&nbsp;Celina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5713-9415" title="ORCID: 0000-0001-5713-9415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lach_michal"><b>Łach</b>&nbsp;Michał</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korniejenko_kinga"><b>Korniejenko</b>&nbsp;Kinga</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4792-4457" title="ORCID: 0000-0003-4792-4457" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lin_wei-ting"><b>Lin</b>&nbsp;Wei-Ting</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
+Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 706, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a> <a href="https://orcid.org/0000-0002-3916-4585" title="ORCID: 0000-0002-3916-4585" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a> <a href="https://orcid.org/0000-0002-6383-7639" title="ORCID: 0000-0002-6383-7639" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lach_michal"><b>Łach</b> Michał</a> <a href="https://orcid.org/0000-0001-5713-9415" title="ORCID: 0000-0001-5713-9415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_wei-ting"><b>Lin</b> Wei-Ting</a> <a href="https://orcid.org/0000-0003-4792-4457" title="ORCID: 0000-0003-4792-4457" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 706, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Possibilities%20of%20Using%20the%203D%20Printing%20Process%20in%20the%20Concrete%20and%20Geopolymers%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078239032&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2991561776" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1757-899x/706/1/012019" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1757-899x/706/1/012019?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing, also known as three-dimension printing (3DP) has a lot of advantages over traditional construction technology, including high building efficient, less construction wastes and greatly reduced labor. This paper presents the possibility of applying this technique to 3D printing of geopolymers and concrete. Moreover, a general overview of the research and progress of 3D printing of geopolymers and concrete in recent times was characterized. This paper also identifies the most interesting and innovative solutions in this area and highlights emerging trends to stimulate further research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -79,10 +58,40 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/dziura_pawel"><b>Dziura</b> Paweł</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../maro_rudz_huty_dziu.2024.Eo3CPEE/">Evaluation of 3D Concrete Printing Extrusion-Efficiency</a></li>
       <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a></li>
       <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../marc_ziej_gade_korn.2021.HMBoFAMaCf3P/">Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{marc_ziej_ach_korn.2019.PoUt3PPitCaGA,
+      author            = "Joanna Marczyk and Celina Ziejewska and Michał Łach and Kinga Korniejenko and Wei-Ting Lin and Marek Hebda",
+      title             = "Possibilities of Using the 3D Printing Process in the Concrete and Geopolymers Application",
+      doi               = "10.1088/1757-899x/706/1/012019",
+      year              = "2019",
+      journal           = "IOP Conference Series: Materials Science and Engineering",
+      volume            = "706",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Marczyk, C. Ziejewska, M. Łach, K. Korniejenko, W.-T. Lin and M. Hebda, “Possibilities of Using the 3D Printing Process in the Concrete and Geopolymers Application”, <i>IOP Conference Series: Materials Science and Engineering</i>, vol. 706, no. 1, 2019, doi: 10.1088/1757-899x/706/1/012019.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Marczyk, Joanna, Celina Ziejewska, Michał Łach, Kinga Korniejenko, Wei-Ting Lin, and Marek Hebda. “Possibilities of Using the 3D Printing Process in the Concrete and Geopolymers Application”. <i>IOP Conference Series: Materials Science and Engineering</i> 706, no. 1 (2019). https://doi.org/10.1088/1757-899x/706/1/012019.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

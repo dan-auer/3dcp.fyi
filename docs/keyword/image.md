@@ -8,7 +8,7 @@ search:
 
 # #image
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC/">Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation</a></li>
   <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sand_step.2025.OMf3PG/">Online Monitoring for 3D Printable Geopolymers:<br/>Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects</a></li>
   <li><a href="../../../author/gautam_kushagra"><b>Gautam</b> Kushagra</a>, <a href="../../../author/solav_dana"><b>Solav</b> Dana</a>, <a href="../../../author/barath_shany"><b>Barath</b> Shany</a>, <a href="../../../author/austern_guy"><b>Austern</b> Guy</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../gaut_sola_bara_aust.2025.UDICtADiWBLDM/">Using Digital Image Correlation to Analyze Deformation in Wood-Based Liquid Deposition Modelling</a></li>

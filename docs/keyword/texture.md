@@ -8,7 +8,7 @@ search:
 
 # #texture
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sent_raph.2025.PBUtSTo3PCE/">Predicting Buildability Using the Surface Texture of 3D Printed Concrete Elements</a></li>
   <li><a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b> Wannapol</a>, <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b> Santirak</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sada_pras_pras.2024.ItSEoTTDCPWbAD/">Improving the Structural Efficiency of Textured Three-Dimensional Concrete Printing Wall by Architectural Design</a></li>
   <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../sent_raph.2023.QMoC3PEUCVBTET/">Quality Monitoring of Concrete 3D Printed Elements Using Computer-Vision-Based Texture Extraction Technique</a></li>

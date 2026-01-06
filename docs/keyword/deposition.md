@@ -8,7 +8,7 @@ search:
 
 # #deposition
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_l_chenglin"><b>Li</b> Chenglin</a>, <a href="../../../author/jiao_c_y"><b>Jiao</b> Y.</a>, <a href="../../../author/ren_kai"><b>Ren</b> Kai</a>, <a href="../../../author/liu_n"><b>Liu</b> N.</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_jiao_ren_liu.2026.ANPMSfDRMAM/">A Novel Pivot-Move Strategy for Dual-Robot Manipulator Additive Manufacturing:<br/>Enabling Collision Avoidance Without Halting Deposition</a></li>
   <li><a href="../../../author/gasmi_abrar"><b>Gasmi</b> Abrar</a>, <a href="../../../author/guessasma_mohamed"><b>Guessasma</b> Mohamed</a>, <a href="../../../author/davidovits_ralph"><b>Davidovits</b> Ralph</a>, <a href="../../../author/pelegris_christine"><b>Pélegris</b> Christine</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gasm_gues_davi_pele.2025.UAEi3PGC/">Unveiling Additive Effects in 3D Printed Geopolymer Composites:<br/>A Multi-Scale Analysis Coupling Rheological Insights and CFD-Optimized Deposition</a></li>
   <li><a href="../../../author/gautam_kushagra"><b>Gautam</b> Kushagra</a>, <a href="../../../author/solav_dana"><b>Solav</b> Dana</a>, <a href="../../../author/barath_shany"><b>Barath</b> Shany</a>, <a href="../../../author/austern_guy"><b>Austern</b> Guy</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../gaut_sola_bara_aust.2025.UDICtADiWBLDM/">Using Digital Image Correlation to Analyze Deformation in Wood-Based Liquid Deposition Modelling</a></li>

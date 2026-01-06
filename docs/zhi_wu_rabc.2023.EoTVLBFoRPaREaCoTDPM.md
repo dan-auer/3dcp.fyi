@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Peng Zhi, Yuching Wu, Timon Rabczuk
+    - footer
+title: Zhi Peng, Wu Yuching, Rabczuk Timon
 description:
 tags:
  - bridge
@@ -23,38 +24,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Time-Varying Liquid Bridge Forces on Rheological Properties, and Resulting Extrudability and Constructability of Three-Dimensional Printing Mortar ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1007/s11709-023-0999-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-023-0999-1</a>
+#Effects of Time-Varying Liquid Bridge Forces on Rheological Properties, and Resulting Extrudability and Constructability of Three-Dimensional Printing Mortar ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-023-0999-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-023-0999-1" target="_blank">10.1007/s11709-023-0999-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3690-5018" title="ORCID: 0000-0002-3690-5018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_peng"><b>Zhi</b>&nbsp;Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_yuching"><b>Wu</b>&nbsp;Yuching</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7150-296X" title="ORCID: 0000-0002-7150-296X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rabczuk_timon"><b>Rabczuk</b>&nbsp;Timon</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a> <a href="https://orcid.org/0000-0002-3690-5018" title="ORCID: 0000-0002-3690-5018" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> <a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rabczuk_timon"><b>Rabczuk</b> Timon</a> <a href="https://orcid.org/0000-0002-7150-296X" title="ORCID: 0000-0002-7150-296X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bridge`](keyword/bridge)
-    [`#construction`](keyword/construction)
-    [`#dimension`](keyword/dimension)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#force`](keyword/force)
-    [`#liquid`](keyword/liquid)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#result`](keyword/result)
-    [`#rheology`](keyword/rheology)
-    [`#three`](keyword/three)
-    [`#time`](keyword/time)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/force"><button class="btn">#force</button></a> <a href="../../keyword/liquid"><button class="btn">#liquid</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/result"><button class="btn">#result</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Time-Varying%20Liquid%20Bridge%20Forces%20on%20Rheological%20Properties%2C%20and%20Resulting%20Extrudability%20and%20Constructability%20of%20Three-Dimensional%20Printing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171481482&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388834001" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-023-0999-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-023-0999-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrudability and constructability are two important, yet contradictory issues pertaining to the construction of three-dimensional (3D) printing concrete. Extrudability is easily achieved when 3D printing cement mortar has a high water content and low cohesion, but the printed structure is easily collapsible. However, a 3D printing cement mortar with a low water content and high cohesion has a relatively stable printed structure although the cement mortar might not be extrudable. This study proposes a particle-based method to simulate 3D printing mortar extrusion and construction as an overall planning tool for building design. First, a discrete element model with time-varying liquid bridge forces is developed to investigate the microscopic effects of these forces on global rheological properties. Next, a series of numerical simulations relevant to 3D printable mortar extrudability and constructability are carried out. The study demonstrates that the effects of time-varying liquid bridge forces on rheological properties and the resulting extrudability and constructability of 3D printing mortar are considerable. Furthermore, an optimized region that satisfies both the extrusion and construction requirements is provided for 3D printing industry as a reference.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -105,10 +77,37 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
       <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/guan_yongying"><b>Guan</b> Yongying</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_guan_zhu_han.2025.IoESSaDotMPaPCo3PGC/">Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete</a></li>
-      <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhi_wu_rabc.2023.EoTVLBFoRPaREaCoTDPM,
+      author            = "Peng Zhi and Yuching Wu and Timon Rabczuk",
+      title             = "Effects of Time-Varying Liquid Bridge Forces on Rheological Properties, and Resulting Extrudability and Constructability of Three-Dimensional Printing Mortar",
+      doi               = "10.1007/s11709-023-0999-1",
+      year              = "2023",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Zhi, Y. Wu and T. Rabczuk, “Effects of Time-Varying Liquid Bridge Forces on Rheological Properties, and Resulting Extrudability and Constructability of Three-Dimensional Printing Mortar”, <i>Frontiers of Structural and Civil Engineering</i>, 2023, doi: 10.1007/s11709-023-0999-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhi, Peng, Yuching Wu, and Timon Rabczuk. “Effects of Time-Varying Liquid Bridge Forces on Rheological Properties, and Resulting Extrudability and Constructability of Three-Dimensional Printing Mortar”. <i>Frontiers of Structural and Civil Engineering</i>, 2023. https://doi.org/10.1007/s11709-023-0999-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

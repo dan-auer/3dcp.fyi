@@ -8,7 +8,7 @@ search:
 
 # #glass
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sing_zhao_sun.2025.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D-Printed Concrete Through Recycled Ultra-Fine Waste Glass Powder:<br/>Corrigendum</a></li>
   <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/lin_chih-chieh"><b>Lin</b> Chih-Chieh</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../li_lin_syu_huan.2025.E3PCMwRPGF/">Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers:<br/>Printability, Mechanical Strength, and FEM-Based Structural Assessment</a></li>
   <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>

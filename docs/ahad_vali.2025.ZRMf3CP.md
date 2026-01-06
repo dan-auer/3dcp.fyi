@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bahram Ahadi, María Valiente López
+    - footer
+title: Ahadi Bahram, Valiente López María
 description:
 tags:
  - concrete
@@ -12,26 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/10/1721/pdf?version=1747660157) Zigzag Reinforcement Method for 3D Concrete Printing ([2025-05](date/2025/05))
-<a href="https://doi.org/10.3390/buildings15101721" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15101721</a>
+#Zigzag Reinforcement Method for 3D Concrete Printing ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/10/1721/pdf?version=1747660157) <a href="https://doi.org/10.3390/buildings15101721" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15101721" target="_blank">10.3390/buildings15101721</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5043-2990" title="ORCID: 0000-0002-5043-2990" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahadi_bahram"><b>Ahadi</b>&nbsp;Bahram</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8643-7921" title="ORCID: 0000-0001-8643-7921" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b>&nbsp;María</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 10, No. 1721
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a> <a href="https://orcid.org/0000-0002-5043-2990" title="ORCID: 0000-0002-5043-2990" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="https://orcid.org/0000-0001-8643-7921" title="ORCID: 0000-0001-8643-7921" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 10, No. 1721
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Zigzag%20Reinforcement%20Method%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006549647&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410494255" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15101721" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15101721?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-Dimensional Concrete Printing (3DCP) is transforming the construction industry by offering faster, more cost-effective, and sustainable building solutions. However, a major challenge that hinders its full potential is the low tensile strength of concrete, which, as in conventional methods, necessitates reinforcement. Unlike traditional construction, integrating reinforcement into the automated 3D printing process is complex and remains a critical research gap. In this study, zigzag-reinforcing method, that could be classified as an in-process interlayer reinforcement in 3DCP, is proposed. To investigate the effect of the proposed reinforcement technique, an analytical study was conducted using Abaqus finite-element software. Four beam models with different reinforcement configurations were considered: an unreinforced control specimen, two Nitinol-reinforced beams (one exhibiting superelastic behavior and the other the shape memory effect), and a steel-reinforced beam. Three-point bending tests were simulated using a displacementcontrolled, centrally applied load. The results showed that zigzag reinforcement improved flexibility and prevented sudden failure. The Nitinol-reinforced sample with superelastic behavior failed at a displacement of 2.67 mm, approximately 37 times greater than the 0.07 mm failure displacement of the unreinforced beam. Unlike the unreinforced specimen, where cracks propagated vertically, the zigzag reinforcement redirected crack propagation horizontally, allowing the beams to carry more load. Additionally, the steel-reinforced sample demonstrated a 68% increase in maximum flexural moment and a 286% increase in flexibility compared to the control specimen. Overall, zigzag reinforcement significantly enhanced the mechanical performance of the samples, and if its durability and other practical parameters are validated through experimental studies, it could be considered a promising reinforcement technique for use in 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a>, <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../ahad_vali.2022.UoNSMAitRo3CPI/">Use of Nitinol-Shape Memory Alloy in the Reinforcement of 3D Concrete Printing Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -92,7 +76,38 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/tian_zehao"><b>Tian</b> Zehao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_tian_ma_zhan.2020.ILBIo3PCwPMM/">Inter-Layer Bonding Improvement of 3D Printed Concrete with Polymer-Modified Mortar:<br/>Experiments and Molecular Dynamics Studies</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ahad_vali.2025.ZRMf3CP,
+      author            = "Bahram Ahadi and María Mercedes Valiente López",
+      title             = "Zigzag Reinforcement Method for 3D Concrete Printing",
+      doi               = "10.3390/buildings15101721",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "10",
+      pages             = "1721",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Ahadi  and M. M. V. López, “Zigzag Reinforcement Method for 3D Concrete Printing”, <i>Buildings</i>, vol. 15, no. 10, p. 1721, 2025, doi: 10.3390/buildings15101721.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ahadi, Bahram, and María Mercedes Valiente López. “Zigzag Reinforcement Method for 3D Concrete Printing”. <i>Buildings</i> 15, no. 10 (2025): 1721. https://doi.org/10.3390/buildings15101721.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

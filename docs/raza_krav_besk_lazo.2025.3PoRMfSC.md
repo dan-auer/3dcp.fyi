@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Raza, Ekaterina Kravchenko, Svetlana Besklubova, Georgy Lazorenko, Maxim Markelow, Anton Kasprzhitskii, Ray Zhong
+    - footer
+title: Raza Muhammad, Kravchenko Ekaterina, Besklubova Svetlana, Lazorenko Georgy, Markelow Maxim, Kasprzhitskii Anton, Zhong Ray
 description:
 tags:
  - assessment
@@ -18,37 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.rser.2025.116059) 3D Printing of Recycled Materials for Sustainable Construction:<br/>:aca-blank: A Comprehensive Economic and Life Cycle Assessment ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.rser.2025.116059" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rser.2025.116059</a>
+#3D Printing of Recycled Materials for Sustainable Construction&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">A Comprehensive Economic and Life Cycle Assessment</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rser.2025.116059) <a href="https://doi.org/10.1016/j.rser.2025.116059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rser.2025.116059" target="_blank">10.1016/j.rser.2025.116059</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8935-5793" title="ORCID: 0000-0002-8935-5793" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b>&nbsp;Ekaterina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b>&nbsp;Georgy</a></span>, <a href="../../../author/markelow_maxim"><b>Markelow</b>&nbsp;Maxim</a></span>, <a href="../../../author/kasprzhitskii_anton"><b>Kasprzhitskii</b>&nbsp;Anton</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_y_ray"><b>Zhong</b>&nbsp;Ray</a></span><br>
+Journal Article - Renewable and Sustainable Energy Reviews, Vol. 223, No. 116059
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a> <a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a> <a href="https://orcid.org/0000-0002-8935-5793" title="ORCID: 0000-0002-8935-5793" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> <a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a>
-,     <a href="../../../author/markelow_maxim"><b>Markelow</b> Maxim</a>
-,     <a href="../../../author/kasprzhitskii_anton"><b>Kasprzhitskii</b> Anton</a>
-,     <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Renewable and Sustainable Energy Reviews, Vol. 223, No. 116059
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#comprehension`](keyword/comprehension)
-    [`#construction`](keyword/construction)
-    [`#cycle`](keyword/cycle)
-    [`#economic`](keyword/economic)
-    [`#life`](keyword/life)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Recycled%20Materials%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009694492&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412056410" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rser.2025.116059" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rser.2025.116059?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The demand for sustainable materials and technologies has risen due to the construction sector's substantial impact on the ecosystem, natural resources and human health. Therefore, this study aims to investigate the sustainability potential of recycled materials for the construction 3D printing (3DP) process. Mortar mixtures are designed using recycled binder materials (fly ash and blast furnace slag) and aggregate materials (waste concrete-based recycled fine aggregate (RFA)) for the 3D printing process. The adequacy of different geopolymer mixtures for the printing process is assessed through the open time, slump and spread diameter. The results showed that geopolymer mixtures containing RFA offered adequate fresh properties and more dimensional stability for the 3D printing process. The compression testing of the RFA-based geopolymers (along with different testing orientations) also yields better strength than the natural fine aggregate (NFA) in 3D printing. Apart from lab-scale experimentation, a case study of 3D printed and casted walls (using NFA and RFA based geopolymer mixtures) has been considered for comprehensive economic and life cycle analysis (LCA). The results showed that the 3D printed wall using RFA offered a lower burden on the ecosystem, natural resources, and human health; moreover, the lowest cost was observed in the case of the 3D printed wall containing RFA. The higher overall environmental and economic impact of casted wall was primarily due to the usage of plywood formwork. Sensitivity analysis showed that reusing formwork up to 10 times can potentially reduce economic and ecological burdens, depending on construction complexity, but still, traditional construction's overall burden remains higher than 3D printing. As 3D printing technology matures and economies of scale are realized, 3D printing is expected to reduce costs and environmental impacts further.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
@@ -110,8 +84,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yori_liza_sleb_blan.2022.LCAaMCDMAtDtPo3PCMaG/">Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raza_krav_besk_lazo.2025.3PoRMfSC,
+      author            = "Muhammad Huzaifa Raza and Ekaterina Kravchenko and Svetlana Besklubova and Georgy Lazorenko and Maxim Markelow and Anton Kasprzhitskii and Ray Y. Zhong",
+      title             = "3D Printing of Recycled Materials for Sustainable Construction: A Comprehensive Economic and Life Cycle Assessment",
+      doi               = "10.1016/j.rser.2025.116059",
+      year              = "2025",
+      journal           = "Renewable and Sustainable Energy Reviews",
+      volume            = "223",
+      pages             = "116059",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. H. Raza, “3D Printing of Recycled Materials for Sustainable Construction: A Comprehensive Economic and Life Cycle Assessment”, <i>Renewable and Sustainable Energy Reviews</i>, vol. 223, p. 116059, 2025, doi: 10.1016/j.rser.2025.116059.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Raza, Muhammad Huzaifa, Ekaterina Kravchenko, Svetlana Besklubova, Georgy Lazorenko, Maxim Markelow, Anton Kasprzhitskii, and Ray Y. Zhong. “3D Printing of Recycled Materials for Sustainable Construction: A Comprehensive Economic and Life Cycle Assessment”. <i>Renewable and Sustainable Energy Reviews</i> 223 (2025): 116059. https://doi.org/10.1016/j.rser.2025.116059.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Devid Falliano, Ernesto Gugliandolo, Dario Domenico, Giuseppe Ricciardi
+    - footer
+title: Falliano Devid, Gugliandolo Ernesto, Domenico Dario, Ricciardi Giuseppe
 description:
 tags:
  - application
@@ -21,37 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Investigation on the Mechanical Strength and Thermal Conductivity of Extrudable Foamed Concrete and Preliminary Views on Its Potential Application in 3D Printed Multilayer Insulating Panels ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-99519-9_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-99519-9_26</a>
+#Experimental Investigation on the Mechanical Strength and Thermal Conductivity of Extrudable Foamed Concrete and Preliminary Views on Its Potential Application in 3D Printed Multilayer Insulating Panels ([2018-09](date/2018/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_26" target="_blank">10.1007/978-3-319-99519-9_26</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6676-9187" title="ORCID: 0000-0001-6676-9187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/falliano_devid"><b>Falliano</b>&nbsp;Devid</a></span>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b>&nbsp;Ernesto</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1279-9529" title="ORCID: 0000-0003-1279-9529" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/domenico_dario"><b>de&nbsp;Domenico</b>&nbsp;Dario</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9765-9247" title="ORCID: 0000-0001-9765-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b>&nbsp;Giuseppe</a></span><br>
+Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 277-286
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a> <a href="https://orcid.org/0000-0001-6676-9187" title="ORCID: 0000-0001-6676-9187" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a>
-,     <a href="../../../author/domenico_dario"><b>de Domenico</b> Dario</a> <a href="https://orcid.org/0000-0003-1279-9529" title="ORCID: 0000-0003-1279-9529" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> <a href="https://orcid.org/0000-0001-9765-9247" title="ORCID: 0000-0001-9765-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 277-286
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#conductivity`](keyword/conductivity)
-    [`#experiment`](keyword/experiment)
-    [`#extrusion`](keyword/extrusion)
-    [`#foam`](keyword/foam)
-    [`#insulation`](keyword/insulation)
-    [`#investigation`](keyword/investigation)
-    [`#mechanics`](keyword/mechanics)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conductivity"><button class="btn">#conductivity</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Investigation%20on%20the%20Mechanical%20Strength%20and%20Thermal%20Conductivity%20of%20Extrudable%20Foamed%20Concrete%20and%20Preliminary%20Views%20on%20Its%20Potential%20Application%20in%203D%20Printed%20Multilayer%20Insulating%20Panels" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052671049&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,20 +43,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2888873679" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-99519-9_26" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-99519-9_26?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This contribution is focused on the properties of a particular type of foamed concrete, the extrudable foamed concrete, which is characterized by the dimensional stability in the green state, that is the ability to maintain its shape in the fresh state (green strength). In particular, after an overview of both the compressive and the indirect tensile strength, the effect of density on thermal conductivity values is presented. Interestingly, the thermal conductivity of this particular kind of lightweight cementitious material is lower compared to both classical foamed concrete and aerated autoclaved concrete (AAC) at comparable density. Moreover, the remarkable inherent green strength makes this material potentially suitable for in situ 3D printing applications in co-extruded elements with both thermal insulation and structural purposes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/moro_sandro"><b>Moro</b> Sandro</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../parm_fall_moro_ferr.2024.PSoMFBCUVDFCv3P/">Preliminary Study on Multi-Functional Building Components Utilizing Variable Density Foamed Concrete via 3D Printing</a></li>
@@ -102,4 +75,35 @@ tags:
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/sciarrone_antonino"><b>Sciarrone</b> Antonino</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/maugeri_natale"><b>Maugeri</b> Natale</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../fall_scia_dome_maug.2019.FRLFCPSf3PA/">Fiber-Reinforced Lightweight Foamed Concrete Panels Suitable for 3D Printing Applications</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/guseynova_gyunay"><b>Guseynova</b> Gyunay</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../mark_nere_schr_guse.2019.MDaPEoFCfDF/">Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{fall_gugl_dome_ricc.2019.EIotMSaTCoEFCaPVoIPAi3PMIP,
+      author            = "Devid Falliano and Ernesto Gugliandolo and Dario de Domenico and Giuseppe Ricciardi",
+      title             = "Experimental Investigation on the Mechanical Strength and Thermal Conductivity of Extrudable Foamed Concrete and Preliminary Views on Its Potential Application in 3D Printed Multilayer Insulating Panels",
+      doi               = "10.1007/978-3-319-99519-9_26",
+      year              = "2019",
+      volume            = "19",
+      pages             = "277--286",
+      booktitle         = "Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018",
+      editor            = "Timothy Paul Wangler and Robert Johann Flatt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Falliano, E. Gugliandolo, D. de Domenico and G. Ricciardi, “Experimental Investigation on the Mechanical Strength and Thermal Conductivity of Extrudable Foamed Concrete and Preliminary Views on Its Potential Application in 3D Printed Multilayer Insulating Panels”, in <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>,  2019, vol. 19, pp. 277–286. doi: 10.1007/978-3-319-99519-9_26.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Falliano, Devid, Ernesto Gugliandolo, Dario de Domenico, and Giuseppe Ricciardi. “Experimental Investigation on the Mechanical Strength and Thermal Conductivity of Extrudable Foamed Concrete and Preliminary Views on Its Potential Application in 3D Printed Multilayer Insulating Panels”. In <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>, edited by Timothy Paul Wangler and Robert Johann Flatt, 19:277–86, 2019. https://doi.org/10.1007/978-3-319-99519-9_26.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

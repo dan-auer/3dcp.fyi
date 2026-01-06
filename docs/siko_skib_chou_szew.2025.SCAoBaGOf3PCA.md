@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paweł Sikora, Szymon Skibicki, Mehdi Chougan, Piotr Szewczyk, Krzysztof Cendrowski, Karol Federowicz, Ahmed Khayatt, H. Saudi, Jarosław Strzałkowski, Mohamed Elrahman, Mateusz Techman, Daniel Sibera, Seung-Yeop Chun
+    - footer
+title: Sikora Paweł, Skibicki Szymon, Chougan Mehdi, Szewczyk Piotr, Cendrowski Krzysztof, Federowicz Karol, Khayatt Ahmed, Saudi H., Strzałkowski Jarosław, Elrahman Mohamed, Techman Mateusz, Sibera Daniel, Chun Seung-Yeop
 description:
 tags:
  - admixture
@@ -18,43 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Silica-Coated Admixtures of Bismuth and Gadolinium Oxides for 3D Printed Concrete Applications:<br/>:aca-blank: Rheology, Hydration, Strength, Microstructure, and Radiation Shielding Perspective ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140563" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140563</a>
+#Silica-Coated Admixtures of Bismuth and Gadolinium Oxides for 3D Printed Concrete Applications&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">Rheology, Hydration, Strength, Microstructure, and Radiation Shielding Perspective</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140563" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140563" target="_blank">10.1016/j.conbuildmat.2025.140563</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2707-5630" title="ORCID: 0000-0002-2707-5630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/szewczyk_piotr"><b>Szewczyk</b>&nbsp;Piotr</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b>&nbsp;Krzysztof</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/federowicz_karol"><b>Federowicz</b>&nbsp;Karol</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5482-8848" title="ORCID: 0000-0001-5482-8848" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayatt_m_ahmed"><b>el&nbsp;Khayatt</b>&nbsp;Ahmed</a></span>, <a href="../../../author/saudi_a_h"><b>Saudi</b>&nbsp;H.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7001-9303" title="ORCID: 0000-0001-7001-9303" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/strzalkowski_jaroslaw"><b>Strzałkowski</b>&nbsp;Jarosław</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6993-2725" title="ORCID: 0000-0002-6993-2725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/elrahman_mohamed"><b>abd&nbsp;Elrahman</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/techman_mateusz"><b>Techman</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibera_daniel"><b>Sibera</b>&nbsp;Daniel</a></span>, <a href="../../../author/chun_seung-yeop"><b>Chun</b>&nbsp;Seung-Yeop</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 470, No. 140563
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/szewczyk_piotr"><b>Szewczyk</b> Piotr</a> <a href="https://orcid.org/0000-0002-2707-5630" title="ORCID: 0000-0002-2707-5630" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a> <a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> <a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khayatt_m_ahmed"><b>el Khayatt</b> Ahmed</a> <a href="https://orcid.org/0000-0001-5482-8848" title="ORCID: 0000-0001-5482-8848" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/saudi_a_h"><b>Saudi</b> H.</a>
-,     <a href="../../../author/strzalkowski_jaroslaw"><b>Strzałkowski</b> Jarosław</a> <a href="https://orcid.org/0000-0001-7001-9303" title="ORCID: 0000-0001-7001-9303" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/elrahman_mohamed"><b>abd Elrahman</b> Mohamed</a> <a href="https://orcid.org/0000-0002-6993-2725" title="ORCID: 0000-0002-6993-2725" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> <a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> <a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chun_seung-yeop"><b>Chun</b> Seung-Yeop</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 470, No. 140563
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#application`](keyword/application)
-    [`#coat`](keyword/coat)
-    [`#concrete`](keyword/concrete)
-    [`#hydration`](keyword/hydration)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#silica`](keyword/silica)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Silica-Coated%20Admixtures%20of%20Bismuth%20and%20Gadolinium%20Oxides%20for%203D%20Printed%20Concrete%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219280435&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408165866" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140563" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140563?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study examines the impact of replacing up to 5 vol% of Portland cement (PC) with both pristine mixture of Bi2O3/Gd2O3 (BG) and silica-coated BG particles. Two different types of silica coatings, each with varying synthesis methods, were applied to coat the BG structures, and their impact on the fresh, hardened, microstructure and radiation-shielding performances of the 3D printed concrete (3DPC) was investigated. Isothermal calorimetry demonstrated that pristine BG incorporation delays hydration, whereas silica coatings mitigate this, with type A coating being more effective. Early compressive strength was reduced in BG-containing mixes but normalised after seven days. Rheological tests showed that BG additives enhanced thixotropy and yield shear stresses, with 2.5 vol% being optimal, especially with method B coating. Green strength properties improved significantly with method B coated particles, showing up to 62.4 % and 57.7 % increases in strength and modulus, respectively, after 30 minutes. Micro-CT and MIP analyses confirmed reduced porosity and refined pore structure with silica coatings. Radiation shielding tests indicated superior performance in uncoated BG mixes, with method B coating providing superior shielding performance compared to that of method A coatings due to their higher surface area. In general, silica-coated BG particles enhance the mechanical, rheological, and radiation shielding properties of 3DPC, with method B coatings offering the most significant benefits.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/strzalkowski_jaroslaw"><b>Strzałkowski</b> Jarosław</a>, <a href="../../../author/kim_ji-su"><b>Kim</b> Ji-Su</a>, <a href="../../../author/ehm_clemens"><b>Ehm</b> Clemens</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../cuev_strz_kim_ehm.2023.TDoSL3PWBE/">Towards Development of Sustainable Lightweight 3D Printed Wall Building Envelopes:<br/>Experimental and Numerical Studies</a></li>
@@ -90,9 +58,39 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{siko_skib_chou_szew.2025.SCAoBaGOf3PCA,
+      author            = "Paweł Sikora and Szymon Skibicki and Mehdi Chougan and Piotr Szewczyk and Krzysztof Cendrowski and Karol Federowicz and Ahmed M. El Khayatt and H. A. Saudi and Jarosław Strzałkowski and Mohamed Abd Elrahman and Mateusz Techman and Daniel Sibera and Seung-Yeop Chun",
+      title             = "Silica-Coated Admixtures of Bismuth and Gadolinium Oxides for 3D Printed Concrete Applications: Rheology, Hydration, Strength, Microstructure, and Radiation Shielding Perspective",
+      doi               = "10.1016/j.conbuildmat.2025.140563",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "470",
+      pages             = "140563",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Sikora, “Silica-Coated Admixtures of Bismuth and Gadolinium Oxides for 3D Printed Concrete Applications: Rheology, Hydration, Strength, Microstructure, and Radiation Shielding Perspective”, <i>Construction and Building Materials</i>, vol. 470, p. 140563, 2025, doi: 10.1016/j.conbuildmat.2025.140563.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sikora, Paweł, Szymon Skibicki, Mehdi Chougan, Piotr Szewczyk, Krzysztof Cendrowski, Karol Federowicz, Ahmed M. El Khayatt, et al.. “Silica-Coated Admixtures of Bismuth and Gadolinium Oxides for 3D Printed Concrete Applications: Rheology, Hydration, Strength, Microstructure, and Radiation Shielding Perspective”. <i>Construction and Building Materials</i> 470 (2025): 140563. https://doi.org/10.1016/j.conbuildmat.2025.140563.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

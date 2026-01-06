@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wei Chen, Jinlong Pan, Binrong Zhu, Jinsheng Han, Yamei Zhang, Yuandi Qian, Qian Yu
+    - footer
+title: Chen Wei, Pan Jinlong, Zhu Binrong, Han Jinsheng, Zhang Yamei, Qian Yuandi, Yu Qian
 description:
 tags:
  - buildability
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Nonlinear Predictive Modeling of Building Rates Incorporating Filament Compression Deformations in 3D Printed Geopolymer Concrete ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1007/s11709-025-1155-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-025-1155-x</a>
+#Nonlinear Predictive Modeling of Building Rates Incorporating Filament Compression Deformations in 3D Printed Geopolymer Concrete ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-025-1155-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-025-1155-x" target="_blank">10.1007/s11709-025-1155-x</a>
 
--------------------------
+<a href="../../../author/chen_wei"><b>Chen</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_binrong"><b>Zhu</b>&nbsp;Binrong</a></span>, <a href="../../../author/han_jinsheng"><b>Han</b>&nbsp;Jinsheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <a href="../../../author/qian_yuandi"><b>Qian</b>&nbsp;Yuandi</a></span>, <a href="../../../author/yu_qian"><b>Yu</b>&nbsp;Qian</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> <a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_yuandi"><b>Qian</b> Yuandi</a>
-,     <a href="../../../author/yu_qian"><b>Yu</b> Qian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#deformation`](keyword/deformation)
-    [`#filament`](keyword/filament)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#incorporation`](keyword/incorporation)
-    [`#model`](keyword/model)
-    [`#nonlinear`](keyword/nonlinear)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#rate`](keyword/rate)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/nonlinear"><button class="btn">#nonlinear</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nonlinear%20Predictive%20Modeling%20of%20Building%20Rates%20Incorporating%20Filament%20Compression%20Deformations%20in%203D%20Printed%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003278161&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408690523" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-025-1155-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-025-1155-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete undergoes compressive deformation when printed fresh, often overlooked by traditional methods, impacting buildability prediction accuracy. In this paper, the buildability prediction model is modified by incorporating the Mohr–Coulomb damage criterion and focusing on the compressive deformation during the printing process. The prediction model combines the following key components: 1) the utilization of bilinear stress–time loading curves to simulate nonlinear stress–time loading curves during the actual printing process; 2) conducting uniaxial unconfined compression tests on cylindrical fresh specimens with different aspect ratios (ranging from 0.25 to 2) to extract the stress–strain response of the material; 3) the refinement of material parameters (including elastic modulus and plastic yield stress) and their variations with aspect ratio derived from the uniaxial unconfined tests. The material experimentation results indicate that the green strength exponentially decreases with increasing aspect ratio, while Young’s modulus exhibits a linear increase with the same parameter. Experimental comparisons were made during hollow drum printing tests using two different printing materials against the Mohr–Coulomb buildability prediction model. The results from these experiments demonstrate the improved accuracy of the new model in predicting failure heights (with relative error rates of 5.4% and 10.5%).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
@@ -113,7 +84,35 @@ tags:
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_pan_zhu_han.2025.NPMoBRIFCDi3PGC,
+      author            = "Wei Chen and Jinlong Pan and Binrong Zhu and Jinsheng Han and Yamei Zhang and Yuandi Qian and Qian Yu",
+      title             = "Nonlinear Predictive Modeling of Building Rates Incorporating Filament Compression Deformations in 3D Printed Geopolymer Concrete",
+      doi               = "10.1007/s11709-025-1155-x",
+      year              = "2025",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Chen, “Nonlinear Predictive Modeling of Building Rates Incorporating Filament Compression Deformations in 3D Printed Geopolymer Concrete”, <i>Frontiers of Structural and Civil Engineering</i>, 2025, doi: 10.1007/s11709-025-1155-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Wei, Jinlong Pan, Binrong Zhu, Jinsheng Han, Yamei Zhang, Yuandi Qian, and Qian Yu. “Nonlinear Predictive Modeling of Building Rates Incorporating Filament Compression Deformations in 3D Printed Geopolymer Concrete”. <i>Frontiers of Structural and Civil Engineering</i>, 2025. https://doi.org/10.1007/s11709-025-1155-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

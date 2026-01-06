@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bing Liu, Xiaoyan Liu, Guangtao Li, Songyuan Geng, Zhi Li, Yunhao Weng, Kai Qian
+    - footer
+title: Liu Bing, Liu Xiaoyan, Li Guangtao, Geng Songyuan, Li Zhi, Weng Yunhao, Qian Kai
 description:
 tags:
  - anisotropy
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2022.e01519) Study on Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete Using Destructive and Non-Destructive Testing Methods ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.cscm.2022.e01519" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2022.e01519</a>
+#Study on Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete Using Destructive and Non-Destructive Testing Methods ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2022.e01519) <a href="https://doi.org/10.1016/j.cscm.2022.e01519" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2022.e01519" target="_blank">10.1016/j.cscm.2022.e01519</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6360-2402" title="ORCID: 0000-0001-6360-2402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_bing"><b>Liu</b>&nbsp;Bing</a></span>, <a href="../../../author/liu_xiaoyan"><b>Liu</b>&nbsp;Xiaoyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6341-4353" title="ORCID: 0000-0002-6341-4353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_guangtao"><b>Li</b>&nbsp;Guangtao</a></span>, <a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4501-1232" title="ORCID: 0000-0003-4501-1232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhi"><b>Li</b>&nbsp;Zhi</a></span>, <a href="../../../author/weng_yunhao"><b>Weng</b>&nbsp;Yunhao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8905-4384" title="ORCID: 0000-0002-8905-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_kai"><b>Qian</b>&nbsp;Kai</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 17
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_bing"><b>Liu</b> Bing</a> <a href="https://orcid.org/0000-0001-6360-2402" title="ORCID: 0000-0001-6360-2402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_xiaoyan"><b>Liu</b> Xiaoyan</a>
-,     <a href="../../../author/li_guangtao"><b>Li</b> Guangtao</a> <a href="https://orcid.org/0000-0002-6341-4353" title="ORCID: 0000-0002-6341-4353" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>
-,     <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> <a href="https://orcid.org/0000-0003-4501-1232" title="ORCID: 0000-0003-4501-1232" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yunhao"><b>Weng</b> Yunhao</a>
-,     <a href="../../../author/qian_kai"><b>Qian</b> Kai</a> <a href="https://orcid.org/0000-0002-8905-4384" title="ORCID: 0000-0002-8905-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 17
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#destructive`](keyword/destructive)
-    [`#fiber`](keyword/fiber)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#pva`](keyword/pva)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20Anisotropy%20of%203D%20Printing%20PVA-Fiber-Reinforced%20Concrete%20Using%20Destructive%20and%20Non-Destructive%20Testing%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139008147&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4297387473" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2022.e01519" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2022.e01519?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To further understand the mechanical properties and anisotropy characteristics of 3D printing PVA fiber reinforced concrete (PFRC). This study first obtained 3D printing PFRC mixes with superior mechanical properties through slump tests, penetration resistance tests, printability tests, and flexural tests. Second, the fiber reinforcement mechanisms and anisotropy characteristics of PFRC were analyzed by nondestructive ultrasonic pulse velocity tests, destructive mechanical property tests, and scanning electron microscope tests. Third, the correlation between mechanical properties and ultrasonic signals was analyzed, and the conversion criteria were further established. Moreover, the application range of conversion criteria was also determined. The test results showed that the optimum dosage of PVA fibers is 0.5 wt% for 3D printing FRPC, and the highest cube compressive strength and flexural strength are 98.2 MPa and 6.8 MPa, respectively. The mechanical properties and acoustics of 3D printed specimens showed significant anisotropy. The conversion criteria show a good agreement with the test data and are applicable to 3D printing fiber concrete with a small aggregate size.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../bong_nema_xia_naza.2019.Po3PDFRGCfDCA/">Properties of 3D Printable Ductile Fiber-Reinforced Geopolymer Composite for Digital Construction Applications</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -105,8 +79,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "45 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gao_shan"><b>Gao</b> Shan</a>, <a href="../../../author/li_tianyu"><b>Li</b> Tianyu</a>, <a href="../../../author/yuan_jian"><b>Yuan</b> Jian</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gao_li_yuan_nish.2025.MPo3PMTM/">Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/chen_weihua"><b>Chen</b> Weihua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_xiao_ding_chen.2025.INDAo3PUMUXRCTaUW/">Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
@@ -153,4 +127,33 @@ tags:
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/liu_kun"><b>Liu</b> Kun</a>, <a href="../../../author/li_yunchao"><b>Li</b> Yunchao</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../geng_luo_liu_li.2023.RSaPoMLiC3P/">Research Status and Prospect of Machine Learning in Construction 3D Printing</a></li>
       <li><a href="../../../author/chun_seung-yeop"><b>Chun</b> Seung-Yeop</a>, <a href="../../../author/kim_su-jin"><b>Kim</b> Su-jin</a>, <a href="../../../author/kim_woon-gi"><b>Kim</b> Woon-Gi</a>, <a href="../../../author/lee_geumyeon"><b>Lee</b> Geumyeon</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../chun_kim_kim_lee.2023.PBB3PwCfSC/">Powder-Bed-Based 3D Printing with Cement for Sustainable Casting</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_liu_li_geng.2022.SoAo3PPFRCUDaNDTM,
+      author            = "Bing Liu and Xiaoyan Liu and Guangtao Li and Songyuan Geng and Zhi Li and Yunhao Weng and Kai Qian",
+      title             = "Study on Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete Using Destructive and Non-Destructive Testing Methods",
+      doi               = "10.1016/j.cscm.2022.e01519",
+      year              = "2022",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "17",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Liu, “Study on Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete Using Destructive and Non-Destructive Testing Methods”, <i>Case Studies in Construction Materials</i>, vol. 17, 2022, doi: 10.1016/j.cscm.2022.e01519.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Bing, Xiaoyan Liu, Guangtao Li, Songyuan Geng, Zhi Li, Yunhao Weng, and Kai Qian. “Study on Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete Using Destructive and Non-Destructive Testing Methods”. <i>Case Studies in Construction Materials</i> 17 (2022). https://doi.org/10.1016/j.cscm.2022.e01519.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

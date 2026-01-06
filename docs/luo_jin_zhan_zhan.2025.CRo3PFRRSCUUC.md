@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Surong Luo, Wenhao Jin, Zhaorui Zhang, Kaijian Zhang
+    - footer
+title: Luo Surong, Jin Wenhao, Zhang Zhaorui, Zhang Kaijian
 description:
 tags:
  - axis
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143474" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143474</a>
+#Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143474" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143474" target="_blank">10.1016/j.conbuildmat.2025.143474</a>
 
--------------------------
+<a href="../../../author/luo_surong"><b>Luo</b>&nbsp;Surong</a></span>, <a href="../../../author/jin_wenhao"><b>Jin</b>&nbsp;Wenhao</a></span>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b>&nbsp;Zhaorui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6146-9561" title="ORCID: 0000-0002-6146-9561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_kaijian"><b>Zhang</b>&nbsp;Kaijian</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 494, No. 143474
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/luo_surong"><b>Luo</b> Surong</a>
-,     <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>
-,     <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>
-,     <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="https://orcid.org/0000-0002-6146-9561" title="ORCID: 0000-0002-6146-9561" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 494, No. 143474
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#constitutive`](keyword/constitutive)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#relation`](keyword/relation)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Constitutive%20Relationship%20of%203D%20Printed%20Fiber%20Reinforced%20Recycled%20Sand%20Concrete%20Under%20Uniaxial%20Compression" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015481696&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414107087" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143474" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143474?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the printability and mechanical properties of 3D printed recycled sand concrete (3DPRSC) based on different silica fume (SF) contents (5 %, 10 %, 15 %, 20 %), PVA fiber (PVAF) contents (0.5 %, 1 %, 1.5 %), and basalt fiber (BF) contents (0.1 %, 0.3 %, 0.5 %). Further, based on the uniaxial compression test, the uniaxial compression constitutive model for 3DPRSC is proposed, considering the effects of varying SF, PVAF, and BF contents. Finally, the microstructure mechanism is explained through microscopic tests. The results show that adding 1.0 % PVAF and 0.3 % BF significantly enhances compressive and splitting tensile strength of 3DPRSC. With the increase of SF, the characteristic values of 3DPRSC generally increase first and then decrease. The addition of PVAF enhances the peak stress, peak strain, and ultimate strain of 3DPRSC, while BF has a lesser impact on these characteristic values. The fitting results of the proposed uniaxial compression constitutive model align well with the stress-strain curves. After adding fibers, fluctuations in the ascending branch were reduced, and the descending branch became smoother. Microscopic experiments indicate that an appropriate amount of SF can enhance the compressive and splitting tensile strength of 3DPRSC. A suitable content of fiber can form a directional distribution of networks inside 3DPRSC, enhancing its mechanical properties, but excessive fiber content will cause fiber agglomeration and lead to more harmful pores inside 3DPRSC while amplifying mechanical anisotropy. These research results can provide an important theoretical basis for the design of 3DPRSC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../baya_kash.2023.AoRPaPoa3PMCSFHLaBFS/">Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag</a></li>
@@ -111,7 +87,37 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC,
+      author            = "Surong Luo and Wenhao Jin and Zhaorui Zhang and Kaijian Zhang",
+      title             = "Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression",
+      doi               = "10.1016/j.conbuildmat.2025.143474",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "494",
+      pages             = "143474",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Luo, W. Jin, Z. Zhang and K. Zhang, “Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression”, <i>Construction and Building Materials</i>, vol. 494, p. 143474, 2025, doi: 10.1016/j.conbuildmat.2025.143474.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Luo, Surong, Wenhao Jin, Zhaorui Zhang, and Kaijian Zhang. “Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression”. <i>Construction and Building Materials</i> 494 (2025): 143474. https://doi.org/10.1016/j.conbuildmat.2025.143474.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

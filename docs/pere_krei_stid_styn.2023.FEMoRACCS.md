@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anthony Perez-Rivera, Eric Kreiger, Samuel Stidwell, Peter Stynoski, Megan Kreiger
+    - footer
+title: Perez-Rivera Anthony, Kreiger Eric, Stidwell Samuel, Stynoski Peter, Kreiger Megan
 description:
 tags:
  - additive
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Finite-Element Modeling of Reinforced Additively Constructed Concrete Structures ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1061/jsendh.steng-12324" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jsendh.steng-12324</a>
+#Finite-Element Modeling of Reinforced Additively Constructed Concrete Structures ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jsendh.steng-12324" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsendh.steng-12324" target="_blank">10.1061/jsendh.steng-12324</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0161-7136" title="ORCID: 0000-0003-0161-7136" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perez-rivera_anthony"><b>Perez-Rivera</b>&nbsp;Anthony</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1428-9074" title="ORCID: 0000-0002-1428-9074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stidwell_samuel"><b>Stidwell</b>&nbsp;Samuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5440-1024" title="ORCID: 0000-0002-5440-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stynoski_b_peter"><b>Stynoski</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_a_megan"><b>Kreiger</b>&nbsp;Megan</a></span><br>
+Journal Article - Journal of Structural Engineering, Vol. 149, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/perez-rivera_anthony"><b>Perez-Rivera</b> Anthony</a> <a href="https://orcid.org/0000-0003-0161-7136" title="ORCID: 0000-0003-0161-7136" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stidwell_samuel"><b>Stidwell</b> Samuel</a> <a href="https://orcid.org/0000-0002-1428-9074" title="ORCID: 0000-0002-1428-9074" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> <a href="https://orcid.org/0000-0002-5440-1024" title="ORCID: 0000-0002-5440-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Structural Engineering, Vol. 149, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#element`](keyword/element)
-    [`#finite`](keyword/finite)
-    [`#model`](keyword/model)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Finite-Element%20Modeling%20of%20Reinforced%20Additively%20Constructed%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175095980&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387590270" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jsendh.steng-12324" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jsendh.steng-12324?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As additive construction technologies evolve, the US Army Engineer Research and Development Center has studied the functionality and structural integrity of structures produced using additive construction methodologies. Compared with precast construction, additive construction has multiple advantages including unique geometries, reduction of worker power, no required formwork, and ability to use locally sourced materials. The purpose of this study is to evaluate additively-constructed concrete structures and compare it with conventional construction methods. Static analyses are performed using finite-element modeling on several precast concrete beams and compared with experimental data. A finite-element model was created for additively-constructed beams by incorporating cohesive interaction properties to evaluate the interface strength between three-dimensional (3D) printed layers. To further validate the model, an additively-constructed concrete wall is also experimentally tested and compared with models. Numerical predictions are developed to explore damage caused by interfaces of additively-constructed structures and its effects on the structural performance. Maximum deflections and peak loads were also obtained for the conventional construction method experimentally with finite-element models.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../digg_krei_krei_case.2019.PTvET/">Print Time vs. Elapsed Time:<br/>A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</a></li>
       <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hass_bos.2020.BaPOToaNSTRfEB3PC/">Bending and Pull-Out Tests on a Novel Screw Type Reinforcement for Extrusion-Based 3D Printed Concrete</a></li>
@@ -101,11 +78,41 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/syed_mohammad"><b>Syed</b> Mohammad</a>, <a href="../../../author/sharma_sumedh"><b>Sharma</b> Sumedh</a>, <a href="../../../author/koliou_maria"><b>Koliou</b> Maria</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../syed_shar_koli_side.2025.EAo3PHB/">Economic Analysis of 3D-Printed Hempcrete Buildings</a></li>
       <li><a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mukh.2025.3PCF/">3D-Printed Concrete Fracture:<br/>Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM</a></li>
       <li><a href="../../../author/sharma_shivam"><b>Sharma</b> Shivam</a>, <a href="../../../author/tahlawi_m"><b>Tahlawi</b> M.</a>, <a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../shar_tahl_dela_side.2025.SDMfLR3PC3BStNSL/">Structural Design Methodology for Low-Rise 3D Printed Concrete (3DPC) Buildings Subjected to Non-Seismic Loading:<br/>Description, Application and Validation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pere_krei_stid_styn.2023.FEMoRACCS,
+      author            = "Anthony Perez-Rivera and Eric L. Kreiger and Samuel Stidwell and Peter B. Stynoski and Megan A. Kreiger",
+      title             = "Finite-Element Modeling of Reinforced Additively Constructed Concrete Structures",
+      doi               = "10.1061/jsendh.steng-12324",
+      year              = "2023",
+      journal           = "Journal of Structural Engineering",
+      volume            = "149",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Perez-Rivera, E. L. Kreiger, S. Stidwell, P. B. Stynoski and M. A. Kreiger, “Finite-Element Modeling of Reinforced Additively Constructed Concrete Structures”, <i>Journal of Structural Engineering</i>, vol. 149, no. 12, 2023, doi: 10.1061/jsendh.steng-12324.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Perez-Rivera, Anthony, Eric L. Kreiger, Samuel Stidwell, Peter B. Stynoski, and Megan A. Kreiger. “Finite-Element Modeling of Reinforced Additively Constructed Concrete Structures”. <i>Journal of Structural Engineering</i> 149, no. 12 (2023). https://doi.org/10.1061/jsendh.steng-12324.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

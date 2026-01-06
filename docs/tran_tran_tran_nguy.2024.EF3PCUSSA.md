@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nhi Tran, Mien Tran, Jonathan Tran, Anh Nguyen, Cuong Nguyen
+    - footer
+title: Tran Nhi, Tran Mien, Tran Jonathan, Nguyen Anh, Nguyen Cuong
 description:
 tags:
  - aggregate
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1186/s40069-024-00705-9) Eco-Friendly 3D Printed Concrete Using Steel-Slag-Aggregate:<br/>:aca-blank: Buildability, Printability and Mechanical Properties ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1186/s40069-024-00705-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1186/s40069-024-00705-9</a>
+#Eco-Friendly 3D Printed Concrete Using Steel-Slag-Aggregate&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Buildability, Printability and Mechanical Properties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1186/s40069-024-00705-9) <a href="https://doi.org/10.1186/s40069-024-00705-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1186/s40069-024-00705-9" target="_blank">10.1186/s40069-024-00705-9</a>
 
--------------------------
+<a href="../../../author/tran_nhi"><b>Tran</b>&nbsp;Nhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_mien"><b>van&nbsp;Tran</b>&nbsp;Mien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span>, <a href="../../../author/nguyen_anh"><b>Nguyen</b>&nbsp;Anh</a></span>, <a href="../../../author/nguyen_quoc_cuong"><b>Nguyen</b>&nbsp;Cuong</a></span><br>
+Journal Article - International Journal of Concrete Structures and Materials, Vol. 18, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tran_nhi"><b>Tran</b> Nhi</a>
-,     <a href="../../../author/tran_mien"><b>van Tran</b> Mien</a> <a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a>
-,     <a href="../../../author/nguyen_quoc_cuong"><b>Nguyen</b> Cuong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Concrete Structures and Materials, Vol. 18, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#slag`](keyword/slag)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Eco-Friendly%203D%20Printed%20Concrete%20Using%20Steel-Slag-Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204794706&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402707005" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1186/s40069-024-00705-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1186/s40069-024-00705-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Utilizing steel slag aggregate (SA) as a substitute for river sand in 3D concrete printing (3DCP) has emerged as a new technique as natural resources become increasingly scarce. This study investigates the feasibility of using steel slag (SS) as fine aggregate for 3DCP. Ninety mixtures with varying steel slag aggregate-to-cement ratios (SA/C), water-tocement ratios (W/C), and silica fume (SF) contents were designed to study the workability and compressive strength of the 3D-printed concrete. Additionally, the actual components were printed to evaluate the printability of these mixtures. The experimental results indicate that it is feasible to fully employ SA in concrete for 3D printing. Mixtures with slump values ranging from 40 to 80 mm and slump flow values varying from 190 to 210 mm are recommended for 3D printing. The optimal mix is determined to have SA/C and W/C ratios of 1.0 and 0.51, respectively, and an SF content of 10% by cement weight. A statistical approach was utilized to construct the prediction models for slump and slump flow. Moreover, to predict the plastic failure of the 3D-printed concrete structure, the modified prediction model with an SA roughness coefficient of 4 was found to fit well with the experimental data. This research provides new insights into using eco-friendly materials for 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -105,10 +82,40 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tran_tran_tran_nguy.2024.EF3PCUSSA,
+      author            = "Nhi Tran and Mien van Tran and Jonathan Phuong Tran and Anh Nguyen and Cuong Quoc Nguyen",
+      title             = "Eco-Friendly 3D Printed Concrete Using Steel-Slag-Aggregate: Buildability, Printability and Mechanical Properties",
+      doi               = "10.1186/s40069-024-00705-9",
+      year              = "2024",
+      journal           = "International Journal of Concrete Structures and Materials",
+      volume            = "18",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Tran, M. van Tran, J. P. Tran, A. Nguyen and C. Q. Nguyen, “Eco-Friendly 3D Printed Concrete Using Steel-Slag-Aggregate: Buildability, Printability and Mechanical Properties”, <i>International Journal of Concrete Structures and Materials</i>, vol. 18, no. 1, 2024, doi: 10.1186/s40069-024-00705-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tran, Nhi, Mien van Tran, Jonathan Phuong Tran, Anh Nguyen, and Cuong Quoc Nguyen. “Eco-Friendly 3D Printed Concrete Using Steel-Slag-Aggregate: Buildability, Printability and Mechanical Properties”. <i>International Journal of Concrete Structures and Materials</i> 18, no. 1 (2024). https://doi.org/10.1186/s40069-024-00705-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

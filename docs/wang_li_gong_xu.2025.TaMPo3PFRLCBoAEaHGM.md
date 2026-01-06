@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huai Wang, Xiulin Li, Hao Gong, Jingjie Xu, Peijun Wang, Mei Liu
+    - footer
+title: Wang Huai, Li Xiulin, Gong Hao, Xu Jingjie, Wang Peijun, Liu Mei
 description:
 tags:
  - air
@@ -21,39 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jobe.2025.114408" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114408</a>
+#Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114408" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114408" target="_blank">10.1016/j.jobe.2025.114408</a>
 
--------------------------
+<a href="../../../author/wang_huai"><b>Wang</b>&nbsp;Huai</a></span>, <a href="../../../author/li_xiulin"><b>Li</b>&nbsp;Xiulin</a></span>, <a href="../../../author/gong_hao"><b>Gong</b>&nbsp;Hao</a></span>, <a href="../../../author/xu_jingjie"><b>Xu</b>&nbsp;Jingjie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_peijun"><b>Wang</b>&nbsp;Peijun</a></span>, <a href="../../../author/liu_mei"><b>Liu</b>&nbsp;Mei</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114408
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>
-,     <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>
-,     <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>
-,     <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a>
-,     <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> <a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_mei"><b>Liu</b> Mei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114408
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#entrainment`](keyword/entrainment)
-    [`#fiber`](keyword/fiber)
-    [`#glass`](keyword/glass)
-    [`#hollow`](keyword/hollow)
-    [`#light`](keyword/light)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20and%20Mechanical%20Properties%20of%203D-Printed%20Fiber-Reinforced%20Lightweight%20Concrete%20Based%20on%20Air%20Entrainment%20and%20Hollow%20Glass%20Microspheres" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019077089&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415215317" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114408" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114408?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to enhance the thermal insulation properties of 3D printed concrete by introducing air-introducing agents and hollow glass microspheres (HGM). Experimental evaluations were conducted to evaluate the effects of HGM replacement rate, water-to-binder ratio (w/b), basalt fibers, air entrainment, and thickeners on the workability, printability, thermal properties, and mechanical performance of 3D printed hollow glass microsphere air-entrained concrete (3DP-HGMAEC). The results indicate that low HGM replacement rates and high w/b increase air entrainment, which in turn reduces printability and mechanical strength. Basalt fibers can mitigate some of the negative effects of air entrainment; however, they also lead to an increase in the anisotropy of both flexural strength and splitting tensile strength. Thickeners had minimal influence on mechanical properties but enhanced printability. The developed 3DP-HGMAEC achieved a reduction in thermal conductivity of up to 71% compared with normal concrete, while maintaining a compressive strength of at least 35 MPa. In addition, a multiphase concrete thermal conductivity calculation model that accounts for interfacial thermal resistance has been developed to provide guidance for the design of 3DP-HGMAEC. This work offers a new material preparation method and a theoretical model for the production of 3D-printed concrete structures integrating energy-saving and load-bearing functions, such as thermal insulation load-bearing walls and columns.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_guan_wang_li.2024.BPo3PUHPCCB/">Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_ye_jian_fedi.2024.PRf3PECC/">Printability Region for 3D Printable Engineered Cementitious Composites</a></li>
@@ -110,7 +81,36 @@ tags:
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/hu_xianwen"><b>Hu</b> Xianwen</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/liu_yue"><b>Liu</b> Yue</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../zeng_hu_sun_liu.2025.TCBo3PPFRUHPC/">Triaxial Compressive Behavior of 3D Printed PE-Fiber-Reinforced Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM,
+      author            = "Huai Wang and Xiulin Li and Hao Gong and Jingjie Xu and Peijun Wang and Mei Liu",
+      title             = "Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres",
+      doi               = "10.1016/j.jobe.2025.114408",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114408",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Wang, X. Li, H. Gong, J. Xu, P. Wang and M. Liu, “Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres”, <i>Journal of Building Engineering</i>, p. 114408, 2025, doi: 10.1016/j.jobe.2025.114408.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Huai, Xiulin Li, Hao Gong, Jingjie Xu, Peijun Wang, and Mei Liu. “Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres”. <i>Journal of Building Engineering</i>, 2025, 114408. https://doi.org/10.1016/j.jobe.2025.114408.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Luis Flor Juncal, Giuseppe Loporcaro, Allan Scott, Don Clucas
+    - footer
+title: Flor Juncal Luis, Loporcaro Giuseppe, Scott Allan, Clucas Don
 description:
 tags:
  - cement
@@ -20,36 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1617/s11527-024-02451-6) Influence of Printing-Parameters on the Durability of 3D Printed Limestone-Calcined-Clay-Cement Mortar:<br/>:aca-blank: Overlap Between Filaments and Nozzle-Offset ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1617/s11527-024-02451-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-024-02451-6</a>
+#Influence of Printing-Parameters on the Durability of 3D Printed Limestone-Calcined-Clay-Cement Mortar&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Overlap Between Filaments and Nozzle-Offset</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1617/s11527-024-02451-6) <a href="https://doi.org/10.1617/s11527-024-02451-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-024-02451-6" target="_blank">10.1617/s11527-024-02451-6</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-5755-8879" title="ORCID: 0009-0001-5755-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flor-juncal_luis"><b>de la&nbsp;Flor Juncal</b>&nbsp;Luis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1834-8879" title="ORCID: 0000-0002-1834-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b>&nbsp;Giuseppe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7385-7633" title="ORCID: 0000-0002-7385-7633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scott_allan"><b>Scott</b>&nbsp;Allan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6724-3037" title="ORCID: 0000-0002-6724-3037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/clucas_don"><b>Clucas</b>&nbsp;Don</a></span><br>
+Journal Article - Materials and Structures, Vol. 57, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/flor-juncal_luis"><b>de la Flor Juncal</b> Luis</a> <a href="https://orcid.org/0009-0001-5755-8879" title="ORCID: 0009-0001-5755-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="https://orcid.org/0000-0002-1834-8879" title="ORCID: 0000-0002-1834-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/scott_allan"><b>Scott</b> Allan</a> <a href="https://orcid.org/0000-0002-7385-7633" title="ORCID: 0000-0002-7385-7633" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/clucas_don"><b>Clucas</b> Don</a> <a href="https://orcid.org/0000-0002-6724-3037" title="ORCID: 0000-0002-6724-3037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 57, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#durability`](keyword/durability)
-    [`#filament`](keyword/filament)
-    [`#influence`](keyword/influence)
-    [`#limestone`](keyword/limestone)
-    [`#mortar`](keyword/mortar)
-    [`#nozzle`](keyword/nozzle)
-    [`#offset`](keyword/offset)
-    [`#overlap`](keyword/overlap)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/offset"><button class="btn">#offset</button></a> <a href="../../keyword/overlap"><button class="btn">#overlap</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Printing-Parameters%20on%20the%20Durability%20of%203D%20Printed%20Limestone-Calcined-Clay-Cement%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205921048&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403041006" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-024-02451-6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-024-02451-6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Large-scale cement-based Additive Manufacturing (AM), also known as 3D Concrete Printing (3DCP), is a promising technique to innovate the construction industry. The durability properties of printed specimens have been studied and compared to those of cast samples in the literature. However, no study has evaluated and quantified the influence of printing parameters on the durability of 3DCP specimens. Aspects such as nozzle offset and the overlap between printed filaments, among others, may influence the porosity of the samples and, therefore, the durability properties. This paper aims to investigate the influence of printing parameters on the durability of 3D manufactured mortar samples. The effects of the printing height and overlap between filaments on the durability properties were analysed in the X, Y and Z axes. An experimental investigation of 39 samples was conducted. Printed and cast specimens were subjected to a curing process for up to 90 days in a water tank at a temperature of 20 °C. Durability tests (oxygen permeability, electrical resistivity, and porosity) were performed at 7, 28 and 90 days. Relationships between the printing variables and durability properties with time were derived. Based on this study, it is concluded that the long-term properties of concrete are significantly sensitive to the overlap between filaments and the nozzle offset. In general, the durability properties were enhanced by modifying the printing parameters. In particular, an overlap of 4 mm showed the most promising results in this regard.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
@@ -98,12 +73,42 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../flor_scot_cluc_lopo.2025.IoASCMaPPotMPo3PM/">Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars</a></li>
       <li><a href="../../../author/yao_weijing"><b>Yao</b> Weijing</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yao_gao_huan_du.2025.IoPSaESotPaPSo3PM/">Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
       <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../flor_scot_cluc_lopo.2025.PaERo3PMULMZCCaMSP/">Permeability and Electrical Resistivity of 3D-Printed Mortars Using Local Materials (Zeolite, Calcined Clay, and Mussel Shell Powder):<br/>Aotearoa, New Zealand</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{flor_lopo_scot_cluc.2024.IoPPotDo3PLCCCM,
+      author            = "Luis de la Flor Juncal and Giuseppe Loporcaro and Allan Scott and Don Clucas",
+      title             = "Influence of Printing-Parameters on the Durability of 3D Printed Limestone-Calcined-Clay-Cement Mortar: Overlap Between Filaments and Nozzle-Offset",
+      doi               = "10.1617/s11527-024-02451-6",
+      year              = "2024",
+      journal           = "Materials and Structures",
+      volume            = "57",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. de la Flor Juncal, G. Loporcaro, A. Scott and D. Clucas, “Influence of Printing-Parameters on the Durability of 3D Printed Limestone-Calcined-Clay-Cement Mortar: Overlap Between Filaments and Nozzle-Offset”, <i>Materials and Structures</i>, vol. 57, no. 8, 2024, doi: 10.1617/s11527-024-02451-6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Flor Juncal, Luis de la, Giuseppe Loporcaro, Allan Scott, and Don Clucas. “Influence of Printing-Parameters on the Durability of 3D Printed Limestone-Calcined-Clay-Cement Mortar: Overlap Between Filaments and Nozzle-Offset”. <i>Materials and Structures</i> 57, no. 8 (2024). https://doi.org/10.1617/s11527-024-02451-6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

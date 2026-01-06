@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Matschei Thomas 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/signorini_cesare"><b>Signorini</b> Cesare</a>, <a href="../../../author/rauf_asim"><b>Rauf</b> Asim</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../beig_sign_rauf_schr.2025.IRBoLCCCLBfAC/">Intrinsic Rheological Behavior of Limestone Calcined Clay Cementitious (LC3) Binders for Automated Construction:<br/>Effect of Calcium Sulfate Varieties</a></li>
   <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../neef_kalt_mull_cruz.2024.MICFRfCEMbE/">Mineral-Impregnated Carbon-Fibers-Reinforcement for Concrete Elements Manufactured by Extrusion</a></li>
   <li><a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a>, <a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/beckmann_birgit"><b>Beckmann</b> Birgit</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../cruz_bosb_kalt_beck.2024.MMRaHSMoECRCW/">Material-Minimized Rib and Honeycomb Slabs Made of Extruded Carbon-Reinforced Concrete Webs</a></li>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Chen Bing 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/wang_yong"><b>Wang</b> Yong</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_chen_wang_vo.2025.IMoMtPRotRaMDo3PMPCaEH/">Influencing Mechanism of Magnesium-to-Phosphate Ratio on the Rheology and Microstructure Development of 3D-Printed Magnesium Phosphate Cement at Early Hydration</a></li>
   <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/li_bin"><b>Li</b> Bin</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../wang_li_chen.2025.EPaMPo3PMPCTSFM/">Enhancing Printability and Mechanical Performance of 3D Printed Magnesium Phosphate Cement Through Silica Fume Modification:<br/>Rheological, Microstructural, and Numerical Insights</a></li>
   <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC/">A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction</a></li>

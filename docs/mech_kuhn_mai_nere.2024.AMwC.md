@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Viktor Mechtcherine, Alexander Kuhn, Inka Mai (née Dressler), Venkatesh Nerella, Daniel Weger, Egor Ivaniuk, Udo Wiens
+    - footer
+title: Mechtcherine Viktor, Kuhn Alexander, Mai (née Dressler) Inka, Nerella Venkatesh, Weger Daniel, Ivaniuk Egor, Wiens Udo
 description:
 tags:
  - additive
@@ -14,33 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing with Concrete:<br/>:aca-blank: Guidelines for Planning and Implementing Projects ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1002/best.202400005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/best.202400005</a>
+#Additive Manufacturing with Concrete&nbsp;([2024-03](date/2024/03))
+<div class="h1-like">Guidelines for Planning and Implementing Projects</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202400005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400005" target="_blank">10.1002/best.202400005</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <a href="../../../author/kuhn_alexander"><b>Kuhn</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0905-9557" title="ORCID: 0000-0002-0905-9557" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b>&nbsp;Egor</a></span>, <a href="../../../author/wiens_udo"><b>Wiens</b>&nbsp;Udo</a></span><br>
+Journal Article - Beton- und Stahlbetonbau, Vol. 119, Iss. 4, pp. 290-310
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kuhn_alexander"><b>Kuhn</b> Alexander</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> <a href="https://orcid.org/0000-0002-0905-9557" title="ORCID: 0000-0002-0905-9557" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wiens_udo"><b>Wiens</b> Udo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Beton- und Stahlbetonbau, Vol. 119, Iss. 4, pp. 290-310
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#guideline`](keyword/guideline)
-    [`#implementation`](keyword/implementation)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#projection`](keyword/projection)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/guideline"><button class="btn">#guideline</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189030135&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393231460" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/best.202400005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/best.202400005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This guideline, created by the working group "Digital concrete construction through additive manufacturing" of the German Committee for Reinforced Concrete Construction (DAfStb), serves as a comprehensive resource to support the planning and implementation of additive manufacturing projects in concrete construction in Germany. It is aimed at architects, planners, applicants, material manufacturers, construction companies and other parties involved in construction. After a brief introduction to the classification, terminology and methods of additive manufacturing, legal aspects and approval procedures are highlighted to ensure the seamless integration of this technology into construction practice. The guide deals with the classification of additive manufacturing methods with concrete in building regulations, explains the approval process and provides guidance on coordinating responsibilities for projects. It addresses technical rules for the design and construction of load-bearing structures, in particular for additively manufactured walls, and deals with design aspects of reinforcement. An important component is concrete and component testing, including methods for sample preparation and test methods for fresh and hardened concrete, which makes the guide a helpful tool for professionals in the field of digital concrete construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -81,7 +59,6 @@ tags:
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
-      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/kuhn_alexander"><b>Kuhn</b> Alexander</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../mech_kuhn_mai_nere.2024.AMwC/">Additive Manufacturing with Concrete:<br/>Guidelines for Planning and Implementing Projects</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
@@ -101,12 +78,42 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../vasi.2024.SAoC3P/">Standardization Aspects of Concrete 3D Printing</a></li>
       <li><a href="../../../author/manny_agemar"><b>Manny</b> Agemar</a>, <a href="../../../author/dehn_frank"><b>Dehn</b> Frank</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../mann_dehn.2025.Bo3PiCC/">Basics of 3D Printing in Concrete Construction:<br/>Recommendations for Practice</a></li>
       <li><a href="../../../author/aziz_saqib"><b>Aziz</b> Saqib</a>, <a href="../../../author/alexander_bradley"><b>Alexander</b> Bradley</a>, <a href="../../../author/gengnagel_christoph"><b>Gengnagel</b> Christoph</a>, <a href="../../../author/loutfi_jamila"><b>Loutfi</b> Jamila</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../aziz_alex_geng_lout.2024.MMRCS/">Minimal Mineral ‑ Rethinking Ceiling Systems:<br/>Shaping the Future of Sustainable Construction</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../plac_schw.2024.AGSo3PB/">A Global Snapshot of 3D Printed Buildings:<br/>Uncovering Robotic-Oriented Fabrication-Strategies</a></li>
-      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/kuhn_alexander"><b>Kuhn</b> Alexander</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../mech_kuhn_mai_nere.2024.AMwC/">Additive Manufacturing with Concrete:<br/>Guidelines for Planning and Implementing Projects</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mech_kuhn_mai_nere.2024.AMwC,
+      author            = "Viktor Mechtcherine and Alexander Kuhn and Inka Mai (née Dressler) and Venkatesh Naidu Nerella and Daniel Weger and Egor Ivaniuk and Udo Wiens",
+      title             = "Additive Manufacturing with Concrete: Guidelines for Planning and Implementing Projects",
+      doi               = "10.1002/best.202400005",
+      year              = "2024",
+      journal           = "Beton- und Stahlbetonbau",
+      volume            = "119",
+      number            = "4",
+      pages             = "290--310",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Mechtcherine, “Additive Manufacturing with Concrete: Guidelines for Planning and Implementing Projects”, <i>Beton- und Stahlbetonbau</i>, vol. 119, no. 4, pp. 290–310, 2024, doi: 10.1002/best.202400005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mechtcherine, Viktor, Alexander Kuhn, Inka Mai (née Dressler), Venkatesh Naidu Nerella, Daniel Weger, Egor Ivaniuk, and Udo Wiens. “Additive Manufacturing with Concrete: Guidelines for Planning and Implementing Projects”. <i>Beton- Und Stahlbetonbau</i> 119, no. 4 (2024): 290–310. https://doi.org/10.1002/best.202400005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

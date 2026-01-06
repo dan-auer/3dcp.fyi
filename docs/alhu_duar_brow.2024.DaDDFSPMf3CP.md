@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Alhussain, José Duarte, Nathan Brown
+    - footer
+title: Alhussain Ali, Duarte José, Brown Nathan
 description:
 tags:
  - concrete
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.frontiersin.org/articles/10.3389/fbuil.2024.1363370/pdf?isPublishedV2=False) Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing ([2024-02](date/2024/02))
-<a href="https://doi.org/10.3389/fbuil.2024.1363370" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fbuil.2024.1363370</a>
+#Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing ([2024-02](date/2024/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fbuil.2024.1363370/pdf?isPublishedV2=False) <a href="https://doi.org/10.3389/fbuil.2024.1363370" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fbuil.2024.1363370" target="_blank">10.3389/fbuil.2024.1363370</a>
 
--------------------------
+<a href="../../../author/alhussain_ali"><b>Alhussain</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7585-652X" title="ORCID: 0000-0002-7585-652X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brown_c_nathan"><b>Brown</b>&nbsp;Nathan</a></span><br>
+Journal Article - Frontiers in Built Environment, Vol. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="https://orcid.org/0000-0002-7585-652X" title="ORCID: 0000-0002-7585-652X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers in Built Environment, Vol. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#data`](keyword/data)
-    [`#development`](keyword/development)
-    [`#filament`](keyword/filament)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#shape`](keyword/shape)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Developing%20a%20Data-Driven%20Filament-Shape-Prediction-Model%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187877035&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392292597" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3389/fbuil.2024.1363370" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3389/fbuil.2024.1363370?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the growing global need for housing and infrastructure, 3D concrete printing (3DCP) has emerged as an innovative construction method offering several potential benefits including design flexibility, speed, and sustainability. However, enhancing the reliability of 3DCP involves managing a variety of parameters that influence various aspects of the 3D printed structure. Process parameters like nozzle velocity, nozzle diameter, nozzle height, and material flow velocity have a major impact on the structural stability and filament shape. This project aimed to develop fast and accurate data-driven models for predicting and classifying filament shape based on process parameters. A print experiment systematically varied process parameters across 144 samples. The resulting filament geometry (width, height, contact width) was measured and classified by quality. Models were trained on this data to predict filament width, contact width, filament height, and classify filaments. These models can be utilized with any buildable material - a material with a high enough yield stress to bear the weight of upper layers without significant deformation. This condition does not restrict this study’s scope as it is a prerequisite for all 3DCP applications. The models’ robustness and generalizability were confirmed through validation on literature data across various printable materials and setups. These data-driven models can aid in optimizing parameters, generating variable width filaments, and printing non-planar layers. By linking print inputs to filament outputs, this comprehensive modeling approach advances 3DCP research for more reliable and versatile concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../bres_nabo.2022.ATP/">Adaptive Tool-Path:<br/>Enhanced Design and Process-Control for Robotic 3DCP</a></li>
@@ -94,11 +73,40 @@ tags:
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aros_reis_bran_figu.2026.AOMPaDToR3PCMwFaMR/">Assessing Orthotropic Mechanical Performance and Digital Twin of Robotic 3D Printed Cementitious Mortars with Fibers and Metal Reinforcements</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a>, <a href="../../../author/andreou_alexis"><b>Andreou</b> Alexis</a>, <a href="../../../author/andreou_vasilis"><b>Andreou</b> Vasilis</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kont_geor_andr_andr.2025.MaELHtWRi3THGC/">Measuring and Evaluating Layer Height to Width Ratio in 3DCP Towards Higher Geometric Conformity</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../duar_brow_duar.2024.WfGSaOFaTPi3CPoV/">Workflow for Generating, Simulating, and Optimizing Form and Tool-Path in 3D Concrete Printing of Vaults</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alhu_duar_brow.2024.DaDDFSPMf3CP,
+      author            = "Ali Alhussain and José Pinto Duarte and Nathan C. Brown",
+      title             = "Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing",
+      doi               = "10.3389/fbuil.2024.1363370",
+      year              = "2024",
+      journal           = "Frontiers in Built Environment",
+      volume            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Alhussain, J. P. Duarte and N. C. Brown, “Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing”, <i>Frontiers in Built Environment</i>, vol. 10, 2024, doi: 10.3389/fbuil.2024.1363370.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alhussain, Ali, José Pinto Duarte, and Nathan C. Brown. “Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing”. <i>Frontiers in Built Environment</i> 10 (2024). https://doi.org/10.3389/fbuil.2024.1363370.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

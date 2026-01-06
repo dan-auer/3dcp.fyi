@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Irina Ivanova, Viktor Mechtcherine
+    - footer
+title: Ivanova Irina, Mechtcherine Viktor
 description:
 tags:
  - aggregate
@@ -21,35 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/13/7/1551/pdf) Effects of Volume Fraction and Surface Area of Aggregates on the Static Yield-Stress and Structural Build-Up of Fresh Concrete ([2020-03](date/2020/03))
-<a href="https://doi.org/10.3390/ma13071551" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma13071551</a>
+#Effects of Volume Fraction and Surface Area of Aggregates on the Static Yield-Stress and Structural Build-Up of Fresh Concrete ([2020-03](date/2020/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/13/7/1551/pdf) <a href="https://doi.org/10.3390/ma13071551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13071551" target="_blank">10.3390/ma13071551</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4012-4203" title="ORCID: 0000-0003-4012-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ivanova_irina"><b>Ivanova</b>&nbsp;Irina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Materials, Vol. 13, Iss. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a> <a href="https://orcid.org/0000-0003-4012-4203" title="ORCID: 0000-0003-4012-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 13, Iss. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#area`](keyword/area)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fraction`](keyword/fraction)
-    [`#fresh`](keyword/fresh)
-    [`#static`](keyword/static)
-    [`#stress`](keyword/stress)
-    [`#structure`](keyword/structure)
-    [`#surface`](keyword/surface)
-    [`#volume`](keyword/volume)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/area"><button class="btn">#area</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fraction"><button class="btn">#fraction</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Volume%20Fraction%20and%20Surface%20Area%20of%20Aggregates%20on%20the%20Static%20Yield-Stress%20and%20Structural%20Build-Up%20of%20Fresh%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85082962349&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3009373991" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma13071551" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma13071551?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With increasing interest in the use of additive manufacturing techniques in the construction industry, static rheological properties of fresh concrete have necessarily come into focus. In particular, the knowledge and control of static yield stress (SYS) and its development over time are crucial for mastering formwork-free construction, e.g., by means of layered extrusion. Furthermore, solid understanding of the influences of various concrete constituents on the initial SYS of the mixture and the structural build-up rate is required for purposeful material design. This contribution is concentrated on the effect of aggregates on these rheological parameters. The volume fraction of aggregates was varied in the range of 35% to 55% by volume under condition of constant total surface area of the particles. The total surface area per unit volume of cement paste was equal to 5.00, 7.25 and 10.00 m²/L, conditioned on the constant volume fraction of aggregates. Both variations were enabled by changing the particle size distributions of the aggregates while holding the cement paste composition constant for all concrete mixtures. To characterise the SYS and the structural build-up, constant shear rate tests with a vane-geometry rotational rheometer were performed. It was found that in the ranges under investigation the variation in volume fraction had a more pronounced effect on the static rheological properties of concrete than did the variation in surface area. An accurate mathematical description of the relationship between the initial SYS of concrete and the relative volume fraction of aggregate based on the Chateau-Ovarlez-Trung model was proposed. Challenges in deriving a similar relationship for the structural build-up rate of concrete were highlighted.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -85,8 +60,8 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/rusin-zurek_karina"><b>Rusin-Żurek</b> Karina</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_rusi_hage.2025.RMaLIAtMf3CP/">Recycled Materials and Lightweight Insulating Additions to Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
@@ -111,4 +86,34 @@ tags:
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_titt_schu.2021.RaPBo3PCMwVAC/">Rheological and Pumping Behavior of 3D Printable Cementitious Materials with Varying Aggregate Content</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ivan_mech.2020.EoVFaSAoAotSYSaSBUoFC,
+      author            = "Irina Ivanova and Viktor Mechtcherine",
+      title             = "Effects of Volume Fraction and Surface Area of Aggregates on the Static Yield-Stress and Structural Build-Up of Fresh Concrete",
+      doi               = "10.3390/ma13071551",
+      year              = "2020",
+      journal           = "Materials",
+      volume            = "13",
+      number            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Ivanova  and V. Mechtcherine, “Effects of Volume Fraction and Surface Area of Aggregates on the Static Yield-Stress and Structural Build-Up of Fresh Concrete”, <i>Materials</i>, vol. 13, no. 7, 2020, doi: 10.3390/ma13071551.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ivanova, Irina, and Viktor Mechtcherine. “Effects of Volume Fraction and Surface Area of Aggregates on the Static Yield-Stress and Structural Build-Up of Fresh Concrete”. <i>Materials</i> 13, no. 7 (2020). https://doi.org/10.3390/ma13071551.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

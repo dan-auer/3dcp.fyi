@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiwen Wu, Chao Liu, Huawei Liu, Guoliang Bai, Yisheng Meng, Shumin Ding
+    - footer
+title: Wu Yiwen, Liu Chao, Liu Huawei, Bai Guoliang, Meng Yisheng, Ding Shumin
 description:
 tags:
  - axis
@@ -21,39 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanism of the Influence of Multi-Scale Pore-Structure on the Triaxial Mechanical Properties of 3D Printed Concrete with Recycled Sand ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105661" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105661</a>
+#Mechanism of the Influence of Multi-Scale Pore-Structure on the Triaxial Mechanical Properties of 3D Printed Concrete with Recycled Sand ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105661" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105661" target="_blank">10.1016/j.cemconcomp.2024.105661</a>
 
--------------------------
+<a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/bai_guoliang"><b>Bai</b>&nbsp;Guoliang</a></span>, <a href="../../../author/meng_yisheng"><b>Meng</b>&nbsp;Yisheng</a></span>, <a href="../../../author/ding_shumin"><b>Ding</b>&nbsp;Shumin</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105661
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>
-,     <a href="../../../author/meng_yisheng"><b>Meng</b> Yisheng</a>
-,     <a href="../../../author/ding_shumin"><b>Ding</b> Shumin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105661
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#concrete`](keyword/concrete)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#mechanism`](keyword/mechanism)
-    [`#multi`](keyword/multi)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-    [`#scale`](keyword/scale)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanism%20of%20the%20Influence%20of%20Multi-Scale%20Pore-Structure%20on%20the%20Triaxial%20Mechanical%20Properties%20of%203D%20Printed%20Concrete%20with%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199065531&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400522128" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105661" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105661?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mechanical properties of concrete when subjected to triaxial compression are crucial for designing structures. In this study, environmentally friendly 3D printed recycled mortar (3DPRM) was prepared with recycled sand at 0%, 50%, and 100% replacement rates. The pore structure and mechanical properties of the 3DPRM under triaxial compression, taking into account the influence of replacement rate and anisotropy, were investigated. The results showed that the plane porosity of the 3DPRM specimens was uniformly distributed along the X-direction, while the plane porosity along the Y and Z directions increased at the filament-fusion interface and the layer-fusion interface. Although the incorporation of recycled sand marginally increased the porosity of the specimens, it did not alter the pore structure. During triaxial compression, the strength and confining pressure efficiency of the 3DPRM specimens exhibited significant anisotropy, with the order of strength being X > Y > Z direction. By establishing a multiscale stress equivalence model for typical pores influenced by stress concentration, the mechanism of recycled sand replacement rate affecting the strength of specimens with different directions was revealed. Additionally, a two-stage stress-strain prediction model applicable to different replacement rates and directions was proposed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -110,8 +81,8 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
@@ -121,4 +92,33 @@ tags:
       <li><a href="../../../author/sbardelotto_kloeckner_eduardo"><b>Sbardelotto</b> Eduardo</a>, <a href="../../../author/vieira_gomes_manuel"><b>Vieira</b> Manuel</a>, <a href="../../../author/ferreira-dos-santos_karyne"><b>Ferreira dos Santos</b> Karyne</a>, <a href="../../../author/pereira-dos-santos_samuel"><b>Pereira dos Santos</b> Samuel</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sbar_viei_ferr_pere.2025.ESotRBo3PMIFRCAF/">Exploratory Study on the Rheological Behaviour of 3D Printable Mortars Incorporating Fine Recycled Concrete Aggregates (FRCA)</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/li_xin"><b>Li</b> Xin</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wu_liu.2025.IoELotTDEo3PCwRSitGS/">Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wu_liu_liu_bai.2024.MotIoMSPSotTMPo3PCwRS,
+      author            = "Yiwen Wu and Chao Liu and Huawei Liu and Guoliang Bai and Yisheng Meng and Shumin Ding",
+      title             = "Mechanism of the Influence of Multi-Scale Pore-Structure on the Triaxial Mechanical Properties of 3D Printed Concrete with Recycled Sand",
+      doi               = "10.1016/j.cemconcomp.2024.105661",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105661",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wu, C. Liu, H. Liu, G. Bai, Y. Meng and S. Ding, “Mechanism of the Influence of Multi-Scale Pore-Structure on the Triaxial Mechanical Properties of 3D Printed Concrete with Recycled Sand”, <i>Cement and Concrete Composites</i>, p. 105661, 2024, doi: 10.1016/j.cemconcomp.2024.105661.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Yiwen, Chao Liu, Huawei Liu, Guoliang Bai, Yisheng Meng, and Shumin Ding. “Mechanism of the Influence of Multi-Scale Pore-Structure on the Triaxial Mechanical Properties of 3D Printed Concrete with Recycled Sand”. <i>Cement and Concrete Composites</i>, 2024, 105661. https://doi.org/10.1016/j.cemconcomp.2024.105661.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

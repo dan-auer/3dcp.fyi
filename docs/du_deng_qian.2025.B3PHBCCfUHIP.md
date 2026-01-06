@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guoqiang Du, Xiaowei Deng, Ye Qian
+    - footer
+title: Du Guoqiang, Deng Xiaowei, Qian Ye
 description:
 tags:
  - biomimetics
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.compositesb.2025.112993" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2025.112993</a>
+#Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2025.112993" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2025.112993" target="_blank">10.1016/j.compositesb.2025.112993</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_guoqiang"><b>Du</b>&nbsp;Guoqiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7634-5257" title="ORCID: 0000-0001-7634-5257" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_xiaowei"><b>Deng</b>&nbsp;Xiaowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span><br>
+Journal Article - Composites Part B: Engineering, No. 112993
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> <a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a> <a href="https://orcid.org/0000-0001-7634-5257" title="ORCID: 0000-0001-7634-5257" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, No. 112993
-
-:aca-blank:{ .lg .middle}
-    [`#biomimetics`](keyword/biomimetics)
-    [`#bouligand`](keyword/bouligand)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/biomimetics"><button class="btn">#biomimetics</button></a> <a href="../../keyword/bouligand"><button class="btn">#bouligand</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Biomimetic%203D%20Printed%20Herringbone-Bouligand%20Cementitious%20Composites%20for%20Ultra-High%20Impact%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015878284&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414034688" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2025.112993" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2025.112993?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nature can create tough and lightweight materials under specific conditions. Learning from nature and developing novel biomimetic structures within synthetic materials is crucial for advancing impact-resistant materials. In this work, inspired by the dactyl club of mantis shrimp, we integrate Herringbone and Bouligand structures to produce 3D printed strain-hardening cementitious composites (SHCC) with ultra-high impact performance. Through the application of 3D concrete printing, SHCC filaments and fibers are arranged coaxially and form a Herringbone-Bouligand structure. The results indicated that the Herringbone-Bouligand structure significantly enhanced the impact performance of SHCC. The Herringbone-Bouligand structure exhibited the highest specific absorption energy of 843.3±45.19 mJ/cm3 and a specific impact force of 23.8±1.17 N/cm3. Its specific absorption energy was 290.8 times greater than that of plain concrete (2.9±0.08 mJ/cm3), while its specific impact force was 7.0 times higher than that of plain concrete (3.4±0.05 N/cm3). The toughening mechanism is attributed to the sinusoidal arrangement of the SHCC filaments, which absorbs the impact force through spring deformation, and the Bouligand arrangement, which promotes crack twisting. This combination allows the structure to better absorb and release energy. The Herringbone-Bouligand structure offers a promising solution for protective applications in harsh environments and provides valuable insights for developing impact-resistant, lightweight cementitious materials through biomimetic strategies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -88,8 +68,37 @@ tags:
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{du_deng_qian.2025.B3PHBCCfUHIP,
+      author            = "Guoqiang Du and Xiaowei Deng and Ye Qian",
+      title             = "Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance",
+      doi               = "10.1016/j.compositesb.2025.112993",
+      year              = "2025",
+      journal           = "Composites Part B: Engineering",
+      pages             = "112993",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Du, X. Deng and Y. Qian, “Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance”, <i>Composites Part B: Engineering</i>, p. 112993, 2025, doi: 10.1016/j.compositesb.2025.112993.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Du, Guoqiang, Xiaowei Deng, and Ye Qian. “Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance”. <i>Composites Part B: Engineering</i>, 2025, 112993. https://doi.org/10.1016/j.compositesb.2025.112993.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

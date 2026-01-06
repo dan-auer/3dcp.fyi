@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Chen, Daobo Zhang, Peng Chen, Ning Li, Arnaud Perrot
+    - footer
+title: Chen Hao, Zhang Daobo, Chen Peng, Li Ning, Perrot Arnaud
 description:
 tags:
  - base
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/7/2661/pdf?version=1679997977) A Review of the Extruder System Design for Large-Scale Extrusion-Based 3D Concrete Printing ([2023-03](date/2023/03))
-<a href="https://doi.org/10.3390/ma16072661" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16072661</a>
+#A Review of the Extruder System Design for Large-Scale Extrusion-Based 3D Concrete Printing ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/7/2661/pdf?version=1679997977) <a href="https://doi.org/10.3390/ma16072661" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16072661" target="_blank">10.3390/ma16072661</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0520-6190" title="ORCID: 0000-0003-0520-6190" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_hao"><b>Chen</b>&nbsp;Hao</a></span>, <a href="../../../author/zhang_daobo"><b>Zhang</b>&nbsp;Daobo</a></span>, <a href="../../../author/chen_peng"><b>Chen</b>&nbsp;Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7994-9504" title="ORCID: 0000-0002-7994-9504" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_ning"><b>Li</b>&nbsp;Ning</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> <a href="https://orcid.org/0000-0003-0520-6190" title="ORCID: 0000-0003-0520-6190" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>
-,     <a href="../../../author/chen_peng"><b>Chen</b> Peng</a>
-,     <a href="../../../author/li_ning"><b>Li</b> Ning</a> <a href="https://orcid.org/0000-0002-7994-9504" title="ORCID: 0000-0002-7994-9504" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#extrusion`](keyword/extrusion)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#scale`](keyword/scale)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20the%20Extruder%20System%20Design%20for%20Large-Scale%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152560005&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4361286548" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16072661" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16072661?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D concrete printing (E3DCP) has been appreciated by academia and industry as the most plausible candidate for prospective concrete constructions. Considerable research efforts are dedicated to the material design to improve the extrudability of fresh concrete. However, at the time of writing this paper, there is still a lack of a review paper that highlights the significance of the mechanical design of the E3DCP system. This paper provides a comprehensive review of the mechanical design of the E3DCP extruder system in terms of the extruder system, positioning system and advanced fittings, and their effects on the extrudability are also discussed by relating to the extrusion driving forces and extrusion resistive forces which may include chamber wall shear force, shaping force, nozzle wall shear force, dead zone shear force and layer pressing force. Moreover, a classification framework of the E3DCP system as an extension of the DFC classification framework was proposed. The authors reckoned that such a classification framework could assist a more systematic E3DCP system design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "123 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/andersen_sebastian"><b>Andersen</b> Sebastian</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/paegle_ieva"><b>Paegle</b> Ieva</a>, <a href="../../../author/nielsen_henrik_jens"><b>Nielsen</b> Jens</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ande_silv_paeg_niel.2020.NMDtEABo3PC/">Numerical Model Describing the Early-Age Behavior of 3D Printed Concrete:<br/>Work in Progress</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -194,8 +170,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
       <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../most_krug.2025.ISaFPoM3PCBTFI/">Improving Shear and Flexural Performance of Macroscale 3D Printed Concrete Beams Through Filament Interlocking</a></li>
@@ -210,4 +186,34 @@ tags:
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../plac_schw.2023.CAMiC/">Concrete Additive Manufacturing in Construction:<br/>Integration Based on Component-Related Fabrication-Strategies</a></li>
       <li><a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a>, <a href="../../../author/vieira_gomes_manuel"><b>Vieira</b> Manuel</a>, <a href="../../../author/oliveira_jose_miguel"><b>Oliveira</b> Miguel</a>, <a href="../../../author/yanamala_akhileswar"><b>Yanamala</b> Akhileswar</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../mcco_viei_oliv_yana.2023.3CP/">3D Concrete Printing:<br/>Factors Affecting the US and Portugal</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_chen_li.2023.ARotESDfLSEB3CP,
+      author            = "Hao Chen and Daobo Zhang and Peng Chen and Ning Li and Arnaud Perrot",
+      title             = "A Review of the Extruder System Design for Large-Scale Extrusion-Based 3D Concrete Printing",
+      doi               = "10.3390/ma16072661",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Chen, D. Zhang, P. Chen, N. Li and A. Perrot, “A Review of the Extruder System Design for Large-Scale Extrusion-Based 3D Concrete Printing”, <i>Materials</i>, vol. 16, no. 7, 2023, doi: 10.3390/ma16072661.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Hao, Daobo Zhang, Peng Chen, Ning Li, and Arnaud Perrot. “A Review of the Extruder System Design for Large-Scale Extrusion-Based 3D Concrete Printing”. <i>Materials</i> 16, no. 7 (2023). https://doi.org/10.3390/ma16072661.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tao Ding, Haining Dong, Paweł Sikora, Guan Lin
+    - footer
+title: Ding Tao, Dong Haining, Sikora Paweł, Lin Guan
 description:
 tags:
  - bond
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids:<br/>:aca-blank: Concept and Bond Tests ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.istruc.2025.109693" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.109693</a>
+#3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">Concept and Bond Tests</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.109693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109693" target="_blank">10.1016/j.istruc.2025.109693</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <a href="../../../author/dong_haining"><b>Dong</b>&nbsp;Haining</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3745-8675" title="ORCID: 0000-0003-3745-8675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lin_guan"><b>Lin</b>&nbsp;Guan</a></span><br>
+Journal Article - Structures, Vol. 80, No. 109693
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dong_haining"><b>Dong</b> Haining</a>
-,     <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="https://orcid.org/0000-0003-3745-8675" title="ORCID: 0000-0003-3745-8675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 80, No. 109693
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concept`](keyword/concept)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#flexibility`](keyword/flexibility)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexibility"><button class="btn">#flexibility</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20Reinforced%20with%20Flexible%20Fiber%20Reinforced%20Polymer%20Strips%20or%20Grids" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010556155&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412430468" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.109693" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.109693?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of the major challenges for the wide application of three-dimensional (3D) printed concrete lies in the lack of a reliable and convenient reinforcement procedure for improving the durability and structural performance of the printed structures. This paper presents two innovative reinforcing methods using fiber reinforced polymer (FRP) grids or strips, i.e., the synchronous printing method and the inter-layer laying method. By capitalizing the flexibility of FRP grids/strips, the proposed reinforcing methods aim to achieve the printing of concrete and reinforcement synchronously. As the first step, an experimental program was conducted to evaluate the bond performance between FRP and 3D-printed concrete. To this end, 3D-printed concrete specimens with FRP strips or grids embedded were fabricated and pull-out tests were conducted. The effects of various key parameters on the bond performance were examined in detail. The test results showed that the bond strength between FRP and 3D-printed concrete could reach above 14.0 MPa for specimens fabricated with the synchronous printing method and above 4.0 MPa for those with the inter-layer laying method, demonstrating the great potential of the proposed reinforcing methods in practice.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
@@ -118,8 +96,38 @@ tags:
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zeng_yan_jian_li.2024.3PoFGaBRfRCP/">3D Printing of FRP Grid and Bar Reinforcement for Reinforced Concrete Plates:<br/>Development and Effectiveness</a></li>
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_dong_siko_lin.2025.3PCRwFFRPSoG,
+      author            = "Tao Ding and Haining Dong and Paweł Sikora and Guan Lin",
+      title             = "3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids: Concept and Bond Tests",
+      doi               = "10.1016/j.istruc.2025.109693",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "80",
+      pages             = "109693",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Ding, H. Dong, P. Sikora and G. Lin, “3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids: Concept and Bond Tests”, <i>Structures</i>, vol. 80, p. 109693, 2025, doi: 10.1016/j.istruc.2025.109693.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Tao, Haining Dong, Paweł Sikora, and Guan Lin. “3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids: Concept and Bond Tests”. <i>Structures</i> 80 (2025): 109693. https://doi.org/10.1016/j.istruc.2025.109693.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

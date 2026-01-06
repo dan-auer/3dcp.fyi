@@ -8,7 +8,7 @@ search:
 
 # #validation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>
   <li><a href="../../../author/lee_chang-hwan"><b>Lee</b> Chang-Hwan</a>, <a href="../../../author/gwak_kwan-woong"><b>Gwak</b> Kwan-Woong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lee_gwak.2025.EVoaCDPRf3PBC/">Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction</a></li>
   <li><a href="../../../author/dragomir_mihai"><b>Dragomir</b> Mihai</a>, <a href="../../../author/salem_tareq"><b>Salem</b> Tareq</a>, <a href="../../../author/dragomir_diana"><b>Dragomir</b> Diana</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../drag_sale_drag_hedj.2025.DViCPMU3P/">Design Validation in Construction Project Management Using 3D Printing</a></li>

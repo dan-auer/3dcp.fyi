@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhenjiang Xia, Jian Geng, Zhijie Zhou, Genjin Liu
+    - footer
+title: Xia Zhenjiang, Geng Jian, Zhou Zhijie, Liu Genjin
 description:
 tags:
  - analysis
@@ -20,36 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>:aca-blank: Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140098" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140098</a>
+#Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140098" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140098" target="_blank">10.1016/j.conbuildmat.2025.140098</a>
 
--------------------------
+<a href="../../../author/xia_zhenjiang"><b>Xia</b>&nbsp;Zhenjiang</a></span>, <a href="../../../author/geng_jian"><b>Geng</b>&nbsp;Jian</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-0093-0763" title="ORCID: 0009-0005-0093-0763" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_zhijie"><b>Zhou</b>&nbsp;Zhijie</a></span>, <a href="../../../author/liu_genjin"><b>Liu</b>&nbsp;Genjin</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 465, No. 140098
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>
-,     <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>
-,     <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a> <a href="https://orcid.org/0009-0005-0093-0763" title="ORCID: 0009-0005-0093-0763" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 465, No. 140098
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#basalt`](keyword/basalt)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#flow`](keyword/flow)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%20Polypropylene%2C%20Basalt%2C%20and%20Steel%20Fibers%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216288698&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406971007" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140098" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140098?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study conducts a comprehensive analysis of the effects of polypropylene (PP), basalt, and steel fibers on the workability, printability, rheological, and mechanical properties of 3D printed concrete (3DPC) with varying fiber contents and lengths. Tests include jump table, concrete strip extrusion (φ20 ×500 mm), thin-walled square tube buildability (200 ×200 ×280 mm), and strength evaluations, along with SEM analysis of the fiber-matrix interface. Results show that fiber content and length affect flow spread: PP fibers reduce flow due to higher cement paste consumption, basalt fibers reduce it due to water absorption, and steel fibers cause the most reduction due to density and interlocking. When material flowability is between 170 and 195 mm, the extrusion strip width is uniform, with strong height retention, especially with steel fibers. All fibers increase yield stresses, with steel fibers having the most impact. Optimal mechanical properties occur at fiber contents of 0.5 % for PP, 0.3 % for basalt, and 0.7 % for steel. Compressive strength in the Z-direction increases by 11.5 %, 4.7 %, and 22.5 %, and flexural strength in the Zx-direction increases by 26.4 %, 12.1 %, and 71.1 %, compared to un-reinforced concrete. Steel fibers are the most effective at enhancing strength due to their stiffness and matrix interlocking. SEM analysis shows that PP fibers are mostly vertically oriented in print strips, with interlayer fibers parallel to the cross-section. Failure modes include pull-out and rupture. Basalt fibers are more disordered and fail mainly through rupture. Steel fibers align well, with pull-out as the main failure mode, providing strong interlocking with the cement matrix for better energy absorption.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -118,8 +93,10 @@ tags:
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a>, <a href="../../../author/worms_paul"><b>Worms</b> Paul</a>, <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sand_alve_worm_gurl.2025.EoCEICFRia3PGC/">Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
@@ -129,4 +106,34 @@ tags:
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
       <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../srin_pand_sura_sith.2025.MDOo3PCCfMA/">Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications:<br/>Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xia_geng_zhou_liu.2025.CAoPBaSFi3PC,
+      author            = "Zhenjiang Xia and Jian Geng and Zhijie Zhou and Genjin Liu",
+      title             = "Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete: Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance",
+      doi               = "10.1016/j.conbuildmat.2025.140098",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "465",
+      pages             = "140098",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Xia, J. Geng, Z. Zhou and G. Liu, “Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete: Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance”, <i>Construction and Building Materials</i>, vol. 465, p. 140098, 2025, doi: 10.1016/j.conbuildmat.2025.140098.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xia, Zhenjiang, Jian Geng, Zhijie Zhou, and Genjin Liu. “Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete: Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance”. <i>Construction and Building Materials</i> 465 (2025): 140098. https://doi.org/10.1016/j.conbuildmat.2025.140098.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

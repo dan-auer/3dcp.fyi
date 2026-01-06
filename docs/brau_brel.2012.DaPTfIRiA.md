@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Johannes Braumann, Sigrid Brell-Cokcan
+    - footer
+title: Braumann Johannes, Brell-Cokcan Sigrid
 description:
 tags:
  - architecture
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital and Physical Tools for Industrial Robots in Architecture:<br/>:aca-blank: Robotic Interaction and Interfaces ([2012-12](date/2012/12))
-<a href="https://doi.org/10.1260/1478-0771.10.4.541" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1260/1478-0771.10.4.541</a>
+#Digital and Physical Tools for Industrial Robots in Architecture&nbsp;([2012-12](date/2012/12))
+<div class="h1-like">Robotic Interaction and Interfaces</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1260/1478-0771.10.4.541" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1260/1478-0771.10.4.541" target="_blank">10.1260/1478-0771.10.4.541</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9924-2787" title="ORCID: 0000-0001-9924-2787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/braumann_johannes"><b>Braumann</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1463-7515" title="ORCID: 0000-0003-1463-7515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brell-cokcan_sigrid"><b>Brell-Cokcan</b>&nbsp;Sigrid</a></span><br>
+Journal Article - International Journal of Architectural Computing, Vol. 10, Iss. 4, pp. 541-554
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/braumann_johannes"><b>Braumann</b> Johannes</a> <a href="https://orcid.org/0000-0001-9924-2787" title="ORCID: 0000-0001-9924-2787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brell-cokcan_sigrid"><b>Brell-Cokcan</b> Sigrid</a> <a href="https://orcid.org/0000-0003-1463-7515" title="ORCID: 0000-0003-1463-7515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Architectural Computing, Vol. 10, Iss. 4, pp. 541-554
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#digital`](keyword/digital)
-    [`#industry`](keyword/industry)
-    [`#interaction`](keyword/interaction)
-    [`#interface`](keyword/interface)
-    [`#physics`](keyword/physics)
-    [`#robot`](keyword/robot)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20and%20Physical%20Tools%20for%20Industrial%20Robots%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84874231824&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,21 +39,48 @@ tags:
 <a href="https://inciteful.xyz/p/W2046409975" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1260/1478-0771.10.4.541" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1260/1478-0771.10.4.541?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The development of digital and physical tools is highly dependent on interfaces, which define the terms of interaction both between humans and machines, as well as between machines and other machines.This research explores how new, advanced human machine interfaces, that are built upon concepts established by entertainment electronics can enhance the interaction between users and complex, kinematic machines. Similarly, physical computing greatly innovates machinemachine interaction, as it allows designers to easily customize microcontroller boards and to embed them into complex systems, where they drive actuators and interact with other machines such as industrial robots.These approaches are especially relevant in the creative industry, where customized soft- and hardware is now enabling innovative and highly effective fabrication strategies that have the potential to compete with high-tech industry applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kont_tryf.2018.IPDwRAMf3CP/">Integrating Parametric Design with Robotic Additive Manufacturing for 3D Clay Printing:<br/>An Experimental Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{brau_brel.2012.DaPTfIRiA,
+      author            = "Johannes Braumann and Sigrid Brell-Cokcan",
+      title             = "Digital and Physical Tools for Industrial Robots in Architecture: Robotic Interaction and Interfaces",
+      doi               = "10.1260/1478-0771.10.4.541",
+      year              = "2012",
+      journal           = "International Journal of Architectural Computing",
+      volume            = "10",
+      number            = "4",
+      pages             = "541--554",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Braumann  and S. Brell-Cokcan, “Digital and Physical Tools for Industrial Robots in Architecture: Robotic Interaction and Interfaces”, <i>International Journal of Architectural Computing</i>, vol. 10, no. 4, pp. 541–554, 2012, doi: 10.1260/1478-0771.10.4.541.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Braumann, Johannes, and Sigrid Brell-Cokcan. “Digital and Physical Tools for Industrial Robots in Architecture: Robotic Interaction and Interfaces”. <i>International Journal of Architectural Computing</i> 10, no. 4 (2012): 541–54. https://doi.org/10.1260/1478-0771.10.4.541.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

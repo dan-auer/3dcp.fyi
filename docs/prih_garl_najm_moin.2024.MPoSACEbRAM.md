@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arjun Prihar, Maria Garlock, Aimane Najmeddine, Mohamadreza Moini
+    - footer
+title: Prihar Arjun, Garlock Maria, Najmeddine Aimane, Moini Mohamadreza
 description:
 tags:
  - additive
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2024.112671) Mechanical Performance of Sinusoidally Architected Concrete Enabled by Robotic Additive Manufacturing ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.matdes.2024.112671" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2024.112671</a>
+#Mechanical Performance of Sinusoidally Architected Concrete Enabled by Robotic Additive Manufacturing ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2024.112671) <a href="https://doi.org/10.1016/j.matdes.2024.112671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2024.112671" target="_blank">10.1016/j.matdes.2024.112671</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0366-4211" title="ORCID: 0000-0002-0366-4211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prihar_arjun"><b>Prihar</b>&nbsp;Arjun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6465-9504" title="ORCID: 0000-0002-6465-9504" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garlock_e-moreyra_maria"><b>Garlock</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3438-0449" title="ORCID: 0000-0002-3438-0449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/najmeddine_aimane"><b>Najmeddine</b>&nbsp;Aimane</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span><br>
+Journal Article - Materials & Design, Vol. 238, No. 112671
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a> <a href="https://orcid.org/0000-0002-0366-4211" title="ORCID: 0000-0002-0366-4211" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/garlock_e-moreyra_maria"><b>Garlock</b> Maria</a> <a href="https://orcid.org/0000-0002-6465-9504" title="ORCID: 0000-0002-6465-9504" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a> <a href="https://orcid.org/0000-0002-3438-0449" title="ORCID: 0000-0002-3438-0449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, Vol. 238, No. 112671
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#architecture`](keyword/architecture)
-    [`#concrete`](keyword/concrete)
-    [`#enabler`](keyword/enabler)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20of%20Sinusoidally%20Architected%20Concrete%20Enabled%20by%20Robotic%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=EID not found for the given DOI&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391074255" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2024.112671" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2024.112671?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete additive manufacturing (AM) is an emerging technology that enables the fabrication of complex and efficient geometries with intricate features. Here, the mechanical performance of bio-inspired sinusoidally architected concrete is investigated in comparison to monolithic, cast counterparts. A robotic additive manufacturing process was utilized to fabricate sinusoidal architectures in three orientations (denoted X, Y, and Z) and two rectilinear architectures and compared to conventionally cast specimens of equivalent geometries. Single-edge bend and single-edge-notched bend experiments were performed to test the strength and fracture toughness, respectively. Unlike rectilinear architectures, the X and Z-Sinusoidal architected concrete elicited a flexural strength and fracture toughness statistically equivalent to cast counterparts, whereas the Y-Sinusoidal architecture exhibited a 71 % increase in flexural strength as compared to the cast counterparts. Finite element simulations were carried out to evaluate the effect of sinusoidal frequency and amplitude on stress distribution through the test specimens. In addition, a theoretical analysis of stress concentration was conducted to understand the role of sinusoidal perturbation from surface to core. The sinusoidal architectures were observed to produce stress concentrations and non-uniform stress profiles (depending on two design variables, i.e., amplitude, A, and wavelength, λ), which led to outperforming rectilinear additively manufactured and cast counterparts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -103,8 +81,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS/">Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs</a></li>
       <li><a href="../../../author/casanova_euro"><b>Casanova</b> Euro</a>, <a href="../../../author/hidalgo_nelson"><b>Hidalgo</b> Nelson</a>, <a href="../../../author/valdebenito_michael"><b>Valdebenito</b> Michael</a>, <a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../casa_hida_vald_forc.2025.ORoCCWMwAC/">Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction</a></li>
@@ -114,6 +92,35 @@ tags:
       <li><a href="../../../author/daneshvar_dana"><b>Daneshvar</b> Dana</a>, <a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dane_rabi_gupt_najm.2024.GFoIBiTCRAM/">Geometric Fidelity of Interlocking Bodies in Two-Component Robotic Additive Manufacturing</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC/">Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression</a></li>
       <li><a href="../../../author/ralston_nadia"><b>Ralston</b> Nadia</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rals_gupt_moin.2024.3PoACSBwEaISC/">3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation</a></li>
-      <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../moin.2023.PiAIM/">Perspectives in Architected Infrastructure Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{prih_garl_najm_moin.2024.MPoSACEbRAM,
+      author            = "Arjun Prihar and Maria E. Moreyra Garlock and Aimane Najmeddine and Mohamadreza Moini",
+      title             = "Mechanical Performance of Sinusoidally Architected Concrete Enabled by Robotic Additive Manufacturing",
+      doi               = "10.1016/j.matdes.2024.112671",
+      year              = "2024",
+      journal           = "Materials & Design",
+      volume            = "238",
+      pages             = "112671",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Prihar, M. E. M. Garlock, A. Najmeddine and M. Moini, “Mechanical Performance of Sinusoidally Architected Concrete Enabled by Robotic Additive Manufacturing”, <i>Materials & Design</i>, vol. 238, p. 112671, 2024, doi: 10.1016/j.matdes.2024.112671.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Prihar, Arjun, Maria E. Moreyra Garlock, Aimane Najmeddine, and Mohamadreza Moini. “Mechanical Performance of Sinusoidally Architected Concrete Enabled by Robotic Additive Manufacturing”. <i>Materials & Design</i> 238 (2024): 112671. https://doi.org/10.1016/j.matdes.2024.112671.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

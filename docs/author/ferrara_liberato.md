@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ferrara Liberato 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_ferr_fran.2026.RCoCCICWf3PA/">Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications</a></li>
   <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_crem.2025.APFDMAtD3CPMaP/">A Particle Fluid Dynamics Modelling Approach to Design 3D Concrete Printing Materials and Processes</a></li>
   <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../rizz_lant_ferr_crem.2025.S/">ShapeGen3DCP:<br/>A Deep Learning Framework for Layer Shape Prediction in 3D Concrete Printing</a></li>

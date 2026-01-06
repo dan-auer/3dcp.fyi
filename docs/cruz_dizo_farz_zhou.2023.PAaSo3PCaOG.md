@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gil Cruz, John Dizon, Nima Farzadnia, Hongyu Zhou, Marianito Margarito, Joseph Garcia, Fred Liza, Rigoberto Advincula
+    - footer
+title: Cruz Gil, Dizon John, Farzadnia Nima, Zhou Hongyu, Margarito Marianito, Garcia Joseph, Liza Fred, Advincula Rigoberto
 description:
 tags:
  - application
@@ -13,33 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Performance, Applications, and Sustainability of 3D Printed Cement and Other Geomaterials ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1557/s43579-023-00358-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1557/s43579-023-00358-x</a>
+#Performance, Applications, and Sustainability of 3D Printed Cement and Other Geomaterials ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1557/s43579-023-00358-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1557/s43579-023-00358-x" target="_blank">10.1557/s43579-023-00358-x</a>
 
--------------------------
+<a href="../../../author/cruz_gil"><b>Cruz</b>&nbsp;Gil</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5076-2391" title="ORCID: 0000-0002-5076-2391" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dizon_ryan-c_john"><b>Dizon</b>&nbsp;John</a></span>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hongyu"><b>Zhou</b>&nbsp;Hongyu</a></span>, <a href="../../../author/margarito_marianito"><b>Margarito</b>&nbsp;Marianito</a></span>, <a href="../../../author/garcia_alfred_joseph"><b>Garcia</b>&nbsp;Joseph</a></span>, <a href="../../../author/liza_p_fred"><b>Liza</b>&nbsp;Fred</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2899-4778" title="ORCID: 0000-0002-2899-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/advincula_c_rigoberto"><b>Advincula</b>&nbsp;Rigoberto</a></span><br>
+Journal Article - MRS Communications
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cruz_gil"><b>Cruz</b> Gil</a>
-,     <a href="../../../author/dizon_ryan-c_john"><b>Dizon</b> John</a> <a href="https://orcid.org/0000-0002-5076-2391" title="ORCID: 0000-0002-5076-2391" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>
-,     <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/margarito_marianito"><b>Margarito</b> Marianito</a>
-,     <a href="../../../author/garcia_alfred_joseph"><b>Garcia</b> Joseph</a>
-,     <a href="../../../author/liza_p_fred"><b>Liza</b> Fred</a>
-,     <a href="../../../author/advincula_c_rigoberto"><b>Advincula</b> Rigoberto</a> <a href="https://orcid.org/0000-0002-2899-4778" title="ORCID: 0000-0002-2899-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - MRS Communications, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#cement`](keyword/cement)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%2C%20Applications%2C%20and%20Sustainability%20of%203D%20Printed%20Cement%20and%20Other%20Geomaterials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152451433&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4363678304" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1557/s43579-023-00358-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1557/s43579-023-00358-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Printing technologies are now widely used in various industries and are being adopted in the construction industry globally. While recent papers have focused on structures, designs, and applications, this paper reviews 3D concrete Printing (3DCP) to include advancements in material development and new applications. The chemical characteristics of the cementitious binder dominantly govern the 3D Printing of cement and other geomaterials. Such factors influence the material’s printability, including flowability, extrudability, and buildability during the printing process. This paper also emphasizes future perspectives and social and economic impacts. Based on the available literature, the cost of 3D printed construction can potentially be lower than conventional methods due to topology optimization, reduced labor requirement, and avoiding over-engineering. 3DCP provides tremendous opportunities for future materials research and development and broader adoption. Interesting insights on the available materials and technologies, together with the capabilities and possible applications of this technology, can guide stakeholders in the building and infrastructure industries.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -118,8 +95,9 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yu_leun.2019.Io3PDoMPoSHCCS/">Impact of 3D Printing-Direction on Mechanical Performance of Strain-Hardening Cementitious Composite (SHCC)</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bajw_flem_sama_bao.2025.So3PT/">Sustainability of 3D Printing Technology:<br/>A Review on Research Trends and Developments</a></li>
       <li><a href="../../../author/li_yifan"><b>Li</b> Yifan</a>, <a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a>, <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../li_chen_yang_guo.2025.IotIoMRotIBPoSW3PC/">Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components</a></li>
@@ -128,4 +106,32 @@ tags:
       <li><a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a>, <a href="../../../author/pimpalshende_anjusha"><b>Pimpalshende</b> Anjusha</a>, <a href="../../../author/chandak_a_mayuri"><b>Chandak</b> Mayuri</a>, <a href="../../../author/patil_r_tejas"><b>Patil</b> Tejas</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../raut_pimp_chan_pati.2025.ANMMFf3PFRPCUAAMT/">A Novel Multi-Method Framework for 3D Printed Fiber-Reinforced Polymer Concrete Utilizing Advance Additive Manufacturing Techniques</a></li>
       <li><a href="../../../author/li_te"><b>Li</b> Te</a>, <a href="../../../author/tier_laire"><b>Tier</b> Laire</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../li_tier.2023.AotEoGPotPoCBMf3PUI/">Analysis of the Effect of Glass-Powder on the Printability of Cement-Based Materials for 3D Printing Using ImageJ</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cruz_dizo_farz_zhou.2023.PAaSo3PCaOG,
+      author            = "Gil Cruz and John Ryan C. Dizon and Nima Farzadnia and Hongyu Zhou and Marianito Margarito and Joseph Alfred Garcia and Fred P. Liza and Rigoberto C. Advincula",
+      title             = "Performance, Applications, and Sustainability of 3D Printed Cement and Other Geomaterials",
+      doi               = "10.1557/s43579-023-00358-x",
+      year              = "2023",
+      journal           = "MRS Communications",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Cruz, “Performance, Applications, and Sustainability of 3D Printed Cement and Other Geomaterials”, <i>MRS Communications</i>, 2023, doi: 10.1557/s43579-023-00358-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cruz, Gil, John Ryan C. Dizon, Nima Farzadnia, Hongyu Zhou, Marianito Margarito, Joseph Alfred Garcia, Fred P. Liza, and Rigoberto C. Advincula. “Performance, Applications, and Sustainability of 3D Printed Cement and Other Geomaterials”. <i>MRS Communications</i>, 2023. https://doi.org/10.1557/s43579-023-00358-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

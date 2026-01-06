@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Egor Secrieru, Shirin Fataei, Christof Schröfl, Viktor Mechtcherine
+    - footer
+title: Secrieru Egor, Fataei Shirin, Schröfl Christof, Mechtcherine Viktor
 description:
 tags:
  - combination
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology ([2017-04](date/2017/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2017.03.199" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2017.03.199</a>
+#Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology ([2017-04](date/2017/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2017.03.199" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.03.199" target="_blank">10.1016/j.conbuildmat.2017.03.199</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8679-2325" title="ORCID: 0000-0001-8679-2325" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/secrieru_egor"><b>Secrieru</b>&nbsp;Egor</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7102-5094" title="ORCID: 0000-0001-7102-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fataei_shirin"><b>Fataei</b>&nbsp;Shirin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 144, pp. 451-461
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a> <a href="https://orcid.org/0000-0001-8679-2325" title="ORCID: 0000-0001-8679-2325" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a> <a href="https://orcid.org/0000-0001-7102-5094" title="ORCID: 0000-0001-7102-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> <a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 144, pp. 451-461
-
-:aca-blank:{ .lg .middle}
-    [`#combination`](keyword/combination)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#labor`](keyword/labor)
-    [`#link`](keyword/link)
-    [`#pumpability`](keyword/pumpability)
-    [`#rheology`](keyword/rheology)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/link"><button class="btn">#link</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20Concrete%20Pumpability%20Combining%20Different%20Laboratory%20Tools%20and%20Linkage%20to%20Rheology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85016713392&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2604661082" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2017.03.199" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2017.03.199?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The paper at hand focuses on various methods to characterize the pumpability of fresh concrete. Primarily the rheological behaviours of the concrete as a bulk are described. The study concentrates on the composition and rheological properties of the lubrication layer forming at the interface to the pipeline wall, since this layer is widely considered crucial for concrete pumpability. For this purpose, the material forming the lubrication layer (LL) is sampled from the various concrete mixtures. The results confirm that in addition to the rheological properties of the bulk of fresh concrete, the properties of the lubrication layer and the roughness of the pipe-wall significantly affect concrete flow in pipes. Based on the composition of the concrete and the lubrication layer, it is possible to design the constitutive material of the lubrication layer with properties similar to the one forming in concrete during pumping. It has as well been demonstrated that knowledge of the rheological properties of the lubrication layer is not sufficient to state whether the concrete is pumpable or not. Only a combination of rheological instruments makes the adequate description of concrete pumpability possible.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -74,8 +52,8 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2014/11">(2014-11)</a><br><a href="../../../secr_butl_mech.2014.TPoC/">Testing Pumpability of Concrete:<br/>From Laboratory into Practice</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
       <li><a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mali_riaz_rehm_usma.2024.AMDPi3PC/">Advancing Mix-Design Prediction in 3D Printed Concrete:<br/>Predicting Anisotropic Compressive Strength and Slump-Flow</a></li>
@@ -108,4 +86,34 @@ tags:
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/cotardo_dario"><b>Cotardo</b> Dario</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/lohaus_ludger"><b>Lohaus</b> Ludger</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../secr_cota_mech_loha.2018.CiCPDPaFoLMUP/">Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../nere_mech.2018.VSPRfEPoC/">Virtual Sliding-Pipe Rheometer for Estimating Pumpability of Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{secr_fata_schr_mech.2017.SoCPCDLTaLtR,
+      author            = "Egor Secrieru and Shirin Fataei and Christof Schröfl and Viktor Mechtcherine",
+      title             = "Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology",
+      doi               = "10.1016/j.conbuildmat.2017.03.199",
+      year              = "2017",
+      journal           = "Construction and Building Materials",
+      volume            = "144",
+      pages             = "451--461",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Secrieru, S. Fataei, C. Schröfl and V. Mechtcherine, “Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology”, <i>Construction and Building Materials</i>, vol. 144, pp. 451–461, 2017, doi: 10.1016/j.conbuildmat.2017.03.199.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Secrieru, Egor, Shirin Fataei, Christof Schröfl, and Viktor Mechtcherine. “Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology”. <i>Construction and Building Materials</i> 144 (2017): 451–61. https://doi.org/10.1016/j.conbuildmat.2017.03.199.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

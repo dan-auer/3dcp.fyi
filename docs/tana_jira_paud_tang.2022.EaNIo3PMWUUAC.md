@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ganchai Tanapornraweekit, Patiphat Jiramarootapong, Satish Paudel, Somnuk Tangtermsirikul, Chalermwut Snguanyat
+    - footer
+title: Tanapornraweekit Ganchai, Jiramarootapong Patiphat, Paudel Satish, Tangtermsirikul Somnuk, Snguanyat Chalermwut
 description:
 tags:
  - axis
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental and Numerical Investigation of 3D Printed Mortar Walls Under Uniform Axial Compression ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.129552" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.129552</a>
+#Experimental and Numerical Investigation of 3D Printed Mortar Walls Under Uniform Axial Compression ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129552" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129552" target="_blank">10.1016/j.conbuildmat.2022.129552</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8596-5896" title="ORCID: 0000-0001-8596-5896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b>&nbsp;Ganchai</a></span>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b>&nbsp;Patiphat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1757-8525" title="ORCID: 0000-0002-1757-8525" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paudel_satish"><b>Paudel</b>&nbsp;Satish</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2117-327X" title="ORCID: 0000-0003-2117-327X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b>&nbsp;Somnuk</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b>&nbsp;Chalermwut</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 360
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a> <a href="https://orcid.org/0000-0001-8596-5896" title="ORCID: 0000-0001-8596-5896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>
-,     <a href="../../../author/paudel_satish"><b>Paudel</b> Satish</a> <a href="https://orcid.org/0000-0002-1757-8525" title="ORCID: 0000-0002-1757-8525" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> <a href="https://orcid.org/0000-0003-2117-327X" title="ORCID: 0000-0003-2117-327X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 360, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#compression`](keyword/compression)
-    [`#experiment`](keyword/experiment)
-    [`#investigation`](keyword/investigation)
-    [`#mortar`](keyword/mortar)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#uniform`](keyword/uniform)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/uniform"><button class="btn">#uniform</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20and%20Numerical%20Investigation%20of%203D%20Printed%20Mortar%20Walls%20Under%20Uniform%20Axial%20Compression" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141235801&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4308493102" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.129552" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.129552?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to investigate and trace the behavior of 3D-printed load-bearing walls under uniform axial compression load. The manufacturing procedure of 3D-printed structures is unique as they are printed layer by layer where the interface between layers is usually a weak plane for 3D-printed structures. This weak plane also causes the printed mortar to behave as an orthotropic material. To analyze and trace the behavior of 3D-printed structures, the basic mechanical properties of the 3D-printed mortar as well as the interface strength between printed layers are investigated in this study. In addition, a series of load tests on 3D-printed load-bearing walls were performed to investigate the behavior of this kind of printed structure under uniform axial compression load. There are three different printing wall patterns tested in this study, plain, diamond, and carp walls. Both diamond and carp walls failed by buckling of the printed mortar. However, with a better load transfer path of the diamond wall, the diamond wall showed a more ductile response compared to the carp wall. The diamond wall requires less printing time and less mortar consumption, but it shows a higher load at first crack, higher loadcarrying capacity, and more ductile response compared to the other two walls, depicting its better overall performance as a load-bearing wall. This research also proposes an FE model which considers the interface strength of the 3D-printed layers. The proposed model can be used to predict the load–displacement, stress–strain distribution, load transfer path as well as failure pattern of the tested 3D-printed walls with satisfactory accuracy. The model can also capture well a complex geometrical non-linearity of the printed wall observed through buckling of the tested walls.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../jira_pras_sngu_tana.2020.LCCaFMo3PMWPUACL/">Load Carrying Capacity and Failure Mode of 3D Printing Mortar Wall Panel Under Axial Compression Loading</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>
@@ -87,8 +63,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_rui"><b>Luo</b> Rui</a>, <a href="../../../author/sun_bin"><b>Sun</b> Bin</a>, <a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../luo_sun_fei_du.2025.ISLi3PCDtTGIM/">Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity</a></li>
       <li><a href="../../../author/seepim_sirakan"><b>Seepim</b> Sirakan</a>, <a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b> Chamil</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../seep_dhan_tana_tang.2025.EoPITotSPo3PBUFPBL/">Effects of Printing Interval Time on the Structural Performance of 3D-Printed Beams Under Four-Point Bending Loads</a></li>
       <li><a href="../../../author/vollmert_jasper"><b>Vollmert</b> Jasper</a>, <a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a>, <a href="../../../author/alatassi_adel"><b>Alatassi</b> Adel</a>, <a href="../../../author/chmelnizkij_alexander"><b>Chmelnizkij</b> Alexander</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../voll_pera_alat_chme.2025.TSHMoCPS/">Towards Structural Health Monitoring of Clay-Printed Structures</a></li>
@@ -110,4 +86,33 @@ tags:
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../dey_nguy_nguy_srin.2023.FPo3PCSwLI/">Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills</a></li>
       <li><a href="../../../author/paudel_satish"><b>Paudel</b> Satish</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../paud.2023.IoMAtStSPo3PPWUUAC/">Investigation of Modelling Approaches to Study the Structural Performance of 3D Printed Plain Wall Under Uniform Axial Compression</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tana_jira_paud_tang.2022.EaNIo3PMWUUAC,
+      author            = "Ganchai Tanapornraweekit and Patiphat Jiramarootapong and Satish Paudel and Somnuk Tangtermsirikul and Chalermwut Snguanyat",
+      title             = "Experimental and Numerical Investigation of 3D Printed Mortar Walls Under Uniform Axial Compression",
+      doi               = "10.1016/j.conbuildmat.2022.129552",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "360",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Tanapornraweekit, P. Jiramarootapong, S. Paudel, S. Tangtermsirikul and C. Snguanyat, “Experimental and Numerical Investigation of 3D Printed Mortar Walls Under Uniform Axial Compression”, <i>Construction and Building Materials</i>, vol. 360, 2022, doi: 10.1016/j.conbuildmat.2022.129552.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tanapornraweekit, Ganchai, Patiphat Jiramarootapong, Satish Paudel, Somnuk Tangtermsirikul, and Chalermwut Snguanyat. “Experimental and Numerical Investigation of 3D Printed Mortar Walls Under Uniform Axial Compression”. <i>Construction and Building Materials</i> 360 (2022). https://doi.org/10.1016/j.conbuildmat.2022.129552.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

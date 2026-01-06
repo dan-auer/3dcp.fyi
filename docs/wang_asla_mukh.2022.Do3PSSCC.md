@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lining Wang, Farhad Aslani, Abhijit Mukherjee
+    - footer
+title: Wang Lining, Aslani Farhad, Mukherjee Abhijit
 description:
 tags:
  - cement
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of 3D Printable Self-Sensing Cementitious Composites ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127601" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127601</a>
+#Development of 3D Printable Self-Sensing Cementitious Composites ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127601" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127601" target="_blank">10.1016/j.conbuildmat.2022.127601</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4453-0516" title="ORCID: 0000-0003-4453-0516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_lining"><b>Wang</b>&nbsp;Lining</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b>&nbsp;Abhijit</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 337
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> <a href="https://orcid.org/0000-0003-4453-0516" title="ORCID: 0000-0003-4453-0516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b> Abhijit</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 337, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#development`](keyword/development)
-    [`#printability`](keyword/printability)
-    [`#self`](keyword/self)
-    [`#sensor`](keyword/sensor)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printable%20Self-Sensing%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129560555&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4226105955" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127601" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127601?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper explores the potential of fabricating self-sensing cementitious composites using the 3D printing technology. In this study, carbon fibre (CF) and activated carbon powder (ACP) were studied at various concentrations as functional fillers. An extrusion-based 3D printer was used for 3D printed samples preparation and the mould cast samples were fabricated as a direct comparison. The mechanical properties, electrical resistivity and piezoresistive performance in two directions were measured. The results indicate that 3D printing technology can achieve fibre alignment within the printed filament and, consequently, result in anisotropic behaviour of the 3D printed composites. The optimal mechanical strength with compressive strength of 74.9 MPa and flexural strength of 16.4 MPa were achieved by 3D printed composite with hybrid CF at 0.7 wt% and ACP at 0.25 wt%. The optimal 3D printed composite shows an excellent piezoresistive response with improved linearity, repeatability and signal quality when the loading direction is perpendicular to the printing direction, demonstrating a strong fit with the predicted equation. On the microstructural level, scanning electron microscopy images indicated the fibre alignment and enhanced fibre–matrix bonding of 3D printed composites.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a>, <a href="../../../author/neumann_thomas"><b>Neumann</b> Thomas</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hamb_moll_neum_volk.2016.PCPwACFEEHFS1M/">Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)</a></li>
@@ -78,8 +59,8 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_asla.2025.MaUPVPo3PRCCRwPF/">Mechanical and Ultrasonic Pulse Velocity Performance of 3D Printed Rubberised Cementitious Composites Reinforced with PVA Fibers</a></li>
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/mann_dhruv"><b>Mann</b> Dhruv</a>, <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sun_asla_mann_huan.2025.MaPBo3PSSOWCS/">Mechanical and Piezoresistive Behaviour of 3D Printed Self-Sensing One-Way Concrete Slab</a></li>
       <li><a href="../../../author/lopes-sousa_nilton_israel"><b>Lopes Sousa</b> Israel</a>, <a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../lope_liu_ales_lafl.2025.PPo3PCCDwCM/">Piezoresistive Performance of 3D Printed Cementitious Composites Doped with Carbon Microfibers</a></li>
@@ -96,4 +77,33 @@ tags:
       <li><a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../wang_asla.2023.SPoRCBw3PCBSEaSSCC/">Structural Performance of Reinforced Concrete Beams with 3D Printed Cement-Based Sensor Embedded and Self-Sensing Cementitious Composites</a></li>
       <li><a href="../../../author/goracci_guido"><b>Goracci</b> Guido</a>, <a href="../../../author/salgado_m_david"><b>Salgado</b> David</a>, <a href="../../../author/gaitero_j_juan"><b>Gaitero</b> Juan</a>, <a href="../../../author/dolado_s_jorge"><b>Dolado</b> Jorge</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../gora_salg_gait_dola.2022.ECPo3PCCwCN/">Electrical Conductive Properties of 3D Printed Concrete Composite with Carbon Nanofibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_asla_mukh.2022.Do3PSSCC,
+      author            = "Lining Wang and Farhad Aslani and Abhijit Mukherjee",
+      title             = "Development of 3D Printable Self-Sensing Cementitious Composites",
+      doi               = "10.1016/j.conbuildmat.2022.127601",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "337",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang, F. Aslani and A. Mukherjee, “Development of 3D Printable Self-Sensing Cementitious Composites”, <i>Construction and Building Materials</i>, vol. 337, 2022, doi: 10.1016/j.conbuildmat.2022.127601.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Lining, Farhad Aslani, and Abhijit Mukherjee. “Development of 3D Printable Self-Sensing Cementitious Composites”. <i>Construction and Building Materials</i> 337 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127601.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

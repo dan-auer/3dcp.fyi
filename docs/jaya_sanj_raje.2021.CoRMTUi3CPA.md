@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Roshan Jayathilakage, Jay Sanjayan, Pathmanathan Rajeev
+    - footer
+title: Jayathilakage Roshan, Sanjayan Jay, Rajeev Pathmanathan
 description:
 tags:
  - application
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comparison of Rheology Measurement Techniques Used in 3D Concrete Printing Applications ([2019-12](date/2019/12))
-<a href="https://doi.org/10.1007/978-981-15-7222-7_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-15-7222-7_23</a>
+#Comparison of Rheology Measurement Techniques Used in 3D Concrete Printing Applications ([2019-12](date/2019/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-15-7222-7_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-15-7222-7_23" target="_blank">10.1007/978-981-15-7222-7_23</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2031-2541" title="ORCID: 0000-0002-2031-2541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b>&nbsp;Roshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span><br>
+Contribution - Proceedings of the 10th International Conference on Structural Engineering and Construction Management, pp. 261-273
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a> <a href="https://orcid.org/0000-0002-2031-2541" title="ORCID: 0000-0002-2031-2541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 10th International Conference on Structural Engineering and Construction Management, pp. 261-273
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#comparison`](keyword/comparison)
-    [`#concrete`](keyword/concrete)
-    [`#measurement`](keyword/measurement)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#technique`](keyword/technique)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Rheology%20Measurement%20Techniques%20Used%20in%203D%20Concrete%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85092081770&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,27 +38,21 @@ tags:
 <a href="https://inciteful.xyz/p/W3090295365" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-15-7222-7_23" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-15-7222-7_23?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is a novel and emerging construction technique to build using digital technologies and additive manufacturing concepts. Some main advantages of 3DCP are reduced formwork wastage, the capability of constructing complex geometric shapes, higher precision, shorter construction time and increased safety. In the particular method, the structure is built layer by layer by extruding the material through a nozzle. Initially, the material should be pumped and extruded with considerable fluidity and workability. Immediately after the extrusion, the extruded layers should have enough strength and stiffness to retain the desired shape. Therefore, controlling the rheology of the material is of high importance in 3DCP. Due to the higher stiffness, and higher time and rate-dependent material behavior (thixotropic behavior) compared to the conventional concrete, conventional rheology measurement techniques have many limitations when used for 3DCPmaterial. Therefore, non-conventional (direct shear test, orifice extrusion, vane shear test), as well as conventional rheology measurement techniques (rotational rheometer and slump test), were conducted to compare the results and to characterize the rheological parameters. The rheological parameters (i.e. yield stress, viscosity, and thixotropic build rate) of concrete were measured for three different mixes. The achieved values were compared to decide the most suitable and reliable test method. The pros and cons of each test method also were discussed. The achieved yield stress values are different according to the test method used. However, a similar trend can be seen in all the testing methods. Rotational rheometer gives the lowest yield stress values, while an orifice extrusion test gives the highest yield stress values. Finally, it can be predicted that the extrusion-based testing methods such as orifice extrusion technique used in the current study give reliable results on yield stress and viscosity measurements due to the similarities between the measurement technique and the actual 3D printing extrusion process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../jaya_sanj_raje.2019.DSTftAoRPoCf3PA/">Direct-Shear-Test for the Assessment of Rheological Parameters of Concrete for 3D Printing Applications</a></li>
-      <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../jaya_sanj_raje.2020.CEf3CPUDES/">Characterizing Extrudability for 3D Concrete Printing Using Discrete Element Simulations</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sand_step.2025.TRoMSiSt3PoG/">The Role of Mixing Sequence in Shaping the 3D-Printability of Geopolymers</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
@@ -91,4 +68,35 @@ tags:
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../jaya_raje_sanj.2021.ERf3CP/">Extrusion Rheometer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../sanj_jaya_raje.2021.VIARCf3CP/">Vibration-Induced Active Rheology-Control for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{jaya_sanj_raje.2021.CoRMTUi3CPA,
+      author            = "Roshan I. Jayathilakage and Jay Gnananandan Sanjayan and Pathmanathan Rajeev",
+      title             = "Comparison of Rheology Measurement Techniques Used in 3D Concrete Printing Applications",
+      doi               = "10.1007/978-981-15-7222-7_23",
+      year              = "2021",
+      volume            = "94",
+      pages             = "261--273",
+      booktitle         = "Proceedings of the 10th International Conference on Structural Engineering and Construction Management",
+      editor            = "Ranjith Dissanayake and Priyan Mendis and Kolita Weerasekera and Sudhira de Silva and Shiromal Fernando",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. I. Jayathilakage, J. G. Sanjayan and P. Rajeev, “Comparison of Rheology Measurement Techniques Used in 3D Concrete Printing Applications”, in <i>Proceedings of the 10th International Conference on Structural Engineering and Construction Management</i>,  2021, vol. 94, pp. 261–273. doi: 10.1007/978-981-15-7222-7_23.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jayathilakage, Roshan I., Jay Gnananandan Sanjayan, and Pathmanathan Rajeev. “Comparison of Rheology Measurement Techniques Used in 3D Concrete Printing Applications”. In <i>Proceedings of the 10th International Conference on Structural Engineering and Construction Management</i>, edited by Ranjith Dissanayake, Priyan Mendis, Kolita Weerasekera, Sudhira de Silva, and Shiromal Fernando, 94:261–73, 2021. https://doi.org/10.1007/978-981-15-7222-7_23.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

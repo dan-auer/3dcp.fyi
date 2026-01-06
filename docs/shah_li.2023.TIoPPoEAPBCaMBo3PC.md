@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qamar Shahzad, Fangyuan Li
+    - footer
+title: Shahzad Qamar, Li Fangyuan
 description:
 tags:
  - age
@@ -22,36 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Influence of Print-Path on Early-Age Plastic Bearing-Capacity and Mechanical Behavior of 3D Printed Concrete:<br/>:aca-blank: A Novel Approach for Practical Applications ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.131794" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.131794</a>
+#The Influence of Print-Path on Early-Age Plastic Bearing-Capacity and Mechanical Behavior of 3D Printed Concrete&nbsp;([2023-05](date/2023/05))
+<div class="h1-like">A Novel Approach for Practical Applications</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.131794" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131794" target="_blank">10.1016/j.conbuildmat.2023.131794</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahzad_qamar"><b>Shahzad</b>&nbsp;Qamar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2815-3602" title="ORCID: 0000-0002-2815-3602" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_fangyuan"><b>Li</b>&nbsp;Fangyuan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 389
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="https://orcid.org/0000-0002-2815-3602" title="ORCID: 0000-0002-2815-3602" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 389, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#application`](keyword/application)
-    [`#approach`](keyword/approach)
-    [`#bearing`](keyword/bearing)
-    [`#behavior`](keyword/behavior)
-    [`#capacity`](keyword/capacity)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#path`](keyword/path)
-    [`#plastic`](keyword/plastic)
-    [`#practice`](keyword/practice)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Influence%20of%20Print-Path%20on%20Early-Age%20Plastic%20Bearing-Capacity%20and%20Mechanical%20Behavior%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85159453537&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4376651709" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.131794" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.131794?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) has been hailed as the most iconic productivity tool in the third industrial revolution. However, there are numerous research gaps that must be addressed in this rapidly expanding scientific area. Therefore, this study examined how print path affects early-age plastic bearing capacity and mechanical behavior of printed concrete. A novel experimental approach was proposed to measure the early-age plastic bearing capacity of printed concrete. To begin, a small body was printed and a specified load was given to the printed body at a specific moment to imitate the actual printing process. The maximum print height was then determined. This test method approximates printed concrete plastic bearing capability. The constructability of concrete is simple and feasible, and it is closely related to the full-scale printed specimens, which can be used as a measure in practical applications. Additionally, the compressive and splitting tensile strengths of printed specimens with varied printing paths were investigated. The outcomes demonstrated that printed specimens with parallel paths exhibit pronounced anisotropy. The printed concrete strength was substantially higher in the extrusion direction than in the perpendicular to the extrusion direction for parallel printing. The anisotropic behavior was significantly better when the printing path was orthogonal, but the concrete strength along the extrusion direction was much lower than with parallel printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -106,8 +81,8 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/li_xin"><b>Li</b> Xin</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wu_liu.2025.IoELotTDEo3PCwRSitGS/">Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../shah_li.2025.IoCIotMPo3PCS/">Impact of Concrete Interfaces on the Mechanical Performance of 3D Printed Concrete Structures</a></li>
@@ -115,4 +90,33 @@ tags:
       <li><a href="../../../author/yoshihara_rei"><b>Yoshihara</b> Rei</a>, <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yosh_naka_hash_sugi.2024.EoADHi3PCbMoXRC/">Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../shah_li.2023.AIMfBAo3PCaEA/">An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_li.2023.TIoPPoEAPBCaMBo3PC,
+      author            = "Qamar Shahzad and Fangyuan Li",
+      title             = "The Influence of Print-Path on Early-Age Plastic Bearing-Capacity and Mechanical Behavior of 3D Printed Concrete: A Novel Approach for Practical Applications",
+      doi               = "10.1016/j.conbuildmat.2023.131794",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "389",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Shahzad  and F. Li, “The Influence of Print-Path on Early-Age Plastic Bearing-Capacity and Mechanical Behavior of 3D Printed Concrete: A Novel Approach for Practical Applications”, <i>Construction and Building Materials</i>, vol. 389, 2023, doi: 10.1016/j.conbuildmat.2023.131794.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahzad, Qamar, and Fangyuan Li. “The Influence of Print-Path on Early-Age Plastic Bearing-Capacity and Mechanical Behavior of 3D Printed Concrete: A Novel Approach for Practical Applications”. <i>Construction and Building Materials</i> 389 (2023). https://doi.org/10.1016/j.conbuildmat.2023.131794.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

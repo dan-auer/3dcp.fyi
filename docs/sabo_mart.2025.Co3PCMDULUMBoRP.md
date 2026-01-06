@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Reem Sabouni, Samer Martini
+    - footer
+title: Sabouni Reem, Martini Samer
 description:
 tags:
  - base
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.jobe.2025.114060" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114060</a>
+#Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114060" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114060" target="_blank">10.1016/j.jobe.2025.114060</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4302-8890" title="ORCID: 0000-0003-4302-8890" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sabouni_reem"><b>Sabouni</b>&nbsp;Reem</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8272-7577" title="ORCID: 0000-0001-8272-7577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martini_samer"><b>al&nbsp;Martini</b>&nbsp;Samer</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114060
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a> <a href="https://orcid.org/0000-0003-4302-8890" title="ORCID: 0000-0003-4302-8890" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martini_samer"><b>al Martini</b> Samer</a> <a href="https://orcid.org/0000-0001-8272-7577" title="ORCID: 0000-0001-8272-7577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114060
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#local`](keyword/local)
-    [`#material`](keyword/material)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%203D%20Printed%20Concrete%20Mixtures%20Developed%20Using%20Local%20UAE%20Materials%20Based%20on%20Rheological%20Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015652512&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414136871" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114060" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114060?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the fresh and rheological properties of 3D printed concrete mixes developed using locally available United Arab Emirates (UAE) materials. Thirty-two 3D printed concrete mixes were developed with various constituents. These constituents included: water to binder ratio (w/b), superplasticizer (SP), fly ash (FA), silica fume (SF), and two types of fibers: Stewathix 600 (ST600) fiber and Glass Short Cut - FGCS HP (HP6) fiber. A rating procedure was developed to qualitatively and quantitatively evaluate and rate the printability of 3D concrete mixes. This evaluation procedure employs a manual mortar gun that is suitable to be used for on-site assessment. Also, a printability chart relating dynamic yield stress to plastic viscosity was developed. A recommended printability box was identified suggesting that 3DPC mixes with plastic viscosity between 15–97 Pa·s and dynamic yield stress between 400–1500 Pa are likely to demonstrate adequate printability. This chart can aid in the design and quality control of 3D printing concrete mixes. The open time test was performed on four selected mixes. The results revealed that medium dosages of ST600 (0.11%–0.22%) and HP6 (0.15%–0.22%) fibers enhanced the extrudability and buildability of 3DPC mixes, while contributing to a reduction in flowability. These mixes fell within the defined printability box. A lower w/b ratio enhanced short-term printability, whereas a higher ratio was needed for longer durations. Microsilica improved early printability but led to reduced performance after one hour. Finally, a large-scale laboratory printer was used to evaluate the printability of selected 3DPC mixes that fell within the identified printability box. The paper presents valuable practical insights for the construction industry in the UAE, which can foster the adoption of this technology in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/hertel_tobias"><b>Hertel</b> Tobias</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../beer_hert_luca_pont.2023.PtUoFRSiC/">Promoting the Use of Fe-Rich Slag in Construction:<br/>Development of a Hybrid Binder for 3D Printing</a></li>
@@ -101,7 +80,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../zhao_yang_zhu_ding.2022.EoRPaPSoMAo3PBFCM/">Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sabo_mart.2025.Co3PCMDULUMBoRP,
+      author            = "Reem Sabouni and Samer Al Martini",
+      title             = "Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties",
+      doi               = "10.1016/j.jobe.2025.114060",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114060",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Sabouni  and S. A. Martini, “Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties”, <i>Journal of Building Engineering</i>, p. 114060, 2025, doi: 10.1016/j.jobe.2025.114060.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sabouni, Reem, and Samer Al Martini. “Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties”. <i>Journal of Building Engineering</i>, 2025, 114060. https://doi.org/10.1016/j.jobe.2025.114060.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #rubber
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../abed_wari_alaw_jabr.2025.NGNZCfU3PC/">Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>Hybrid Machine Learning Optimized LC3 with Recycled Rubber</a></li>
   <li><a href="../../../author/su_yanli"><b>Su</b> Yanli</a>, <a href="../../../author/wu_chang"><b>Wu</b> Chang</a>, <a href="../../../author/shang_jiaqi"><b>Shang</b> Jiaqi</a>, <a href="../../../author/zhang_pu"><b>Zhang</b> Pu</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../su_wu_shan_zhan.2025.MPo3PHDCCwSCaMCR/">Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber</a></li>
   <li><a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/li_xiaoxi"><b>Li</b> Xiaoxi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../xion_liu_nie_li.2025.EoDSMMoSPSRRPoMPo3PC/">Effect of Different Surface Modification Methods of Small Particle Size Recycled Rubber Powder on Mechanical Properties of 3D Printed Concrete</a></li>

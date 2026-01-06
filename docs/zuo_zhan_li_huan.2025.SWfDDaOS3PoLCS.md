@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zibo Zuo, Yamei Zhang, Jin Li, Yulin Huang, Longlong Zhang, Xianggang Wang, Yaxin Tao, Wouter Corte
+    - footer
+title: Zuo Zibo, Zhang Yamei, Li Jin, Huang Yulin, Zhang Longlong, Wang Xianggang, Tao Yaxin, Corte Wouter
 description:
 tags:
  - buildability
@@ -21,41 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures:<br/>:aca-blank: A Case Study of a Full-Size Two-Story Building ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.jobe.2025.112370" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112370</a>
+#Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">A Case Study of a Full-Size Two-Story Building</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112370" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112370" target="_blank">10.1016/j.jobe.2025.112370</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_zibo"><b>Zuo</b>&nbsp;Zibo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <a href="../../../author/li_jin"><b>Li</b>&nbsp;Jin</a></span>, <a href="../../../author/huang_yulin"><b>Huang</b>&nbsp;Yulin</a></span>, <a href="../../../author/zhang_longlong"><b>Zhang</b>&nbsp;Longlong</a></span>, <a href="../../../author/wang_xianggang"><b>Wang</b>&nbsp;Xianggang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112370
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> <a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jin"><b>Li</b> Jin</a>
-,     <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>
-,     <a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a>
-,     <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112370
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#case`](keyword/case)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#full`](keyword/full)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#site`](keyword/site)
-    [`#size`](keyword/size)
-    [`#structure`](keyword/structure)
-    [`#system`](keyword/system)
-    [`#workflow`](keyword/workflow)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Systematic%20Workflow%20for%20Digital%20Design%20and%20On-Site%203D%20Printing%20of%20Large%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000254252&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408455708" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112370" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112370?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Numerous trial projects for 3D printed large concrete structures have been built around the world. However, the systematic coverage of the entire design and printing process is very limited. This paper presents a systematic workflow for the digital design and on-site 3D printing of large concrete structures, using a full-size 3D printed two-story building as a case study. To ensure the safety of 3D printed concrete structures, the proposed workflow fully considers the differences between printed and cast-in-place structures, and the design and construction are guided by the most unfavorable factors by introducing some discount factors. Specifically, the workflow covers 6 stages, i.e., computational conversion and design of structures, establishment of optimal construction methods, presetting of printing parameters, virtual printing and test evaluation, preparation and commissioning prior to printing, and on-site printing and monitoring. Using the workflow, the building with a height of 6 meters was successfully designed and printed with a small print deviation, and the maximum deviation of the height was controlled to 10 mm. The proposed workflow has the potential to become a common standard for 3D printing of large concrete buildings or structures, and can facilitate the widespread application of 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -117,8 +87,8 @@ tags:
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zuo_tao_cort.2024.ERoCTDDLSOS3PBoITI/">Experimental Research of Concrete Temperature-Distribution During Large-Scale On-Site 3D Printing Based on Infrared-Thermal-Imaging</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/geng_shao-bo"><b>Geng</b> Shao-bo</a>, <a href="../../../author/zhang_chen"><b>Zhang</b> Chen</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/hai_lu"><b>Hai</b> Lu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../geng_zhan_zhan_hai.2025.UCGCAi3PC/">Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete:<br/>Multi-Scale Mechanisms of Fracture Behaviour</a></li>
       <li><a href="../../../author/yang_xia"><b>Yang</b> Xia</a>, <a href="../../../author/wang_jiuyuan"><b>Wang</b> Jiuyuan</a>, <a href="../../../author/huang_han"><b>Huang</b> Han</a>, <a href="../../../author/wu_gengchen"><b>Wu</b> Gengchen</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yang_wang_huan_wu.2025.AWCBMfUS3CP/">Anti-Washout Cement-Based Material for Under-Seawater 3D Concrete Printing:<br/>Design, Mechanical Properties and Microstructural Analysis</a></li>
@@ -127,4 +97,33 @@ tags:
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zuo_tao_huan_zhan.2025.RTTMtEtSEo3PC/">Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete:<br/>From Lab to In-Situ Printing</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS,
+      author            = "Zibo Zuo and Yamei Zhang and Jin Li and Yulin Huang and Longlong Zhang and Xianggang Wang and Yaxin Tao and Wouter de Corte",
+      title             = "Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures: A Case Study of a Full-Size Two-Story Building",
+      doi               = "10.1016/j.jobe.2025.112370",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112370",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zuo, “Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures: A Case Study of a Full-Size Two-Story Building”, <i>Journal of Building Engineering</i>, p. 112370, 2025, doi: 10.1016/j.jobe.2025.112370.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zuo, Zibo, Yamei Zhang, Jin Li, Yulin Huang, Longlong Zhang, Xianggang Wang, Yaxin Tao, and Wouter de Corte. “Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures: A Case Study of a Full-Size Two-Story Building”. <i>Journal of Building Engineering</i>, 2025, 112370. https://doi.org/10.1016/j.jobe.2025.112370.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

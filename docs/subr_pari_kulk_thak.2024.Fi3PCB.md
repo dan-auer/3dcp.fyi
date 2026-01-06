@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kolluru Subramaniam, Spandana Paritala, Omkar Kulkarni, Manideep Thakur
+    - footer
+title: Subramaniam Kolluru, Paritala Spandana, Kulkarni Omkar, Thakur Manideep
 description:
 tags:
  - beam
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fracture in 3D Printed Concrete Beams:<br/>:aca-blank: Deflection and Penetration of Impinging Cracks at Layer Interfaces ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1061/jenmdt.emeng-7846" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jenmdt.emeng-7846</a>
+#Fracture in 3D Printed Concrete Beams&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Deflection and Penetration of Impinging Cracks at Layer Interfaces</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jenmdt.emeng-7846" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jenmdt.emeng-7846" target="_blank">10.1061/jenmdt.emeng-7846</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paritala_spandana"><b>Paritala</b>&nbsp;Spandana</a></span>, <a href="../../../author/kulkarni_omkar"><b>Kulkarni</b>&nbsp;Omkar</a></span>, <a href="../../../author/thakur_singh_manideep"><b>Thakur</b>&nbsp;Manideep</a></span><br>
+Journal Article - Journal of Engineering Mechanics, Vol. 150, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a> <a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kulkarni_omkar"><b>Kulkarni</b> Omkar</a>
-,     <a href="../../../author/thakur_singh_manideep"><b>Thakur</b> Manideep</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Engineering Mechanics, Vol. 150, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#deflection`](keyword/deflection)
-    [`#fracture`](keyword/fracture)
-    [`#interface`](keyword/interface)
-    [`#layer`](keyword/layer)
-    [`#penetration`](keyword/penetration)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/deflection"><button class="btn">#deflection</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fracture%20in%203D%20Printed%20Concrete%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205445144&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402925734" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jenmdt.emeng-7846" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jenmdt.emeng-7846?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Structural assemblies produced using three-dimensional (3D) concrete printing consist of multiple layers of extruded material deposited along precise trajectories. The stress response of the printed assembly relies on the stress transfer between the individual layers. The interface tensile bond strength formed between extruded layers is less than the tensile strength of the extruded parent material in the printing direction. The interface tensile bond strength decreases with an increase in the time gap between layers, which ranges from a few seconds to tens of minutes. Crack propagation was evaluated in a beam made of multiple printed layers using two-dimensional (2D) digital image correlation. The crack propagates by penetrating the interface between layers printed with smaller time intervals. Crack deflection occurs at the interface before the crack emerges into the next layer because the bond between the layers weakens with an increasing time gap. Decreasing bond strength between layers results in significant crack propagation along the interface and even a doubly deflected crack at the interface. A linear elastic fracture mechanics (LEFM)-based formulation of a crack impinging normally on a bimaterial interface was used to provide insights into crack propagation at a layer interface in a printed assembly. The crack deflection at the interface is interpreted as a decrease in the critical interface energy release rate (𝐺intc) relative to the critical fracture energy release rate for penetration (𝐺mc). The reduction in the 𝐺intc to values lower than a threshold value of 𝐺mc produces a deflection in the crack path at the interface. Crack propagation along the interface results in a mixed-mode fracture condition, and 𝐺intc contains contributions from Modes 1 and 2. The continued decrease of 𝐺intc relative to 𝐺mc produces a doubly deflected crack at the interface between layers. The crack deflection into the interface provides a rational reference for identifying strong and weak interfaces between the layers. The reduced capacity of the interface for identifying a weak interface leading to a cold joint can be identified using a fracture-based evaluation of crack deflection.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
@@ -101,8 +79,38 @@ tags:
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/dai_yecheng"><b>Dai</b> Yecheng</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ye_yang_yu_dai.2024.SEoFaFBo3PECC/">Size-Effect on Flexural and Fracture Behaviors of 3D Printed Engineered Cementitious Composites:<br/>Experimental and Numerical Studies</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{subr_pari_kulk_thak.2024.Fi3PCB,
+      author            = "Kolluru V. L. Subramaniam and Spandana Paritala and Omkar Kulkarni and Manideep Singh Thakur",
+      title             = "Fracture in 3D Printed Concrete Beams: Deflection and Penetration of Impinging Cracks at Layer Interfaces",
+      doi               = "10.1061/jenmdt.emeng-7846",
+      year              = "2024",
+      journal           = "Journal of Engineering Mechanics",
+      volume            = "150",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. V. L. Subramaniam, S. Paritala, O. Kulkarni and M. S. Thakur, “Fracture in 3D Printed Concrete Beams: Deflection and Penetration of Impinging Cracks at Layer Interfaces”, <i>Journal of Engineering Mechanics</i>, vol. 150, no. 12, 2024, doi: 10.1061/jenmdt.emeng-7846.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Subramaniam, Kolluru V. L., Spandana Paritala, Omkar Kulkarni, and Manideep Singh Thakur. “Fracture in 3D Printed Concrete Beams: Deflection and Penetration of Impinging Cracks at Layer Interfaces”. <i>Journal of Engineering Mechanics</i> 150, no. 12 (2024). https://doi.org/10.1061/jenmdt.emeng-7846.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

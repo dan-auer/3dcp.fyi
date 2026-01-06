@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fuyan Lyu, Dongliang Zhao, Xiaohui Hou, Li Sun, Qiang Zhang
+    - footer
+title: Lyu Fuyan, Zhao Dongliang, Hou Xiaohui, Sun Li, Zhang Qiang
 description:
 tags:
  - concrete
@@ -13,30 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/11/21/9822/pdf?version=1634805268) Overview of the Development of 3D Printing Concrete:<br/>:aca-blank: A Review ([2021-10](date/2021/10))
-<a href="https://doi.org/10.3390/app11219822" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app11219822</a>
+#Overview of the Development of 3D Printing Concrete&nbsp;([2021-10](date/2021/10))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/11/21/9822/pdf?version=1634805268) <a href="https://doi.org/10.3390/app11219822" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app11219822" target="_blank">10.3390/app11219822</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7112-0331" title="ORCID: 0000-0001-7112-0331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_fuyan"><b>Lyu</b>&nbsp;Fuyan</a></span>, <a href="../../../author/zhao_dongliang"><b>Zhao</b>&nbsp;Dongliang</a></span>, <a href="../../../author/hou_xiaohui"><b>Hou</b>&nbsp;Xiaohui</a></span>, <a href="../../../author/sun_li"><b>Sun</b>&nbsp;Li</a></span>, <a href="../../../author/zhang_qiang"><b>Zhang</b>&nbsp;Qiang</a></span><br>
+Journal Article - Applied Sciences, Vol. 11, Iss. 21
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lyu_fuyan"><b>Lyu</b> Fuyan</a> <a href="https://orcid.org/0000-0001-7112-0331" title="ORCID: 0000-0001-7112-0331" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_dongliang"><b>Zhao</b> Dongliang</a>
-,     <a href="../../../author/hou_xiaohui"><b>Hou</b> Xiaohui</a>
-,     <a href="../../../author/sun_li"><b>Sun</b> Li</a>
-,     <a href="../../../author/zhang_qiang"><b>Zhang</b> Qiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 11, Iss. 21, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#overview`](keyword/overview)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Overview%20of%20the%20Development%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117718629&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3208347508" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app11219822" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app11219822?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printing concrete technology has attracted more and more attention for smart construction due to its advantages of digitization, automation, and high degree of intelligence. This article introduces the basic principles and related processes of concrete 3D-printing technology, and reviews the development from the following four fields: the material properties, preparation technology, printing parameters, and evaluation criteria of 3D-printing concrete technology. Then the existing difficulties, development direction and key technologies of 3D-printing concrete are described. Finally, we look forward to the development prospects of 3D-printing concrete from the aspects of printing materials, software and hardware cooperation, printing technology, etc. All the researches will provide the useful references for the later development and research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "58 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bhat_sant.2020.EBo3PCbSoAAoS/">Enhancing Buildability of 3D Printable Concrete by Spraying of Accelerating-Admixture on Surface</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
@@ -121,8 +102,9 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "63 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/moreno_naser_inna"><b>Moreno</b> Inna</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_more_alva.2025.OtTPo3PA/">On the Tectonic Properties of 3D Printed Architecture:<br/>On the Tectonic Properties of 3D Printed Architecture</a></li>
       <li><a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../silv_raja_udaw.2025.T3PfPH/">Tailoring 3D Printing for Personalized Housing:<br/>Selecting the Right Technology for Custom Home Construction</a></li>
       <li><a href="../../../author/sakolaree_natthanicha"><b>Sakolaree</b> Natthanicha</a>, <a href="../../../author/taweesint_jutamas"><b>Taweesint</b> Jutamas</a>, <a href="../../../author/sungsiri_krisana"><b>Sungsiri</b> Krisana</a>, <a href="../../../author/assawamankongcharoen_sirikamol"><b>Assawamankongcharoen</b> Sirikamol</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sako_tawe_sung_assa.2025.EoFaMPaSoHMCMf3PT/">Evaluation of Fresh and Mechanical Properties and Shrinkage of Hydrophobic Mortar Containing Microfiber for 3D Printing Technology</a></li>
@@ -186,4 +168,34 @@ tags:
       <li><a href="../../../author/gimenez-carbo_ester"><b>Gimenez-Carbo</b> Ester</a>, <a href="../../../author/torres_raquel"><b>Torres</b> Raquel</a>, <a href="../../../author/coll_hugo"><b>Coll</b> Hugo</a>, <a href="../../../author/roig-flores_marta"><b>Roig-Flores</b> Marta</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../gime_torr_coll_roig.2022.PSotFaHPoUTIUtP3PM/">Preliminary Study of the Fresh and Hard Properties of UHPC That Is Used to Produce 3D Printed Mortar</a></li>
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../harb_rozi_yahi_louk.2022.PAoCBMBoRHKaVP/">Printability-Assessment of Cement-Based Materials Based on Rheology, Hydration Kinetics, and Viscoelastic Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lyu_zhao_hou_sun.2021.OotDo3PC,
+      author            = "Fuyan Lyu and Dongliang Zhao and Xiaohui Hou and Li Sun and Qiang Zhang",
+      title             = "Overview of the Development of 3D Printing Concrete: A Review",
+      doi               = "10.3390/app11219822",
+      year              = "2021",
+      journal           = "Applied Sciences",
+      volume            = "11",
+      number            = "21",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Lyu, D. Zhao, X. Hou, L. Sun and Q. Zhang, “Overview of the Development of 3D Printing Concrete: A Review”, <i>Applied Sciences</i>, vol. 11, no. 21, 2021, doi: 10.3390/app11219822.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lyu, Fuyan, Dongliang Zhao, Xiaohui Hou, Li Sun, and Qiang Zhang. “Overview of the Development of 3D Printing Concrete: A Review”. <i>Applied Sciences</i> 11, no. 21 (2021). https://doi.org/10.3390/app11219822.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

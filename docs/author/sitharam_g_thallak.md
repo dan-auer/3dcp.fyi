@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Sitharam Thallak 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../srin_pand_sura_sith.2025.MDOo3PCCfMA/">Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications:<br/>Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability</a></li>
   <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../srin_pand_sura_sith.2025.IoMCaCCoPoS3PM/">Influence of Mixture-Composition and Carbonation-Curing on Properties of Sustainable 3D Printable Mortars</a></li>
   <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/choaudhary_bhavesh"><b>Choaudhary</b> Bhavesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../srin_bodd_dey_choa.2024.DoOFU3CP/">Development of Outdoor Furniture Using 3D Concrete Printing</a></li>

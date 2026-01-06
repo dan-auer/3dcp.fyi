@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Jiao Dengwu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
   <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../duan_tao_lin_jiao.2025.3PDDMoLMitPM/">3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars:<br/>Experiment and Modelling</a></li>
   <li><a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/fakhrayee-nejad_siamak"><b>Fakhrayee Nejad</b> Siamak</a>, <a href="../../../author/ng_serina"><b>Ng</b> Serina</a>, <a href="../../../author/bose_baishakhi"><b>Bose</b> Baishakhi</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mikh_fakh_ng_bose.2024.PIaAiCP/">Practical Insights and Advances in Concrete Pumping</a></li>

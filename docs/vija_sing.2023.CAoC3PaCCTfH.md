@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jeyasingh Vijayalaxmi, Parth Singh
+    - footer
+title: Vijayalaxmi Jeyasingh, Singh Parth
 description:
 tags:
  - analysis
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comparative Analysis of Concrete 3D Printing and Conventional Construction Technique for Housing ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/b978-0-323-86011-6.00011-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-323-86011-6.00011-8</a>
+#Comparative Analysis of Concrete 3D Printing and Conventional Construction Technique for Housing ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-323-86011-6.00011-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-86011-6.00011-8" target="_blank">10.1016/b978-0-323-86011-6.00011-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0737-9530" title="ORCID: 0000-0002-0737-9530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vijayalaxmi_jeyasingh"><b>Vijayalaxmi</b>&nbsp;Jeyasingh</a></span>, <a href="../../../author/singh_parth"><b>Singh</b>&nbsp;Parth</a></span><br>
+Contribution - Innovative Processes and Materials in Additive Manufacturing, pp. 177-190
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vijayalaxmi_jeyasingh"><b>Vijayalaxmi</b> Jeyasingh</a> <a href="https://orcid.org/0000-0002-0737-9530" title="ORCID: 0000-0002-0737-9530" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_parth"><b>Singh</b> Parth</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Innovative Processes and Materials in Additive Manufacturing, pp. 177-190
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#conventional`](keyword/conventional)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%20Concrete%203D%20Printing%20and%20Conventional%20Construction%20Technique%20for%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85143317705&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320006321" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-323-86011-6.00011-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-323-86011-6.00011-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing is an emerging technology that prints structures rapidly, reducing the labor, and wastage of material. The use of 3D printing in building construction in India is a less explored area. The objective of this paper is to assess and compare the cost and time benefits of concrete 3D printing and conventional construction technology in housing. A conventional three bedrooms house is considered for comparing the time required and the cost entailed. The findings show that when the house is constructed with concrete 3D printing, there is a reduction in cost by 50%. The same house, when built with conventional materials, costs double. The concrete 3D printing house takes 10 days less time to be completed as against the use of conventional materials. This study provides insights into parameters that affect the cost of concrete 3D printing and also compares concrete 3D printing with other technologies. This study will be useful for architects and designers to understand the design implications to reduce cost and time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
@@ -76,8 +56,38 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../sun_gao_wang.2021.BPBBBa3PC/">Bond-Performance Between BFRP-Bars and 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{vija_sing.2023.CAoC3PaCCTfH,
+      author            = "Jeyasingh Vijayalaxmi and Parth Singh",
+      title             = "Comparative Analysis of Concrete 3D Printing and Conventional Construction Technique for Housing",
+      doi               = "10.1016/b978-0-323-86011-6.00011-8",
+      year              = "2023",
+      pages             = "177--190",
+      booktitle         = "Innovative Processes and Materials in Additive Manufacturing",
+      editor            = "Sunpreet Singh and Chander Prakash and Seeram Ramakrishna",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Vijayalaxmi  and P. Singh, “Comparative Analysis of Concrete 3D Printing and Conventional Construction Technique for Housing”, in <i>Innovative Processes and Materials in Additive Manufacturing</i>,  2023, pp. 177–190. doi: 10.1016/b978-0-323-86011-6.00011-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vijayalaxmi, Jeyasingh, and Parth Singh. “Comparative Analysis of Concrete 3D Printing and Conventional Construction Technique for Housing”. In <i>Innovative Processes and Materials in Additive Manufacturing</i>, edited by Sunpreet Singh, Chander Prakash, and Seeram Ramakrishna, 177–90, 2023. https://doi.org/10.1016/b978-0-323-86011-6.00011-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Leo Li, Bofeng Xiao, Z. Fang, Z. Xiong, Shaohua Chu, Albert Kwan
+    - footer
+title: Li Leo, Xiao Bofeng, Fang Z., Xiong Z., Chu Shaohua, Kwan Albert
 description:
 tags:
  - basalt
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing ([2020-11](date/2020/11))
-<a href="https://doi.org/10.1016/j.addma.2020.101684" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2020.101684</a>
+#Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing ([2020-11](date/2020/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2020.101684" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101684" target="_blank">10.1016/j.addma.2020.101684</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_gu_leo"><b>Li</b>&nbsp;Leo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3237-9188" title="ORCID: 0000-0002-3237-9188" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_bofeng"><b>Xiao</b>&nbsp;Bofeng</a></span>, <a href="../../../author/fang_q_z"><b>Fang</b>&nbsp;Z.</a></span>, <a href="../../../author/xiong_z"><b>Xiong</b>&nbsp;Z.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8650-8056" title="ORCID: 0000-0001-8650-8056" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chu_h_shaohua"><b>Chu</b>&nbsp;Shaohua</a></span>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b>&nbsp;Albert</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 37
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> <a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a> <a href="https://orcid.org/0000-0002-3237-9188" title="ORCID: 0000-0002-3237-9188" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>
-,     <a href="../../../author/xiong_z"><b>Xiong</b> Z.</a>
-,     <a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a> <a href="https://orcid.org/0000-0001-8650-8056" title="ORCID: 0000-0001-8650-8056" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 37, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#basalt`](keyword/basalt)
-    [`#coral`](keyword/coral)
-    [`#feasibility`](keyword/feasibility)
-    [`#fiber`](keyword/fiber)
-    [`#glass`](keyword/glass)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/coral"><button class="btn">#coral</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20of%20Glass-Basalt%20Fiber-Reinforced%20Seawater%20Coral%20Sand%20Mortar%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85096611570&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3096806823" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2020.101684" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2020.101684?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In remote islands and coastal areas, where there are no freshwater and river sand, the use of locally available seawater and marine sediments in mortar and concrete for building construction may be a better solution. Moreover, if there are no local materials for fabricating the formwork, 3D mortar/concrete printing may be considered. However, study on 3D printing using mortar/concrete made of seawater and marine sediments is still lacking. In this study, a series of mortar mixes made of seawater, coral sand, and glass or basalt fibers were produced to test their fresh and hardened properties for the purpose of developing 3D printable glass/basalt fiber reinforced seawater coral sand mortars. It was found that by adjusting the water reducer dosage, all the mortar mixes exhibited good buildability. The addition of glass or basalt fibers improved the flexural strength to some extent but slightly reduced the compressive strength. However, the flexural and compressive strengths of the printed specimens were significantly lower than those of the standard un-printed specimens. Overall, the fiber reinforced seawater coral sand mortar exhibits great potential to be applied as 3D printable cement-based material for use in remote areas.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
@@ -100,8 +75,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "65 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
@@ -168,4 +143,33 @@ tags:
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_xiao_fang_xion.2021.FoGBFRSCSMf3P,
+      author            = "Leo Gu Li and Bofeng Xiao and Z. Q. Fang and Z. Xiong and Shaohua H. Chu and Albert Kwok Hung Kwan",
+      title             = "Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing",
+      doi               = "10.1016/j.addma.2020.101684",
+      year              = "2021",
+      journal           = "Additive Manufacturing",
+      volume            = "37",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. G. Li, B. Xiao, Z. Q. Fang, Z. Xiong, S. H. Chu and A. K. H. Kwan, “Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing”, <i>Additive Manufacturing</i>, vol. 37, 2021, doi: 10.1016/j.addma.2020.101684.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Leo Gu, Bofeng Xiao, Z. Q. Fang, Z. Xiong, Shaohua H. Chu, and Albert Kwok Hung Kwan. “Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing”. <i>Additive Manufacturing</i> 37 (2021). https://doi.org/10.1016/j.addma.2020.101684.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

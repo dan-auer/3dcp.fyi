@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Egor Ivaniuk, Zlata Tošić, Steffen Müller, Daniel Lordick, Viktor Mechtcherine
+    - footer
+title: Ivaniuk Egor, Tošić Zlata, Müller Steffen, Lordick Daniel, Mechtcherine Viktor
 description:
 tags:
  - automation
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2024.105591) Automated Manufacturing of Reinforced Modules of Segmented Shells Based on 3D Printing with Strain-Hardening Cementitious Composites ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.autcon.2024.105591" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105591</a>
+#Automated Manufacturing of Reinforced Modules of Segmented Shells Based on 3D Printing with Strain-Hardening Cementitious Composites ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2024.105591) <a href="https://doi.org/10.1016/j.autcon.2024.105591" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105591" target="_blank">10.1016/j.autcon.2024.105591</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0905-9557" title="ORCID: 0000-0002-0905-9557" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b>&nbsp;Egor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6276-2452" title="ORCID: 0000-0002-6276-2452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tosic_zlata"><b>Tošić</b>&nbsp;Zlata</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muller_steffen"><b>Müller</b>&nbsp;Steffen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9739-4728" title="ORCID: 0000-0001-9739-4728" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lordick_daniel"><b>Lordick</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Automation in Construction, Vol. 166, No. 105591
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> <a href="https://orcid.org/0000-0002-0905-9557" title="ORCID: 0000-0002-0905-9557" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a> <a href="https://orcid.org/0000-0002-6276-2452" title="ORCID: 0000-0002-6276-2452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> <a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> <a href="https://orcid.org/0000-0001-9739-4728" title="ORCID: 0000-0001-9739-4728" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 166, No. 105591
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#hardened`](keyword/hardened)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#modular`](keyword/modular)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#segment`](keyword/segment)
-    [`#shell`](keyword/shell)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Manufacturing%20of%20Reinforced%20Modules%20of%20Segmented%20Shells%20Based%20on%203D%20Printing%20with%20Strain-Hardening%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197045724&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400229937" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105591" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105591?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To mitigate the negative environmental impact of cement production, it is crucial to adopt a more rational approach to its utilization. One approach is the fabrication of thin-walled concrete shells, which can cover large spans while minimalizing material consumption. The implementation of the modular approach in shell structures can overcome the limitations of the conventional formwork-based method. Until now, however, there was no approach available for fast and efficient automated production of reinforced concrete shell modules. This paper presents a fully automated method for creating such modules. It utilizes 3D printing with Strain-Hardening Cementitious Composite to fabricate the module contours. As a result, modules were manufactured in accordance with the proposed approach and were assembled into a shell structure. Finally, the developed module production method was analyzed to estimate the time required to produce a single module in the case of continuous flow production.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
@@ -104,8 +77,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -118,4 +91,34 @@ tags:
       <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ivan_tosi_lord_mech.2024.FPoVCMfTWCSS/">Flow Production of Variable Curved Modules for Thin-Walled Concrete Shell Structures</a></li>
       <li><a href="../../../author/adams_julian_thomas"><b>Adams</b> Thomas</a>, <a href="../../../author/wu_han_chu"><b>Wu</b> Chu</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../adam_wu_mull_mech.2024.ABMoCS/">As-Built Monitoring of Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ivan_tosi_mull_lord.2024.AMoRMoSSBo3PwSHCC,
+      author            = "Egor Ivaniuk and Zlata Tošić and Steffen Müller and Daniel Lordick and Viktor Mechtcherine",
+      title             = "Automated Manufacturing of Reinforced Modules of Segmented Shells Based on 3D Printing with Strain-Hardening Cementitious Composites",
+      doi               = "10.1016/j.autcon.2024.105591",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "166",
+      pages             = "105591",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Ivaniuk, Z. Tošić, S. Müller, D. Lordick and V. Mechtcherine, “Automated Manufacturing of Reinforced Modules of Segmented Shells Based on 3D Printing with Strain-Hardening Cementitious Composites”, <i>Automation in Construction</i>, vol. 166, p. 105591, 2024, doi: 10.1016/j.autcon.2024.105591.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ivaniuk, Egor, Zlata Tošić, Steffen Müller, Daniel Lordick, and Viktor Mechtcherine. “Automated Manufacturing of Reinforced Modules of Segmented Shells Based on 3D Printing with Strain-Hardening Cementitious Composites”. <i>Automation in Construction</i> 166 (2024): 105591. https://doi.org/10.1016/j.autcon.2024.105591.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

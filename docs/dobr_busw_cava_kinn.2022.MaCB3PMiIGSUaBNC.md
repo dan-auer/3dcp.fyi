@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: James Dobrzanski, Richard Buswell, Sergio Cavalaro, Peter Kinnell, Weiqiang Wang, Jie Xu, John Kolawole
+    - footer
+title: Dobrzanski James, Buswell Richard, Cavalaro Sergio, Kinnell Peter, Wang Weiqiang, Xu Jie, Kolawole John
 description:
 tags:
  - base
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://figshare.com/articles/journal_contribution/Milling_a_cement-based_3D_printable_mortar_in_its_green_state_using_a_ball-nosed_cutter/16930702/1/files/31325359.pdf) Milling a Cement-Based 3D Printable Mortar in Its Green State Using a Ball-Nosed Cutter ([2021-09](date/2021/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104266" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104266</a>
+#Milling a Cement-Based 3D Printable Mortar in Its Green State Using a Ball-Nosed Cutter ([2021-09](date/2021/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/journal_contribution/Milling_a_cement-based_3D_printable_mortar_in_its_green_state_using_a_ball-nosed_cutter/16930702/1/files/31325359.pdf) <a href="https://doi.org/10.1016/j.cemconcomp.2021.104266" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104266" target="_blank">10.1016/j.cemconcomp.2021.104266</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1921-4247" title="ORCID: 0000-0003-1921-4247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dobrzanski_james"><b>Dobrzanski</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cavalaro_sergio"><b>Cavalaro</b>&nbsp;Sergio</a></span>, <a href="../../../author/kinnell_peter"><b>Kinnell</b>&nbsp;Peter</a></span>, <a href="../../../author/wang_weiqiang"><b>Wang</b>&nbsp;Weiqiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kolawole_temitope_john"><b>Kolawole</b>&nbsp;John</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 125
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> <a href="https://orcid.org/0000-0003-1921-4247" title="ORCID: 0000-0003-1921-4247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> <a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>
-,     <a href="../../../author/wang_weiqiang"><b>Wang</b> Weiqiang</a>
-,     <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> <a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 125, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#green`](keyword/green)
-    [`#milling`](keyword/milling)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/milling"><button class="btn">#milling</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Milling%20a%20Cement-Based%203D%20Printable%20Mortar%20in%20Its%20Green%20State%20Using%20a%20Ball-Nosed%20Cutter" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117710112&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3202520213" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104266" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104266?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A key benefit of 3D concrete printing is the removal of the need for a mould enabling one-off and low volume production with greater variability in part geometry. The staircase effect generated by the layering is used as a feature of many applications, however for smooth surfaces and at interfaces between components, this may not always be desirable. In addition, global deformation of the part during printing may influence the accuracy of the final element. In order to compete with cast equivalents in this regard, secondary treatments such as subtractive milling and trowelling can be applied post printing. These are relatively new developments in the field of digital fabrication with concrete and there is little published work on methods and in particular, none that examine the effect of milling on the surface condition of 3D printing mortar. This paper explores these issues based on a manufacturing tooling perspective and finds that high quality surfaces can be formed, the roughness of which is affected by the size of the aggregates in the mix and the set-state of the material, which needs to be close to the solid state. In practice, this results in a ‘milling window’ which has implications for process timing and the robotic systems typically deployed for 3D concrete printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../bard_cupk_wash_zegl.2018.RCSF/">Robotic Concrete Surface Finishing:<br/>A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../beka_titt_schu.2020.PCaFM/">Printed Concrete as Formwork-Material:<br/>A Preliminary Study</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -94,8 +70,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a></li>
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_lin_wan_li.2024.MAIoCPbHASMBotTDCoCM/">Manufacturing Accuracy Improvement of Concrete Product by Hybrid Additive-Subtractive Method Based on the Time-Dependent Characteristics of Cementitious Materials</a></li>
@@ -114,4 +90,33 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/provis_lloyd_john"><b>Provis</b> John</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../xu_kola_prov_dobr.2022.AEToM3PCG/">An Early Trial on Milling 3D Printed Concrete Geometries:<br/>Observations and Insights of the Process</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dobr_busw_cava_kinn.2022.MaCB3PMiIGSUaBNC,
+      author            = "James Dobrzanski and Richard A. Buswell and Sergio Cavalaro and Peter Kinnell and Weiqiang Wang and Jie Jerry Xu and John Temitope Kolawole",
+      title             = "Milling a Cement-Based 3D Printable Mortar in Its Green State Using a Ball-Nosed Cutter",
+      doi               = "10.1016/j.cemconcomp.2021.104266",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "125",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Dobrzanski, “Milling a Cement-Based 3D Printable Mortar in Its Green State Using a Ball-Nosed Cutter”, <i>Cement and Concrete Composites</i>, vol. 125, 2022, doi: 10.1016/j.cemconcomp.2021.104266.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dobrzanski, James, Richard A. Buswell, Sergio Cavalaro, Peter Kinnell, Weiqiang Wang, Jie Jerry Xu, and John Temitope Kolawole. “Milling a Cement-Based 3D Printable Mortar in Its Green State Using a Ball-Nosed Cutter”. <i>Cement and Concrete Composites</i> 125 (2022). https://doi.org/10.1016/j.cemconcomp.2021.104266.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Karla Cuevas Villalobos, Joachim Weinhold, Dietmar Stephan, Ji-Su Kim
+    - footer
+title: Cuevas Villalobos Karla, Weinhold Joachim, Stephan Dietmar, Kim Ji-Su
 description:
 tags:
  - characteristic
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Printing-Patterns on Pore-Related Microstructural Characteristics and Properties of Materials for 3D Concrete Printing Using In-Situ and Ex-Situ Imaging-Techniques ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133220" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133220</a>
+#Effect of Printing-Patterns on Pore-Related Microstructural Characteristics and Properties of Materials for 3D Concrete Printing Using In-Situ and Ex-Situ Imaging-Techniques ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133220" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133220" target="_blank">10.1016/j.conbuildmat.2023.133220</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1872-1493" title="ORCID: 0000-0002-1872-1493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b>&nbsp;Karla</a></span>, <a href="../../../author/weinhold_joachim"><b>Weinhold</b>&nbsp;Joachim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span>, <a href="../../../author/kim_ji-su"><b>Kim</b>&nbsp;Ji-Su</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 405
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a> <a href="https://orcid.org/0000-0002-1872-1493" title="ORCID: 0000-0002-1872-1493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weinhold_joachim"><b>Weinhold</b> Joachim</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_ji-su"><b>Kim</b> Ji-Su</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 405, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#image`](keyword/image)
-    [`#material`](keyword/material)
-    [`#pattern`](keyword/pattern)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#relation`](keyword/relation)
-    [`#situ`](keyword/situ)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Printing-Patterns%20on%20Pore-Related%20Microstructural%20Characteristics%20and%20Properties%20of%20Materials%20for%203D%20Concrete%20Printing%20Using%20In-Situ%20and%20Ex-Situ%20Imaging-Techniques" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171355088&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386796634" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133220" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133220?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed samples have the unique feature of being layered and laminated to form a structure. The pore distribution characteristics around layers and filaments differ from cast specimens and significantly affect the mechanical properties. To produce high-quality 3D printed elements in terms of structural integrity and long-term performance, it is essential to understand their microstructural characteristics both during the printing process and after curing. In this paper, an in situ imaging analysis technique is proposed to examine the effects of printing patterns on pore-related characteristics and their correlation with the mechanical properties of 3D printed concrete. The interfilament voids of fresh 3D printed specimens, one of the most important factors affecting the mechanical properties, are investigated using in situ images obtained during the printing process and through an ex situ image analysis using X-ray micro-computed tomography. Additionally, the spatial distributions of pores in entire printed prisms after one-day curing are obtained by ex situ imaging analysis. Through combining in situ and ex situ analyses, it was found that the changes in pore distribution during hardening are different depending on the printing patterns. The characteristics of interfilament voids significantly impact the performance of the printed sample, resulting from the anisotropy of the pore distributions. The obtained results provide insight into a real-time image-based microstructural monitoring technology for 3D concrete printing, which can be utilized to suggest the optimal printing patterns for the purpose.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -108,8 +82,8 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../khan_das.2025.TPaaMfACPo3PSM/">Testing Prisms as a Method for Assessing Compressive Properties of 3D-Printed Structural Members:<br/>Experimental and Numerical Studies</a></li>
@@ -118,4 +92,33 @@ tags:
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/glotz_theresa"><b>Glotz</b> Theresa</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../glot_petr.2024.ECoAMBaFMoHPC/">Experimental Characterization of Anisotropic Mechanical Behavior and Failure-Mechanisms of Hardened Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cuev_wein_step_kim.2023.EoPPoPRMCaPoMf3CPUISaESIT,
+      author            = "Karla Francisca Cuevas Villalobos and Joachim Weinhold and Dietmar Stephan and Ji-Su Kim",
+      title             = "Effect of Printing-Patterns on Pore-Related Microstructural Characteristics and Properties of Materials for 3D Concrete Printing Using In-Situ and Ex-Situ Imaging-Techniques",
+      doi               = "10.1016/j.conbuildmat.2023.133220",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "405",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. F. C. Villalobos, J. Weinhold, D. Stephan and J.-S. Kim, “Effect of Printing-Patterns on Pore-Related Microstructural Characteristics and Properties of Materials for 3D Concrete Printing Using In-Situ and Ex-Situ Imaging-Techniques”, <i>Construction and Building Materials</i>, vol. 405, 2023, doi: 10.1016/j.conbuildmat.2023.133220.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Villalobos, Karla Francisca Cuevas, Joachim Weinhold, Dietmar Stephan, and Ji-Su Kim. “Effect of Printing-Patterns on Pore-Related Microstructural Characteristics and Properties of Materials for 3D Concrete Printing Using In-Situ and Ex-Situ Imaging-Techniques”. <i>Construction and Building Materials</i> 405 (2023). https://doi.org/10.1016/j.conbuildmat.2023.133220.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nils Olsson, Emrah Arica, Ruth Woods, Javier Madrid
+    - footer
+title: Olsson Nils, Arica Emrah, Woods Ruth, Madrid Javier
 description:
 tags:
  - construction
@@ -12,28 +13,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.plas.2021.100033) Industry 4.0 in a Project Context:<br/>:aca-blank: Introducing 3D Printing in Construction Projects ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1016/j.plas.2021.100033" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.plas.2021.100033</a>
+#Industry 4.0 in a Project Context&nbsp;([2021-10](date/2021/10))
+<div class="h1-like">Introducing 3D Printing in Construction Projects</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.plas.2021.100033) <a href="https://doi.org/10.1016/j.plas.2021.100033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.plas.2021.100033" target="_blank">10.1016/j.plas.2021.100033</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b>&nbsp;Nils</a></span>, <a href="../../../author/arica_emrah"><b>Arica</b>&nbsp;Emrah</a></span>, <a href="../../../author/woods_ruth"><b>Woods</b>&nbsp;Ruth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/madrid_alonso_javier"><b>Madrid</b>&nbsp;Javier</a></span><br>
+Journal Article - Project Leadership and Society, Vol. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a> <a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/arica_emrah"><b>Arica</b> Emrah</a>
-,     <a href="../../../author/woods_ruth"><b>Woods</b> Ruth</a>
-,     <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> <a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Project Leadership and Society, Vol. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#projection`](keyword/projection)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Industry%204.0%20in%20a%20Project%20Context" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130274821&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3204436998" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.plas.2021.100033" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.plas.2021.100033?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As an example of Industry 4.0 in a project context, 3D printing of concrete has the potential to provide a paradigm shift for construction processes with significant implications for project management. This study investigates and reports the enablers and barriers of implementing the innovative 3D printing technology in construction projects, based on a literature review and case study interviews in construction companies. 3D printing can make construction processes more effective, provided that project managers can utilize the potential. The interviews with industry representatives highlighted the issue of cost efficiency of the technology. There is a need to show practical project examples on cost efficiency of the 3D printing technology. To those who manage new technologies 3D printing and other aspects of Industry 4.0 represent an opportunity, while those who struggle to work with and understand new technologies, they represent a challenge or even a threat. Future project managers better be in the first category
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>, <a href="../../../author/zhang_xueqing"><b>Zhang</b> Xueqing</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../besk_skib_zhan.2021.FA3PTAiC/">Factors Affecting 3D Printing Technology Adaptation in Construction</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -68,12 +51,11 @@ tags:
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2011/10">(2011-10)</a><br><a href="../../../rael_frat.2011.DCPBCf3P/">Developing Concrete Polymer Building Components for 3D Printing</a></li>
-      <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../vare_barl_perr.2023.EaSBUo3PCPwFANCaV/">Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs</a></li>
       <li><a href="../../../author/wang_t_brydon"><b>Wang</b> Brydon</a>, <a href="../../../author/rimmer_matthew"><b>Rimmer</b> Matthew</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wang_rimm.2021.3PaH/">3D Printing and Housing:<br/>Intellectual Property and Construction Law</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
       <li><a href="../../../author/ma_jiayue"><b>Ma</b> Jiayue</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/zuo_kelvin"><b>Zuo</b> Kelvin</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ma_sama_roti_zuo.2025.ERMf3CPSCS/">Establishing Research Methods for 3D Concrete Printing Supply Chain Studies:<br/>Insights from Literature and Practice</a></li>
       <li><a href="../../../author/dragomir_mihai"><b>Dragomir</b> Mihai</a>, <a href="../../../author/salem_tareq"><b>Salem</b> Tareq</a>, <a href="../../../author/dragomir_diana"><b>Dragomir</b> Diana</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../drag_sale_drag_hedj.2025.DViCPMU3P/">Design Validation in Construction Project Management Using 3D Printing</a></li>
@@ -94,4 +76,33 @@ tags:
       <li><a href="../../../author/gran_erik"><b>Gran</b> Erik</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../gran_madr_orte_teno.2023.CSaLRoIoLMa3PiCtSS/">Conceptual Study and Literature Review of Integration of Lean Manufacturing and 3D Printing in Construction to Support Sustainability</a></li>
       <li><a href="../../../author/hu_hao"><b>Hu</b> Hao</a>, <a href="../../../author/cao_xiaoxiao"><b>Cao</b> Xiaoxiao</a>, <a href="../../../author/zhang_tao"><b>Zhang</b> Tao</a>, <a href="../../../author/chen_zhenfu"><b>Chen</b> Zhenfu</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../hu_cao_zhan_chen.2022.TDPMfCIPoHB/">Three-Dimensional Printing Materials for Cultural Innovation Products of Historical Buildings</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{olss_aric_wood_madr.2021.I40iaPC,
+      author            = "Nils Olof Emanuel Olsson and Emrah Arica and Ruth Woods and Javier Alonso Madrid",
+      title             = "Industry 4.0 in a Project Context: Introducing 3D Printing in Construction Projects",
+      doi               = "10.1016/j.plas.2021.100033",
+      year              = "2021",
+      journal           = "Project Leadership and Society",
+      volume            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. O. E. Olsson, E. Arica, R. Woods and J. A. Madrid, “Industry 4.0 in a Project Context: Introducing 3D Printing in Construction Projects”, <i>Project Leadership and Society</i>, vol. 2, 2021, doi: 10.1016/j.plas.2021.100033.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Olsson, Nils Olof Emanuel, Emrah Arica, Ruth Woods, and Javier Alonso Madrid. “Industry 4.0 in a Project Context: Introducing 3D Printing in Construction Projects”. <i>Project Leadership and Society</i> 2 (2021). https://doi.org/10.1016/j.plas.2021.100033.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

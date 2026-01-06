@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alexander Curth, Natalie Pearl, Angelica Castro-Salazar, Caitlin Mueller, Lawrence Sass
+    - footer
+title: Curth Alexander, Pearl Natalie, Castro-Salazar Angelica, Mueller Caitlin, Sass Lawrence
 description:
 tags:
  - assessment
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Earth:<br/>:aca-blank: Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.135714" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.135714</a>
+#3D Printing Earth&nbsp;([2024-03](date/2024/03))
+<div class="h1-like">Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135714" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135714" target="_blank">10.1016/j.conbuildmat.2024.135714</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3902-1787" title="ORCID: 0000-0002-3902-1787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/curth_sandy_alexander"><b>Curth</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-3497-5989" title="ORCID: 0009-0004-3497-5989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pearl_natalie"><b>Pearl</b>&nbsp;Natalie</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-8985-8821" title="ORCID: 0009-0006-8985-8821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b>&nbsp;Angelica</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7646-8505" title="ORCID: 0000-0001-7646-8505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mueller_t_caitlin"><b>Mueller</b>&nbsp;Caitlin</a></span>, <a href="../../../author/sass_lawrence"><b>Sass</b>&nbsp;Lawrence</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 421, No. 135714
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a> <a href="https://orcid.org/0000-0002-3902-1787" title="ORCID: 0000-0002-3902-1787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a> <a href="https://orcid.org/0009-0004-3497-5989" title="ORCID: 0009-0004-3497-5989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a> <a href="https://orcid.org/0009-0006-8985-8821" title="ORCID: 0009-0006-8985-8821" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> <a href="https://orcid.org/0000-0001-7646-8505" title="ORCID: 0000-0001-7646-8505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 421, No. 135714
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#circular`](keyword/circular)
-    [`#cycle`](keyword/cycle)
-    [`#earth`](keyword/earth)
-    [`#fabrication`](keyword/fabrication)
-    [`#life`](keyword/life)
-    [`#local`](keyword/local)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Earth" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187222942&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,21 +42,16 @@ tags:
 <a href="https://inciteful.xyz/p/W4392586274" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.135714" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.135714?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing with earth is an emerging, though largely uncharacterized, approach to fabricating low embodied carbon structures. It is critical to establish methods for processing 3D printed, locally sourced earthen materials in different environments to validate large-scale earthen additive manufacturing as a tool to address a growing global need for housing and climate-resilient architecture. We present a set of reproducible design guidelines for sourcing, processing, and characterizing locally sourced earthen materials. Soil type, moisture and fiber content, particle size distribution, and unconfined compressive strength are determined. Additionally, novel bridging, cantilevering, and hydrostatic pressure (formwork) testing methods are developed to link design constraints for full-scale printed structures to material characteristics. Modular and conformally printed full-scale wall prototypes are printed with a 6-axis robotic system. A Life Cycle Assessment of the prototypical earth printing system is conducted, establishing a point of comparison to the climate impact of other construction systems, including rammed earth, concrete masonry units, and 3D printed mortar. We demonstrate that printing highly functional building elements with repeatable mechanical characteristics is possible using locally sourced earth mixtures. By illustrating a range of reproducible material and geometric possibilities, we expand the design space of additive earth and its applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
       <li><a href="../../../author/bajpayee_aayushi"><b>Bajpayee</b> Aayushi</a>, <a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/pandey_aditi"><b>Pandey</b> Aditi</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bajp_fara_zaki_pand.2020.ISRUaRoSiCMftAMoB/">In-Situ Resource Utilization and Reconfiguration of Soils into Construction Materials for the Additive Manufacturing of Buildings</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
-      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/ji_yameng"><b>Ji</b> Yameng</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/leklou_nordine_ali"><b>Leklou</b> Ali</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ji_poul_lekl.2023.TSaDoEMf3P/">The Selection and Design of Earthen Materials for 3D Printing</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -90,9 +64,10 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bugarin_gilberto_juan"><b>Bugarin</b> Juan</a>, <a href="../../../author/hajjar_pedron_ayla"><b>Hajjar</b> Ayla</a>, <a href="../../../author/ssengooba_aloysious"><b>Ssengooba</b> Aloysious</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../buga_hajj_ssen_rang.2026.ACBaSCitIP/">Advancing Circular Bioeconomy and Sustainable Construction in the Iberian Peninsula:<br/>Addressing the Potential of Timber Residues for 3D Printing</a></li>
+      <li><a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../alva_curt_muel_norf.2026.EtDTPoWCTSO/">Enhancing the Dynamic Thermal Performance of Wall Components Through Shape Optimization:<br/>Method and Application to Extruded Blocks and 3D-Printed Walls</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/seshadri_n_akul"><b>Seshadri</b> Akul</a>, <a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../maie_armi_sesh_carc.2025.LBGSKREC/">Locust Bean Gum–Stabilized Kaolin-Rich Earthen Composites:<br/>From On-Land to Underwater 3D Printing</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/sameh_hazem"><b>Sameh</b> Hazem</a>, <a href="../../../author/fekry_mayar"><b>Fekry</b> Mayar</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mahd_same_fekr.2025.SSo3PECD/">Structural Stability of 3D-Printed Earthen Catenary Domes:<br/>Experimental and Analytical Insights</a></li>
@@ -115,4 +90,34 @@ tags:
       <li><a href="../../../author/markovic_ivan"><b>Markovic</b> Ivan</a>, <a href="../../../author/horat_alexandra"><b>Horat</b> Alexandra</a>, <a href="../../../author/pantellini_danilo"><b>Pantellini</b> Danilo</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mark_hora_pant.2024.OoEBMiTo3PaMP/">Optimization of Earth-Based Mixtures in Terms of 3D Printability and Mechanical Properties:<br/>Feasibility Study</a></li>
       <li><a href="../../../author/assuncao-badan_julie"><b>Assunção Badan</b> Julie</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM/">Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{curt_pear_cast_muel.2024.3PE,
+      author            = "Alexander Sandy Curth and Natalie Pearl and Angelica Castro-Salazar and Caitlin T. Mueller and Lawrence Sass",
+      title             = "3D Printing Earth: Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment",
+      doi               = "10.1016/j.conbuildmat.2024.135714",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "421",
+      pages             = "135714",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. S. Curth, N. Pearl, A. Castro-Salazar, C. T. Mueller and L. Sass, “3D Printing Earth: Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment”, <i>Construction and Building Materials</i>, vol. 421, p. 135714, 2024, doi: 10.1016/j.conbuildmat.2024.135714.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Curth, Alexander Sandy, Natalie Pearl, Angelica Castro-Salazar, Caitlin T. Mueller, and Lawrence Sass. “3D Printing Earth: Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment”. <i>Construction and Building Materials</i> 421 (2024): 135714. https://doi.org/10.1016/j.conbuildmat.2024.135714.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

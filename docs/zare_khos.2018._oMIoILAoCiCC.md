@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Babak Zareiyan, Behrokh Khoshnevis
+    - footer
+title: Zareiyan Babak, Khoshnevis Behrokh
 description:
 tags:
  - adhesion
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} _Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting ([2018-04](date/2018/04))
-<a href="https://doi.org/10.1108/rpj-02-2017-0029" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/rpj-02-2017-0029</a>
+#_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting ([2018-04](date/2018/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/rpj-02-2017-0029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-02-2017-0029" target="_blank">10.1108/rpj-02-2017-0029</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7971-7239" title="ORCID: 0000-0001-7971-7239" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zareiyan_babak"><b>Zareiyan</b>&nbsp;Babak</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Journal Article - Rapid Prototyping Journal, Vol. 24, Iss. 3, pp. 584-592
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a> <a href="https://orcid.org/0000-0001-7971-7239" title="ORCID: 0000-0001-7971-7239" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Rapid Prototyping Journal, Vol. 24, Iss. 3, pp. 584-592
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#concrete`](keyword/concrete)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#effect`](keyword/effect)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#mixture`](keyword/mixture)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=_Effects%20of%20Mixture%20Ingredients%20on%20Inter-Layer%20Adhesion%20of%20Concrete%20in%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85046106500&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2793873857" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/rpj-02-2017-0029" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/rpj-02-2017-0029?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper aims to investigate the strength at interlayer of specimens fabricated using Contour Crafting (CC) to develop a concrete mixture for large-scale three-dimensional printing. The collected data from several experiments were analyzed to understand significant factors and their interactions. After developing the empirical model, condition for maximum desirability was identified and the model was validated. The experimental investigation of varied combination of concrete components introduced an empirical model which can predict the strength at interface. Moreover, an optimized mixture within constrains of the CC nozzle was developed and validated. Several experimental samples were tested, and the derived empirical model was validated after more than 600 h of work.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
@@ -74,8 +54,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/pour_k_arash"><b>Pour</b> Arash</a>, <a href="../../../author/farsangi_noroozinejad_ehsan"><b>Farsangi</b> Ehsan</a>, <a href="../../../author/yang_y_t"><b>Yang</b> T.</a>, <a href="../../../author/li_shaofan"><b>Li</b> Shaofan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pour_fars_yang_li.2025.3PoCaGC/">3D Printing of Conventional and Geopolymer Concretes:<br/>Advancements, Challenges, Future Directions, and Cost Analysis</a></li>
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>
@@ -102,4 +82,35 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zare_khos.2018._oMIoILAoCiCC,
+      author            = "Babak Zareiyan and Behrokh Khoshnevis",
+      title             = "_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting",
+      doi               = "10.1108/rpj-02-2017-0029",
+      year              = "2018",
+      journal           = "Rapid Prototyping Journal",
+      volume            = "24",
+      number            = "3",
+      pages             = "584--592",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zareiyan  and B. Khoshnevis, “_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting”, <i>Rapid Prototyping Journal</i>, vol. 24, no. 3, pp. 584–592, 2018, doi: 10.1108/rpj-02-2017-0029.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zareiyan, Babak, and Behrokh Khoshnevis. “_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting”. <i>Rapid Prototyping Journal</i> 24, no. 3 (2018): 584–92. https://doi.org/10.1108/rpj-02-2017-0029.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

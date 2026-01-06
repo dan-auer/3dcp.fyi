@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Elodie Paquet, Benoît Furet, Arnaud Perrot
+    - footer
+title: Paquet Elodie, Furet Benoît, Perrot Arnaud
 description:
 tags:
  - cool
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Raw Earth Structures to Create in Cities Vegetated Oasis of Coolness ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1007/978-3-031-62690-6_34" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-62690-6_34</a>
+#3D Printed Raw Earth Structures to Create in Cities Vegetated Oasis of Coolness ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-62690-6_34" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-62690-6_34" target="_blank">10.1007/978-3-031-62690-6_34</a>
 
--------------------------
+<a href="../../../author/paquet_elodie"><b>Paquet</b>&nbsp;Elodie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0505-4545" title="ORCID: 0000-0003-0505-4545" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/furet_benoit"><b>Furet</b>&nbsp;Benoît</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 332-338
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>
-,     <a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a> <a href="https://orcid.org/0000-0003-0505-4545" title="ORCID: 0000-0003-0505-4545" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 332-338
-
-:aca-blank:{ .lg .middle}
-    [`#cool`](keyword/cool)
-    [`#earth`](keyword/earth)
-    [`#print`](keyword/print)
-    [`#raw`](keyword/raw)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/cool"><button class="btn">#cool</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/raw"><button class="btn">#raw</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Raw%20Earth%20Structures%20to%20Create%20in%20Cities%20Vegetated%20Oasis%20of%20Coolness" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200500866&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400040033" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-62690-6_34" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-62690-6_34?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The think memory of the recent heat waves, causing prolonged episodes of summer heatwave, is still fresh in the collective memory. It shows that it is high time to deal with the planning of the city in the face of the rising temperature due to global warming. Convinced of the urgency of tackling this phenomenon, we propose a framework for earth printing with a robot mounted on moving platform for building cooldness islands. By combining earth additive manufacturing process and robotic, we can install these spatio-climatic devices directly in public spaces, forming sources of fresh air that make the city more liveable during heat peaks. The printing feasibility is verified through the process identification where key parameters are used. The proposed methodology is explained through a experimental project called TerraCool.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assuncao-badan_julie"><b>Assunção Badan</b> Julie</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM/">Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing</a></li>
       <li><a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../fure_poul_garn.2019.3PfCBoaCWoPFaC/">3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
@@ -68,9 +50,40 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/subrin_kevin"><b>Subrin</b> Kévin</a>, <a href="../../../author/bressac_thomas"><b>Bressac</b> Thomas</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a>, <a href="../../../author/ambiehl_alexandre"><b>Ambiehl</b> Alexandre</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../subr_bres_garn_ambi.2018.IotMRLDfHHCb3P/">Improvement of the Mobile Robot Location Dedicated for Habitable House Construction by 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/giacomobono_leonardo"><b>Giacomobono</b> Leonardo</a>, <a href="../../../author/argenti_maria"><b>Argenti</b> Maria</a>, <a href="../../../author/ferretti_elena"><b>Ferretti</b> Elena</a>, <a href="../../../author/paparella_giulio"><b>Paparella</b> Giulio</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../giac_arge_ferr_papa.2024.TDPwEM/">Three-Dimensional Printing with Earthen Materials:<br/>A Settlement-Scale Design Experience</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../perr_jacq_caro_mesn.2024.So3PwABaM/">Snapshot on 3D Printing with Alternative Binders and Materials:<br/>Earth, Geopolymers, Gypsum and Low-Carbon Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{paqu_fure_perr.2024.3PREStCiCVOoC,
+      author            = "Elodie Paquet and Benoît Furet and Arnaud Perrot",
+      title             = "3D Printed Raw Earth Structures to Create in Cities Vegetated Oasis of Coolness",
+      doi               = "10.1007/978-3-031-62690-6_34",
+      year              = "2024",
+      volume            = "52",
+      pages             = "332--338",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Earthen Construction",
+      editor            = "Christopher Beckett and Ana Rita Brás and Antonin Fabbri and Emmanuel Keita and Céline Perlot and Arnaud Perrot",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Paquet, B. Furet and A. Perrot, “3D Printed Raw Earth Structures to Create in Cities Vegetated Oasis of Coolness”, in <i>Proceedings of the 2nd RILEM International Conference on Earthen Construction</i>,  2024, vol. 52, pp. 332–338. doi: 10.1007/978-3-031-62690-6_34.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Paquet, Elodie, Benoît Furet, and Arnaud Perrot. “3D Printed Raw Earth Structures to Create in Cities Vegetated Oasis of Coolness”. In <i>Proceedings of the 2nd RILEM International Conference on Earthen Construction</i>, edited by Christopher Beckett, Ana Rita Brás, Antonin Fabbri, Emmanuel Keita, Céline Perlot, and Arnaud Perrot, 52:332–38, 2024. https://doi.org/10.1007/978-3-031-62690-6_34.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhihui Zhao, Xianhuan Cai, Fan Chen, Yongfan Gong, Peng Xiao, Lingchao Lu
+    - footer
+title: Zhao Zhihui, Cai Xianhuan, Chen Fan, Gong Yongfan, Xiao Peng, Lu Lingchao
 description:
 tags:
  - base
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Wollastonite-Content on Rheology and Mechanical Properties of 3D Printed Magnesium-Potassium-Phosphate-Cement-Based Material of MgO-SiO2-K2HPO4 ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.139729" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.139729</a>
+#Effect of Wollastonite-Content on Rheology and Mechanical Properties of 3D Printed Magnesium-Potassium-Phosphate-Cement-Based Material of MgO-SiO2-K2HPO4 ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.139729" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139729" target="_blank">10.1016/j.conbuildmat.2024.139729</a>
 
--------------------------
+<a href="../../../author/zhao_zhihui"><b>Zhao</b>&nbsp;Zhihui</a></span>, <a href="../../../author/cai_xianhuan"><b>Cai</b>&nbsp;Xianhuan</a></span>, <a href="../../../author/chen_fan"><b>Chen</b>&nbsp;Fan</a></span>, <a href="../../../author/gong_yongfan"><b>Gong</b>&nbsp;Yongfan</a></span>, <a href="../../../author/xiao_peng"><b>Xiao</b>&nbsp;Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 458, No. 139729
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>
-,     <a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a>
-,     <a href="../../../author/chen_fan"><b>Chen</b> Fan</a>
-,     <a href="../../../author/gong_yongfan"><b>Gong</b> Yongfan</a>
-,     <a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a>
-,     <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> <a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 458, No. 139729
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#content`](keyword/content)
-    [`#effect`](keyword/effect)
-    [`#magnesium`](keyword/magnesium)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Wollastonite-Content%20on%20Rheology%20and%20Mechanical%20Properties%20of%203D%20Printed%20Magnesium-Potassium-Phosphate-Cement-Based%20Material%20of%20MgO-SiO2-K2HPO4" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212934522&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405802206" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.139729" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.139729?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Magnesium potassium phosphate cement-based material (MKPCs) of MgO-SiO2-K2HPO4 with varying wollastonite powder (WS) contents (0–20 %) were developed. Rheological performance (thixotropy, yielding behaviours and viscoelasticity) and mechanical strength were studied. Test results show that the addition of 15 % WS improved the thixotropy significantly. A thixotropy index was introduced to model the variation of static yield stress, which increased with increasing content of WS but decreased with the resting time. The fast fluctuation of thixotropy changes in early age was in favor of decreasing the structure deformation of bottom layer. The critical stress and the LVR were enlarged with the increasing WS contents. The Lissaju-Bowditch curves show that the inclusion of WS changed the rotation variation of curves from elliptic to straight-line, representing the slurry behave as elastic-solid state. The strength of mixture with 15 % WS reached to the maximum value, but excessive 20 % WS showed adverse effect on strength. It was verified mixture modified by suitable amount of 15 % WS would generally favor the excellent strength and printability. Detailed SEM images and rheological plots effectively illustrated the microstructural changes and flow behavior, enlarging the understanding of MgO-SiO2-K2HPO4 for 3D printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bong_nema_xia_ghaf.2022.PoAMGIMWMF/">Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
@@ -88,8 +62,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/liu_minghao"><b>Liu</b> Minghao</a>, <a href="../../../author/kang_aihong"><b>Kang</b> Aihong</a>, <a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_liu_kang_cai.2024.RaBoS3PMPPCCIMSK/">Rheology and Buildability of Sustainable 3D Printed Magnesium-Potassium-Phosphate-Cement Composites Incorporating MgO-SiO2-K2HPO4</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a>, <a href="../../../author/chen_fan"><b>Chen</b> Fan</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cai_chen_zhao_xiao.2025.IoEPCoRaBi3PMSPPCIFA/">Impact of Early Particle Characteristics on Rheology and Buildability in 3D-Printed Magnesium Silicon Potassium Phosphate Cement Incorporating Fly Ash</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_cai_chen_gong.2025.EoWCoRaMPo3PMPPCBMoMSK,
+      author            = "Zhihui Zhao and Xianhuan Cai and Fan Chen and Yongfan Gong and Peng Xiao and Lingchao Lu",
+      title             = "Effect of Wollastonite-Content on Rheology and Mechanical Properties of 3D Printed Magnesium-Potassium-Phosphate-Cement-Based Material of MgO-SiO2-K2HPO4",
+      doi               = "10.1016/j.conbuildmat.2024.139729",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "458",
+      pages             = "139729",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zhao, X. Cai, F. Chen, Y. Gong, P. Xiao and L. Lu, “Effect of Wollastonite-Content on Rheology and Mechanical Properties of 3D Printed Magnesium-Potassium-Phosphate-Cement-Based Material of MgO-SiO2-K2HPO4”, <i>Construction and Building Materials</i>, vol. 458, p. 139729, 2025, doi: 10.1016/j.conbuildmat.2024.139729.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Zhihui, Xianhuan Cai, Fan Chen, Yongfan Gong, Peng Xiao, and Lingchao Lu. “Effect of Wollastonite-Content on Rheology and Mechanical Properties of 3D Printed Magnesium-Potassium-Phosphate-Cement-Based Material of MgO-SiO2-K2HPO4”. <i>Construction and Building Materials</i> 458 (2025): 139729. https://doi.org/10.1016/j.conbuildmat.2024.139729.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

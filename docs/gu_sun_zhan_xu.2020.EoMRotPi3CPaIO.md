@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hai Gu, Jianhua Sun, Jie Zhang, Yuanyuan Xu, Bin Li, Weiwei Wu
+    - footer
+title: Gu Hai, Sun Jianhua, Zhang Jie, Xu Yuanyuan, Li Bin, Wu Weiwei
 description:
 tags:
  - cement
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://aip.scitation.org/doi/pdf/10.1063/5.0030186) Effect of Material-Ratio on the Performances in 3D Cement Printing and Its Optimization ([2020-12](date/2020/12))
-<a href="https://doi.org/10.1063/5.0030186" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1063/5.0030186</a>
+#Effect of Material-Ratio on the Performances in 3D Cement Printing and Its Optimization ([2020-12](date/2020/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://aip.scitation.org/doi/pdf/10.1063/5.0030186) <a href="https://doi.org/10.1063/5.0030186" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0030186" target="_blank">10.1063/5.0030186</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8801-0091" title="ORCID: 0000-0001-8801-0091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gu_hai"><b>Gu</b>&nbsp;Hai</a></span>, <a href="../../../author/sun_jianhua"><b>Sun</b>&nbsp;Jianhua</a></span>, <a href="../../../author/zhang_jie"><b>Zhang</b>&nbsp;Jie</a></span>, <a href="../../../author/xu_yuanyuan"><b>Xu</b>&nbsp;Yuanyuan</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-6305-1377" title="ORCID: 0009-0002-6305-1377" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_bin"><b>Li</b>&nbsp;Bin</a></span>, <a href="../../../author/wu_weiwei"><b>Wu</b>&nbsp;Weiwei</a></span><br>
+Journal Article - AIP Advances, Vol. 10, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gu_hai"><b>Gu</b> Hai</a> <a href="https://orcid.org/0000-0001-8801-0091" title="ORCID: 0000-0001-8801-0091" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_jianhua"><b>Sun</b> Jianhua</a>
-,     <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a>
-,     <a href="../../../author/xu_yuanyuan"><b>Xu</b> Yuanyuan</a>
-,     <a href="../../../author/li_bin"><b>Li</b> Bin</a> <a href="https://orcid.org/0009-0002-6305-1377" title="ORCID: 0009-0002-6305-1377" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_weiwei"><b>Wu</b> Weiwei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - AIP Advances, Vol. 10, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#ratio`](keyword/ratio)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Material-Ratio%20on%20the%20Performances%20in%203D%20Cement%20Printing%20and%20Its%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097611056&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3111474553" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1063/5.0030186" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1063/5.0030186?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The material ratio has an important effect on printing performances for 3D cement printing technology, which is studied by uniform design in this paper. The factors required to be taken into account are the proportions ofthe additives; then, the observed indices are flow properties, geometric distortion, and mechanical properties. By nonlinear regression analysis, relation equations between the above factors and the observed indices are established, which will reveal the main effect and interaction of the factor(s) in detail. Furthermore, the equations can approximately predict printing performances in the future. Finally, the ratio is optimized by multi-objective optimization. The optimal ratio is applied to both experiments and regression equations for comparison afterward. The experimental results show that the optimal ratio can contribute to superior printing performances. The relative error is limited to 16%, which can prove the applicability of regression analysis. The complete process can guide similar research in the future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/huang_tiancheng"><b>Huang</b> Tiancheng</a>, <a href="../../../author/gu_hai"><b>Gu</b> Hai</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a>, <a href="../../../author/li_bin"><b>Li</b> Bin</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../huan_gu_zhan_li.2018.AIMRTLBMftNNIotYFFiC3P/">An Improved Multi-Relaxation Time Lattice Boltzmann Method for the Non-Newtonian Influence of the Yielding Fluid Flow in Cement-3D Printing</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
@@ -75,7 +52,37 @@ tags:
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/eick_andrew_brian"><b>Eick</b> Brian</a>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a> et al. <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../rush_chaa_eick_burr.2017.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../zare_khos.2018.EoMIoEoCiCC/">Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gu_sun_zhan_xu.2020.EoMRotPi3CPaIO,
+      author            = "Hai Gu and Jianhua Sun and Jie Zhang and Yuanyuan Xu and Bin Li and Weiwei Wu",
+      title             = "Effect of Material-Ratio on the Performances in 3D Cement Printing and Its Optimization",
+      doi               = "10.1063/5.0030186",
+      year              = "2020",
+      journal           = "AIP Advances",
+      volume            = "10",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Gu, J. Sun, J. Zhang, Y. Xu, B. Li and W. Wu, “Effect of Material-Ratio on the Performances in 3D Cement Printing and Its Optimization”, <i>AIP Advances</i>, vol. 10, no. 12, 2020, doi: 10.1063/5.0030186.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gu, Hai, Jianhua Sun, Jie Zhang, Yuanyuan Xu, Bin Li, and Weiwei Wu. “Effect of Material-Ratio on the Performances in 3D Cement Printing and Its Optimization”. <i>AIP Advances</i> 10, no. 12 (2020). https://doi.org/10.1063/5.0030186.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

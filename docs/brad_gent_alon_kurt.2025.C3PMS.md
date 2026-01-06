@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Katy Bradford, Russell Gentry, Lola Alon, Kimberly Kurtis
+    - footer
+title: Bradford Katy, Gentry Russell, Alon Lola, Kurtis Kimberly
 description:
 tags:
  - assembly
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Construction 3D Printing Material Selection:<br/>:aca-blank: Minimizing Cost and Carbon Footprint of Residential Wall Assemblies ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143150" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143150</a>
+#Construction 3D Printing Material Selection&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Minimizing Cost and Carbon Footprint of Residential Wall Assemblies</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.conbuildmat.2025.143150" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143150" target="_blank">10.1016/j.conbuildmat.2025.143150</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-3567-055X" title="ORCID: 0009-0002-3567-055X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bradford_katy"><b>Bradford</b>&nbsp;Katy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8200-896X" title="ORCID: 0000-0001-8200-896X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gentry_russell"><b>Gentry</b>&nbsp;Russell</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3804-6541" title="ORCID: 0000-0003-3804-6541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alon_lola"><b>ben&nbsp;Alon</b>&nbsp;Lola</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1252-7323" title="ORCID: 0000-0002-1252-7323" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kurtis_kimberly"><b>Kurtis</b>&nbsp;Kimberly</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 493, No. 143150
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a> <a href="https://orcid.org/0009-0002-3567-055X" title="ORCID: 0009-0002-3567-055X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a> <a href="https://orcid.org/0000-0001-8200-896X" title="ORCID: 0000-0001-8200-896X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> <a href="https://orcid.org/0000-0003-3804-6541" title="ORCID: 0000-0003-3804-6541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="https://orcid.org/0000-0002-1252-7323" title="ORCID: 0000-0002-1252-7323" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 493, No. 143150
-
-:aca-blank:{ .lg .middle}
-    [`#assembly`](keyword/assembly)
-    [`#carbon`](keyword/carbon)
-    [`#construction`](keyword/construction)
-    [`#cost`](keyword/cost)
-    [`#footprint`](keyword/footprint)
-    [`#material`](keyword/material)
-    [`#minimum`](keyword/minimum)
-    [`#print`](keyword/print)
-    [`#selective`](keyword/selective)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/minimum"><button class="btn">#minimum</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Construction%203D%20Printing%20Material%20Selection" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013664154&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,23 +41,18 @@ tags:
 <a href="https://inciteful.xyz/p/W4413407969" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143150" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143150?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the increasing prevalence of construction 3D printing (C3DP), a variety of applicable materials have been developed with sufficient strength for low-rise residential wall construction. However, the economic and environmental impact of these materials is not well understood in comparison to more common housing construction methods today. This research examines the upfront cost and carbon footprint of materials that have been previously employed in C3DP, including cements, geopolymers, clay- and earth-based materials, and polymers, per unit of strength applicable to common C3DP wall assemblies. A case study is then presented that evaluates the cradle-to-gate, cost, carbon footprint, and embodied energy of wall assemblies using a selection of these materials, in comparison to a functionally equivalent wood-framed wall assembly. The results show that up to 47 % of cost, 72 % of carbon footprint, and 61 % of embodied energy of a 3D-printed wall assembly can be eliminated through the partial replacement of Portland cement with supplementary cementitious materials. Regardless, the cost and carbon footprint of the best cementitious 3D printing materials evaluated do not rival wood-framed construction, which costs up to 55 % less and has 88–99 % lower carbon footprint (depending on the inclusion of carbon sequestration). Consequently, while C3DP can help to address the housing crisis in the U.S. through partial automation of the construction process, more sustainable materials must be developed for its use to avoid further escalation to the environmental impacts of building construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../brad_gent_alon_kurt.2025.C3PMS/">Construction 3D Printing Material Selection:<br/>Minimizing Cost and Carbon Footprint of Residential Wall Assemblies</a></li>
       <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
       <li><a href="../../../author/gangotra_ankita"><b>Gangotra</b> Ankita</a>, <a href="../../../author/gado_emanuela"><b>Gado</b> Emanuela</a>, <a href="../../../author/lewis_i_joanna"><b>Lewis</b> Joanna</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../gang_gado_lewi.2023.3PHUPfCMitCS/">3D Printing Has Untapped Potential for Climate Mitigation in the Cement Sector</a></li>
@@ -105,8 +81,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../xiao_zou_ding_duan.2021.FRMw1RFA/">Fiber-Reinforced Mortar with 100% Recycled Fine Aggregates:<br/>A Cleaner Perspective on 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../brad_gent_alon_kurt.2025.C3PMS/">Construction 3D Printing Material Selection:<br/>Minimizing Cost and Carbon Footprint of Residential Wall Assemblies</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{brad_gent_alon_kurt.2025.C3PMS,
+      author            = "Katy Bradford and Russell Gentry and Lola ben Alon and Kimberly Kurtis",
+      title             = "Construction 3D Printing Material Selection: Minimizing Cost and Carbon Footprint of Residential Wall Assemblies",
+      doi               = "10.1016/j.conbuildmat.2025.143150",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "493",
+      pages             = "143150",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Bradford, R. Gentry, L. ben Alon and K. Kurtis, “Construction 3D Printing Material Selection: Minimizing Cost and Carbon Footprint of Residential Wall Assemblies”, <i>Construction and Building Materials</i>, vol. 493, p. 143150, 2025, doi: 10.1016/j.conbuildmat.2025.143150.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bradford, Katy, Russell Gentry, Lola ben Alon, and Kimberly Kurtis. “Construction 3D Printing Material Selection: Minimizing Cost and Carbon Footprint of Residential Wall Assemblies”. <i>Construction and Building Materials</i> 493 (2025): 143150. https://doi.org/10.1016/j.conbuildmat.2025.143150.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

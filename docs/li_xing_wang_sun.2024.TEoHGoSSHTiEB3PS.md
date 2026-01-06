@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhengrong Li, Wenjing Xing, Heyu Wang, Jingting Sun
+    - footer
+title: Li Zhengrong, Xing Wenjing, Wang Heyu, Sun Jingting
 description:
 tags:
  - base
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Effect of Heterogeneous Geometry on Steady-State Heat Transfer in Extrusion-Based 3D Printed Structures ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.jobe.2024.111147" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111147</a>
+#The Effect of Heterogeneous Geometry on Steady-State Heat Transfer in Extrusion-Based 3D Printed Structures ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111147" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111147" target="_blank">10.1016/j.jobe.2024.111147</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8676-667X" title="ORCID: 0000-0001-8676-667X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhengrong"><b>Li</b>&nbsp;Zhengrong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6942-8310" title="ORCID: 0000-0001-6942-8310" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xing_wenjing"><b>Xing</b>&nbsp;Wenjing</a></span>, <a href="../../../author/wang_heyu"><b>Wang</b>&nbsp;Heyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2161-8216" title="ORCID: 0000-0003-2161-8216" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_jingting"><b>Sun</b>&nbsp;Jingting</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 98, No. 111147
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="https://orcid.org/0000-0001-8676-667X" title="ORCID: 0000-0001-8676-667X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> <a href="https://orcid.org/0000-0001-6942-8310" title="ORCID: 0000-0001-6942-8310" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_heyu"><b>Wang</b> Heyu</a>
-,     <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="https://orcid.org/0000-0003-2161-8216" title="ORCID: 0000-0003-2161-8216" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 98, No. 111147
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#geometry`](keyword/geometry)
-    [`#heat`](keyword/heat)
-    [`#print`](keyword/print)
-    [`#state`](keyword/state)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Heterogeneous%20Geometry%20on%20Steady-State%20Heat%20Transfer%20in%20Extrusion-Based%203D%20Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206986310&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403660459" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111147" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111147?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D printed buildings constructed using rapid manufacturing techniques provide opportunities for structural optimization and performance design, which are beneficial in meeting the vision of digital and sustainable development of the construction industry. However, there are still many research gaps in the heat transfer of 3D printed buildings, impacting the accurate design of their thermal performance. This study quantifies the effect of heterogeneous geometry on heat transfer in extrusion-based 3D printed structures. The experiment reveals that the nonuniform surface temperature distribution primarily originates from geometrical factors, with heterogeneous physical properties caused by cold joints having little influence. Numerical simulations using equivalent geometric models indicate that the local temperature and the convective heat transfer coefficient of raised surfaces vary periodically, corresponding to surface shape. As surface bulges increase, the overall average heat transfer efficiency of the 3D printed structure decreases, while total surface heat transfer increases. These findings help to understand the effect of heterogeneous geometric properties on the heat transfer process of 3D printed structures, thus providing a reference for the accurate design of 3D printed structures with thermal functions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../bard_cupk_wash_zegl.2018.RCSF/">Robotic Concrete Surface Finishing:<br/>A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</a></li>
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bard_cupk_wash_zegl.2019.TIRT/">Thermally Informed Robotic Topologies:<br/>Profile 3D Printing for the Robotic Construction of Concrete Panels, Thermally Tuned Through High-Resolution Surface Geometry</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
@@ -87,9 +65,39 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../sun_xiao_li_feng.2021.ESotTPoa3PCPB/">Experimental Study on the Thermal Performance of a 3D Printed Concrete Prototype Building</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xing_li.2025.QtHATPoEB3PS/">Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>A Multiscale Computational Approach</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pess_luca_simo_guim.2025.HTia3PMWS/">Heat Transfer in a 3D-Printed Multilayer Wall System:<br/>An Experimental and Numerical Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_xing_wang_sun.2024.TEoHGoSSHTiEB3PS,
+      author            = "Zhengrong Li and Wenjing Xing and Heyu Wang and Jingting Sun",
+      title             = "The Effect of Heterogeneous Geometry on Steady-State Heat Transfer in Extrusion-Based 3D Printed Structures",
+      doi               = "10.1016/j.jobe.2024.111147",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "98",
+      pages             = "111147",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Li, W. Xing, H. Wang and J. Sun, “The Effect of Heterogeneous Geometry on Steady-State Heat Transfer in Extrusion-Based 3D Printed Structures”, <i>Journal of Building Engineering</i>, vol. 98, p. 111147, 2024, doi: 10.1016/j.jobe.2024.111147.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Zhengrong, Wenjing Xing, Heyu Wang, and Jingting Sun. “The Effect of Heterogeneous Geometry on Steady-State Heat Transfer in Extrusion-Based 3D Printed Structures”. <i>Journal of Building Engineering</i> 98 (2024): 111147. https://doi.org/10.1016/j.jobe.2024.111147.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

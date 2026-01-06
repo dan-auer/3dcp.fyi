@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Stanley Okangba, Ntebo Ngcobo, Jeffrey Mahachi
+    - footer
+title: Okangba Stanley, Ngcobo Ntebo, Mahachi Jeffrey
 description:
 tags:
  - acceptance
@@ -17,32 +18,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Bridging Innovation and Governance:<br/>:aca-blank: A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa ([2025-12](date/2025/12))
-<a href="https://doi.org/10.3390/architecture5040131" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/architecture5040131</a>
+#Bridging Innovation and Governance&nbsp;([2025-12](date/2025/12))
+<div class="h1-like">A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/architecture5040131" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/architecture5040131" target="_blank">10.3390/architecture5040131</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2947-7235" title="ORCID: 0000-0003-2947-7235" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/okangba_stanley"><b>Okangba</b>&nbsp;Stanley</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5867-6298" title="ORCID: 0000-0001-5867-6298" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b>&nbsp;Ntebo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1866-5559" title="ORCID: 0000-0002-1866-5559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahachi_jeffrey"><b>Mahachi</b>&nbsp;Jeffrey</a></span><br>
+Journal Article - Architecture, Vol. 5, Iss. 4, No. 131
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a> <a href="https://orcid.org/0000-0003-2947-7235" title="ORCID: 0000-0003-2947-7235" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a> <a href="https://orcid.org/0000-0001-5867-6298" title="ORCID: 0000-0001-5867-6298" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-1866-5559" title="ORCID: 0000-0002-1866-5559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architecture, Vol. 5, Iss. 4, No. 131
-
-:aca-blank:{ .lg .middle}
-    [`#acceptance`](keyword/acceptance)
-    [`#base`](keyword/base)
-    [`#bridge`](keyword/bridge)
-    [`#concrete`](keyword/concrete)
-    [`#innovation`](keyword/innovation)
-    [`#method`](keyword/method)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/acceptance"><button class="btn">#acceptance</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bridging%20Innovation%20and%20Governance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/architecture5040131" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/architecture5040131?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the factors that influence the acceptance of 3D concrete printing technology in South Africa. The purpose is to provide evidence-based insights to guide regulators in developing clear standards and certification pathways for 3DCP in South Africa. In a mixed-method research design, the study gathered data from professionals including architects, civil engineers, quantity surveyors, project managers, contractors, regulators, and local municipalities using a modified Unified Theory of Acceptance and Use of Technology framework, adapted to the institutional and infrastructure contextual nuances of South Africa. The findings indicate significant variability in awareness, exposure, and openness to 3DCP across professions and regions. Regulatory actors express caution due to the absence of national standards but also recognize the potential alignment with sustainable construction goals. Major enablers of acceptance include access to demonstrable case studies, technical training, and policy incentives. Barriers include a lack of local performance benchmarks, cost perceptions, and uncertainty regarding compliance pathways. By incorporating institutional variables such as regulatory clarity and policy maturity, the study advances a theoretical understanding of construction technology diffusion in the global south. The study offers a robust, context-specific model that can be adapted in similar economies seeking to balance innovation with regulatory oversight.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a>, <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a>, <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../adam_pust_adam.2024.AtPaRoDSUDT3CPI/">Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation</a></li>
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
@@ -97,7 +76,38 @@ tags:
       <li><a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../roll_pras.2022.APCaCPo3CPTatFoSC/">Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/gao_yang"><b>Gao</b> Yang</a>, <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>, <a href="../../../author/jiao_huazhe"><b>Jiao</b> Huazhe</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yang_gao_chen_jiao.2024.3PCTfaRP/">3D Printing Concrete Technology from a Rheology Perspective:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{okan_ngco_maha.2025.BIaG,
+      author            = "Stanley Okangba and Ntebo Ngcobo and Jeffrey Mahachi",
+      title             = "Bridging Innovation and Governance: A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa",
+      doi               = "10.3390/architecture5040131",
+      year              = "2025",
+      journal           = "Architecture",
+      volume            = "5",
+      number            = "4",
+      pages             = "131",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Okangba, N. Ngcobo and J. Mahachi, “Bridging Innovation and Governance: A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa”, <i>Architecture</i>, vol. 5, no. 4, p. 131, 2025, doi: 10.3390/architecture5040131.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Okangba, Stanley, Ntebo Ngcobo, and Jeffrey Mahachi. “Bridging Innovation and Governance: A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa”. <i>Architecture</i> 5, no. 4 (2025): 131. https://doi.org/10.3390/architecture5040131.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

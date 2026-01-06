@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdulkadir Özalp, Alper Aldemir
+    - footer
+title: Özalp Abdulkadir, Aldemir Alper
 description:
 tags:
  - artificial
@@ -20,34 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1002/suco.70039) Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1002/suco.70039" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.70039</a>
+#Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls ([2025-03](date/2025/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1002/suco.70039) <a href="https://doi.org/10.1002/suco.70039" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70039" target="_blank">10.1002/suco.70039</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8951-6841" title="ORCID: 0000-0002-8951-6841" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozalp_abdulkadir"><b>Özalp</b>&nbsp;Abdulkadir</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aldemir_alper"><b>Aldemir</b>&nbsp;Alper</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ozalp_abdulkadir"><b>Özalp</b> Abdulkadir</a> <a href="https://orcid.org/0000-0002-8951-6841" title="ORCID: 0000-0002-8951-6841" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#artificial`](keyword/artificial)
-    [`#base`](keyword/base)
-    [`#capacity`](keyword/capacity)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#displacement`](keyword/displacement)
-    [`#intelligence`](keyword/intelligence)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-    [`#tool`](keyword/tool)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/displacement"><button class="btn">#displacement</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Artificial%20Intelligence-Based%20Displacement%20Capacity%20Prediction%20Tool%20for%20Three-Dimensional%20Printed%20Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000211824&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408385775" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.70039" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.70039?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital technology applications such as three-dimensional printers offer novel avenues for automating the construction of concrete structures. The process of 3D printing concrete structures involves designing in an office setting and printing on-site. This sequential approach to 3D printing makes achieving fully automated practice unfeasible. To address the goal of achieving fully automated 3D concrete printing, this study proposes an automated design tool utilizing artificial intelligence (AI) techniques to ascertain the capacities of 3Dprinted concrete walls and conduct the necessary design tasks for each wall. Moreover, this automated design tool is capable of determining the most efficient section geometry for the intended 3D-printed wall geometry. Consequently, the AI model identifies the most cost-effective and lightweight crosssection topology with the desired strength without requiring trial and error, thus eliminating the need for human intervention in the design process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../aram_cald_puen.2023.PMo3PCSBwRUBM/">Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -115,8 +91,36 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ozal_alde.2025.AIBDCPTfTDPCW,
+      author            = "Abdulkadir Özalp and Alper Aldemir",
+      title             = "Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls",
+      doi               = "10.1002/suco.70039",
+      year              = "2025",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Özalp  and A. Aldemir, “Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls”, <i>Structural Concrete</i>, 2025, doi: 10.1002/suco.70039.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Özalp, Abdulkadir, and Alper Aldemir. “Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls”. <i>Structural Concrete</i>, 2025. https://doi.org/10.1002/suco.70039.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Sobek Werner 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a>, <a href="../../../author/schmeer_daniel"><b>Schmeer</b> Daniel</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../sobe_schm.2023.GC2G/">Graded Concrete (2. Generation):<br/>The Combination of Hollow-Core Construction with Trajectory-Based Reinforcement</a></li>
   <li><a href="../../../author/kovaleva_daria"><b>Kovaleva</b> Daria</a>, <a href="../../../author/nistler_maximilian"><b>Nistler</b> Maximilian</a>, <a href="../../../author/verl_alexander"><b>Verl</b> Alexander</a>, <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../kova_nist_verl_blan.2022.ZWPoLCSwWSSF/">Zero-Waste Production of Lightweight Concrete Structures with Water-Soluble Sand Formwork</a></li>
   <li><a href="../../../author/nistler_maximilian"><b>Nistler</b> Maximilian</a>, <a href="../../../author/kovaleva_daria"><b>Kovaleva</b> Daria</a>, <a href="../../../author/tepper_louis"><b>Tepper</b> Louis</a>, <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../nist_kova_tepp_blan.2022.CBPMfPBAMiC/">Camera-Based Process Monitoring for Powder-Bed Additive Manufacturing in Construction</a></li>

@@ -8,7 +8,7 @@ search:
 
 # #size
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/apsari_auliagitta"><b>Apsari</b> Auliagitta</a>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a>, <a href="../../../author/suprobo_priyo"><b>Suprobo</b> Priyo</a>, <a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../apsa_tamb_supr_sury.2025.IoPSaNSoBo3PCW/">Influence of Printing Speed and Nozzle Size on Buildability of 3D Printed Concrete Walls:<br/>A Nonlinear Finite Element Study</a></li>
   <li><a href="../../../author/wang_suguo"><b>Wang</b> Suguo</a>, <a href="../../../author/wang_xing"><b>Wang</b> Xing</a>, <a href="../../../author/yan_xueyuan"><b>Yan</b> Xueyuan</a>, <a href="../../../author/chen_shanghong"><b>Chen</b> Shanghong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_wang_yan_chen.2025.EoASaNDoPaMPo3PFSGC/">Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete</a></li>
   <li><a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/li_xiaoxi"><b>Li</b> Xiaoxi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../xion_liu_nie_li.2025.EoDSMMoSPSRRPoMPo3PC/">Effect of Different Surface Modification Methods of Small Particle Size Recycled Rubber Powder on Mechanical Properties of 3D Printed Concrete</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yujun Che, Huashan Yang
+    - footer
+title: Che Yujun, Yang Huashan
 description:
 tags:
  - base
@@ -20,34 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2022.e01590) Hydration Products, Pore-Structure, and Compressive Strength of Extrusion-Based 3D Printed Cement-Pastes Containing Nano-Calcium-Carbonate ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.cscm.2022.e01590" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2022.e01590</a>
+#Hydration Products, Pore-Structure, and Compressive Strength of Extrusion-Based 3D Printed Cement-Pastes Containing Nano-Calcium-Carbonate ([2022-10](date/2022/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2022.e01590) <a href="https://doi.org/10.1016/j.cscm.2022.e01590" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2022.e01590" target="_blank">10.1016/j.cscm.2022.e01590</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/che_yujun"><b>Che</b>&nbsp;Yujun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_huashan"><b>Yang</b>&nbsp;Huashan</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 17
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 17
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#carbonation`](keyword/carbonation)
-    [`#cement`](keyword/cement)
-    [`#compression`](keyword/compression)
-    [`#containment`](keyword/containment)
-    [`#extrusion`](keyword/extrusion)
-    [`#hydration`](keyword/hydration)
-    [`#paste`](keyword/paste)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hydration%20Products%2C%20Pore-Structure%2C%20and%20Compressive%20Strength%20of%20Extrusion-Based%203D%20Printed%20Cement-Pastes%20Containing%20Nano-Calcium-Carbonate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140301371&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4306954826" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2022.e01590" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2022.e01590?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While interest in extrusion-based 3D concrete printing technology has been growing in recent years, only limited literature investigates the hydration products and pore structure of 3D printed cementitious materials (3DPC). The microstructure and compressive strength results of 3D printed cement paste with and without nano calcium carbonate (NC) were investigated and compared to conventionally cast cement pastes. Herein, all mixes possess approximately the same static yield stress, which was adjusted by an additional polycarboxylate superplasticizer (SP). The compressive strength test was employed to quantify the mechanical anisotropy of samples. The hydration products and microstructure of samples were evaluated at 7 days using X-ray diffraction (XRD), scanning electron microscopy (SEM), and backscattered electron image (BSE) analysis. The results demonstrate that 3D printed cement paste showed a lower compressive strength than cast cement pastes in all directions. The intense and sharp calcium hydroxide (CH) peaks were seen in the XRD analysis of the 3D printed sample, which suggested its high crystallinity. The large size of plate CH can be observed in SEM images. These results indicate that CH grains in 3D printed samples have enough space to grow due to the relatively loose microstructure. This observation was confirmed by the porosity of the 3D printed sample analyzed by BSE images. The BSE imaging analysis also showed that the pore size distribution of the 3D printed sample was different from that of the cast sample. Additionally, the interfacial transition zone (ITZ) in the 3D printed sample presented a looser microstructure than the cast sample. Therefore, the reduced compressive strength of 3D printed cement pastes is the relatively loose microstructure, high porosity, and weak ITZ between unhydrated clinkers and hydration products.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -114,8 +90,8 @@ tags:
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../yang_li_che.2020.3PCMCNC/">3D Printing Cementitious Materials Containing Nano-CaCO3:<br/>Workability, Strength, and Microstructure</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_khan_mcna.2025.EoNSwHRoGoEMPaRo3PC/">Effect of Nano Silica with High Replacement of GGBS on Enhancing Mechanical Properties and Rheology of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhou_biao"><b>Zhou</b> Biao</a>, <a href="../../../author/zhou_hongru"><b>Zhou</b> Hongru</a>, <a href="../../../author/yoshioka_hideki"><b>Yoshioka</b> Hideki</a>, <a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET/">Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures</a></li>
@@ -128,4 +104,33 @@ tags:
       <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/martinez_fabio"><b>Martínez</b> Fabio</a>, <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../roba_mart_varg_guti.2023.3PoHCBoHCoPfCCaBWCAwSSN/">3D Printing of Hybrid Cements Based on High Contents of Powders from Concrete, Ceramic and Brick Waste Chemically Activated with Sodium Sulphate (Na2SO4)</a></li>
       <li><a href="../../../author/chun_seung-yeop"><b>Chun</b> Seung-Yeop</a>, <a href="../../../author/kim_su-jin"><b>Kim</b> Su-jin</a>, <a href="../../../author/kim_woon-gi"><b>Kim</b> Woon-Gi</a>, <a href="../../../author/lee_geumyeon"><b>Lee</b> Geumyeon</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../chun_kim_kim_lee.2023.PBB3PwCfSC/">Powder-Bed-Based 3D Printing with Cement for Sustainable Casting</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{che_yang.2022.HPPSaCSoEB3PCPCNCC,
+      author            = "Yujun Che and Huashan Yang",
+      title             = "Hydration Products, Pore-Structure, and Compressive Strength of Extrusion-Based 3D Printed Cement-Pastes Containing Nano-Calcium-Carbonate",
+      doi               = "10.1016/j.cscm.2022.e01590",
+      year              = "2022",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "17",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Che  and H. Yang, “Hydration Products, Pore-Structure, and Compressive Strength of Extrusion-Based 3D Printed Cement-Pastes Containing Nano-Calcium-Carbonate”, <i>Case Studies in Construction Materials</i>, vol. 17, 2022, doi: 10.1016/j.cscm.2022.e01590.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Che, Yujun, and Huashan Yang. “Hydration Products, Pore-Structure, and Compressive Strength of Extrusion-Based 3D Printed Cement-Pastes Containing Nano-Calcium-Carbonate”. <i>Case Studies in Construction Materials</i> 17 (2022). https://doi.org/10.1016/j.cscm.2022.e01590.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

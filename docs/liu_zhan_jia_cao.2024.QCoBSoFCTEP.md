@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Liu, Zedi Zhang, Zijian Jia, Ruilin Cao, Wei Wang, Nemkumar Banthia, Chun Chen, Yuanliang Xiong, Yu Chen, Yamei Zhang
+    - footer
+title: Liu Chao, Zhang Zedi, Jia Zijian, Cao Ruilin, Wang Wei, Banthia Nemkumar, Chen Chun, Xiong Yuanliang, Chen Yu, Zhang Yamei
 description:
 tags:
  - bubble
@@ -22,44 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process:<br/>:aca-blank: From Yield-Stress , Viscosity and Surface Tension Point of View ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.compositesb.2024.111724" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2024.111724</a>
+#Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">From Yield-Stress , Viscosity and Surface Tension Point of View</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2024.111724" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2024.111724" target="_blank">10.1016/j.compositesb.2024.111724</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/cao_ruilin"><b>Cao</b>&nbsp;Ruilin</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <a href="../../../author/chen_chun"><b>Chen</b>&nbsp;Chun</a></span>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b>&nbsp;Yuanliang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Composites Part B: Engineering, Vol. 284, No. 111724
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a>
-,     <a href="../../../author/wang_wei"><b>Wang</b> Wei</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>
-,     <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, Vol. 284, No. 111724
-
-:aca-blank:{ .lg .middle}
-    [`#bubble`](keyword/bubble)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#foam`](keyword/foam)
-    [`#point`](keyword/point)
-    [`#process`](keyword/process)
-    [`#quantity`](keyword/quantity)
-    [`#stability`](keyword/stability)
-    [`#stress`](keyword/stress)
-    [`#surface`](keyword/surface)
-    [`#tension`](keyword/tension)
-    [`#viscosity`](keyword/viscosity)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/bubble"><button class="btn">#bubble</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/point"><button class="btn">#point</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quantitative%20Characterization%20of%20Bubble-Stability%20of%20Foam-Concrete%20Throughout%20Extrusion-Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198536636&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -74,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400520492" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2024.111724" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2024.111724?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Foam concrete (FC) is suitable to be used as printing ink for drones in extreme environment because of its light weight, it can reduce the load of drones and improve printing efficiency. Furthermore, since the FC density and thermal insulation performance can be flexibly changed by changing the bubble content, it can be used to print functional gradient components and special-shaped insulation walls. The stability of bubbles is crucial as it directly impacts the performance of 3D printed FC (3DPFC). Here, we examined the bubble destabilization and deformation of FC throughout the mixing process, resting period prior to extrusion, and extrusion process based on three parameters, i.e., yield stress, viscosity, and surface tension. The results indicate that increasing the yield stress from 1406 Pa to 13379 Pa of the precursor leads to a decrease in bubble volume fraction after mixing from 38.26 % to 27.24 %, while increasing viscosity from 2.16 Pa s to 6.65 Pa s and decreasing surface tension from 72.4 mN/m to 33.5 mN/m are favorable for improving the sphericity of bubbles with the diameter between 300 and 800 μm in FC. In the resting stage, the yield stress of the interstitial paste is the primary factor controlling bubble stability. When the initial yield stress of the equivalent interstitial paste is 5212 Pa, the bubble volume fraction decreases by only 0.8 % within 60 min. During extrusion, high yield stress leading to bubble deformation and instability, whereas viscosity and pore solution surface tension act as sources of bubble compression resistance. There exists a suitable diameter interval for bubble pressure-bearing limit under different paste environment during extrusion.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC/">A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction</a></li>
@@ -107,9 +74,39 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/tian_jiefu"><b>Tian</b> Jiefu</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_weng_tian_yang.2025.3PTCEDoCUB/">3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams:<br/>Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition</a></li>
       <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/medina_moises"><b>Medina</b> Moisés</a>, <a href="../../../author/opazo-vega_alexander"><b>Opazo-Vega</b> Alexander</a>, <a href="../../../author/moreno_francisco"><b>Moreno</b> Francisco</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../forc_medi_opaz_more.2025.AMitCI/">Additive Manufacturing in the Construction Industry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_zhan_jia_cao.2024.QCoBSoFCTEP,
+      author            = "Chao Liu and Zedi Zhang and Zijian Jia and Ruilin Cao and Wei Wang and Nemkumar Banthia and Chun Chen and Yuanliang Xiong and Yu Chen and Yamei Zhang",
+      title             = "Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process: From Yield-Stress , Viscosity and Surface Tension Point of View",
+      doi               = "10.1016/j.compositesb.2024.111724",
+      year              = "2024",
+      journal           = "Composites Part B: Engineering",
+      volume            = "284",
+      pages             = "111724",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, “Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process: From Yield-Stress , Viscosity and Surface Tension Point of View”, <i>Composites Part B: Engineering</i>, vol. 284, p. 111724, 2024, doi: 10.1016/j.compositesb.2024.111724.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chao, Zedi Zhang, Zijian Jia, Ruilin Cao, Wei Wang, Nemkumar Banthia, Chun Chen, Yuanliang Xiong, Yu Chen, and Yamei Zhang. “Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process: From Yield-Stress , Viscosity and Surface Tension Point of View”. <i>Composites Part B: Engineering</i> 284 (2024): 111724. https://doi.org/10.1016/j.compositesb.2024.111724.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

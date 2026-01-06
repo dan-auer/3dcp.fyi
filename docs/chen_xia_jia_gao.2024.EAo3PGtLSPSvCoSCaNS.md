@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuning Chen, Kailun Xia, Zijian Jia, Yueyi Gao, Zuhua Zhang, Yamei Zhang
+    - footer
+title: Chen Yuning, Xia Kailun, Jia Zijian, Gao Yueyi, Zhang Zuhua, Zhang Yamei
 description:
 tags:
  - application
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105322" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105322</a>
+#Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2023.105322" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105322" target="_blank">10.1016/j.cemconcomp.2023.105322</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <a href="../../../author/xia_kailun"><b>Xia</b>&nbsp;Kailun</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/gao_yueyi"><b>Gao</b>&nbsp;Yueyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7153-5120" title="ORCID: 0000-0002-7153-5120" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_zuhua"><b>Zhang</b>&nbsp;Zuhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 145, No. 105322
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a>
-,     <a href="../../../author/zhang_zuhua"><b>Zhang</b> Zuhua</a> <a href="https://orcid.org/0000-0002-7153-5120" title="ORCID: 0000-0002-7153-5120" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 145, No. 105322
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#carbonation`](keyword/carbonation)
-    [`#combination`](keyword/combination)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#scale`](keyword/scale)
-    [`#silica`](keyword/silica)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extending%20Applicability%20of%203D%20Printable%20Geopolymer%20to%20Large-Scale%20Printing%20Scenario%20via%20Combination%20of%20Sodium%20Carbonate%20and%20Nano-Silica" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173819947&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387502169" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105322" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105322?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Adequate printable time is crucial for the application of extrusion-based concrete 3D printing. 3D-printing geopolymer concrete (3DPGC) possesses a rapid hardening feature intrinsically, limiting its applicability in large-scale printing scenarios. Herein, we jointly use Na2CO3 (Nc) and nano-silica (Ns) to improve the printability (particularly extending printable time) and mechanical properties of 3DPGC. We first evaluated the effects of Nc replacement to a traditional activator (waterglass) on the 3D-printing-related rheology and mechanical properties to obtain an optimum Nc dosage. Subsequently, the influences of Ns incorporation on rheology, extrudability, buildability, bulk mechanical strengths, and interlayer properties were investigated based on the optimum Nc dosage. The combination of Nc and Ns (Nc-Ns) manifested a much better extrudability with a sixfold longer printable time (>120 min) due to the decreased hardening rate. Better buildability, higher compressive strengths and a stronger interlayer strength retention capacity were further achieved simultaneously. Nc adoption enables a slower hardening process owing to the lower solution alkalinity and the existence of carbonate, while the overall hardening profile can be adjusted with Ns addition. We successfully printed a special-shaped structure for validation, which requires a long printable time (>40 min). It demonstrates the exceptional printability of the proposed mixture formulation. This work contributes a feasible solution for 3DPGC in large-scale printing scenarios from the material perspective.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -100,8 +75,9 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
@@ -124,4 +100,34 @@ tags:
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../chen_xia_dong_cao.2024.AMCCMCPCfBMiC3P/">A Mechanical Characteristic Capture-Method Considering Printing-Configurations for Buildability-Modeling in Concrete 3D Printing</a></li>
       <li><a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/jin_chen"><b>Jin</b> Chen</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhou_geng_jin_liu.2024.IoRSotPoFASBGMf3P/">Influence of Residue Soil on the Properties of Fly-Ash-Slag-Based Geopolymer Materials for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_xia_jia_gao.2024.EAo3PGtLSPSvCoSCaNS,
+      author            = "Yuning Chen and Kailun Xia and Zijian Jia and Yueyi Gao and Zuhua Zhang and Yamei Zhang",
+      title             = "Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica",
+      doi               = "10.1016/j.cemconcomp.2023.105322",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "145",
+      pages             = "105322",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, K. Xia, Z. Jia, Y. Gao, Z. Zhang and Y. Zhang, “Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica”, <i>Cement and Concrete Composites</i>, vol. 145, p. 105322, 2024, doi: 10.1016/j.cemconcomp.2023.105322.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yuning, Kailun Xia, Zijian Jia, Yueyi Gao, Zuhua Zhang, and Yamei Zhang. “Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica”. <i>Cement and Concrete Composites</i> 145 (2024): 105322. https://doi.org/10.1016/j.cemconcomp.2023.105322.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Magdalena Rudziewicz, Marcin Maroszek, Adam Hutyra, Michał Góra, Karina Rusin-Żurek, Marek Hebda
+    - footer
+title: Rudziewicz Magdalena, Maroszek Marcin, Hutyra Adam, Góra Michał, Rusin-Żurek Karina, Hebda Marek
 description:
 tags:
  - agent
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/pr13020403) Influence of Foaming Agents and Stabilizers on Porosity in 3D Printed Foamed Concrete ([2025-02](date/2025/02))
-<a href="https://doi.org/10.3390/pr13020403" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/pr13020403</a>
+#Influence of Foaming Agents and Stabilizers on Porosity in 3D Printed Foamed Concrete ([2025-02](date/2025/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/pr13020403) <a href="https://doi.org/10.3390/pr13020403" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/pr13020403" target="_blank">10.3390/pr13020403</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-9171-0575" title="ORCID: 0009-0007-9171-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hutyra_adam"><b>Hutyra</b>&nbsp;Adam</a></span>, <a href="../../../author/gora_michal"><b>Góra</b>&nbsp;Michał</a></span>, <a href="../../../author/rusin-zurek_karina"><b>Rusin-Żurek</b>&nbsp;Karina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
+Journal Article - Processes, Vol. 13, Iss. 2, No. 403
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> <a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a> <a href="https://orcid.org/0009-0007-9171-0575" title="ORCID: 0009-0007-9171-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gora_michal"><b>Góra</b> Michał</a>
-,     <a href="../../../author/rusin-zurek_karina"><b>Rusin-Żurek</b> Karina</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Processes, Vol. 13, Iss. 2, No. 403
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#influence`](keyword/influence)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#stabilizer`](keyword/stabilizer)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stabilizer"><button class="btn">#stabilizer</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Foaming%20Agents%20and%20Stabilizers%20on%20Porosity%20in%203D%20Printed%20Foamed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218631724&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407088920" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/pr13020403" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/pr13020403?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study examines the pore structure and distribution in 3D printed and cast foamed concrete using protein-based and synthetic foaming agents alongside various stabilizing additives. In 3D printed samples, pores are irregular and flattened due to mechanical forces during printing, whereas cast samples display uniform, spherical pores from homogeneous foam distribution. Samples containing the CA stabilizer show higher apparent densities (up to 2.05 g/cm3 for printed samples), correlating with lower water absorption. Protein-based foaming agents (PS) produce smaller, more evenly distributed pores, while synthetic agents (AS) result in larger, less uniform pores. Stabilizers significantly influence pore characteristics: commercial stabilizers yield smaller, more uniform pores, while recycled industrial oil (UO) leads to larger, more variable pores. Proteinbased agents improve structural stability and reduce water absorption through uniform pore distributions, while synthetic agents lower density and increase water absorption. The highest sorption values were observed in samples with AS without stabilizer (1.7 kg/m2h1/2) and AS and UO (1.6 kg/m2h1/2) in a vertical orientation, with the horizontal orientation of sample AS and UO achieving a peak value of 2.0 kg/m2h1/2. Moreover, stabilization using UO resulted in higher sorption coefficients than stabilization with CA. High porosity in M1 resulted in low strength (0.2 MPa bending, 0.1 MPa perpendicular compression), while M5 showed superior performance (11.5 MPa perpendicular compression). PS-foamed samples (M4, M6) with uniform pores had the highest strengths, with M6 achieving 3.8 MPa bending and 10.3 MPa perpendicular compression. Perpendicular compression (M5: 11.5 MPa) was up to three times stronger than parallel compression due to weak interlayer bonds in 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/kearsley_elsabe"><b>Kearsley</b> Elsabe</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cho_rooy_kear_zijl.2022.FSo3PFC/">Foam Stability of 3D Printable Foamed Concrete</a></li>
       <li><a href="../../../author/cui_jinyang"><b>Cui</b> Jinyang</a>, <a href="../../../author/he_zhen"><b>He</b> Zhen</a>, <a href="../../../author/zhang_guozhi"><b>Zhang</b> Guozhi</a>, <a href="../../../author/cai_xinhua"><b>Cai</b> Xinhua</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../cui_he_zhan_cai.2022.RPoSUHPCwDVEA/">Rheological Properties of Sprayable Ultra-High-Performance Concrete with Different Viscosity-Enhancing Agents</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/kesek_rafal"><b>Kęsek</b> Rafał</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hage_maro_mroz_kese.2022.ILBSTi3PMMfCA/">Inter-Layer Bond Strength Testing in 3D Printed Mineral Materials for Construction Applications</a></li>
@@ -91,10 +68,41 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhan_sanj.2024.QNMTf3PFC/">Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../rudz_huty_maro_korn.2025.3PLFCwDR/">3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rudz_maro_huty_gora.2025.IoFAaSoPi3PFC,
+      author            = "Magdalena Rudziewicz and Marcin Maroszek and Adam Hutyra and Michał Góra and Karina Rusin-Żurek and Marek Hebda",
+      title             = "Influence of Foaming Agents and Stabilizers on Porosity in 3D Printed Foamed Concrete",
+      doi               = "10.3390/pr13020403",
+      year              = "2025",
+      journal           = "Processes",
+      volume            = "13",
+      number            = "2",
+      pages             = "403",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Rudziewicz, M. Maroszek, A. Hutyra, M. Góra, K. Rusin-Żurek and M. Hebda, “Influence of Foaming Agents and Stabilizers on Porosity in 3D Printed Foamed Concrete”, <i>Processes</i>, vol. 13, no. 2, p. 403, 2025, doi: 10.3390/pr13020403.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rudziewicz, Magdalena, Marcin Maroszek, Adam Hutyra, Michał Góra, Karina Rusin-Żurek, and Marek Hebda. “Influence of Foaming Agents and Stabilizers on Porosity in 3D Printed Foamed Concrete”. <i>Processes</i> 13, no. 2 (2025): 403. https://doi.org/10.3390/pr13020403.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

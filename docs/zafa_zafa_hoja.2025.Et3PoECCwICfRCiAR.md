@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tayyab Zafar, Muhammad Zafar, Maryam Hojati
+    - footer
+title: Zafar Tayyab, Zafar Muhammad, Hojati Maryam
 description:
 tags:
  - arid
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/18/14/3327/pdf?version=1752584286) Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions ([2025-07](date/2025/07))
-<a href="https://doi.org/10.3390/ma18143327" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18143327</a>
+#Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/14/3327/pdf?version=1752584286) <a href="https://doi.org/10.3390/ma18143327" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18143327" target="_blank">10.3390/ma18143327</a>
 
--------------------------
+<a href="../../../author/zafar_tayyab"><b>Zafar</b>&nbsp;Tayyab</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 14, No. 3327
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zafar_tayyab"><b>Zafar</b> Tayyab</a>
-,     <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a> <a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 14, No. 3327
-
-:aca-blank:{ .lg .middle}
-    [`#arid`](keyword/arid)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#construction`](keyword/construction)
-    [`#cure`](keyword/cure)
-    [`#engineered`](keyword/engineered)
-    [`#exploration`](keyword/exploration)
-    [`#internal`](keyword/internal)
-    [`#printability`](keyword/printability)
-    [`#resilience`](keyword/resilience)
-
-
--------------------------
+<a href="../../keyword/arid"><button class="btn">#arid</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/resilience"><button class="btn">#resilience</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20the%203D%20Printability%20of%20Engineered%20Cementitious%20Composites%20with%20Internal%20Curing%20for%20Resilient%20Construction%20in%20Arid%20Regions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011623366&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412451491" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18143327" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18143327?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the feasibility of pumice-based internal curing based on the 3D printability of engineered cementitious composites (ECCs) for water-scarce environments and arid regions. Natural river sand was partially replaced with the presoaked pumice lightweight aggregates (LWAs) at two different levels, 30% and 60% by volume, and 50% of the cement was replaced with slag to enhance sustainability. Furthermore, 2% polyethylene (PE) fibers were used to improve the mechanical characteristics and 1% methylcellulose (MC) was used to increase the rheological stability. Pumice aggregates, presoaked for 24 h, were used as an internal curing agent to assess their effect on the printability. Three ECC mixes, CT-PE2-6-10 (control), P30-PE2-6-10 (30% pumice), and P60-PE2-6-10 (60% pumice), were printed using a 3D gantry printing system. A flow table and rheometer were used to evaluate the flowability and rheological properties. Extrudability was measured in terms of dimensional consistency and the coefficient of variation (CV%) to evaluate printability, whereas buildability was determined in terms of the maximum number of layers stacked before failure. All of the mixes met the extrudability criterion (CV < 5%), with P30-PE2-6-10 demonstrating superior printing quality and buildability, having 16 layers, which was comparable with the control mix that had 18 layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bakh_zafa_hoja.2025.ASoAHTDi3PECCRw8F/">A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -102,8 +79,39 @@ tags:
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zafa_bakh_hoja.2023.PaSFEoSRECC/">Printability and Shape Fidelity Evaluation of Self-Reinforced Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b> Sílvio</a>, <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b> Ester</a>, <a href="../../../author/freitas-daudt_natalia"><b>Freitas Daudt</b> Natália</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP/">Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zafa_zafa_hoja.2025.Et3PoECCwICfRCiAR,
+      author            = "Tayyab Zafar and Muhammad Saeed Zafar and Maryam Hojati",
+      title             = "Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions",
+      doi               = "10.3390/ma18143327",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "14",
+      pages             = "3327",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Zafar, M. S. Zafar and M. Hojati, “Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions”, <i>Materials</i>, vol. 18, no. 14, p. 3327, 2025, doi: 10.3390/ma18143327.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zafar, Tayyab, Muhammad Saeed Zafar, and Maryam Hojati. “Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions”. <i>Materials</i> 18, no. 14 (2025): 3327. https://doi.org/10.3390/ma18143327.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jinggao Zhu, Xiaodan Ren, Miguel Cervera
+    - footer
+title: Zhu Jinggao, Ren Xiaodan, Cervera Miguel
 description:
 tags:
  - analysis
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.addma.2023.103683" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2023.103683</a>
+#Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse ([2023-07](date/2023/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2023.103683" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103683" target="_blank">10.1016/j.addma.2023.103683</a>
 
--------------------------
+<a href="../../../author/zhu_jinggao"><b>Zhu</b>&nbsp;Jinggao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0357-4515" title="ORCID: 0000-0002-0357-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_xiaodan"><b>Ren</b>&nbsp;Xiaodan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3437-6703" title="ORCID: 0000-0003-3437-6703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cervera_miguel"><b>Cervera</b>&nbsp;Miguel</a></span><br>
+Journal Article - Additive Manufacturing, No. 103683
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>
-,     <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="https://orcid.org/0000-0002-0357-4515" title="ORCID: 0000-0002-0357-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="https://orcid.org/0000-0003-3437-6703" title="ORCID: 0000-0003-3437-6703" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 103683
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#buildability`](keyword/buildability)
-    [`#collapse`](keyword/collapse)
-    [`#concrete`](keyword/concrete)
-    [`#damage`](keyword/damage)
-    [`#flow`](keyword/flow)
-    [`#inclusion`](keyword/inclusion)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/collapse"><button class="btn">#collapse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/inclusion"><button class="btn">#inclusion</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Peridynamic%20Buildability-Analysis%20of%203D%20Printed%20Concrete%20Including%20Damage%2C%20Plastic%20Flow%20and%20Collapse" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164685195&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4383068233" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2023.103683" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2023.103683?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Without the restriction of formwork, 3D–printed concrete (3DPC) shows great advantages in construction; for the same reason, it presents stability problems, which greatly affect its buildability. In the present paper, a fluid-solid integrated peridynamic (PD) model is proposed for the modeling of 3DPC buildability. The considerations of fluid- and solid-like behaviors of 3DPC and the transition between them during the printing process are incorporated in by bond-based correspondence PD. Under the correspondence framework, the affinity hydration model is employed to combine the liquid bridge model and concrete damage model to capture the age-dependent material performance. In addition to the mechanical behavior, the simulation of the layer-by-layer printing process is also considered, including the new layer activation and time-dependent parameters. These constitute a complete scheme for 3DPC buildability modeling, which is then verified by two case studies with experimental results. The experimental and computational results exhibit plastic flow and/or elastic buckling. The case studies indicate that the proposed model can satisfactorily reproduce both the deformation shape and failure mode of 3DPC, thus providing guidance for the design of 3D concrete printing processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../chan_lian_xu_schl.2022.3CP/">3D Concrete Printing:<br/>Lattice Modeling of Structural Failure considering Damage and Deformed Geometry</a></li>
@@ -94,8 +72,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
@@ -113,4 +91,33 @@ tags:
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_ren_cerv.2023.PBAo3PCIDPFaC,
+      author            = "Jinggao Zhu and Xiaodan Ren and Miguel Cervera",
+      title             = "Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse",
+      doi               = "10.1016/j.addma.2023.103683",
+      year              = "2023",
+      journal           = "Additive Manufacturing",
+      pages             = "103683",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhu, X. Ren and M. Cervera, “Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse”, <i>Additive Manufacturing</i>, p. 103683, 2023, doi: 10.1016/j.addma.2023.103683.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Jinggao, Xiaodan Ren, and Miguel Cervera. “Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse”. <i>Additive Manufacturing</i>, 2023, 103683. https://doi.org/10.1016/j.addma.2023.103683.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

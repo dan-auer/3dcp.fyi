@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Okpin Na, Kangmin Kim, Hyunjoo Lee, Hyunseung Lee
+    - footer
+title: Na Okpin, Kim Kangmin, Lee Hyunjoo, Lee Hyunseung
 description:
 tags:
  - binder
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/11/2811/pdf?version=1621935832) Printability and Setting-Time of CSA Cement with Na2SiO3 and Gypsum for Binder-Jetting 3D Printing ([2021-05](date/2021/05))
-<a href="https://doi.org/10.3390/ma14112811" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14112811</a>
+#Printability and Setting-Time of CSA Cement with Na2SiO3 and Gypsum for Binder-Jetting 3D Printing ([2021-05](date/2021/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/11/2811/pdf?version=1621935832) <a href="https://doi.org/10.3390/ma14112811" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14112811" target="_blank">10.3390/ma14112811</a>
 
--------------------------
+<a href="../../../author/na_okpin"><b>Na</b>&nbsp;Okpin</a></span>, <a href="../../../author/kim_kangmin"><b>Kim</b>&nbsp;Kangmin</a></span>, <a href="../../../author/lee_hyunjoo"><b>Lee</b>&nbsp;Hyunjoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5603-538X" title="ORCID: 0000-0002-5603-538X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hyunseung"><b>Lee</b>&nbsp;Hyunseung</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/na_okpin"><b>Na</b> Okpin</a>
-,     <a href="../../../author/kim_kangmin"><b>Kim</b> Kangmin</a>
-,     <a href="../../../author/lee_hyunjoo"><b>Lee</b> Hyunjoo</a>
-,     <a href="../../../author/lee_hyunseung"><b>Lee</b> Hyunseung</a> <a href="https://orcid.org/0000-0002-5603-538X" title="ORCID: 0000-0002-5603-538X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#gypsum`](keyword/gypsum)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#setting`](keyword/setting)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/gypsum"><button class="btn">#gypsum</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Setting-Time%20of%20CSA%20Cement%20with%20Na2SiO3%20and%20Gypsum%20for%20Binder-Jetting%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85107452677&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3164221880" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14112811" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14112811?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The purpose of this study is to optimize the composition of CSA (calcium sulfoaluminate) cement with sodium silicate (Na2SiO3) and gypsum for binder jetting 3D printing. The preliminary test was carried out with an applicator to decide the proper thickness of one layer before using the 3D printer. A liquid binder was then selected to maintain the shape of the particles. Based on the results, the optimal mixture of dry materials and a liquid activator was derived through various parametric studies. For dry materials, the optimum composition of CSA cement, gypsum, and sand was suggested, and the liquid activator made with sodium silicate solution and VMA (viscosity modified agent) were selected. The setting time with gypsum and sodium silicate was controlled within 30 s. In case of the delayed setting time and the rapid setting mixture, the jetting line was printed thicker or thinner and the accuracy of the printout was degraded. In order to adjust the viscosity of the liquid activator, 10% of the VMA was used in 35% of sodium silicate solution and the viscosity of 200-400 cP was suitable to be sprayed from the nozzle. With this optimal mixture, a prototype of atypical decorative wall was printed, and the compressive strength was measured at about 7 MPa.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/ingaglio_joseph"><b>Ingaglio</b> Joseph</a>, <a href="../../../author/fox_t_john"><b>Fox</b> John</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a>, <a href="../../../author/bocchini_paolo"><b>Bocchini</b> Paolo</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../inga_fox_nait_bocc.2019.MCoBJ3PHCCwtAoFA/">Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
@@ -72,8 +51,8 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../shak_neja_paul_sanj.2020.DAFWaPiI3fGaCMM/">Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_junxing"><b>Liu</b> Junxing</a>, <a href="../../../author/li_peiqi"><b>Li</b> Peiqi</a>, <a href="../../../author/piao_taiyan"><b>Piao</b> Taiyan</a>, <a href="../../../author/im_sumin"><b>Im</b> Sumin</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../liu_li_piao_im.2025.HACMfBJ3P/">High-Alumina Cementitious Materials for Binder-Jetting 3D Printing:<br/>Exploring Suitable Mixing-Ratio and Curing-Solution for Improving Mechanical Properties and Hydration-Reaction</a></li>
       <li><a href="../../../author/gunzel_s_f"><b>Günzel</b> F.</a>, <a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kanyenze_simon_simba"><b>Kanyenze</b> Simba</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../gunz_moel_kany_krug.2024.IICSMtItCPoEB3CP/">Investigating Inherent Cement Setting Mechanisms to Improve the Constructability Performance of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhi_zhenzhen"><b>Zhi</b> Zhenzhen</a>, <a href="../../../author/guo_yanfei"><b>Guo</b> Yanfei</a>, <a href="../../../author/qi_huahui"><b>Qi</b> Huahui</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhi_guo_qi_tan.2024.EoAMSoHPoACSHf3P/">Effect of Alkali-Metal-Sulfates on Hydration Properties of Alpha-Calcium-Sulfate-Hemihydrate for 3D Printing</a></li>
@@ -82,4 +61,34 @@ tags:
       <li><a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b> Mohsin</a>, <a href="../../../author/shiwazi_amira"><b>Shiwazi</b> Amira</a>, <a href="../../../author/kindi_ghassan"><b>Kindi</b> Ghassan</a>, <a href="../../../author/sawafi_bushra"><b>Sawafi</b> Bushra</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../qure_shiw_kind_sawa.2024.DoAfC3PbULM/">Development of Additive for Concrete 3D Printer by Using Local Materials</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hu_tingyu"><b>Hu</b> Tingyu</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../ma_hu_wang_liu.2023.MPCfPB3CP/">Magnesium Phosphate Cement for Powder-Based 3D Concrete Printing:<br/>Systematic Evaluation and Optimization of Printability and Printing Quality</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{na_kim_lee_lee.2021.PaSToCCwNaGfBJ3P,
+      author            = "Okpin Na and Kangmin Kim and Hyunjoo Lee and Hyunseung Lee",
+      title             = "Printability and Setting-Time of CSA Cement with Na2SiO3 and Gypsum for Binder-Jetting 3D Printing",
+      doi               = "10.3390/ma14112811",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Na, K. Kim, H. Lee and H. Lee, “Printability and Setting-Time of CSA Cement with Na2SiO3 and Gypsum for Binder-Jetting 3D Printing”, <i>Materials</i>, vol. 14, no. 11, 2021, doi: 10.3390/ma14112811.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Na, Okpin, Kangmin Kim, Hyunjoo Lee, and Hyunseung Lee. “Printability and Setting-Time of CSA Cement with Na2SiO3 and Gypsum for Binder-Jetting 3D Printing”. <i>Materials</i> 14, no. 11 (2021). https://doi.org/10.3390/ma14112811.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lien Saelens, Roman Wan-Wendner, Robby Caspeele, Kim Tittelboom
+    - footer
+title: Saelens Lien, Wan-Wendner Roman, Caspeele Robby, Tittelboom Kim
 description:
 tags:
  - concrete
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Study on the Directional Dependency of 3D Printed Concrete in the Elastic Range ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1007/978-3-031-32519-9_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-32519-9_32</a>
+#Experimental Study on the Directional Dependency of 3D Printed Concrete in the Elastic Range ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-32519-9_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32519-9_32" target="_blank">10.1007/978-3-031-32519-9_32</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9481-1987" title="ORCID: 0000-0001-9481-1987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saelens_lien"><b>Saelens</b>&nbsp;Lien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b>&nbsp;Roman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4074-7478" title="ORCID: 0000-0003-4074-7478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caspeele_robby"><b>Caspeele</b>&nbsp;Robby</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Contribution - Proceedings of the fib Symposium 2023, pp. 339-348
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a> <a href="https://orcid.org/0000-0001-9481-1987" title="ORCID: 0000-0001-9481-1987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="https://orcid.org/0000-0003-4074-7478" title="ORCID: 0000-0003-4074-7478" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the fib Symposium 2023, pp. 339-348
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#dependency`](keyword/dependency)
-    [`#direction`](keyword/direction)
-    [`#elasticity`](keyword/elasticity)
-    [`#experiment`](keyword/experiment)
-    [`#print`](keyword/print)
-    [`#range`](keyword/range)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/range"><button class="btn">#range</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20the%20Directional%20Dependency%20of%203D%20Printed%20Concrete%20in%20the%20Elastic%20Range" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163926503&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4378878626" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-32519-9_32" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-32519-9_32?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The interest and knowledge in the research field of 3D concrete printing are vastly increasing. With the rise of more established printing methods and materials, larger elements with a higher degree of geometric complexity can be printed. This allows to shift the research focus towards the structural application of 3D printed concrete. The need for numerical modelling of these printed structures arises, wherein insight into the elastic properties of the material is essential. Multiple sources report about a certain degree of anisotropic behavior in the failure state, but researchers fail to reach a consensus concerning the degree of anisotropy in the elastic range in the hardened state of the homogenized material. During an exploratory experimental study, the directional dependency of cylindrical printed specimens is investigated based on uniaxial compression tests and optical displacement measurements. Cast cylinders and 3D printed cylinders in two different orientations are compared. Quasi-static moduli of elasticity are quantified in accordance with the concrete standard EN 12390-13, after which a preliminary conclusion concerning the degree of anisotropy of 3D printed concrete is presented.With this information, a new step is taken towards the numerical modelling of 3D printed concrete in order to use it for structural applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../heev_best_krug_zijl.2021.MCfNSoEB3CP/">Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
@@ -77,8 +56,39 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/shields_yasmina"><b>Shields</b> Yasmina</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_tao_zhan_shie.2025.MPo3PCw2IPIPPC/">Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sael_wan_casp_titt.2023.ESotDDo3PCitER,
+      author            = "Lien Saelens and Roman Wan-Wendner and Robby Caspeele and Kim van Tittelboom",
+      title             = "Experimental Study on the Directional Dependency of 3D Printed Concrete in the Elastic Range",
+      doi               = "10.1007/978-3-031-32519-9_32",
+      year              = "2023",
+      volume            = "349",
+      pages             = "339--348",
+      booktitle         = "Proceedings of the fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient",
+      editor            = "Alper Ilki and Derya Çavunt and Yavuz Selim Çavunt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Saelens, R. Wan-Wendner, R. Caspeele and K. van Tittelboom, “Experimental Study on the Directional Dependency of 3D Printed Concrete in the Elastic Range”, in <i>Proceedings of the fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient</i>,  2023, vol. 349, pp. 339–348. doi: 10.1007/978-3-031-32519-9_32.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Saelens, Lien, Roman Wan-Wendner, Robby Caspeele, and Kim van Tittelboom. “Experimental Study on the Directional Dependency of 3D Printed Concrete in the Elastic Range”. In <i>Proceedings of the Fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient</i>, edited by Alper Ilki, Derya Çavunt, and Yavuz Selim Çavunt, 349:339–48, 2023. https://doi.org/10.1007/978-3-031-32519-9_32.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

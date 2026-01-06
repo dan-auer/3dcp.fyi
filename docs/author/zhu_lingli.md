@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zhu Lingli 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
   <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zhao_shen_zhu_ding.2025.EIBaPSOi3PHSEwSPHF/">Enhancing Interfacial Bonding and Pore Structure Optimization in 3D-Printed High-Strength ECC with Steel-PE Hybrid Fibers</a></li>
   <li><a href="../../../author/wu_xikai"><b>Wu</b> Xikai</a>, <a href="../../../author/shi_qingxuan"><b>Shi</b> Qingxuan</a>, <a href="../../../author/huo_jian"><b>Huo</b> Jian</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wu_shi_huo_zhao.2024.ESoBaMPo3PC/">Experimental Study on Buildability and Mechanical Properties of 3D Printing Cob</a></li>

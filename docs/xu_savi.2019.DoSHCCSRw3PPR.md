@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yading Xu, Branko Šavija
+    - footer
+title: Xu Yading, Šavija Branko
 description:
 tags:
  - cement
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Strain-Hardening Cementitious Composite (SHCC) Reinforced with 3D Printed Polymeric Reinforcement:<br/>:aca-blank: Mechanical Properties ([2019-06](date/2019/06))
-<a href="https://doi.org/10.1016/j.compositesb.2019.107011" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2019.107011</a>
+#Development of Strain-Hardening Cementitious Composite (SHCC) Reinforced with 3D Printed Polymeric Reinforcement&nbsp;([2019-06](date/2019/06))
+<div class="h1-like">Mechanical Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2019.107011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2019.107011" target="_blank">10.1016/j.compositesb.2019.107011</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_yading"><b>Xu</b>&nbsp;Yading</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
+Journal Article - Composites Part B: Engineering, Vol. 174
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_yading"><b>Xu</b> Yading</a> <a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, Vol. 174, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#development`](keyword/development)
-    [`#hardened`](keyword/hardened)
-    [`#mechanics`](keyword/mechanics)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Strain-Hardening%20Cementitious%20Composite%20%28SHCC%29%20Reinforced%20with%203D%20Printed%20Polymeric%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85067265240&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,24 +41,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2949597998" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2019.107011" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2019.107011?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cracking in concrete needs to be limited for esthetical and durability reasons. Currently, this is commonly done by using steel rebars in the structure or fiber reinforcement in the material. With certain fiber types and micromechanical design, it is even possible to create cement-based materials with steel like (i.e. quasi-plastic) properties – so called strain hardening cementitious composites (SHCCs). In this paper, an alternative approach for creating SHCC – through use of additive manufacturing to create polymeric reinforcement meshes – is proposed. Different designs are manufactured, casted in the cementitious matrix, and tested in four-point bending and uniaxial tension. It was found that, with proper designs, it is possible to create cementitious composites with deflection hardening or strain hardening properties. Furthermore, with proper design, multiple cracking behavior of conventional SHCC can be replicated. In addition, numerical simulations were performed using the Delft lattice model. Four point bending tests on mortar bars reinforced by two different mesh designs were simulated and the results show good agreement with the experiments. This research shows great potential of using additive manufacturing for creating SHCCs with customizable properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a>, <a href="../../../author/fabbrocino_f"><b>Fabbrocino</b> F.</a>, <a href="../../../author/carpentieri_g"><b>Carpentieri</b> G.</a>, <a href="../../../author/modano_m"><b>Modano</b> M.</a> et al. <a href="../../../date/2015/12">(2015-12)</a><br><a href="../../../fari_fabb_carp_moda.2016.OtRoCMt3PPaMF/">On the Reinforcement of Cement Mortars through 3D Printed Polymeric- and Metallic-Fibers</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../mech_graf_nere_span.2018.3PSRfDCC/">3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>Manufacture, Mechanical Properties and Bond Behavior</a></li>
       <li><a href="../../../author/nam_jun_young"><b>Nam</b> Young</a>, <a href="../../../author/hwang_kwang_young"><b>Hwang</b> Young</a>, <a href="../../../author/park_woon_ji"><b>Park</b> Ji</a>, <a href="../../../author/lim_mook_yun"><b>Lim</b> Yun</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../nam_hwan_park_lim.2019.FStCFDfEoCPvTDP/">Feasibility Study to Control Fiber-Distribution for Enhancement of Composite Properties via Three-Dimensional Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a>, <a href="../../../author/kumar_vijay"><b>Kumar</b> Vijay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/borsaikia_c_arun"><b>Borsaikia</b> Arun</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maur_kuma_pand_bors.2025.IPCRi3CPwaSN/">Inline Polymer Cable Reinforcement in 3D Concrete Printing with a Special Nozzle</a></li>
@@ -104,4 +83,33 @@ tags:
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../xu_zhan_schl_luko.2020.CCCwAB/">Cementitious Cellular Composites with Auxetic Behavior</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../li_wang_ma.2020.MIoCSMCRGCf3PStDLC/">Mechanical Improvement of Continuous Steel-Micro-Cable-Reinforced Geopolymer Composites for 3D Printing Subjected to Different Loading Conditions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_savi.2019.DoSHCCSRw3PPR,
+      author            = "Yading Xu and Branko Šavija",
+      title             = "Development of Strain-Hardening Cementitious Composite (SHCC) Reinforced with 3D Printed Polymeric Reinforcement: Mechanical Properties",
+      doi               = "10.1016/j.compositesb.2019.107011",
+      year              = "2019",
+      journal           = "Composites Part B: Engineering",
+      volume            = "174",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Xu  and B. Šavija, “Development of Strain-Hardening Cementitious Composite (SHCC) Reinforced with 3D Printed Polymeric Reinforcement: Mechanical Properties”, <i>Composites Part B: Engineering</i>, vol. 174, 2019, doi: 10.1016/j.compositesb.2019.107011.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Yading, and Branko Šavija. “Development of Strain-Hardening Cementitious Composite (SHCC) Reinforced with 3D Printed Polymeric Reinforcement: Mechanical Properties”. <i>Composites Part B: Engineering</i> 174 (2019). https://doi.org/10.1016/j.compositesb.2019.107011.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

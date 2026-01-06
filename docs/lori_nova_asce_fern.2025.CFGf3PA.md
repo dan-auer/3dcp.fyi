@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Lori, Rui Novais, Guilherme Ascensão, Fábio Fernandes, Navid Ranjbar, Jon Spangenberg
+    - footer
+title: Lori Ali, Novais Rui, Ascensão Guilherme, Fernandes Fábio, Ranjbar Navid, Spangenberg Jon
 description:
 tags:
  - application
@@ -12,30 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2025.106116) Chemically Foamed Geopolymers for 3D Printing Applications ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106116" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106116</a>
+#Chemically Foamed Geopolymers for 3D Printing Applications ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2025.106116) <a href="https://doi.org/10.1016/j.cemconcomp.2025.106116" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106116" target="_blank">10.1016/j.cemconcomp.2025.106116</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-3492-3469" title="ORCID: 0009-0000-3492-3469" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lori_rezaei_ali"><b>Lori</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5698-9135" title="ORCID: 0000-0001-5698-9135" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/novais_miguel_rui"><b>Novais</b>&nbsp;Rui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6003-4486" title="ORCID: 0000-0002-6003-4486" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ascensao_guilherme"><b>Ascensão</b>&nbsp;Guilherme</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9751-8807" title="ORCID: 0000-0001-9751-8807" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernandes_fabio"><b>Fernandes</b>&nbsp;Fábio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1485-3931" title="ORCID: 0000-0002-1485-3931" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ranjbar_navid"><b>Ranjbar</b>&nbsp;Navid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106116
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a> <a href="https://orcid.org/0009-0000-3492-3469" title="ORCID: 0009-0000-3492-3469" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a> <a href="https://orcid.org/0000-0001-5698-9135" title="ORCID: 0000-0001-5698-9135" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ascensao_guilherme"><b>Ascensão</b> Guilherme</a> <a href="https://orcid.org/0000-0002-6003-4486" title="ORCID: 0000-0002-6003-4486" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fernandes_fabio"><b>Fernandes</b> Fábio</a> <a href="https://orcid.org/0000-0001-9751-8807" title="ORCID: 0000-0001-9751-8807" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ranjbar_navid"><b>Ranjbar</b> Navid</a> <a href="https://orcid.org/0000-0002-1485-3931" title="ORCID: 0000-0002-1485-3931" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106116
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#foam`](keyword/foam)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Chemically%20Foamed%20Geopolymers%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004422007&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410198316" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106116" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106116?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Using chemically foamed geopolymers in 3D-printed building applications offers multifunctionality to the construction sector and enhances environmental sustainability; however, this topic remains virtually unexplored. To this end, the first part of this paper focuses on the fundamental stabilisation mechanism of chemically foamed geopolymers. In the second part, the most promising compositions were selected for applications in two potential areas: i) integration as an infilling material in 3D-printed sandwich envelopes, and ii) direct 3D printing of foam geopolymers. The findings indicated that to prevent instability mechanisms, various mix-design practices are necessary, including the use of an appropriate surfactant to inhibit coalescence, and the regulation of rheological properties to control drainage and coarsening. Implementing stabilised foam as infill in 3D-printed walls significantly enhances thermal performance due to its low thermal conductivity. Additionally, by adjusting Al dosage (up to 0.3%) and using SDS as a stabilising surfactant, the foams were successfully printed with densities and compressive strengths ranging from 0.58 to 1.1 g/cm3 and 1.2 to 13.5 MPa, respectively. Moreover, 3D-printed foams demonstrated a thermal conductivity of 0.097 W/m·K and an impressive sound absorption coefficient (0.84 at 630 Hz) for the mix containing 0.3% Al. The results underscore the viability of 3D-printed chemically foamed geopolymers in future construction projects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../beda_szab_zani_dill.2023.R3PoGFfLaIBE/">Robotic 3D Printing of Geopolymer Foam for Lightweight and Insulating Building Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -82,9 +62,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhan_sanj.2024.QNMTf3PFC/">Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/balina_karina"><b>Balina</b> Karina</a>, <a href="../../../author/gailitis_rihards"><b>Gailitis</b> Rihards</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/argalis_pavils_pauls"><b>Argalis</b> Pauls</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bali_gail_sink_arga.2025.PLf3PFGCUCWaA/">Prospective LCA for 3D-Printed Foamed Geopolymer Composites Using Construction Waste as Additives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lori_nova_asce_fern.2025.CFGf3PA,
+      author            = "Ali Rezaei Lori and Rui Miguel Novais and Guilherme Ascensão and Fábio Fernandes and Navid Ranjbar and Jon Spangenberg",
+      title             = "Chemically Foamed Geopolymers for 3D Printing Applications",
+      doi               = "10.1016/j.cemconcomp.2025.106116",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106116",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. R. Lori, R. M. Novais, G. Ascensão, F. Fernandes, N. Ranjbar and J. Spangenberg, “Chemically Foamed Geopolymers for 3D Printing Applications”, <i>Cement and Concrete Composites</i>, p. 106116, 2025, doi: 10.1016/j.cemconcomp.2025.106116.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lori, Ali Rezaei, Rui Miguel Novais, Guilherme Ascensão, Fábio Fernandes, Navid Ranjbar, and Jon Spangenberg. “Chemically Foamed Geopolymers for 3D Printing Applications”. <i>Cement and Concrete Composites</i>, 2025, 106116. https://doi.org/10.1016/j.cemconcomp.2025.106116.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

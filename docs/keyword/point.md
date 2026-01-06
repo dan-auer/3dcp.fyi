@@ -8,7 +8,7 @@ search:
 
 # #point
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/seepim_sirakan"><b>Seepim</b> Sirakan</a>, <a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b> Chamil</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../seep_dhan_tana_tang.2025.EoPITotSPo3PBUFPBL/">Effects of Printing Interval Time on the Structural Performance of 3D-Printed Beams Under Four-Point Bending Loads</a></li>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../liu_zhan_jia_cao.2024.QCoBSoFCTEP/">Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process:<br/>From Yield-Stress , Viscosity and Surface Tension Point of View</a></li>
   <li><a href="../../../author/tang_yuxiang"><b>Tang</b> Yuxiang</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../tang_xiao_ding_liu.2024.TLaILFBoEB3PCUTPB/">Trans-Layer and Inter-Layer Fracture Behavior of Extrusion-Based 3D Printed Concrete Under Three-Point Bending</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bolin Wang, Mingang Zhai, Xiaofei Yao, Qing Wu, Min Yang, Xiangyu Wang, Jizhuo Huang, Hongyu Zhao
+    - footer
+title: Wang Bolin, Zhai Mingang, Yao Xiaofei, Wu Qing, Yang Min, Wang Xiangyu, Huang Jizhuo, Zhao Hongyu
 description:
 tags:
  - concrete
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/3/374/pdf?version=1647589780) Printable and Mechanical Performance of 3D Printed Concrete Employing Multiple Industrial Wastes ([2022-03](date/2022/03))
-<a href="https://doi.org/10.3390/buildings12030374" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12030374</a>
+#Printable and Mechanical Performance of 3D Printed Concrete Employing Multiple Industrial Wastes ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/3/374/pdf?version=1647589780) <a href="https://doi.org/10.3390/buildings12030374" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12030374" target="_blank">10.3390/buildings12030374</a>
 
--------------------------
+<a href="../../../author/wang_bolin"><b>Wang</b>&nbsp;Bolin</a></span>, <a href="../../../author/zhai_mingang"><b>Zhai</b>&nbsp;Mingang</a></span>, <a href="../../../author/yao_xiaofei"><b>Yao</b>&nbsp;Xiaofei</a></span>, <a href="../../../author/wu_qing"><b>Wu</b>&nbsp;Qing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_min"><b>Yang</b>&nbsp;Min</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/huang_jizhuo"><b>Huang</b>&nbsp;Jizhuo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>
-,     <a href="../../../author/zhai_mingang"><b>Zhai</b> Mingang</a>
-,     <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>
-,     <a href="../../../author/wu_qing"><b>Wu</b> Qing</a>
-,     <a href="../../../author/yang_min"><b>Yang</b> Min</a> <a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_jizhuo"><b>Huang</b> Jizhuo</a>
-,     <a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> <a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#industry`](keyword/industry)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printable%20and%20Mechanical%20Performance%20of%203D%20Printed%20Concrete%20Employing%20Multiple%20Industrial%20Wastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127550118&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,25 +37,21 @@ tags:
 <a href="https://inciteful.xyz/p/W4220721662" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12030374" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12030374?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing is a promising technology and attracts the significant attention of research and industry. However, printable and mechanical capacities are required for 3D printable cementitious materials. Moreover, the quantitative analysis methods of printable performance are limited and have low sensitivity. In this study, the orthogonal experiment through samples combining 3D concrete printing method with fly ash, silica fume, and ground granulated blast furnace slag was designed to obtain the printable and mechanical property influence of various mix proportions. Furthermore, multiple industrial wastes were utilized to improve material sustainability. Meanwhile, the static and dynamic extrusion pressure measured by the original 3D printing extrudability tester were verified to achieve a high-sensitivity evaluating indicator. Thereby, a novel high-sensitivity quantitative analysis method of printable capacity was established to explore the influence of industrial wastes usage on the printability of 3D printable mortars. The optimum dosage of fly ash, silica fume, and ground granulated blast furnace slag was 20 wt.%, 15 wt.%, and 10 wt.%, respectively, based on printable and mechanical property experiments. Furthermore, the optimum dosage was employed to print the sample and achieved a higher compressive strength (56.3 MPa) than the control cast.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/lu_jenny"><b>Lu</b> Jenny</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sun_asla_lu_wang.2021.FRLECCf3CP/">Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing</a></li>
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/huang_yimiao"><b>Huang</b> Yimiao</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../sun_huan_asla_wang.2021.MEfEACMU3CP/">Mechanical Enhancement for EMW-Absorbing Cementitious Material Using 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
@@ -103,4 +78,34 @@ tags:
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
       <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/zhang_runhong"><b>Zhang</b> Runhong</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../wang_yao_yang_zhan.2022.MPo3PCiSCC/">Mechanical Performance of 3D Printed Concrete in Steam-Curing Conditions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_zhai_yao_wu.2022.PaMPo3PCEMIW,
+      author            = "Bolin Wang and Mingang Zhai and Xiaofei Yao and Qing Wu and Min Yang and Xiangyu Wang and Jizhuo Huang and Hongyu Zhao",
+      title             = "Printable and Mechanical Performance of 3D Printed Concrete Employing Multiple Industrial Wastes",
+      doi               = "10.3390/buildings12030374",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Wang, “Printable and Mechanical Performance of 3D Printed Concrete Employing Multiple Industrial Wastes”, <i>Buildings</i>, vol. 12, no. 3, 2022, doi: 10.3390/buildings12030374.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Bolin, Mingang Zhai, Xiaofei Yao, Qing Wu, Min Yang, Xiangyu Wang, Jizhuo Huang, and Hongyu Zhao. “Printable and Mechanical Performance of 3D Printed Concrete Employing Multiple Industrial Wastes”. <i>Buildings</i> 12, no. 3 (2022). https://doi.org/10.3390/buildings12030374.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

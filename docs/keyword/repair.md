@@ -8,7 +8,7 @@ search:
 
 # #repair
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../quah_liu_tay_li.2025.IPFRi3CPwIS/">In-Process Filament Repair in 3D Concrete Printing with Instance Segmentation</a></li>
   <li><a href="../../../author/thomsen_ramsgaard_mette"><b>Thomsen</b> Mette</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b> Ruxandra-Stefania</a>, <a href="../../../author/nielsen_dalager_stine"><b>Nielsen</b> Stine</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../thom_nich_chiu_niel.2025.AMfR/">Additive Manufacturing for Repair:<br/>Continual Construction Through Bio-Based Materials</a></li>
   <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>

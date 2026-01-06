@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehrdad Razzaghian Ghadikolaee, Zhu Pan, Elena Cerro-Prada, Asghar Korayem
+    - footer
+title: Razzaghian Ghadikolaee Mehrdad, Pan Zhu, Cerro-Prada Elena, Korayem Asghar
 description:
 tags:
  - fresh
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fresh and Hardened Properties of 3D Printing Mortar Modified by Halloysite-Nanotube ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.jobe.2024.109828" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109828</a>
+#Fresh and Hardened Properties of 3D Printing Mortar Modified by Halloysite-Nanotube ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109828" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109828" target="_blank">10.1016/j.jobe.2024.109828</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2857-3305" title="ORCID: 0000-0003-2857-3305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b>&nbsp;Mehrdad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3389-4656" title="ORCID: 0000-0003-3389-4656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_zhu"><b>Pan</b>&nbsp;Zhu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7018-4800" title="ORCID: 0000-0001-7018-4800" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b>&nbsp;Asghar</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109828
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b> Mehrdad</a> <a href="https://orcid.org/0000-0003-2857-3305" title="ORCID: 0000-0003-2857-3305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a> <a href="https://orcid.org/0000-0003-3389-4656" title="ORCID: 0000-0003-3389-4656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b> Elena</a> <a href="https://orcid.org/0000-0001-7018-4800" title="ORCID: 0000-0001-7018-4800" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109828
-
-:aca-blank:{ .lg .middle}
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fresh%20and%20Hardened%20Properties%20of%203D%20Printing%20Mortar%20Modified%20by%20Halloysite-Nanotube" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195421039&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399362613" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109828" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109828?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study presents the impacts of different dosages of halloysite nanotube (HNT) on the characteristics of 3D printing mortar (3DPM). The fresh behavior of 3DPM alongside with its hardened performance and microstructural characteristics were evaluated. Results indicated that HNT accelerates the setting time of 3DPM. 3% of HNT (HNT3) increased the yield stress and thixotropy of 3DPM by around 537 and 248%, respectively. The improvement in green strength (265%) and shape stability (69%) of 3%-HNT-modified 3DPM samples was observed. HNT3 also enhanced the flexural (45%), compressive (39%), and interlayer-bond (19%) strengths. Furthermore, durability-related characteristics results demonstrated that HNT3 can reduce sorptivity and gas porosity by approximately 42 and 55%, respectively, while it increases its electrical resistivity by about 48%. Outcomes obtained from microstructural analysis confirmed the denser microstructure of HNT-modified 3DPM. Therefore, HNT can be introduced as a promising candidate to improve both fresh and hardened characteristics of 3DPM.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
@@ -94,9 +74,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nan_bo"><b>Nan</b> Bo</a>, <a href="../../../author/qiao_youxin"><b>Qiao</b> Youxin</a>, <a href="../../../author/leng_junjie"><b>Leng</b> Junjie</a>, <a href="../../../author/bai_yikui"><b>Bai</b> Yikui</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../nan_qiao_leng_bai.2025.ASRi3PC/">Advancing Structural Reinforcement in 3D Printed Concrete:<br/>Current Methods, Challenges, and Innovations</a></li>
       <li><a href="../../../author/jin_peng"><b>Jin</b> Peng</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/kohestanian_mohammad"><b>Kohestanian</b> Mohammad</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../jin_hasa_kohe_mehr.2024.MNAi3PC/">Micro/Nano Additives in 3D Printing Concrete:<br/>Opportunities, Challenges, and Potential Outlook in Construction Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{razz_pan_cerr_kora.2024.FaHPo3PMMbHN,
+      author            = "Mehrdad Razzaghian Ghadikolaee and Zhu Pan and Elena Cerro-Prada and Asghar Habibnejad Korayem",
+      title             = "Fresh and Hardened Properties of 3D Printing Mortar Modified by Halloysite-Nanotube",
+      doi               = "10.1016/j.jobe.2024.109828",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109828",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Ghadikolaee, Z. Pan, E. Cerro-Prada and A. H. Korayem, “Fresh and Hardened Properties of 3D Printing Mortar Modified by Halloysite-Nanotube”, <i>Journal of Building Engineering</i>, p. 109828, 2024, doi: 10.1016/j.jobe.2024.109828.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ghadikolaee, Mehrdad Razzaghian, Zhu Pan, Elena Cerro-Prada, and Asghar Habibnejad Korayem. “Fresh and Hardened Properties of 3D Printing Mortar Modified by Halloysite-Nanotube”. <i>Journal of Building Engineering</i>, 2024, 109828. https://doi.org/10.1016/j.jobe.2024.109828.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

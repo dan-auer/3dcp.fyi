@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Negar Ashrafi, Shadi Nazarian, Nicholas Meisel, José Duarte
+    - footer
+title: Ashrafi Negar, Nazarian Shadi, Meisel Nicholas, Duarte José
 description:
 tags:
  - additive
@@ -23,39 +24,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete ([2021-08](date/2021/08))
-<a href="https://doi.org/10.1016/j.addma.2021.102228" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2021.102228</a>
+#Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete ([2021-08](date/2021/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.addma.2021.102228" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.102228" target="_blank">10.1016/j.addma.2021.102228</a>
 
--------------------------
+<a href="../../../author/ashrafi_negar"><b>Ashrafi</b>&nbsp;Negar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3718-9279" title="ORCID: 0000-0002-3718-9279" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meisel_a_nicholas"><b>Meisel</b>&nbsp;Nicholas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 47
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>
-,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="https://orcid.org/0000-0002-3718-9279" title="ORCID: 0000-0002-3718-9279" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 47, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#calibration`](keyword/calibration)
-    [`#compensation`](keyword/compensation)
-    [`#concrete`](keyword/concrete)
-    [`#continuous`](keyword/continuous)
-    [`#deformation`](keyword/deformation)
-    [`#effect`](keyword/effect)
-    [`#experiment`](keyword/experiment)
-    [`#layer`](keyword/layer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#scale`](keyword/scale)
-    [`#shape`](keyword/shape)
-    [`#time`](keyword/time)
-    [`#volume`](keyword/volume)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/calibration"><button class="btn">#calibration</button></a> <a href="../../keyword/compensation"><button class="btn">#compensation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Calibration%20and%20Compensation%20for%20the%20Continuous%20Effect%20of%20Time%2C%20Number%20of%20Layers%20and%20Volume%20of%20Material%20on%20Shape%20Deformation%20in%20Small-Scale%20Additive%20Manufacturing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85113637950&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3187609104" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2021.102228" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2021.102228?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) of cementitious material is a multidisciplinary effort that depends on multiple aspects such as printing system, toolpath design and material properties. Although each of these aspects are important individually, their combined effect must also be considered. For instance, the rheological and physical properties of fresh cementitious material affect the printing system, and in turn the toolpath design. More importantly, the properties of printed material and its deformation behavior affect the dimensional and geometric precision which requires modification of the toolpath to compensate for such a deformation. The deformation of fine aggregate concrete is a time related issue that is directly related to the scale of printed specimens. In larger parts the time to print each layer is bigger and the material will have more time to harden and keep its shape, whereas in smaller parts it does not have enough time to harden and will deform under the weight of subsequent layers. As a result, shape accuracy of the printed specimen will be compromised. Previous experimental research determined the effect of the number of layers and beads on deformation and the time interval after which printed concrete stops deforming. This study investigates the effect of the number of layers and beads on layer width and layer height deformation as a function of extrusion rate and time before that time interval. The result is a model relating all the relevant variables that can be used to compensate for deformation in toolpath design of small scale printed concrete specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -107,8 +78,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
       <li><a href="../../../author/park_keunhyoung"><b>Park</b> Keunhyoung</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../park_mema_hoja_radl.2024.EoAMBoNMCo3PCBwR/">Effects of Anisotropic Mechanical Behavior on Nominal Moment Capability of 3D Printed Concrete Beam with Reinforcement</a></li>
@@ -119,4 +90,33 @@ tags:
       <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../moll_comm_serd_seta.2023.CAoYSBaSoDLiMEAM/">Computational Analysis of Yield-Stress-Buildup and Stability of Deposited Layers in Material-Extrusion Additive Manufacturing</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ashr_naza_meis_duar.2022.AGBAfTPG/">A Grammar-Based Algorithm for Tool-Path-Generation:<br/>Compensating for Material-Deformation in the Additive Manufacturing of Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ashr_naza_meis_duar.2021.ECaCftCEoTNoLaVoMoSDiSSAMoC,
+      author            = "Negar Ashrafi and Shadi Nazarian and Nicholas A. Meisel and José Pinto Duarte",
+      title             = "Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete",
+      doi               = "10.1016/j.addma.2021.102228",
+      year              = "2021",
+      journal           = "Additive Manufacturing",
+      volume            = "47",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Ashrafi, S. Nazarian, N. A. Meisel and J. P. Duarte, “Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete”, <i>Additive Manufacturing</i>, vol. 47, 2021, doi: 10.1016/j.addma.2021.102228.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ashrafi, Negar, Shadi Nazarian, Nicholas A. Meisel, and José Pinto Duarte. “Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete”. <i>Additive Manufacturing</i> 47 (2021). https://doi.org/10.1016/j.addma.2021.102228.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

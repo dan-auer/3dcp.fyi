@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Roberto Naboni, Luca Breseghello, Sandro Sanin
+    - footer
+title: Naboni Roberto, Breseghello Luca, Sanin Sandro
 description:
 tags:
  - aware
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/ecaade2022_384.pdf) Environment-Aware 3D Concrete Printing through Robot-Vision ([2022-09](date/2022/09))
-<a href="https://doi.org/10.52842/conf.ecaade.2022.2.409" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.ecaade.2022.2.409</a>
+#Environment-Aware 3D Concrete Printing through Robot-Vision ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2022_384.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2022.2.409" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2022.2.409" target="_blank">10.52842/conf.ecaade.2022.2.409</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span>, <a href="../../../author/sanin_sandro"><b>Sanin</b>&nbsp;Sandro</a></span><br>
+Contribution - Proceedings of the 40th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 409 - 418
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 40th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 409 - 418
-
-:aca-blank:{ .lg .middle}
-    [`#aware`](keyword/aware)
-    [`#concrete`](keyword/concrete)
-    [`#environment`](keyword/environment)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/aware"><button class="btn">#aware</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Environment-Aware%203D%20Concrete%20Printing%20through%20Robot-Vision" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313035051" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.ecaade.2022.2.409" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.ecaade.2022.2.409?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the 2020s, large scale 3D concrete printing (3DCP) is one of the most important areas of development for research and industry in construction automation. However, the available technology fails to adapt to the complexity of a real construction site and building process, oversimplifying design, production, and products to fit the current state of technology. We hypothesise that by equipping printing machinery with sensing devices and adaptive design algorithms we can radically expand the range of applications and effectiveness of 3DCP. In this paper we prove this concept through a full-scale design-tofabrication experiment, SENS-ENV, consisting of three main phases: (i) we equip and calibrate an existing robotic setup for 3DCP with a camera which collects geometric data; (ii) building upon the collected information, we use environment-aware generative design algorithms to conceive a toolpath design tailored for the specific environment with a quasi-real-time workflow; (iii) we successfully prove this approach with a number of fabrication test-elements printed on unknown environment configurations and by monitoring the fabrication process to apply printing corrections. The paper describes the implementation and the successful experiments in terms of technology setup, process development, and documenting the outcomes. SENS-ENV opens a new agenda for context-aware autonomous additive construction robots.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/ladinig_johannes"><b>Ladinig</b> Johannes</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bhoo_ladi_mele_bloc.2019.FRfR3PC/">Function Representation for Robotic 3D Printed Concrete</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
@@ -71,8 +52,8 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/campos_tatiana"><b>Campos</b> Tatiana</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ribe_camp_bran_figu.2025.3CS/">3DCP Composite Systems:<br/>Additive Manufacturing of a Concrete and Cellulose Interlocking Wall</a></li>
@@ -86,4 +67,35 @@ tags:
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../sala_jaya.2022.OSoRAaFSfDFTiCI/">Optimum Selection of Reinforcement, Assembly, and Formwork System for Digital Fabrication Technique in Construction Industry:<br/>A Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{nabo_bres_sani.2022.EA3CPtRV,
+      author            = "Roberto Naboni and Luca Breseghello and Sandro Sanin",
+      title             = "Environment-Aware 3D Concrete Printing through Robot-Vision",
+      doi               = "10.52842/conf.ecaade.2022.2.409",
+      year              = "2022",
+      volume            = "2",
+      pages             = "409--418",
+      booktitle         = "Proceedings of the 40th International Conference on Education and Research in Computer Aided Architectural Design in Europe",
+      editor            = "Burak Pak and Gabriel Wurzer and Rudi Stouffs",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Naboni, L. Breseghello and S. Sanin, “Environment-Aware 3D Concrete Printing through Robot-Vision”, in <i>Proceedings of the 40th International Conference on Education and Research in Computer Aided Architectural Design in Europe</i>,  2022, vol. 2, pp. 409–418. doi: 10.52842/conf.ecaade.2022.2.409.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Naboni, Roberto, Luca Breseghello, and Sandro Sanin. “Environment-Aware 3D Concrete Printing Through Robot-Vision”. In <i>Proceedings of the 40th International Conference on Education and Research in Computer Aided Architectural Design in Europe</i>, edited by Burak Pak, Gabriel Wurzer, and Rudi Stouffs, 2:409–18, 2022. https://doi.org/10.52842/conf.ecaade.2022.2.409.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

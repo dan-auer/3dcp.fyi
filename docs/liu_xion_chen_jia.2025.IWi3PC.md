@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ruiying Liu, Zhongming Xiong, Xuan Chen, Qiong Jia, Jiarui Liu, Yue Liu, Jun-Jie Zeng, Yan Zhuge
+    - footer
+title: Liu Ruiying, Xiong Zhongming, Chen Xuan, Jia Qiong, Liu Jiarui, Liu Yue, Zeng Jun-Jie, Zhuge Yan
 description:
 tags:
  - concrete
@@ -16,36 +17,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Industrial Waste in 3D Printed Concrete:<br/>:aca-blank: A Mechanistic Review on Rheological Control and Printability ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.jobe.2025.114033" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114033</a>
+#Industrial Waste in 3D Printed Concrete&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">A Mechanistic Review on Rheological Control and Printability</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114033" target="_blank">10.1016/j.jobe.2025.114033</a>
 
--------------------------
+<a href="../../../author/liu_ruiying"><b>Liu</b>&nbsp;Ruiying</a></span>, <a href="../../../author/xiong_zhongming"><b>Xiong</b>&nbsp;Zhongming</a></span>, <a href="../../../author/chen_xuan"><b>Chen</b>&nbsp;Xuan</a></span>, <a href="../../../author/jia_qiong"><b>Jia</b>&nbsp;Qiong</a></span>, <a href="../../../author/liu_jiarui"><b>Liu</b>&nbsp;Jiarui</a></span>, <a href="../../../author/liu_yue"><b>Liu</b>&nbsp;Yue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuge_yan"><b>Zhuge</b>&nbsp;Yan</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114033
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>
-,     <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>
-,     <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>
-,     <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a>
-,     <a href="../../../author/liu_jiarui"><b>Liu</b> Jiarui</a>
-,     <a href="../../../author/liu_yue"><b>Liu</b> Yue</a>
-,     <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> <a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> <a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114033
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Industrial%20Waste%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015986486&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414106485" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114033" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114033?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Sustainable 3D printed concrete (3DPC) offers a promising solution to reduce cement consumption and utilise industrial waste in digital construction. This review examines the roles of metallurgical slags (GGBFS, steel slag) and mining tailings (antimony, bauxite, copper) in affecting the fresh-state performance of 3DPC. A comparative analysis is conducted to evaluate the influence of different industrial waste on key fresh properties, e.g., pumpability, extrudability, buildability, and open time. A dual mechanistic framework is proposed, separating reaction-controlled structuration from packing-controlled rheology. The results show that GGBFS provides the most balanced effect: it lowers yield stress and improves flowability in OPC mixes, while accelerating structuration in alkali-activated binders. Steel slag mainly contributes to packing effects but requires activation or blending with more reactive SCMs. Antimony and bauxite tailings exhibit moderate pozzolanic activity, enhancing buildability and thixotropy at suitable dosages. In contrast, copper tailings act largely as inert fillers, improving pumpability but reducing interlayer bonding at high contents. Beyond these mechanisms, the review highlights environmental and economic benefits. The use of slags and tailings can replace up to 40% of clinker, leading to CO2 emission reductions of about 2-8% depending on the binder system, and lowering raw material costs by approximately 10-20% compared with conventional mixes. Future directions include standardising fresh-state test methods, applying machine learning to mix optimisation, and validating performance at the field scale to ensure reliable and sustainable application.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "89 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ambi_kali_seba_shek.2025.S3PCMUCS/">Sustainable 3D Printable Concrete-Mix Using Copper-Slag</a></li>
@@ -161,7 +136,36 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhao_wanting"><b>Zhao</b> Wanting</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zhu_zhao_zhao_guan.2024.MAoRPo3PSSCCBoLFNMRT/">Mechanism Analysis of Rheological Properties of 3D Printed Steel-Slag Cementitious Composite Based on Low-Field Nuclear-Magnetic-Relaxation-Test</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_xion_chen_jia.2025.IWi3PC,
+      author            = "Ruiying Liu and Zhongming Xiong and Xuan Chen and Qiong Jia and Jiarui Liu and Yue Liu and Jun-Jie Zeng and Yan Zhuge",
+      title             = "Industrial Waste in 3D Printed Concrete: A Mechanistic Review on Rheological Control and Printability",
+      doi               = "10.1016/j.jobe.2025.114033",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114033",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Liu, “Industrial Waste in 3D Printed Concrete: A Mechanistic Review on Rheological Control and Printability”, <i>Journal of Building Engineering</i>, p. 114033, 2025, doi: 10.1016/j.jobe.2025.114033.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Ruiying, Zhongming Xiong, Xuan Chen, Qiong Jia, Jiarui Liu, Yue Liu, Jun-Jie Zeng, and Yan Zhuge. “Industrial Waste in 3D Printed Concrete: A Mechanistic Review on Rheological Control and Printability”. <i>Journal of Building Engineering</i>, 2025, 114033. https://doi.org/10.1016/j.jobe.2025.114033.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

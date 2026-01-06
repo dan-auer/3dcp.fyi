@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ivo Carvalho, Abcael Melo, Carlos Melo, Mateus Brito, André Chaves, Lucas Babadopulos, Juceline Bastos
+    - footer
+title: Carvalho Ivo, Melo Abcael, Melo Carlos, Brito Mateus, Chaves André, Babadopulos Lucas, Bastos Juceline
 description:
 tags:
  - cement
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluation of the Effect of Rubber-Waste-Particles on the Rheological and Mechanical Properties of Cementitious Materials for 3D Printing ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.134377" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.134377</a>
+#Evaluation of the Effect of Rubber-Waste-Particles on the Rheological and Mechanical Properties of Cementitious Materials for 3D Printing ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.134377" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134377" target="_blank">10.1016/j.conbuildmat.2023.134377</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4588-1011" title="ORCID: 0000-0002-4588-1011" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carvalho_c_ivo"><b>Carvalho</b>&nbsp;Ivo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6849-4540" title="ORCID: 0000-0002-6849-4540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/melo_r-s_abcael"><b>Melo</b>&nbsp;Abcael</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3334-2309" title="ORCID: 0000-0003-3334-2309" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/melo_d-r_carlos"><b>Melo</b>&nbsp;Carlos</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0190-1885" title="ORCID: 0000-0002-0190-1885" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brito_s_mateus"><b>Brito</b>&nbsp;Mateus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3324-9465" title="ORCID: 0000-0002-3324-9465" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chaves_r_andre"><b>Chaves</b>&nbsp;André</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9250-2635" title="ORCID: 0000-0002-9250-2635" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babadopulos_f-a-l_lucas"><b>Babadopulos</b>&nbsp;Lucas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1125-2196" title="ORCID: 0000-0002-1125-2196" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bastos_b-s_juceline"><b>Bastos</b>&nbsp;Juceline</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 411, No. 134377
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/carvalho_c_ivo"><b>Carvalho</b> Ivo</a> <a href="https://orcid.org/0000-0002-4588-1011" title="ORCID: 0000-0002-4588-1011" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/melo_r-s_abcael"><b>Melo</b> Abcael</a> <a href="https://orcid.org/0000-0002-6849-4540" title="ORCID: 0000-0002-6849-4540" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/melo_d-r_carlos"><b>Melo</b> Carlos</a> <a href="https://orcid.org/0000-0003-3334-2309" title="ORCID: 0000-0003-3334-2309" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brito_s_mateus"><b>Brito</b> Mateus</a> <a href="https://orcid.org/0000-0002-0190-1885" title="ORCID: 0000-0002-0190-1885" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chaves_r_andre"><b>Chaves</b> André</a> <a href="https://orcid.org/0000-0002-3324-9465" title="ORCID: 0000-0002-3324-9465" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babadopulos_f-a-l_lucas"><b>Babadopulos</b> Lucas</a> <a href="https://orcid.org/0000-0002-9250-2635" title="ORCID: 0000-0002-9250-2635" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bastos_b-s_juceline"><b>Bastos</b> Juceline</a> <a href="https://orcid.org/0000-0002-1125-2196" title="ORCID: 0000-0002-1125-2196" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 411, No. 134377
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#evaluation`](keyword/evaluation)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#rubber`](keyword/rubber)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20the%20Effect%20of%20Rubber-Waste-Particles%20on%20the%20Rheological%20and%20Mechanical%20Properties%20of%20Cementitious%20Materials%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85178667414&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389281976" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.134377" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.134377?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of 3D printing for cementitious materials is an increasingly viable option technically, economically, and environmentally for civil construction, generating a lower amount of waste. This work aims to evaluate the technical feasibility of using rubber as a fine aggregate in 3D printing mortars and its impact on its rheological and mechanical properties. Tests of compressive and flexural strength, flow-table, rheology and squeeze-flow were conducted to evaluate their fresh and hardened state properties. The total substitution of natural sand for rubber increased the rheological properties of dynamic yield stress (318–479.3 Pa), static yield stress (1604.1–1760.1 Pa) and plastic viscosity (4.15 Pa.s to 5.03 Pa.s). Lower compressive (19.9 MPa) and flexural (5.6 MPa) strengths were obtained for the mortar using rubber waste as aggregate. Also, the replacement of sand with rubber enhanced the anti-thixotropic behavior of 3D printing mortars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/biricik_oznur"><b>Biricik</b> Öznur</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../biri_mard.2022.PATBoSCCa3PC/">Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete:<br/>A State of the Art Review</a></li>
@@ -108,8 +80,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a>, <a href="../../../author/chen_fan"><b>Chen</b> Fan</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cai_chen_zhao_xiao.2025.IoEPCoRaBi3PMSPPCIFA/">Impact of Early Particle Characteristics on Rheology and Buildability in 3D-Printed Magnesium Silicon Potassium Phosphate Cement Incorporating Fly Ash</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a></li>
@@ -117,4 +89,34 @@ tags:
       <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/leong_sing"><b>Leong</b> Sing</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mura_leon.2024.WDC/">Waste-Driven Construction:<br/>A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</a></li>
       <li><a href="../../../author/bodur_burak"><b>Bodur</b> Burak</a>, <a href="../../../author/mecit-isik_ahmet_muhammet"><b>Mecit Işık</b> Muhammet</a>, <a href="../../../author/benli_ahmet"><b>Benli</b> Ahmet</a>, <a href="../../../author/bayrak_baris"><b>Bayrak</b> Barış</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodu_meci_benl_bayr.2024.DoGR3PLCCRwMAaMSF/">Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers:<br/>Printability and Environmental Perspective</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{carv_melo_melo_brit.2024.EotEoRWPotRaMPoCMf3P,
+      author            = "Ivo C. Carvalho and Abcael R. S. Melo and Carlos D. R. Melo and Mateus S. Brito and André R. Chaves and Lucas F. A. L. Babadopulos and Juceline B. S. Bastos",
+      title             = "Evaluation of the Effect of Rubber-Waste-Particles on the Rheological and Mechanical Properties of Cementitious Materials for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2023.134377",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "411",
+      pages             = "134377",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. C. Carvalho, “Evaluation of the Effect of Rubber-Waste-Particles on the Rheological and Mechanical Properties of Cementitious Materials for 3D Printing”, <i>Construction and Building Materials</i>, vol. 411, p. 134377, 2024, doi: 10.1016/j.conbuildmat.2023.134377.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Carvalho, Ivo C., Abcael R. S. Melo, Carlos D. R. Melo, Mateus S. Brito, André R. Chaves, Lucas F. A. L. Babadopulos, and Juceline B. S. Bastos. “Evaluation of the Effect of Rubber-Waste-Particles on the Rheological and Mechanical Properties of Cementitious Materials for 3D Printing”. <i>Construction and Building Materials</i> 411 (2024): 134377. https://doi.org/10.1016/j.conbuildmat.2023.134377.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

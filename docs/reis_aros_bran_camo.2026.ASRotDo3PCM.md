@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rui Reis, Francisca Aroso, Filipe Brandão, Aires Camões, Carlos Jesus, Bruno Figueiredo, Paulo Cruz
+    - footer
+title: Reis Rui, Aroso Francisca, Brandão Filipe, Camões Aires, Jesus Carlos, Figueiredo Bruno, Cruz Paulo
 description:
 tags:
  - cement
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>:aca-blank: Insights and Research Challenges ([2026-01](date/2026/01))
-<a href="https://doi.org/10.1007/978-981-95-1822-7_58" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-95-1822-7_58</a>
+#A Systematic Review on the Durability of 3D-Printed Cementitious Materials&nbsp;([2026-01](date/2026/01))
+<div class="h1-like">Insights and Research Challenges</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_58" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_58" target="_blank">10.1007/978-981-95-1822-7_58</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5152-7521" title="ORCID: 0000-0001-5152-7521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reis_rui"><b>Reis</b>&nbsp;Rui</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9992-9307" title="ORCID: 0009-0005-9992-9307" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aroso_francisca"><b>Aroso</b>&nbsp;Francisca</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3378-0176" title="ORCID: 0000-0002-3378-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b>&nbsp;Filipe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9677-3627" title="ORCID: 0000-0002-9677-3627" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/camoes_aires"><b>Camões</b>&nbsp;Aires</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5119-3867" title="ORCID: 0000-0001-5119-3867" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_carlos"><b>Jesus</b>&nbsp;Carlos</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_bruno"><b>Figueiredo</b>&nbsp;Bruno</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b>&nbsp;Paulo</a></span><br>
+Contribution - Construction, Energy, Environment and Sustainability, pp. 557-564
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/reis_rui"><b>Reis</b> Rui</a> <a href="https://orcid.org/0000-0001-5152-7521" title="ORCID: 0000-0001-5152-7521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a> <a href="https://orcid.org/0009-0005-9992-9307" title="ORCID: 0009-0005-9992-9307" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> <a href="https://orcid.org/0000-0002-3378-0176" title="ORCID: 0000-0002-3378-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> <a href="https://orcid.org/0000-0002-9677-3627" title="ORCID: 0000-0002-9677-3627" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jesus_carlos"><b>Jesus</b> Carlos</a> <a href="https://orcid.org/0000-0001-5119-3867" title="ORCID: 0000-0001-5119-3867" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> <a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Construction, Energy, Environment and Sustainability, pp. 557-564
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#challenge`](keyword/challenge)
-    [`#durability`](keyword/durability)
-    [`#insights`](keyword/insights)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Systematic%20Review%20on%20the%20Durability%20of%203D-Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417181149" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-95-1822-7_58" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-95-1822-7_58?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study provides a historical overview of 3D Concrete Printing (3DCP) technology and a systematic review of its durability research. Employing the PRISMA methodology, the review analysed 282 articles from SCOPUS, Web of Science, and Springer. The review identifies the number of studies published in the last decade, the most frequently investigated pathologies, and the main techniques and outcome parameters assessed. Despite a significant increase in publications, durability remains an underexplored domain within 3DCP. Most studies focus on chloride ingress and carbonation, with limited attention to other degradation mechanisms such as sulphate attack, acid exposure, and freeze–thaw cycles. Few publications consider the interaction between different degradation processes, such as combined carbonation and chloride ingress, highlighting a critical research gap. Experimental procedures exhibit considerable variability, including test directionality, specimen age, CO2 concentration, and measurement techniques. The orthotropic nature of 3DCP is often neglected, with most studies assessing durability in only one or two directions. Long-term assessments are rare, with most tests limited to early ages between 28 and 60 days. Inconsistencies in standards and incomplete reporting hinder reproducibility and comparability. Future research should prioritize the study of coupled deterioration mechanisms and strive for greater transparency in test procedures to establish reliable durability benchmarks for 3DCP and ensure its successful implementation in structural applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../beka_titt_schu.2023.TEoCCotSLo3PCF/">The Effect of Curing Conditions on the Service Life of 3D Printed Concrete Formwork</a></li>
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bohl_mai_lowk.2024.Do3PC/">Durability of 3D Printed Concrete:<br/>A Comparison of Extrusion 3D Printing, Shotcrete 3D Printing and Conventional Casting</a></li>
@@ -90,7 +66,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{reis_aros_bran_camo.2026.ASRotDo3PCM,
+      author            = "Rui Reis and Francisca Aroso and Filipe Jorge da Silva Brandão and Aires Camões and Carlos Jesus and Bruno Figueiredo and Paulo Jorge Sousa Cruz",
+      title             = "A Systematic Review on the Durability of 3D-Printed Cementitious Materials: Insights and Research Challenges",
+      doi               = "10.1007/978-981-95-1822-7_58",
+      year              = "2026",
+      volume            = "743",
+      pages             = "557--564",
+      booktitle         = "Construction, Energy, Environment and Sustainability",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Reis, “A Systematic Review on the Durability of 3D-Printed Cementitious Materials: Insights and Research Challenges”, in <i>Construction, Energy, Environment and Sustainability</i>,  2026, vol. 743, pp. 557–564. doi: 10.1007/978-981-95-1822-7_58.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Reis, Rui, Francisca Aroso, Filipe Jorge da Silva Brandão, Aires Camões, Carlos Jesus, Bruno Figueiredo, and Paulo Jorge Sousa Cruz. “A Systematic Review on the Durability of 3D-Printed Cementitious Materials: Insights and Research Challenges”. In <i>Construction, Energy, Environment and Sustainability</i>, 743:557–64, 2026. https://doi.org/10.1007/978-981-95-1822-7_58.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

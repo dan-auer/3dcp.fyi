@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maria Taleb, David Bulteel, Damien Betrancourt, Francine Roudet, Sébastien Rémond, Alex Montagne, Didier Chicot
+    - footer
+title: Taleb Maria, Bulteel David, Betrancourt Damien, Roudet Francine, Rémond Sébastien, Montagne Alex, Chicot Didier
 description:
 tags:
  - characteristic
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Multi-Scale Mechanical Characterization of the Interface in 3D Printed Concrete ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1617/s11527-023-02114-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-023-02114-y</a>
+#Multi-Scale Mechanical Characterization of the Interface in 3D Printed Concrete ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-023-02114-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-023-02114-y" target="_blank">10.1617/s11527-023-02114-y</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taleb_maria"><b>Taleb</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bulteel_david"><b>Bulteel</b>&nbsp;David</a></span>, <a href="../../../author/betrancourt_damien"><b>Betrancourt</b>&nbsp;Damien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8689-1013" title="ORCID: 0000-0002-8689-1013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roudet_francine"><b>Roudet</b>&nbsp;Francine</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5564-985X" title="ORCID: 0000-0001-5564-985X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/montagne_alex"><b>Montagne</b>&nbsp;Alex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5203-3168" title="ORCID: 0000-0002-5203-3168" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chicot_didier"><b>Chicot</b>&nbsp;Didier</a></span><br>
+Journal Article - Materials and Structures, Vol. 56, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a> <a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> <a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/betrancourt_damien"><b>Betrancourt</b> Damien</a>
-,     <a href="../../../author/roudet_francine"><b>Roudet</b> Francine</a> <a href="https://orcid.org/0000-0002-8689-1013" title="ORCID: 0000-0002-8689-1013" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/montagne_alex"><b>Montagne</b> Alex</a> <a href="https://orcid.org/0000-0001-5564-985X" title="ORCID: 0000-0001-5564-985X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chicot_didier"><b>Chicot</b> Didier</a> <a href="https://orcid.org/0000-0002-5203-3168" title="ORCID: 0000-0002-5203-3168" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 56, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#interface`](keyword/interface)
-    [`#mechanics`](keyword/mechanics)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multi-Scale%20Mechanical%20Characterization%20of%20the%20Interface%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147023676&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4318462774" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-023-02114-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-023-02114-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To be printable, the cementitious ink may have contradictory properties. It must be fluid enough initially to be pumpable and extrudable, also should stiffen quickly after deposition to be buildable. This could be influential, along with other printing parameters, on its interlayer zone. Thus, the main purpose of this study is to compare experimental protocols allowing for its mechanical characterization and the assessment of a drop in bond strength. Classical microindentation tests are done perpendicularly to the interface. Furthermore, a new method to elaborate specimens on a lab-scale is proposed in this study allowing for multidirectional compression testing. Later, interfacial instrumented indentation measurements at the macroscopic scale were also performed. Results validate the new experimental procedure. Indentation profiles reveal a weakness and widening of the interface with time gap. Multidirectional compression tests show anisotropy while no influence of time gap was detected. Instrumented macroindentation indicates a lower adherence with time gap between layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
@@ -85,15 +61,14 @@ tags:
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../putt_schu_titt.2019.TEoPPotMso3PCM/">The Effect of Print Parameters on the (Micro)structure of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a>, <a href="../../../author/betrancourt_damien"><b>Betrancourt</b> Damien</a>, <a href="../../../author/roudet_francine"><b>Roudet</b> Francine</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../tale_bult_betr_roud.2022.IWCbIi3PC/">Interfacial Weakness Criterion by Indentation in 3D Printed Concrete</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/salifu_n"><b>Salifu</b> N.</a>, <a href="../../../author/bassuoni_t_mohamed"><b>Bassuoni</b> Mohamed</a>, <a href="../../../author/guven_gursans"><b>Guven</b> Gursans</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sali_bass_guve.2025.PEoLBCaCNi3CP/">Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing</a></li>
       <li><a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a>, <a href="../../../author/montagne_alex"><b>Montagne</b> Alex</a>, <a href="../../../author/roudet_francine"><b>Roudet</b> Francine</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../tale_bult_mont_roud.2024.IoTHCotIBi3PC/">Influence of Thermo-Hygrometric Conditions on the Interface Bond in 3D Printed Concrete</a></li>
       <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../prih_gupt_esma_moin.2024.TDBACEbRAM/">Tough Double-Bouligand Architected Concrete Enabled by Robotic Additive Manufacturing</a></li>
@@ -101,4 +76,34 @@ tags:
       <li><a href="../../../author/yoshihara_rei"><b>Yoshihara</b> Rei</a>, <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yosh_naka_hash_sugi.2024.EoADHi3PCbMoXRC/">Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT</a></li>
       <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/garlock_e-moreyra_maria"><b>Garlock</b> Maria</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../prih_garl_najm_moin.2024.MPoSACEbRAM/">Mechanical Performance of Sinusoidally Architected Concrete Enabled by Robotic Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tale_bult_betr_roud.2023.MSMCotIi3PC,
+      author            = "Maria Taleb and David Bulteel and Damien Betrancourt and Francine Roudet and Sébastien Rémond and Alex Montagne and Didier Chicot",
+      title             = "Multi-Scale Mechanical Characterization of the Interface in 3D Printed Concrete",
+      doi               = "10.1617/s11527-023-02114-y",
+      year              = "2023",
+      journal           = "Materials and Structures",
+      volume            = "56",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Taleb, “Multi-Scale Mechanical Characterization of the Interface in 3D Printed Concrete”, <i>Materials and Structures</i>, vol. 56, no. 1, 2023, doi: 10.1617/s11527-023-02114-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Taleb, Maria, David Bulteel, Damien Betrancourt, Francine Roudet, Sébastien Rémond, Alex Montagne, and Didier Chicot. “Multi-Scale Mechanical Characterization of the Interface in 3D Printed Concrete”. <i>Materials and Structures</i> 56, no. 1 (2023). https://doi.org/10.1617/s11527-023-02114-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongzhi Cui, Shiheng Yu, Xiangpeng Cao, Haibin Yang
+    - footer
+title: Cui Hongzhi, Yu Shiheng, Cao Xiangpeng, Yang Haibin
 description:
 tags:
  - change
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1073/15/6/1978/pdf?version=1646806813) Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials ([2022-03](date/2022/03))
-<a href="https://doi.org/10.3390/en15061978" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/en15061978</a>
+#Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/15/6/1978/pdf?version=1646806813) <a href="https://doi.org/10.3390/en15061978" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en15061978" target="_blank">10.3390/en15061978</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_hongzhi"><b>Cui</b>&nbsp;Hongzhi</a></span>, <a href="../../../author/yu_shiheng"><b>Yu</b>&nbsp;Shiheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_xiangpeng"><b>Cao</b>&nbsp;Xiangpeng</a></span>, <a href="../../../author/yang_haibin"><b>Yang</b>&nbsp;Haibin</a></span><br>
+Journal Article - Energies, Vol. 15, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>
-,     <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a> <a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_haibin"><b>Yang</b> Haibin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energies, Vol. 15, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#change`](keyword/change)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#material`](keyword/material)
-    [`#mixing`](keyword/mixing)
-    [`#phase`](keyword/phase)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Printability%20and%20Thermal%20Properties%20of%203D%20Printed%20Concrete%20Mixed%20with%20Phase-Change-Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126294145&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220781635" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/en15061978" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/en15061978?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printed concrete has recently received considerable research attention. In buildings, phase change materials (PCMs) with excellent thermoregulatory properties and thermal storage capacity can improve the insulation capacity of external walls and reduce energy consumption. In this study, microencapsulated paraffin was added to a 3D printable material and a 3D printed phase-change concrete was developed, resulting in good printability and buildability. The compressive and flexural strengths were declined maximally by 44.6% and 37.5%, respectively, with 20 wt% PCM mixed. Results from 3D printed room models proved the thermo-regulated performance by regulating the room temperature when mixed with 20 wt% PCM. With the addition of PCM, 3D printed facilities can have sufficient thermal comfort.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -106,8 +82,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
@@ -128,4 +104,34 @@ tags:
       <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../srin_dey_pand_sith.2022.PTaCSPoCM/">Printability, Thermal and Compressive Strength Properties of Cementitious Materials:<br/>A Comparative Study with Silica-Fume and Limestone</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cui_yu_cao_yang.2022.EoPaTPo3PCMwPCM,
+      author            = "Hongzhi Cui and Shiheng Yu and Xiangpeng Cao and Haibin Yang",
+      title             = "Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials",
+      doi               = "10.3390/en15061978",
+      year              = "2022",
+      journal           = "Energies",
+      volume            = "15",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Cui, S. Yu, X. Cao and H. Yang, “Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials”, <i>Energies</i>, vol. 15, no. 6, 2022, doi: 10.3390/en15061978.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cui, Hongzhi, Shiheng Yu, Xiangpeng Cao, and Haibin Yang. “Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials”. <i>Energies</i> 15, no. 6 (2022). https://doi.org/10.3390/en15061978.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

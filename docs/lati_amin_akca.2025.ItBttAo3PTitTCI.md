@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Leva Latifiilkhechi, Saman Aminbakhsh, Emre Akcay
+    - footer
+title: Latifiilkhechi Leva, Aminbakhsh Saman, Akcay Emre
 description:
 tags:
  - adoption
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigating the Barriers to the Adoption of 3D Printing Technology in the Turkish Construction Industry ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1007/978-3-031-87364-5_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-87364-5_30</a>
+#Investigating the Barriers to the Adoption of 3D Printing Technology in the Turkish Construction Industry ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-87364-5_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-87364-5_30" target="_blank">10.1007/978-3-031-87364-5_30</a>
 
--------------------------
+<a href="../../../author/latifiilkhechi_leva"><b>Latifiilkhechi</b>&nbsp;Leva</a></span>, <a href="../../../author/aminbakhsh_saman"><b>Aminbakhsh</b>&nbsp;Saman</a></span>, <a href="../../../author/akcay_caner_emre"><b>Akcay</b>&nbsp;Emre</a></span><br>
+Contribution - Advances in Information Technology in Civil and Building Engineering, pp. 361-373
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/latifiilkhechi_leva"><b>Latifiilkhechi</b> Leva</a>
-,     <a href="../../../author/aminbakhsh_saman"><b>Aminbakhsh</b> Saman</a>
-,     <a href="../../../author/akcay_caner_emre"><b>Akcay</b> Emre</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Advances in Information Technology in Civil and Building Engineering, pp. 361-373
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#barrier`](keyword/barrier)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#investigation`](keyword/investigation)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/barrier"><button class="btn">#barrier</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigating%20the%20Barriers%20to%20the%20Adoption%20of%203D%20Printing%20Technology%20in%20the%20Turkish%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002385092&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409254688" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-87364-5_30" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-87364-5_30?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, 3D printing has emerged as a transformative force in construction technology. This innovative technology has found applications in many construction and bridge-building projects, starting a new era of automation and efficiency. Notably, the impact of 3D printing on the construction industry has been profound, yielding benefits such as reduced labor requirements, minimized material waste, accelerated project timelines, and a significant reduction in hazardous tasks for human workers. In contrast to conventional construction approaches, 3D printing stands out for its environmentally friendly characteristics, challenging traditional notions of geometric complexities and constraints in construction processes. While 3D printing technology undeniably offers a multitude of advantages over traditional methodologies, it is crucial to acknowledge that it also introduces its own set of unique challenges and risks. The main aim of this study is to investigate the barriers that hinder the adoption of 3D printing technology in the Turkish construction industry. Towards this, first, the list of potential barriers was extracted from multiple reputable sources, including Scopus, ScienceDirect and Web of Science databases. Based on this list, an online questionnaire was prepared to assess the impact of 19 potential barriers on the implementation of 3D printing technology in the Turkish construction industry. The findings and research directions articulated in this study create fresh pathways for further inquiry and substantial contributions to the evolving field of 3D printing in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/ayegba_onyeche_blessing"><b>Ayegba</b> Blessing</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/nazar_matin_ali"><b>Nazar</b> Ali</a>, <a href="../../../author/huang_mingzhi"><b>Huang</b> Mingzhi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ayeg_egbe_naza_huan.2022.REaTCo3PCBEObPEI/">Resource Efficiency and Thermal Comfort of 3D Printable Concrete Building Envelopes Optimized by Performance Enhancing Insulation:<br/>A Numerical Study</a></li>
@@ -90,7 +70,38 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lati_amin_akca.2025.ItBttAo3PTitTCI,
+      author            = "Leva Latifiilkhechi and Saman Aminbakhsh and Emre Caner Akcay",
+      title             = "Investigating the Barriers to the Adoption of 3D Printing Technology in the Turkish Construction Industry",
+      doi               = "10.1007/978-3-031-87364-5_30",
+      year              = "2025",
+      volume            = "629",
+      pages             = "361--373",
+      booktitle         = "Advances in Information Technology in Civil and Building Engineering",
+      editor            = "Adel Francis and Edmond Miresco and Silvio Melhado",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Latifiilkhechi, S. Aminbakhsh and E. C. Akcay, “Investigating the Barriers to the Adoption of 3D Printing Technology in the Turkish Construction Industry”, in <i>Advances in Information Technology in Civil and Building Engineering</i>,  2025, vol. 629, pp. 361–373. doi: 10.1007/978-3-031-87364-5_30.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Latifiilkhechi, Leva, Saman Aminbakhsh, and Emre Caner Akcay. “Investigating the Barriers to the Adoption of 3D Printing Technology in the Turkish Construction Industry”. In <i>Advances in Information Technology in Civil and Building Engineering</i>, edited by Adel Francis, Edmond Miresco, and Silvio Melhado, 629:361–73, 2025. https://doi.org/10.1007/978-3-031-87364-5_30.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

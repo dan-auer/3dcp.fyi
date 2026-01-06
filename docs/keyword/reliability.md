@@ -8,7 +8,7 @@ search:
 
 # #reliability
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/alizamir_meysam"><b>Alizamir</b> Meysam</a>, <a href="../../../author/kim_sungwon"><b>Kim</b> Sungwon</a>, <a href="../../../author/ikram_muhammad-adnan_rana"><b>Ikram</b> Rana</a>, <a href="../../../author/ahmed_othman_kaywan"><b>Ahmed</b> Kaywan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../aliz_kim_ikra_ahme.2025.ARHELMMFfESPo3PFRC/">A Reliable Hybrid Extreme Learning Machine-Metaheuristic Framework for Enhanced Strength Prediction of 3D-Printed Fiber-Reinforced Concrete</a></li>
   <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_qian.2024.DDROBAo3CPCW/">Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall</a></li>
   <li><a href="../../../author/mengesha_meron"><b>Mengesha</b> Meron</a>, <a href="../../../author/schmidt_albrecht"><b>Schmidt</b> Albrecht</a>, <a href="../../../author/gobel_luise"><b>Göbel</b> Luise</a>, <a href="../../../author/lahmer_tom"><b>Lahmer</b> Tom</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../meng_schm_gobe_lahm.2023.NMo3CPWStREtFM/">Numerical Modeling of 3D Concrete Printing Wall Structure to Reliably Estimate the Failure Mechanisms</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junli Liu, Sujeeva Setunge, Jonathan Tran
+    - footer
+title: Liu Junli, Setunge Sujeeva, Tran Jonathan
 description:
 tags:
  - cement
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing with Cement-Coated Recycled Crumb Rubber:<br/>:aca-blank: Compressive and Microstructural Properties ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.128507" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.128507</a>
+#3D Concrete Printing with Cement-Coated Recycled Crumb Rubber&nbsp;([2022-07](date/2022/07))
+<div class="h1-like">Compressive and Microstructural Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.128507" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128507" target="_blank">10.1016/j.conbuildmat.2022.128507</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_junli"><b>Liu</b>&nbsp;Junli</a></span>, <a href="../../../author/setunge_sujeeva"><b>Setunge</b>&nbsp;Sujeeva</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 347
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_junli"><b>Liu</b> Junli</a> <a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/setunge_sujeeva"><b>Setunge</b> Sujeeva</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 347, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#coat`](keyword/coat)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#rubber`](keyword/rubber)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20with%20Cement-Coated%20Recycled%20Crumb%20Rubber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85135137491&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4288681097" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.128507" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.128507?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The modification of a rubber surface, such as cement coating, is an effective method for enhancing the mechanical performance of concrete containing recycled rubber particles. Although this method has been widely investigated for cast concrete, there is limited research on 3D-printed cementitious materials. This study explored the correlation between the compressive strength and microstructural property of 3D-printed rubberised mortar with cement-coated crumb rubber (15 wt% replacement of river sand). Multiple ratios of cement-to-rubber (C/R) were designed to achieve different coating qualities, including C/Rs of 0.25 (CR-0.25), 0.4 (CR-0.4) and 0.55 (CR-0.55). Scanning electron microscopy (SEM) images showed the existence of hardened cementitious shells outside the rubber particles, which effectively improved the interfacial bonding between the rubber surface and the cement matrix. The compressive strengths of the printed specimens did not always improve as the ratio of cement to rubber for coating increased. Moreover, the anisotropy in compressive strength was more obvious in the CR-0.4 and CR-0.55, where the strength in the Y (printing) direction was about 7 % higher than that observed in the Z (layer deposition) direction. X-ray micro-computed tomography (μCT) analysis revealed that the mechanical anisotropy in CR-0.4 and CR-0.55 could be primarily attributed to two factors – pore morphology and pore orientation relative to the external loading direction. For CR-0.25, the rubber-to-matrix interface bonding appeared more critical for the compressive strength. Finally, the printed specimens showed the higher compressive strengths than the cast ones due to the lower fraction of large pores (diameters ≥ 1 mm).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
@@ -106,8 +86,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "40 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_core_tran_fan.2025.3PCC/">3D Printable Cellulose Concrete:<br/>A Review and Pathway to Future Research</a></li>
@@ -149,4 +129,33 @@ tags:
       <li><a href="../../../author/zahrani_a_abdullah"><b>Zahrani</b> Abdullah</a>, <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zahr_algh_basa.2022.COo3PCWfIBTP/">Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance</a></li>
       <li><a href="../../../author/melichar_jindrich"><b>Melichar</b> Jindřich</a>, <a href="../../../author/zizkova_nikol"><b>Žižková</b> Nikol</a>, <a href="../../../author/brozovsky_jiri"><b>Brožovský</b> Jiří</a>, <a href="../../../author/meszarosova_lenka"><b>Mészárosová</b> Lenka</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../meli_zizk_broz_mesz.2022.SotIoCBMf3PwFAaSP/">Study of the Interaction of Cement-Based Materials for 3D Printing with Fly-Ash and Superabsorbent Polymers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_setu_tran.2022.3CPwCCRCR,
+      author            = "Junli Liu and Sujeeva Setunge and Jonathan Phuong Tran",
+      title             = "3D Concrete Printing with Cement-Coated Recycled Crumb Rubber: Compressive and Microstructural Properties",
+      doi               = "10.1016/j.conbuildmat.2022.128507",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "347",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Liu, S. Setunge and J. P. Tran, “3D Concrete Printing with Cement-Coated Recycled Crumb Rubber: Compressive and Microstructural Properties”, <i>Construction and Building Materials</i>, vol. 347, 2022, doi: 10.1016/j.conbuildmat.2022.128507.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Junli, Sujeeva Setunge, and Jonathan Phuong Tran. “3D Concrete Printing with Cement-Coated Recycled Crumb Rubber: Compressive and Microstructural Properties”. <i>Construction and Building Materials</i> 347 (2022). https://doi.org/10.1016/j.conbuildmat.2022.128507.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

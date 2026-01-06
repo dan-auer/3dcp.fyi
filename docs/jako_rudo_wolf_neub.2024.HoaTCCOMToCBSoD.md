@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Cordula Jakob, Jennifer Rudolph, Julian Wolf, Jürgen Neubauer
+    - footer
+title: Jakob Cordula, Rudolph Jennifer, Wolf Julian, Neubauer Jürgen
 description:
 tags:
  - blend
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Hydration of a Two-Component CSA-OPC-Mix-Timing of Component Blending & Setting-on-Demand ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1680/jadcr.23.00231" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jadcr.23.00231</a>
+#Hydration of a Two-Component CSA-OPC-Mix-Timing of Component Blending & Setting-on-Demand ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jadcr.23.00231" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jadcr.23.00231" target="_blank">10.1680/jadcr.23.00231</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8573-1501" title="ORCID: 0000-0002-8573-1501" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jakob_cordula"><b>Jakob</b>&nbsp;Cordula</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5377-7735" title="ORCID: 0000-0001-5377-7735" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudolph_viola_jennifer"><b>Rudolph</b>&nbsp;Jennifer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9492-5236" title="ORCID: 0000-0002-9492-5236" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolf_julian"><b>Wolf</b>&nbsp;Julian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7997-1007" title="ORCID: 0000-0002-7997-1007" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neubauer_jurgen"><b>Neubauer</b>&nbsp;Jürgen</a></span><br>
+Journal Article - Advances in Cement Research, pp. 1-25
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a> <a href="https://orcid.org/0000-0002-8573-1501" title="ORCID: 0000-0002-8573-1501" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rudolph_viola_jennifer"><b>Rudolph</b> Jennifer</a> <a href="https://orcid.org/0000-0001-5377-7735" title="ORCID: 0000-0001-5377-7735" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolf_julian"><b>Wolf</b> Julian</a> <a href="https://orcid.org/0000-0002-9492-5236" title="ORCID: 0000-0002-9492-5236" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neubauer_jurgen"><b>Neubauer</b> Jürgen</a> <a href="https://orcid.org/0000-0002-7997-1007" title="ORCID: 0000-0002-7997-1007" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Cement Research, pp. 1-25
-
-:aca-blank:{ .lg .middle}
-    [`#blend`](keyword/blend)
-    [`#component`](keyword/component)
-    [`#demand`](keyword/demand)
-    [`#hydration`](keyword/hydration)
-    [`#mixing`](keyword/mixing)
-    [`#setting`](keyword/setting)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hydration%20of%20a%20Two-Component%20CSA-OPC-Mix-Timing%20of%20Component%20Blending%20%26%20Setting-on-Demand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195851136&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399515078" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jadcr.23.00231" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jadcr.23.00231?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the ongoing development of new technologies like 3D printing, the requirements for the performance of cementitious materials become more complex. Setting on demand, while the workability of the material is retained until placement, is an important aspect of this usage. A ternary CSA-OPC-C$ system was developed to achieve setting on demand in a 2-component setup, where two retarded cementitious components were mixed after specific times of storage. The kinetics of the individual systems and the blend were examined by heat flow calorimetry, quantitative X-ray diffraction and pore water analysis. The rheological development was monitored by a penetration test method. The results show that the performance of the blend is independent of the storage time of the individual components and can be tailored by changes in the retarder dosage in the individual components. The initial reaction in the blend is characterized by the simultaneous dissolution of ye'elimite and C3S, resulting in the formation of ettringite as the sole detectable hydrate phase. The fate of silicon remains unclear as with the methodology at hand no silicon incorporating hydrate phase can be identified.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -81,7 +60,36 @@ tags:
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_moha_rahu_schu.2023.DoaCSPCBSfTP3CP/">Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jako_rudo_wolf_neub.2024.HoaTCCOMToCBSoD,
+      author            = "Cordula Jakob and Jennifer Viola Rudolph and Julian Wolf and Jürgen Neubauer",
+      title             = "Hydration of a Two-Component CSA-OPC-Mix-Timing of Component Blending & Setting-on-Demand",
+      doi               = "10.1680/jadcr.23.00231",
+      year              = "2024",
+      journal           = "Advances in Cement Research",
+      pages             = "1--25",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Jakob, J. V. Rudolph, J. Wolf and J. Neubauer, “Hydration of a Two-Component CSA-OPC-Mix-Timing of Component Blending & Setting-on-Demand”, <i>Advances in Cement Research</i>, pp. 1–25, 2024, doi: 10.1680/jadcr.23.00231.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jakob, Cordula, Jennifer Viola Rudolph, Julian Wolf, and Jürgen Neubauer. “Hydration of a Two-Component CSA-OPC-Mix-Timing of Component Blending & Setting-on-Demand”. <i>Advances in Cement Research</i>, 2024, 1–25. https://doi.org/10.1680/jadcr.23.00231.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

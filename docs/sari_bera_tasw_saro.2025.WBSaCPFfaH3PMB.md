@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mustika Sari, Mohammed Berawi, William Taswin, Gunawan Saroji, Perdana Miraj
+    - footer
+title: Sari Mustika, Berawi Mohammed, Taswin William, Saroji Gunawan, Miraj Perdana
 description:
 tags:
  - break
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://www.itcon.org/papers/2025_54-ITcon-SI-Sari.pdf) Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building ([2025-09](date/2025/09))
-<a href="https://doi.org/10.36680/j.itcon.2025.054" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.36680/j.itcon.2025.054</a>
+#Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building ([2025-09](date/2025/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://www.itcon.org/papers/2025_54-ITcon-SI-Sari.pdf) <a href="https://doi.org/10.36680/j.itcon.2025.054" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.36680/j.itcon.2025.054" target="_blank">10.36680/j.itcon.2025.054</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3941-051X" title="ORCID: 0000-0003-3941-051X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sari_mustika"><b>Sari</b>&nbsp;Mustika</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4781-7494" title="ORCID: 0000-0002-4781-7494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/berawi_ali_mohammed"><b>Berawi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-5168-3216" title="ORCID: 0009-0004-5168-3216" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taswin_faustin_william"><b>Taswin</b>&nbsp;William</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3328-608X" title="ORCID: 0000-0002-3328-608X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saroji_gunawan"><b>Saroji</b>&nbsp;Gunawan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2197-1378" title="ORCID: 0000-0003-2197-1378" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/miraj_perdana"><b>Miraj</b>&nbsp;Perdana</a></span><br>
+Journal Article - Journal of Information Technology in Construction, No. 1332
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a> <a href="https://orcid.org/0000-0003-3941-051X" title="ORCID: 0000-0003-3941-051X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a> <a href="https://orcid.org/0000-0002-4781-7494" title="ORCID: 0000-0002-4781-7494" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/taswin_faustin_william"><b>Taswin</b> William</a> <a href="https://orcid.org/0009-0004-5168-3216" title="ORCID: 0009-0004-5168-3216" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> <a href="https://orcid.org/0000-0002-3328-608X" title="ORCID: 0000-0002-3328-608X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> <a href="https://orcid.org/0000-0003-2197-1378" title="ORCID: 0000-0003-2197-1378" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Information Technology in Construction, No. 1332
-
-:aca-blank:{ .lg .middle}
-    [`#break`](keyword/break)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#framework`](keyword/framework)
-    [`#hybrid`](keyword/hybrid)
-    [`#modular`](keyword/modular)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#structure`](keyword/structure)
-    [`#workforce`](keyword/workforce)
-
-
--------------------------
+<a href="../../keyword/break"><button class="btn">#break</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/workforce"><button class="btn">#workforce</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Work%20Breakdown%20Structure%20and%20Construction%20Process%20Framework%20for%20a%20Hybrid%203D-Printed%20Modular%20Building" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015517564&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413928906" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.36680/j.itcon.2025.054" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.36680/j.itcon.2025.054?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Hybrid construction methods that combine 3D concrete printing (3DCP) and modular precast techniques have the potential to improve precision, reduce material waste, and increase automation in building construction. Despite this potential, the lack of defined workflows and activity definitions presents a challenge for practical application. Therefore, this study develops a Work Breakdown Structure (WBS) and a construction process framework to support planning and execution in hybrid 3D-printed modular construction through a systematic review and direct observation in a digital fabrication laboratory. The review identified construction work items for 3DCP and precast modular methods and revealed four distinct sequencing patterns. Among them, one pattern that coordinates robotic-assisted 3DCP and precast concrete fabrication in parallel was identified as the most aligned with current industry practice. A five-level WBS was developed based on this pattern to organize activities across offsite and onsite phases. The WBS then informed the development of a construction process framework that outlines activity sequencing, dependencies, and automation integration points throughout the construction stages. The framework illustrates how automation can support conventional modular workflows, including robotic gantry lifting and real-time extrusion monitoring. The findings provide a foundation for future research and serve as a practical reference for coordinating fabrication and assembly activities.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../anto_jipa_reit_dill.2020.FCb/">Fast Complexity</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -97,7 +72,36 @@ tags:
       <li><a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../tosi_eich_ivan_lord.2022.DaOoFFSfMC3P/">Design and Optimization of Free-Form Surfaces for Modular Concrete 3D Printing</a></li>
       <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sari_bera_tasw_saro.2025.WBSaCPFfaH3PMB,
+      author            = "Mustika Sari and Mohammed Ali Berawi and William Faustin Taswin and Gunawan Saroji and Perdana Miraj",
+      title             = "Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building",
+      doi               = "10.36680/j.itcon.2025.054",
+      year              = "2025",
+      journal           = "Journal of Information Technology in Construction",
+      pages             = "1332",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sari, M. A. Berawi, W. F. Taswin, G. Saroji and P. Miraj, “Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building”, <i>Journal of Information Technology in Construction</i>, p. 1332, 2025, doi: 10.36680/j.itcon.2025.054.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sari, Mustika, Mohammed Ali Berawi, William Faustin Taswin, Gunawan Saroji, and Perdana Miraj. “Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building”. <i>Journal of Information Technology in Construction</i>, 2025, 1332. https://doi.org/10.36680/j.itcon.2025.054.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

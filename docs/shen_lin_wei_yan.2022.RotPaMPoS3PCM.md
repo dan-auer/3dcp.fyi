@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuhang Shen, Li Lin, Shengjie Wei, Jie Yan, Tianli Xu
+    - footer
+title: Shen Yuhang, Lin Li, Wei Shengjie, Yan Jie, Xu Tianli
 description:
 tags:
  - concrete
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/12/2264/pdf?version=1671532213) Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials ([2022-12](date/2022/12))
-<a href="https://doi.org/10.3390/buildings12122264" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12122264</a>
+#Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials ([2022-12](date/2022/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/12/2264/pdf?version=1671532213) <a href="https://doi.org/10.3390/buildings12122264" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12122264" target="_blank">10.3390/buildings12122264</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0198-8500" title="ORCID: 0000-0003-0198-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shen_yuhang"><b>Shen</b>&nbsp;Yuhang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4960-0165" title="ORCID: 0000-0003-4960-0165" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lin_li"><b>Lin</b>&nbsp;Li</a></span>, <a href="../../../author/wei_shengjie"><b>Wei</b>&nbsp;Shengjie</a></span>, <a href="../../../author/yan_jie"><b>Yan</b>&nbsp;Jie</a></span>, <a href="../../../author/xu_tianli"><b>Xu</b>&nbsp;Tianli</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shen_yuhang"><b>Shen</b> Yuhang</a> <a href="https://orcid.org/0000-0003-0198-8500" title="ORCID: 0000-0003-0198-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_li"><b>Lin</b> Li</a> <a href="https://orcid.org/0000-0003-4960-0165" title="ORCID: 0000-0003-4960-0165" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wei_shengjie"><b>Wei</b> Shengjie</a>
-,     <a href="../../../author/yan_jie"><b>Yan</b> Jie</a>
-,     <a href="../../../author/xu_tianli"><b>Xu</b> Tianli</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#solid`](keyword/solid)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20the%20Preparation%20and%20Mechanical%20Properties%20of%20Solidified%203D%20Printed%20Concrete%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144860837&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313430620" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12122264" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12122264?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing is an innovative manufacturing process based on 3D digital models that involves layer-by-layer addition of materials. In recent years, 3D printing has made good progress in the field of construction, thereby leading to more stringent requirements for materials. In this study, we first compare different equipment and materials used for 3D printing concrete. Subsequently, the mix ratio of extruded and cured 3D printed concrete is studied by using flow and slump as the main evaluation indexes. Through a universal test, the influence of different dosages of water reducer, retarder, and latex powder on the performance of 3D printed concrete (compression resistance strength) is studied. Furthermore, the optimum mix ratio for fiber reinforced concrete is determined, based on which axial pull-out, axial compression, and three-point bending tests are performed to elucidate the peak compressive strength, load–displacement curve, and mechanical properties of 3D printed concrete. By employing the ABAQUS finite element software, the shaft pulling force and axial compression of 3D printed concrete are simulated and analyzed to determine the parameters influencing the bonding performance of different 3D printed concrete layers. Moreover, the influence of water reducer and sand–glue ratio is observed to be greater than that of water gel ratio and sodium gluconate. The testing results showed that the mechanical strength of 3D printed concrete is lower than that of poured concrete. Meanwhile, bending and compressive strengths of 3D printed concrete and poured concrete are quite different.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xia_bing"><b>Xia</b> Bing</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hao_xiao_sun_xia.2022.TCo3PCWRFACPCM/">Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials</a></li>
@@ -80,8 +59,8 @@ tags:
       <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/zhang_runhong"><b>Zhang</b> Runhong</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../wang_yao_yang_zhan.2022.MPo3PCiSCC/">Mechanical Performance of 3D Printed Concrete in Steam-Curing Conditions</a></li>
       <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wu_li.2022.EoEARaPTIoLAFCo3PC/">Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/yao_jiaxu"><b>Yao</b> Jiaxu</a>, <a href="../../../author/luo_jie"><b>Luo</b> Jie</a>, <a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/nagai_kohei"><b>Nagai</b> Kohei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../yao_luo_qiu_naga.2025.MMoACBaPOPo3PCwSBU3R/">Mesoscale Modeling of Anisotropic Compressive Behavior and Pull-Out Performance of 3D Printed Concrete with Steel Bars Using 3D RBSM</a></li>
       <li><a href="../../../author/zhi_zhenzhen"><b>Zhi</b> Zhenzhen</a>, <a href="../../../author/guo_yanfei"><b>Guo</b> Yanfei</a>, <a href="../../../author/qi_huahui"><b>Qi</b> Huahui</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhi_guo_qi_tan.2024.EoAMSoHPoACSHf3P/">Effect of Alkali-Metal-Sulfates on Hydration Properties of Alpha-Calcium-Sulfate-Hemihydrate for 3D Printing</a></li>
@@ -89,4 +68,34 @@ tags:
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../saha_bish_malv_kuma.2024.AoWMUa3CPDA/">Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shen_lin_wei_yan.2022.RotPaMPoS3PCM,
+      author            = "Yuhang Shen and Li Lin and Shengjie Wei and Jie Yan and Tianli Xu",
+      title             = "Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials",
+      doi               = "10.3390/buildings12122264",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Shen, L. Lin, S. Wei, J. Yan and T. Xu, “Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials”, <i>Buildings</i>, vol. 12, no. 12, 2022, doi: 10.3390/buildings12122264.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shen, Yuhang, Li Lin, Shengjie Wei, Jie Yan, and Tianli Xu. “Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials”. <i>Buildings</i> 12, no. 12 (2022). https://doi.org/10.3390/buildings12122264.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

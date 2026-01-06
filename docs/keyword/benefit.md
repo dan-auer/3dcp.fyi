@@ -8,7 +8,7 @@ search:
 
 # #benefit
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gnanaraj_salomie-nivetha_anies"><b>Gnanaraj</b> Anies</a>, <a href="../../../author/moreno_cristel-coronel_leyla"><b>Moreno</b> Leyla</a>, <a href="../../../author/thabet_baher-fouad-mohamed_reham"><b>Thabet</b> Reham</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../gnan_more_thab_rang.2026.CAoOVO3PiC/">Comparative Analysis of Onsite Versus Offsite 3D Printing in Construction:<br/>Benefits, Challenges, and Case Studies</a></li>
   <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/liu_yiming"><b>Liu</b> Yiming</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ding_li_liu.2025.SoMPaEBo3PLMOCFCBoTDMS/">Study on Mechanical Properties and Environmental Benefits of 3D Printed Lean Magnesium Ore Concrete Filled Columns Based on Three-Dimensional Meso-Structure</a></li>
   <li><a href="../../../author/nayaka_ramesh"><b>Nayaka</b> Ramesh</a>, <a href="../../../author/kumar_ujwal_h"><b>Kumar</b> H.</a>, <a href="../../../author/sharif_ahamed"><b>Sharif</b> Ahamed</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../naya_kuma_shar_zhan.2025.EKAaSBo3CP3/">Exploring Key Aspects and Sustainable Benefits of 3D Concrete Printing (3DCP):<br/>A Selective Review</a></li>

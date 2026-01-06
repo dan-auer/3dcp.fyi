@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuhang Duan, Chuan Wang, Binbin Yin, Kim Liew
+    - footer
+title: Duan Yuhang, Wang Chuan, Yin Binbin, Liew Kim
 description:
 tags:
  - concrete
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.ijmecsci.2025.110490" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ijmecsci.2025.110490</a>
+#Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ijmecsci.2025.110490" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijmecsci.2025.110490" target="_blank">10.1016/j.ijmecsci.2025.110490</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-2577-3523" title="ORCID: 0009-0001-2577-3523" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_yuhang"><b>Duan</b>&nbsp;Yuhang</a></span>, <a href="../../../author/wang_chuan"><b>Wang</b>&nbsp;Chuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9660-8907" title="ORCID: 0000-0001-9660-8907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yin_binbin"><b>Yin</b>&nbsp;Binbin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7160-7676" title="ORCID: 0000-0001-7160-7676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liew_meow_kim"><b>Liew</b>&nbsp;Kim</a></span><br>
+Journal Article - International Journal of Mechanical Sciences, No. 110490
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/duan_yuhang"><b>Duan</b> Yuhang</a> <a href="https://orcid.org/0009-0001-2577-3523" title="ORCID: 0009-0001-2577-3523" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_chuan"><b>Wang</b> Chuan</a>
-,     <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> <a href="https://orcid.org/0000-0001-9660-8907" title="ORCID: 0000-0001-9660-8907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> <a href="https://orcid.org/0000-0001-7160-7676" title="ORCID: 0000-0001-7160-7676" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Mechanical Sciences, No. 110490
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#failure`](keyword/failure)
-    [`#interface`](keyword/interface)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modeling%20Interfacial%20Failure%20in%203D-Printed%20Concrete%20via%20Peridynamics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008177034&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411200790" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.ijmecsci.2025.110490" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.ijmecsci.2025.110490?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Given its superior merits, 3D-printed concrete (3DPC) has transformative implications for the development of digital and green buildings. However, the poor interfacial properties of 3DPC may hinder the widespread adoption of 3DPC, as the construction industry is inherently risk-averse. To address this challenge, we propose a robust peridynamics model to predict interlayer bond strength and realistic crack propagation paths accurately. Assuming that the pore structure in the interfacial region is the primary factor affecting interfacial adhesion, a novel interfacial-controlled peridynamics model is developed using poroelasticity. By introducing a straightforward relation between interface and matrix fracture energy, our numerical model gains another significant advantage: its simplicity, as only one coefficient needs to be calibrated. The effectiveness and reliability of the proposed framework are validated through several numerical examples. Furthermore, as a first attempt, we investigate the interfacial failure of 3DPC, considering the filament heterogeneity under complex loading patterns. The competition between crack penetration and kinking modes of 3DPC is investigated. The results show that such competition significantly influences the final damage distribution, thereby offering valuable guidance for early prevention strategies. The present work provides deeper insights into the interfacial fracture behavior of 3DPC and lays the theoretical groundwork for its practical and large-scale implementation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/shengzhao_e"><b>Shengzhao</b> E.</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../cao_shen_yang_shi.2024.ASftIotBPo3PCILI/">A Strategy for the Improvement of the Bonding Performance of 3D Printed Concrete Inter-Layer Interfaces</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
@@ -95,7 +76,36 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{duan_wang_yin_liew.2025.MIFi3PCvP,
+      author            = "Yuhang Duan and Chuan Wang and Binbin Yin and Kim Meow Liew",
+      title             = "Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics",
+      doi               = "10.1016/j.ijmecsci.2025.110490",
+      year              = "2025",
+      journal           = "International Journal of Mechanical Sciences",
+      pages             = "110490",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Duan, C. Wang, B. Yin and K. M. Liew, “Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics”, <i>International Journal of Mechanical Sciences</i>, p. 110490, 2025, doi: 10.1016/j.ijmecsci.2025.110490.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Duan, Yuhang, Chuan Wang, Binbin Yin, and Kim Meow Liew. “Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics”. <i>International Journal of Mechanical Sciences</i>, 2025, 110490. https://doi.org/10.1016/j.ijmecsci.2025.110490.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

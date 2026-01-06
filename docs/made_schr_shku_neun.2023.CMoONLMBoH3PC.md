@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Thomas Mader, Magdalena Schreter-Fleischhacker, Olena Shkundalova, Matthias Neuner, Günter Hofstetter
+    - footer
+title: Mader Thomas, Schreter-Fleischhacker Magdalena, Shkundalova Olena, Neuner Matthias, Hofstetter Günter
 description:
 tags:
  - behavior
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s00707-023-03706-z.pdf) Constitutive Modeling of Orthotropic Non-Linear Mechanical Behavior of Hardened 3D Printed Concrete ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1007/s00707-023-03706-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00707-023-03706-z</a>
+#Constitutive Modeling of Orthotropic Non-Linear Mechanical Behavior of Hardened 3D Printed Concrete ([2023-09](date/2023/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s00707-023-03706-z.pdf) <a href="https://doi.org/10.1007/s00707-023-03706-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00707-023-03706-z" target="_blank">10.1007/s00707-023-03706-z</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1780-4227" title="ORCID: 0000-0003-1780-4227" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mader_thomas"><b>Mader</b>&nbsp;Thomas</a></span>, <a href="../../../author/schreter-fleischhacker_magdalena"><b>Schreter-Fleischhacker</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1472-2840" title="ORCID: 0000-0003-1472-2840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shkundalova_olena"><b>Shkundalova</b>&nbsp;Olena</a></span>, <a href="../../../author/neuner_matthias"><b>Neuner</b>&nbsp;Matthias</a></span>, <a href="../../../author/hofstetter_gunter"><b>Hofstetter</b>&nbsp;Günter</a></span><br>
+Journal Article - Acta Mechanica
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mader_thomas"><b>Mader</b> Thomas</a> <a href="https://orcid.org/0000-0003-1780-4227" title="ORCID: 0000-0003-1780-4227" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schreter-fleischhacker_magdalena"><b>Schreter-Fleischhacker</b> Magdalena</a>
-,     <a href="../../../author/shkundalova_olena"><b>Shkundalova</b> Olena</a> <a href="https://orcid.org/0000-0003-1472-2840" title="ORCID: 0000-0003-1472-2840" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neuner_matthias"><b>Neuner</b> Matthias</a>
-,     <a href="../../../author/hofstetter_gunter"><b>Hofstetter</b> Günter</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Acta Mechanica, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#constitutive`](keyword/constitutive)
-    [`#hardened`](keyword/hardened)
-    [`#linear`](keyword/linear)
-    [`#mechanics`](keyword/mechanics)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/linear"><button class="btn">#linear</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Constitutive%20Modeling%20of%20Orthotropic%20Non-Linear%20Mechanical%20Behavior%20of%20Hardened%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169575120&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386391944" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00707-023-03706-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00707-023-03706-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of concrete is a promising construction technology, offering the potential to build geometrically complex structures without the use of cost-intensive formwork. The layer-wise deposit of filaments during the 3D printing process results in an intrinsic orthotropic mechanical behavior in the hardened state. Beyond that, the material behavior of 3D printed concrete (3DPC) is governed by a highly nonlinear behavior, characterized by irreversible deformations, strain hardening, strain softening and a degradation of the material stiffness. In this contribution, a new constitutive model for describing the orthotropic and highly nonlinear material behavior of 3DPC will be presented. It is formulated by the extension of a well-established isotropic damage plasticity model for concrete to orthotropic material behavior by linear mapping of the stress tensor into a fictitious isotropic configuration. The performance of the new model will be evaluated by finite element simulations of three-point bending tests of 3DPC samples, performed for different orientations of the loading direction relative to the printing direction and comparison with experimental results. In addition, the applicability of the model to replicate the mechanical behavior of 3DPC, manufactured by the alternative 3D printing process of binder jetting of cementitious powders, will be demonstrated by 3D finite element simulations of an arch structure with varying orientations of the loading direction relative to the layering. Overall, the proposed model provides a computationally efficient modeling approach for large-scale finite element simulations of 3DPC structures, being a promising alternative to complex and computationally expensive finite element models considering distinct interfacial planes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -92,8 +69,8 @@ tags:
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liao_gero_wang_chen.2025.DoEECiaOCMfH3PC/">Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete</a></li>
@@ -111,4 +88,32 @@ tags:
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fucheng"><b>Wang</b> Fucheng</a>, <a href="../../../author/li_rong"><b>Li</b> Rong</a>, <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wang_wang_li_wang.2024.ICMo3PFRCCaIEV/">Interfacial Constitutive Model of 3D Printed Fiber-Reinforced Concrete Composites and Its Experimental Validation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{made_schr_shku_neun.2023.CMoONLMBoH3PC,
+      author            = "Thomas Mader and Magdalena Schreter-Fleischhacker and Olena Shkundalova and Matthias Neuner and Günter Hofstetter",
+      title             = "Constitutive Modeling of Orthotropic Non-Linear Mechanical Behavior of Hardened 3D Printed Concrete",
+      doi               = "10.1007/s00707-023-03706-z",
+      year              = "2023",
+      journal           = "Acta Mechanica",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Mader, M. Schreter-Fleischhacker, O. Shkundalova, M. Neuner and G. Hofstetter, “Constitutive Modeling of Orthotropic Non-Linear Mechanical Behavior of Hardened 3D Printed Concrete”, <i>Acta Mechanica</i>, 2023, doi: 10.1007/s00707-023-03706-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mader, Thomas, Magdalena Schreter-Fleischhacker, Olena Shkundalova, Matthias Neuner, and Günter Hofstetter. “Constitutive Modeling of Orthotropic Non-Linear Mechanical Behavior of Hardened 3D Printed Concrete”. <i>Acta Mechanica</i>, 2023. https://doi.org/10.1007/s00707-023-03706-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

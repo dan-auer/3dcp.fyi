@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Rangeard Damien 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/guiheneuf_simon"><b>Guihéneuf</b> Simon</a>, <a href="../../../author/audren_mathieu"><b>Audren</b> Mathieu</a>, <a href="../../../author/lely_nathan"><b>Lely</b> Nathan</a>, <a href="../../../author/borgne_tangi"><b>Borgne</b> Tangi</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../guih_audr_lely_borg.2024.MaMoFPEbCEM/">Monitoring and Modeling of Formwork Pressure Exerted by Castable Earthen Materials</a></li>
   <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../jacq_pica_rang_perr.2020.GIFtCRPoPCBM/">Gravity-Induced Flow to Characterize Rheological Properties of Printable Cement-Based Materials</a></li>

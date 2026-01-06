@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Radl Elisabeth 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../pfle_radl_sam_vill.2025.3CPoTWLBRS/">3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures</a></li>
   <li><a href="../../../author/ewerz_johannes"><b>Ewerz</b> Johannes</a>, <a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/huber_patrick"><b>Huber</b> Patrick</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ewer_pfle_radl_hube.2025.C3PaR/">Concrete 3D Printing and Reinforcement:<br/>Determination of Bond Strength Through Pull-Out Tests</a></li>
   <li><a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/sieh_alexander"><b>Sieh</b> Alexander</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../radl_pfle_sieh_vill.2025.CDaPoa3PCBBwEoITP/">Conceptual Design and Production of a 3D Printed Concrete Base Brick with Evaluation of Its Thermal Properties</a></li>

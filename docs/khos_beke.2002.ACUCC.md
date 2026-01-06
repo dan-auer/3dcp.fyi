@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behrokh Khoshnevis, George Bekey
+    - footer
+title: Khoshnevis Behrokh, Bekey George
 description:
 tags:
  - application
@@ -14,28 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automated Construction Using Contour Crafting:<br/>:aca-blank: Applications on Earth and Beyond ([2002-09](date/2002/09))
-<a href="https://doi.org/10.22260/isarc2002/0076" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2002/0076</a>
+#Automated Construction Using Contour Crafting&nbsp;([2002-09](date/2002/09))
+<div class="h1-like">Applications on Earth and Beyond</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2002/0076" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2002/0076" target="_blank">10.22260/isarc2002/0076</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/bekey_george"><b>Bekey</b>&nbsp;George</a></span><br>
+Contribution - Proceedings of the 19th International Symposium on Automation and Robotics in Construction (ISARC)
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bekey_george"><b>Bekey</b> George</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 19th International Symposium on Automation and Robotics in Construction (ISARC), pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#automation`](keyword/automation)
-    [`#construction`](keyword/construction)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#earth`](keyword/earth)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Construction%20Using%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,23 +37,19 @@ tags:
 <a href="https://inciteful.xyz/p/W1494005050" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2002/0076" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2002/0076?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Although automation has advanced in manufacturing, the growth of automation in construction has been slow. Conventional methods of manufacturing automation do not lend themselves to construction of large structures with internal features. This may explain the slow rate of growth in construction automation. Contour Crafting (CC) is a recent layered fabrication technology that has a great potential in automated construction of whole structures as well as sub-components. Using this process, a single house or a colony of houses, each with possibly a different design, may be automatically constructed in a single run, imbedded in each house all the conduits for electrical, plumbing and air-conditioning. Our research also addresses the application of CC in building habitats on other planets. CC will most probably be one of the very few feasible approaches for building structures on other planets, such as Moon and Mars, which are being targeted for human colonization before the end of the new century.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a>, <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="../../../date/2001/09">(2001-09)</a><br><a href="../../../khos_russ_kwon_bukk.2001.CLP/">Crafting Large Prototypes</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b> Chamil</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a>, <a href="../../../author/jongvisuttisun_passarin"><b>Jongvisuttisun</b> Passarin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dhan_tana_tang_jong.2024.UCo3PLBWwO/">Uniaxial Compression on 3D Printed Load-Bearing Walls with Openings</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC/">Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression</a></li>
       <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gupt_esma_prih_ghan.2023.FaTAoH3PLCM/">Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials</a></li>
@@ -96,4 +79,33 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{khos_beke.2002.ACUCC,
+      author            = "Behrokh Khoshnevis and George Bekey",
+      title             = "Automated Construction Using Contour Crafting: Applications on Earth and Beyond",
+      doi               = "10.22260/isarc2002/0076",
+      year              = "2002",
+      booktitle         = "Proceedings of the 19th International Symposium on Automation and Robotics in Construction (ISARC)",
+      editor            = "William C. Stone",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Khoshnevis  and G. Bekey, “Automated Construction Using Contour Crafting: Applications on Earth and Beyond”, in <i>Proceedings of the 19th International Symposium on Automation and Robotics in Construction (ISARC)</i>,  2002. doi: 10.22260/isarc2002/0076.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khoshnevis, Behrokh, and George Bekey. “Automated Construction Using Contour Crafting: Applications on Earth and Beyond”. In <i>Proceedings of the 19th International Symposium on Automation and Robotics in Construction (ISARC)</i>, edited by William C. Stone, 2002. https://doi.org/10.22260/isarc2002/0076.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

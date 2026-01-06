@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mona Sando, Sara Alves Santos, Paul Worms, Aleksander Gurlo, Dietmar Stephan
+    - footer
+title: Sando Mona, Alves Santos Sara, Worms Paul, Gurlo Aleksander, Stephan Dietmar
 description:
 tags:
  - carbon
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tib-op.org/ojs/index.php/ocp/article/download/2874/3189) Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite ([2025-12](date/2025/12))
-<a href="https://doi.org/10.52825/ocp.v7i.2874" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52825/ocp.v7i.2874</a>
+#Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite ([2025-12](date/2025/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/2874/3189) <a href="https://doi.org/10.52825/ocp.v7i.2874" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v7i.2874" target="_blank">10.52825/ocp.v7i.2874</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-6802-4113" title="ORCID: 0009-0003-6802-4113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sando_mona"><b>Sando</b>&nbsp;Mona</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-3142-6833" title="ORCID: 0009-0009-3142-6833" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-2294-6784" title="ORCID: 0009-0008-2294-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/worms_paul"><b>Worms</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7047-666X" title="ORCID: 0000-0001-7047-666X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gurlo_aleksander"><b>Gurlo</b>&nbsp;Aleksander</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions 2025
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sando_mona"><b>Sando</b> Mona</a> <a href="https://orcid.org/0009-0003-6802-4113" title="ORCID: 0009-0003-6802-4113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a> <a href="https://orcid.org/0009-0009-3142-6833" title="ORCID: 0009-0009-3142-6833" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/worms_paul"><b>Worms</b> Paul</a> <a href="https://orcid.org/0009-0008-2294-6784" title="ORCID: 0009-0008-2294-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> <a href="https://orcid.org/0000-0001-7047-666X" title="ORCID: 0000-0001-7047-666X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions 2025, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#composite`](keyword/composite)
-    [`#continuous`](keyword/continuous)
-    [`#evaluation`](keyword/evaluation)
-    [`#fiber`](keyword/fiber)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#impregnation`](keyword/impregnation)
-    [`#printability`](keyword/printability)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/impregnation"><button class="btn">#impregnation</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Continuous%20Epoxy-Impregnated%20Carbon%20Fiber%20Reinforcement%20in%20a%203D-Printable%20Geopolymer%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417278198" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52825/ocp.v7i.2874" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52825/ocp.v7i.2874?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the potential of geopolymer reinforcement for extrusionbased 3D printing using in-situ impregnation of continuous carbon fibre. The geopolymer is composed of fly ash, ground granulated blast furnace slag and an activator, specifically developed for 3D printing. Although 3DCP has seen significant advancements in recent years, structural reinforcement remains a largely unresolved challenge. In conventional concrete construction, steel reinforcement is used to withstand tensile forces that cannot be absorbed by the mineral building material alone, creating the composite material reinforced concrete. For additive manufacturing to remain competitive, printed concrete must offer comparable quality and performance, without compromising the benefits of geometric freedom, digital design, and automation. The use of continuous carbon fibre strands with a functional epoxy resin infiltration enables strong adhesion between the fibre and the geopolymer matrix, allowing for layer-wise reinforcement in tensile zones. Moreover, clinker-free geopolymers activated by highly alkaline solutions offer a more sustainable alternative by significantly reducing CO₂ emissions. Various combinations of geopolymer matrix and carbon fibre reinforcement are evaluated through three-point bending tests to determine flexural tensile strength, and through pull-out tests to assess peak load. Microscopic investigations using light microscopy and scanning electron microscopy (SEM) are conducted to analyse the interfacial bonding between fibre, geopolymer, and epoxy resin. The results demonstrate that embedding impregnated fibres "fresh-infresh" provides the most effective fibre–mortar bond, without limiting shape flexibility during printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../caro_duco_demo_bono.2023.3PoCFCC/">3D Printing of Continuous-Fibers Cementitious Composites:<br/>Anisotropic 3D Mortar</a></li>
       <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../demo_duco_mesn_caro.2021.FBPoCFfCBCMaAM/">Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing:<br/>Rheological and Technological Requirements</a></li>
@@ -90,7 +66,37 @@ tags:
       <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sand_alve_worm_gurl.2025.EoCEICFRia3PGC,
+      author            = "Mona Sando and Sara Filipa Alves Santos and Paul Worms and Aleksander Gurlo and Dietmar Stephan",
+      title             = "Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite",
+      doi               = "10.52825/ocp.v7i.2874",
+      year              = "2025",
+      volume            = "7",
+      booktitle         = "Visions and Strategies for Reinforcing Additively Manufactured Constructions 2025",
+      editor            = "Asko Fromm and Inka Mai (née Dressler) and Klaas de Rycke",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sando, S. F. A. Santos, P. Worms, A. Gurlo and D. Stephan, “Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite”, in <i>Visions and Strategies for Reinforcing Additively Manufactured Constructions 2025</i>,  2025, vol. 7. doi: 10.52825/ocp.v7i.2874.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sando, Mona, Sara Filipa Alves Santos, Paul Worms, Aleksander Gurlo, and Dietmar Stephan. “Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite”. In <i>Visions and Strategies for Reinforcing Additively Manufactured Constructions 2025</i>, edited by Asko Fromm, Inka Mai (née Dressler), and Klaas de Rycke, Vol. 7, 2025. https://doi.org/10.52825/ocp.v7i.2874.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maicon Silva, Lívia Silva, Berenice Toralles, Flávia Cardoso, Marla Corso, Luciana Rezende
+    - footer
+title: Silva Maicon, Silva Lívia, Toralles Berenice, Cardoso Flávia, Corso Marla, Rezende Luciana
 description:
 tags:
  - additive
@@ -14,32 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e02976) Building a Sustainable Future:<br/>:aca-blank: The Role of Additive Manufacturing in Civil Construction ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.cscm.2024.e02976" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e02976</a>
+#Building a Sustainable Future&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">The Role of Additive Manufacturing in Civil Construction</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e02976) <a href="https://doi.org/10.1016/j.cscm.2024.e02976" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e02976" target="_blank">10.1016/j.cscm.2024.e02976</a>
 
--------------------------
+<a href="../../../author/silva_douglas-leles_maicon"><b>da&nbsp;Silva</b>&nbsp;Maicon</a></span>, <a href="../../../author/silva_fernanda_livia"><b>Silva</b>&nbsp;Lívia</a></span>, <a href="../../../author/toralles_martins_berenice"><b>Toralles</b>&nbsp;Berenice</a></span>, <a href="../../../author/cardoso_aparecida-reitz_flavia"><b>Cardoso</b>&nbsp;Flávia</a></span>, <a href="../../../author/corso_marla"><b>Corso</b>&nbsp;Marla</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9677-4139" title="ORCID: 0000-0001-9677-4139" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rezende_cristina-soto-herek_luciana"><b>Rezende</b>&nbsp;Luciana</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 20, No. e02976
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/silva_douglas-leles_maicon"><b>da Silva</b> Maicon</a>
-,     <a href="../../../author/silva_fernanda_livia"><b>Silva</b> Lívia</a>
-,     <a href="../../../author/toralles_martins_berenice"><b>Toralles</b> Berenice</a>
-,     <a href="../../../author/cardoso_aparecida-reitz_flavia"><b>Cardoso</b> Flávia</a>
-,     <a href="../../../author/corso_marla"><b>Corso</b> Marla</a>
-,     <a href="../../../author/rezende_cristina-soto-herek_luciana"><b>Rezende</b> Luciana</a> <a href="https://orcid.org/0000-0001-9677-4139" title="ORCID: 0000-0001-9677-4139" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 20, No. e02976
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#future`](keyword/future)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Building%20a%20Sustainable%20Future" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185410855&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391756089" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e02976" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e02976?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the advent of Industry 4.0, 3D printing is emerging as a revolutionary technology in various industrial sectors. The ability to gradually deposit material allows the creation of complex shapes without waste and the need for molds. This, coupled with cost reduction, opens up significant opportunities in the construction sector. To minimize waste on the construction site, optimize construction time, and positively contribute to the environment, this work focuses on developing a system capable of three-dimensional printing of objects composed of a desktop-scale 3D printer prototype. The 3D printer developed in this project is integrated with two other crucial subsystems. The first is responsible for extruding a cementitious composite, while the second performs the homogenization of the mixture during material preparation. The Cartesian robot, essential for 3D printing, was constructed based on mechanical and electrical designs and connected to the pumping subsystem via a 1⁄2-inch diameter hose. To ensure the system’s viability, it was essential to define flow and printing speed parameters to ensure the extrudability and constructibility of composite materials. The process included preparing a conventional mortar with mixing ratios of 1:0.33:1.33:0.01 (cement, water, sand, and superplasticizer additive). The pumping subsystem was calibrated through flow tests on the injection pump, resulting in mass flows of 4 and 5 Kg/min. Printing speeds on the Cartesian robot were parameterized at 10, 30, and 50 mm/s. This led to the creation of samples named AE1 – 10, AE1 – 30, AE1 – 50 mm/s (for a flow rate of 5 Kg/min) and AE2 – 30, AE2 – 50 mm/s (for a flow rate of 4 Kg/min), along with AR – 1 and AR – 2 samples, which were collected in the mixer without extrusion. The system’s validation involved printing an object with dimensions of 400 ×400×80 mm (length x width x height). After printing, the object’s measurements were analyzed to assess the cementitious material’s extrudability and the constructibility of the layers. Tests were conducted in the fresh and hardened states of the mortar, including measurements of consistency index and tensile and compressive strength. The results demonstrated that replacing traditional methods with 3D printing on the construction site is feasible, reducing waste and decreasing construction time. This directly contributes to a cleaner and more sustainable construction process. 3D printing represents a promising innovation in the construction sector, offering significant advantages in terms of efficiency, waste reduction, and positive environmental impact. This work demonstrates the viability of this technology and its potential to transform the construction industry toward more sustainable and effective practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -102,10 +81,40 @@ tags:
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>, <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>, <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>, <a href="../../../author/chen_miao"><b>Chen</b> Miao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC/">Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{silv_silv_tora_card.2024.BaSF,
+      author            = "Maicon Douglas Leles da Silva and Lívia Fernanda Silva and Berenice Martins Toralles and Flávia Aparecida Reitz Cardoso and Marla Corso and Luciana Cristina Soto Herek Rezende",
+      title             = "Building a Sustainable Future: The Role of Additive Manufacturing in Civil Construction",
+      doi               = "10.1016/j.cscm.2024.e02976",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "20",
+      pages             = "e02976",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. D. L. da Silva, L. F. Silva, B. M. Toralles, F. A. R. Cardoso, M. Corso and L. C. S. H. Rezende, “Building a Sustainable Future: The Role of Additive Manufacturing in Civil Construction”, <i>Case Studies in Construction Materials</i>, vol. 20, p. e02976, 2024, doi: 10.1016/j.cscm.2024.e02976.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Silva, Maicon Douglas Leles da, Lívia Fernanda Silva, Berenice Martins Toralles, Flávia Aparecida Reitz Cardoso, Marla Corso, and Luciana Cristina Soto Herek Rezende. “Building a Sustainable Future: The Role of Additive Manufacturing in Civil Construction”. <i>Case Studies in Construction Materials</i> 20 (2024): e02976. https://doi.org/10.1016/j.cscm.2024.e02976.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

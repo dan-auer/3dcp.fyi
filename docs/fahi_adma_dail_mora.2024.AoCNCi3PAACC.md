@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdullah Fahim, Natnael Admassu, Garret Dailey, Mehdi Moradllo
+    - footer
+title: Fahim Abdullah, Admassu Natnael, Dailey Garret, Moradllo Mehdi
 description:
 tags:
  - activation
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Application of Cellulose-Nano-Crystals in 3D Printed Alkali-Activated Cementitious Composites ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.jobe.2023.108380" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.108380</a>
+#Application of Cellulose-Nano-Crystals in 3D Printed Alkali-Activated Cementitious Composites ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.108380" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.108380" target="_blank">10.1016/j.jobe.2023.108380</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-7301-4256" title="ORCID: 0009-0005-7301-4256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fahim_abdullah"><b>al&nbsp;Fahim</b>&nbsp;Abdullah</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-2961-7560" title="ORCID: 0009-0001-2961-7560" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/admassu_natnael"><b>Admassu</b>&nbsp;Natnael</a></span>, <a href="../../../author/dailey_garret"><b>Dailey</b>&nbsp;Garret</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3889-4455" title="ORCID: 0000-0002-3889-4455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moradllo_khanzadeh_mehdi"><b>Moradllo</b>&nbsp;Mehdi</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 82, No. 108380
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fahim_abdullah"><b>al Fahim</b> Abdullah</a> <a href="https://orcid.org/0009-0005-7301-4256" title="ORCID: 0009-0005-7301-4256" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/admassu_natnael"><b>Admassu</b> Natnael</a> <a href="https://orcid.org/0009-0001-2961-7560" title="ORCID: 0009-0001-2961-7560" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dailey_garret"><b>Dailey</b> Garret</a>
-,     <a href="../../../author/moradllo_khanzadeh_mehdi"><b>Moradllo</b> Mehdi</a> <a href="https://orcid.org/0000-0002-3889-4455" title="ORCID: 0000-0002-3889-4455" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 82, No. 108380
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#application`](keyword/application)
-    [`#cellulose`](keyword/cellulose)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#crystal`](keyword/crystal)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/crystal"><button class="btn">#crystal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Application%20of%20Cellulose-Nano-Crystals%20in%203D%20Printed%20Alkali-Activated%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181683289&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390202149" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.108380" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.108380?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the rapid development of concrete 3D printing for construction projects, it is crucial to produce sustainable 3D-printed cementitious composites that meet the required fresh and hardened properties. This study develops sustainable 3D-printed cementitious composites of ordinary portland cement and alkali-activated materials using cellulose nanocrystals (i.e., green natural nanomaterials). The extrudability and buildability of the alkali-activated slag-fly ash mixtures were improved and the extrusion pressure was reduced by ~ 35 % by increasing the cellulose nanocrystals content (up to 1 %) suggesting their viscosity-modifying properties in alkali-activated materials. The inclusion of cellulose nanocrystals improves the overall mechanical performance (8–20 % increase) and reduces the porosity of ordinary portland cement and heat-cured alkali-activated samples. Further, the addition of cellulose nanocrystals (up to 0.30 %) in sealed-cured alkali-activated samples improves their flexural strength by 20 %. The ordinary portland cement sample with cellulose nanocrystals densifies the microstructure and has an approximately 25 % increase in the degree of hydration at inner depths indicating cellulose nanocrystals' internal curing potential. The developed 3D-printable alkali-activated composites with cellulose nanocrystals can provide an overall reduction in the environmental impacts by eliminating/reducing the need for chemical admixtures to improve material consistency and stability, and replacing 100 % of portland cement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
@@ -87,8 +65,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_core_tran_fan.2025.3PCC/">3D Printable Cellulose Concrete:<br/>A Review and Pathway to Future Research</a></li>
       <li><a href="../../../author/lu_qianyang"><b>Lu</b> Qianyang</a>, <a href="../../../author/mei_song"><b>Mei</b> Song</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a>, <a href="../../../author/alsubeai_ali"><b>Alsubeai</b> Ali</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lu_mei_atea_alsu.2025.ItSPo3PFRCUAPM/">Investigating the Strength Performance of 3D Printed Fiber-Reinforced Concrete Using Applicable Predictive Models</a></li>
       <li><a href="../../../author/salifu_n"><b>Salifu</b> N.</a>, <a href="../../../author/bassuoni_t_mohamed"><b>Bassuoni</b> Mohamed</a>, <a href="../../../author/guven_gursans"><b>Guven</b> Gursans</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sali_bass_guve.2025.PEoLBCaCNi3CP/">Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing</a></li>
@@ -96,4 +74,34 @@ tags:
       <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/soliman_a_nancy"><b>Soliman</b> Nancy</a>, <a href="../../../author/omran_ahmed"><b>Omran</b> Ahmed</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kili_soli_omra_ozbu.2024.EoCNoRaMPo3PCC/">Effects of Cellulose Nanofibrils on Rheological and Mechanical Properties of 3D Printable Cement Composites</a></li>
       <li><a href="../../../author/mu_ru"><b>Mu</b> Ru</a>, <a href="../../../author/chen_jiao"><b>Chen</b> Jiao</a>, <a href="../../../author/qing_longbang"><b>Qing</b> Longbang</a>, <a href="../../../author/fan_chunhao"><b>Fan</b> Chunhao</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../mu_chen_qing_fan.2024.PoaSFRCCSwDDSF/">Properties of a Steel-Fiber-Reinforced Cementitious Composite Stool with Digitally Distributed Steel-Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fahi_adma_dail_mora.2024.AoCNCi3PAACC,
+      author            = "Abdullah Al Fahim and Natnael Admassu and Garret Dailey and Mehdi Khanzadeh Moradllo",
+      title             = "Application of Cellulose-Nano-Crystals in 3D Printed Alkali-Activated Cementitious Composites",
+      doi               = "10.1016/j.jobe.2023.108380",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "82",
+      pages             = "108380",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. A. Fahim, N. Admassu, G. Dailey and M. K. Moradllo, “Application of Cellulose-Nano-Crystals in 3D Printed Alkali-Activated Cementitious Composites”, <i>Journal of Building Engineering</i>, vol. 82, p. 108380, 2024, doi: 10.1016/j.jobe.2023.108380.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fahim, Abdullah Al, Natnael Admassu, Garret Dailey, and Mehdi Khanzadeh Moradllo. “Application of Cellulose-Nano-Crystals in 3D Printed Alkali-Activated Cementitious Composites”. <i>Journal of Building Engineering</i> 82 (2024): 108380. https://doi.org/10.1016/j.jobe.2023.108380.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

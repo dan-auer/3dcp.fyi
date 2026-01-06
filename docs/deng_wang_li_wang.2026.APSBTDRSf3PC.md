@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: North Deng, Sizhe Wang, Mingyang Li, Xiangyu Wang, Zhenbang Liu, Teck Wong, Bak Teoh, Ming Tan
+    - footer
+title: Deng North, Wang Sizhe, Li Mingyang, Wang Xiangyu, Liu Zhenbang, Wong Teck, Teoh Bak, Tan Ming
 description:
 tags:
  - base
@@ -20,40 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>:aca-blank: Flexural Testing of Beams as a Proof of Concept ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.addma.2025.105065" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.105065</a>
+#A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete&nbsp;([2025-12](date/2025/12))
+<div class="h1-like">Flexural Testing of Beams as a Proof of Concept</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.105065" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.105065" target="_blank">10.1016/j.addma.2025.105065</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-1186-9800" title="ORCID: 0009-0007-1186-9800" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_beifang_north"><b>Deng</b>&nbsp;North</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9966-9630" title="ORCID: 0000-0002-9966-9630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_sizhe"><b>Wang</b>&nbsp;Sizhe</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhenbang"><b>Liu</b>&nbsp;Zhenbang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <a href="../../../author/teoh_koon_bak"><b>Teoh</b>&nbsp;Bak</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 115, No. 105065
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/deng_beifang_north"><b>Deng</b> North</a> <a href="https://orcid.org/0009-0007-1186-9800" title="ORCID: 0009-0007-1186-9800" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a> <a href="https://orcid.org/0000-0002-9966-9630" title="ORCID: 0000-0002-9966-9630" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> <a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teoh_koon_bak"><b>Teoh</b> Bak</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 115, No. 105065
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#beam`](keyword/beam)
-    [`#concept`](keyword/concept)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#flexural`](keyword/flexural)
-    [`#print`](keyword/print)
-    [`#proof`](keyword/proof)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strategy`](keyword/strategy)
-    [`#test`](keyword/test)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/proof"><button class="btn">#proof</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Perforated%20Strip-Based%20Three-Dimensional%20Reinforcement%20Strategy%20for%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7116980403" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.105065" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.105065?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The reinforcement of 3D printed concrete structures remains a critical bottleneck hindering the widespread application of 3D printing technology in construction. To address this challenge, this study proposes a novel reinforcement strategy combining perforated strips and rebars to form three-dimensional frameworks for structural members. The reinforcement strategy is seamlessly integrated into the layer-by-layer concrete printing process and adaptable for complex geometries. To validate its feasibility and structural performance, large-scale 3D printed beams were fabricated and tested under flexural loading. The proposed strategy markedly enhanced the flexural performance of printed beams, with reinforced printed beams reaching over 100 % of the ultimate capacity and 90 % of the ductility of well-reinforced cast beams. Both experimental observations and finite element analysis confirmed that the failure mode corresponded to typical flexural failure of reinforced concrete beams. Moreover, existing design codes (such as Eurocode 2 and GB/T 50010–2010) were proved to be applicable in guiding the design of 3D printed members using this reinforcement strategy, facilitating practical engineering application of 3D printed concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bai_xiao_wu_ding.2024.EaNSotFBo3PCBwUSEF/">Experimental and Numerical Study on the Flexural Behavior of 3D Printed Composite Beams with U-Shaped ECC Formwork</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
@@ -118,7 +89,37 @@ tags:
       <li><a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/tian_jiefu"><b>Tian</b> Jiefu</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_weng_tian_yang.2025.3PTCEDoCUB/">3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams:<br/>Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a>, <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhou_xu_meng_xie.2025.FS/">Filament Stitching:<br/>An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{deng_wang_li_wang.2026.APSBTDRSf3PC,
+      author            = "North Beifang Deng and Sizhe Wang and Mingyang Li and Xiangyu Wang and Zhenbang Liu and Teck Neng Wong and Bak Koon Teoh and Ming Jen Tan",
+      title             = "A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete: Flexural Testing of Beams as a Proof of Concept",
+      doi               = "10.1016/j.addma.2025.105065",
+      year              = "2026",
+      journal           = "Additive Manufacturing",
+      volume            = "115",
+      pages             = "105065",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. B. Deng, “A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete: Flexural Testing of Beams as a Proof of Concept”, <i>Additive Manufacturing</i>, vol. 115, p. 105065, 2026, doi: 10.1016/j.addma.2025.105065.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Deng, North Beifang, Sizhe Wang, Mingyang Li, Xiangyu Wang, Zhenbang Liu, Teck Neng Wong, Bak Koon Teoh, and Ming Jen Tan. “A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete: Flexural Testing of Beams as a Proof of Concept”. <i>Additive Manufacturing</i> 115 (2026): 105065. https://doi.org/10.1016/j.addma.2025.105065.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

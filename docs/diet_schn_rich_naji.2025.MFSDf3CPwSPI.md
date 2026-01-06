@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sebastian Dietrich, Philip Schneider, Christiane Richter, Reza Najian Asl, Kathrin Dörfler, Kai-Uwe Bletzinger, Pierluigi D'Acunto
+    - footer
+title: Dietrich Sebastian, Schneider Philip, Richter Christiane, Najian Asl Reza, Dörfler Kathrin, Bletzinger Kai-Uwe, D'Acunto Pierluigi
 description:
 tags:
  - concrete
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.autcon.2025.106352" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106352</a>
+#Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion ([2025-08](date/2025/08))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.autcon.2025.106352" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106352" target="_blank">10.1016/j.autcon.2025.106352</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-2414-8458" title="ORCID: 0009-0006-2414-8458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dietrich_sebastian"><b>Dietrich</b>&nbsp;Sebastian</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-3943-018X" title="ORCID: 0009-0003-3943-018X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schneider_philip"><b>Schneider</b>&nbsp;Philip</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3865-4029" title="ORCID: 0000-0003-3865-4029" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/richter_christiane"><b>Richter</b>&nbsp;Christiane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6657-888X" title="ORCID: 0000-0002-6657-888X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/najian-asl_reza"><b>Najian Asl</b>&nbsp;Reza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1420-6440" title="ORCID: 0000-0003-1420-6440" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bletzinger_kai-uwe"><b>Bletzinger</b>&nbsp;Kai-Uwe</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4005-2596" title="ORCID: 0000-0003-4005-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b>&nbsp;Pierluigi</a></span><br>
+Journal Article - Automation in Construction, Vol. 179, No. 106352
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a> <a href="https://orcid.org/0009-0006-2414-8458" title="ORCID: 0009-0006-2414-8458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a> <a href="https://orcid.org/0009-0003-3943-018X" title="ORCID: 0009-0003-3943-018X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a> <a href="https://orcid.org/0000-0003-3865-4029" title="ORCID: 0000-0003-3865-4029" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> <a href="https://orcid.org/0000-0002-6657-888X" title="ORCID: 0000-0002-6657-888X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bletzinger_kai-uwe"><b>Bletzinger</b> Kai-Uwe</a> <a href="https://orcid.org/0000-0003-1420-6440" title="ORCID: 0000-0003-1420-6440" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="https://orcid.org/0000-0003-4005-2596" title="ORCID: 0000-0003-4005-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 179, No. 106352
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#fidelity`](keyword/fidelity)
-    [`#intrusion`](keyword/intrusion)
-    [`#multi`](keyword/multi)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#selective`](keyword/selective)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fidelity"><button class="btn">#fidelity</button></a> <a href="../../keyword/intrusion"><button class="btn">#intrusion</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multi-Fidelity%20Structural%20Design%20for%203D%20Concrete%20Printing%20with%20Selective%20Paste%20Intrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012927085&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413164583" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106352" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106352?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a method for the structural design of additively manufactured concrete structures using the Selective Paste Intrusion (SPI) technique. The approach addresses the specific constraints of 3D printing while leveraging its unique design potential. The proposed method integrates global geometry generation, segmentation into manufacturable components, detailed structural design, and advanced analysis. A multi-fidelity modeling strategy connects low-fidelity models, such as strut-and-tie networks for force path generation, with high-fidelity models that use continuous geometries and stress fields for precise design refinement. Low-fidelity models, developed through Vector-based Graphic Statics and Combinatorial Equilibrium Modeling, facilitate rapid design exploration during the early design phase, whereas high-fidelity models enable advanced design development through finite element simulations and optimization techniques. Segmentation is guided by force flow to enhance manufacturability and ensure normal stress transmission at joints. The proposed method is demonstrated through a case study of a 3D-printed segmented pedestrian bridge manufactured with the SPI technique, highlighting its effectiveness in optimizing structural performance, ensuring stability, and accommodating printing constraints from the initial design phase.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../aram_cald_puen.2023.WJPo3PCBSUFL/">Wet Joint Performance of 3D Printed Concrete Beam Segments Under Flexural Loading</a></li>
@@ -110,8 +84,38 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
       <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../xiao_hack_klof_lowk.2025.CBFFoSTfI3CPTVBGS/">Constraint-Based Form-Finding of Space Trusses for Injection 3D Concrete Printing Through Vector-Based Graphic Statics</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/knychalla_bruno"><b>Knychalla</b> Bruno</a>, <a href="../../../author/wiesner_christian"><b>Wiesner</b> Christian</a>, <a href="../../../author/sonnleitner_patrick"><b>Sonnleitner</b> Patrick</a>, <a href="../../../author/kowalczyk_magdalena"><b>Kowalczyk</b> Magdalena</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../knyc_wies_sonn_kowa.2025.IFF/">Integrated Fiber Forms:<br/>Functionally Integrated Slab Systems Through Additive Manufacturing and Natural Fiber Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{diet_schn_rich_naji.2025.MFSDf3CPwSPI,
+      author            = "Sebastian Dietrich and Philip Schneider and Christiane Richter and Reza Najian Asl and Kathrin Dörfler and Kai-Uwe Bletzinger and Pierluigi D'Acunto",
+      title             = "Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion",
+      doi               = "10.1016/j.autcon.2025.106352",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "179",
+      pages             = "106352",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Dietrich, “Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion”, <i>Automation in Construction</i>, vol. 179, p. 106352, 2025, doi: 10.1016/j.autcon.2025.106352.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dietrich, Sebastian, Philip Schneider, Christiane Richter, Reza Najian Asl, Kathrin Dörfler, Kai-Uwe Bletzinger, and Pierluigi D'Acunto. “Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion”. <i>Automation in Construction</i> 179 (2025): 106352. https://doi.org/10.1016/j.autcon.2025.106352.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ho Nguyen, Nguyen Thach, Quang Le, Yonghan Anh
+    - footer
+title: Nguyen Ho, Thach Nguyen, Le Quang, Anh Yonghan
 description:
 tags:
  - application
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Review of Current Progress and Application of Machine Learning on 3D Printed Concrete ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1007/978-981-99-7434-4_71" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-99-7434-4_71</a>
+#A Review of Current Progress and Application of Machine Learning on 3D Printed Concrete ([2023-07](date/2023/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-7434-4_71" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-7434-4_71" target="_blank">10.1007/978-981-99-7434-4_71</a>
 
--------------------------
+<a href="../../../author/nguyen_anh-thu_ho"><b>Nguyen</b>&nbsp;Ho</a></span>, <a href="../../../author/thach_thao_nguyen"><b>Thach</b>&nbsp;Nguyen</a></span>, <a href="../../../author/le_hoai_quang"><b>Le</b>&nbsp;Quang</a></span>, <a href="../../../author/anh_yonghan"><b>Anh</b>&nbsp;Yonghan</a></span><br>
+Contribution - Proceedings of the 3rd International Conference on Sustainable Civil Engineering and Architecture, pp. 703-710
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nguyen_anh-thu_ho"><b>Nguyen</b> Ho</a>
-,     <a href="../../../author/thach_thao_nguyen"><b>Thach</b> Nguyen</a>
-,     <a href="../../../author/le_hoai_quang"><b>Le</b> Quang</a>
-,     <a href="../../../author/anh_yonghan"><b>Anh</b> Yonghan</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd International Conference on Sustainable Civil Engineering and Architecture, pp. 703-710
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Current%20Progress%20and%20Application%20of%20Machine%20Learning%20on%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180150556&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389541546" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-99-7434-4_71" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-99-7434-4_71?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed concrete is a special type of concrete that is digitally fabricated based on 3D-printing technologies without vibration and formwork. Statistical and empirical models have been used to predict the properties of concrete mixtures and structures and support printing processes. However, developing these models requires laborious experimental work and may provide inaccurate results when the complex relationships between the evaluation parameters of concrete mixtures and printed elements. Therefore, machine learning (ML) has become a potential solution in material optimization, manufacturing process management, and behavior prediction for concrete mixes and printed structures. Although advances in ML provide an opportunity to design and optimize 3-D printed structures and materials and achieve more cost-effective and sustainable designs, the number of studies applying ML in 3D printed concrete remains limited. Most of the research on 3-D printed concrete has so far been experimental, with little focus on computational simulations and prediction for the 3-D printing process. This review critically discusses and analyzes the applications of ML and its performance, thereby identifying practical recommendations, current knowledge gaps, and needed future research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../chan_wan_xu_schl.2022.CNNfPCPaSCWCoAVSi3PC/">Convolutional Neural Network for Predicting Crack-Pattern and Stress-Crack-Width Curve of Air-Void Structure in 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_zhan_pang_wang.2022.SFODaEo3PCwCA/">Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../davt_kaze_yuan_khos.2022.AIiRAMUDLfLDD/">Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection</a></li>
@@ -81,8 +60,39 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{nguy_thac_le_anh.2024.ARoCPaAoMLo3PC,
+      author            = "Ho Anh Thu Nguyen and Nguyen Thao Thach and Quang Hoai Le and Yonghan Anh",
+      title             = "A Review of Current Progress and Application of Machine Learning on 3D Printed Concrete",
+      doi               = "10.1007/978-981-99-7434-4_71",
+      year              = "2024",
+      volume            = "442",
+      pages             = "703--710",
+      booktitle         = "Proceedings of the 3rd International Conference on Sustainable Civil Engineering and Architecture",
+      editor            = "Junuthula N. Reddy and Chien Ming Wang and Van Hai Louong and Anh Tuan Le",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. A. T. Nguyen, N. T. Thach, Q. H. Le and Y. Anh, “A Review of Current Progress and Application of Machine Learning on 3D Printed Concrete”, in <i>Proceedings of the 3rd International Conference on Sustainable Civil Engineering and Architecture</i>,  2024, vol. 442, pp. 703–710. doi: 10.1007/978-981-99-7434-4_71.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nguyen, Ho Anh Thu, Nguyen Thao Thach, Quang Hoai Le, and Yonghan Anh. “A Review of Current Progress and Application of Machine Learning on 3D Printed Concrete”. In <i>Proceedings of the 3rd International Conference on Sustainable Civil Engineering and Architecture</i>, edited by Junuthula N. Reddy, Chien Ming Wang, Van Hai Louong, and Anh Tuan Le, 442:703–10, 2024. https://doi.org/10.1007/978-981-99-7434-4_71.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

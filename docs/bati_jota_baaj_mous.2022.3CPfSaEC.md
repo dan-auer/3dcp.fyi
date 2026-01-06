@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mustafa Batikha, Rahul Jotangia, Mohamad Baaj, Ibrahim Mousleh
+    - footer
+title: Batikha Mustafa, Jotangia Rahul, Baaj Mohamad, Mousleh Ibrahim
 description:
 tags:
  - comparision
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing for Sustainable and Economical Construction:<br/>:aca-blank: A Comparative Study ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1016/j.autcon.2021.104087" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2021.104087</a>
+#3D Concrete Printing for Sustainable and Economical Construction&nbsp;([2021-12](date/2021/12))
+<div class="h1-like">A Comparative Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2021.104087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.104087" target="_blank">10.1016/j.autcon.2021.104087</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8064-7928" title="ORCID: 0000-0001-8064-7928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/batikha_mustafa"><b>Batikha</b>&nbsp;Mustafa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5839-2922" title="ORCID: 0000-0001-5839-2922" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jotangia_rahul"><b>Jotangia</b>&nbsp;Rahul</a></span>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b>&nbsp;Mohamad</a></span>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b>&nbsp;Ibrahim</a></span><br>
+Journal Article - Automation in Construction, Vol. 134
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a> <a href="https://orcid.org/0000-0001-8064-7928" title="ORCID: 0000-0001-8064-7928" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a> <a href="https://orcid.org/0000-0001-5839-2922" title="ORCID: 0000-0001-5839-2922" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>
-,     <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 134, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#economic`](keyword/economic)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20for%20Sustainable%20and%20Economical%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120999240&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200436912" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2021.104087" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2021.104087?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Literature about 3D Concrete Printing (3DCP) examined small-printed elements or structures, while the data available about printed buildings are from the market. Therefore, there is no robust answer regarding 3DCP efficiency compared to other construction methods. In this research, a two-storey building was designed using five construction methods: 3DCP, prefabricated modular construction, cast-in-situ reinforced concrete, cold-formed steel and hot-rolled steel. The aim is to compare 3DCP to other construction techniques in terms of the construction duration, cost and CO2 emissions. This study shows that excluding prefabricated modular concrete, 3DCP reduces the construction duration by about 95%. 3DCP also offers the greatest cost savings and behaves similarly to cold-formed steel to produce approximately 32% less CO2 emissions. Thus, this work provides a necessary outlook on the current viability of 3DCP to relevant stakeholders and industry professionals and inspires future research on 3DCP as an economical and sustainable construction solution.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -89,8 +70,9 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "101 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
@@ -192,4 +174,33 @@ tags:
       <li><a href="../../../author/liu_siyu"><b>Liu</b> Siyu</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_hongliang"><b>Li</b> Hongliang</a>, <a href="../../../author/pan_zehua"><b>Pan</b> Zehua</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lu_li_pan.2022.ACSoEPo3PaCCoCPwIW/">A Comparative Study on Environmental Performance of 3D Printing and Conventional Casting of Concrete Products with Industrial Wastes</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/dam_benjamin"><b>Dam</b> Benjamin</a>, <a href="../../../author/zeidan_talina"><b>Zeidan</b> Talina</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../moha_rahu_dam_zeid.2022.PCEIaCAf3PCM/">Performance Criteria, Environmental Impact and Cost-Assessment for 3D Printable Concrete Mixtures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bati_jota_baaj_mous.2022.3CPfSaEC,
+      author            = "Mustafa Batikha and Rahul Jotangia and Mohamad Yasser Baaj and Ibrahim Mousleh",
+      title             = "3D Concrete Printing for Sustainable and Economical Construction: A Comparative Study",
+      doi               = "10.1016/j.autcon.2021.104087",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "134",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Batikha, R. Jotangia, M. Y. Baaj and I. Mousleh, “3D Concrete Printing for Sustainable and Economical Construction: A Comparative Study”, <i>Automation in Construction</i>, vol. 134, 2022, doi: 10.1016/j.autcon.2021.104087.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Batikha, Mustafa, Rahul Jotangia, Mohamad Yasser Baaj, and Ibrahim Mousleh. “3D Concrete Printing for Sustainable and Economical Construction: A Comparative Study”. <i>Automation in Construction</i> 134 (2022). https://doi.org/10.1016/j.autcon.2021.104087.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

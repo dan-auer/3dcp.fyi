@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rodrigo García, Eva Dokladalova, Petr Dokládal, Jean-François Caron, Romain Mesnil, Pierre Margerit, Malo Charrier
+    - footer
+title: García Rodrigo, Dokladalova Eva, Dokládal Petr, Caron Jean-François, Mesnil Romain, Margerit Pierre, Charrier Malo
 description:
 tags:
  - computer
@@ -14,33 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal.science/hal-04078406/file/1-s2.0-S2214860422005644-main.pdf) In-Line Monitoring of 3D Concrete Printing Using Computer-Vision ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.addma.2022.103175" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.103175</a>
+#In-Line Monitoring of 3D Concrete Printing Using Computer-Vision ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.science/hal-04078406/file/1-s2.0-S2214860422005644-main.pdf) <a href="https://doi.org/10.1016/j.addma.2022.103175" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.103175" target="_blank">10.1016/j.addma.2022.103175</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4726-6538" title="ORCID: 0000-0003-4726-6538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia_rill_rodrigo"><b>García</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1765-7394" title="ORCID: 0000-0003-1765-7394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dokladalova_eva"><b>Dokladalova</b>&nbsp;Eva</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6502-7461" title="ORCID: 0000-0002-6502-7461" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dokladal_petr"><b>Dokládal</b>&nbsp;Petr</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4922-9837" title="ORCID: 0000-0003-4922-9837" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/margerit_pierre"><b>Margerit</b>&nbsp;Pierre</a></span>, <a href="../../../author/charrier_malo"><b>Charrier</b>&nbsp;Malo</a></span><br>
+Journal Article - Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/garcia_rill_rodrigo"><b>García</b> Rodrigo</a> <a href="https://orcid.org/0000-0003-4726-6538" title="ORCID: 0000-0003-4726-6538" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dokladalova_eva"><b>Dokladalova</b> Eva</a> <a href="https://orcid.org/0000-0003-1765-7394" title="ORCID: 0000-0003-1765-7394" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dokladal_petr"><b>Dokládal</b> Petr</a> <a href="https://orcid.org/0000-0002-6502-7461" title="ORCID: 0000-0002-6502-7461" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/margerit_pierre"><b>Margerit</b> Pierre</a> <a href="https://orcid.org/0000-0003-4922-9837" title="ORCID: 0000-0003-4922-9837" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#line`](keyword/line)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Line%20Monitoring%20of%203D%20Concrete%20Printing%20Using%20Computer-Vision" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139876266&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4298007401" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.103175" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.103175?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The detection of anomalies is at the basis of any 3D printing control. In this paper, we propose a methodology for detection of anomalies based on computer vision. This methodology is composed of three modules: (1) image acquisition, (2) interlayer line and layer segmentation and (3) characterization of the local geometry and texture of the layers and detection of anomalies. The image acquisition is performed with a camera fixed to the printing nozzle. The proposed layer segmentation method recognizes and locates the lines separating the printed layers (F-score = 91%). The third module – taking as input the segmentation and the original image – evaluates the geometry of the layers and the texture of the material. The results are used to detect geometry anomalies when the values are outside the expected range. The material texture is classified into four classes of quality (macro-averaged F-score = 94%). We present the results and show the suitability of our methodology for automatic detection and localization of anomalies on images acquired during a printing session.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/maitenaz_sebastien"><b>Maitenaz</b> Sébastien</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arch_mait_demo_char.2021.StSoaHMSaGCSbAM/">Strategy to Shape, on a Half-Meter Scale, a Geopolymer Composite Structure by Additive Manufacturing</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
@@ -81,13 +58,13 @@ tags:
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../liu_li_tay_weng.2020.RNaNSoMDaCi3CMP/">Rotation-Nozzle and Numerical Simulation of Mass-Distribution at Corners in 3D Cementitious Material-Printing</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../nair_sant_neit.2022.MMBPCATfGAo3PCE/">Mathematical Morphology-Based Point-Cloud-Analysis-Techniques for Geometry-Assessment of 3D Printed Concrete Elements</a></li>
-      <li><a href="../../../author/niroumand_hamed"><b>Niroumand</b> Hamed</a>, <a href="../../../author/balachowski_lech"><b>Bałachowski</b> Lech</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../niro_baa.2025.GBw3PEM/">Green Building with 3D Printed Earth Materials:<br/>Current Issues and Future Prospects of 3D Printed Green Houses for the Construction Sector</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "42 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a>, <a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ozde_alac.2025.CEfLAaS3CP/">Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing</a></li>
@@ -129,4 +106,32 @@ tags:
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/youcef-toumi_kamal"><b>Youcef-Toumi</b> Kamal</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_lakh_bela_youc.2023.EWIfADoFDi3RPP/">Experimental Workflow Implementation for Automatic Detection of Filament-Deviation in 3D Robotic Printing Process</a></li>
       <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../quah_tay_lim_tan.2023.C3P/">Concrete 3D Printing:<br/>Process-Parameters for Process-Control, Monitoring and Diagnosis in Automation and Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{garc_dokl_dokl_caro.2022.ILMo3CPUCV,
+      author            = "Rodrigo Rill García and Eva Dokladalova and Petr Dokládal and Jean-François Caron and Romain Mesnil and Pierre Margerit and Malo Charrier",
+      title             = "In-Line Monitoring of 3D Concrete Printing Using Computer-Vision",
+      doi               = "10.1016/j.addma.2022.103175",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. R. García, “In-Line Monitoring of 3D Concrete Printing Using Computer-Vision”, <i>Additive Manufacturing</i>, 2022, doi: 10.1016/j.addma.2022.103175.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">García, Rodrigo Rill, Eva Dokladalova, Petr Dokládal, Jean-François Caron, Romain Mesnil, Pierre Margerit, and Malo Charrier. “In-Line Monitoring of 3D Concrete Printing Using Computer-Vision”. <i>Additive Manufacturing</i>, 2022. https://doi.org/10.1016/j.addma.2022.103175.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

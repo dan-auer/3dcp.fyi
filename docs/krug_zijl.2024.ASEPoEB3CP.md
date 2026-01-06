@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jacques Kruger, Gideon Zijl
+    - footer
+title: Kruger Jacques, Zijl Gideon
 description:
 tags:
  - base
@@ -17,29 +18,12 @@ tags:
 
 ---
 
-# A Structural Engineering Perspective on Extrusion-Based 3D Concrete Printing:<br/>:aca-blank: From Green to Solid State ([2024-11](date/2024/11))
--------------------------
+#A Structural Engineering Perspective on Extrusion-Based 3D Concrete Printing&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">From Green to Solid State</div>
+<span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Contribution - fib Symposium 2024, pp. 779-789
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - fib Symposium 2024, pp. 779-789
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#engineered`](keyword/engineered)
-    [`#extrusion`](keyword/extrusion)
-    [`#green`](keyword/green)
-    [`#print`](keyword/print)
-    [`#solid`](keyword/solid)
-    [`#state`](keyword/state)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Structural%20Engineering%20Perspective%20on%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -54,17 +38,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete is well known to demonstrate anisotropic mechanical properties due to weak bonding between the successively deposited concrete layers. A recent study noted a 45.6% averaged maximum reduction in mechanical strength together with a 53.8% coefficient of variation. The weak bonding is synonymous with cold joints in conventional construction, which can be attributed to i) fast material hydration due to the use of accelerating admixtures for increased buildability and ii) filament surface water evaporation due to the lack of formwork. From a structural engineering perspective, it is required to consider this orthotropic behaviour in analyses. Anisotropic continuum macro-modelling and multi-surface interface micro-modelling strategies have successfully been employed in literature to accurately capture failure mechanisms. It has furthermore been demonstrated that the Eurocode 2 design equations hold for printed concrete’s structural design, specifically in bending, if the poor shear performance of printed elements with weak interlayers is improved. This is possible through i) novel shear-contributing reinforcement strategies such as nailing, helical screws and rivet reinforcement and ii) by improving the bond strength between layers. The latter has been successfully achieved through i) topologically interlocking layers as a mechanical mechanism and ii) steaming of layer surfaces to replace evaporated water. Although impressive results have been obtained from these interlayer interventions, both in mechanical and durability performance, it remains critical that the fresh state (also called constructability performance) be accounted for. Here, it is in the engineer’s best interest to print vertically as fast as possible in order to reduce the time required to print one layer, whilst also preventing in-print structural collapse. Analytical optimisation models have been successfully employed to this end. This contribution delves into these structural engineering aspects to highlight their importance as part of the structural analysis and design process of 3D printed concrete elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -80,14 +60,42 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../moel_krug_comb.2021.MtILBSo3PCwSM/">Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture</a></li>
-      <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../most_krug.2025.ISaFPoM3PCBTFI/">Improving Shear and Flexural Performance of Macroscale 3D Printed Concrete Beams Through Filament Interlocking</a></li>
       <li><a href="../../../author/munemo_rue"><b>Munemo</b> Rue</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../mune_krug_zijl.2023.IILBi3PCTITH/">Improving Inter-Layer Bond in 3D Printed Concrete Through Induced Thermo-Hydrokinetics</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
       <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{krug_zijl.2024.ASEPoEB3CP,
+      author            = "Jacques Pienaar Kruger and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "A Structural Engineering Perspective on Extrusion-Based 3D Concrete Printing: From Green to Solid State",
+      year              = "2024",
+      pages             = "779--789",
+      booktitle         = "fib Symposium 2024: ReConStruct",
+      editor            = "Rick Henry and Alessandro Palermo",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. P. Kruger  and G. P. A. G. van Zijl, “A Structural Engineering Perspective on Extrusion-Based 3D Concrete Printing: From Green to Solid State”, in <i>fib Symposium 2024: ReConStruct</i>,  2024, pp. 779–789.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kruger, Jacques Pienaar, and Gideon Pieter Adriaan Greeff van Zijl. “A Structural Engineering Perspective on Extrusion-Based 3D Concrete Printing: From Green to Solid State”. In <i>Fib Symposium 2024: ReConStruct</i>, edited by Rick Henry and Alessandro Palermo, 779–89, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

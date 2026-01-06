@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nusrat Mim, Faiz Shaikh, Prabir Sarker
+    - footer
+title: Mim Nusrat, Shaikh Faiz, Sarker Prabir
 description:
 tags:
  - aggregate
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04570) Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates:<br/>:aca-blank: A Review ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04570" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04570</a>
+#Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04570) <a href="https://doi.org/10.1016/j.cscm.2025.e04570" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04570" target="_blank">10.1016/j.cscm.2025.e04570</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5906-2175" title="ORCID: 0000-0001-5906-2175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mim_jahan_nusrat"><b>Mim</b>&nbsp;Nusrat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5234-0619" title="ORCID: 0000-0002-5234-0619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b>&nbsp;Faiz</a></span>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b>&nbsp;Prabir</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04570
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> <a href="https://orcid.org/0000-0001-5906-2175" title="ORCID: 0000-0001-5906-2175" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a> <a href="https://orcid.org/0000-0002-5234-0619" title="ORCID: 0000-0002-5234-0619" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04570
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#alternative`](keyword/alternative)
-    [`#concrete`](keyword/concrete)
-    [`#fine`](keyword/fine)
-    [`#incorporation`](keyword/incorporation)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%203D%20Printed%20Concrete%20Incorporating%20Alternative%20Fine%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001429366&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408857313" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04570" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04570?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the growing emphasis on sustainable construction practices and advancements in 3D printing technology, the integration of by-products into 3D printed concrete (3DPC) has emerged as a significant area of research. While previous studies have examined the use of alternative fine aggregates in 3DPC, there remains a considerable gap in assessing their performance. This review aims to fill that gap by concentrating on the incorporation of alternative materials from four primary sources: industrial by-products (such as used tyres rubber crumb, glass, steel slag, and plastics), mining wastes (including copper, iron, antimony, and bauxite tailings), construction and demolition wastes, and other materials (like seashells and aeoline sand). It investigates how different by-products used as sand substitutes affect the fresh, rheological, mechanical, and microstructural properties of the 3DPC. Furthermore, the review highlights research related to the durability and environmental impact of these modified 3DPC mixes. The findings indicate that certain by-products, such as seashells and recycled aggregates, reduce flowability and extrudability due to their irregular shapes and the formation of air pockets, while copper tailings and recycled glass enhance these properties. The rheological behaviour of the mixtures is influenced by the type of by-products, with recycled plastic increases the viscosity and rubber crumbs improves the binder-particle interactions. The strength characteristics vary; for instance, bauxite tailings and steel slag tend to enhance mechanical performance, whereas recycled plastic decreases the strength. Although data on durability is limited, preliminary results suggest that incorporating by-products can lead to increased porosity but also improved the resistance to carbonation and chloride ion penetration, particularly with materials like bauxite tailings. The review compares the collected experimental data with predictions from various models, indicating the need for more specific design-oriented models to connect the properties of 3DPC using different alternative aggregates. A recommended replacement range for fine aggregates of 20–40 % is suggested to optimize both flowability and strength. This strategy offers substantial sustainability benefits, including reduced waste and conservation of natural resources, positioning it as a promising avenue for sustainable construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "70 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/norval_chris"><b>Norval</b> Chris</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../baba_norv_kola_paul.2024.3PLCCCCIRPW/">3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste:<br/>RESIN8</a></li>
       <li><a href="../../../author/bodur_burak"><b>Bodur</b> Burak</a>, <a href="../../../author/mecit-isik_ahmet_muhammet"><b>Mecit Işık</b> Muhammet</a>, <a href="../../../author/benli_ahmet"><b>Benli</b> Ahmet</a>, <a href="../../../author/bayrak_baris"><b>Bayrak</b> Barış</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodu_meci_benl_bayr.2024.DoGR3PLCCRwMAaMSF/">Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers:<br/>Printability and Environmental Perspective</a></li>
@@ -137,11 +117,40 @@ tags:
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/yerikania_utami"><b>Yerikania</b> Utami</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/poh_hien_leong"><b>Poh</b> Leong</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yeri_du_poh.2025.ACEIoABoHCM3PC/">A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete</a></li>
       <li><a href="../../../author/anop_darya"><b>Anop</b> Darya</a>, <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>, <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../anop_sade_beis_rude.2025.AMaaAtCSiCSA/">Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mim_shai_sark.2025.S3PCIAFA,
+      author            = "Nusrat Jahan Mim and Faiz Uddin Ahmed Shaikh and Prabir Kumar Sarker",
+      title             = "Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates: A Review",
+      doi               = "10.1016/j.cscm.2025.e04570",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04570",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. J. Mim, F. U. A. Shaikh and P. K. Sarker, “Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates: A Review”, <i>Case Studies in Construction Materials</i>, p. e04570, 2025, doi: 10.1016/j.cscm.2025.e04570.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mim, Nusrat Jahan, Faiz Uddin Ahmed Shaikh, and Prabir Kumar Sarker. “Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates: A Review”. <i>Case Studies in Construction Materials</i>, 2025, e04570. https://doi.org/10.1016/j.cscm.2025.e04570.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

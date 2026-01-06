@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdul Salam Mohammad, Joseph Biernacki
+    - footer
+title: Salam Mohammad Abdul, Biernacki Joseph
 description:
 tags:
  - base
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matpr.2023.03.544) 2D Stationary Computational Printing of Cement-Based Pastes with Time-Dependent Rheology ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.matpr.2023.03.544" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.03.544</a>
+#2D Stationary Computational Printing of Cement-Based Pastes with Time-Dependent Rheology ([2023-04](date/2023/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matpr.2023.03.544) <a href="https://doi.org/10.1016/j.matpr.2023.03.544" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.544" target="_blank">10.1016/j.matpr.2023.03.544</a>
 
--------------------------
+<a href="../../../author/salam-mohammad_abdul"><b>Salam Mohammad</b>&nbsp;Abdul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/biernacki_j_joseph"><b>Biernacki</b>&nbsp;Joseph</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/salam-mohammad_abdul"><b>Salam Mohammad</b> Abdul</a>
-,     <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#computer`](keyword/computer)
-    [`#dependency`](keyword/dependency)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#stationary`](keyword/stationary)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/stationary"><button class="btn">#stationary</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=2D%20Stationary%20Computational%20Printing%20of%20Cement-Based%20Pastes%20with%20Time-Dependent%20Rheology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151415261&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4362450148" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.03.544" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.03.544?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing is rapidly emerging as a potentially transformative technology for the construction industry. Many technical hurdles, however, are yet unresolved including the formulation of robust, standardized cement-based printing pastes. To hasten the development of rheologically sound materials for printing, a combined experimental and computational approach has been taken. A new, efficient strategy for computational printing was recently introduced. The new method, 2-D Stationary Computational Printing (2D-SCP), has been shown to map well to experimental print outcomes. Here, the 2D-SCP strategy was extended to include time-dependent rheological effects due to hydration-related structuration. The time-domain rheological properties of cement-based printing pastes were determined from experimentally measured static yield stress values. As a benchmark, a tubular form was used for printed objects. The numerical models were then validated by comparing the polished sections of the printed objects with that produced using the 2D-SCP model. The importance of structural build-up and related rheological changes i.e. static yield stress, on 3D printing of the experimental cement pastes was quantified. The obtained results show high fidelity between 2D-SCP prints and experimental objects. This newly developed computational printing strategy can assist in targeting optimal paste design for 3D printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/carroll_william"><b>Carroll</b> William</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../afar_carr_garb_bier.2021.D3PCMwGFP/">Designing 3D Printable Cementitious Materials with Gel-Forming Polymers</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -85,7 +64,6 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
-      <li><a href="../../../author/salam-mohammad_abdul"><b>Salam Mohammad</b> Abdul</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../sala_bier.2023.2SCPoCBPwTDR/">2D Stationary Computational Printing of Cement-Based Pastes with Time-Dependent Rheology</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../span_silv_comm_moll.2021.NSoML3CP/">Numerical Simulation of Multi-Layer 3D Concrete Printing</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
@@ -96,9 +74,36 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b> Sílvio</a>, <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b> Ester</a>, <a href="../../../author/freitas-daudt_natalia"><b>Freitas Daudt</b> Natália</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP/">Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process</a></li>
-      <li><a href="../../../author/salam-mohammad_abdul"><b>Salam Mohammad</b> Abdul</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../sala_bier.2023.2SCPoCBPwTDR/">2D Stationary Computational Printing of Cement-Based Pastes with Time-Dependent Rheology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sala_bier.2023.2SCPoCBPwTDR,
+      author            = "Abdul Salam Mohammad and Joseph J. Biernacki",
+      title             = "2D Stationary Computational Printing of Cement-Based Pastes with Time-Dependent Rheology",
+      doi               = "10.1016/j.matpr.2023.03.544",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. S. Mohammad  and J. J. Biernacki, “2D Stationary Computational Printing of Cement-Based Pastes with Time-Dependent Rheology”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.03.544.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mohammad, Abdul Salam, and Joseph J. Biernacki. “2D Stationary Computational Printing of Cement-Based Pastes with Time-Dependent Rheology”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.03.544.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Combrinck Riaan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mish_baba_comb.2025.LaRPi3PGC/">Limitations and Research Priorities in 3D-Printed Geopolymer Concrete:<br/>A Perspective Contribution</a></li>
   <li><a href="../../../author/gunzel_s_f"><b>Günzel</b> F.</a>, <a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kanyenze_simon_simba"><b>Kanyenze</b> Simba</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../gunz_moel_kany_krug.2024.IICSMtItCPoEB3CP/">Investigating Inherent Cement Setting Mechanisms to Improve the Constructability Performance of Extrusion-Based 3D Concrete Printing</a></li>
   <li><a href="../../../author/nienaber_linda"><b>Nienaber</b> Linda</a>, <a href="../../../author/kanyenze_simon_simba"><b>Kanyenze</b> Simba</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../nien_kany_comb.2025.WARo3PCUS/">Water Absorption Reduction of 3D Printed Concrete Using Silicones</a></li>

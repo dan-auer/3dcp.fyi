@@ -8,7 +8,7 @@ search:
 
 # #rate
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
   <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../chen_pan_zhu_han.2025.NPMoBRIFCDi3PGC/">Nonlinear Predictive Modeling of Building Rates Incorporating Filament Compression Deformations in 3D Printed Geopolymer Concrete</a></li>
   <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../demo_mesn_caro.2024.SRMUaDPV/">Structuration-Rate-Measurement Using a Digital Pocket Vane</a></li>

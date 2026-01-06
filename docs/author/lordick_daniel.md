@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Lordick Daniel 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ivan_tosi_lord_mech.2024.FPoVCMfTWCSS/">Flow Production of Variable Curved Modules for Thin-Walled Concrete Shell Structures</a></li>
   <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../ivan_tosi_mull_lord.2024.AMoRMoSSBo3PwSHCC/">Automated Manufacturing of Reinforced Modules of Segmented Shells Based on 3D Printing with Strain-Hardening Cementitious Composites</a></li>
   <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ivan_tosi_eich_mull.2022.APoTRCMftAoSS/">Automated Production of Textile Reinforced Concrete Modules for the Assembly of Shell Structures</a></li>

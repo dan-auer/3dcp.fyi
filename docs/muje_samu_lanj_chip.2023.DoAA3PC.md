@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Syed Mujeeb, Manideep Samudrala, Bhagyashri Lanjewar, Ravijanya Chippagiri, Muralidhar Kamath, Rahul Ralegaonkar
+    - footer
+title: Mujeeb Syed, Samudrala Manideep, Lanjewar Bhagyashri, Chippagiri Ravijanya, Kamath Muralidhar, Ralegaonkar Rahul
 description:
 tags:
  - activation
@@ -14,32 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1073/16/10/4181/pdf?version=1684414511) Development of Alkali-Activated 3D Printable Concrete:<br/>:aca-blank: A Review ([2023-05](date/2023/05))
-<a href="https://doi.org/10.3390/en16104181" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/en16104181</a>
+#Development of Alkali-Activated 3D Printable Concrete&nbsp;([2023-05](date/2023/05))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/16/10/4181/pdf?version=1684414511) <a href="https://doi.org/10.3390/en16104181" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en16104181" target="_blank">10.3390/en16104181</a>
 
--------------------------
+<a href="../../../author/mujeeb_syed"><b>Mujeeb</b>&nbsp;Syed</a></span>, <a href="../../../author/samudrala_manideep"><b>Samudrala</b>&nbsp;Manideep</a></span>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b>&nbsp;Bhagyashri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1698-8282" title="ORCID: 0000-0002-1698-8282" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b>&nbsp;Ravijanya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9037-4887" title="ORCID: 0000-0002-9037-4887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamath_muralidhar"><b>Kamath</b>&nbsp;Muralidhar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3538-533X" title="ORCID: 0000-0002-3538-533X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ralegaonkar_v_rahul"><b>Ralegaonkar</b>&nbsp;Rahul</a></span><br>
+Journal Article - Energies, Vol. 16, Iss. 10, No. 4181
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>
-,     <a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>
-,     <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>
-,     <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> <a href="https://orcid.org/0000-0002-1698-8282" title="ORCID: 0000-0002-1698-8282" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kamath_muralidhar"><b>Kamath</b> Muralidhar</a> <a href="https://orcid.org/0000-0002-9037-4887" title="ORCID: 0000-0002-9037-4887" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ralegaonkar_v_rahul"><b>Ralegaonkar</b> Rahul</a> <a href="https://orcid.org/0000-0002-3538-533X" title="ORCID: 0000-0002-3538-533X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energies, Vol. 16, Iss. 10, No. 4181
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Alkali-Activated%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160607248&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4377107761" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/en16104181" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/en16104181?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction world has changed day by day and is becoming more digitalized by introducing new technologies. Three-dimensional concrete printing (3DCP) is one such technology that has automated building process along with several benefits such as reduced material waste, reduced human hazard, and time savings. Traditionally, this technique utilizes cement to construct numerous structures, resulting in a significant carbon footprint and negative environmental impact. There is a need to find alternate solutions to reduce cement consumption. Alkali activation technology has replaced cement completely. The scope of development of alkali-activated 3D printable concrete utilizing agro-industrial byproducts is presented in this study. A review of the fresh and hardened properties of alkali-activated 3D printable concrete was the primary objective. The change in properties of 3D concrete mixes with the variation of additives that influence the ultimate strength parameters is presented. This study explores the curing conditions and in-depth behavior of uses of 3DCP in the construction industry. The environmental benefits over conventional concreting technology are presented. As per previous studies, the optimum mix composition per cubic meter concrete is 600–700 kg/m3 of binder content, 450 kg/m3 of alkali activator solution, and 600–800 kg/m3 of fine aggregate content. This study contributes to the making of 3D printable alkali-activated concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
@@ -108,8 +87,9 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/kamath_muralidhar"><b>Kamath</b> Muralidhar</a>, <a href="../../../author/ralegaonkar_v_rahul"><b>Ralegaonkar</b> Rahul</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chip_lanj_kama_rale.2025.PoCMfCaAA3CP/">Prediction of Construction Materials for Conventional and Alkali-Activated 3D Concrete Printing</a></li>
@@ -119,4 +99,35 @@ tags:
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{muje_samu_lanj_chip.2023.DoAA3PC,
+      author            = "Syed Mujeeb and Manideep Samudrala and Bhagyashri A. Lanjewar and Ravijanya Chippagiri and Muralidhar Kamath and Rahul V. Ralegaonkar",
+      title             = "Development of Alkali-Activated 3D Printable Concrete: A Review",
+      doi               = "10.3390/en16104181",
+      year              = "2023",
+      journal           = "Energies",
+      volume            = "16",
+      number            = "10",
+      pages             = "4181",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Mujeeb, M. Samudrala, B. A. Lanjewar, R. Chippagiri, M. Kamath and R. V. Ralegaonkar, “Development of Alkali-Activated 3D Printable Concrete: A Review”, <i>Energies</i>, vol. 16, no. 10, p. 4181, 2023, doi: 10.3390/en16104181.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mujeeb, Syed, Manideep Samudrala, Bhagyashri A. Lanjewar, Ravijanya Chippagiri, Muralidhar Kamath, and Rahul V. Ralegaonkar. “Development of Alkali-Activated 3D Printable Concrete: A Review”. <i>Energies</i> 16, no. 10 (2023): 4181. https://doi.org/10.3390/en16104181.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

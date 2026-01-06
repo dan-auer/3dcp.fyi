@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Julian Christ, Arnaud Perrot, Lisbeth Ottosen, Holger Koss
+    - footer
+title: Christ Julian, Perrot Arnaud, Ottosen Lisbeth, Koss Holger
 description:
 tags:
  - bound
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.134337" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.134337</a>
+#Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.134337" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134337" target="_blank">10.1016/j.conbuildmat.2023.134337</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1945-4438" title="ORCID: 0000-0002-1945-4438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/christ_julian"><b>Christ</b>&nbsp;Julian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7756-382X" title="ORCID: 0000-0001-7756-382X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ottosen_m_lisbeth"><b>Ottosen</b>&nbsp;Lisbeth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0274-4340" title="ORCID: 0000-0002-0274-4340" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koss_holger"><b>Koss</b>&nbsp;Holger</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 411, No. 134337
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/christ_julian"><b>Christ</b> Julian</a> <a href="https://orcid.org/0000-0002-1945-4438" title="ORCID: 0000-0002-1945-4438" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ottosen_m_lisbeth"><b>Ottosen</b> Lisbeth</a> <a href="https://orcid.org/0000-0001-7756-382X" title="ORCID: 0000-0001-7756-382X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="https://orcid.org/0000-0002-0274-4340" title="ORCID: 0000-0002-0274-4340" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 411, No. 134337
-
-:aca-blank:{ .lg .middle}
-    [`#bound`](keyword/bound)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#sensitivity`](keyword/sensitivity)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/bound"><button class="btn">#bound</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sensitivity"><button class="btn">#sensitivity</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Characterization%20of%20Temperature-Sensitive%20Biopolymer-Bound%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179628610&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,19 +37,14 @@ tags:
 <a href="https://inciteful.xyz/p/W4389609012" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.134337" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.134337?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing materials with advanced rheological properties are being developed to realize more structurally optimized and sustainable structures. However, traditional mixtures use large shares of cementitious materials presenting reduced sustainability. In this paper, thermo-reversible mammal gelatin and κ-carrageenan are explored as alternative binders for temperature-controlled concrete printing. Rheological properties were found suitable at solution concentrations of 80–120%-w/v mammal gelatin in a 40%-w/w biopolymer-aggregate composite and 3%-w/v κ-carrageenan in a 50%-w/w composite at temperatures of, respectively, 50 °C and 65 °C. The corresponding yield stress increases from 0.1 to 107kPa under cooling to 20 °C demonstrated good buildability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/ottosen_m_lisbeth"><b>Ottosen</b> Lisbeth</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../chri_perr_otto_koss.2024.RCoTSBB3PC/">Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../jacq_pica_rang_perr.2020.GIFtCRPoPCBM/">Gravity-Induced Flow to Characterize Rheological Properties of Printable Cement-Based Materials</a></li>
@@ -94,8 +72,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jaji_baba_zijl.2025.MPoEBTP3PGC/">Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>A Review of Advances in Laboratory and Real-Scale Construction Projects</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq_amzi.2025.3CP/">3D Concrete Printing</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_lin_wan_li.2024.MAIoCPbHASMBotTDCoCM/">Manufacturing Accuracy Improvement of Concrete Product by Hybrid Additive-Subtractive Method Based on the Time-Dependent Characteristics of Cementitious Materials</a></li>
@@ -103,8 +81,35 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../perr_jacq_caro_mesn.2024.So3PwABaM/">Snapshot on 3D Printing with Alternative Binders and Materials:<br/>Earth, Geopolymers, Gypsum and Low-Carbon Concrete</a></li>
       <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/zhao_diandian"><b>Zhao</b> Diandian</a>, <a href="../../../author/choksi_harsh_pooja"><b>Choksi</b> Pooja</a>, <a href="../../../author/garmonina_maria"><b>Garmonina</b> Maria</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../maie_zhao_chok_garm.2024.R3PaPIoXGCBfEC/">Rheology, 3D Printing, and Particle-Interactions of Xanthan-Gum-Clay Binder for Earth Concrete</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zhan_ren_dai_tao.2024.APARCAf3PCBM/">A Potential Active Rheology-Control Approach for 3D Printable Cement-Based Materials:<br/>Coupling of Temperature and Viscosity-Modifiers</a></li>
-      <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/ottosen_m_lisbeth"><b>Ottosen</b> Lisbeth</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../chri_perr_otto_koss.2024.RCoTSBB3PC/">Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete</a></li>
-      <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/leusnik_sander"><b>Leusnik</b> Sander</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chri_leus_koss.2023.MA3PoBBCCiC/">Multi-Axial 3D Printing of Biopolymer-Based Concrete Composites in Construction</a></li>
-      <li><a href="../../../author/rech_arianna"><b>Rech</b> Arianna</a>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b> Ruxandra-Stefania</a>, <a href="../../../author/colmo_claudia"><b>Colmo</b> Claudia</a>, <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../rech_chiu_colm_ross.2022.WBBSf3PTCE/">Waste-Based Biopolymer-Slurry for 3D Printing Targeting Construction Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chri_perr_otto_koss.2024.RCoTSBB3PC,
+      author            = "Julian Christ and Arnaud Perrot and Lisbeth M. Ottosen and Holger Koss",
+      title             = "Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete",
+      doi               = "10.1016/j.conbuildmat.2023.134337",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "411",
+      pages             = "134337",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Christ, A. Perrot, L. M. Ottosen and H. Koss, “Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete”, <i>Construction and Building Materials</i>, vol. 411, p. 134337, 2024, doi: 10.1016/j.conbuildmat.2023.134337.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Christ, Julian, Arnaud Perrot, Lisbeth M. Ottosen, and Holger Koss. “Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete”. <i>Construction and Building Materials</i> 411 (2024): 134337. https://doi.org/10.1016/j.conbuildmat.2023.134337.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

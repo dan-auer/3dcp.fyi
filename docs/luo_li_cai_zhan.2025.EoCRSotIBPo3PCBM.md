@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Surong Luo, Wenqiang Li, Yili Cai, Kaijian Zhang
+    - footer
+title: Luo Surong, Li Wenqiang, Cai Yili, Zhang Kaijian
 description:
 tags:
  - base
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Carbonated Recycled Sand on the Interfacial Bonding Performance of 3D Printed Cement-Based Material ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.jobe.2024.111551" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111551</a>
+#Effects of Carbonated Recycled Sand on the Interfacial Bonding Performance of 3D Printed Cement-Based Material ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111551" target="_blank">10.1016/j.jobe.2024.111551</a>
 
--------------------------
+<a href="../../../author/luo_surong"><b>Luo</b>&nbsp;Surong</a></span>, <a href="../../../author/li_wenqiang"><b>Li</b>&nbsp;Wenqiang</a></span>, <a href="../../../author/cai_yili"><b>Cai</b>&nbsp;Yili</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6146-9561" title="ORCID: 0000-0002-6146-9561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_kaijian"><b>Zhang</b>&nbsp;Kaijian</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 99, No. 111551
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/luo_surong"><b>Luo</b> Surong</a>
-,     <a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a>
-,     <a href="../../../author/cai_yili"><b>Cai</b> Yili</a>
-,     <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="https://orcid.org/0000-0002-6146-9561" title="ORCID: 0000-0002-6146-9561" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 99, No. 111551
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#bond`](keyword/bond)
-    [`#carbonation`](keyword/carbonation)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#interface`](keyword/interface)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Carbonated%20Recycled%20Sand%20on%20the%20Interfacial%20Bonding%20Performance%20of%203D%20Printed%20Cement-Based%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211966309&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405182606" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111551" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111551?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The layer-by-layer stacking process of 3D Printing Construction Technology (3DPCT) inevitably leads to weak bonding areas between the interlayer interfaces and the interstrip interfaces, which affect the mechanical properties of the printed structure. The effects of different carbonation time of recycled sand on the mechanical properties and interfacial bonding performance of 3D printed cement-based material with a 100 % replacement rate of carbonated recycled sand (3DPCRS) were explored. Although, the carbonation time of recycled sand affected the mechanical anisotropy of the printed specimens, the carbonation treatment of recycled sand cannot eliminate the mechanical anisotropy of 3D printed specimens. With the extension of the carbonation time of recycled sand, the interfacial bonding performance was gradually improved. At 28 days, the interlayer shear strength and interstrip shear strength of T7 group increased by 21.5 % and 18.7 %, respectively. After the carbonation of recycled sand, the indentation modulus of the interlayer interface was increased with the decrease of interface width and porosity, which improved the pore structure and the mechanical properties of the printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
@@ -118,11 +93,41 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abed_wari_alaw_jabr.2025.TLC3PI/">Transformative Low-Carbon 3D-Printed Infrastructure:<br/>Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites</a></li>
       <li><a href="../../../author/wang_suguo"><b>Wang</b> Suguo</a>, <a href="../../../author/wang_xing"><b>Wang</b> Xing</a>, <a href="../../../author/yan_xueyuan"><b>Yan</b> Xueyuan</a>, <a href="../../../author/chen_shanghong"><b>Chen</b> Shanghong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_wang_yan_chen.2025.EoASaNDoPaMPo3PFSGC/">Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/adhikari_sondipon"><b>Adhikari</b> Sondipon</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../jian_gao_adhi_yao.2024.SotMPoILI3PCBoaNN/">Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{luo_li_cai_zhan.2025.EoCRSotIBPo3PCBM,
+      author            = "Surong Luo and Wenqiang Li and Yili Cai and Kaijian Zhang",
+      title             = "Effects of Carbonated Recycled Sand on the Interfacial Bonding Performance of 3D Printed Cement-Based Material",
+      doi               = "10.1016/j.jobe.2024.111551",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      volume            = "99",
+      pages             = "111551",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Luo, W. Li, Y. Cai and K. Zhang, “Effects of Carbonated Recycled Sand on the Interfacial Bonding Performance of 3D Printed Cement-Based Material”, <i>Journal of Building Engineering</i>, vol. 99, p. 111551, 2025, doi: 10.1016/j.jobe.2024.111551.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Luo, Surong, Wenqiang Li, Yili Cai, and Kaijian Zhang. “Effects of Carbonated Recycled Sand on the Interfacial Bonding Performance of 3D Printed Cement-Based Material”. <i>Journal of Building Engineering</i> 99 (2025): 111551. https://doi.org/10.1016/j.jobe.2024.111551.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

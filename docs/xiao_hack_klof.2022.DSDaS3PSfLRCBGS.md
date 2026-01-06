@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yinan Xiao, Norman Hack, Harald Kloft
+    - footer
+title: Xiao Yinan, Hack Norman, Kloft Harald
 description:
 tags:
  - beam
@@ -18,31 +19,11 @@ tags:
 
 ---
 
-# Digital Structural Design and Shotcrete 3D Printing-Strategies for Lightweight Reinforced Concrete Beam-Grid Structures ([2022-06](date/2022/06))
--------------------------
+#Digital Structural Design and Shotcrete 3D Printing-Strategies for Lightweight Reinforced Concrete Beam-Grid Structures ([2022-06](date/2022/06))
+<span class="author"><a href="https://orcid.org/0009-0008-4606-5201" title="ORCID: 0009-0008-4606-5201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_yinan"><b>Xiao</b>&nbsp;Yinan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
+Contribution - Proceedings of the 6th fib International Congress
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a> <a href="https://orcid.org/0009-0008-4606-5201" title="ORCID: 0009-0008-4606-5201" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 6th fib International Congress, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#light`](keyword/light)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shotcrete`](keyword/shotcrete)
-    [`#strategy`](keyword/strategy)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Structural%20Design%20and%20Shotcrete%203D%20Printing-Strategies%20for%20Lightweight%20Reinforced%20Concrete%20Beam-Grid%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -57,17 +38,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The objective of this article is to present a novel design and fabrication strategy for a particular concrete construction system that reduces mass and increases geometric flexibility. The system can be applied for mid-scale buildings with classic Dom-Ino concrete skeletons. As one of the most used construction materials, concrete has excellent properties for not only load-bearing but also generating almost any complicated geometry. However, the normal construction method usually results in a high CO2 emission which is mainly caused by the large amount of formwork. In order to decrease the formworks, simple geometries are mostly fabricated in conventical construction, such as slabs that contain numerous structurally unnecessary materials. To improve these issues, a parametric design method is described, focusing on efficiently placing the concrete where it is structurally required. For the fabrication part, an innovative technology called Shotcrete Three-dimensional Printing (SC3DP) is introduced subsequently to avoid any formwork during the construction and reduce the manpower to a maximum limit. For fast and precise fabrication, the modular elements are printed flat on the ground. After that, corresponding subtractive post-processing strategies of concrete in the green state were developed for connecting the modular building components into a whole structure. The whole design and fabrication methodology was recently developed and applied by one group of students from ITE at TU-Braunschweig for a digital concrete fabrication competition, as a verification large-scale demonstration. Finally, an outlook based on current results is provided for future research extension, which will lead this strategy into a more precise and on-site process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hack_lind_klof.2019.AMSSfS3P/">Adaptive Modular Spatial Structures for Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
@@ -75,7 +52,35 @@ tags:
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
       <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/shammas_demetris"><b>Shammas</b> Demetris</a> et al. <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../meib_jipa_gies_sham.2018.SS/">Smart Slab:<br/>Computational Design and Digital Fabrication of a Lightweight Concrete Slab</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{xiao_hack_klof.2022.DSDaS3PSfLRCBGS,
+      author            = "Yinan Xiao and Norman Peter Hack and Harald Kloft",
+      title             = "Digital Structural Design and Shotcrete 3D Printing-Strategies for Lightweight Reinforced Concrete Beam-Grid Structures",
+      year              = "2022",
+      booktitle         = "Proceedings of the 6th fib International Congress: Concrete Innovation for Sustainability",
+      editor            = "fédération internationale du béton",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Xiao, N. P. Hack and H. Kloft, “Digital Structural Design and Shotcrete 3D Printing-Strategies for Lightweight Reinforced Concrete Beam-Grid Structures”, in <i>Proceedings of the 6th fib International Congress: Concrete Innovation for Sustainability</i>,  2022.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xiao, Yinan, Norman Peter Hack, and Harald Kloft. “Digital Structural Design and Shotcrete 3D Printing-Strategies for Lightweight Reinforced Concrete Beam-Grid Structures”. In <i>Proceedings of the 6th Fib International Congress: Concrete Innovation for Sustainability</i>, edited by fédération internationale du béton, 2022.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

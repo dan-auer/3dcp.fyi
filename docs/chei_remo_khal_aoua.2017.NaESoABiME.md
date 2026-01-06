@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Khadija Cheikh, Sébastien Rémond, Noura Khalil, Georges Aouad
+    - footer
+title: Cheikh Khadija, Rémond Sébastien, Khalil Noura, Aouad Georges
 description:
 tags:
  - aggregate
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion ([2017-04](date/2017/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2017.04.032" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2017.04.032</a>
+#Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion ([2017-04](date/2017/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2017.04.032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.04.032" target="_blank">10.1016/j.conbuildmat.2017.04.032</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheikh_khadija"><b>el&nbsp;Cheikh</b>&nbsp;Khadija</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <a href="../../../author/khalil_noura"><b>Khalil</b>&nbsp;Noura</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aouad_georges"><b>Aouad</b>&nbsp;Georges</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 145, pp. 452-463
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cheikh_khadija"><b>el Cheikh</b> Khadija</a> <a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>
-,     <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 145, pp. 452-463
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#block`](keyword/block)
-    [`#experiment`](keyword/experiment)
-    [`#extrusion`](keyword/extrusion)
-    [`#mortar`](keyword/mortar)
-    [`#numeric`](keyword/numeric)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20and%20Experimental%20Studies%20of%20Aggregate-Blocking%20in%20Mortar-Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85017452959&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,28 +36,25 @@ tags:
 <a href="https://inciteful.xyz/p/W2605594428" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2017.04.032" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2017.04.032?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Numerical and experimental study of aggregate blocking in extrusion of mortar is presented. The studied system consists of a pipe with a nozzle at the tip. Fresh mortar is modeled by composite particles consisting of hard-core representing a sand particle surrounded by soft-shell layer representing interstitial cement paste. For the experimental study, two kinds of mortars are studied. The first kind is a mortar composed of monosized glass beads. This mortar is used for comparison with numerical results. The second kind of mortar is more realistic, polydispersed particles are used by replacing glass beads by standard sand. The effects of the dimension of the bottom nozzle opening, the rheological properties of the cement paste and the paste volume proportion on the blocking of mortar are studied both experimentally and numerically. For mortars composed of monosized beads, experiments and simulations both show that the main parameter governing aggregate blocking is the ratio ‘a’ between the bottom opening diameter of the nozzle and the beads diameter. Rheological properties of the paste and paste volume proportion are less influential. Experimental results obtained on both kinds of mortar confirm the limit ratio ‘a’ identified numerically in all the cases, except for the lower cement paste volume proportion (0.54 in our study) for which ‘a’ has to be slightly increased to avoid blocking
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>, <a href="../../../author/estelle_patrice"><b>Estellé</b> Patrice</a>, <a href="../../../author/lanos_christophe"><b>Lanos</b> Christophe</a> <a href="../../../date/2009/04">(2009-04)</a><br><a href="../../../perr_meli_este_lano.2009.VE/">Vibro-Extrusion:<br/>A New Forming Process for Cement-Based Materials</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/micaelli_francesca"><b>Micaelli</b> Francesca</a> et al. <a href="../../../date/2012/06">(2012-06)</a><br><a href="../../../perr_meli_rang_mica.2012.UoREaaCRTtStBoHYSFaLSR/">Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "60 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/assi_n_lateef"><b>Assi</b> Lateef</a>, <a href="../../../author/alsalman_ali"><b>Alsalman</b> Ali</a>, <a href="../../../author/kareem_s_rahman"><b>Kareem</b> Rahman</a>, <a href="../../../author/carter_kealy"><b>Carter</b> Kealy</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../assi_alsa_kare_cart.2025.AaCo3GBCiC/">Advantages and Challenges of 3D Geopolymer-Based Concrete in Construction</a></li>
       <li><a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/shi_a"><b>Shi</b> A.</a>, <a href="../../../author/kajandran_v"><b>Kajandran</b> V.</a>, <a href="../../../author/lam_w-m_t"><b>Lam</b> T.</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kua_shi_kaja_lam.2025.TSC3P/">Toward Sustainable Construction 3D Printing:<br/>Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement</a></li>
@@ -133,4 +114,34 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chei_remo_khal_aoua.2017.NaESoABiME,
+      author            = "Khadija El Cheikh and Sébastien Rémond and Noura Khalil and Georges Aouad",
+      title             = "Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion",
+      doi               = "10.1016/j.conbuildmat.2017.04.032",
+      year              = "2017",
+      journal           = "Construction and Building Materials",
+      volume            = "145",
+      pages             = "452--463",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. E. Cheikh, S. Rémond, N. Khalil and G. Aouad, “Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion”, <i>Construction and Building Materials</i>, vol. 145, pp. 452–463, 2017, doi: 10.1016/j.conbuildmat.2017.04.032.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cheikh, Khadija El, Sébastien Rémond, Noura Khalil, and Georges Aouad. “Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion”. <i>Construction and Building Materials</i> 145 (2017): 452–63. https://doi.org/10.1016/j.conbuildmat.2017.04.032.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arash Pour, Ehsan Farsangi, T. Yang, Shaofan Li, Aso Hajirasouli, Amir Shirkhani
+    - footer
+title: Pour Arash, Farsangi Ehsan, Yang T., Li Shaofan, Hajirasouli Aso, Shirkhani Amir
 description:
 tags:
  - advance
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing of Conventional and Geopolymer Concretes:<br/>:aca-blank: Advancements, Challenges, Future Directions, and Cost Analysis ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1061/jsdccc.sceng-1636" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jsdccc.sceng-1636</a>
+#3D Printing of Conventional and Geopolymer Concretes&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Advancements, Challenges, Future Directions, and Cost Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jsdccc.sceng-1636" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsdccc.sceng-1636" target="_blank">10.1061/jsdccc.sceng-1636</a>
 
--------------------------
+<a href="../../../author/pour_k_arash"><b>Pour</b>&nbsp;Arash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2790-526X" title="ORCID: 0000-0002-2790-526X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/farsangi_noroozinejad_ehsan"><b>Farsangi</b>&nbsp;Ehsan</a></span>, <a href="../../../author/yang_y_t"><b>Yang</b>&nbsp;T.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6950-1474" title="ORCID: 0000-0002-6950-1474" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shaofan"><b>Li</b>&nbsp;Shaofan</a></span>, <a href="../../../author/hajirasouli_aso"><b>Hajirasouli</b>&nbsp;Aso</a></span>, <a href="../../../author/shirkhani_amir"><b>Shirkhani</b>&nbsp;Amir</a></span><br>
+Journal Article - Journal of Structural Design and Construction Practice, Vol. 30, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pour_k_arash"><b>Pour</b> Arash</a>
-,     <a href="../../../author/farsangi_noroozinejad_ehsan"><b>Farsangi</b> Ehsan</a> <a href="https://orcid.org/0000-0002-2790-526X" title="ORCID: 0000-0002-2790-526X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_y_t"><b>Yang</b> T.</a>
-,     <a href="../../../author/li_shaofan"><b>Li</b> Shaofan</a> <a href="https://orcid.org/0000-0002-6950-1474" title="ORCID: 0000-0002-6950-1474" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hajirasouli_aso"><b>Hajirasouli</b> Aso</a>
-,     <a href="../../../author/shirkhani_amir"><b>Shirkhani</b> Amir</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Structural Design and Construction Practice, Vol. 30, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#analysis`](keyword/analysis)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#conventional`](keyword/conventional)
-    [`#cost`](keyword/cost)
-    [`#direction`](keyword/direction)
-    [`#future`](keyword/future)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Conventional%20and%20Geopolymer%20Concretes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011364169&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411465316" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jsdccc.sceng-1636" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jsdccc.sceng-1636?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing (3DP) concrete is revolutionizing the construction industry by significantly speeding up the building process, reducing labor costs, and minimizing material waste. This technology allows for the creation of complex and innovative architectural designs that are difficult to achieve with traditional methods. Additionally, it promotes sustainability by using eco-friendly materials and reducing the carbon footprint of construction projects. Therefore, 3DP concrete (3DP) can be a suitable solution for implementing special and complex design structures, and mass customization with the lowest cost, especially in labor cost reduction and the amount of waste materials. Considering the importance of using 3DP concrete and its increasing development, identifying all the positive and negative aspects of this technology will help researchers cover disadvantages by identifying the weak points and contribute to the development of this science. Therefore, in this paper, a comprehensive analysis of the primary 3DP procedures and their development in construction technology is performed. Additionally, two types of 3DP concrete technologies are studied in this paper ordinary portland cement-based concrete (OPCBC) and geopolymer-based concrete (GBC). In addition, the growth of material manufacturing and the pros and cons of using various cementitious materials in 3DP concrete are explored. The study also covers different 3DP concrete manufacturing methods and examines key properties such as environmental impact, compressive, tensile, and flexural strengths, density, porosity, elastic modulus, heat resistance, and creep. A comparison of the properties and benefits of OPCBC and GBC 3DP concrete is provided, followed by a cost analysis to assess the advantages of 3D-printed concrete construction. The results reveal that the 3DP process and material selection significantly impact pore development. Techniques that use layered materials, such as contour carving and fused deposition modeling (FDM), often exhibit a high prevalence of pores, which diminishes the mechanical properties of the concrete. These findings offer crucial insights for scholars and decision-makers by illuminating the latest advancements and gaps in the field. This deeper understanding helps refine research priorities, informs policy-making, and can direct resources more effectively. By grasping the current state of knowledge, stakeholders are better equipped to address challenges, capitalize on emerging opportunities, and drive innovation in the relevant domain.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "59 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
@@ -133,7 +108,37 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pour_fars_yang_li.2025.3PoCaGC,
+      author            = "Arash K. Pour and Ehsan Noroozinejad Farsangi and T. Y. Yang and Shaofan Li and Aso Hajirasouli and Amir Shirkhani",
+      title             = "3D Printing of Conventional and Geopolymer Concretes: Advancements, Challenges, Future Directions, and Cost Analysis",
+      doi               = "10.1061/jsdccc.sceng-1636",
+      year              = "2025",
+      journal           = "Journal of Structural Design and Construction Practice",
+      volume            = "30",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. K. Pour, E. N. Farsangi, T. Y. Yang, S. Li, A. Hajirasouli and A. Shirkhani, “3D Printing of Conventional and Geopolymer Concretes: Advancements, Challenges, Future Directions, and Cost Analysis”, <i>Journal of Structural Design and Construction Practice</i>, vol. 30, no. 4, 2025, doi: 10.1061/jsdccc.sceng-1636.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pour, Arash K., Ehsan Noroozinejad Farsangi, T. Y. Yang, Shaofan Li, Aso Hajirasouli, and Amir Shirkhani. “3D Printing of Conventional and Geopolymer Concretes: Advancements, Challenges, Future Directions, and Cost Analysis”. <i>Journal of Structural Design and Construction Practice</i> 30, no. 4 (2025). https://doi.org/10.1061/jsdccc.sceng-1636.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

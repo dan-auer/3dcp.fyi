@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenxin Lao, Mingyang Li, Lorenzo Masia, Ming Tan
+    - footer
+title: Lao Wenxin, Li Mingyang, Masia Lorenzo, Tan Ming
 description:
 tags:
  - approach
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10220/44502/1/ApproachingRectangularExtrudatein3DPrintingf.pdf) Approaching Rectangular Extrudate in 3D Printing for Building and Construction by Experimental Iteration of Nozzle Design ([2017-08](date/2017/08))
-<a href="https://doi.org/10.32656/sff.2017.208" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.32656/sff.2017.208</a>
+#Approaching Rectangular Extrudate in 3D Printing for Building and Construction by Experimental Iteration of Nozzle Design ([2017-08](date/2017/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10220/44502/1/ApproachingRectangularExtrudatein3DPrintingf.pdf) <a href="https://doi.org/10.32656/sff.2017.208" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32656/sff.2017.208" target="_blank">10.32656/sff.2017.208</a>
 
--------------------------
+<a href="../../../author/lao_wenxin"><b>Lao</b>&nbsp;Wenxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <a href="../../../author/masia_lorenzo"><b>Masia</b>&nbsp;Lorenzo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Contribution - Proceedings of the 2017 Annual International Solid Freeform Fabrication Symposium, pp. 2612-2623
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/masia_lorenzo"><b>Masia</b> Lorenzo</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2017 Annual International Solid Freeform Fabrication Symposium, pp. 2612-2623
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#experiment`](keyword/experiment)
-    [`#extrusion`](keyword/extrusion)
-    [`#iteration`](keyword/iteration)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/iteration"><button class="btn">#iteration</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Approaching%20Rectangular%20Extrudate%20in%203D%20Printing%20for%20Building%20and%20Construction%20by%20Experimental%20Iteration%20of%20Nozzle%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,22 +39,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2790555642" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.32656/sff.2017.208" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.32656/sff.2017.208?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In Extrusion based 3D Printing technology, the voids could be reduced and the surface finish of printed parts could be improved with extrudate shape optimization. For large-scale 3D Printing technology like 3D Printing for Building and Construction, reducing printed layer height would increase the fabrication time drastically, while having few effect on voids reduction and surface finish improvement. In this paper, an iterative experimental approach to achieve the optimized nozzle design for rectangular shaped extrudate was proposed. Two nozzle prototypes were manufactured by Fused Deposition Method and implemented for experimental tests, then a new nozzle design was created based on the experimental extrudate shapes. This process iterated until a good rectangular extrudate shape was obtained. Printing tests were conducted with the optimized nozzle, which showed the designed nozzle could help to eliminate the voids among the printed parts and guarantee good surface finish without losing the speed of printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../maro_hage_mroz_sita.2025.AoMPo3PM/">Anisotropy of Mechanical Properties of 3D-Printed Materials:<br/>Influence of Application Time of Subsequent Layers</a></li>
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../oulk_akhr_jai.2024.3CPS/">3D Concrete Printing Success:<br/>An Exhaustive Diagnosis and Failure-Modes-Analysis</a></li>
       <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a></li>
@@ -90,4 +67,35 @@ tags:
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../lu_li_lao_weng.2018.EIoPPoMDi3SCMPP/">Experimental Investigation of Printing Parameters on Material-Distribution in 3D Spray Cementitious Material Printing Process</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../lu_li_lao_weng.2018.EoSBPPoCMD/">Effect of Spray-Based Printing Parameters on Cementitious Material-Distribution</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lao_li_masi_tan.2017.AREi3PfBaCbEIoND,
+      author            = "Wenxin Lao and Mingyang Li and Lorenzo Masia and Ming Jen Tan",
+      title             = "Approaching Rectangular Extrudate in 3D Printing for Building and Construction by Experimental Iteration of Nozzle Design",
+      doi               = "10.32656/sff.2017.208",
+      year              = "2017",
+      volume            = "28",
+      pages             = "2612--2623",
+      booktitle         = "Proceedings of the 2017 Annual International Solid Freeform Fabrication Symposium: An Additive Manufacturing Conference",
+      editor            = "David L. Bourell and Joseph J. Beaman and Richard H. Crawford and Scott Fish and Carolyn Seepersad",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Lao, M. Li, L. Masia and M. J. Tan, “Approaching Rectangular Extrudate in 3D Printing for Building and Construction by Experimental Iteration of Nozzle Design”, in <i>Proceedings of the 2017 Annual International Solid Freeform Fabrication Symposium: An Additive Manufacturing Conference</i>,  2017, vol. 28, pp. 2612–2623. doi: 10.32656/sff.2017.208.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lao, Wenxin, Mingyang Li, Lorenzo Masia, and Ming Jen Tan. “Approaching Rectangular Extrudate in 3D Printing for Building and Construction by Experimental Iteration of Nozzle Design”. In <i>Proceedings of the 2017 Annual International Solid Freeform Fabrication Symposium: An Additive Manufacturing Conference</i>, edited by David L. Bourell, Joseph J. Beaman, Richard H. Crawford, Scott Fish, and Carolyn Seepersad, 28:2612–23, 2017. https://doi.org/10.32656/sff.2017.208.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

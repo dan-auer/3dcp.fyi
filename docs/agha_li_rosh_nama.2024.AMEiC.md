@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kamran Aghaee, Linfei Li, Alireza Roshan, Parsa Namakiaraghi
+    - footer
+title: Aghaee Kamran, Li Linfei, Roshan Alireza, Namakiaraghi Parsa
 description:
 tags:
  - additive
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing Evolution in Construction:<br/>:aca-blank: From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.jobe.2024.110389" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110389</a>
+#Additive Manufacturing Evolution in Construction&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110389" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110389" target="_blank">10.1016/j.jobe.2024.110389</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6715-7246" title="ORCID: 0000-0001-6715-7246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aghaee_kamran"><b>Aghaee</b>&nbsp;Kamran</a></span>, <a href="../../../author/li_linfei"><b>Li</b>&nbsp;Linfei</a></span>, <a href="../../../author/roshan_alireza"><b>Roshan</b>&nbsp;Alireza</a></span>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b>&nbsp;Parsa</a></span><br>
+Journal Article - Journal of Building Engineering, No. 110389
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a> <a href="https://orcid.org/0000-0001-6715-7246" title="ORCID: 0000-0001-6715-7246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>
-,     <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>
-,     <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 110389
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#aerial`](keyword/aerial)
-    [`#application`](keyword/application)
-    [`#collection`](keyword/collection)
-    [`#construction`](keyword/construction)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#individuality`](keyword/individuality)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aerial"><button class="btn">#aerial</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/collection"><button class="btn">#collection</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/individuality"><button class="btn">#individuality</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Evolution%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201085127&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401478057" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110389" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110389?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The third industrial revolution is marked by the fast-growing evolution of Additive Manufacturing (AM) in construction. This transformative shift is driving the automation of construction processes to bestow economic, sustainable, and functional habitats on earth and space. AM has enabled innovative manipulation and design of materials, architectures, and structures in the construction industry. The feasibility of using a diverse range of both original and recycled materials, freeform architecture, topology optimization and bio-inspired design, manufacturing precision, minimal production time and labor, has effectively advanced the objectives. This has resulted in a substantial reduction in costs while simultaneously enhancing safety, sustainability, and functionality of AM in construction. To fulfill the automation in construction objectives, AM trajectory is advancing from off-site toward on-site construction by upscaling, collective robotic work, remote, aerial, and lunar construction. Despite design challenges related to factors like reinforcement, bonding at layer interfaces, rheology adjustment, and cracking resistance, along with practical considerations including cost, harmonized/synchronized robotic function, drone stability, and precision in deposition, AM is making remarkable advancements that surpass expectations. Looking forward, bee-sized drones may be witnessed swarming to construct structures in diverse environments, including remote areas on Earth and in space. Given these developments, this study reviews the advancement of AM in the construction industry, tracing its evolution from individual terrestrial to collective, aerial and extraterrestrial construction. In addition, the most suitable AM techniques encompassing bio-inspired technology and topology optimization are elaborated. Preferred materials and their characteristics for terrestrial, aerial, and extraterrestrial construction, as well as pavement repair are discussed. Furthermore, appropriate testing methods are introduced, and the challenges and limitations associated with AM construction on terrestrial, aerial, and lunar surfaces with insights for the future of AM are elucidated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "145 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ahme_biff_hass_bos.2020.3CP/">3D Concrete Printing:<br/>Free-Form Geometries with Improved Ductility and Strength</a></li>
@@ -213,8 +192,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shekhar_shashank"><b>Shekhar</b> Shashank</a>, <a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a>, <a href="../../../author/mathur_rishabh"><b>Mathur</b> Rishabh</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shek_kuma_math.2025.AMoCwLIYSTCHoPL/">Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abed_wari_alaw_jabr.2025.TLC3PI/">Transformative Low-Carbon 3D-Printed Infrastructure:<br/>Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites</a></li>
@@ -224,4 +203,33 @@ tags:
       <li><a href="../../../author/wang_lingyu"><b>Wang</b> Lingyu</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wang_zhiyong"><b>Wang</b> Zhiyong</a>, <a href="../../../author/chen_juan"><b>Chen</b> Juan</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_zhan_wang_chen.2024.AMiCUUAV/">Additive Manufacturing in Construction Using Unmanned Aerial Vehicle:<br/>Design, Implementation, and Material-Properties</a></li>
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{agha_li_rosh_nama.2024.AMEiC,
+      author            = "Kamran Aghaee and Linfei Li and Alireza Roshan and Parsa Namakiaraghi",
+      title             = "Additive Manufacturing Evolution in Construction: From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications",
+      doi               = "10.1016/j.jobe.2024.110389",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "110389",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Aghaee, L. Li, A. Roshan and P. Namakiaraghi, “Additive Manufacturing Evolution in Construction: From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications”, <i>Journal of Building Engineering</i>, p. 110389, 2024, doi: 10.1016/j.jobe.2024.110389.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aghaee, Kamran, Linfei Li, Alireza Roshan, and Parsa Namakiaraghi. “Additive Manufacturing Evolution in Construction: From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications”. <i>Journal of Building Engineering</i>, 2024, 110389. https://doi.org/10.1016/j.jobe.2024.110389.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

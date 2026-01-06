@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhuoyue Xu, Dawang Zhang, Hui Li, Xuemei Sun, Kefei Zhao, Yueying Wang
+    - footer
+title: Xu Zhuoyue, Zhang Dawang, Li Hui, Sun Xuemei, Zhao Kefei, Wang Yueying
 description:
 tags:
  - base
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127685" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127685</a>
+#Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material ([2022-05](date/2022/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127685" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127685" target="_blank">10.1016/j.conbuildmat.2022.127685</a>
 
--------------------------
+<a href="../../../author/xu_zhuoyue"><b>Xu</b>&nbsp;Zhuoyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_dawang"><b>Zhang</b>&nbsp;Dawang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span>, <a href="../../../author/sun_xuemei"><b>Sun</b>&nbsp;Xuemei</a></span>, <a href="../../../author/zhao_kefei"><b>Zhao</b>&nbsp;Kefei</a></span>, <a href="../../../author/wang_yueying"><b>Wang</b>&nbsp;Yueying</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 339
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>
-,     <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a> <a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_hui"><b>Li</b> Hui</a> <a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_xuemei"><b>Sun</b> Xuemei</a>
-,     <a href="../../../author/zhao_kefei"><b>Zhao</b> Kefei</a>
-,     <a href="../../../author/wang_yueying"><b>Wang</b> Yueying</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 339, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#compression`](keyword/compression)
-    [`#effect`](keyword/effect)
-    [`#ggbfs`](keyword/ggbfs)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/ggbfs"><button class="btn">#ggbfs</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20FA%20and%20GGBFS%20on%20Compressive%20Strength%2C%20Rheology%2C%20and%20Printing%20Properties%20of%20Cement-Based%203D%20Printing%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130878287&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4225306344" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127685" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127685?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent advances have proposed new requirements on the controlling of the compressive strength, the rheology, and the printing properties of cement-based 3D printing material. In this study, by modifying the pastes with inorganic regulators such as fly ash (FA) and Granular ground blast furnace slag (GGBFS), a 3D printing cement-based material with outstanding these behaviors was created. The results show that the slump and expansion of fresh pastes first increased and then decreased as the amount of FA/GGBFS replacing the cement increased. The setting time increased gradually with increasing FA content, up to 5.07 min after that of the cement without FA/GGBFS, and the flexural strength and compressive strength decreased gradually. This condition was beneficial to the extrusion of the mortar and caused the buildability to improve and then deteriorate. The extrusion fracture length ranged from 40 mm to 98 mm. Furthermore, when the FA content was 20%, the slump and expansion of the pastes reached their maximums, 42 mm and 185 mm, respectively. And the flexural strength and compressive strength of the mortar at 28 d were 10.6 MPa and 60.8 MPa, respectively. The apparent viscosity and shear stress are the smallest, and the extrusion and buildability are the best under these conditions. Finally, the house (length × width × height is 36×30×19 cm) and the roof (length × width × height is 38×32×3.0 cm) were printed according to the ratio of 1: 150.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -99,8 +73,10 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "48 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
@@ -148,4 +124,33 @@ tags:
       <li><a href="../../../author/melichar_jindrich"><b>Melichar</b> Jindřich</a>, <a href="../../../author/zizkova_nikol"><b>Žižková</b> Nikol</a>, <a href="../../../author/brozovsky_jiri"><b>Brožovský</b> Jiří</a>, <a href="../../../author/meszarosova_lenka"><b>Mészárosová</b> Lenka</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../meli_zizk_broz_mesz.2022.SotIoCBMf3PwFAaSP/">Study of the Interaction of Cement-Based Materials for 3D Printing with Fly-Ash and Superabsorbent Polymers</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zafa_bakh_hoja.2022.T3PECC/">Toward 3D Printable Engineered Cementitious Composites:<br/>Mix-Design Proportioning, Flowability, and Mechanical Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_zhan_li_sun.2022.EoFaGoCSRaPPoCB3PM,
+      author            = "Zhuoyue Xu and Dawang Zhang and Hui Li and Xuemei Sun and Kefei Zhao and Yueying Wang",
+      title             = "Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material",
+      doi               = "10.1016/j.conbuildmat.2022.127685",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "339",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Xu, D. Zhang, H. Li, X. Sun, K. Zhao and Y. Wang, “Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material”, <i>Construction and Building Materials</i>, vol. 339, 2022, doi: 10.1016/j.conbuildmat.2022.127685.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Zhuoyue, Dawang Zhang, Hui Li, Xuemei Sun, Kefei Zhao, and Yueying Wang. “Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material”. <i>Construction and Building Materials</i> 339 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127685.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

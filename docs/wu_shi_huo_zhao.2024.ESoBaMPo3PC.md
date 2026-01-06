@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xikai Wu, Qingxuan Shi, Jian Huo, Yu Zhao, Lingli Zhu, Yi Tao
+    - footer
+title: Wu Xikai, Shi Qingxuan, Huo Jian, Zhao Yu, Zhu Lingli, Tao Yi
 description:
 tags:
  - buildability
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.researchsquare.com/article/rs-3303412/latest.pdf) Experimental Study on Buildability and Mechanical Properties of 3D Printing Cob ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.139082" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.139082</a>
+#Experimental Study on Buildability and Mechanical Properties of 3D Printing Cob ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.researchsquare.com/article/rs-3303412/latest.pdf) <a href="https://doi.org/10.1016/j.conbuildmat.2024.139082" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139082" target="_blank">10.1016/j.conbuildmat.2024.139082</a>
 
--------------------------
+<a href="../../../author/wu_xikai"><b>Wu</b>&nbsp;Xikai</a></span>, <a href="../../../author/shi_qingxuan"><b>Shi</b>&nbsp;Qingxuan</a></span>, <a href="../../../author/huo_jian"><b>Huo</b>&nbsp;Jian</a></span>, <a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span>, <a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <a href="../../../author/tao_yi"><b>Tao</b>&nbsp;Yi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 453, No. 139082
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_xikai"><b>Wu</b> Xikai</a>
-,     <a href="../../../author/shi_qingxuan"><b>Shi</b> Qingxuan</a>
-,     <a href="../../../author/huo_jian"><b>Huo</b> Jian</a>
-,     <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>
-,     <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>
-,     <a href="../../../author/tao_yi"><b>Tao</b> Yi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 453, No. 139082
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#experiment`](keyword/experiment)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Buildability%20and%20Mechanical%20Properties%20of%203D%20Printing%20Cob" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208233625&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404147109" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.139082" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.139082?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The application of 3D printing technology to earth buildings conforms to the development concept of low carbon, green and intelligent construction. The key issue lies in the development of earth material with both favorable buildability and sufficient mechanical properties. In this study, the printing parameters of mixture for 3D printing with different water contents were optimized. The optimum water content of 3D printing cob was determined based on the buildability. The result shows that when the flow spreading diameter is between 140 mm and 160 mm, 3D printing cob has good buildability performance. The optimum water content is 24.6 %. In addition, anisotropic performance was analyzed by compressive strength tests from three orthogonal directions. In particular, according to the test results of single printing limit height and yield stress, the buildability of 3D printing cob wall was analyzed. The building strategy of the printing divided into multiple times was obtained.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
@@ -87,7 +66,37 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wu_shi_huo_zhao.2024.ESoBaMPo3PC,
+      author            = "Xikai Wu and Qingxuan Shi and Jian Huo and Yu Zhao and Lingli Zhu and Yi Tao",
+      title             = "Experimental Study on Buildability and Mechanical Properties of 3D Printing Cob",
+      doi               = "10.1016/j.conbuildmat.2024.139082",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "453",
+      pages             = "139082",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Wu, Q. Shi, J. Huo, Y. Zhao, L. Zhu and Y. Tao, “Experimental Study on Buildability and Mechanical Properties of 3D Printing Cob”, <i>Construction and Building Materials</i>, vol. 453, p. 139082, 2024, doi: 10.1016/j.conbuildmat.2024.139082.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Xikai, Qingxuan Shi, Jian Huo, Yu Zhao, Lingli Zhu, and Yi Tao. “Experimental Study on Buildability and Mechanical Properties of 3D Printing Cob”. <i>Construction and Building Materials</i> 453 (2024): 139082. https://doi.org/10.1016/j.conbuildmat.2024.139082.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

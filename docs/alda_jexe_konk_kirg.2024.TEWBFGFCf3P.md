@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gaziza Aldabergenova, Assel Jexembayeva, Marat Konkanov, Akpan Kirgizbayev, Lyazat Aruova, Leila Zhaksylykova
+    - footer
+title: Aldabergenova Gaziza, Jexembayeva Assel, Konkanov Marat, Kirgizbayev Akpan, Aruova Lyazat, Zhaksylykova Leila
 description:
 tags:
  - base
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.istruc.2024.107332" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2024.107332</a>
+#The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2024.107332" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.107332" target="_blank">10.1016/j.istruc.2024.107332</a>
 
--------------------------
+<a href="../../../author/aldabergenova_gaziza"><b>Aldabergenova</b>&nbsp;Gaziza</a></span>, <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b>&nbsp;Assel</a></span>, <a href="../../../author/konkanov_marat"><b>Konkanov</b>&nbsp;Marat</a></span>, <a href="../../../author/kirgizbayev_akpan"><b>Kirgizbayev</b>&nbsp;Akpan</a></span>, <a href="../../../author/aruova_lyazat"><b>Aruova</b>&nbsp;Lyazat</a></span>, <a href="../../../author/zhaksylykova_leila"><b>Zhaksylykova</b>&nbsp;Leila</a></span><br>
+Journal Article - Structures, Vol. 69, No. 107332
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aldabergenova_gaziza"><b>Aldabergenova</b> Gaziza</a>
-,     <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a>
-,     <a href="../../../author/konkanov_marat"><b>Konkanov</b> Marat</a>
-,     <a href="../../../author/kirgizbayev_akpan"><b>Kirgizbayev</b> Akpan</a>
-,     <a href="../../../author/aruova_lyazat"><b>Aruova</b> Lyazat</a>
-,     <a href="../../../author/zhaksylykova_leila"><b>Zhaksylykova</b> Leila</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 69, No. 107332
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#efficient`](keyword/efficient)
-    [`#fiber`](keyword/fiber)
-    [`#fine`](keyword/fine)
-    [`#grain`](keyword/grain)
-    [`#print`](keyword/print)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Efficient%20Waste-Based%20Fine-Grained%20Fiber%20Concretes%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204488521&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402702393" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2024.107332" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2024.107332?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the development of optimized 3D printing mixes using Portland cement grades PC 400-D0 and PC 500-D0, combined with fly ash and various fibers such as polypropylene (PP), polyethylene (PE), and nylon, to enhance the mechanical properties and durability of printed structures. The primary aim is to create a mix that ensures sufficient flowability during the printing process while achieving high tensile strength and resistance to cracking. The methodology involved a series of mix designs with varying proportions of cement, fly ash, and fibers, followed by testing for rheology, compressive strength, and durability. Key findings include achieving a compressive strength of up to 50 MPa and a tensile strength improvement of 20 % with the optimal fiber combination. The incorporation of fly ash resulted in a 15 % reduction in material costs and a significant improvement in workability. The practical implications of this research are substantial for the construction industry, particularly in the context of sustainable and efficient building practices. The optimized mix designs not only reduce costs but also enhance the longevity and structural integrity of 3D printed elements, making them viable for large-scale construction projects. This study provides a foundation for further exploration into advanced 3D printing materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
@@ -89,8 +65,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yori_liza_sleb_blan.2022.LCAaMCDMAtDtPo3PCMaG/">Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alda_jexe_konk_kirg.2024.TEWBFGFCf3P,
+      author            = "Gaziza Aldabergenova and Assel Jexembayeva and Marat Konkanov and Akpan Kirgizbayev and Lyazat Aruova and Leila Zhaksylykova",
+      title             = "The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing",
+      doi               = "10.1016/j.istruc.2024.107332",
+      year              = "2024",
+      journal           = "Structures",
+      volume            = "69",
+      pages             = "107332",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Aldabergenova, A. Jexembayeva, M. Konkanov, A. Kirgizbayev, L. Aruova and L. Zhaksylykova, “The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing”, <i>Structures</i>, vol. 69, p. 107332, 2024, doi: 10.1016/j.istruc.2024.107332.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aldabergenova, Gaziza, Assel Jexembayeva, Marat Konkanov, Akpan Kirgizbayev, Lyazat Aruova, and Leila Zhaksylykova. “The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing”. <i>Structures</i> 69 (2024): 107332. https://doi.org/10.1016/j.istruc.2024.107332.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

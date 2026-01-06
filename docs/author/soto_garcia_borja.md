@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 # de Soto Borja 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ramani_ayyagari"><b>Ramani</b> Ayyagari</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a>, <a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../rama_chen_soto.2023.QtIoC3PotCSC/">Quantifying the Impact of Concrete 3D Printing on the Construction Supply Chain</a></li>
   <li><a href="../../../author/pekuss_raitis"><b>Pekuss</b> Raitis</a>, <a href="../../../author/ancupane_amelija"><b>Ancupane</b> Amelija</a>, <a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../peku_ancu_soto.2021.QtCo3PCE/">Quantifying the Complexity of 3D Printed Concrete Elements</a></li>
   <li><a href="../../../author/mohamed-shibly_ur-rahman_maahir"><b>Mohamed Shibly</b> Maahir</a>, <a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_soto.2020.TMiC/">Threat Modeling in Construction:<br/>An Example of a 3D Concrete Printing System</a></li>

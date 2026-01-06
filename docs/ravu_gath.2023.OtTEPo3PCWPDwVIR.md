@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Risheek Ravula, Perampalam Gatheeshgar
+    - footer
+title: Ravula Risheek, Gatheeshgar Perampalam
 description:
 tags:
  - concrete
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} On the Thermal-Energy Performance of 3D Printed Concrete Wall Panels Designed with Varying Insulation Ratios ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.jobe.2023.107374" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.107374</a>
+#On the Thermal-Energy Performance of 3D Printed Concrete Wall Panels Designed with Varying Insulation Ratios ([2023-07](date/2023/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107374" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107374" target="_blank">10.1016/j.jobe.2023.107374</a>
 
--------------------------
+<a href="../../../author/ravula_risheek"><b>Ravula</b>&nbsp;Risheek</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b>&nbsp;Perampalam</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 77
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ravula_risheek"><b>Ravula</b> Risheek</a>
-,     <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a> <a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 77, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#energy`](keyword/energy)
-    [`#insulation`](keyword/insulation)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#ratio`](keyword/ratio)
-    [`#temperature`](keyword/temperature)
-    [`#variation`](keyword/variation)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=On%20the%20Thermal-Energy%20Performance%20of%203D%20Printed%20Concrete%20Wall%20Panels%20Designed%20with%20Varying%20Insulation%20Ratios" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165979081&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4384564852" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.107374" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.107374?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printed concrete (3DPC) is a promising construction method that has gained recognition in recent years. With the growing focus on energy-efficient buildings, it is important to understand the thermal-energy performance of 3DPC panels, particularly with different insulation options. However, current knowledge in this area is limited. Therefore, this research investigates the thermal-energy performance of 3DPC walls with various insulation materials and insulation layer heights. Thermal models were developed using THERM 7.8 software and validated against available literature and ISO 10211 thermal test cases. A total of 42 numerical models were developed, varying wall width (100 mm and 200 mm), insulation ratios (0, 0.2, 0.4, 0.6, 0.8, 1.0), and insulation materials (mineral wool, rockwool, fibre glass wool, and E-PLA). The results demonstrated that increasing the insulation ratio leads to a lower U-value. New design equations were developed to capture the effect of insulation ratios, and these equations accurately predicted U-values. This study contributes to understanding the thermal-energy performance of 3DPC walls with different insulation options, and the proposed equations can assist in designing energy-efficient buildings with 3DPC panels.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
@@ -84,12 +62,41 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shukla_yash"><b>Shukla</b> Yash</a>, <a href="../../../author/rawal_rajan"><b>Rawal</b> Rajan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../dey_pand_shuk_rawa.2025.ACAoTPo3PCLW/">A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls</a></li>
       <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../khan_das.2025.ESoWPaTRoLS3PCW/">Experimental Study on Water Penetration and Thermal Resistance of Large-Scale 3D-Printed Cementitious Walls</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a></li>
       <li><a href="../../../author/rubeis_tullio"><b>Rubeis</b> Tullio</a>, <a href="../../../author/ciccozzi_annamaria"><b>Ciccozzi</b> Annamaria</a>, <a href="../../../author/giusti_letizia"><b>Giusti</b> Letizia</a>, <a href="../../../author/ambrosini_dario"><b>Ambrosini</b> Dario</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../rube_cicc_gius_ambr.2024.OtUo3PtEtTPoBE/">On the Use of 3D Printing to Enhance the Thermal Performance of Building Envelope:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ravu_gath.2023.OtTEPo3PCWPDwVIR,
+      author            = "Risheek Ravula and Perampalam Gatheeshgar",
+      title             = "On the Thermal-Energy Performance of 3D Printed Concrete Wall Panels Designed with Varying Insulation Ratios",
+      doi               = "10.1016/j.jobe.2023.107374",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      volume            = "77",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Ravula  and P. Gatheeshgar, “On the Thermal-Energy Performance of 3D Printed Concrete Wall Panels Designed with Varying Insulation Ratios”, <i>Journal of Building Engineering</i>, vol. 77, 2023, doi: 10.1016/j.jobe.2023.107374.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ravula, Risheek, and Perampalam Gatheeshgar. “On the Thermal-Energy Performance of 3D Printed Concrete Wall Panels Designed with Varying Insulation Ratios”. <i>Journal of Building Engineering</i> 77 (2023). https://doi.org/10.1016/j.jobe.2023.107374.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

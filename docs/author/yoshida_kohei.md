@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,6 +9,6 @@ search:
 
 #  Yoshida Kohei 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tanaka_shunsei"><b>Tanaka</b> Shunsei</a>, <a href="../../../author/yoshida_kohei"><b>Yoshida</b> Kohei</a>, <a href="../../../author/yamamoto_yujin"><b>Yamamoto</b> Yujin</a>, <a href="../../../author/kinomura_koji"><b>Kinomura</b> Koji</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../tana_yosh_yama_kino.2025.NEoBo3PMBoTDMM/">Numerical Evaluation on Buildability of 3D Printing Mortar Based on Time-Dependent Material Model</a></li>
 </ol>

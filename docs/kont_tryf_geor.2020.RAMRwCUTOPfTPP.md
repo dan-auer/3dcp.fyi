@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Odysseas Kontovourkis, George Tryfonos, Christos Georgiou
+    - footer
+title: Kontovourkis Odysseas, Tryfonos George, Georgiou Christos
 description:
 tags:
  - additive
@@ -19,34 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robotic Additive Manufacturing (RAM) with Clay Using Topology-Optimization Principles for Tool-Path-Planning:<br/>:aca-blank: The Example of a Building Element ([2019-06](date/2019/06))
-<a href="https://doi.org/10.1080/00038628.2019.1620170" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/00038628.2019.1620170</a>
+#Robotic Additive Manufacturing (RAM) with Clay Using Topology-Optimization Principles for Tool-Path-Planning&nbsp;([2019-06](date/2019/06))
+<div class="h1-like">The Example of a Building Element</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/00038628.2019.1620170" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2019.1620170" target="_blank">10.1080/00038628.2019.1620170</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5804-9657" title="ORCID: 0000-0001-5804-9657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b>&nbsp;Odysseas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8896-4952" title="ORCID: 0000-0001-8896-4952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tryfonos_george"><b>Tryfonos</b>&nbsp;George</a></span>, <a href="../../../author/georgiou_christos"><b>Georgiou</b>&nbsp;Christos</a></span><br>
+Journal Article - Architectural Science Review, Vol. 63, Iss. 2, pp. 105-118
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a> <a href="https://orcid.org/0000-0001-5804-9657" title="ORCID: 0000-0001-5804-9657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="https://orcid.org/0000-0001-8896-4952" title="ORCID: 0000-0001-8896-4952" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architectural Science Review, Vol. 63, Iss. 2, pp. 105-118
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#buildability`](keyword/buildability)
-    [`#clay`](keyword/clay)
-    [`#element`](keyword/element)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#optimization`](keyword/optimization)
-    [`#path`](keyword/path)
-    [`#ram`](keyword/ram)
-    [`#robot`](keyword/robot)
-    [`#tool`](keyword/tool)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/ram"><button class="btn">#ram</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Additive%20Manufacturing%20%28RAM%29%20with%20Clay%20Using%20Topology-Optimization%20Principles%20for%20Tool-Path-Planning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85066615787&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2947065269" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/00038628.2019.1620170" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/00038628.2019.1620170?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Theterm Robotic Additive Manufacturing (RAM) describes the process ofmaterial deposition in layers, leading to solidified products using industrial robots. Similar processes like construction-scale 3D printing have gained considerable attention during the last few decades and today an increasing interest is observed. Despite their emerging trend, very early adoptions are visible today, with issues under further consideration to include construction time and cost, associated with material minimization and structural efficiency, but also ecological aspect of materials evolved. This paper discusses the current role of 3D printing in the architecture and construction and proposes a framework for implementation using Topology Optimization (TO) principles and clay-based materials. This is applied in a case study example where the design and fabrication ofa building element is conducted. The results derived from this investigation are critically discussed and conclusions are drawn for a new and more effective application in the architecture and construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -89,8 +66,8 @@ tags:
       <li><a href="../../../author/teizer_jochen"><b>Teizer</b> Jochen</a>, <a href="../../../author/blickle_alexander"><b>Blickle</b> Alexander</a>, <a href="../../../author/king_tobias"><b>King</b> Tobias</a>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b> Olaf</a> et al. <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../teiz_blic_king_leit.2016.LS3PoCGSiC/">Large-Scale 3D Printing of Complex Geometric Shapes in Construction</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abidi_imene"><b>Abidi</b> Imene</a>, <a href="../../../author/tuna_meral"><b>Tuna</b> Meral</a>, <a href="../../../author/carboni_biagio"><b>Carboni</b> Biagio</a>, <a href="../../../author/trovalusci_patrizia"><b>Trovalusci</b> Patrizia</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abid_tuna_carb_trov.2026.APSoTOoAMCM/">A Parametric Study on Topology Optimization of Additively Manufactured Clay Materials</a></li>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wan_wang_huan_wu.2025.SOBoIAf3CP/">Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>A Design Method for Printing-Friendly Structure</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
@@ -109,4 +86,35 @@ tags:
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/phocas_c_marios"><b>Phocas</b> Marios</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a>, <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../kont_phoc_tryf_geor.2020.MA3PoMRSSoaRSSUTOP/">Multi-Axis 3D Printing of Material-Reduced Shell-Structures on a Reconfigurable Supporting-System Using Topology-Optimization Principles</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kont_tryf_geor.2020.RAMRwCUTOPfTPP,
+      author            = "Odysseas Kontovourkis and George Tryfonos and Christos Georgiou",
+      title             = "Robotic Additive Manufacturing (RAM) with Clay Using Topology-Optimization Principles for Tool-Path-Planning: The Example of a Building Element",
+      doi               = "10.1080/00038628.2019.1620170",
+      year              = "2020",
+      journal           = "Architectural Science Review",
+      volume            = "63",
+      number            = "2",
+      pages             = "105--118",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Kontovourkis, G. Tryfonos and C. Georgiou, “Robotic Additive Manufacturing (RAM) with Clay Using Topology-Optimization Principles for Tool-Path-Planning: The Example of a Building Element”, <i>Architectural Science Review</i>, vol. 63, no. 2, pp. 105–118, 2020, doi: 10.1080/00038628.2019.1620170.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kontovourkis, Odysseas, George Tryfonos, and Christos Georgiou. “Robotic Additive Manufacturing (RAM) with Clay Using Topology-Optimization Principles for Tool-Path-Planning: The Example of a Building Element”. <i>Architectural Science Review</i> 63, no. 2 (2020): 105–18. https://doi.org/10.1080/00038628.2019.1620170.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #reduction
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_zherui"><b>Wang</b> Zherui</a>, <a href="../../../author/teitelbaum_e"><b>Teitelbaum</b> E.</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/aviv_d"><b>Aviv</b> D.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../wang_teit_akba_aviv.2025.EAoTMPoSO3PCFEfCER/">Experimental Assessment on Thermal Mass Performance of Structurally Optimized, 3D-Printed Concrete Floor Element for Carbon Emission Reduction</a></li>
   <li><a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pate_raph.2025.RCEi3PRS/">Reducing Carbon Emissions in 3D Printed RCC Slabs</a></li>
   <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../most_krug.2025.RABo3PCTIF/">Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments</a></li>

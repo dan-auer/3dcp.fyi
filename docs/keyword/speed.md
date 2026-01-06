@@ -8,7 +8,7 @@ search:
 
 # #speed
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/apsari_auliagitta"><b>Apsari</b> Auliagitta</a>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a>, <a href="../../../author/suprobo_priyo"><b>Suprobo</b> Priyo</a>, <a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../apsa_tamb_supr_sury.2025.IoPSaNSoBo3PCW/">Influence of Printing Speed and Nozzle Size on Buildability of 3D Printed Concrete Walls:<br/>A Nonlinear Finite Element Study</a></li>
   <li><a href="../../../author/yao_weijing"><b>Yao</b> Weijing</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yao_gao_huan_du.2025.IoPSaESotPaPSo3PM/">Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar</a></li>
   <li><a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../negr_krei_krei.2024.DoPSBotFMSoToACCbUC/">Determination of Print Speed Based on the Fresh Mechanical Strength over Time of Additively Constructed Concrete by Unconfined Compression</a></li>

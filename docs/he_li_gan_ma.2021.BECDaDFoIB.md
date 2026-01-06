@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rui He, Mingkai Li, Vincent Gan, Jun Ma
+    - footer
+title: He Rui, Li Mingkai, Gan Vincent, Ma Jun
 description:
 tags:
  - bim
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings:<br/>:aca-blank: A Case Study ([2020-08](date/2020/08))
-<a href="https://doi.org/10.1016/j.jclepro.2020.123505" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2020.123505</a>
+#BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings&nbsp;([2020-08](date/2020/08))
+<div class="h1-like">A Case Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2020.123505" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2020.123505" target="_blank">10.1016/j.jclepro.2020.123505</a>
 
--------------------------
+<a href="../../../author/he_rui"><b>He</b>&nbsp;Rui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3617-4083" title="ORCID: 0000-0002-3617-4083" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingkai"><b>Li</b>&nbsp;Mingkai</a></span>, <a href="../../../author/gan_jl_vincent"><b>Gan</b>&nbsp;Vincent</a></span>, <a href="../../../author/ma_jun"><b>Ma</b>&nbsp;Jun</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 278
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/he_rui"><b>He</b> Rui</a>
-,     <a href="../../../author/li_mingkai"><b>Li</b> Mingkai</a> <a href="https://orcid.org/0000-0002-3617-4083" title="ORCID: 0000-0002-3617-4083" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gan_jl_vincent"><b>Gan</b> Vincent</a>
-,     <a href="../../../author/ma_jun"><b>Ma</b> Jun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 278, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bim`](keyword/bim)
-    [`#buildability`](keyword/buildability)
-    [`#case`](keyword/case)
-    [`#computer`](keyword/computer)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#enabler`](keyword/enabler)
-    [`#fabrication`](keyword/fabrication)
-    [`#industry`](keyword/industry)
-
-
--------------------------
+<a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=BIM-Enabled%20Computerized%20Design%20and%20Digital%20Fabrication%20of%20Industrialized%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85089736108&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3048242959" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2020.123505" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2020.123505?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Industrialized construction leverages factory-based manufacturing and lean-site assembly to achieve higher industrial efficiency. Building information modeling (BIM) offers new opportunities to underpin the computerized design and fabrication of industrialized buildings, providing greater productivity and cost-effectiveness. In this study, attempts are made to review the state-of-the-art BIM applications on design and prefabrication automation of industrialized buildings, with more emphasis on the recent achievement in concrete 3D printing technology. Following this, a BIM method is proposed to support the detailed geometry design and digital fabrication of modular housings. A program interfaced within BIM is developed and demonstrated through discussions on its capacity in generating the geometry details of 3D-printed modules. In addition, robotic simulation of 3D printing is performed to explore a flexible plan in producing the 3D-printed modules or components. The lessons learned from the study are discussed to highlight the future research challenges and opportunities. First, as current Industry Foundation Classes-based BIM model provides limited support to prefabrication, research on BIM open standards demands more attentions to interoperate the computerized design and computer-aided manufacturing. Moreover, today’s industrialized buildings consist of sophisticated architectural, structural, and mechanical systems that are intervened across the whole life cycle, more research on the interdependent building systems is needed (via digital twins) to optimize the life cycle performance. When moving towards data-driven decision making, there are research needs to expand Internet of Things and Artificial Intelligence to collect the big data from prefabrication, perform predictive analysis, and optimize the control decisions for manufacturing facilities operations. This study illustrates the process and future work in BIM design and prefabrication automation that can assist practitioners to enhance the quality of industrialized construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -86,8 +64,8 @@ tags:
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
       <li><a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/taswin_faustin_william"><b>Taswin</b> William</a>, <a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sari_bera_tasw_saro.2025.WBSaCPFfaH3PMB/">Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building</a></li>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../roja_hasa.2025.AIBPWf3CPP/">An Integrated BIM Planning Workflow for 3D Concrete Printing Projects</a></li>
@@ -107,4 +85,33 @@ tags:
       <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPBBEa3CP/">Development of Communication Protocols Between BIM Elements and 3D Concrete Printing</a></li>
       <li><a href="../../../author/ning_xin"><b>Ning</b> Xin</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/wu_chunlin"><b>Wu</b> Chunlin</a>, <a href="../../../author/wang_chao"><b>Wang</b> Chao</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ning_liu_wu_wang.2021.3PiC/">3D Printing in Construction:<br/>Current Status, Implementation Hindrances, and Development Agenda</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{he_li_gan_ma.2021.BECDaDFoIB,
+      author            = "Rui He and Mingkai Li and Vincent J.L. Gan and Jun Ma",
+      title             = "BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings: A Case Study",
+      doi               = "10.1016/j.jclepro.2020.123505",
+      year              = "2021",
+      journal           = "Journal of Cleaner Production",
+      volume            = "278",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. He, M. Li, V. J. L. Gan and J. Ma, “BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings: A Case Study”, <i>Journal of Cleaner Production</i>, vol. 278, 2021, doi: 10.1016/j.jclepro.2020.123505.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">He, Rui, Mingkai Li, Vincent J.L. Gan, and Jun Ma. “BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings: A Case Study”. <i>Journal of Cleaner Production</i> 278 (2021). https://doi.org/10.1016/j.jclepro.2020.123505.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

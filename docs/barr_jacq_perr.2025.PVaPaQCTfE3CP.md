@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mamadou Barry, Yohan Jacquet, Arnaud Perrot
+    - footer
+title: Barry Mamadou, Jacquet Yohan, Perrot Arnaud
 description:
 tags:
  - concrete
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1617/s11527-025-02831-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02831-6</a>
+#Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-025-02831-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02831-6" target="_blank">10.1617/s11527-025-02831-6</a>
 
--------------------------
+<a href="../../../author/barry_mamadou"><b>Barry</b>&nbsp;Mamadou</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>
-,     <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#extrusion`](keyword/extrusion)
-    [`#penetration`](keyword/penetration)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pocket%20Vane%20and%20Penetrometer%20as%20Quality%20Control%20Tool%20for%20Extrusion%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019528149&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415388355" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02831-6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02831-6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The development of 3D concrete printing has led to a broad array of digital construction processes, with extrusion-based techniques emerging as the most widespread. Despite significant advances, the lack of standardized procedures for quality control and structural design continues to impede broader industrial adoption. Effective quality control in 3D concrete printing requires that the rheological properties of fresh materials align with the demands of the printing process, thereby calling for rapid, field-deployable testing methods. Among recent developments, the slug test has shown promise by enabling estimation of the initial shear yield stress based on the mass of extruded slugs. However, this method provides limited insight into buildability, which depends on the time-dependent evolution of the material’s yield stress. To address this gap, pocket vane and penetration tests have been adapted for use in 3D printing contexts. Vane tests, when conducted with pocket devices, allow in situ tracking of the yield stress over time, while penetration tests—performed using either slow or fast protocols—offer valuable information on the material’s strength development. This paper presents a protocol that combines pocket vane and penetrometer testing to simultaneously evaluate shear yield stress and internal friction angle in printable mortars. The proposed approach is validated through experimental investigations on four different mortar formulations, demonstrating its relevance for practical quality control in extrusion-based 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bos_wolf.2023.AQCFfDFwC/">A Quality-Control Framework for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>
@@ -88,7 +68,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wolf.2024.TSQo3CP/">The Status Quo of 3D Concrete Printing:<br/>Are We There Yet?</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{barr_jacq_perr.2025.PVaPaQCTfE3CP,
+      author            = "Mamadou Barry and Yohan Jacquet and Arnaud Perrot",
+      title             = "Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing",
+      doi               = "10.1617/s11527-025-02831-6",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Barry, Y. Jacquet and A. Perrot, “Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing”, <i>Materials and Structures</i>, vol. 58, no. 9, 2025, doi: 10.1617/s11527-025-02831-6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Barry, Mamadou, Yohan Jacquet, and Arnaud Perrot. “Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing”. <i>Materials and Structures</i> 58, no. 9 (2025). https://doi.org/10.1617/s11527-025-02831-6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

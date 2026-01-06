@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: AlaEddin Douba, Shiho Kawashima
+    - footer
+title: Douba AlaEddin, Kawashima Shiho
 description:
 tags:
  - clay
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing ([2021-11](date/2021/11))
-<a href="https://doi.org/10.14359/51733129" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51733129</a>
+#Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733129" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733129" target="_blank">10.14359/51733129</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3607-0970" title="ORCID: 0000-0002-3607-0970" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/douba_alaeddin"><b>Douba</b>&nbsp;AlaEddin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 275-289
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a> <a href="https://orcid.org/0000-0002-3607-0970" title="ORCID: 0000-0002-3607-0970" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 275-289
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#tailoring`](keyword/tailoring)
-    [`#three`](keyword/three)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Nano-Clays%20and%20Methylcellulose%20to%20Tailor%20Rheology%20for%20Three-Dimensional%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122074414&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3215534187" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51733129" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51733129?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A concrete system is identified as highly printable if it can offer minimal resistance to handling while sustaining high load resistance and structural stability. One of the major complexities of three-dimensional (3D) concrete printing lies in its sensitivity to materials and equipment that varies the time among layers, hydration time, and shear history. While nanoclays are effective additives for enhancing structural buildup, methylcellulose is introduced as a secondary additive to significantly amplify the nanoclays’ effect on the static yield stress while prolonging the open time between layers and increasing filament cohesiveness. The compatibility of these two systems at different contents is studied by characterizing rheological properties such as static yield stress, steady-state viscosity, and storage modulus, as well as the heat of hydration through isothermal calorimetry. The hybrid system is found to increase the static yield stress by up to 900% compared to the reference paste at only 3.0 wt.% total content by mass.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -97,8 +77,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/marquez_alvaro"><b>Marquez</b> Alvaro</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marq_vare_barl.2025.IoRMAotBo3PCBM/">Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars</a></li>
       <li><a href="../../../author/yassin_m_ahmed"><b>Yassin</b> Ahmed</a>, <a href="../../../author/hafez_ahmed_mohamed"><b>Hafez</b> Mohamed</a>, <a href="../../../author/aboelhassan_gamal_mohamed"><b>Aboelhassan</b> Mohamed</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yass_hafe_aboe.2025.EaNIotEoDToSFotFBaMPo3CCPPwCCIAP/">Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/shahid_adnan"><b>Shahid</b> Adnan</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zafa_shah_sedg_hoja.2025.OoBAf3PCS/">Optimization of Biopolymer Additives for 3D Printable Cementitious Systems:<br/>A Design of Experiment Approach</a></li>
@@ -116,4 +96,35 @@ tags:
       <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../doub_badj_kawa.2022.IoIPoRMPS/">Influence of Infill-Pattern on Reactive MgO Printed Structures</a></li>
       <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{doub_kawa.2021.UoNCaMtTRfTDCP,
+      author            = "AlaEddin Douba and Shiho Kawashima",
+      title             = "Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing",
+      doi               = "10.14359/51733129",
+      year              = "2021",
+      journal           = "ACI Materials Journal",
+      volume            = "118",
+      number            = "6",
+      pages             = "275--289",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Douba  and S. Kawashima, “Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 275–289, 2021, doi: 10.14359/51733129.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Douba, AlaEddin, and Shiho Kawashima. “Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 275–89. https://doi.org/10.14359/51733129.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

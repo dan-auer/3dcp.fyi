@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marchant Heever, Frederick Bester, Jacques Kruger, Gideon Zijl
+    - footer
+title: Heever Marchant, Bester Frederick, Kruger Jacques, Zijl Gideon
 description:
 tags:
  - base
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing ([2021-07](date/2021/07))
-<a href="https://doi.org/10.1016/j.jobe.2021.102944" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.102944</a>
+#Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing ([2021-07](date/2021/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.102944" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.102944" target="_blank">10.1016/j.jobe.2021.102944</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5980-2719" title="ORCID: 0000-0001-5980-2719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heever_marchant"><b>van den&nbsp;Heever</b>&nbsp;Marchant</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8262-5538" title="ORCID: 0000-0001-8262-5538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bester_a_frederick"><b>Bester</b>&nbsp;Frederick</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 44
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/heever_marchant"><b>van den Heever</b> Marchant</a> <a href="https://orcid.org/0000-0001-5980-2719" title="ORCID: 0000-0001-5980-2719" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a> <a href="https://orcid.org/0000-0001-8262-5538" title="ORCID: 0000-0001-8262-5538" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 44, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#mechanics`](keyword/mechanics)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Characterisation%20for%20Numerical%20Simulation%20of%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85109131668&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3175464350" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.102944" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.102944?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3DCP is experiencing exponential advancement in process, control, material, and fresh-state analysis technologies, strategically poising 3DCP to become an industrial manufacturing process for infrastructure development. To elucidate the mechanical characterisation and numerical simulation of3DCP elements synergy among experimental and computational mechanics is required. Such activities should characterise the unique material properties of printed components to permit limit state design procedures and the correct prescription of finite element (FE) model parameters. In this research, mechanical characterisation procedures that experimentally evaluate the anisotropic material characteristics of a fibre-reinforced printable concrete (FRPC) are presented. These procedures are comprised of direct tensile, uniaxial compression, Young's modulus, and four-point bending (FPB) crack mouth opening displacement (CMOD) tests. The results portrayed anisotropic non-linear and similar elastic behaviour (in terms of Young's modulus) in all experimental tests conducted. From the mechanical characterisation tests two elastic parameters, seven strength parameters and five inelastic parameters are ascertained. The experimental findings relating to the material characteristic parameters are validated via supplementary numerical evaluation, and suitable constitutive relations are selected. The mechanical parameters are implemented in an anisotropic Rankine-Hill continuum multi-surface plasticity FE model, and the FPB-CMOD fracture response of 3DCP specimens is simulate with respectable agreement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../best_heev_krug_cho.2020.SFLi3PC/">Steel-Fiber Links in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -102,8 +80,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "73 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
@@ -178,4 +156,33 @@ tags:
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../heev_best_krug_zijl.2022.NMSfR3CPE/">Numerical Modelling-Strategies for Reinforced 3D Concrete Printed Elements</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../skib_tech_fede_olcz.2021.ESoHYsMf3PM/">Experimental Study of Hardened Young's Modulus for 3D Printed Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{heev_best_krug_zijl.2021.MCfNSoEB3CP,
+      author            = "Marchant van den Heever and Frederick A. Bester and Jacques Pienaar Kruger and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing",
+      doi               = "10.1016/j.jobe.2021.102944",
+      year              = "2021",
+      journal           = "Journal of Building Engineering",
+      volume            = "44",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. van den Heever, F. A. Bester, J. P. Kruger and G. P. A. G. van Zijl, “Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing”, <i>Journal of Building Engineering</i>, vol. 44, 2021, doi: 10.1016/j.jobe.2021.102944.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Heever, Marchant van den, Frederick A. Bester, Jacques Pienaar Kruger, and Gideon Pieter Adriaan Greeff van Zijl. “Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing”. <i>Journal of Building Engineering</i> 44 (2021). https://doi.org/10.1016/j.jobe.2021.102944.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

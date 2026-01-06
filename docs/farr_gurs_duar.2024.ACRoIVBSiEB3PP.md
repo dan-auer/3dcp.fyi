@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paniz Farrokhsiar, Benay Gürsoy, José Duarte
+    - footer
+title: Farrokhsiar Paniz, Gürsoy Benay, Duarte José
 description:
 tags:
  - base
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Comprehensive Review on Integrating Vision-Based Sensing in Extrusion-Based 3D Printing Processes:<br/>:aca-blank: Toward Geometric Monitoring of Extrusion-Based 3D Concrete Printing ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1007/s41693-024-00133-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41693-024-00133-x</a>
+#A Comprehensive Review on Integrating Vision-Based Sensing in Extrusion-Based 3D Printing Processes&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">Toward Geometric Monitoring of Extrusion-Based 3D Concrete Printing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-024-00133-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-024-00133-x" target="_blank">10.1007/s41693-024-00133-x</a>
 
--------------------------
+<a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b>&nbsp;Paniz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b>&nbsp;Benay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
+Journal Article - Construction Robotics, Vol. 8, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>
-,     <a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> <a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Robotics, Vol. 8, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#geometry`](keyword/geometry)
-    [`#integration`](keyword/integration)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#review`](keyword/review)
-    [`#sensor`](keyword/sensor)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Review%20on%20Integrating%20Vision-Based%20Sensing%20in%20Extrusion-Based%203D%20Printing%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401834015" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41693-024-00133-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41693-024-00133-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, research on extrusion-based 3D concrete printing (3DCP) has gained traction. Ongoing research aims to improve sustainability and accuracy of 3DCP as maintaining print quality and material consistency during the process remains a challenge. To address this challenge, vision-based sensing technologies have been implemented as monitoring and controlling systems. This paper presents a systematic review on the use of vision-based sensing technologies primarily in 3DCP, as well as extrusion-based 3D printing with other materials. The goal is to provide a comprehensive analysis of the implementation and effectiveness of the vision-based sensing technologies in enhancing the accuracy and stability of 3DCP. With a focus on the technologies and methodologies employed, the paper presents the trends and gaps in the analyzed literature, centering on 3DCP. The literature reviewed suggests that implementing vision-based sensing technologies as monitoring systems can improve the accuracy and structural stability of the printed parts, which results in increased safety and decreased material waste, environmental impact, time, and labor.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ashr_naza_meis_duar.2022.AGBAfTPG/">A Grammar-Based Algorithm for Tool-Path-Generation:<br/>Compensating for Material-Deformation in the Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
@@ -111,10 +87,40 @@ tags:
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../zhan_wu_zhan_yuan.2021.3CPwVWF/">3D Concrete Printing with Variable-Width Filament</a></li>
       <li><a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a>, <a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../zivk_batt.2018.RPET/">Rough-Pass-Extrusion-Tooling:<br/>CNC Post-Processing of 3D Printed Sub-Additive Concrete Lattice-Structures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mabo_mawa_gerk.2025.GIi3CM/">Geometric Inspection in 3D Concrete Manufacturing:<br/>Comparison of Data Capturing Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{farr_gurs_duar.2024.ACRoIVBSiEB3PP,
+      author            = "Paniz Farrokhsiar and Benay Toykoc Gürsoy and José Pinto Duarte",
+      title             = "A Comprehensive Review on Integrating Vision-Based Sensing in Extrusion-Based 3D Printing Processes: Toward Geometric Monitoring of Extrusion-Based 3D Concrete Printing",
+      doi               = "10.1007/s41693-024-00133-x",
+      year              = "2024",
+      journal           = "Construction Robotics",
+      volume            = "8",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Farrokhsiar, B. T. Gürsoy and J. P. Duarte, “A Comprehensive Review on Integrating Vision-Based Sensing in Extrusion-Based 3D Printing Processes: Toward Geometric Monitoring of Extrusion-Based 3D Concrete Printing”, <i>Construction Robotics</i>, vol. 8, no. 2, 2024, doi: 10.1007/s41693-024-00133-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Farrokhsiar, Paniz, Benay Toykoc Gürsoy, and José Pinto Duarte. “A Comprehensive Review on Integrating Vision-Based Sensing in Extrusion-Based 3D Printing Processes: Toward Geometric Monitoring of Extrusion-Based 3D Concrete Printing”. <i>Construction Robotics</i> 8, no. 2 (2024). https://doi.org/10.1007/s41693-024-00133-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

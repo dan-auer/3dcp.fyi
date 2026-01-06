@@ -8,7 +8,7 @@ search:
 
 # #demonstration
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
   <li><a href="../../../author/muthumanickam_kumar_naveen"><b>Muthumanickam</b> Naveen</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../muth_duar_naza_bile.2023.MfRAoLSoBDfRC/">Metamodels for Rapid Analysis of Large Sets of Building Designs for Robotic Constructability:<br/>Technology Demonstration Using the NASA 3D Printed Mars Habitat Challenge</a></li>
   <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/kahlert_aniko"><b>Kahlert</b> Aniko</a>, <a href="../../../author/hall_m_daniel"><b>Hall</b> Daniel</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../gras_kahl_hall.2021.DH/">DFAB HOUSE:<br/>Implications of a Building-Scale Demonstrator for Adoption of Digital Fabrication in AEC</a></li>

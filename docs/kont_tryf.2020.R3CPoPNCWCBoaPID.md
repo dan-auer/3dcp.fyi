@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Odysseas Kontovourkis, George Tryfonos
+    - footer
+title: Kontovourkis Odysseas, Tryfonos George
 description:
 tags:
  - base
@@ -19,33 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design ([2019-11](date/2019/11))
-<a href="https://doi.org/10.1016/j.autcon.2019.103005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2019.103005</a>
+#Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design ([2019-11](date/2019/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2019.103005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.103005" target="_blank">10.1016/j.autcon.2019.103005</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5804-9657" title="ORCID: 0000-0001-5804-9657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b>&nbsp;Odysseas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8896-4952" title="ORCID: 0000-0001-8896-4952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tryfonos_george"><b>Tryfonos</b>&nbsp;George</a></span><br>
+Journal Article - Automation in Construction, Vol. 110
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a> <a href="https://orcid.org/0000-0001-5804-9657" title="ORCID: 0000-0001-5804-9657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="https://orcid.org/0000-0001-8896-4952" title="ORCID: 0000-0001-8896-4952" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 110, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#clay`](keyword/clay)
-    [`#component`](keyword/component)
-    [`#conventional`](keyword/conventional)
-    [`#design`](keyword/design)
-    [`#integration`](keyword/integration)
-    [`#parameter`](keyword/parameter)
-    [`#prefabrication`](keyword/prefabrication)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%203D%20Clay%20Printing%20of%20Prefabricated%20Non-Conventional%20Wall%20Components%20Based%20on%20a%20Parametric-Integrated%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85075536155&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2989974701" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2019.103005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2019.103005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Printing (3DP) techniques and materials applied in construction-scale are currently under constant investigation, with notable results published at research and experimental level. While their great importance has been discussed extensively, very scarce detailed research has been published on 3DP parameters that are incorporated into the design process at an early stage to assess their impact on 3D printing performance, focusing on geometric conformity aspects. This work aims to provide a comprehensive parametric design investigation, driven by 3DP parameters, related to infill and overhang control, which can enhance a deeper understanding of their use in construction scale of non-conventional wall components, placing emphasis on construction time performance minimization. To this end, the paper initially illustrates the development of a parametric-integrated algorithm for toolpath planning and 3DP control using an industrial robot, capable of being universally adjusted based on open-source extruders with small, medium and large nozzle diameters. In this study, earth and claybased materials are chosen because of their lower environmental impact and recyclability compared to concretebased materials. Secondly, important printing parameters for toolpath planning, robotic and nozzle control, as well as robotic printing time, are presented and discussed in detail through 3DP experimental tests and a nonconventional wall study. The correlation of parameters in the early stage of design allows the assessment of their effectiveness to be used in construction-scale of non-conventional geometries towards minimization of 3DP time performance
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/braumann_johannes"><b>Braumann</b> Johannes</a>, <a href="../../../author/brell-cokcan_sigrid"><b>Brell-Cokcan</b> Sigrid</a> <a href="../../../date/2012/12">(2012-12)</a><br><a href="../../../brau_brel.2012.DaPTfIRiA/">Digital and Physical Tools for Industrial Robots in Architecture:<br/>Robotic Interaction and Interfaces</a></li>
@@ -101,8 +78,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a>, <a href="../../../author/zhang_lichao"><b>Zhang</b> Lichao</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../xu_ding_cai_zhan.2019.VF3CPUaVSSN/">Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "56 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wan_wang_huan_wu.2025.SOBoIAf3CP/">Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>A Design Method for Printing-Friendly Structure</a></li>
@@ -159,6 +136,34 @@ tags:
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/schulte_martinez_dinorah"><b>Schulte</b> Dinorah</a>, <a href="../../../author/senol_ayca"><b>Şenol</b> Ayça</a>, <a href="../../../author/jeoffroy_etienne"><b>Jeoffroy</b> Etienne</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../beda_schu_seno_jeof.2021.R3PoMFfaLCFSP/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Facade Shading Panel</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/krotov_oleg"><b>Krotov</b> Oleg</a>, <a href="../../../author/lazarev_yuriy"><b>Lazarev</b> Yuriy</a>, <a href="../../../author/velichkin_viktor"><b>Velichkin</b> Viktor</a>, <a href="../../../author/petrochenko_marina"><b>Petrochenko</b> Marina</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../krot_laza_veli_petr.2020.TMSCPCT/">The Multi-Storey Concrete Printing Construction Technology</a></li>
-      <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kont_tryf.2018.IPDwRAMf3CP/">Integrating Parametric Design with Robotic Additive Manufacturing for 3D Clay Printing:<br/>An Experimental Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kont_tryf.2020.R3CPoPNCWCBoaPID,
+      author            = "Odysseas Kontovourkis and George Tryfonos",
+      title             = "Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design",
+      doi               = "10.1016/j.autcon.2019.103005",
+      year              = "2020",
+      journal           = "Automation in Construction",
+      volume            = "110",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Kontovourkis  and G. Tryfonos, “Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design”, <i>Automation in Construction</i>, vol. 110, 2020, doi: 10.1016/j.autcon.2019.103005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kontovourkis, Odysseas, and George Tryfonos. “Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design”. <i>Automation in Construction</i> 110 (2020). https://doi.org/10.1016/j.autcon.2019.103005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

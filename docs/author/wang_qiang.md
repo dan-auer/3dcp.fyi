@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,8 @@ search:
 
 #  Wang Qiang 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liang_xiangzhou"><b>Liang</b> Xiangzhou</a>, <a href="../../../author/li_jinqian"><b>Li</b> Jinqian</a>, <a href="../../../author/li_ziwei"><b>Li</b> Ziwei</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lian_li_li_wang.2026.EaAIotSBotDBR3PCBwUSSSSEF/">Experimental and Analytical Investigation of the Shear Behavior of the Developed BFRP Reinforced 3D Printed Composite Beams with U-Shaped Seawater Sea-Sand ECC Formwork</a></li>
   <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
   <li><a href="../../../author/wang_xiaoqi"><b>Wang</b> Xiaoqi</a>, <a href="../../../author/zuo_tianyi"><b>Zuo</b> Tianyi</a>, <a href="../../../author/xu_yanling"><b>Xu</b> Yanling</a>, <a href="../../../author/liu_xing"><b>Liu</b> Xing</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wang_zuo_xu_liu.2025.RLBCPPaAC3PoCHC/">Reinforcement Learning-Based Continuous Path Planning and Automated Concrete 3D Printing of Complex Hollow Components</a></li>
   <li><a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_wang_li_bai.2025.MSFaCi3PoSSCS/">Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures</a></li>

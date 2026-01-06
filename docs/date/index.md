@@ -70,7 +70,7 @@ hide:
   <tbody>
     <tr>
       <td>2026</td>
-      <td><a href="../date/2026/01">16</a></td>
+      <td><a href="../date/2026/01">30</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -90,13 +90,13 @@ hide:
       <td><a href="../date/2025/03">69</a></td>
       <td><a href="../date/2025/04">73</a></td>
       <td><a href="../date/2025/05">85</a></td>
-      <td><a href="../date/2025/06">114</a></td>
+      <td><a href="../date/2025/06">115</a></td>
       <td><a href="../date/2025/07">83</a></td>
       <td><a href="../date/2025/08">65</a></td>
       <td><a href="../date/2025/09">99</a></td>
-      <td><a href="../date/2025/10">105</a></td>
-      <td><a href="../date/2025/11">90</a></td>
-      <td><a href="../date/2025/12">68</a></td>
+      <td><a href="../date/2025/10">108</a></td>
+      <td><a href="../date/2025/11">92</a></td>
+      <td><a href="../date/2025/12">88</a></td>
     </tr>
     <tr>
       <td>2024</td>

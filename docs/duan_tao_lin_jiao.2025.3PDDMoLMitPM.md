@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhenhua Duan, Jie-Lin Tao, Can Lin, Dengwu Jiao, Yu Zhou, Zengfeng Zhao, Jian-Xin Lu
+    - footer
+title: Duan Zhenhua, Tao Jie-Lin, Lin Can, Jiao Dengwu, Zhou Yu, Zhao Zengfeng, Lu Jian-Xin
 description:
 tags:
  - dynamic
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars:<br/>:aca-blank: Experiment and Modelling ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140499" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140499</a>
+#3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">Experiment and Modelling</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140499" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140499" target="_blank">10.1016/j.conbuildmat.2025.140499</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3463-0858" title="ORCID: 0000-0002-3463-0858" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_jie-lin"><b>Tao</b>&nbsp;Jie-Lin</a></span>, <a href="../../../author/lin_can"><b>Lin</b>&nbsp;Can</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8943-757X" title="ORCID: 0000-0002-8943-757X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiao_dengwu"><b>Jiao</b>&nbsp;Dengwu</a></span>, <a href="../../../author/zhou_yu"><b>Zhou</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7059-9085" title="ORCID: 0000-0002-7059-9085" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_zengfeng"><b>Zhao</b>&nbsp;Zengfeng</a></span>, <a href="../../../author/lu_jian-xin"><b>Lu</b>&nbsp;Jian-Xin</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 470, No. 140499
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a> <a href="https://orcid.org/0000-0002-3463-0858" title="ORCID: 0000-0002-3463-0858" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_can"><b>Lin</b> Can</a>
-,     <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="https://orcid.org/0000-0002-8943-757X" title="ORCID: 0000-0002-8943-757X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_yu"><b>Zhou</b> Yu</a>
-,     <a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a> <a href="https://orcid.org/0000-0002-7059-9085" title="ORCID: 0000-0002-7059-9085" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_jian-xin"><b>Lu</b> Jian-Xin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 470, No. 140499
-
-:aca-blank:{ .lg .middle}
-    [`#dynamic`](keyword/dynamic)
-    [`#experiment`](keyword/experiment)
-    [`#light`](keyword/light)
-    [`#migration`](keyword/migration)
-    [`#model`](keyword/model)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/migration"><button class="btn">#migration</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing-Driven%20Dynamic%20Migration%20of%20Lightweight%20Microspheres%20in%20the%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218417579&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407979413" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140499" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140499?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Lightweight aggregates are inevitably prone to segregate during concrete construction due to their extremely low mass, thus seriously deteriorating the quality of concrete. This study utilized 3D printing technology to improve the spatial redistribution of lightweight microsphere aggregate (fly ash cenospheres, FACs) for enhancing the printability of printable mortars. Experimental and numerical simulation methods were jointly employed to elucidate the mechanisms behind the spatial redistribution of FACs and the printability improvement mechanisms of mortars. Results indicated that the partial replacement of sand with FACs led to distinct effects on the rheology, attributed to the interplay between water absorption and ball-bearing effects characteristic of such spherical microporous particles. Regarding printability, the inclusion of spherical FACs resulted in an effective increase in the maximum number of printed layers. And the risk of segregation during the printing process was reduced, as confirmed by both Discrete Element Method (DEM) simulations and X-CT results, thereby improving the structural homogeneity of printed components. Moreover, the simulation results using the DEM revealed that the extrusion process could drive the FACs to migrate towards the core of the strips, which influenced the mechanical and durability properties of printed structures. X-ray CT analysis confirmed that the separation and floating behaviors of FACs were mitigated by the 3D printing process, further validating the improved homogeneity of FACs. This work provides valuable insights into the spatial distribution of FACs during the 3D printing process, which is pivotal for ensuring the quality and reliability of lightweight 3D printed structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
@@ -97,9 +73,39 @@ tags:
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhu_cerv_ren.2024.BoC3PCGUP/">Buildability of Complex 3D Printed Concrete Geometries Using Peridynamics</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
       <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{duan_tao_lin_jiao.2025.3PDDMoLMitPM,
+      author            = "Zhenhua Duan and Jie-Lin Tao and Can Lin and Dengwu Jiao and Yu Zhou and Zengfeng Zhao and Jian-Xin Lu",
+      title             = "3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars: Experiment and Modelling",
+      doi               = "10.1016/j.conbuildmat.2025.140499",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "470",
+      pages             = "140499",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Duan, “3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars: Experiment and Modelling”, <i>Construction and Building Materials</i>, vol. 470, p. 140499, 2025, doi: 10.1016/j.conbuildmat.2025.140499.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Duan, Zhenhua, Jie-Lin Tao, Can Lin, Dengwu Jiao, Yu Zhou, Zengfeng Zhao, and Jian-Xin Lu. “3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars: Experiment and Modelling”. <i>Construction and Building Materials</i> 470 (2025): 140499. https://doi.org/10.1016/j.conbuildmat.2025.140499.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

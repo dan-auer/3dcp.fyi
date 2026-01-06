@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Youbau Jiang, Pengxiang Gao, Sondipon Adhikari, Xiaofei Yao, Hao Zhou, Yan Liu
+    - footer
+title: Jiang Youbau, Gao Pengxiang, Adhikari Sondipon, Yao Xiaofei, Zhou Hao, Liu Yan
 description:
 tags:
  - base
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.cscm.2024.e04193" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e04193</a>
+#Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2024.e04193" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e04193" target="_blank">10.1016/j.cscm.2024.e04193</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0276-818X" title="ORCID: 0000-0003-0276-818X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_youbau"><b>Jiang</b>&nbsp;Youbau</a></span>, <a href="../../../author/gao_pengxiang"><b>Gao</b>&nbsp;Pengxiang</a></span>, <a href="../../../author/adhikari_sondipon"><b>Adhikari</b>&nbsp;Sondipon</a></span>, <a href="../../../author/yao_xiaofei"><b>Yao</b>&nbsp;Xiaofei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4237-9421" title="ORCID: 0000-0002-4237-9421" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hao"><b>Zhou</b>&nbsp;Hao</a></span>, <a href="../../../author/liu_yan"><b>Liu</b>&nbsp;Yan</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04193
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a> <a href="https://orcid.org/0000-0003-0276-818X" title="ORCID: 0000-0003-0276-818X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>
-,     <a href="../../../author/adhikari_sondipon"><b>Adhikari</b> Sondipon</a>
-,     <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>
-,     <a href="../../../author/zhou_hao"><b>Zhou</b> Hao</a> <a href="https://orcid.org/0000-0002-4237-9421" title="ORCID: 0000-0002-4237-9421" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_yan"><b>Liu</b> Yan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04193
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#inter`](keyword/inter)
-    [`#interlocking`](keyword/interlocking)
-    [`#layer`](keyword/layer)
-    [`#mechanics`](keyword/mechanics)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Studies%20on%20the%20Mechanical%20Properties%20of%20Inter-Layer%20Interlocking%203D%20Printed%20Concrete%20Based%20on%20a%20Novel%20Nozzle" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213962210&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405926412" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e04193" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e04193?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The interlocking can effectively improve the mechanical properties of concrete. However, the strength of 3D printed concrete with interlocking interfaces, fabricated using non-automated methods, is reduced due to the time-consuming interface processing. Additionally, studies on the effects of interlocking on the mechanical properties, failure modes, and anisotropic behavior of 3D printed concrete are not yet systematic. In order to address these issues, a printing forming scheme and nozzles were designed for interlayer interlocking 3D printing, and the mechanical properties of interlayer interlocking 3D printed concrete were tested. Firstly, the forming scheme and nozzles are specifically designed for the preparation of 3D printed concrete with interlocking interfaces between the layers. Furthermore, extrudability tests are carried out to determine the appropriate printing parameters for interlayer interlocking 3D printed concrete. Finally, specimens were printed, and interfacial splitting tests, interlayer interfacial shear tests, and compression tests were conducted. The results reveal that: (1) by using an extrusion rate of the rotating shaft is 1 r/s, a nozzle travel speed of 30 mm/s, combined with appropriate mix ratio, the better forming interlayer interlocking concrete filament can be obtained. (2) the interlayer interlocking 3D printed specimens exhibit higher strength. The interfacial splitting tensile strength is increased by about 14.5% to 30.7%, and the interlayer interfacial shear strength is increased by about 7.8% to 18.0% compared to those with smooth interlayer interfaces. (3) the interlayer interlocking 3D printed concrete exhibits a reduction in the anisotropic coefficient of about 13.7% to 25.5%, and the anisotropy is significantly weakened.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../comm_silv_ande_stan.2020.IoPPotLGi3CP/">Influence of Processing Parameters on the Layer Geometry in 3D Concrete Printing:<br/>Experiments and Modelling</a></li>
       <li><a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../deng_jia_zhan_wang.2022.3PLACPwSPAM/">3D Printing Lightweight Aggregate Concrete Prepared with Shell-Packing-Aggregate Method:<br/>Printability, Mechanical Properties and Pore-Structure</a></li>
@@ -112,8 +87,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/tian_xin"><b>Tian</b> Xin</a>, <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/fang_zhi"><b>Fang</b> Zhi</a>, <a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tian_shi_fang_lin.2025.MIEoMBi3PCSK/">Multi-Interface Effects on Mechanical Behavior in 3D-Printed Concrete Shear Keys:<br/>A Finite Element Modeling Strategy</a></li>
@@ -123,4 +98,33 @@ tags:
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../most_krug.2025.ISaFPoM3PCBTFI/">Improving Shear and Flexural Performance of Macroscale 3D Printed Concrete Beams Through Filament Interlocking</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a>, <a href="../../../author/zhang_zupan"><b>Zhang</b> Zupan</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../jian_liu_zhan_gao.2025.TPoIIoI3PCwSTN/">Tensile Performance of Interlayer Interface of Interlocking 3D Printed Concrete with Single Toothlike Nozzle</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jian_gao_adhi_yao.2024.SotMPoILI3PCBoaNN,
+      author            = "Youbau Jiang and Pengxiang Gao and Sondipon Adhikari and Xiaofei Yao and Hao Zhou and Yan Liu",
+      title             = "Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle",
+      doi               = "10.1016/j.cscm.2024.e04193",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04193",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Jiang, P. Gao, S. Adhikari, X. Yao, H. Zhou and Y. Liu, “Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle”, <i>Case Studies in Construction Materials</i>, p. e04193, 2024, doi: 10.1016/j.cscm.2024.e04193.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiang, Youbau, Pengxiang Gao, Sondipon Adhikari, Xiaofei Yao, Hao Zhou, and Yan Liu. “Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle”. <i>Case Studies in Construction Materials</i>, 2024, e04193. https://doi.org/10.1016/j.cscm.2024.e04193.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

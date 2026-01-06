@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Weifeng Kuang, Petro Pavlenko, Haoyu Guo, Kuo Tian, Haoyu Liu, Zihao Zhou, Yifan Duan, Xuezhi Shi
+    - footer
+title: Kuang Weifeng, Pavlenko Petro, Guo Haoyu, Tian Kuo, Liu Haoyu, Zhou Zihao, Duan Yifan, Shi Xuezhi
 description:
 tags:
  - artificial
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Utilization of Machine-Made Sand Waste in 3D-Printed Ecological Concrete for Artificial Reefs ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04494" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04494</a>
+#Utilization of Machine-Made Sand Waste in 3D-Printed Ecological Concrete for Artificial Reefs ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2025.e04494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04494" target="_blank">10.1016/j.cscm.2025.e04494</a>
 
--------------------------
+<a href="../../../author/kuang_weifeng"><b>Kuang</b>&nbsp;Weifeng</a></span>, <a href="../../../author/pavlenko_petro"><b>Pavlenko</b>&nbsp;Petro</a></span>, <a href="../../../author/guo_haoyu"><b>Guo</b>&nbsp;Haoyu</a></span>, <a href="../../../author/tian_kuo"><b>Tian</b>&nbsp;Kuo</a></span>, <a href="../../../author/liu_haoyu"><b>Liu</b>&nbsp;Haoyu</a></span>, <a href="../../../author/zhou_zihao"><b>Zhou</b>&nbsp;Zihao</a></span>, <a href="../../../author/duan_yifan"><b>Duan</b>&nbsp;Yifan</a></span>, <a href="../../../author/shi_xuezhi"><b>Shi</b>&nbsp;Xuezhi</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04494
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kuang_weifeng"><b>Kuang</b> Weifeng</a>
-,     <a href="../../../author/pavlenko_petro"><b>Pavlenko</b> Petro</a>
-,     <a href="../../../author/guo_haoyu"><b>Guo</b> Haoyu</a>
-,     <a href="../../../author/tian_kuo"><b>Tian</b> Kuo</a>
-,     <a href="../../../author/liu_haoyu"><b>Liu</b> Haoyu</a>
-,     <a href="../../../author/zhou_zihao"><b>Zhou</b> Zihao</a>
-,     <a href="../../../author/duan_yifan"><b>Duan</b> Yifan</a>
-,     <a href="../../../author/shi_xuezhi"><b>Shi</b> Xuezhi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04494
-
-:aca-blank:{ .lg .middle}
-    [`#artificial`](keyword/artificial)
-    [`#concrete`](keyword/concrete)
-    [`#ecology`](keyword/ecology)
-    [`#machine`](keyword/machine)
-    [`#print`](keyword/print)
-    [`#reef`](keyword/reef)
-    [`#sand`](keyword/sand)
-    [`#util`](keyword/util)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/ecology"><button class="btn">#ecology</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reef"><button class="btn">#reef</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Utilization%20of%20Machine-Made%20Sand%20Waste%20in%203D-Printed%20Ecological%20Concrete%20for%20Artificial%20Reefs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000171734&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408255162" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04494" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04494?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With societal advancements, the use of machine-made sand has become increasingly prevalent. However, its production generates significant waste with limited utility. To address this issue, this study introduces an innovative ecological concrete material with a high substitution rate, examining the feasibility of using machine-made sand waste in concrete for 3D-printed artificial reefs. Experimental results showed that the incorporation ratio of machine-made sand waste could reach 30%. Although this inclusion slightly reduced the concrete's mechanical properties, it achieved a compressive strength exceeding 30 MPa after 28 days of curing, meeting the requirements for artificial reef construction. Additionally, the material demonstrated excellent printability, producing well-formed components with intact appearances. Observations from laboratory fish behavioral studies and field tests in marine environments confirmed that the concrete material did not adversely affect the activity or growth of benthic fish species and exhibited favorable bio-affinity. Furthermore, the carbon emissions associated with this material were significantly lower than those of traditional concrete reef materials. In conclusion, this novel concrete offers significant advantages in terms of mechanical performance, printability, biocompatibility, and carbon emissions, providing essential theoretical and experimental support for the development and promotion of eco-friendly artificial reef materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albalawi_i_hamed"><b>Albalawi</b> Hamed</a>, <a href="../../../author/khan_n_zainab"><b>Khan</b> Zainab</a>, <a href="../../../author/valle-perez_uriel_alexander"><b>Valle-Pérez</b> Alexander</a>, <a href="../../../author/kahin_m_kowther"><b>Kahin</b> Kowther</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../alba_khan_vall_kahi.2021.SaEFCRT3PaF/">Sustainable and Eco-Friendly Coral Restoration Through 3D Printing and Fabrication</a></li>
       <li><a href="../../../author/boukhelf_fouad"><b>Boukhelf</b> Fouad</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/boutouil_mohamed"><b>Boutouil</b> Mohamed</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../bouk_seba_bout_yori.2022.OtPEoEMDtMARv3P/">On the Properties Evolution of Eco-Material Dedicated to Manufacturing Artificial Reef via 3D Printing:<br/>Long-Term Interactions of Cementitious Materials in the Marine Environment</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../ding_xiao_zou_yu.2021.FPo3PFRCwRS/">Flexural Properties of 3D Printed Fiber-Reinforced Concrete with Recycled Sand</a></li>
@@ -85,8 +58,37 @@ tags:
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../yori_sleb_liza_inda.2023.ARBb3P/">Artificial Reefs Built by 3D Printing:<br/>Systematisation in the Design, Material-Selection and Fabrication</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kuan_pavl_guo_tian.2025.UoMMSWi3PECfAR,
+      author            = "Weifeng Kuang and Petro Pavlenko and Haoyu Guo and Kuo Tian and Haoyu Liu and Zihao Zhou and Yifan Duan and Xuezhi Shi",
+      title             = "Utilization of Machine-Made Sand Waste in 3D-Printed Ecological Concrete for Artificial Reefs",
+      doi               = "10.1016/j.cscm.2025.e04494",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04494",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Kuang, “Utilization of Machine-Made Sand Waste in 3D-Printed Ecological Concrete for Artificial Reefs”, <i>Case Studies in Construction Materials</i>, p. e04494, 2025, doi: 10.1016/j.cscm.2025.e04494.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kuang, Weifeng, Petro Pavlenko, Haoyu Guo, Kuo Tian, Haoyu Liu, Zihao Zhou, Yifan Duan, and Xuezhi Shi. “Utilization of Machine-Made Sand Waste in 3D-Printed Ecological Concrete for Artificial Reefs”. <i>Case Studies in Construction Materials</i>, 2025, e04494. https://doi.org/10.1016/j.cscm.2025.e04494.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

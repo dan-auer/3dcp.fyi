@@ -8,7 +8,7 @@ search:
 
 # #consumption
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liu_du_teng_weng.2025.ECMfaRAi3CP/">Energy Consumption Modeling for a Robot Arm in 3D Concrete Printing</a></li>
   <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../baya_kash.2025.RMaECiSSBT3PWD/">Reducing Material and Energy Consumption in Single-Story Buildings Through 3D-Printed Wall Designs</a></li>
   <li><a href="../../../author/kajzr_daniel"><b>Kajzr</b> Daniel</a>, <a href="../../../author/myslivec_tomas"><b>Myslivec</b> Tomáš</a>, <a href="../../../author/cernohorsky_josef"><b>Černohorský</b> Josef</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../kajz_mysl_cern.2024.MAaCoRECfTDCPT/">Modelling, Analysis and Comparison of Robot Energy Consumption for Three-Dimensional Concrete Printing Technology</a></li>

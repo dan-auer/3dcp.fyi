@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kavya Vallurupalli, Nima Farzadnia, Kamal Khayat
+    - footer
+title: Vallurupalli Kavya, Farzadnia Nima, Khayat Kamal
 description:
 tags:
  - behavior
@@ -19,34 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements:<br/>:aca-blank: A Review ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.103952" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.103952</a>
+#Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements&nbsp;([2021-01](date/2021/01))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.103952" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.103952" target="_blank">10.1016/j.cemconcomp.2021.103952</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8884-6411" title="ORCID: 0000-0001-8884-6411" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b>&nbsp;Kavya</a></span>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 118
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a> <a href="https://orcid.org/0000-0001-8884-6411" title="ORCID: 0000-0001-8884-6411" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>
-,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 118, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#effect`](keyword/effect)
-    [`#element`](keyword/element)
-    [`#flow`](keyword/flow)
-    [`#induction`](keyword/induction)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#review`](keyword/review)
-    [`#shape`](keyword/shape)
-    [`#stability`](keyword/stability)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Flow%20Behavior%20and%20Process-Induced%20Variations%20on%20Shape%20Stability%20of%203D%20Printed%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101493520&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3125931905" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.103952" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.103952?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Successful implementation of extrusion-based 3D printing (3DP) of concrete requires knowledge of material flow behavior during pumping and extrusion and its influence on shape stability of printed elements. Limited emphasis exists on flow behavior and process-induced variations in material properties (rheology and composition) during printing. This paper delineates the effect of flow behavior and process-induced variations on shape stability. A comprehensive review of material flow behavior during pumping and extrusion is discussed, and its influence on shape stability of 3DP elements is highlighted. The extent of shearing in print material is shown to govern process-induced variations during pumping and extrusion. During extrusion, the degree of filtration and consolidation plays a significant role on shape stability. Accurate assessment of process-induced changes in material properties is required to ensure steady and continuous flow of material during 3DP and secure proper shape stability of printed elements
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "57 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
@@ -130,8 +107,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "32 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/alnaggar_mohammed"><b>Alnaggar</b> Mohammed</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../alna.2026.LFAMwCaGM/">Large Format Additive Manufacturing with Cementitious and Geo Materials:<br/>General Considerations, Drivers, and Context</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
@@ -165,4 +142,33 @@ tags:
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vall_farz_khay.2021.EoFBaPIVoSSo3PE,
+      author            = "Kavya Vallurupalli and Nima Farzadnia and Kamal H. Khayat",
+      title             = "Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements: A Review",
+      doi               = "10.1016/j.cemconcomp.2021.103952",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "118",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Vallurupalli, N. Farzadnia and K. H. Khayat, “Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements: A Review”, <i>Cement and Concrete Composites</i>, vol. 118, 2021, doi: 10.1016/j.cemconcomp.2021.103952.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vallurupalli, Kavya, Nima Farzadnia, and Kamal H. Khayat. “Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements: A Review”. <i>Cement and Concrete Composites</i> 118 (2021). https://doi.org/10.1016/j.cemconcomp.2021.103952.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

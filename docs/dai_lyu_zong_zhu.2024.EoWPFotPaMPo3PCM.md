@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pengfei Dai, Qifeng Lyu, Meirong Zong, Pinghua Zhu
+    - footer
+title: Dai Pengfei, Lyu Qifeng, Zong Meirong, Zhu Pinghua
 description:
 tags:
  - cement
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Waste-Plastic-Fibers on the Printability and Mechanical Properties of 3D Printed Cement Mortar ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.jobe.2024.108439" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.108439</a>
+#Effect of Waste-Plastic-Fibers on the Printability and Mechanical Properties of 3D Printed Cement Mortar ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108439" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108439" target="_blank">10.1016/j.jobe.2024.108439</a>
 
--------------------------
+<a href="../../../author/dai_pengfei"><b>Dai</b>&nbsp;Pengfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_qifeng"><b>Lyu</b>&nbsp;Qifeng</a></span>, <a href="../../../author/zong_meirong"><b>Zong</b>&nbsp;Meirong</a></span>, <a href="../../../author/zhu_pinghua"><b>Zhu</b>&nbsp;Pinghua</a></span><br>
+Journal Article - Journal of Building Engineering, No. 108439
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>
-,     <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>
-,     <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 108439
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Waste-Plastic-Fibers%20on%20the%20Printability%20and%20Mechanical%20Properties%20of%203D%20Printed%20Cement%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181773400&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390502135" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.108439" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.108439?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extensive use and disposal of waste plastic bags have caused significant environmental issues. However, waste plastic bags can be used as fibers to enforce the mechanical properties of cementitious materials. Therefore, the effect of waste plastic fibers on the printability and mechanical properties of 3D-printed cement mortar was investigated in this work. The experiment mainly studied how the parameters of waste-plastic-fiber contents, fiber widths, and printing spacing affected the flowability, buildability, compressive strength, and flexural strength of 3D-printed cement mortar. Additionally, the microstructure of the printed specimens was analyzed by X-ray computed tomography (CT) and scanning electron microscope (SEM). Results showed that the addition of waste plastic fibers improved the flexural strength of 3D-printed mortar to a certain extent, with the maximum value achieved at the fiber content of 0.3 %, for the same fiber width and printing spacing. However, as the fiber content increased, the X-CT scan showed that the porosity of the cement mortar gradually increased, resulting in a decrease in its compressive strength. Varying fiber widths had little effect on the mechanical properties of the printed specimens, whereas the spacing between the printing filaments had a significant influence on it. Larger printing spacing lowered the bonding performance between the printing filaments, thereby weakening the mechanical properties of the cement mortar. SEM images revealed that more pores were generated in the printed mortar than in the cast, resulting in the compressive strength of the cast higher than that of the printed. However, the extrusion of the mortar through the nozzle during printing improved the bond strength between the filaments, so the flexural strength of the printed specimens was significantly higher than that of the cast. This study may provide knowledge on recycling waste plastic bags as building materials to alleviate environmental pollution and also reserve resources.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
@@ -111,8 +87,8 @@ tags:
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_khan_mcna.2025.EoNSwHRoGoEMPaRo3PC/">Effect of Nano Silica with High Replacement of GGBS on Enhancing Mechanical Properties and Rheology of 3D Printed Concrete</a></li>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
       <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a></li>
@@ -128,4 +104,33 @@ tags:
       <li><a href="../../../author/du_jiashuai"><b>Du</b> Jiashuai</a>, <a href="../../../author/wei_yazhi"><b>Wei</b> Yazhi</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/idriss_i-b_aboubaker"><b>Idriss</b> Aboubaker</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../du_wei_zhan_idri.2024.EoOSDoPEoBB3PC/">Effects of Oyster-Shell-Derivatives on Performance Enhancement of Biomass-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lyu_wang_dai.2024.MPGCMbAB3CP/">Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dai_lyu_zong_zhu.2024.EoWPFotPaMPo3PCM,
+      author            = "Pengfei Dai and Qifeng Lyu and Meirong Zong and Pinghua Zhu",
+      title             = "Effect of Waste-Plastic-Fibers on the Printability and Mechanical Properties of 3D Printed Cement Mortar",
+      doi               = "10.1016/j.jobe.2024.108439",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "108439",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Dai, Q. Lyu, M. Zong and P. Zhu, “Effect of Waste-Plastic-Fibers on the Printability and Mechanical Properties of 3D Printed Cement Mortar”, <i>Journal of Building Engineering</i>, p. 108439, 2024, doi: 10.1016/j.jobe.2024.108439.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dai, Pengfei, Qifeng Lyu, Meirong Zong, and Pinghua Zhu. “Effect of Waste-Plastic-Fibers on the Printability and Mechanical Properties of 3D Printed Cement Mortar”. <i>Journal of Building Engineering</i>, 2024, 108439. https://doi.org/10.1016/j.jobe.2024.108439.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

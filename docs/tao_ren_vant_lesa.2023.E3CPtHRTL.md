@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Qiang Ren, Gieljan Vantyghem, Karel Lesage, Kim Tittelboom, Yong Yuan, Wouter Corte, Geert Schutter
+    - footer
+title: Tao Yaxin, Ren Qiang, Vantyghem Gieljan, Lesage Karel, Tittelboom Kim, Yuan Yong, Corte Wouter, Schutter Geert
 description:
 tags:
  - adhesion
@@ -19,39 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://biblio.ugent.be/publication/01GTPR3WXDWGFVF16ZTC3MJRJX/file/01GTPR7BXKD00J03A34TNAM7WX.pdf) Extending 3D Concrete Printing to Hard Rock Tunnel Linings:<br/>:aca-blank: Adhesion of Fresh Cementitious Materials for Different Surface Inclinations ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.autcon.2023.104787" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.104787</a>
+#Extending 3D Concrete Printing to Hard Rock Tunnel Linings&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">Adhesion of Fresh Cementitious Materials for Different Surface Inclinations</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://biblio.ugent.be/publication/01GTPR3WXDWGFVF16ZTC3MJRJX/file/01GTPR7BXKD00J03A34TNAM7WX.pdf) <a href="https://doi.org/10.1016/j.autcon.2023.104787" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104787" target="_blank">10.1016/j.autcon.2023.104787</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_qiang"><b>Ren</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b>&nbsp;Gieljan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lesage_karel"><b>Lesage</b>&nbsp;Karel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Automation in Construction, Vol. 149
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> <a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> <a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 149, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#inclination`](keyword/inclination)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#surface`](keyword/surface)
-    [`#tunnel`](keyword/tunnel)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/inclination"><button class="btn">#inclination</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/tunnel"><button class="btn">#tunnel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extending%203D%20Concrete%20Printing%20to%20Hard%20Rock%20Tunnel%20Linings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148010779&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320879322" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.104787" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.104787?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As an emerging automated construction technology, 3D concrete printing opens the opportunity for the construction of hard rock tunnel linings. However, very limited studies were carried out in this regard, especially the adhesion between freshly printed cementitious materials and the excavated rock wall deserves further attention. In this study, the adhesive performance of the fresh cementitious material at two representative surface inclinations, including the overhead position (inclination of 180◦) and the side position (inclination of 90◦), was explored by a tack test and a shear test. This was further studied by two series of 3D concrete printing tests including horizontal printing at the underside of a supported slab and vertical printing against an upright slab. Results demonstrated the adhesion at the overhead position was limited by both the shear resistance of the fresh cementitious material and the property of the material-to-substrate interface, while the adhesion at the side position was mainly constrained by the shear resistance of the fresh cementitious material. Moreover, the stress state analysis of the printed layers at the overhead position and the side position indicated that the tack test and shear test gave a good prediction about the printing capacity of the fresh cementitious material for hard rock tunnel linings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../he_chow_li.2020.EoILNaSSoILSo3PCP/">Effects of Inter-Layer Notch and Shear Stress on Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
@@ -88,8 +60,8 @@ tags:
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../putt_schu_titt.2019.SMaaTtIILBSi3PCM/">Surface-Modification as a Technique to Improve Inter-Layer Bonding Strength in 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tao_yuan_zhan_wang.2025.PSAoPUVT/">Pore Structure Analysis of Printcrete Under Varying Temperature</a></li>
@@ -108,6 +80,34 @@ tags:
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lu_wang_wang_tan.2024.DoRSSSCMfSSHM/">Development of Robotic Sprayable Self-Sensing Cementitious Material for Smart Structural Health Monitoring</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../tao_zhan_schu_titt.2024.IBo3PCwCRCfAR/">Interfacial Bonding of 3D Printable Concrete with Chemically Reactive Coating for Automatic Repair</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/wang_xiaoyun"><b>Wang</b> Xiaoyun</a>, <a href="../../../author/godinho_r-a_jose"><b>Godinho</b> Jose</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../tao_zhan_wang_godi.2024.AEaICo3PCfAR/">Adhesion Evaluation and Interface Characterization of 3D Printed Concrete for Automatic Repair</a></li>
-      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tao_lesa_titt_yuan.2022.IoSSRaMCoTAPo3PC/">Influence of Substrate-Surface-Roughness and Moisture-Content on Tensile Adhesion Performance of 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_ren_vant_lesa.2023.E3CPtHRTL,
+      author            = "Yaxin Tao and Qiang Ren and Gieljan Vantyghem and Karel Lesage and Kim van Tittelboom and Yong Yuan and Wouter de Corte and Geert de Schutter",
+      title             = "Extending 3D Concrete Printing to Hard Rock Tunnel Linings: Adhesion of Fresh Cementitious Materials for Different Surface Inclinations",
+      doi               = "10.1016/j.autcon.2023.104787",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "149",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, “Extending 3D Concrete Printing to Hard Rock Tunnel Linings: Adhesion of Fresh Cementitious Materials for Different Surface Inclinations”, <i>Automation in Construction</i>, vol. 149, 2023, doi: 10.1016/j.autcon.2023.104787.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Qiang Ren, Gieljan Vantyghem, Karel Lesage, Kim van Tittelboom, Yong Yuan, Wouter de Corte, and Geert de Schutter. “Extending 3D Concrete Printing to Hard Rock Tunnel Linings: Adhesion of Fresh Cementitious Materials for Different Surface Inclinations”. <i>Automation in Construction</i> 149 (2023). https://doi.org/10.1016/j.autcon.2023.104787.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

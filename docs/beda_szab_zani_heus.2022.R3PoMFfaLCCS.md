@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Patrick Bedarf, Anna Szabó, Michele Zanini, Alex Heusi, Benjamin Dillenburger
+    - footer
+title: Bedarf Patrick, Szabó Anna, Zanini Michele, Heusi Alex, Dillenburger Benjamin
 description:
 tags:
  - composite
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/caadria2022_357.pdf) Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab ([2022-04](date/2022/04))
-<a href="https://doi.org/10.52842/conf.caadria.2022.2.061" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.caadria.2022.2.061</a>
+#Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab ([2022-04](date/2022/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2022_357.pdf) <a href="https://doi.org/10.52842/conf.caadria.2022.2.061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2022.2.061" target="_blank">10.52842/conf.caadria.2022.2.061</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bedarf_patrick"><b>Bedarf</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8665-3779" title="ORCID: 0000-0002-8665-3779" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/szabo_anna"><b>Szabó</b>&nbsp;Anna</a></span>, <a href="../../../author/zanini_michele"><b>Zanini</b>&nbsp;Michele</a></span>, <a href="../../../author/heusi_alex"><b>Heusi</b>&nbsp;Alex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Contribution - Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia, pp. 61-70
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a> <a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a> <a href="https://orcid.org/0000-0002-8665-3779" title="ORCID: 0000-0002-8665-3779" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>
-,     <a href="../../../author/heusi_alex"><b>Heusi</b> Alex</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia, pp. 61-70
-
-:aca-blank:{ .lg .middle}
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#light`](keyword/light)
-    [`#mineral`](keyword/mineral)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#slab`](keyword/slab)
-
-
--------------------------
+<a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%203D%20Printing%20of%20Mineral%20Foam%20for%20a%20Lightweight%20Composite%20Concrete%20Slab" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4286384698" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.caadria.2022.2.061" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.caadria.2022.2.061?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the design and fabrication of a lightweight composite concrete slab prototype using 3D printing (3DP) of mineral foams. Conventionally, concrete slabs are standardized monolithic elements that are responsible for a large share of used materials and dead weight in concrete framed buildings. Optimized slab designs require less material at the expense of increasing the formwork complexity, required labour, and costs. To address these challenges, foam 3D printing (F3DP) can be used in construction as demonstrated in previous studies for lightweight facade elements. The work in this paper expands this research and uses F3DP to fabricate the freeform stay-in-place formwork components for a material-efficient lightweight ribbed concrete slab with a footprint of 2 x 1.3 m. For this advancement in scale, the robotic fabrication and material processing setup is refined and computational design strategies for the generation of advanced toolpaths developed. The presented composite of hardened mineral foam and fibre-reinforced ultra-high-performance concrete shows how custom geometries can be efficiently fabricated for geometrically complex formwork. The prototype demonstrates that optimized slabs could save up to 72% of total concrete volume and 70% weight. The discussion of results and challenges in this study provides a valuable outlook on the viability of this novel fabrication technique to foster a sustainable and resourceful future construction culture.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../agus_jipa_habe.2019.EAoMFBECwDFT/">Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
@@ -78,7 +55,6 @@ tags:
       <li><a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../fure_poul_garn.2019.3PfCBoaCWoPFaC/">3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
-      <li><a href="../../../author/hansemann_georg"><b>Hansemann</b> Georg</a>, <a href="../../../author/holzinger_christoph"><b>Holzinger</b> Christoph</a>, <a href="../../../author/schmid_robert"><b>Schmid</b> Robert</a>, <a href="../../../author/tapley_paul_joshua"><b>Tapley</b> Joshua</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../hans_holz_schm_tapl.2023.LRCS/">Lightweight Reinforced Concrete Slab</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giacomarra_federico"><b>Giacomarra</b> Federico</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../jipa_giac_gies_chou.2019.3PFfBCS/">3D Printed Formwork for Bespoke Concrete Stairs</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
@@ -95,8 +71,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhou_yuan_zhou.2021.DaFoa3CPPSB/">Design and Fabrication of a 3D Concrete Printed Pre-Stressed Bridge</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a>, <a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a>, <a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jin_xu_xu.2025.I3PCFiTVGR/">Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof</a></li>
       <li><a href="../../../author/hua_hao"><b>Hua</b> Hao</a>, <a href="../../../author/liu_yizhuo"><b>Liu</b> Yizhuo</a>, <a href="../../../author/hovestadt_ludger"><b>Hovestadt</b> Ludger</a>, <a href="../../../author/he_siyuan"><b>He</b> Siyuan</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hua_liu_hove_he.2025.DN/">Digital Nervi:<br/>Performance‐based Design of Lightweight Isostatic Ribbed Slab with 3D Printed Concrete Formwork</a></li>
@@ -115,4 +91,34 @@ tags:
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
       <li><a href="../../../author/he_chuan"><b>He</b> Chuan</a>, <a href="../../../author/zhang_shiyu"><b>Zhang</b> Shiyu</a>, <a href="../../../author/liang_youwang"><b>Liang</b> Youwang</a>, <a href="../../../author/ahmad_waqas"><b>Ahmad</b> Waqas</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../he_zhan_lian_ahma.2022.ASRoMRKf3PC/">A Scientometric Review on Mapping Research Knowledge for 3D Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{beda_szab_zani_heus.2022.R3PoMFfaLCCS,
+      author            = "Patrick Bedarf and Anna Szabó and Michele Zanini and Alex Heusi and Benjamin Dillenburger",
+      title             = "Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab",
+      doi               = "10.52842/conf.caadria.2022.2.061",
+      year              = "2022",
+      pages             = "61--70",
+      booktitle         = "Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia: CAADRIA",
+      editor            = "Jeroen van Ameijde and Nicole Gardner and Kyung Hoon Hyun and Dan Luo and Urvi Sheth",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Bedarf, A. Szabó, M. Zanini, A. Heusi and B. Dillenburger, “Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab”, in <i>Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia: CAADRIA</i>,  2022, pp. 61–70. doi: 10.52842/conf.caadria.2022.2.061.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bedarf, Patrick, Anna Szabó, Michele Zanini, Alex Heusi, and Benjamin Dillenburger. “Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab”. In <i>Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia: CAADRIA</i>, edited by Jeroen van Ameijde, Nicole Gardner, Kyung Hoon Hyun, Dan Luo, and Urvi Sheth, 61–70, 2022. https://doi.org/10.52842/conf.caadria.2022.2.061.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

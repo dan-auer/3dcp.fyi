@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Claßen Martin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/muller_niklas"><b>Müller</b> Niklas</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../mull_cla.2025.AMoTOLSUFC/">Additive Manufacturing of Topology-Optimized Lightweight Slabs Using Foam Concrete</a></li>
   <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../enge_hegg_cla.2025.MAFwC/">Multimodal Automated Fabrication with Concrete:<br/>Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling</a></li>
   <li><a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a>, <a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/beckmann_birgit"><b>Beckmann</b> Birgit</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../cruz_bosb_kalt_beck.2024.MMRaHSMoECRCW/">Material-Minimized Rib and Honeycomb Slabs Made of Extruded Carbon-Reinforced Concrete Webs</a></li>

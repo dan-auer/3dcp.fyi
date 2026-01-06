@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Myoungsung Choi, Kyoungsoo Park, Taekeun Oh
+    - footer
+title: Choi Myoungsung, Park Kyoungsoo, Oh Taekeun
 description:
 tags:
  - behavior
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007%2Fs40069-016-0158-3.pdf) Viscoelastic Properties of Fresh Cement-Paste to Study the Flow Behavior ([2016-06](date/2016/06))
-<a href="https://doi.org/10.1007/s40069-016-0158-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40069-016-0158-3</a>
+#Viscoelastic Properties of Fresh Cement-Paste to Study the Flow Behavior ([2016-06](date/2016/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007%2Fs40069-016-0158-3.pdf) <a href="https://doi.org/10.1007/s40069-016-0158-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40069-016-0158-3" target="_blank">10.1007/s40069-016-0158-3</a>
 
--------------------------
+<a href="../../../author/choi_myoungsung"><b>Choi</b>&nbsp;Myoungsung</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6243-5016" title="ORCID: 0000-0001-6243-5016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_kyoungsoo"><b>Park</b>&nbsp;Kyoungsoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3848-6248" title="ORCID: 0000-0003-3848-6248" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oh_taekeun"><b>Oh</b>&nbsp;Taekeun</a></span><br>
+Journal Article - International Journal of Concrete Structures and Materials, Vol. 10, Iss. S3, pp. 65-74
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>
-,     <a href="../../../author/park_kyoungsoo"><b>Park</b> Kyoungsoo</a> <a href="https://orcid.org/0000-0001-6243-5016" title="ORCID: 0000-0001-6243-5016" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oh_taekeun"><b>Oh</b> Taekeun</a> <a href="https://orcid.org/0000-0003-3848-6248" title="ORCID: 0000-0003-3848-6248" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Concrete Structures and Materials, Vol. 10, Iss. S3, pp. 65-74
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#flow`](keyword/flow)
-    [`#fresh`](keyword/fresh)
-    [`#paste`](keyword/paste)
-    [`#property`](keyword/property)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Viscoelastic%20Properties%20of%20Fresh%20Cement-Paste%20to%20Study%20the%20Flow%20Behavior" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84987887566&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,21 +37,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2472800794" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40069-016-0158-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40069-016-0158-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     During concrete pumping, the migration and redistribution of particles occur in a pipe and the lubrication layer that forms between the bulk concrete and the pipe wall is the governing factor determining the flow behavior. In order to identify flow behavior of pumping, in this study, the viscoelastic properties related to the microstructural behavior of a flocculated suspension were examined by using dynamic oscillatory measurements. Cement paste is assumed to be a constituent material ofthe lubrication layer and ten cases of mixing design are employed by changing the proportions of mineral admixtures. The relationship between the yield stress obtained from the steady shear test and the dynamic modulus resulted from the oscillatory shear measurement was derived and the implications of the correlation are discussed. Moreover, based on the investigation of the viscoelastic properties with oscillatory measurements, the initial behavior of pumped concrete was analyzed systematically.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kim_ki-yeol"><b>Kim</b> Ki-Yeol</a>, <a href="../../../author/lim_dong-kyu"><b>Lim</b> Dong-Kyu</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kim_lim_choi.2025.CoPMfVCM/">Comparison of Pumping Mechanism for Various Cementitious Materials</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../fasi_libr.2024.FPtD/">From Pumping to Deposition:<br/>A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
@@ -79,4 +59,35 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{choi_park_oh.2016.VPoFCPtStFB,
+      author            = "Myoungsung Choi and Kyoungsoo Park and Taekeun Oh",
+      title             = "Viscoelastic Properties of Fresh Cement-Paste to Study the Flow Behavior",
+      doi               = "10.1007/s40069-016-0158-3",
+      year              = "2016",
+      journal           = "International Journal of Concrete Structures and Materials",
+      volume            = "10",
+      number            = "S3",
+      pages             = "65--74",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Choi, K. Park and T. Oh, “Viscoelastic Properties of Fresh Cement-Paste to Study the Flow Behavior”, <i>International Journal of Concrete Structures and Materials</i>, vol. 10, no. S3, pp. 65–74, 2016, doi: 10.1007/s40069-016-0158-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Choi, Myoungsung, Kyoungsoo Park, and Taekeun Oh. “Viscoelastic Properties of Fresh Cement-Paste to Study the Flow Behavior”. <i>International Journal of Concrete Structures and Materials</i> 10, no. S3 (2016): 65–74. https://doi.org/10.1007/s40069-016-0158-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

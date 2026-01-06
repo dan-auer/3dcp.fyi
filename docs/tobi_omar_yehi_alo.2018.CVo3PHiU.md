@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: A. Tobi, S. Omar, Z. Yehia, S. Al-Ojaili, A. Hashim, Osman Orhan
+    - footer
+title: Tobi A., Omar S., Yehia Z., Al-Ojaili S., Hashim A., Orhan Osman
 description:
 tags:
  - cost
@@ -11,29 +12,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1088/1757-899x/319/1/012061) Cost Viability of 3D Printed House in UK ([2018-03](date/2018/03))
-<a href="https://doi.org/10.1088/1757-899x/319/1/012061" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1757-899x/319/1/012061</a>
+#Cost Viability of 3D Printed House in UK ([2018-03](date/2018/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/319/1/012061) <a href="https://doi.org/10.1088/1757-899x/319/1/012061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/319/1/012061" target="_blank">10.1088/1757-899x/319/1/012061</a>
 
--------------------------
+<a href="../../../author/tobi_l-mohd_a"><b>Tobi</b>&nbsp;A.</a></span>, <a href="../../../author/omar_a_s"><b>Omar</b>&nbsp;S.</a></span>, <a href="../../../author/yehia_z"><b>Yehia</b>&nbsp;Z.</a></span>, <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b>&nbsp;S.</a></span>, <a href="../../../author/hashim_a"><b>Hashim</b>&nbsp;A.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1632-0207" title="ORCID: 0000-0002-1632-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orhan_osman"><b>Orhan</b>&nbsp;Osman</a></span><br>
+Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 319
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tobi_l-mohd_a"><b>Tobi</b> A.</a>
-,     <a href="../../../author/omar_a_s"><b>Omar</b> S.</a>
-,     <a href="../../../author/yehia_z"><b>Yehia</b> Z.</a>
-,     <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b> S.</a>
-,     <a href="../../../author/hashim_a"><b>Hashim</b> A.</a>
-,     <a href="../../../author/orhan_osman"><b>Orhan</b> Osman</a> <a href="https://orcid.org/0000-0002-1632-0207" title="ORCID: 0000-0002-1632-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 319, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cost`](keyword/cost)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cost%20Viability%20of%203D%20Printed%20House%20in%20UK" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85045668644&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,23 +33,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2789453812" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1757-899x/319/1/012061" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1757-899x/319/1/012061?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     UK has been facing housing crisis due to the rising price of the property on sale. This paper will look into the viability of 3D printing technology as an alternative way for house construction on UK. The analysis will be carried out based on the data until the year of 2014 due to limited resources availability. Details cost breakdown on average size house construction cost in UK were analysed and relate to the cost viability of 3D printing technology in reducing the house price in UK. It is found that the 3D printing generates saving of up to around 35% out of total house price in UK. This cost saving comes from the 3D printed construction of walls and foundations for material and labour cost.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2005/11">(2005-11)</a><br><a href="../../../hwan_khos.2005.AICPCCC/">An Innovative Construction Process-Contour Crafting (CC)</a></li>
-      <li><a href="../../../author/tobi_l-mohd_a"><b>Tobi</b> A.</a>, <a href="../../../author/omar_a_s"><b>Omar</b> S.</a>, <a href="../../../author/yehia_z"><b>Yehia</b> Z.</a>, <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b> S.</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../tobi_omar_yehi_alo.2018.CVo3PHiU/">Cost Viability of 3D Printed House in UK</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_besk_krav_zhon.2025.EVo3CP/">Economic Viability of 3D Concrete Printing:<br/>A Comparative Study with Traditional Construction Method</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/dahlberg_maike"><b>Dahlberg</b> Maike</a>, <a href="../../../author/thormahlen_jan"><b>Thormählen</b> Jan</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../plac_dahl_thor_schw.2025.HPI3CP/">How Productive Is 3D Concrete Printing?:<br/>A Systematic Review</a></li>
@@ -90,6 +70,34 @@ tags:
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ting_tay_tan.2021.EMotEoRGCaAfC3P/">Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing</a></li>
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
-      <li><a href="../../../author/tobi_l-mohd_a"><b>Tobi</b> A.</a>, <a href="../../../author/omar_a_s"><b>Omar</b> S.</a>, <a href="../../../author/yehia_z"><b>Yehia</b> Z.</a>, <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b> S.</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../tobi_omar_yehi_alo.2018.CVo3PHiU/">Cost Viability of 3D Printed House in UK</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tobi_omar_yehi_alo.2018.CVo3PHiU,
+      author            = "A. L. Mohd Tobi and S. A. Omar and Z. Yehia and S. Al-Ojaili and A. Hashim and Osman Orhan",
+      title             = "Cost Viability of 3D Printed House in UK",
+      doi               = "10.1088/1757-899x/319/1/012061",
+      year              = "2018",
+      journal           = "IOP Conference Series: Materials Science and Engineering",
+      volume            = "319",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. L. M. Tobi, S. A. Omar, Z. Yehia, S. Al-Ojaili, A. Hashim and O. Orhan, “Cost Viability of 3D Printed House in UK”, <i>IOP Conference Series: Materials Science and Engineering</i>, vol. 319, 2018, doi: 10.1088/1757-899x/319/1/012061.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tobi, A. L. Mohd, S. A. Omar, Z. Yehia, S. Al-Ojaili, A. Hashim, and Osman Orhan. “Cost Viability of 3D Printed House in UK”. <i>IOP Conference Series: Materials Science and Engineering</i> 319 (2018). https://doi.org/10.1088/1757-899x/319/1/012061.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

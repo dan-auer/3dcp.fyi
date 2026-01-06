@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Olga Carcassi, Yierfan Maierdan, Tashania Akemah, Shiho Kawashima, Lola Alon
+    - footer
+title: Carcassi Olga, Maierdan Yierfan, Akemah Tashania, Kawashima Shiho, Alon Lola
 description:
 tags:
  - assessment
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>:aca-blank: Printability, Mechanical, Thermal and Environmental Assessments ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.135891" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.135891</a>
+#Maximizing Fiber-Content in 3D Printed Earth Materials&nbsp;([2024-03](date/2024/03))
+<div class="h1-like">Printability, Mechanical, Thermal and Environmental Assessments</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135891" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135891" target="_blank">10.1016/j.conbuildmat.2024.135891</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0925-5865" title="ORCID: 0000-0002-0925-5865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b>&nbsp;Olga</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7238-2384" title="ORCID: 0000-0001-7238-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maierdan_yierfan"><b>Maierdan</b>&nbsp;Yierfan</a></span>, <a href="../../../author/akemah_tashania"><b>Akemah</b>&nbsp;Tashania</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3804-6541" title="ORCID: 0000-0003-3804-6541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alon_lola"><b>ben&nbsp;Alon</b>&nbsp;Lola</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 425, No. 135891
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> <a href="https://orcid.org/0000-0002-0925-5865" title="ORCID: 0000-0002-0925-5865" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a> <a href="https://orcid.org/0000-0001-7238-2384" title="ORCID: 0000-0001-7238-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>
-,     <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> <a href="https://orcid.org/0000-0003-3804-6541" title="ORCID: 0000-0003-3804-6541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 425, No. 135891
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#content`](keyword/content)
-    [`#earth`](keyword/earth)
-    [`#environment`](keyword/environment)
-    [`#fiber`](keyword/fiber)
-    [`#material`](keyword/material)
-    [`#maximum`](keyword/maximum)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/maximum"><button class="btn">#maximum</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Maximizing%20Fiber-Content%20in%203D%20Printed%20Earth%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189478139&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393295262" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.135891" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.135891?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Earth building materials are experiencing a new renaissance with novel avenues in advanced manufacturing methods such as 3D printing. However, current mix designs are still limited to little to no fiber reinforcement, which can improve ductility and thermal resistivity of the fabricated building assemblies. This research develops 3D printable earth-fiber composites while maximizing natural fiber content for low-carbon and high-performance materials in additive manufacturing. A range of mix designs are formulated and characterized for their printability, mechanical, thermal, and environmental carbon storage performance. The results of this work present successfully developed novel earthen mixtures with natural fiber content ranging from commonplace “cob” (2%wt fiber) to newly developed “light fiber clay” (up to13%wt fiber content and 49% by total volume), incorporating a range of agrowastes products, including wheat straw, hemp, banana, and kenaf fibers. The performance assessment results showcase meaningful improvement of the fiber-reinforced mix designs as opposed to the earthen counterparts, with up to 125% higher compressive strength and up to 86% lower thermal conductivity. The significance of this work lies in the advancement of sustainable and circular materials and assemblies for future manufacturing of socially equitable built environments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a>, <a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../frat_rael.2020.IMfLSAM/">Innovating Materials for Large-Scale Additive Manufacturing:<br/>Salt, Soil, Cement and Chardonnay</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
       <li><a href="../../../author/ji_yameng"><b>Ji</b> Yameng</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/leklou_nordine_ali"><b>Leklou</b> Ali</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ji_poul_lekl.2023.TSaDoEMf3P/">The Selection and Design of Earthen Materials for 3D Printing</a></li>
@@ -82,8 +57,8 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/yemesegen_binega_eden"><b>Yemesegen</b> Eden</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../yeme_mema.2023.ARoESoCHaBCatCfTTSHBw3P/">A Review of Experimental Studies on Cob, Hempcrete, and Bamboo Components and the Call for Transition Towards Sustainable Home Building with 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
@@ -106,6 +81,35 @@ tags:
       <li><a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../saha_soda_dwiv_kuma.2024.3PwSE/">3D Printing with Stabilized Earth:<br/>Material-Development and Effect of Carbon-Sequestration on Engineering-Performance</a></li>
       <li><a href="../../../author/shin_jin_eun"><b>Shin</b> Eun</a>, <a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../shin_carc_maie_kawa.2024.D3PNFREMiC/">Developing 3D Printed Natural Fiber-Rich Earth Materials in Construction</a></li>
       <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/zhao_diandian"><b>Zhao</b> Diandian</a>, <a href="../../../author/choksi_harsh_pooja"><b>Choksi</b> Pooja</a>, <a href="../../../author/garmonina_maria"><b>Garmonina</b> Maria</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../maie_zhao_chok_garm.2024.R3PaPIoXGCBfEC/">Rheology, 3D Printing, and Particle-Interactions of Xanthan-Gum-Clay Binder for Earth Concrete</a></li>
-      <li><a href="../../../author/coniglo_ferdinando_alfonso"><b>Coniglo</b> Alfonso</a>, <a href="../../../author/palmiotta_annarota"><b>Palmiotta</b> Annarota</a>, <a href="../../../author/amato_michele"><b>Amato</b> Michele</a>, <a href="../../../author/gigliotti_rosario"><b>Gigliotti</b> Rosario</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../coni_palm_amat_gigl.2024.E3PfNSEoMSB/">Earth-3D Printing for Non-Structural Elements of Modular Steel Buildings:<br/>Proposal for an Innovative and Sustainable Construction System</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{carc_maie_akem_kawa.2024.MFCi3PEM,
+      author            = "Olga Beatrice Carcassi and Yierfan Maierdan and Tashania Akemah and Shiho Kawashima and Lola ben Alon",
+      title             = "Maximizing Fiber-Content in 3D Printed Earth Materials: Printability, Mechanical, Thermal and Environmental Assessments",
+      doi               = "10.1016/j.conbuildmat.2024.135891",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "425",
+      pages             = "135891",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. B. Carcassi, Y. Maierdan, T. Akemah, S. Kawashima and L. ben Alon, “Maximizing Fiber-Content in 3D Printed Earth Materials: Printability, Mechanical, Thermal and Environmental Assessments”, <i>Construction and Building Materials</i>, vol. 425, p. 135891, 2024, doi: 10.1016/j.conbuildmat.2024.135891.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Carcassi, Olga Beatrice, Yierfan Maierdan, Tashania Akemah, Shiho Kawashima, and Lola ben Alon. “Maximizing Fiber-Content in 3D Printed Earth Materials: Printability, Mechanical, Thermal and Environmental Assessments”. <i>Construction and Building Materials</i> 425 (2024): 135891. https://doi.org/10.1016/j.conbuildmat.2024.135891.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

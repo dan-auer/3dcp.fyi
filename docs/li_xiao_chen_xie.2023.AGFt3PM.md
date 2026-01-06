@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Leo Li, Bofeng Xiao, Cong-Mi Cheng, Hui-Zhu Xie, Albert Kwan
+    - footer
+title: Li Leo, Xiao Bofeng, Cheng Cong-Mi, Xie Hui-Zhu, Kwan Albert
 description:
 tags:
  - anisotropy
@@ -15,32 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/9/2295/pdf?version=1694240386) Adding Glass-Fibers to 3D Printable Mortar:<br/>:aca-blank: Effects on Printability and Material-Anisotropy ([2023-09](date/2023/09))
-<a href="https://doi.org/10.3390/buildings13092295" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13092295</a>
+#Adding Glass-Fibers to 3D Printable Mortar&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">Effects on Printability and Material-Anisotropy</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/9/2295/pdf?version=1694240386) <a href="https://doi.org/10.3390/buildings13092295" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13092295" target="_blank">10.3390/buildings13092295</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_gu_leo"><b>Li</b>&nbsp;Leo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3237-9188" title="ORCID: 0000-0002-3237-9188" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_bofeng"><b>Xiao</b>&nbsp;Bofeng</a></span>, <a href="../../../author/cheng_cong-mi"><b>Cheng</b>&nbsp;Cong-Mi</a></span>, <a href="../../../author/xie_hui-zhu"><b>Xie</b>&nbsp;Hui-Zhu</a></span>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b>&nbsp;Albert</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 9, No. 2295
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> <a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a> <a href="https://orcid.org/0000-0002-3237-9188" title="ORCID: 0000-0002-3237-9188" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_cong-mi"><b>Cheng</b> Cong-Mi</a>
-,     <a href="../../../author/xie_hui-zhu"><b>Xie</b> Hui-Zhu</a>
-,     <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 9, No. 2295
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#glass`](keyword/glass)
-    [`#material`](keyword/material)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Adding%20Glass-Fibers%20to%203D%20Printable%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172787602&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386601651" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13092295" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13092295?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Adding fibers is an effective way to enhance the printability and mechanical performance of 3D printable cementitious materials. Glass fibers are commonly used owing to their sound mechanical properties, high durability and affordable price. However, there is still a lack of systematic and in-depth research on the effects of adding glass fibers to cementitious materials. In this study, a series of 3D printable mortars with varying glass fiber content and water/cement (W/C) ratio were produced to evaluate their printability, flexural strength and compressive strength. The results showed that decreasing the W/C ratio generally has positive effects on printability and mechanical performance, whereas increasing the glass fiber content from 0% to 1% would substantially improve the extrudability, dimensional stability and buildability; increase the flexural strength by up to 82%; but decrease the compressive strength by up to 35%. Such large differences in the effects of glass fibers on the flexural and compressive strengths indicate significant material anisotropy. In fact, comparison of the strength results of printed specimens to those of un-printed specimens reveals that the printing process could increase the flexural strength by 98% but decrease the compressive strength by 47%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
@@ -104,8 +83,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../rudz_huty_maro_korn.2025.3PLFCwDR/">3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement</a></li>
@@ -114,4 +93,35 @@ tags:
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../li_zhan.2024.FoU3P/">Feasibility of Underwater 3D Printing:<br/>Effects of Anti-Washout-Admixtures on Printability and Strength of Mortar</a></li>
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_xiao_chen_xie.2023.AGFt3PM,
+      author            = "Leo Gu Li and Bofeng Xiao and Cong-Mi Cheng and Hui-Zhu Xie and Albert Kwok Hung Kwan",
+      title             = "Adding Glass-Fibers to 3D Printable Mortar: Effects on Printability and Material-Anisotropy",
+      doi               = "10.3390/buildings13092295",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "9",
+      pages             = "2295",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. G. Li, B. Xiao, C.-M. Cheng, H.-Z. Xie and A. K. H. Kwan, “Adding Glass-Fibers to 3D Printable Mortar: Effects on Printability and Material-Anisotropy”, <i>Buildings</i>, vol. 13, no. 9, p. 2295, 2023, doi: 10.3390/buildings13092295.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Leo Gu, Bofeng Xiao, Cong-Mi Cheng, Hui-Zhu Xie, and Albert Kwok Hung Kwan. “Adding Glass-Fibers to 3D Printable Mortar: Effects on Printability and Material-Anisotropy”. <i>Buildings</i> 13, no. 9 (2023): 2295. https://doi.org/10.3390/buildings13092295.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

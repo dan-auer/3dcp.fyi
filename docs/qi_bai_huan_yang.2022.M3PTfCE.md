@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Li-gang Qi, Jie Bai, Qing-long Huang, Yan Yang, Lifang Han, Cheng-tao Yue, Zhong-Xiang Yan
+    - footer
+title: Qi Li-gang, Bai Jie, Huang Qing-long, Yang Yan, Han Lifang, Yue Cheng-tao, Yan Zhong-Xiang
 description:
 tags:
  - construction
@@ -15,34 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mobile 3D Printing-Techniques for Construction Engineering:<br/>:aca-blank: Outdoor Navigation and Printing Quality-Control ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1080/10168664.2022.2025749" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/10168664.2022.2025749</a>
+#Mobile 3D Printing-Techniques for Construction Engineering&nbsp;([2022-03](date/2022/03))
+<div class="h1-like">Outdoor Navigation and Printing Quality-Control</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/10168664.2022.2025749" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10168664.2022.2025749" target="_blank">10.1080/10168664.2022.2025749</a>
 
--------------------------
+<a href="../../../author/qi_li-gang"><b>Qi</b>&nbsp;Li-gang</a></span>, <a href="../../../author/bai_jie"><b>Bai</b>&nbsp;Jie</a></span>, <a href="../../../author/huang_qing-long"><b>Huang</b>&nbsp;Qing-long</a></span>, <a href="../../../author/yang_yan"><b>Yang</b>&nbsp;Yan</a></span>, <a href="../../../author/han_lifang"><b>Han</b>&nbsp;Lifang</a></span>, <a href="../../../author/yue_cheng-tao"><b>Yue</b>&nbsp;Cheng-tao</a></span>, <a href="../../../author/yan_zhong-xiang"><b>Yan</b>&nbsp;Zhong-Xiang</a></span><br>
+Journal Article - Structural Engineering International, Vol. 32, Iss. 2, pp. 203-210
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qi_li-gang"><b>Qi</b> Li-gang</a>
-,     <a href="../../../author/bai_jie"><b>Bai</b> Jie</a>
-,     <a href="../../../author/huang_qing-long"><b>Huang</b> Qing-long</a>
-,     <a href="../../../author/yang_yan"><b>Yang</b> Yan</a>
-,     <a href="../../../author/han_lifang"><b>Han</b> Lifang</a>
-,     <a href="../../../author/yue_cheng-tao"><b>Yue</b> Cheng-tao</a>
-,     <a href="../../../author/yan_zhong-xiang"><b>Yan</b> Zhong-Xiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Engineering International, Vol. 32, Iss. 2, pp. 203-210
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#control`](keyword/control)
-    [`#engineered`](keyword/engineered)
-    [`#mobile`](keyword/mobile)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mobile%203D%20Printing-Techniques%20for%20Construction%20Engineering" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127355903&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4293100369" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/10168664.2022.2025749" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/10168664.2022.2025749?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As an emerging intelligent construction technique, three-dimensional (3D) printing technology can improve the utilization rate of building materials, reduce labor costs and shorten the construction period. However, in traditional 3D printing, large-size 3D print machines, restricted print sizes of structural components and unstable printing quality limit its application in construction engineering. This paper proposes a mobile 3D printing technique for construction engineering. In this technique, a mobile 3D printing construction robot (M3DPC-Rob) is developed that takes advantage of a movable platform and flexible mechanical arm to cover the printing range of ordinary residential buildings. In order to locate the robot accurately in outdoor environments, an outdoor positioning and navigation method based on reflective columns is proposed. Furthermore, a quality control process is developed and modified to improve the quality of the printed line width. The results of a case study reveal that the outdoor navigation and printing quality control techniques of M3DPC-Rob show sufficient and steady accuracy that meet the requirements of construction engineering.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
@@ -77,8 +54,39 @@ tags:
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qi_bai_huan_yang.2022.M3PTfCE,
+      author            = "Li-gang Qi and Jie Bai and Qing-long Huang and Yan Yang and Lifang Han and Cheng-tao Yue and Zhong-Xiang Yan",
+      title             = "Mobile 3D Printing-Techniques for Construction Engineering: Outdoor Navigation and Printing Quality-Control",
+      doi               = "10.1080/10168664.2022.2025749",
+      year              = "2022",
+      journal           = "Structural Engineering International",
+      volume            = "32",
+      number            = "2",
+      pages             = "203--210",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L.-. gang . Qi, “Mobile 3D Printing-Techniques for Construction Engineering: Outdoor Navigation and Printing Quality-Control”, <i>Structural Engineering International</i>, vol. 32, no. 2, pp. 203–210, 2022, doi: 10.1080/10168664.2022.2025749.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qi, Li-gang, Jie Bai, Qing-long Huang, Yan Yang, Lifang Han, Cheng-tao Yue, and Zhong-Xiang Yan. “Mobile 3D Printing-Techniques for Construction Engineering: Outdoor Navigation and Printing Quality-Control”. <i>Structural Engineering International</i> 32, no. 2 (2022): 203–10. https://doi.org/10.1080/10168664.2022.2025749.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

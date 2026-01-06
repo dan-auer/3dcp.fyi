@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yierfan Maierdan, Samuel Armistead, Rebecca Mikofsky, Qiqi Huang, Lola Alon, Wil III Srubar, Shiho Kawashima
+    - footer
+title: Maierdan Yierfan, Armistead Samuel, Mikofsky Rebecca, Huang Qiqi, Alon Lola, Srubar Wil III, Kawashima Shiho
 description:
 tags:
  - bio
@@ -14,33 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology and 3D Printing of Alginate Bio-Stabilized Earth Concrete ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.cemconres.2023.107380" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2023.107380</a>
+#Rheology and 3D Printing of Alginate Bio-Stabilized Earth Concrete ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2023.107380" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2023.107380" target="_blank">10.1016/j.cemconres.2023.107380</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7238-2384" title="ORCID: 0000-0001-7238-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maierdan_yierfan"><b>Maierdan</b>&nbsp;Yierfan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9390-6941" title="ORCID: 0000-0001-9390-6941" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/armistead_j_samuel"><b>Armistead</b>&nbsp;Samuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2734-5722" title="ORCID: 0000-0003-2734-5722" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mikofsky_a_rebecca"><b>Mikofsky</b>&nbsp;Rebecca</a></span>, <a href="../../../author/huang_qiqi"><b>Huang</b>&nbsp;Qiqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3804-6541" title="ORCID: 0000-0003-3804-6541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alon_lola"><b>ben&nbsp;Alon</b>&nbsp;Lola</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8226-2458" title="ORCID: 0000-0001-8226-2458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srubar_v_wil-iii"><b>Srubar</b>&nbsp;Wil III</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 175, No. 107380
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a> <a href="https://orcid.org/0000-0001-7238-2384" title="ORCID: 0000-0001-7238-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a> <a href="https://orcid.org/0000-0001-9390-6941" title="ORCID: 0000-0001-9390-6941" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mikofsky_a_rebecca"><b>Mikofsky</b> Rebecca</a> <a href="https://orcid.org/0000-0003-2734-5722" title="ORCID: 0000-0003-2734-5722" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_qiqi"><b>Huang</b> Qiqi</a>
-,     <a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> <a href="https://orcid.org/0000-0003-3804-6541" title="ORCID: 0000-0003-3804-6541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/srubar_v_wil-iii"><b>Srubar</b> Wil III</a> <a href="https://orcid.org/0000-0001-8226-2458" title="ORCID: 0000-0001-8226-2458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 175, No. 107380
-
-:aca-blank:{ .lg .middle}
-    [`#bio`](keyword/bio)
-    [`#concrete`](keyword/concrete)
-    [`#earth`](keyword/earth)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#stability`](keyword/stability)
-
-
--------------------------
+<a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%203D%20Printing%20of%20Alginate%20Bio-Stabilized%20Earth%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176398511&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,25 +36,21 @@ tags:
 <a href="https://inciteful.xyz/p/W4388652839" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2023.107380" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2023.107380?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Driven by the need for sustainable construction solutions, there is renewed interest in earth-based materials. Biopolymer stabilizers can enhance the rheological and structural properties of these materials to facilitate their use in 3D printing. This research examined the influence of sodium alginate on the stability, particle interaction, rheology, and 3D printability of kaolinite, a commonly found clay in soils deemed suitable for construction. Findings revealed that sodium alginate could boost electrostatic interactions to enhance the stability of kaolinite suspensions. This rise in repulsive potential energy could reduce storage modulus and yield stress by orders of magnitude. However, as the alginate content increased beyond its critical overlapping concentration (0.12 %–0.6 %), a reverse trend was observed, which was attributed to the formation of a three-dimensional polymer network. Furthermore, alginate addition shifted the “printability window” of kaolinite mixtures to higher solid contents, which has positive implications on the strength and shrinkage of the printable mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/seshadri_n_akul"><b>Seshadri</b> Akul</a>, <a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../maie_armi_sesh_carc.2025.LBGSKREC/">Locust Bean Gum–Stabilized Kaolin-Rich Earthen Composites:<br/>From On-Land to Underwater 3D Printing</a></li>
       <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../brad_gent_alon_kurt.2025.C3PMS/">Construction 3D Printing Material Selection:<br/>Minimizing Cost and Carbon Footprint of Residential Wall Assemblies</a></li>
@@ -94,4 +71,34 @@ tags:
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lyu_wang_dai.2024.MPGCMbAB3CP/">Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing</a></li>
       <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{maie_armi_miko_huan.2024.Ra3PoABSEC,
+      author            = "Yierfan Maierdan and Samuel J. Armistead and Rebecca A. Mikofsky and Qiqi Huang and Lola ben Alon and Wil III V. Srubar and Shiho Kawashima",
+      title             = "Rheology and 3D Printing of Alginate Bio-Stabilized Earth Concrete",
+      doi               = "10.1016/j.cemconres.2023.107380",
+      year              = "2024",
+      journal           = "Cement and Concrete Research",
+      volume            = "175",
+      pages             = "107380",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Maierdan, “Rheology and 3D Printing of Alginate Bio-Stabilized Earth Concrete”, <i>Cement and Concrete Research</i>, vol. 175, p. 107380, 2024, doi: 10.1016/j.cemconres.2023.107380.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Maierdan, Yierfan, Samuel J. Armistead, Rebecca A. Mikofsky, Qiqi Huang, Lola ben Alon, Wil III V. Srubar, and Shiho Kawashima. “Rheology and 3D Printing of Alginate Bio-Stabilized Earth Concrete”. <i>Cement and Concrete Research</i> 175 (2024): 107380. https://doi.org/10.1016/j.cemconres.2023.107380.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

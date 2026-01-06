@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Schröfl Christof 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/signorini_cesare"><b>Signorini</b> Cesare</a>, <a href="../../../author/rauf_asim"><b>Rauf</b> Asim</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../beig_sign_rauf_schr.2025.IRBoLCCCLBfAC/">Intrinsic Rheological Behavior of Limestone Calcined Clay Cementitious (LC3) Binders for Automated Construction:<br/>Effect of Calcium Sulfate Varieties</a></li>
   <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/blankenstein_paul"><b>Blankenstein</b> Paul</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../mark_schr_blan_mech.2021.TDPWSCaSMf3CP/">Three-Dimensional-Printed Wood-Starch Composite as Support Material for 3D Concrete Printing</a></li>
   <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a></li>

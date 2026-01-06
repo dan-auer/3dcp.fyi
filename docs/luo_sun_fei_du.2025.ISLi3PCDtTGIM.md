@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rui Luo, Bin Sun, Xiangpeng Fei, Hongjian Du
+    - footer
+title: Luo Rui, Sun Bin, Fei Xiangpeng, Du Hongjian
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143924" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143924</a>
+#Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143924" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143924" target="_blank">10.1016/j.conbuildmat.2025.143924</a>
 
--------------------------
+<a href="../../../author/luo_rui"><b>Luo</b>&nbsp;Rui</a></span>, <a href="../../../author/sun_bin"><b>Sun</b>&nbsp;Bin</a></span>, <a href="../../../author/fei_xiangpeng"><b>Fei</b>&nbsp;Xiangpeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 497, No. 143924
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/luo_rui"><b>Luo</b> Rui</a>
-,     <a href="../../../author/sun_bin"><b>Sun</b> Bin</a>
-,     <a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 497, No. 143924
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#gap`](keyword/gap)
-    [`#induction`](keyword/induction)
-    [`#interlayer`](keyword/interlayer)
-    [`#loss`](keyword/loss)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/gap"><button class="btn">#gap</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/loss"><button class="btn">#loss</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interlayer%20Strength%20Loss%20in%203D%20Printed%20Concrete%20Due%20to%20Time-Gap-Induced%20Macroporosity" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017684270&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414877461" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143924" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143924?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interlayer bond integrity governs the structural reliability of 3D printed concrete and is degraded by pauses between layers. This study used X-ray computed tomography to quantify interlayer pore morphology and conducted mechanical tests in splitting, shear, and flexure to measure interlayer strength. Pore statistics were used to parameterize a random pore reconstruction model that resolves stress fields and predicts strength, and its predictions agreed with measurements within 15%. The results showed that a 10 min gap transformed isolated pores into a 3 mm thick interlayer macro void band, which accelerated crack initiation and coalescence and caused pronounced strength loss. Longer gaps from 30 to 120 min promoted lateral proliferation and clustering of macro voids, after which shear and flexural strengths decreased approximately linearly with interlayer porosity, while splitting strength approached a plateau. For this concrete system, maintaining the time gap below 10 min or the interlayer macroporosity below 2% is advisable to preserve interlayer strength. Simulations also indicate a size effect driven by dense macro void clustering, with a fourfold increase in specimen size reducing predicted flexural strength by up to 14.2%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a>, <a href="../../../author/song_fangnian"><b>Song</b> Fangnian</a>, <a href="../../../author/zou_jiuqun"><b>Zou</b> Jiuqun</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_yang_song_zou.2022.SotMPo3PCLatMoIoPP/">Study on the Mechanical Properties of 3D Printing Concrete Layers and the Mechanism of Influence of Printing Parameters</a></li>
@@ -89,7 +67,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_zhan_qian_liu.2023.IoSFotWAo3PC/">Influence of Steel-Fiber on the Water-Absorption of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{luo_sun_fei_du.2025.ISLi3PCDtTGIM,
+      author            = "Rui Luo and Bin Sun and Xiangpeng Fei and Hongjian Du",
+      title             = "Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity",
+      doi               = "10.1016/j.conbuildmat.2025.143924",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "497",
+      pages             = "143924",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Luo, B. Sun, X. Fei and H. Du, “Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity”, <i>Construction and Building Materials</i>, vol. 497, p. 143924, 2025, doi: 10.1016/j.conbuildmat.2025.143924.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Luo, Rui, Bin Sun, Xiangpeng Fei, and Hongjian Du. “Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity”. <i>Construction and Building Materials</i> 497 (2025): 143924. https://doi.org/10.1016/j.conbuildmat.2025.143924.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

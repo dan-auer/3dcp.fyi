@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bo Huang, Yutian Ge, Xiangyu Wang, Yufei Wang, Jianqun Wang, Chengwei Song, Jun Zhu, Chiemela Amaechi, Junbo Sun
+    - footer
+title: Huang Bo, Ge Yutian, Wang Xiangyu, Wang Yufei, Wang Jianqun, Song Chengwei, Zhu Jun, Amaechi Chiemela, Sun Junbo
 description:
 tags:
  - aggregate
@@ -21,42 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete:<br/>:aca-blank: An Eco-Friendly Substitute to Conventional Fine Aggregates ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.jobe.2024.111441" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111441</a>
+#Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">An Eco-Friendly Substitute to Conventional Fine Aggregates</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111441" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111441" target="_blank">10.1016/j.jobe.2024.111441</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2888-9326" title="ORCID: 0000-0003-2888-9326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_bo"><b>Huang</b>&nbsp;Bo</a></span>, <a href="../../../author/ge_yutian"><b>Ge</b>&nbsp;Yutian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <a href="../../../author/wang_jianqun"><b>Wang</b>&nbsp;Jianqun</a></span>, <a href="../../../author/song_chengwei"><b>Song</b>&nbsp;Chengwei</a></span>, <a href="../../../author/zhu_jun"><b>Zhu</b>&nbsp;Jun</a></span>, <a href="../../../author/amaechi_victor_chiemela"><b>Amaechi</b>&nbsp;Chiemela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111441
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> <a href="https://orcid.org/0000-0003-2888-9326" title="ORCID: 0000-0003-2888-9326" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ge_yutian"><b>Ge</b> Yutian</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-,     <a href="../../../author/wang_jianqun"><b>Wang</b> Jianqun</a>
-,     <a href="../../../author/song_chengwei"><b>Song</b> Chengwei</a>
-,     <a href="../../../author/zhu_jun"><b>Zhu</b> Jun</a>
-,     <a href="../../../author/amaechi_victor_chiemela"><b>Amaechi</b> Chiemela</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111441
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#brick`](keyword/brick)
-    [`#ceramic`](keyword/ceramic)
-    [`#concrete`](keyword/concrete)
-    [`#conventional`](keyword/conventional)
-    [`#fiber`](keyword/fiber)
-    [`#fine`](keyword/fine)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#substitution`](keyword/substitution)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/substitution"><button class="btn">#substitution</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Recycled%20Ceramic-Brick-Powder%20Utilization%20in%20Fiber-Reinforced%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211021383&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404799732" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111441" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111441?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The incorporation of recycled ceramic brick powder (RCBP) into conventional cast concrete has proofed its efficacy in substituting aggregates, improving strength, and contributing to environmental sustainability. Concurrently, 3D printing technology is emerging as a pivotal trend in intelligent construction. This study investigates the collaborative interaction mechanisms of 3D-printed RCBP concrete. Compressive and four-point bending tests along the x, y, and z-axis are conducted to evaluate its strength and anisotropy. Subsequently, the hydration products and pore structural characteristics were analyzed employing Scanning Electron Microscope (SEM) and X-CT experiments. Additionally, an environmental life cycle analysis is performed utilizing OpenLCA software. The results determined an optimal RCBP content of 25-wt% yields satisfactory performance in macro-mechanical properties (with maximal 65.57MPa for compressive strength and 12.66 MPa for flexural strength) and micro-structural characterization. Specifically, the drainage consolidation effect achieved through 3D printing technology mitigates the typical decline observed in conventional RCBP concrete. However, exceeding the 25-wt% threshold leads to a noticeable decline in mechanical strength due to inhomogeneous particle gradation and excessive aggregation of RCBP particles, despite a significant reduction in porosity. Furthermore, as RCBP incorporation increases from 0-wt% to 100-wt%, four environment impact indicators including Global warming potential (GWP), Acidification Potential (AP), Ozone Depletion Potential (ODP), and Abiotic depletion potential (ADP) respectively decline by 24.86%, 6.59%, 0.49%, and 0.62%, demonstrating exceptional environmental benefits. Notably, the tremendous influence on GWP is attributed to the remarkable carbon sequestration of RCBP, aligning with national carbon neutrality goals and advancing sustainable construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
       <li><a href="../../../author/kovaleva_daria"><b>Kovaleva</b> Daria</a>, <a href="../../../author/nistler_maximilian"><b>Nistler</b> Maximilian</a>, <a href="../../../author/verl_alexander"><b>Verl</b> Alexander</a>, <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../kova_nist_verl_blan.2022.ZWPoLCSwWSSF/">Zero-Waste Production of Lightweight Concrete Structures with Water-Soluble Sand Formwork</a></li>
@@ -99,11 +68,40 @@ tags:
       <li><a href="../../../author/yang_chao"><b>Yang</b> Chao</a>, <a href="../../../author/xu_xinglong"><b>Xu</b> Xinglong</a>, <a href="../../../author/lei_zuxiang"><b>Lei</b> Zuxiang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../yang_xu_lei_sun.2024.EMPoTDCaETTRCPTM/">Enhancing Mechanical Properties of Three-Dimensional Concrete at Elevated Temperatures Through Recycled Ceramic-Powder Treatment Methods</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/li_baidian"><b>Li</b> Baidian</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a>, <a href="../../../author/gu_kan"><b>Gu</b> Kan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_wu_gu.2026.EIPaSo3PUwAT/">Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings</a></li>
       <li><a href="../../../author/ye_chengjie"><b>Ye</b> Chengjie</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/lacidogna_giuseppe"><b>Lacidogna</b> Giuseppe</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_xu_laci.2025.FBo3PGCCWC/">Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic</a></li>
       <li><a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a>, <a href="../../../author/zhong_yingzhu"><b>Zhong</b> Yingzhu</a>, <a href="../../../author/wang_shuai"><b>Wang</b> Shuai</a>, <a href="../../../author/zhang_luxi"><b>Zhang</b> Luxi</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pei_zhon_wang_zhan.2025.IBSPaCMo3wDFAG/">Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations</a></li>
       <li><a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cava_tole_mend.2025.RaEIoRCPaFiC3P/">Rheological and Environmental Implications of Recycled Concrete Powder as Filler in Concrete 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{huan_ge_wang_wang.2024.RCBPUiFR3PC,
+      author            = "Bo Huang and Yutian Ge and Xiangyu Wang and Yufei Wang and Jianqun Wang and Chengwei Song and Jun Zhu and Chiemela Victor Amaechi and Junbo Sun",
+      title             = "Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete: An Eco-Friendly Substitute to Conventional Fine Aggregates",
+      doi               = "10.1016/j.jobe.2024.111441",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111441",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Huang, “Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete: An Eco-Friendly Substitute to Conventional Fine Aggregates”, <i>Journal of Building Engineering</i>, p. 111441, 2024, doi: 10.1016/j.jobe.2024.111441.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Huang, Bo, Yutian Ge, Xiangyu Wang, Yufei Wang, Jianqun Wang, Chengwei Song, Jun Zhu, Chiemela Victor Amaechi, and Junbo Sun. “Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete: An Eco-Friendly Substitute to Conventional Fine Aggregates”. <i>Journal of Building Engineering</i>, 2024, 111441. https://doi.org/10.1016/j.jobe.2024.111441.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

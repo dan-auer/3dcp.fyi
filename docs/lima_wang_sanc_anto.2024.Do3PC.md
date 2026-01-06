@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lucas Lima, Timothy Wangler, Asel Sanchez, Ana-Maria Anton, Robert Flatt
+    - footer
+title: Lima Lucas, Wangler Timothy, Sanchez Asel, Anton Ana-Maria, Flatt Robert
 description:
 tags:
  - absorbent
@@ -20,37 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Durability of 3D Printed Concrete:<br/>:aca-blank: Performance-Assessment of a Two-Component System Against Water Absorption, Carbonation, and Chloride-Ingress ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1007/978-3-031-70031-6_34" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70031-6_34</a>
+#Durability of 3D Printed Concrete&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Performance-Assessment of a Two-Component System Against Water Absorption, Carbonation, and Chloride-Ingress</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_34" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_34" target="_blank">10.1007/978-3-031-70031-6_34</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7041-8985" title="ORCID: 0000-0002-7041-8985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lima_nascimento_lucas"><b>de&nbsp;Lima</b>&nbsp;Lucas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <a href="../../../author/sanchez_maria_asel"><b>Sanchez</b>&nbsp;Asel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 291-298
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lima_nascimento_lucas"><b>de Lima</b> Lucas</a> <a href="https://orcid.org/0000-0002-7041-8985" title="ORCID: 0000-0002-7041-8985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanchez_maria_asel"><b>Sanchez</b> Asel</a>
-,     <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 291-298
-
-:aca-blank:{ .lg .middle}
-    [`#absorbent`](keyword/absorbent)
-    [`#assessment`](keyword/assessment)
-    [`#carbonation`](keyword/carbonation)
-    [`#chloride`](keyword/chloride)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#ingress`](keyword/ingress)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/chloride"><button class="btn">#chloride</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/ingress"><button class="btn">#ingress</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Durability%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203045706&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402088010" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70031-6_34" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70031-6_34?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D-printing techniques with concrete have been studied for two decades and gained a lot of interest from both academia and industry. To produce mixtures capable of promoting fast hardening after extrusion, new approaches such as the use of accelerated blends have been recently developed. Two-component systems (2K), designed by partially replacing ordinary Portland cement with a fast-setting constituent – such as the combination of calcium-aluminate cement with anhydrite (CAC + CS) – were proven efficient for printing processes. However, there is a lack of literature regarding the durability of such mixtures, despite the increased interest in assembling structures with that process. This paper reports on the performance of 3D concrete printing, produced with a two-component system accelerated with CAC and CS, when submitted to water absorption, carbonation, and chloride ingress tests. The performance of printed and cast samples is compared, and the results are discussed. The findings of this study underline the main challenges to improve the performance of 3D printed concrete produced with two-component systems and fill an important gap of knowledge in the current literature.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
@@ -92,9 +66,40 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhan_zhan_yang_liu.2023.IotPFotWUi3PC/">Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lima_wang_sanc_anto.2024.Do3PC,
+      author            = "Lucas Nascimento de Lima and Timothy Paul Wangler and Asel Maria Sanchez and Ana-Maria Anton and Robert Johann Flatt",
+      title             = "Durability of 3D Printed Concrete: Performance-Assessment of a Two-Component System Against Water Absorption, Carbonation, and Chloride-Ingress",
+      doi               = "10.1007/978-3-031-70031-6_34",
+      year              = "2024",
+      volume            = "53",
+      pages             = "291--298",
+      booktitle         = "Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. N. de Lima, T. P. Wangler, A. M. Sanchez, A.-M. Anton and R. J. Flatt, “Durability of 3D Printed Concrete: Performance-Assessment of a Two-Component System Against Water Absorption, Carbonation, and Chloride-Ingress”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 291–298. doi: 10.1007/978-3-031-70031-6_34.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lima, Lucas Nascimento de, Timothy Paul Wangler, Asel Maria Sanchez, Ana-Maria Anton, and Robert Johann Flatt. “Durability of 3D Printed Concrete: Performance-Assessment of a Two-Component System Against Water Absorption, Carbonation, and Chloride-Ingress”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:291–98, 2024. https://doi.org/10.1007/978-3-031-70031-6_34.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

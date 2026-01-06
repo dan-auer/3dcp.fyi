@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yunchao Yin, Jian Huang, Tiezhu Wang, Rong Yang, Hailong Hu, Mesfin Manuka, Fengyang Zhou, Junjie Min, Huilong Wan, Donghui Yuan, Baoguo Ma
+    - footer
+title: Yin Yunchao, Huang Jian, Wang Tiezhu, Yang Rong, Hu Hailong, Manuka Mesfin, Zhou Fengyang, Min Junjie, Wan Huilong, Yuan Donghui, Ma Baoguo
 description:
 tags:
  - activation
@@ -19,42 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133347" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133347</a>
+#Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133347" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133347" target="_blank">10.1016/j.conbuildmat.2023.133347</a>
 
--------------------------
+<a href="../../../author/yin_yunchao"><b>Yin</b>&nbsp;Yunchao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1550-9067" title="ORCID: 0000-0002-1550-9067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_jian"><b>Huang</b>&nbsp;Jian</a></span>, <a href="../../../author/wang_tiezhu"><b>Wang</b>&nbsp;Tiezhu</a></span>, <a href="../../../author/yang_rong"><b>Yang</b>&nbsp;Rong</a></span>, <a href="../../../author/hu_hailong"><b>Hu</b>&nbsp;Hailong</a></span>, <a href="../../../author/manuka_mesfin"><b>Manuka</b>&nbsp;Mesfin</a></span>, <a href="../../../author/zhou_fengyang"><b>Zhou</b>&nbsp;Fengyang</a></span>, <a href="../../../author/min_junjie"><b>Min</b>&nbsp;Junjie</a></span>, <a href="../../../author/wan_huilong"><b>Wan</b>&nbsp;Huilong</a></span>, <a href="../../../author/yuan_donghui"><b>Yuan</b>&nbsp;Donghui</a></span>, <a href="../../../author/ma_baoguo"><b>Ma</b>&nbsp;Baoguo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 405, No. 133347
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>
-,     <a href="../../../author/huang_jian"><b>Huang</b> Jian</a> <a href="https://orcid.org/0000-0002-1550-9067" title="ORCID: 0000-0002-1550-9067" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>
-,     <a href="../../../author/yang_rong"><b>Yang</b> Rong</a>
-,     <a href="../../../author/hu_hailong"><b>Hu</b> Hailong</a>
-,     <a href="../../../author/manuka_mesfin"><b>Manuka</b> Mesfin</a>
-,     <a href="../../../author/zhou_fengyang"><b>Zhou</b> Fengyang</a>
-,     <a href="../../../author/min_junjie"><b>Min</b> Junjie</a>
-,     <a href="../../../author/wan_huilong"><b>Wan</b> Huilong</a>
-,     <a href="../../../author/yuan_donghui"><b>Yuan</b> Donghui</a>
-,     <a href="../../../author/ma_baoguo"><b>Ma</b> Baoguo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 405, No. 133347
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#first`](keyword/first)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Hydroxypropyl-Methylcellulose%20on%20Rheology%20and%20Printability%20of%20the%20First%20Printed%20Layer%20of%20Cement%20Activated%20Slag-Based%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171462635&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386761327" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133347" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133347?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nowadays, Ground Granulated Blast Furnace Slag (GGBFS) is generally used to replace cement for reducing carbon emissions, but due to its low hydration activity and unstable working performance in the early stage, it is difficult to apply in 3D printed concrete (3DPC) as the main binder. In this study, a combination of ordinary Portland cement and calcium sulfoaluminate cement was used to activate GGBFS. In the presence of 0.2 wt% polycarboxylate superplasticizer (PCE), in order to achieve high-precision printing, hydroxypropyl methyl cellulose (HPMC) was used. The rheological properties of mortar were evaluated by the slugs-test and a rotational rheometer. The results show that the yield stress and thixotropy of slag cement-based 3D printing concrete are significantly increased, with addition of HPMC. The slugs-test shows its advantages in measuring rheological properties, such as superior repeatability of rheological data and a better association with 3D printing performance. Pumpability, extrudability, and buildability of the first printed layer of slag cement-based 3DPC were evaluated using pumping pressure, horizontal printing, and vertical printing. The results show that, with a 0.15 wt% HPMC, the 3D printing properties of the first layer are greatly improved, a stable and high-precision slag cement-based 3DPC can be developed, and the relationship between rheological properties and 3D printing performance can be established.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a></li>
@@ -104,8 +72,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_core_tran_fan.2025.3PCC/">3D Printable Cellulose Concrete:<br/>A Review and Pathway to Future Research</a></li>
@@ -135,4 +103,34 @@ tags:
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_shuai"><b>Huang</b> Shuai</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhon_huan_liu_wang.2024.CA3PMfMSV/">CO2-Absorbing 3D Printable Mixtures for Magnesium-Slag Valorization</a></li>
       <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a>, <a href="../../../author/mahil_ahmed"><b>Mahil</b> Ahmed</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rahm_rawa_yang_mahi.2024.ACRoFaRPo3PCC/">A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yin_huan_wang_yang.2023.EoHMoRaPotFPLoCASB3PC,
+      author            = "Yunchao Yin and Jian Huang and Tiezhu Wang and Rong Yang and Hailong Hu and Mesfin Manuka and Fengyang Zhou and Junjie Min and Huilong Wan and Donghui Yuan and Baoguo Ma",
+      title             = "Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete",
+      doi               = "10.1016/j.conbuildmat.2023.133347",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "405",
+      pages             = "133347",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yin, “Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete”, <i>Construction and Building Materials</i>, vol. 405, p. 133347, 2023, doi: 10.1016/j.conbuildmat.2023.133347.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yin, Yunchao, Jian Huang, Tiezhu Wang, Rong Yang, Hailong Hu, Mesfin Manuka, Fengyang Zhou, et al.. “Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete”. <i>Construction and Building Materials</i> 405 (2023): 133347. https://doi.org/10.1016/j.conbuildmat.2023.133347.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

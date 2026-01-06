@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeou-Fong Li, Yu-Fang Liang, Jin-Yuan Syu, Chi-Hong Huang, Ying-Kuan Tsai, Man-Hoi Lok
+    - footer
+title: Li Yeou-Fong, Liang Yu-Fang, Syu Jin-Yuan, Huang Chi-Hong, Tsai Ying-Kuan, Lok Man-Hoi
 description:
 tags:
  - anisotropy
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.jobe.2024.111692" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111692</a>
+#Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111692" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111692" target="_blank">10.1016/j.jobe.2024.111692</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7054-7293" title="ORCID: 0000-0002-7054-7293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yeou-fong"><b>Li</b>&nbsp;Yeou-Fong</a></span>, <a href="../../../author/liang_yu-fang"><b>Liang</b>&nbsp;Yu-Fang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8859-3693" title="ORCID: 0000-0002-8859-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/syu_jin-yuan"><b>Syu</b>&nbsp;Jin-Yuan</a></span>, <a href="../../../author/huang_chi-hong"><b>Huang</b>&nbsp;Chi-Hong</a></span>, <a href="../../../author/tsai_ying-kuan"><b>Tsai</b>&nbsp;Ying-Kuan</a></span>, <a href="../../../author/lok_man-hoi"><b>Lok</b>&nbsp;Man-Hoi</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111692
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a> <a href="https://orcid.org/0000-0002-7054-7293" title="ORCID: 0000-0002-7054-7293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liang_yu-fang"><b>Liang</b> Yu-Fang</a>
-,     <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a> <a href="https://orcid.org/0000-0002-8859-3693" title="ORCID: 0000-0002-8859-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_chi-hong"><b>Huang</b> Chi-Hong</a>
-,     <a href="../../../author/tsai_ying-kuan"><b>Tsai</b> Ying-Kuan</a>
-,     <a href="../../../author/lok_man-hoi"><b>Lok</b> Man-Hoi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111692
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#basalt`](keyword/basalt)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#dynamic`](keyword/dynamic)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#static`](keyword/static)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Static%20and%20Dynamic%20Mechanical%20Characteristics%20of%203D%20Printed%20Anisotropic%20Basalt%20Fiber-Reinforced%20Cement%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214224625&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405807714" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111692" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111692?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printed mortar, represents an innovative approach to construction, utilizing additive manufacturing techniques, distinct from traditional reinforced concrete (RC) formwork methods. In this study, chopped basalt fibers, each 6 mm in length, were added to the mortar at different volume ratios (2.5‰, 5‰, 7.5‰, and 10‰). The printable properties of basalt fiber-reinforced cement mortar (BFRCM), such as the extrudability, fluidity, setting time, and buildability, were evaluated to determine the optimal mix for 3D printing applications. The compressive and flexural strengths of 3D-printed anisotropic specimens with those of mold-cast specimens after 28 days of wet curing were compared. Additionally, the dynamic mechanical properties under various impact conditions were assessed using both the drop-weight impact test and the stress reversal split Hopkinson pressure bar (SRSHPB) test. The findings revealed that a fiber ratio of 7.5 vol.‰ resulted in the highest compressive and flexural strengths. It is noteworthy that the anisotropic mechanical properties of the 3D-printed specimens exhibited a considerable enhancement in strength in the load direction perpendicular to the printing side. However, the results of the dynamic strength tests revealed that the interlayer adhesion at the printing interfaces of the 3D-printed specimens was weaker than that of the mold-cast specimens in both the drop-weight impact test and the SRSHPB test.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
@@ -87,7 +60,6 @@ tags:
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
-      <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/liang_yu-fang"><b>Liang</b> Yu-Fang</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chi-hong"><b>Huang</b> Chi-Hong</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_lian_syu_huan.2024.SaDMCo3PABFRCM/">Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar</a></li>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/tsai_pei-jen"><b>Tsai</b> Pei-Jen</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/lok_man-hoi"><b>Lok</b> Man-Hoi</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../li_tsai_syu_lok.2023.MPo3PCFRCM/">Mechanical Properties of 3D Printed Carbon Fiber-Reinforced Cement Mortar</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_wang_ma_sanj.2020.SaDEo3PSRbECMC/">Strength and Ductility Enhancement of 3D Printing Structure Reinforced by Embedding Continuous Micro-Cables</a></li>
       <li><a href="../../../author/li_yu"><b>Li</b> Yu</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/xie_xinjie"><b>Xie</b> Xinjie</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../li_wu_xie_zhan.2024.F/">FloatArch:<br/>A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization</a></li>
@@ -121,13 +93,40 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>, <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>, <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>, <a href="../../../author/chen_miao"><b>Chen</b> Miao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC/">Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete</a></li>
       <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
       <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>
-      <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/liang_yu-fang"><b>Liang</b> Yu-Fang</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chi-hong"><b>Huang</b> Chi-Hong</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_lian_syu_huan.2024.SaDMCo3PABFRCM/">Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar</a></li>
-      <li><a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/mesquita_esequiel"><b>Mesquita</b> Esequiel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sous_ales_mesq_lafl.2024.CRo3PCCwCI/">Comprehensive Review of 3D Printed Cementitious Composites with Carbon Inclusions:<br/>Current Status and Perspective for Self-Sensing Capabilities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_lian_syu_huan.2024.SaDMCo3PABFRCM,
+      author            = "Yeou-Fong Li and Yu-Fang Liang and Jin-Yuan Syu and Chi-Hong Huang and Ying-Kuan Tsai and Man-Hoi Lok",
+      title             = "Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar",
+      doi               = "10.1016/j.jobe.2024.111692",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111692",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y.-F. Li, Y.-F. Liang, J.-Y. Syu, C.-H. Huang, Y.-K. Tsai and M.-H. Lok, “Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar”, <i>Journal of Building Engineering</i>, p. 111692, 2024, doi: 10.1016/j.jobe.2024.111692.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Yeou-Fong, Yu-Fang Liang, Jin-Yuan Syu, Chi-Hong Huang, Ying-Kuan Tsai, and Man-Hoi Lok. “Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar”. <i>Journal of Building Engineering</i>, 2024, 111692. https://doi.org/10.1016/j.jobe.2024.111692.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

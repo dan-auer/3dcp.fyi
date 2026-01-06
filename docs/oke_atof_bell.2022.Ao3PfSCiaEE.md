@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ayodeji Oke, John Atofarati, Sherifat Bello
+    - footer
+title: Oke Ayodeji, Atofarati John, Bello Sherifat
 description:
 tags:
  - aware
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://epress.lib.uts.edu.au/journals/index.php/AJCEB/article/download/8015/7958) Awareness of 3D Printing for Sustainable Construction in an Emerging Economy ([2022-06](date/2022/06))
-<a href="https://doi.org/10.5130/ajceb.v22i2.8015" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.5130/ajceb.v22i2.8015</a>
+#Awareness of 3D Printing for Sustainable Construction in an Emerging Economy ([2022-06](date/2022/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://epress.lib.uts.edu.au/journals/index.php/AJCEB/article/download/8015/7958) <a href="https://doi.org/10.5130/ajceb.v22i2.8015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5130/ajceb.v22i2.8015" target="_blank">10.5130/ajceb.v22i2.8015</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6551-8634" title="ORCID: 0000-0001-6551-8634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oke_ayodeji"><b>Oke</b>&nbsp;Ayodeji</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8871-5929" title="ORCID: 0000-0002-8871-5929" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/atofarati_oluwatosin_john"><b>Atofarati</b>&nbsp;John</a></span>, <a href="../../../author/bello_sherifat"><b>Bello</b>&nbsp;Sherifat</a></span><br>
+Journal Article - Construction Economics and Building, Vol. 22, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/oke_ayodeji"><b>Oke</b> Ayodeji</a> <a href="https://orcid.org/0000-0001-6551-8634" title="ORCID: 0000-0001-6551-8634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/atofarati_oluwatosin_john"><b>Atofarati</b> John</a> <a href="https://orcid.org/0000-0002-8871-5929" title="ORCID: 0000-0002-8871-5929" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bello_sherifat"><b>Bello</b> Sherifat</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Economics and Building, Vol. 22, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aware`](keyword/aware)
-    [`#construction`](keyword/construction)
-    [`#emergent`](keyword/emergent)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/aware"><button class="btn">#aware</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Awareness%20of%203D%20Printing%20for%20Sustainable%20Construction%20in%20an%20Emerging%20Economy" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133176860&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4291016483" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.5130/ajceb.v22i2.8015" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.5130/ajceb.v22i2.8015?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing has been popular in the manufacturing industry as a means of automating processes, speeding up production, and reducing waste. It is frequently seen as a relatively new technology, even though it has been in use for more than three decades. This article aims to analyse 3D printing awareness in an emerging economy towards sustainability in the construction industry. A survey research design was used to obtain primary data from the respondents using structured questionnaires. The sample frame for the research survey comprises professionals in construction and consultancy firms such as architects, quantity surveyors, projects managers, and engineers. Mean item score, standard deviation, and factor analysis were used to analyse the data. The findings from this study show that majority of the professionals acknowledged that they were aware of the existence of 3D printing, but most of them attested that they had not utilized this technology before the survey. The study reveals that the professionals in the construction industry of the emerging economy have low awareness of 3D printing technology, therefore its practices in the construction industry of the study area are significantly low. More awareness of 3D printing technology should be raised by bodies shouldered with management and regulation of the construction industry to increase professionals' awareness and enlighten them on the benefits of adopting the technology towards sustainable construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/chateau_camille"><b>Chateau</b> Camille</a>, <a href="../../../author/bornert_michel"><b>Bornert</b> Michel</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../duco_demo_chat_born.2020.AMoAC/">Additive Manufacturing of Anisotropic Concrete:<br/>A Flow-Based Pultrusion of Continuous Fibers in a Cementitious Matrix</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
@@ -76,9 +58,39 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/ahmed_salma"><b>Ahmed</b> Salma</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ahme_romd_saye_manj.2024.RAf3PiCP/">Risk-Assessment for 3D Printing in Construction Projects</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{oke_atof_bell.2022.Ao3PfSCiaEE,
+      author            = "Ayodeji Oke and John Oluwatosin Atofarati and Sherifat Bello",
+      title             = "Awareness of 3D Printing for Sustainable Construction in an Emerging Economy",
+      doi               = "10.5130/ajceb.v22i2.8015",
+      year              = "2022",
+      journal           = "Construction Economics and Building",
+      volume            = "22",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Oke, J. O. Atofarati and S. Bello, “Awareness of 3D Printing for Sustainable Construction in an Emerging Economy”, <i>Construction Economics and Building</i>, vol. 22, no. 2, 2022, doi: 10.5130/ajceb.v22i2.8015.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Oke, Ayodeji, John Oluwatosin Atofarati, and Sherifat Bello. “Awareness of 3D Printing for Sustainable Construction in an Emerging Economy”. <i>Construction Economics and Building</i> 22, no. 2 (2022). https://doi.org/10.5130/ajceb.v22i2.8015.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

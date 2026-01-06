@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ashokreddy Annapareddy, Biranchi Panda, Guan Ting, Mingyang Li, Ming Tan
+    - footer
+title: Annapareddy Ashokreddy, Panda Biranchi, Ting Guan, Li Mingyang, Tan Ming
 description:
 tags:
  - aggregate
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-# Flow And Mechanical Properties of 3D Printed Cementitious Material With Recycled Glass-Aggregates ([2018-05](date/2018/05))
-<a href="https://doi.org/10.25341/d41p4h" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.25341/d41p4h</a>
+#Flow And Mechanical Properties of 3D Printed Cementitious Material With Recycled Glass-Aggregates ([2018-05](date/2018/05))
+ <a href="https://doi.org/10.25341/d41p4h" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.25341/d41p4h" target="_blank">10.25341/d41p4h</a>
 
--------------------------
+<a href="../../../author/annapareddy_ashokreddy"><b>Annapareddy</b>&nbsp;Ashokreddy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ting_heng-andrew_guan"><b>Ting</b>&nbsp;Guan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Contribution - Proceedings of the 3rd International Conference on Progress in Additive Manufacturing, pp. 68-73
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/annapareddy_ashokreddy"><b>Annapareddy</b> Ashokreddy</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a> <a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd International Conference on Progress in Additive Manufacturing, pp. 68-73
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#cement`](keyword/cement)
-    [`#flow`](keyword/flow)
-    [`#glass`](keyword/glass)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flow%20And%20Mechanical%20Properties%20of%203D%20Printed%20Cementitious%20Material%20With%20Recycled%20Glass-Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85053626200&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,23 +39,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2889199600" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.25341/d41p4h" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.25341/d41p4h?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Environmental sustainability has been the focus of recent construction trends. Adopting efficient construction technologies and minimizing the usage of raw materials are a few of many ways to achieve such sustainability. In the past few years, 3D printing of concrete has received considerable attention for its potential to be the next disruptive technology for construction industry. By eliminating and/or reducing the amount of in-situ construction, combined with the need for skilled personnel, 3D printing can help in achieving good quality control at construction site, which has long been an issue in traditional construction industry. Singapore is dependent on neighboring countries for raw construction materials. Using recycled materials as a substitute for aggregates not only minimizes the usage of raw materials, but also help in reducing the Singapore’s dependency on other countries in long-term. In this study, preliminary findings of a 3D printed cementitious material with recycled glass aggregates (RGA) were presented. For 3D printing two different binder systems were used – ternary blended Portland cement and flyash based geopolymer.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sicakova_alena"><b>Sičáková</b> Alena</a>, <a href="../../../author/vercimak_dominik"><b>Verčimák</b> Dominik</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sica_verc.2025.LMwaHPoRFiTo3PP/">Lightweight Mixtures with a High Proportion of Recycled Fillers in Terms of 3D Printing Parameters</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a></li>
@@ -83,4 +59,34 @@ tags:
       <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ilca_sahi_kul_yld.2022.RPaCSoCaDWBGMf3P/">Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing</a></li>
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{anna_pand_ting_li.2018.FAMPo3PCMWRGA,
+      author            = "Ashokreddy Annapareddy and Biranchi Narayan Panda and Guan Heng Andrew Ting and Mingyang Li and Ming Jen Tan",
+      title             = "Flow And Mechanical Properties of 3D Printed Cementitious Material With Recycled Glass-Aggregates",
+      doi               = "10.25341/d41p4h",
+      year              = "2018",
+      pages             = "68--73",
+      booktitle         = "Proceedings of the 3rd International Conference on Progress in Additive Manufacturing",
+      editor            = "Chee Kai Chua and Wai Yee Yeong and Ming Jen Tan and Erjia Liu",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Annapareddy, B. N. Panda, G. H. A. Ting, M. Li and M. J. Tan, “Flow And Mechanical Properties of 3D Printed Cementitious Material With Recycled Glass-Aggregates”, in <i>Proceedings of the 3rd International Conference on Progress in Additive Manufacturing</i>,  2018, pp. 68–73. doi: 10.25341/d41p4h.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Annapareddy, Ashokreddy, Biranchi Narayan Panda, Guan Heng Andrew Ting, Mingyang Li, and Ming Jen Tan. “Flow And Mechanical Properties of 3D Printed Cementitious Material With Recycled Glass-Aggregates”. In <i>Proceedings of the 3rd International Conference on Progress in Additive Manufacturing</i>, edited by Chee Kai Chua, Wai Yee Yeong, Ming Jen Tan, and Erjia Liu, 68–73, 2018. https://doi.org/10.25341/d41p4h.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

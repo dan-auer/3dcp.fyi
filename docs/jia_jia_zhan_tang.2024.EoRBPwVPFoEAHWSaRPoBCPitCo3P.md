@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lutao Jia, Zijian Jia, Zedi Zhang, Zhenzhong Tang, Wei Wang, Ruilin Cao, Yamei Zhang
+    - footer
+title: Jia Lutao, Jia Zijian, Zhang Zedi, Tang Zhenzhong, Wang Wei, Cao Ruilin, Zhang Yamei
 description:
 tags:
  - age
@@ -25,44 +26,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Recycled Brick-Powder with Various Particle-Features on Early-Age Hydration, Water-State, and Rheological Properties of Blended Cement-Paste in the Context of 3D Printing ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.135428" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.135428</a>
+#Effect of Recycled Brick-Powder with Various Particle-Features on Early-Age Hydration, Water-State, and Rheological Properties of Blended Cement-Paste in the Context of 3D Printing ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135428" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135428" target="_blank">10.1016/j.conbuildmat.2024.135428</a>
 
--------------------------
+<a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <a href="../../../author/tang_zhenzhong"><b>Tang</b>&nbsp;Zhenzhong</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span>, <a href="../../../author/cao_ruilin"><b>Cao</b>&nbsp;Ruilin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 418, No. 135428
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/tang_zhenzhong"><b>Tang</b> Zhenzhong</a>
-,     <a href="../../../author/wang_wei"><b>Wang</b> Wei</a>
-,     <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 418, No. 135428
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#blend`](keyword/blend)
-    [`#brick`](keyword/brick)
-    [`#cement`](keyword/cement)
-    [`#early`](keyword/early)
-    [`#effect`](keyword/effect)
-    [`#hydration`](keyword/hydration)
-    [`#particle`](keyword/particle)
-    [`#paste`](keyword/paste)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#rheology`](keyword/rheology)
-    [`#state`](keyword/state)
-    [`#variation`](keyword/variation)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Recycled%20Brick-Powder%20with%20Various%20Particle-Features%20on%20Early-Age%20Hydration%2C%20Water-State%2C%20and%20Rheological%20Properties%20of%20Blended%20Cement-Paste%20in%20the%20Context%20of%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184998057&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -77,17 +47,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391830800" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.135428" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.135428?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Partially replacing cement with recycled brick powder (RBP) in 3D printing concrete (3DPC) is an effective way to reduce carbon footprint and resolve the construction and demolition waste disposal problems. Understanding the impact of RBP on the rheological parameters of 3DPC is of utmost importance, given its critical role in ensuring the requisite printability. Here, three types of RBPs with various particle features were prepared by mechanical grinding, and their effects on several rheological parameters of cement-RBP pastes were characterized by hydration kinetic and water state distribution. Results show that incorporating RBP increases the growth rate of static yield stress due to the nucleation effect in the first 2 h. The initial static yield stress and thixotropy of cement-RBP pastes are governed by morphology effect and Debye length, while the mean interparticle distance and water lubrication effect under shear process play the dominant role in dynamic yield stress. RBP can promote the evolution of structural build-up and thixotropy of cement paste, all of which have a significant positive impact on filament shape retention and structural stability of 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../chen_liu_cao_chen.2022.SIoRPR3PPfAAM/">Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials:<br/>Effect of Precursor Nature</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
@@ -112,8 +78,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
       <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xu_sun_sun_chen.2025.RRMbAICfISP/">Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>Towards 3D Concrete Printing Applications</a></li>
@@ -125,4 +91,34 @@ tags:
       <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_dong_jia_jia.2024.SSEoCSo3PCCCAwVWtBR/">Specimen-Size-Effect on Compressive Strength of 3D Printed Concrete Containing Coarse Aggregate with Varying Water-to-Binder-Ratios</a></li>
       <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/niu_geng"><b>Niu</b> Geng</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jiang_yifan"><b>Jiang</b> Yifan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jia_niu_dong_jian.2024.OSfIRBPi3PCbBLCFaEP/">Optimization-Strategy for Incorporating Recycled Brick-Powder in 3D Printed Concrete by Balancing Low-Carbon Footprint and Enhanced Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jia_jia_zhan_tang.2024.EoRBPwVPFoEAHWSaRPoBCPitCo3P,
+      author            = "Lutao Jia and Zijian Jia and Zedi Zhang and Zhenzhong Tang and Wei Wang and Ruilin Cao and Yamei Zhang",
+      title             = "Effect of Recycled Brick-Powder with Various Particle-Features on Early-Age Hydration, Water-State, and Rheological Properties of Blended Cement-Paste in the Context of 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2024.135428",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "418",
+      pages             = "135428",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Jia, “Effect of Recycled Brick-Powder with Various Particle-Features on Early-Age Hydration, Water-State, and Rheological Properties of Blended Cement-Paste in the Context of 3D Printing”, <i>Construction and Building Materials</i>, vol. 418, p. 135428, 2024, doi: 10.1016/j.conbuildmat.2024.135428.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jia, Lutao, Zijian Jia, Zedi Zhang, Zhenzhong Tang, Wei Wang, Ruilin Cao, and Yamei Zhang. “Effect of Recycled Brick-Powder with Various Particle-Features on Early-Age Hydration, Water-State, and Rheological Properties of Blended Cement-Paste in the Context of 3D Printing”. <i>Construction and Building Materials</i> 418 (2024): 135428. https://doi.org/10.1016/j.conbuildmat.2024.135428.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Viktor Mechtcherine, Markus Taubert, Steffen Müller, Frank Will, Florian Storch, Paul Plaschnick, Jens Otto, Patrick Maiwald
+    - footer
+title: Mechtcherine Viktor, Taubert Markus, Müller Steffen, Will Frank, Storch Florian, Plaschnick Paul, Otto Jens, Maiwald Patrick
 description:
 tags:
  - additive
@@ -16,36 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing of Monolithic, Steel-Reinforced Concrete Walls Using CONPrint3D-Reinforced Methods ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1002/best.202200001" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/best.202200001</a>
+#Additive Manufacturing of Monolithic, Steel-Reinforced Concrete Walls Using CONPrint3D-Reinforced Methods ([2022-03](date/2022/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202200001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202200001" target="_blank">10.1002/best.202200001</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3999-5186" title="ORCID: 0000-0002-3999-5186" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taubert_markus"><b>Taubert</b>&nbsp;Markus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muller_steffen"><b>Müller</b>&nbsp;Steffen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9168-0835" title="ORCID: 0000-0002-9168-0835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/will_frank"><b>Will</b>&nbsp;Frank</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2559-908X" title="ORCID: 0009-0007-2559-908X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/storch_florian"><b>Storch</b>&nbsp;Florian</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-1395-6569" title="ORCID: 0009-0008-1395-6569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/plaschnick_paul"><b>Plaschnick</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7157-2143" title="ORCID: 0000-0001-7157-2143" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/otto_jens"><b>Otto</b>&nbsp;Jens</a></span>, <a href="../../../author/maiwald_patrick"><b>Maiwald</b>&nbsp;Patrick</a></span><br>
+Journal Article - Beton- und Stahlbetonbau, Vol. 117, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a> <a href="https://orcid.org/0000-0002-3999-5186" title="ORCID: 0000-0002-3999-5186" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> <a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/will_frank"><b>Will</b> Frank</a> <a href="https://orcid.org/0000-0002-9168-0835" title="ORCID: 0000-0002-9168-0835" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/storch_florian"><b>Storch</b> Florian</a> <a href="https://orcid.org/0009-0007-2559-908X" title="ORCID: 0009-0007-2559-908X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> <a href="https://orcid.org/0009-0008-1395-6569" title="ORCID: 0009-0008-1395-6569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/otto_jens"><b>Otto</b> Jens</a> <a href="https://orcid.org/0000-0001-7157-2143" title="ORCID: 0000-0001-7157-2143" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maiwald_patrick"><b>Maiwald</b> Patrick</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Beton- und Stahlbetonbau, Vol. 117, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#method`](keyword/method)
-    [`#mono`](keyword/mono)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mono"><button class="btn">#mono</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Monolithic%2C%20Steel-Reinforced%20Concrete%20Walls%20Using%20CONPrint3D-Reinforced%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126042640&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4221013675" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/best.202200001" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/best.202200001?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing technology is developing very dynamically and is increasingly finding practical application. However, the integration of load-bearing reinforcement continues to pose a challenge. This article presents three new methods for the production of reinforced concrete solid walls based on the CONPrint3D technology developed by the authors. In detail, these are: 1) the layer-by-layer overprinting of reinforcement meshes that are suspended in front of a printed core wall, 2) the lateral additive filling of a reinforcement cage and 3) the fully automated construction of a reinforcement structure with immediate subsequent layer-by-layer encasing by extruded concrete. In addition to the current state of research and the concrete technology challenges, mechanical engineering development approaches and the calculative evaluation of the new methods in comparison with established construction methods will be presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/classen_johannes"><b>Claßen</b> Johannes</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../cla_cla_shar.2020.CoaRW3PMfRCA/">Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC)</a></li>
@@ -97,8 +71,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b> Mukhagali</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sagy_stor_must_plas.2025.APo3PSwIRMBoSRB/">Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_yang_sun.2025.SCoSB3PRCS/">Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure:<br/>Effect of 2.5D Rebar Structure on the Flexural Performance of Slab</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
@@ -106,4 +80,34 @@ tags:
       <li><a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/mischke_janik"><b>Mischke</b> Janik</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../otto_misc.2023.OaOSWUAMPoCS/">Operational and Occupational Safety When Using Automated Manufacturing Processes on Construction Sites:<br/>Consideration of Current Legal and Technical Framework Conditions</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../gebh_mata_iqba_kauf.2023.SBoPIRf3CPS/">Structural Behavior of Post-Installed Reinforcement for 3D Concrete Printed Shells:<br/>A Case Study on Water Tanks</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mech_taub_mull_will.2022.AMoMSRCWUCRM,
+      author            = "Viktor Mechtcherine and Markus Taubert and Steffen Müller and Frank Will and Florian Storch and Paul Plaschnick and Jens Otto and Patrick Maiwald",
+      title             = "Additive Manufacturing of Monolithic, Steel-Reinforced Concrete Walls Using CONPrint3D-Reinforced Methods",
+      doi               = "10.1002/best.202200001",
+      year              = "2022",
+      journal           = "Beton- und Stahlbetonbau",
+      volume            = "117",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Mechtcherine, “Additive Manufacturing of Monolithic, Steel-Reinforced Concrete Walls Using CONPrint3D-Reinforced Methods”, <i>Beton- und Stahlbetonbau</i>, vol. 117, no. 4, 2022, doi: 10.1002/best.202200001.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mechtcherine, Viktor, Markus Taubert, Steffen Müller, Frank Will, Florian Storch, Paul Plaschnick, Jens Otto, and Patrick Maiwald. “Additive Manufacturing of Monolithic, Steel-Reinforced Concrete Walls Using CONPrint3D-Reinforced Methods”. <i>Beton- Und Stahlbetonbau</i> 117, no. 4 (2022). https://doi.org/10.1002/best.202200001.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

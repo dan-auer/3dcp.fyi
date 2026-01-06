@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hojae Lee, Jang-Ho Kim, Jae-Heum Moon, Won-Woo Kim, Eun-A Seo
+    - footer
+title: Lee Hojae, Kim Jang-Ho, Moon Jae-Heum, Kim Won-Woo, Seo Eun-A
 description:
 tags:
  - additive
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Correlation Between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography ([2019-08](date/2019/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2019.07.161" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2019.07.161</a>
+#Correlation Between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography ([2019-08](date/2019/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2019.07.161" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2019.07.161" target="_blank">10.1016/j.conbuildmat.2019.07.161</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5138-8282" title="ORCID: 0000-0002-5138-8282" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jay_jang-ho"><b>Kim</b>&nbsp;Jang-Ho</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1627-5186" title="ORCID: 0000-0002-1627-5186" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moon_jae-heum"><b>Moon</b>&nbsp;Jae-Heum</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7870-0718" title="ORCID: 0000-0001-7870-0718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_won-woo"><b>Kim</b>&nbsp;Won-Woo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7377-3448" title="ORCID: 0000-0002-7377-3448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seo_eun-a"><b>Seo</b>&nbsp;Eun-A</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 226, pp. 712-720
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> <a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a> <a href="https://orcid.org/0000-0002-5138-8282" title="ORCID: 0000-0002-5138-8282" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a> <a href="https://orcid.org/0000-0002-1627-5186" title="ORCID: 0000-0002-1627-5186" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> <a href="https://orcid.org/0000-0001-7870-0718" title="ORCID: 0000-0001-7870-0718" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a> <a href="https://orcid.org/0000-0002-7377-3448" title="ORCID: 0000-0002-7377-3448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 226, pp. 712-720
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#bond`](keyword/bond)
-    [`#characteristic`](keyword/characteristic)
-    [`#computer`](keyword/computer)
-    [`#correlation`](keyword/correlation)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mortar`](keyword/mortar)
-    [`#porosity`](keyword/porosity)
-    [`#ray`](keyword/ray)
-    [`#strength`](keyword/strength)
-    [`#tension`](keyword/tension)
-    [`#tomography`](keyword/tomography)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/ray"><button class="btn">#ray</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/tomography"><button class="btn">#tomography</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Correlation%20Between%20Pore%20Characteristics%20and%20Tensile%20Bond%20Strength%20of%20Additive%20Manufactured%20Mortar%20Using%20X-Ray%20Computed%20Tomography" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85073643497&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2965537287" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2019.07.161" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2019.07.161?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, researches on additive manufacturing (AM) method have been actively carried out as the latest technique for building concrete structures in the construction field. It is known that the additive manufacturing method, also called 3D printing technique, is a method of constructing a structure by printing layers, and the adhesion strength in the interlayer between the layers plays a dominant role in the performance of the structure. In this study, we focused on the formation of interlayer of concrete structure built using additive manufacturing method. In this study, the position of the interlayer was analyzed using the computed tomography (CT) method and the correlation between porosity and tensile bond strength in the analyzed interlayer was tried. As a result of the CT analysis of 13 specimens extracted from the printed specimens, it was confirmed that the porosity was formed high in the interlayer. The porosity of the interlayer was at least 2.15% and 6.66% higher than the average porosity. After analyzing the porosity by CT, the tensile bond strength of the specimens was measured to confirm the tensile bond strength and location of the fracture surface. Tensile bond strengths were 2.58–3.77 MPa with an average of 2.80 MPa using 10 specimens. It was confirmed that all of the fracture surfaces occurred along the interlayer. It was confirmed that there was no correlation between the tensile bond strength and porosity of the test specimens used in this study. Six of the ten specimens failed in the other interlayer, but four specimens failed in the interlayer with the highest porosity. As a result of analysis of the fracture surfaces of six specimens without fracture at the highest porosity, the porosity at the fracture surface was 5.73– 9.18%, which was higher by 0.6–3.3% than the average porosity. However, defects occurred during layer output were confirmed from the failure of six specimens. Through this study, we confirmed that the interlayer is the weakest when tensile stress is applied in the perpendicular direction of printing, and that it is necessary to review the defects when applying the printing method
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
@@ -84,8 +57,8 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "67 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_tang_feng_chen.2025.SotIoEA3PCBS/">Study on the Instability of Early Age 3D Printing Cement-Based Structure:<br/>Considering the Influence of Interface</a></li>
       <li><a href="../../../author/kim_ki-yeol"><b>Kim</b> Ki-Yeol</a>, <a href="../../../author/lim_dong-kyu"><b>Lim</b> Dong-Kyu</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kim_lim_choi.2025.CoPMfVCM/">Comparison of Pumping Mechanism for Various Cementitious Materials</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../du_deng_qian.2025.B3PHBCCfUHIP/">Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance</a></li>
@@ -154,4 +127,34 @@ tags:
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lee_kim_moon_kim.2019.CBPCaTBSoAMMUXRCT,
+      author            = "Hojae Lee and Jang-Ho Jay Kim and Jae-Heum Moon and Won-Woo Kim and Eun-A Seo",
+      title             = "Correlation Between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography",
+      doi               = "10.1016/j.conbuildmat.2019.07.161",
+      year              = "2019",
+      journal           = "Construction and Building Materials",
+      volume            = "226",
+      pages             = "712--720",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Lee, J.-H. J. Kim, J.-H. Moon, W.-W. Kim and E.-A. Seo, “Correlation Between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography”, <i>Construction and Building Materials</i>, vol. 226, pp. 712–720, 2019, doi: 10.1016/j.conbuildmat.2019.07.161.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lee, Hojae, Jang-Ho Jay Kim, Jae-Heum Moon, Won-Woo Kim, and Eun-A Seo. “Correlation Between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography”. <i>Construction and Building Materials</i> 226 (2019): 712–20. https://doi.org/10.1016/j.conbuildmat.2019.07.161.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

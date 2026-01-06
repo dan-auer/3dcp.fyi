@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behzad Zahabizadeh, Vítor Cunha, João Pereira, Claúdia Gonçalves
+    - footer
+title: Zahabizadeh Behzad, Cunha Vítor, Pereira João, Gonçalves Claúdia
 description:
 tags:
  - base
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://repositorium.sdum.uminho.pt/bitstream/1822/74546/1/Full_Paper1_Behzad%20etal-IABSE_Guimaraes2019.pdf) Development of Cement-Based Mortars for 3D Printing Through Wet Extrusion ([2019-03](date/2019/03))
-<a href="https://doi.org/10.2749/guimaraes.2019.0540" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2749/guimaraes.2019.0540</a>
+#Development of Cement-Based Mortars for 3D Printing Through Wet Extrusion ([2019-03](date/2019/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://repositorium.sdum.uminho.pt/bitstream/1822/74546/1/Full_Paper1_Behzad%20etal-IABSE_Guimaraes2019.pdf) <a href="https://doi.org/10.2749/guimaraes.2019.0540" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/guimaraes.2019.0540" target="_blank">10.2749/guimaraes.2019.0540</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b>&nbsp;Vítor</a></span>, <a href="../../../author/pereira_joao"><b>Pereira</b>&nbsp;João</a></span>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b>&nbsp;Claúdia</a></span><br>
+Contribution - Proceedings of the 2019 IABSE Symposium, pp. 540-547
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a> <a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>
-,     <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2019 IABSE Symposium, pp. 540-547
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#development`](keyword/development)
-    [`#extrusion`](keyword/extrusion)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#wet`](keyword/wet)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wet"><button class="btn">#wet</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Cement-Based%20Mortars%20for%203D%20Printing%20Through%20Wet%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3131735455" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2749/guimaraes.2019.0540" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2749/guimaraes.2019.0540?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction sector is connoted as an extremely traditional business sector since long ago. However, due to the increase of the global competiveness, there is a demand on the development of new building materials and construction methods that can bring added value to the companies. The 3D concrete printing is a novel construction approach within digital construction that can offer a higher degree of optimization and flexibility for producing either structures or structural elements with complex geometries. One of the main challenges in the 3D concrete printing using wet extrusion is balancing properly the rheological and mechanical properties of the printable mixtures. In this study, several mixtures were developed and their capability for being used in 3D printing was assessed and discussed based on their rheological properties. The compressive strength of the matrices that could be properly printed are also presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -78,10 +57,9 @@ tags:
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
-      <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zaha_cunh_pere_gonc.2019.TEoLDotCBoa3PCBM/">The Effect of Loading-Direction on the Compressive Behavior of a 3D Printed Cement-Based Material</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zaha_pere_pere_cunh.2025.SHAoFRCMDf3CP/">Self-Healing Assessment of Fiber Reinforced Cementitious Mortars Developed for 3D Concrete Printing:<br/>Recovery of Mechanical Performance and Self-Sealing Capability</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/segundo_rocha_iran"><b>Segundo</b> Iran</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/freitas_elisabete"><b>Freitas</b> Elisabete</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../zaha_segu_pere_frei.2023.PoF3PCM/">Photocatalysis of Functionalised 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ribe_figu_cruz_camo.2022.CA/">Concrete AM:<br/>An Insight into the Control of Main Parameters</a></li>
@@ -89,4 +67,34 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../zaha_pere_gonc_cunh.2021.IAoTPBTf3PFRM/">Inverse Analysis of Three-Point Bending Tests for 3D Printed Fiber-Reinforced Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{zaha_cunh_pere_gonc.2019.DoCBMf3PTWE,
+      author            = "Behzad Zahabizadeh and Vítor M. C. F. Cunha and João Pereira and Claúdia Gonçalves",
+      title             = "Development of Cement-Based Mortars for 3D Printing Through Wet Extrusion",
+      doi               = "10.2749/guimaraes.2019.0540",
+      year              = "2019",
+      pages             = "540--547",
+      booktitle         = "Proceedings of the 2019 IABSE Symposium: Towards a Resilient Built Environment",
+      editor            = "International Association for Bridge and Structural Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zahabizadeh, V. M. C. F. Cunha, J. Pereira and C. Gonçalves, “Development of Cement-Based Mortars for 3D Printing Through Wet Extrusion”, in <i>Proceedings of the 2019 IABSE Symposium: Towards a Resilient Built Environment</i>,  2019, pp. 540–547. doi: 10.2749/guimaraes.2019.0540.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zahabizadeh, Behzad, Vítor M. C. F. Cunha, João Pereira, and Claúdia Gonçalves. “Development of Cement-Based Mortars for 3D Printing Through Wet Extrusion”. In <i>Proceedings of the 2019 IABSE Symposium: Towards a Resilient Built Environment</i>, edited by International Association for Bridge and Structural Engineering, 540–47, 2019. https://doi.org/10.2749/guimaraes.2019.0540.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

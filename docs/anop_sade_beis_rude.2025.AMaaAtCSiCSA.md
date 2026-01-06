@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Darya Anop, Marzhan Sadenova, Nail Beisekenov, Olga Rudenko, Zulfiya Aubakirova, Assel Jexembayeva
+    - footer
+title: Anop Darya, Sadenova Marzhan, Beisekenov Nail, Rudenko Olga, Aubakirova Zulfiya, Jexembayeva Assel
 description:
 tags:
  - additive
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/15/14/7737/pdf) Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment ([2025-07](date/2025/07))
-<a href="https://doi.org/10.3390/app15147737" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app15147737</a>
+#Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/15/14/7737/pdf) <a href="https://doi.org/10.3390/app15147737" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app15147737" target="_blank">10.3390/app15147737</a>
 
--------------------------
+<a href="../../../author/anop_darya"><b>Anop</b>&nbsp;Darya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2870-6668" title="ORCID: 0000-0002-2870-6668" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sadenova_marzhan"><b>Sadenova</b>&nbsp;Marzhan</a></span>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b>&nbsp;Nail</a></span>, <a href="../../../author/rudenko_olga"><b>Rudenko</b>&nbsp;Olga</a></span>, <a href="../../../author/aubakirova_zulfiya"><b>Aubakirova</b>&nbsp;Zulfiya</a></span>, <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b>&nbsp;Assel</a></span><br>
+Journal Article - Applied Sciences, Vol. 15, Iss. 14, No. 7737
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/anop_darya"><b>Anop</b> Darya</a>
-,     <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a> <a href="https://orcid.org/0000-0002-2870-6668" title="ORCID: 0000-0002-2870-6668" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>
-,     <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a>
-,     <a href="../../../author/aubakirova_zulfiya"><b>Aubakirova</b> Zulfiya</a>
-,     <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 15, Iss. 14, No. 7737
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#alternative`](keyword/alternative)
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#core`](keyword/core)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#samples`](keyword/samples)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/core"><button class="btn">#core</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/samples"><button class="btn">#samples</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20as%20an%20Alternative%20to%20Core%20Sampling%20in%20Concrete%20Strength%20Assessment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011847961&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412201741" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app15147737" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app15147737?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing reshapes concrete construction, yet routine strength verification of printed elements still depends on destructive core sampling. This study evaluates whether standard 70 mm cubes—corrected by a single factor—can provide an equally reliable measure of in situ compressive strength. Five Portland-cement mixes, with and without ash-slag techno-mineral filler, were extruded into wall blocks on a laboratory 3D printer. For each mix, the compressive strengths of the cubes and ∅ 28 mm drilled cores were measured at 7, 14 and 28 days. The core strengths were consistently lower than the cube strengths, but their ratios remained remarkably stable: the transition coefficient clustered between 0.82 and 0.85 (mean 0.83). Ordinary least-squares regression of the pooled data produced the linear relation 𝑅̂𝑐𝑜𝑟𝑒 [MPa] = 0.97 𝑅̂𝑐𝑢𝑏𝑒 − 4.9, limiting the prediction error to less than 2 MPa (under 3% across the 40–300 MPa range) and outperforming more complex machine-learning models. Mixtures containing up to 30% ash-slag filler maintained structural-grade strength while reducing clinker demand, underscoring their sustainability potential. The results deliver a simple, evidence-based protocol for non-destructive strength assessment of 3D-printed concrete and provide quantitative groundwork for future standardisation of quality-control practices in additive construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -94,7 +70,38 @@ tags:
       <li><a href="../../../author/yoshihara_rei"><b>Yoshihara</b> Rei</a>, <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yosh_naka_hash_sugi.2024.EoADHi3PCbMoXRC/">Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT</a></li>
       <li><a href="../../../author/zhang_yonghong"><b>Zhang</b> Yonghong</a>, <a href="../../../author/cui_suping"><b>Cui</b> Suping</a>, <a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a>, <a href="../../../author/wang_xinxin"><b>Wang</b> Xinxin</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhan_cui_yang_wang.2025.Ro3PCMPPMBoML/">Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{anop_sade_beis_rude.2025.AMaaAtCSiCSA,
+      author            = "Darya Anop and Marzhan Sadenova and Nail Beisekenov and Olga Rudenko and Zulfiya Aubakirova and Assel Jexembayeva",
+      title             = "Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment",
+      doi               = "10.3390/app15147737",
+      year              = "2025",
+      journal           = "Applied Sciences",
+      volume            = "15",
+      number            = "14",
+      pages             = "7737",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Anop, M. Sadenova, N. Beisekenov, O. Rudenko, Z. Aubakirova and A. Jexembayeva, “Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment”, <i>Applied Sciences</i>, vol. 15, no. 14, p. 7737, 2025, doi: 10.3390/app15147737.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Anop, Darya, Marzhan Sadenova, Nail Beisekenov, Olga Rudenko, Zulfiya Aubakirova, and Assel Jexembayeva. “Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment”. <i>Applied Sciences</i> 15, no. 14 (2025): 7737. https://doi.org/10.3390/app15147737.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

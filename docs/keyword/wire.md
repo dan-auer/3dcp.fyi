@@ -8,7 +8,8 @@ search:
 
 # #wire
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhang_genbao"><b>Zhang</b> Genbao</a>, <a href="../../../author/chen_lingke"><b>Chen</b> Lingke</a>, <a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/morsy_m_amr"><b>Morsy</b> Amr</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhan_chen_liu_mors.2025.EtSPoUSSWMR3PC/">Enhancing the Shear Properties of U-Shaped Steel Wire Mesh Reinforced 3D Printed Composites</a></li>
   <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_ding_yu_li.2025.SSo3pEBTSWMaIT/">Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments</a></li>
   <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lin_yu.2024.ARRTUFaSWMi3PEB/">A Rapid Reinforcement-Technique Using FRP and Steel-Wire Mesh in 3D Printed ECC Beams</a></li>
   <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hoja_sedg_li_mema.2024.FSo3PCB/">Flexural Strength of 3D Printed Concrete Beams:<br/>Exploring Barbed-Wire Reinforcement and Cross-Sectional Geometry</a></li>

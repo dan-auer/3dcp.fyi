@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shiva Bhusal, Reza Sedghi, Maryam Hojati
+    - footer
+title: Bhusal Shiva, Sedghi Reza, Hojati Maryam
 description:
 tags:
  - buildability
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/15/21/15617/pdf?version=1699081385) Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings ([2023-11](date/2023/11))
-<a href="https://doi.org/10.3390/su152115617" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su152115617</a>
+#Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings ([2023-11](date/2023/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/15/21/15617/pdf?version=1699081385) <a href="https://doi.org/10.3390/su152115617" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su152115617" target="_blank">10.3390/su152115617</a>
 
--------------------------
+<a href="../../../author/bhusal_shiva"><b>Bhusal</b>&nbsp;Shiva</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sedghi_reza"><b>Sedghi</b>&nbsp;Reza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
+Journal Article - Sustainability, Vol. 15, Iss. 21, No. 15617
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bhusal_shiva"><b>Bhusal</b> Shiva</a>
-,     <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a> <a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 15, Iss. 21, No. 15617
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#carbon`](keyword/carbon)
-    [`#earth`](keyword/earth)
-    [`#evaluation`](keyword/evaluation)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixing`](keyword/mixing)
-    [`#neutrality`](keyword/neutrality)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/neutrality"><button class="btn">#neutrality</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20the%20Printability%20and%20Rheological%20and%20Mechanical%20Properties%20of%203D%20Printed%20Earthen%20Mixes%20for%20Carbon-Neutral%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181768444&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388334165" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su152115617" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su152115617?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research delves into the vital aspect of adapting local soil properties for 3D printing and explores the mix design of collected earthen materials to tackle challenges in printability, shrinkage, and mechanical properties. Initially, soil samples from six local sites underwent characterization based on Atterberg’s limits, focusing on identifying the most suitable high-clay-content soil. The soil with a higher clay content was used for further study, and its clay type was determined using an X-ray diffraction (XRD) analysis, revealing the presence of 49% kaolinite, 15% nontronite, and 36% illite clay minerals. Four earthen mixes were designed by including stabilizers (i.e., hydrated lime), natural pozzolana, and degradable natural fibers (wheat straw fiber). Subsequently, the study examined their rheological properties, shrinkage behavior, compressive and flexural strength, and printability (including extrudability and buildability). The pure soil mixture excelled in printing quality and mechanical strength, but suffered from cracking and drying shrinkage due to its high nontronite clay content. The existence of 15% nontronite clay mineral in the soil resulted in significant shrinkage and extensive cracking of specimens. However, fiber incorporation effectively mitigated large cracks and reduced shrinkage to as low as 2.6%. Despite initial expectations, introducing lime and pozzolana as soil stabilizers did not improve strength, prevent shrinkage, or improve the printability of soil mixes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/bajpayee_aayushi"><b>Bajpayee</b> Aayushi</a>, <a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/pandey_aditi"><b>Pandey</b> Aditi</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bajp_fara_zaki_pand.2020.ISRUaRoSiCMftAMoB/">In-Situ Resource Utilization and Reconfiguration of Soils into Construction Materials for the Additive Manufacturing of Buildings</a></li>
@@ -95,8 +71,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/feng_xiaowei"><b>Feng</b> Xiaowei</a>, <a href="../../../author/carvelli_valter"><b>Carvelli</b> Valter</a>, <a href="../../../author/pan_dongjiang"><b>Pan</b> Dongjiang</a>, <a href="../../../author/zhu_chuankai"><b>Zhu</b> Chuankai</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_carv_pan_zhu.2025.AMoHSSCMfEMM/">Additive Manufacturing of Hybrid Straw-Soil-Cement Materials for Enhanced Mine Models</a></li>
       <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/emiroglu_mehmet"><b>Emiroğlu</b> Mehmet</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mato_emir_milh.2025.PSSMPf3P/">Predicting Stabilized Soil Mixture Proportions for 3D Printing:<br/>Preliminary Study Using the Design of Experiments Approach</a></li>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yous_rash_koc.2025.AMfVAULESaBWM/">Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials</a></li>
@@ -109,4 +85,35 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/gosslar_joschua"><b>Gosslar</b> Joschua</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mai_goss_khad_lowk.2024.WfEB3P/">Workflow for Earth-Based 3D Printing</a></li>
       <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/rashidi_kourosh"><b>Rashidi</b> Kourosh</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../sedg_rash_hoja.2024.LS3WP/">Large-Scale 3D Wall Printing:<br/>From Concept to Reality</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bhus_sedg_hoja.2023.EtPaRaMPo3PEMfCNB,
+      author            = "Shiva Bhusal and Reza Sedghi and Maryam Hojati",
+      title             = "Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings",
+      doi               = "10.3390/su152115617",
+      year              = "2023",
+      journal           = "Sustainability",
+      volume            = "15",
+      number            = "21",
+      pages             = "15617",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Bhusal, R. Sedghi and M. Hojati, “Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings”, <i>Sustainability</i>, vol. 15, no. 21, p. 15617, 2023, doi: 10.3390/su152115617.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bhusal, Shiva, Reza Sedghi, and Maryam Hojati. “Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings”. <i>Sustainability</i> 15, no. 21 (2023): 15617. https://doi.org/10.3390/su152115617.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

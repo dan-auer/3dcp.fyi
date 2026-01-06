@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Liubov Adamtsevich, Andrey Pustovgar, Aleksey Adamtsevich
+    - footer
+title: Adamtsevich Liubov, Pustovgar Andrey, Adamtsevich Aleksey
 description:
 tags:
  - assessment
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/su16219305) Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation ([2024-10](date/2024/10))
-<a href="https://doi.org/10.3390/su16219305" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su16219305</a>
+#Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/su16219305) <a href="https://doi.org/10.3390/su16219305" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su16219305" target="_blank">10.3390/su16219305</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5843-0076" title="ORCID: 0000-0002-5843-0076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b>&nbsp;Liubov</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0480-2401" title="ORCID: 0000-0002-0480-2401" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pustovgar_andrey"><b>Pustovgar</b>&nbsp;Andrey</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4878-2737" title="ORCID: 0000-0003-4878-2737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b>&nbsp;Aleksey</a></span><br>
+Journal Article - Sustainability, Vol. 16, Iss. 21, No. 9305
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a> <a href="https://orcid.org/0000-0002-5843-0076" title="ORCID: 0000-0002-5843-0076" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a> <a href="https://orcid.org/0000-0002-0480-2401" title="ORCID: 0000-0002-0480-2401" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="https://orcid.org/0000-0003-4878-2737" title="ORCID: 0000-0003-4878-2737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 16, Iss. 21, No. 9305
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#delievery`](keyword/delievery)
-    [`#development`](keyword/development)
-    [`#implementation`](keyword/implementation)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/delievery"><button class="btn">#delievery</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessing%20the%20Prospects%20and%20Risks%20of%20Delivering%20Sustainable%20Urban%20Development%20Through%203D%20Concrete%20Printing%20Implementation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208590391&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403810236" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su16219305" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su16219305?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The article presents the results of a comprehensive study of the use of 3D Concrete printing (3DCP) technology to create urban infrastructure facilities according to sustainable development principles. The work includes a study of scientific articles on the subject area under consideration, a survey of additive construction market participants, as well as an analysis and generalization of promising areas for technology development and methods for improving the quality of objects erected using 3DCP. As part of the conducted literature review, publications included in the Scopus database for the period 2015–2024 were selected for analysis using the keywords ‘Sustainable development + 3DCP’ and ‘Sustainable construction + 3DCP’. The following conclusions were made: (i) the most popular publications are review articles about the development of materials and technologies for 3DCP and (ii) the most sought-after are the studies in the field of partial application of 3DCP technology, existing equipment and materials for 3DCP, and assessment of the effectiveness and cost-effectiveness of 3DCP use. For this purpose, a questionnaire was developed consisting of three blocks: equipment and technologies; structures and materials for 3DCP; the ecology and economics of 3DCP applicability. As a result, four main risks have been identified, which represent promising areas for 3DCP development.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "54 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
@@ -119,9 +99,40 @@ tags:
       <li><a href="../../../author/yu_haoxuan"><b>Yu</b> Haoxuan</a>, <a href="../../../author/wen_bodong"><b>Wen</b> Bodong</a>, <a href="../../../author/zahidi_izni"><b>Zahidi</b> Izni</a>, <a href="../../../author/chow_ming"><b>Chow</b> Ming</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yu_wen_zahi_chow.2024.CtF/">Constructing the Future:<br/>Policy-Driven Digital Fabrication in China's Urban Development</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{adam_pust_adam.2024.AtPaRoDSUDT3CPI,
+      author            = "Liubov Adamtsevich and Andrey Pustovgar and Aleksey Adamtsevich",
+      title             = "Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation",
+      doi               = "10.3390/su16219305",
+      year              = "2024",
+      journal           = "Sustainability",
+      volume            = "16",
+      number            = "21",
+      pages             = "9305",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Adamtsevich, A. Pustovgar and A. Adamtsevich, “Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation”, <i>Sustainability</i>, vol. 16, no. 21, p. 9305, 2024, doi: 10.3390/su16219305.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Adamtsevich, Liubov, Andrey Pustovgar, and Aleksey Adamtsevich. “Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation”. <i>Sustainability</i> 16, no. 21 (2024): 9305. https://doi.org/10.3390/su16219305.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

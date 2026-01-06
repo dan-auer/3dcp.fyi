@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Julian Unglaub, Marc Müggenburg, Hendrik Jahns, Harald Kloft, Jonas Hensel, Klaus Thiele
+    - footer
+title: Unglaub Julian, Müggenburg Marc, Jahns Hendrik, Kloft Harald, Hensel Jonas, Thiele Klaus
 description:
 tags:
  - component
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Towards a Digital Twin to Enable First Time Right DED-Arc Components ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1007/978-3-031-70031-6_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70031-6_51</a>
+#Towards a Digital Twin to Enable First Time Right DED-Arc Components ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_51" target="_blank">10.1007/978-3-031-70031-6_51</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4336-4846" title="ORCID: 0000-0002-4336-4846" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/unglaub_julian"><b>Unglaub</b>&nbsp;Julian</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-0706-6865" title="ORCID: 0009-0002-0706-6865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muggenburg_marc"><b>Müggenburg</b>&nbsp;Marc</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0804-6823" title="ORCID: 0000-0003-0804-6823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jahns_hendrik"><b>Jahns</b>&nbsp;Hendrik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1843-6473" title="ORCID: 0000-0002-1843-6473" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hensel_jonas"><b>Hensel</b>&nbsp;Jonas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5367-5840" title="ORCID: 0000-0002-5367-5840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thiele_klaus"><b>Thiele</b>&nbsp;Klaus</a></span><br>
+Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 439-446
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/unglaub_julian"><b>Unglaub</b> Julian</a> <a href="https://orcid.org/0000-0002-4336-4846" title="ORCID: 0000-0002-4336-4846" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muggenburg_marc"><b>Müggenburg</b> Marc</a> <a href="https://orcid.org/0009-0002-0706-6865" title="ORCID: 0009-0002-0706-6865" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jahns_hendrik"><b>Jahns</b> Hendrik</a> <a href="https://orcid.org/0000-0003-0804-6823" title="ORCID: 0000-0003-0804-6823" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hensel_jonas"><b>Hensel</b> Jonas</a> <a href="https://orcid.org/0000-0002-1843-6473" title="ORCID: 0000-0002-1843-6473" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/thiele_klaus"><b>Thiele</b> Klaus</a> <a href="https://orcid.org/0000-0002-5367-5840" title="ORCID: 0000-0002-5367-5840" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 439-446
-
-:aca-blank:{ .lg .middle}
-    [`#component`](keyword/component)
-    [`#digital`](keyword/digital)
-    [`#enabler`](keyword/enabler)
-    [`#first`](keyword/first)
-    [`#time`](keyword/time)
-    [`#twin`](keyword/twin)
-
-
--------------------------
+<a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Towards%20a%20Digital%20Twin%20to%20Enable%20First%20Time%20Right%20DED-Arc%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203052450&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,20 +36,47 @@ tags:
 <a href="https://inciteful.xyz/p/W4402088183" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70031-6_51" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70031-6_51?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Arc direct energy deposition (DED-Arc) enables the production of large, optimized components like nodal connectors for the architectural engineering and construction (AEC) sector. High-strength low-alloyed (HSLA) steel wire is particularly suitable for thin-walled and shape-optimized components due to its joining possibilities and strength. As large components for the AEC sector are unique and not meant for serial production, the structural design, prediction of component performance and quality management must be reconsidered. Instead of testing random samples, the process can be monitored and conclusions to the resulting parts can be drawn. With respect to digital fabrication in construction a concept of a digital twin for DED-Arc steel components will be presented. In detail, the manufacturing process has an influence on the design, manufacturing strategy and on the component performance. Therefore, localized information is needed to understand the correlation of as-designed geometry, print strategy, weld data and as-build geometry. This fundamental understanding of design, process and performance enables first time right approaches for sustainable use of DED-Arc technology. To determine the influence of these parameters, extensive studies on thin-walled components and nodal connectors made from HSLA steel wire with DED-Arc were conducted. A workflow will be presented to link point, path and surface wise data in a digital twin structure. In detail: A structured light high-resolution scan of the “as-built” components allowed the 3d-analysis of surface topology and correlated them to the manufacturing process data and print features locally. Understanding these complex interactions in digital twin (DT) data enables adapting the component’s design or manufacturing process to predict the component’s mechanical performance requirements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/vilgertshofer_simon"><b>Vilgertshofer</b> Simon</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../slep_vilg_borr.2022.FIM/">Fabrication Information Modeling:<br/>Interfacing Building Information Modeling with Digital Fabrication</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ungl_mugg_jahn_klof.2024.TaDTtEFTRDAC,
+      author            = "Julian Unglaub and Marc Müggenburg and Hendrik Jahns and Harald Kloft and Jonas Hensel and Klaus Thiele",
+      title             = "Towards a Digital Twin to Enable First Time Right DED-Arc Components",
+      doi               = "10.1007/978-3-031-70031-6_51",
+      year              = "2024",
+      volume            = "53",
+      pages             = "439--446",
+      booktitle         = "Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Unglaub, M. Müggenburg, H. Jahns, H. Kloft, J. Hensel and K. Thiele, “Towards a Digital Twin to Enable First Time Right DED-Arc Components”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 439–446. doi: 10.1007/978-3-031-70031-6_51.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Unglaub, Julian, Marc Müggenburg, Hendrik Jahns, Harald Kloft, Jonas Hensel, and Klaus Thiele. “Towards a Digital Twin to Enable First Time Right DED-Arc Components”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:439–46, 2024. https://doi.org/10.1007/978-3-031-70031-6_51.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #achievement
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_qiuju"><b>Zhang</b> Qiuju</a>, <a href="../../../author/li_yujia"><b>Li</b> Yujia</a>, <a href="../../../author/huang_yuefan"><b>Huang</b> Yuefan</a>, <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_li_huan_li.2025.U3PaDOFtATSC/">Utilizing 3D Printing and Distributed Optic Fiber to Achieve Temperature-Sensitive Concrete</a></li>
   <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bakh_zafa_hoja.2025.ASoAHTDi3PECCRw8F/">A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers</a></li>
   <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/rossetti_pietro"><b>Rossetti</b> Pietro</a>, <a href="../../../author/polidoro_anthony"><b>Polidoro</b> Anthony</a>, <a href="../../../author/rossi_emilio"><b>Rossi</b> Emilio</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sang_ross_poli_ross.2025.SREBAw3PF/">Sustainable Raw-Earth Blocks Achieved with 3D-Printed Formworks:<br/>Parametric Modeling, Prototyping, and Laboratory Testing</a></li>

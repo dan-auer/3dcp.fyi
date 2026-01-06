@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maria Los Angeles Ortega Rosario, Melany Medina, Rafael Duque, Antonio Alberto Jaén Ortega, Luis Castillero
+    - footer
+title: Los Angeles Ortega Rosario Maria, Medina Melany, Duque Rafael, Alberto Jaén Ortega Antonio, Castillero Luis
 description:
 tags:
  - additive
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.intechopen.com/citation-pdf-url/1186343) Advancing Sustainable Construction:<br/>:aca-blank: Insights into Clay-Based Additive Manufacturing for Architecture, Engineering, and Construction ([2024-05](date/2024/05))
-<a href="https://doi.org/10.5772/intechopen.1005442" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.5772/intechopen.1005442</a>
+#Advancing Sustainable Construction&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">Insights into Clay-Based Additive Manufacturing for Architecture, Engineering, and Construction</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.intechopen.com/citation-pdf-url/1186343) <a href="https://doi.org/10.5772/intechopen.1005442" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5772/intechopen.1005442" target="_blank">10.5772/intechopen.1005442</a>
 
--------------------------
+<a href="../../../author/los-angeles-ortega-rosario_maria"><b>del&nbsp;Los Angeles Ortega Rosario</b>&nbsp;Maria</a></span>, <a href="../../../author/medina_melany"><b>Medina</b>&nbsp;Melany</a></span>, <a href="../../../author/duque_rafael"><b>Duque</b>&nbsp;Rafael</a></span>, <a href="../../../author/alberto-jaen-ortega_antonio"><b>Alberto Jaén Ortega</b>&nbsp;Antonio</a></span>, <a href="../../../author/castillero_luis"><b>Castillero</b>&nbsp;Luis</a></span><br>
+Contribution - Developments in Clay Science and Construction Techniques
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/los-angeles-ortega-rosario_maria"><b>del Los Angeles Ortega Rosario</b> Maria</a>
-,     <a href="../../../author/medina_melany"><b>Medina</b> Melany</a>
-,     <a href="../../../author/duque_rafael"><b>Duque</b> Rafael</a>
-,     <a href="../../../author/alberto-jaen-ortega_antonio"><b>Alberto Jaén Ortega</b> Antonio</a>
-,     <a href="../../../author/castillero_luis"><b>Castillero</b> Luis</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Developments in Clay Science and Construction Techniques, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#advance`](keyword/advance)
-    [`#architecture`](keyword/architecture)
-    [`#base`](keyword/base)
-    [`#clay`](keyword/clay)
-    [`#construction`](keyword/construction)
-    [`#engineered`](keyword/engineered)
-    [`#insights`](keyword/insights)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4398204580" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.5772/intechopen.1005442" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.5772/intechopen.1005442?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing(AM) has evolved from rapid prototyping to a versatile technology in nano to large-scale fabrication, gaining traction in various sectors such as medicine, aeronautics, and pharmaceuticals. Its recent application in the architecture, engineering, and construction (AEC) industry marks a significant shift, especially in using traditional concrete and steel materials to innovative, sustainable options like clay. The increasing demand for ecofriendly construction materials propels this development. This chapter presents an overview of the latest developments in clay-based AM within the AEC sector. It discusses the challenges and opportunities of this technology, integrating design methods and material approaches. The chapter also examines the critical interplay of geometry, material properties, and process parameters in AM. Aimed at professionals in the field, it offers a comprehensive framework and practical guidelines for engineers, designers, and architects in this dynamic domain.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdallah_k_yomna"><b>Abdallah</b> Yomna</a>, <a href="../../../author/estevez_t_alberto"><b>Estévez</b> Alberto</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_este.2021.3PBCB/">3D Printed Biodigital Clay Bricks</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
@@ -110,7 +86,36 @@ tags:
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_luo_anan_sing.2024.SUoURGiAMRPC/">Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{los_medi_duqu_albe.2024.ASC,
+      author            = "Maria del Los Angeles Ortega Rosario and Melany Medina and Rafael Duque and Antonio Alberto Jaén Ortega and Luis Castillero",
+      title             = "Advancing Sustainable Construction: Insights into Clay-Based Additive Manufacturing for Architecture, Engineering, and Construction",
+      doi               = "10.5772/intechopen.1005442",
+      year              = "2024",
+      booktitle         = "Developments in Clay Science and Construction Techniques: Working Title",
+      editor            = "Amjad Almusaed and Asaad Almssad and Ibrahim Yitmen",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. del Los Angeles Ortega Rosario, M. Medina, R. Duque, A. A. J. Ortega and L. Castillero, “Advancing Sustainable Construction: Insights into Clay-Based Additive Manufacturing for Architecture, Engineering, and Construction”, in <i>Developments in Clay Science and Construction Techniques: Working Title</i>,  2024. doi: 10.5772/intechopen.1005442.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Los Angeles Ortega Rosario, Maria del, Melany Medina, Rafael Duque, Antonio Alberto Jaén Ortega, and Luis Castillero. “Advancing Sustainable Construction: Insights into Clay-Based Additive Manufacturing for Architecture, Engineering, and Construction”. In <i>Developments in Clay Science and Construction Techniques: Working Title</i>, edited by Amjad Almusaed, Asaad Almssad, and Ibrahim Yitmen, 2024. https://doi.org/10.5772/intechopen.1005442.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

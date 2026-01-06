@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lien Saelens, Kim Tittelboom, Roman Wan-Wendner, Robby Caspeele
+    - footer
+title: Saelens Lien, Tittelboom Kim, Wan-Wendner Roman, Caspeele Robby
 description:
 tags:
  - beam
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003595120-126&type=chapterpdf) Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1201/9781003595120-126" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1201/9781003595120-126</a>
+#Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003595120-126&type=chapterpdf) <a href="https://doi.org/10.1201/9781003595120-126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003595120-126" target="_blank">10.1201/9781003595120-126</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9481-1987" title="ORCID: 0000-0001-9481-1987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saelens_lien"><b>Saelens</b>&nbsp;Lien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b>&nbsp;Roman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4074-7478" title="ORCID: 0000-0003-4074-7478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caspeele_robby"><b>Caspeele</b>&nbsp;Robby</a></span><br>
+Contribution - Life-Cycle Performance of Structures and Infrastructure Systems in Diverse Environments, pp. 1043-1050
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a> <a href="https://orcid.org/0000-0001-9481-1987" title="ORCID: 0000-0001-9481-1987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="https://orcid.org/0000-0003-4074-7478" title="ORCID: 0000-0003-4074-7478" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Life-Cycle Performance of Structures and Infrastructure Systems in Diverse Environments, pp. 1043-1050
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#capacity`](keyword/capacity)
-    [`#cast`](keyword/cast)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#hybrid`](keyword/hybrid)
-    [`#numeric`](keyword/numeric)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#quantification`](keyword/quantification)
-    [`#structure`](keyword/structure)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantification"><button class="btn">#quantification</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20and%20Numerical%20Quantification%20of%20the%20Structural%20Capacity%20of%20Hybrid%203D%20Printed%20and%20Cast%20Concrete%20Beams%20After%20Topology%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412838826" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1201/9781003595120-126" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1201/9781003595120-126?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In order for 3D printed concrete (3DPC) to be a valid alternative to traditionally cast concrete, the technology should fully exploit its advantages towards production process automation and the realization of complex geometries for efficient material use. A hybrid 3DPC-cast beam concept is presented, where the lower part of the beam consists of traditionally reinforced cast concrete. The upper part consists of an unreinforced 3DPC segment, for which there is an option to reduce the volume by for example structural topology optimization. Two hybrid beam configurations, a ‘full’ beam and an optimized beam, are investigated based on structural testing in a bending set-up. A numerical model is developed, informed by material tests, in order to portray the hybrid beam’s structural behavior. The modelling of the interface between the printed and cast concrete plays an important role in the prediction of the structural hybrid beam behavior. The peak shear stress shows to be a critical factor for the prediction of the beam capacity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../beka_titt_schu.2020.PCaFM/">Printed Concrete as Formwork-Material:<br/>A Preliminary Study</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -83,7 +57,37 @@ tags:
       <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sael_wan_casp_titt.2024.MVRwAM/">Material-Volume Reduction with Additive Manufacturing:<br/>Challenges for Structural Application</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_moha_rahu_schu.2023.DoaCSPCBSfTP3CP/">Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO,
+      author            = "Lien Saelens and Kim van Tittelboom and Roman Wan-Wendner and Robby Caspeele",
+      title             = "Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization",
+      doi               = "10.1201/9781003595120-126",
+      year              = "2025",
+      pages             = "1043--1050",
+      booktitle         = "Life-Cycle Performance of Structures and Infrastructure Systems in Diverse Environments",
+      editor            = "Chun Qing Li and Dan M. Frangopol",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Saelens, K. van Tittelboom, R. Wan-Wendner and R. Caspeele, “Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization”, in <i>Life-Cycle Performance of Structures and Infrastructure Systems in Diverse Environments</i>,  2025, pp. 1043–1050. doi: 10.1201/9781003595120-126.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Saelens, Lien, Kim van Tittelboom, Roman Wan-Wendner, and Robby Caspeele. “Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization”. In <i>Life-Cycle Performance of Structures and Infrastructure Systems in Diverse Environments</i>, edited by Chun Qing Li and Dan M. Frangopol, 1043–50, 2025. https://doi.org/10.1201/9781003595120-126.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

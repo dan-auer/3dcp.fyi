@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tinghong Pan, Rongxin Guo, Chaoshu Fu, Xuping Ji, Zhou Liu, Yong Yan
+    - footer
+title: Pan Tinghong, Guo Rongxin, Fu Chaoshu, Ji Xuping, Liu Zhou, Yan Yong
 description:
 tags:
  - base
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Extrusion-Based 3D Concrete Printing with Different Flow-Direction ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133714" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133714</a>
+#Extrusion-Based 3D Concrete Printing with Different Flow-Direction ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133714" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133714" target="_blank">10.1016/j.conbuildmat.2023.133714</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2290-4911" title="ORCID: 0000-0002-2290-4911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_rongxin"><b>Guo</b>&nbsp;Rongxin</a></span>, <a href="../../../author/fu_chaoshu"><b>Fu</b>&nbsp;Chaoshu</a></span>, <a href="../../../author/ji_xuping"><b>Ji</b>&nbsp;Xuping</a></span>, <a href="../../../author/liu_zhou"><b>Liu</b>&nbsp;Zhou</a></span>, <a href="../../../author/yan_yong"><b>Yan</b>&nbsp;Yong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 408, No. 133714
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a> <a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a> <a href="https://orcid.org/0000-0002-2290-4911" title="ORCID: 0000-0002-2290-4911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fu_chaoshu"><b>Fu</b> Chaoshu</a>
-,     <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a>
-,     <a href="../../../author/liu_zhou"><b>Liu</b> Zhou</a>
-,     <a href="../../../author/yan_yong"><b>Yan</b> Yong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 408, No. 133714
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#direction`](keyword/direction)
-    [`#extrusion`](keyword/extrusion)
-    [`#flow`](keyword/flow)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extrusion-Based%203D%20Concrete%20Printing%20with%20Different%20Flow-Direction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173274696&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387499467" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133714" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133714?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Various flow directions are employed in the actual printing process, resulting in different printed results. This study primarily investigates how flow direction impacts the distribution of material mass, deformation behavior, and interlayer bond strength in printed structures. The results indicate that flow direction plays a pivotal role in regulating printing pressure. Increasing the flow direction can lead to higher deformation ratios, improved interlayer bond strength, elevated average compression pressure, and increased printing pressure in printed structures. However, this comes at the cost of reducing the area ratio of deposited filament. Achieving a balance between high buildability and desirable interlayer bond properties solely by adjusting the flow direction during the extrusion-deposition process may prove challenging. This study provides a theoretical basis and technical guidance for the selection and adjustment of flow direction in 3D printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
@@ -114,12 +91,42 @@ tags:
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_qian_yu_leun.2022.TPo3PSHCCCMPNSaPP/">Tensile Performance of 3D Printed Strain-Hardening Cementitious Composites Considering Material-Parameters, Nozzle-Size and Printing-Pattern</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/rahman_m-arifur_s"><b>Rahman</b> S.</a>, <a href="../../../author/khair_sanjida"><b>Khair</b> Sanjida</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rahm_khai_shai_sark.2025.D3PCILSaPF/">Decarbonized 3D Printed Concrete Incorporating Lithium Slag and PVA Fiber:<br/>Buildability, Mechanical, and Microstructural Insights</a></li>
       <li><a href="../../../author/zhang_ziqi"><b>Zhang</b> Ziqi</a>, <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guoa_rongxin"><b>Guoa</b> Rongxin</a>, <a href="../../../author/lin_runsheng"><b>Lin</b> Runsheng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC/">Simulation and Analysis of Material Stacking and Migration Induced by Extrusion Behavior in 3D Printed Concrete</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../sala_jaya.2024.EoIDLoILBaGDiC3P/">Effect of Introducing Dummy Layers on Inter-Layer Bonding and Geometrical Deformations in Concrete 3D Printing</a></li>
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pan_guo_fu_ji.2023.EB3CPwDFD,
+      author            = "Tinghong Pan and Rongxin Guo and Chaoshu Fu and Xuping Ji and Zhou Liu and Yong Yan",
+      title             = "Extrusion-Based 3D Concrete Printing with Different Flow-Direction",
+      doi               = "10.1016/j.conbuildmat.2023.133714",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "408",
+      pages             = "133714",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Pan, R. Guo, C. Fu, X. Ji, Z. Liu and Y. Yan, “Extrusion-Based 3D Concrete Printing with Different Flow-Direction”, <i>Construction and Building Materials</i>, vol. 408, p. 133714, 2023, doi: 10.1016/j.conbuildmat.2023.133714.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pan, Tinghong, Rongxin Guo, Chaoshu Fu, Xuping Ji, Zhou Liu, and Yong Yan. “Extrusion-Based 3D Concrete Printing with Different Flow-Direction”. <i>Construction and Building Materials</i> 408 (2023): 133714. https://doi.org/10.1016/j.conbuildmat.2023.133714.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

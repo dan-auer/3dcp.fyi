@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jonas Buchli, Markus Giftthaler, Nitish Kumar, Manuel Lussi, Timothy Sandy, Kathrin Dörfler, Norman Hack
+    - footer
+title: Buchli Jonas, Giftthaler Markus, Kumar Nitish, Lussi Manuel, Sandy Timothy, Dörfler Kathrin, Hack Norman
 description:
 tags:
  - architecture
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital In-Situ Fabrication:<br/>:aca-blank: Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond ([2018-07](date/2018/07))
-<a href="https://doi.org/10.1016/j.cemconres.2018.05.013" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2018.05.013</a>
+#Digital In-Situ Fabrication&nbsp;([2018-07](date/2018/07))
+<div class="h1-like">Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2018.05.013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2018.05.013" target="_blank">10.1016/j.cemconres.2018.05.013</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7494-8492" title="ORCID: 0000-0001-7494-8492" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buchli_jonas"><b>Buchli</b>&nbsp;Jonas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1839-9449" title="ORCID: 0000-0002-1839-9449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giftthaler_markus"><b>Giftthaler</b>&nbsp;Markus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6854-3496" title="ORCID: 0000-0002-6854-3496" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_nitish"><b>Kumar</b>&nbsp;Nitish</a></span>, <a href="../../../author/lussi_manuel"><b>Lussi</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6777-0857" title="ORCID: 0000-0002-6777-0857" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sandy_timothy"><b>Sandy</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 112, pp. 66-75
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a> <a href="https://orcid.org/0000-0001-7494-8492" title="ORCID: 0000-0001-7494-8492" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a> <a href="https://orcid.org/0000-0002-1839-9449" title="ORCID: 0000-0002-1839-9449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a> <a href="https://orcid.org/0000-0002-6854-3496" title="ORCID: 0000-0002-6854-3496" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a>
-,     <a href="../../../author/sandy_timothy"><b>Sandy</b> Timothy</a> <a href="https://orcid.org/0000-0002-6777-0857" title="ORCID: 0000-0002-6777-0857" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 112, pp. 66-75
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#challenge`](keyword/challenge)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#opportunity`](keyword/opportunity)
-    [`#robot`](keyword/robot)
-    [`#situ`](keyword/situ)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20In-Situ%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85049806667&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,24 +39,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2884283402" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2018.05.013" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2018.05.013?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While a consensus exists that advanced digital and mechatronic technology is on the cusp of profoundly impacting virtually every manufacturing and industry sector, there are some industries that seem to have profited far less from this ongoing ‘revolution’. One prominent example of this is the construction sector and, in particular, building construction. In this paper, we aim at discussing some of the reasons for this apparent lack, and some reasons why this might change in the near future. We introduce the problem of digital in situ fabrication as both a significant challenge and a huge opportunity. We support the discussion with an example of a robotically-fabricated digital concrete wall. Overall, we find that solving in situ fabrication constitutes an inherently multidisciplinary challenge.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/helm_volker"><b>Helm</b> Volker</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2012/10">(2012-10)</a><br><a href="../../../helm_jenn_gram_kohl.2012.MRFoCS/">Mobile Robotic Fabrication on Construction Sites:<br/>DimRob</a></li>
       <li><a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a> et al. <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../kuma_hack_dorf_walz.2017.DDaEAoaREEfNSCA/">Design, Development and Experimental Assessment of a Robotic End-Effector for Non-Standard Concrete Applications</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "60 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/seepim_sirakan"><b>Seepim</b> Sirakan</a>, <a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b> Chamil</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../seep_dhan_tana_tang.2025.EoPITotSPo3PBUFPBL/">Effects of Printing Interval Time on the Structural Performance of 3D-Printed Beams Under Four-Point Bending Loads</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a>, <a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../fall_rest_tull_ferr.2025.BtECaRoMwF/">Biochar to Enhance Curing and Rheology of Mortars without Formwork</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
@@ -137,7 +113,35 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../flat_wang.2018.EfSIoDC/">Editorial for Special Issue on Digital Concrete</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
-      <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
-      <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{buch_gift_kuma_luss.2018.DISF,
+      author            = "Jonas Buchli and Markus Giftthaler and Nitish Kumar and Manuel Lussi and Timothy Sandy and Kathrin Dörfler and Norman Peter Hack",
+      title             = "Digital In-Situ Fabrication: Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond",
+      doi               = "10.1016/j.cemconres.2018.05.013",
+      year              = "2018",
+      journal           = "Cement and Concrete Research",
+      volume            = "112",
+      pages             = "66--75",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Buchli, “Digital In-Situ Fabrication: Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond”, <i>Cement and Concrete Research</i>, vol. 112, pp. 66–75, 2018, doi: 10.1016/j.cemconres.2018.05.013.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Buchli, Jonas, Markus Giftthaler, Nitish Kumar, Manuel Lussi, Timothy Sandy, Kathrin Dörfler, and Norman Peter Hack. “Digital In-Situ Fabrication: Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond”. <i>Cement and Concrete Research</i> 112 (2018): 66–75. https://doi.org/10.1016/j.cemconres.2018.05.013.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

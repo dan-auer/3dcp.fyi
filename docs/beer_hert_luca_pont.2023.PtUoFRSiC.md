@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Glenn Beersaerts, Tobias Hertel, Sandra Lucas, Yiannis Pontikes
+    - footer
+title: Beersaerts Glenn, Hertel Tobias, Lucas Sandra, Pontikes Yiannis
 description:
 tags:
  - binder
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://pure.tue.nl/ws/files/274690530/1_s2.0_S0958946523000331_main.pdf) Promoting the Use of Fe-Rich Slag in Construction:<br/>:aca-blank: Development of a Hybrid Binder for 3D Printing ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.104959" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.104959</a>
+#Promoting the Use of Fe-Rich Slag in Construction&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">Development of a Hybrid Binder for 3D Printing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://pure.tue.nl/ws/files/274690530/1_s2.0_S0958946523000331_main.pdf) <a href="https://doi.org/10.1016/j.cemconcomp.2023.104959" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.104959" target="_blank">10.1016/j.cemconcomp.2023.104959</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5183-9971" title="ORCID: 0000-0001-5183-9971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/beersaerts_glenn"><b>Beersaerts</b>&nbsp;Glenn</a></span>, <a href="../../../author/hertel_tobias"><b>Hertel</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2210-5394" title="ORCID: 0000-0002-2210-5394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pontikes_yiannis"><b>Pontikes</b>&nbsp;Yiannis</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 138
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a> <a href="https://orcid.org/0000-0001-5183-9971" title="ORCID: 0000-0001-5183-9971" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hertel_tobias"><b>Hertel</b> Tobias</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="https://orcid.org/0000-0002-2210-5394" title="ORCID: 0000-0002-2210-5394" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 138, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#hybrid`](keyword/hybrid)
-    [`#print`](keyword/print)
-    [`#promotion`](keyword/promotion)
-    [`#slag`](keyword/slag)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/promotion"><button class="btn">#promotion</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Promoting%20the%20Use%20of%20Fe-Rich%20Slag%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147545282&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319334822" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.104959" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.104959?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction sector is responsible for significant CO2 emissions, especially due to the production of ordinary Portland cement (OPC). One option to decrease CO2 emissions is to print mortar made from an alternative binder. A precursor was used consisting of mainly non-ferrous metallurgy Fe-rich slag and a minor amount of OPC (<16 wt%), which forms upon alkali-activation a hybrid binder. A 3D-printable hybrid mortar was developed in a stepby-step performance-based approach, with a focus on the fulfilment of criteria relevant for 3D printing: shearthinning, high yield stress, and stiffness development. The criteria to be met were determined using a commercially available 3D-printable OPC-mortar. Several raw materials were introduced to develop a hybrid mortar with a particle packing that positively influenced the pumpability and buildability. The effect of the precursors and superplasticizer on reactivity was investigated. The final mortar reached the printing criteria, offering a suitable alternative to 3D-printable OPC-mortars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../beer_luca_pont.2020.AFRSBMf3P/">An Fe-Rich Slag-Based Mortar for 3D Printing</a></li>
@@ -91,12 +70,41 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
       <li><a href="../../../author/lin_yini"><b>Lin</b> Yini</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_yan_sun_tang.2025.EoWGPoPHaMo3PC/">Effects of Waste Glass Powder on Printability, Hydration and Microstructure of 3D Printing Concrete</a></li>
       <li><a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../luca.2024.F3t5P/">From 3D to 5D Printing:<br/>Additive Manufacturing of Functional Construction Materials</a></li>
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a>, <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a>, <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../beer_soet_giel_eyke.2023.3PoaIRSBHM/">3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>A Durable, Sustainable and Cost-Competitive Product?</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{beer_hert_luca_pont.2023.PtUoFRSiC,
+      author            = "Glenn Beersaerts and Tobias Hertel and Sandra Simaria de Oliveira Lucas and Yiannis Pontikes",
+      title             = "Promoting the Use of Fe-Rich Slag in Construction: Development of a Hybrid Binder for 3D Printing",
+      doi               = "10.1016/j.cemconcomp.2023.104959",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "138",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Beersaerts, T. Hertel, S. S. de Oliveira Lucas and Y. Pontikes, “Promoting the Use of Fe-Rich Slag in Construction: Development of a Hybrid Binder for 3D Printing”, <i>Cement and Concrete Composites</i>, vol. 138, 2023, doi: 10.1016/j.cemconcomp.2023.104959.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Beersaerts, Glenn, Tobias Hertel, Sandra Simaria de Oliveira Lucas, and Yiannis Pontikes. “Promoting the Use of Fe-Rich Slag in Construction: Development of a Hybrid Binder for 3D Printing”. <i>Cement and Concrete Composites</i> 138 (2023). https://doi.org/10.1016/j.cemconcomp.2023.104959.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

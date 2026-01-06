@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiongfei Liu, Xiaojie Yang, Yuhang Sun
+    - footer
+title: Liu Xiongfei, Yang Xiaojie, Sun Yuhang
 description:
 tags:
  - base
@@ -21,36 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure:<br/>:aca-blank: Effect of 2.5D Rebar Structure on the Flexural Performance of Slab ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112552" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112552</a>
+#Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">Effect of 2.5D Rebar Structure on the Flexural Performance of Slab</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112552" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112552" target="_blank">10.1016/j.jobe.2025.112552</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <a href="../../../author/yang_xiaojie"><b>Yang</b>&nbsp;Xiaojie</a></span>, <a href="../../../author/sun_yuhang"><b>Sun</b>&nbsp;Yuhang</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112552
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>
-,     <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112552
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#effect`](keyword/effect)
-    [`#flexural`](keyword/flexural)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#rebar`](keyword/rebar)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#slab`](keyword/slab)
-    [`#spray`](keyword/spray)
-    [`#structure`](keyword/structure)
-    [`#synchronization`](keyword/synchronization)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/synchronization"><button class="btn">#synchronization</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Synchronous%20Construction%20of%20Spray-Based%203D%20Printed%20Reinforced%20Concrete%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001672199&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409191659" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112552" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112552?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Spray-based 3D (S-3D) concrete printing technology has made it feasible for the synchronous construction of reinforced concrete structures. This study introduces a design method for S-3D printed 2.5D rebar concrete based on reinforcement and S-3D printing synchronous construction processes. The effects of rebar mesh configurations, hook types, and hook arrangements on the bending performance of printed rebar concrete slabs are investigated. Test results demonstrate that the 2.5D rebar mesh significantly enhances the ultimate load capacity of printed concrete slabs, achieving an increase of 19.04% to 81.12% compared with the use of traditional 2D rebar mesh. Additionally, it improves early stiffness, ductility, and strain propagation characteristics of the printed slabs. The proposed 2.5D rebar mesh reinforcement method confirms the feasibility of synchronous construction with reinforcement in S-3D printing and lays the groundwork for the fully automated construction of 3D printed large-scale rebar concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
@@ -111,9 +86,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_dong_siko_lin.2025.3PCRwFFRPSoG/">3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids:<br/>Concept and Bond Tests</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_yang_sun.2025.SCoSB3PRCS,
+      author            = "Xiongfei Liu and Xiaojie Yang and Yuhang Sun",
+      title             = "Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure: Effect of 2.5D Rebar Structure on the Flexural Performance of Slab",
+      doi               = "10.1016/j.jobe.2025.112552",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112552",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, X. Yang and Y. Sun, “Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure: Effect of 2.5D Rebar Structure on the Flexural Performance of Slab”, <i>Journal of Building Engineering</i>, p. 112552, 2025, doi: 10.1016/j.jobe.2025.112552.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xiongfei, Xiaojie Yang, and Yuhang Sun. “Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure: Effect of 2.5D Rebar Structure on the Flexural Performance of Slab”. <i>Journal of Building Engineering</i>, 2025, 112552. https://doi.org/10.1016/j.jobe.2025.112552.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

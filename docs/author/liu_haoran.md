@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Liu Haoran 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../xiao_liu_ding_yu.2024.RFCC/">Rebar-Free Concrete Construction:<br/>Concept, Opportunities and Challenges</a></li>
   <li><a href="../../../author/tang_yuxiang"><b>Tang</b> Yuxiang</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../tang_xiao_ding_liu.2024.TLaILFBoEB3PCUTPB/">Trans-Layer and Inter-Layer Fracture Behavior of Extrusion-Based 3D Printed Concrete Under Three-Point Bending</a></li>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wang_ziyue"><b>Wang</b> Ziyue</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ding_wang_liu_xiao.2023.SoPOPoSBf3PC/">Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete</a></li>

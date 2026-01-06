@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamad Hanifa, Paulo Mendonça, Bruno Figueiredo, Deena Mahdy
+    - footer
+title: Hanifa Mohamad, Mendonça Paulo, Figueiredo Bruno, Mahdy Deena
 description:
 tags:
  - earth
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003658641-201&type=chapterpdf) Experimental Study on the Thermal Performance of 3D-Printed Earthen Wall Segment with Optimized Infill Pattern ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1201/9781003658641-201" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1201/9781003658641-201</a>
+#Experimental Study on the Thermal Performance of 3D-Printed Earthen Wall Segment with Optimized Infill Pattern ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003658641-201&type=chapterpdf) <a href="https://doi.org/10.1201/9781003658641-201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003658641-201" target="_blank">10.1201/9781003658641-201</a>
 
--------------------------
+<a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b>&nbsp;Mohamad</a></span>, <a href="../../../author/mendonca_paulo"><b>Mendonça</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_bruno"><b>Figueiredo</b>&nbsp;Bruno</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahdy_deena"><b>el&nbsp;Mahdy</b>&nbsp;Deena</a></span><br>
+Contribution - Structures and Architecture, pp. 1692-1699
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b> Mohamad</a>
-,     <a href="../../../author/mendonca_paulo"><b>Mendonça</b> Paulo</a>
-,     <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> <a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mahdy_deena"><b>el Mahdy</b> Deena</a> <a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Structures and Architecture, pp. 1692-1699
-
-:aca-blank:{ .lg .middle}
-    [`#earth`](keyword/earth)
-    [`#experiment`](keyword/experiment)
-    [`#infill`](keyword/infill)
-    [`#optimization`](keyword/optimization)
-    [`#pattern`](keyword/pattern)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#segment`](keyword/segment)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20the%20Thermal%20Performance%20of%203D-Printed%20Earthen%20Wall%20Segment%20with%20Optimized%20Infill%20Pattern" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,22 +40,48 @@ tags:
 <a href="https://inciteful.xyz/p/W4411832491" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1201/9781003658641-201" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1201/9781003658641-201?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive Manufacturing (AM) has emerged as a prominent contemporary methodology within the construction industry, particularly through three-dimensional printing of earth reinforced with fiber. This innovative approach, when integrated with modular building systems, offers sustainable solutions to construction challenges. Despite significant progress in digital manufacturing technologies, robotics (AM) with earth-based materials continues to present significant challenges, particularly in the construction of cantilevered structures concerning stability, flowability, and buildability. This research aims to optimize the thermal performance of earth-based composite wall segments by refining infill pattern designs to minimize material use while enhancing thermal insulation. The study focuses on determining the thermal resistance (R-value) and thermal transmittance (U-value) based on infill thickness. Thermal performance is measured using the hot box method, yielding an R-value of 1.194 m²K/W, indicating the materials’ effectiveness in maintaining comfortable indoor environments. These results emphasize the potential of 3D-printed earth-based materials in construction, supported by an optimized infill design informed by thermal feedback.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a>, <a href="../../../author/cabay_edouard"><b>Cabay</b> Edouard</a>, <a href="../../../author/tayoun_yara"><b>Tayoun</b> Yara</a>, <a href="../../../author/carrasco_oriol"><b>Carrasco</b> Oriol</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../dubo_caba_tayo_carr.2024.3PEA/">3D Printed Earth Architecture:<br/>Design Approach for a Performative Habitat</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{hani_mend_figu_mahd.2025.ESotTPo3PEWSwOIP,
+      author            = "Mohamad Fouad Hanifa and Paulo Mendonça and Bruno Figueiredo and Deena El Mahdy",
+      title             = "Experimental Study on the Thermal Performance of 3D-Printed Earthen Wall Segment with Optimized Infill Pattern",
+      doi               = "10.1201/9781003658641-201",
+      year              = "2025",
+      pages             = "1692--1699",
+      booktitle         = "Structures and Architecture",
+      editor            = "Mario Rinke and Marie Frier Hvejsel",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. F. Hanifa, P. Mendonça, B. Figueiredo and D. E. Mahdy, “Experimental Study on the Thermal Performance of 3D-Printed Earthen Wall Segment with Optimized Infill Pattern”, in <i>Structures and Architecture</i>,  2025, pp. 1692–1699. doi: 10.1201/9781003658641-201.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hanifa, Mohamad Fouad, Paulo Mendonça, Bruno Figueiredo, and Deena El Mahdy. “Experimental Study on the Thermal Performance of 3D-Printed Earthen Wall Segment with Optimized Infill Pattern”. In <i>Structures and Architecture</i>, edited by Mario Rinke and Marie Frier Hvejsel, 1692–99, 2025. https://doi.org/10.1201/9781003658641-201.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

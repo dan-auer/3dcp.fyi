@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Athira Sasikumar, Dhayalini Balasubramanian, M. Senthil Kumaran, Vishnuvarthanan Govindaraj
+    - footer
+title: Sasikumar Athira, Balasubramanian Dhayalini, Senthil Kumaran M., Govindaraj Vishnuvarthanan
 description:
 tags:
  - aggregate
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Coarse Aggregate Content on the Rheological and Buildability Properties of 3D Printable Concrete ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.131859" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.131859</a>
+#Effect of Coarse Aggregate Content on the Rheological and Buildability Properties of 3D Printable Concrete ([2023-05](date/2023/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.131859" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131859" target="_blank">10.1016/j.conbuildmat.2023.131859</a>
 
--------------------------
+<a href="../../../author/sasikumar_athira"><b>Sasikumar</b>&nbsp;Athira</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-2977-8226" title="ORCID: 0009-0008-2977-8226" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b>&nbsp;Dhayalini</a></span>, <a href="../../../author/senthil-kumaran_s_m"><b>Senthil Kumaran</b>&nbsp;M.</a></span>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b>&nbsp;Vishnuvarthanan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 392, No. 131859
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>
-,     <a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a> <a href="https://orcid.org/0009-0008-2977-8226" title="ORCID: 0009-0008-2977-8226" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/senthil-kumaran_s_m"><b>Senthil Kumaran</b> M.</a>
-,     <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 392, No. 131859
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#buildability`](keyword/buildability)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#content`](keyword/content)
-    [`#effect`](keyword/effect)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Coarse%20Aggregate%20Content%20on%20the%20Rheological%20and%20Buildability%20Properties%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160533914&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4379106615" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.131859" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.131859?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing in construction industry is gaining attention among both researchers and industries. The present study deals with the effect of coarse aggregate (CA) content on the performance of 3D printable concrete. The fresh and rheological properties of the designed concrete with 8 mm down sized CA were assessed. The rheological parameters for the material with varying coarse aggregate (CA) volume fraction from 0% to 50% were studied. There is limited literature on the effect of large sized CA on the printability of the concrete. The rheological properties were measured using in-house developed rheometer designed for concrete with CA. The concrete mix with CA content percentage 10%, 20%, 30%, 40% and 50% were compared with control mix (CA content 0%). The static and dynamic yield stress values for 20% and 30% CA content followed decreasing trend and when increased more than threshold limit of 30%, the yield stress values increased. It was observed that the mortar volume ratio, fine aggregate ratio with respect to CA influences the rheological properties and slump flow. Relationship between the slump flow value and static yield stress was fixed for the designed concrete. Extrusion based layer by layer printing of cementitious material without the support of form-work makes the material more prone to failure and qualitative approach to resist the failure of the material while printing is a key aspect in 3D concrete printing and this quality is termed as ‘buildability’. The challenge lies in designing a material which is flowable with minimum dynamic yield stress and increased structuration rate confirming that the material attains the yield strength once the printing is initiated. The concrete mix with flowability 180 mm to 190 mm was having good buildability and smooth extrusion. The buildability of the designed concrete mix was calculated using Kruger’s analytical model in terms of number of layers and validated the model by direct printing method. The printing parameters like printing speed and resting time was fixed for the concrete with 8 mm down sized aggregate. The concrete mix with 40% CA content showed better buildability with optimum static and dynamic yield stress values.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bong_nema_xia_ghaf.2022.PoAMGIMWMF/">Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
@@ -87,8 +64,8 @@ tags:
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF/">Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers</a></li>
@@ -110,4 +87,34 @@ tags:
       <li><a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a>, <a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../bala_sasi_govi.2024.SoCoCACoEAPo3PC/">Study on Criticality of Coarse Aggregate Content on Early-Age Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sasi_bala_sent_govi.2023.EoCACotRaBPo3PC,
+      author            = "Athira Sasikumar and Dhayalini Balasubramanian and M. S. Senthil Kumaran and Vishnuvarthanan Govindaraj",
+      title             = "Effect of Coarse Aggregate Content on the Rheological and Buildability Properties of 3D Printable Concrete",
+      doi               = "10.1016/j.conbuildmat.2023.131859",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "392",
+      pages             = "131859",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Sasikumar, D. Balasubramanian, M. S. S. Kumaran and V. Govindaraj, “Effect of Coarse Aggregate Content on the Rheological and Buildability Properties of 3D Printable Concrete”, <i>Construction and Building Materials</i>, vol. 392, p. 131859, 2023, doi: 10.1016/j.conbuildmat.2023.131859.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sasikumar, Athira, Dhayalini Balasubramanian, M. S. Senthil Kumaran, and Vishnuvarthanan Govindaraj. “Effect of Coarse Aggregate Content on the Rheological and Buildability Properties of 3D Printable Concrete”. <i>Construction and Building Materials</i> 392 (2023): 131859. https://doi.org/10.1016/j.conbuildmat.2023.131859.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

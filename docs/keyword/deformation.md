@@ -8,7 +8,7 @@ search:
 
 # #deformation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
   <li><a href="../../../author/keller_petr"><b>Keller</b> Petr</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kell_mend.2025.AoODPbAMfCMoT/">Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time</a></li>
   <li><a href="../../../author/gautam_kushagra"><b>Gautam</b> Kushagra</a>, <a href="../../../author/solav_dana"><b>Solav</b> Dana</a>, <a href="../../../author/barath_shany"><b>Barath</b> Shany</a>, <a href="../../../author/austern_guy"><b>Austern</b> Guy</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../gaut_sola_bara_aust.2025.UDICtADiWBLDM/">Using Digital Image Correlation to Analyze Deformation in Wood-Based Liquid Deposition Modelling</a></li>

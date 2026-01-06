@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zuanfeng Pan, Doudou Si, Jinghong Tao, Jianzhuang Xiao
+    - footer
+title: Pan Zuanfeng, Si Doudou, Tao Jinghong, Xiao Jianzhuang
 description:
 tags:
  - age
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e01949) Compressive Behavior of 3D Printed Concrete with Different Printing Paths and Concrete Ages ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.cscm.2023.e01949" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e01949</a>
+#Compressive Behavior of 3D Printed Concrete with Different Printing Paths and Concrete Ages ([2023-02](date/2023/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e01949) <a href="https://doi.org/10.1016/j.cscm.2023.e01949" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01949" target="_blank">10.1016/j.cscm.2023.e01949</a>
 
--------------------------
+<a href="../../../author/pan_zuanfeng"><b>Pan</b>&nbsp;Zuanfeng</a></span>, <a href="../../../author/si_doudou"><b>Si</b>&nbsp;Doudou</a></span>, <a href="../../../author/tao_jinghong"><b>Tao</b>&nbsp;Jinghong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 18
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pan_zuanfeng"><b>Pan</b> Zuanfeng</a>
-,     <a href="../../../author/si_doudou"><b>Si</b> Doudou</a>
-,     <a href="../../../author/tao_jinghong"><b>Tao</b> Jinghong</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 18
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#behavior`](keyword/behavior)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Compressive%20Behavior%20of%203D%20Printed%20Concrete%20with%20Different%20Printing%20Paths%20and%20Concrete%20Ages" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148538788&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4321602188" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e01949" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e01949?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As an intelligent construction technology, 3D printed concrete has made great progress in recent years, but research on the development law of hardened mechanical properties of 3D printed concrete is relatively limited, and the influence of printing path on compressive behavior of 3D printed concrete still needs further research. This paper proposed a new printing path for extrusion based 3D printed concrete and investigated the compressive behavior of hardened concrete printed by the new printing path. The effect of printing path, concrete age, printing speed, specimen size, and replacement of natural sand by recycled sand were evaluated through compressive tests of specimens printed by different path at different ages. Compared with the traditional printing path, the new printing path could increase peak strain, elastic modulus, and cubic compressive strength of the printed concrete. The new printing path provided a preferable alternative solution for printed concrete subjected to compression. The results also indicate that the compressive strength of printed concrete at 3 days can reach 45%− 62% of the 28-day compressive strength, and the compressive strength at 7 days appears to achieve 68%− 89% of the 28-day compressive strength, and the printing path has minor effect on the development rate of compressive strength. Based on the test data analyses, an analytical model was proposed to describe the stress-strain relationship of concrete printed by two printing paths.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -89,8 +68,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
@@ -119,4 +98,33 @@ tags:
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_l_y"><b>Huang</b> Y.</a>, <a href="../../../author/zhang_l_l"><b>Zhang</b> L.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zuo_cort_huan_zhan.2023.MotDoFSfC3P/">Measurement of the Density of Formed Structures for Concrete 3D Printing</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../pess_jesu_guim_luca.2023.ECoHPoa3PCM/">Experimental Characterisation of Hygrothermal Properties of a 3D Printed Cementitious Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pan_si_tao_xiao.2023.CBo3PCwDPPaCA,
+      author            = "Zuanfeng Pan and Doudou Si and Jinghong Tao and Jianzhuang Xiao",
+      title             = "Compressive Behavior of 3D Printed Concrete with Different Printing Paths and Concrete Ages",
+      doi               = "10.1016/j.cscm.2023.e01949",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "18",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Pan, D. Si, J. Tao and J. Xiao, “Compressive Behavior of 3D Printed Concrete with Different Printing Paths and Concrete Ages”, <i>Case Studies in Construction Materials</i>, vol. 18, 2023, doi: 10.1016/j.cscm.2023.e01949.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pan, Zuanfeng, Doudou Si, Jinghong Tao, and Jianzhuang Xiao. “Compressive Behavior of 3D Printed Concrete with Different Printing Paths and Concrete Ages”. <i>Case Studies in Construction Materials</i> 18 (2023). https://doi.org/10.1016/j.cscm.2023.e01949.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

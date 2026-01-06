@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 # van den Heever Marchant 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zijl_heev_cho.2023.SR3PC/">SHCC Reinforced 3D Printed Concrete</a></li>
   <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../cho_heev_krug_zijl.2022.PoC/">Proof of Concept:<br/>Sprayable SHCC Overlay Reinforcement Regime for Unreinforced 3D Printed Concrete Structure</a></li>
   <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../heev_ples_best_krug.2022.AMERMMtaMMGCSCMf3PC/">A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete</a></li>

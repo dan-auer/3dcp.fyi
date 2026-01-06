@@ -8,7 +8,7 @@ search:
 
 # #admixture
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>
   <li><a href="../../../author/marquez_alvaro"><b>Marquez</b> Alvaro</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marq_vare_barl.2025.IoRMAotBo3PCBM/">Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars</a></li>
   <li><a href="../../../author/li_long"><b>Li</b> Long</a>, <a href="../../../author/ji_weiyi"><b>Ji</b> Weiyi</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/xiao_jie"><b>Xiao</b> Jie</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_ji_xiao_xiao.2025.SfIBo3PCUCMaCA/">Strategy for Improving Buildability of 3D Printing Concrete Using CO2 Mixing and Chemical Admixtures</a></li>

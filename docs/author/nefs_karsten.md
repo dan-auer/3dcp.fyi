@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Nefs Karsten 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/sloots_joes"><b>Sloots</b> Joes</a>, <a href="../../../author/kroon_c-j_kim"><b>Kroon</b> Kim</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../nefs_sloo_kroo_bos.2024.AMotODo3PSaILoS/">Analytical Modeling of the Orientation-Dependency of 3D Printed SHCC at Increasing Levels of Scale</a></li>
   <li><a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/kroon_c-j_kim"><b>Kroon</b> Kim</a>, <a href="../../../author/sloots_joes"><b>Sloots</b> Joes</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../nefs_kroo_sloo_bos.2024.ODo3PSaILS/">Orientation-Dependency of 3D Printed SHCC at Increasing Length Scale</a></li>
   <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../hass_nefs_bos_sale.2023.APoCSHCCaHRf3CPS/">Application Potential of Combining Strain-Hardening Cementitious Composites and Helical Reinforcement for 3D Concrete Printed Structures:<br/>Case Study of a Spiral Staircase</a></li>

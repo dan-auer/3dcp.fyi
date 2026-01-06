@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Fataei Shirin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/martys_s_nicos"><b>Martys</b> Nicos</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../feys_schu_fata_mart.2022.PoC/">Pumping of Concrete:<br/>Understanding a Common Placement Method with Lots of Challenges</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../mech_fata_bos_busw.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Underlying Physics</a></li>
   <li><a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../fata_secr_mech_rous.2021.AFOPMftPoSIPMaLLFDCP/">A First-Order Physical Model for the Prediction of Shear-Induced Particle-Migration and Lubricating-Layer Formation During Concrete Pumping</a></li>

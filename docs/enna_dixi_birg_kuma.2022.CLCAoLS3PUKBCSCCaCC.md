@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lena Ennab, Manish Dixit, Bjorn Birgisson, Pranav Kumar
+    - footer
+title: Ennab Lena, Dixit Manish, Birgisson Bjorn, Kumar Pranav
 description:
 tags:
  - assessment
@@ -23,39 +24,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cesys.2022.100078) Comparative Life Cycle Assessment of Large-Scale 3D Printing Utilizing Kaolinite-Based Calcium-Sulfoaluminate-Cement Concrete and Conventional Construction ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.cesys.2022.100078" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cesys.2022.100078</a>
+#Comparative Life Cycle Assessment of Large-Scale 3D Printing Utilizing Kaolinite-Based Calcium-Sulfoaluminate-Cement Concrete and Conventional Construction ([2022-04](date/2022/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cesys.2022.100078) <a href="https://doi.org/10.1016/j.cesys.2022.100078" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cesys.2022.100078" target="_blank">10.1016/j.cesys.2022.100078</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4354-0333" title="ORCID: 0000-0003-4354-0333" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ennab_lena"><b>abu&nbsp;Ennab</b>&nbsp;Lena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8622-8388" title="ORCID: 0000-0001-8622-8388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dixit_kumar_manish"><b>Dixit</b>&nbsp;Manish</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0889-6078" title="ORCID: 0000-0003-0889-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/birgisson_bjorn"><b>Birgisson</b>&nbsp;Bjorn</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0602-5586" title="ORCID: 0000-0003-0602-5586" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_pradeep_pranav"><b>Kumar</b>&nbsp;Pranav</a></span><br>
+Journal Article - Cleaner Environmental Systems, Vol. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ennab_lena"><b>abu Ennab</b> Lena</a> <a href="https://orcid.org/0000-0003-4354-0333" title="ORCID: 0000-0003-4354-0333" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dixit_kumar_manish"><b>Dixit</b> Manish</a> <a href="https://orcid.org/0000-0001-8622-8388" title="ORCID: 0000-0001-8622-8388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/birgisson_bjorn"><b>Birgisson</b> Bjorn</a> <a href="https://orcid.org/0000-0003-0889-6078" title="ORCID: 0000-0003-0889-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kumar_pradeep_pranav"><b>Kumar</b> Pranav</a> <a href="https://orcid.org/0000-0003-0602-5586" title="ORCID: 0000-0003-0602-5586" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cleaner Environmental Systems, Vol. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#conventional`](keyword/conventional)
-    [`#cycle`](keyword/cycle)
-    [`#kaolin`](keyword/kaolin)
-    [`#large`](keyword/large)
-    [`#life`](keyword/life)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#sulfoaluminate`](keyword/sulfoaluminate)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/kaolin"><button class="btn">#kaolin</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/sulfoaluminate"><button class="btn">#sulfoaluminate</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Life%20Cycle%20Assessment%20of%20Large-Scale%203D%20Printing%20Utilizing%20Kaolinite-Based%20Calcium-Sulfoaluminate-Cement%20Concrete%20and%20Conventional%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129594289&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4224081180" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cesys.2022.100078" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cesys.2022.100078?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing (3DP) is gaining importance as an alternative mode of construction with the aim to reduce the environmental impacts of the construction sector. This study quantitively investigates the environmental impacts of large-scale 3DP in comparison to conventional construction techniques. A cradle-to-gate life cycle assessment (LCA) framework is utilized to quantify the potential environmental impacts of 3DP. The comparative LCA of large-scale 3DP and conventional construction is applied at building level, component level, and material level. The environmental impacts of the studied scenarios are calculated via Gabi database and literature. A novel concrete mix, kaolinite-based calcium sulfoaluminate cement concrete (KCSC), incorporates kaolin clay with varying wt. percentage (%) (0%, 5% and 10%) in structural elements to reduce the overall environmental impact of large-scale 3DP. The LCA analysis results show that replacing conventional masonry walls with 3D-printed KCSC walls reduces EE, GWP, and EP by ca.12%, 55%, and 4% per unit volume and by ca. 55%, 77%, and 53% per unit compressive strength, respectively of the wall panel. On the other hand, replacing conventional walls with 3D-printed KCSC walls increases AP by ca. 30% per unit volume and reduces AP by ca. 37% per unit compressive strength of the wall panel.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
@@ -99,8 +70,9 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
       <li><a href="../../../author/oladunni_joseph_oluwole"><b>Oladunni</b> Oluwole</a>, <a href="../../../author/lee_k-m_carman"><b>Lee</b> Carman</a>, <a href="../../../author/ibrahim_david_idowu"><b>Ibrahim</b> Idowu</a>, <a href="../../../author/olanrewaju_akanni_oludolapo"><b>Olanrewaju</b> Oludolapo</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../olad_lee_ibra_olan.2025.AiSAM/">Advances in Sustainable Additive Manufacturing:<br/>A Systematic Review for Construction Industry to Mitigate Greenhouse Gas Emissions</a></li>
@@ -117,4 +89,33 @@ tags:
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../jesu_pess_guim_rang.2023.ARoSOf3PiC/">A Reflection on Sustainable Opportunities for 3D Printing in Construction</a></li>
       <li><a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../fern_cald_mend.2023.EEo3PCWCtLCPitCoSH/">Environmental Evaluation of 3D Printed Concrete Walls Considering the Life Cycle Perspective in the Context of Social Housing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{enna_dixi_birg_kuma.2022.CLCAoLS3PUKBCSCCaCC,
+      author            = "Lena Abu Ennab and Manish Kumar Dixit and Bjorn Birgisson and Pranav Pradeep Kumar",
+      title             = "Comparative Life Cycle Assessment of Large-Scale 3D Printing Utilizing Kaolinite-Based Calcium-Sulfoaluminate-Cement Concrete and Conventional Construction",
+      doi               = "10.1016/j.cesys.2022.100078",
+      year              = "2022",
+      journal           = "Cleaner Environmental Systems",
+      volume            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. A. Ennab, M. K. Dixit, B. Birgisson and P. P. Kumar, “Comparative Life Cycle Assessment of Large-Scale 3D Printing Utilizing Kaolinite-Based Calcium-Sulfoaluminate-Cement Concrete and Conventional Construction”, <i>Cleaner Environmental Systems</i>, vol. 5, 2022, doi: 10.1016/j.cesys.2022.100078.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ennab, Lena Abu, Manish Kumar Dixit, Bjorn Birgisson, and Pranav Pradeep Kumar. “Comparative Life Cycle Assessment of Large-Scale 3D Printing Utilizing Kaolinite-Based Calcium-Sulfoaluminate-Cement Concrete and Conventional Construction”. <i>Cleaner Environmental Systems</i> 5 (2022). https://doi.org/10.1016/j.cesys.2022.100078.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

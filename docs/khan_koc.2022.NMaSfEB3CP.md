@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shoukat Khan, Muammer Koç
+    - footer
+title: Khan Shoukat, Koç Muammer
 description:
 tags:
  - base
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.rinma.2022.100337) Numerical Modelling and Simulation for Extrusion-Based 3D Concrete Printing:<br/>:aca-blank: The Underlying Physics, Potential, and Challenges ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.rinma.2022.100337" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rinma.2022.100337</a>
+#Numerical Modelling and Simulation for Extrusion-Based 3D Concrete Printing&nbsp;([2022-10](date/2022/10))
+<div class="h1-like">The Underlying Physics, Potential, and Challenges</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rinma.2022.100337) <a href="https://doi.org/10.1016/j.rinma.2022.100337" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rinma.2022.100337" target="_blank">10.1016/j.rinma.2022.100337</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_alim_shoukat"><b>Khan</b>&nbsp;Shoukat</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
+Journal Article - Results in Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> <a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Materials, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#physics`](keyword/physics)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Modelling%20and%20Simulation%20for%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140593989&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4307140449" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rinma.2022.100337" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rinma.2022.100337?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The trending methodology in 3DCP is accompanied by extensive trial and error methods, leading to the final product’s more expensive and time-consuming development. The specific printable combination of design, materials properties, and process parameters for successful 3D concrete printing (3DCP) process resembles a “secret recipe”. This study explores the design capabilities of numerical tools for 3DCP, understands its limitations and challenges, and provides an overview for future research direction. Different analytical and numerical models have been developed in the literature as a function of material properties, printing parameters, and the geometry of the final printed structures. These models serve to optimize the printing parameters and predict the performance of the printed product and rheological responses, hence, offering a safer and more economical solution. The analytical models provide the first-degree approximation and can be used for simple shapes such as straight or tilted walls; however, numerical methods are needed for more complex structures. The literature review shows an apparent delay in the progress of computational technology to catch the pace of interest of the construction industry in 3DCP. The prediction of 3DCP structure performance is not straightforward for complex geometries, variable process parameters, or multi-materials printing. Due to involving multi-physics phenomena at each sub process, the developed numerical models are limited to a specific sub-process range. The study presents a plan to integrate different sub-processes to build a single computational model from material mixing to final buildability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/andersen_sebastian"><b>Andersen</b> Sebastian</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/paegle_ieva"><b>Paegle</b> Ieva</a>, <a href="../../../author/nielsen_henrik_jens"><b>Nielsen</b> Jens</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ande_silv_paeg_niel.2020.NMDtEABo3PC/">Numerical Model Describing the Early-Age Behavior of 3D Printed Concrete:<br/>Work in Progress</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -117,8 +96,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../an_rahm_zhan_yang.2025.EoK3CPPPoLS/">Effects of Key 3D Concrete Printing Process Parameters on Layer Shape:<br/>Experimental Study and Smooth Particle Hydrodynamics Modelling</a></li>
       <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/rosa_sarkis_pedro"><b>Rosa</b> Pedro</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mesn_rosa_demo.2025.TOi3PCS/">Thickness Optimisation in 3D Printed Concrete Structures</a></li>
@@ -138,4 +117,32 @@ tags:
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/jassim_muhammad"><b>Jassim</b> Muhammad</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../khan_jass_ilca_sahi.2023.3PoCM/">3D Printing of Circular Materials:<br/>Comparative Environmental Analysis of Materials and Construction Techniques</a></li>
       <li><a href="../../../author/wang_yuxin"><b>Wang</b> Yuxin</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dyskin_arcady"><b>Dyskin</b> Arcady</a>, <a href="../../../author/pasternak_elena"><b>Pasternak</b> Elena</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../wang_asla_dysk_past.2023.DTAi3CP/">Digital Twin Applications in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan_koc.2022.NMaSfEB3CP,
+      author            = "Shoukat Alim Khan and Muammer Koç",
+      title             = "Numerical Modelling and Simulation for Extrusion-Based 3D Concrete Printing: The Underlying Physics, Potential, and Challenges",
+      doi               = "10.1016/j.rinma.2022.100337",
+      year              = "2022",
+      journal           = "Results in Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. A. Khan  and M. Koç, “Numerical Modelling and Simulation for Extrusion-Based 3D Concrete Printing: The Underlying Physics, Potential, and Challenges”, <i>Results in Materials</i>, 2022, doi: 10.1016/j.rinma.2022.100337.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khan, Shoukat Alim, and Muammer Koç. “Numerical Modelling and Simulation for Extrusion-Based 3D Concrete Printing: The Underlying Physics, Potential, and Challenges”. <i>Results in Materials</i>, 2022. https://doi.org/10.1016/j.rinma.2022.100337.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kwang-Hyun Jeon, Min-Beom Park, Min-Kyung Kang, Jung-Hoon Kim
+    - footer
+title: Jeon Kwang-Hyun, Park Min-Beom, Kang Min-Kyung, Kim Jung-Hoon
 description:
 tags:
  - automation
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of an Automated Freeform Construction System and Its Construction Materials ([2013-11](date/2013/11))
-<a href="https://doi.org/10.22260/isarc2013/0153" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2013/0153</a>
+#Development of an Automated Freeform Construction System and Its Construction Materials ([2013-11](date/2013/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2013/0153" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2013/0153" target="_blank">10.22260/isarc2013/0153</a>
 
--------------------------
+<a href="../../../author/jeon_kwang-hyun"><b>Jeon</b>&nbsp;Kwang-Hyun</a></span>, <a href="../../../author/park_min-beom"><b>Park</b>&nbsp;Min-Beom</a></span>, <a href="../../../author/kang_min-kyung"><b>Kang</b>&nbsp;Min-Kyung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
+Contribution - Proceedings of the 30th International Symposium on Automation and Robotics in Construction and Mining
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jeon_kwang-hyun"><b>Jeon</b> Kwang-Hyun</a>
-,     <a href="../../../author/park_min-beom"><b>Park</b> Min-Beom</a>
-,     <a href="../../../author/kang_min-kyung"><b>Kang</b> Min-Kyung</a>
-,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 30th International Symposium on Automation and Robotics in Construction and Mining, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#freeform`](keyword/freeform)
-    [`#material`](keyword/material)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20an%20Automated%20Freeform%20Construction%20System%20and%20Its%20Construction%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W52330576" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2013/0153" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2013/0153?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, 3D printing technology in the manufacturing field is in the spotlight. In the construction industry, similar rapid prototyping technology that does not use conventional form can be applied to meet the demand on free formed structure that can provide aesthetic value and functionality. Conventional formwork can increase construction cost and period for various structure with complex shapes while it has numerous advantages such as high strength, convenience, accuracy and good quality of surface roughness. To meet the demand on free formed structure, automated freeform construction systems such as Contour Crafting and Concrete Printing have been developed with active collaboration between university and industry in USA and England. However, details on the system have not been fully released in public, so the possibility of its fusion and spin-off technology cannot be expected. In this paper, cost-effective solution for mechanical and control system for constructing a free curved structure without mold are described. As an appropriate material for the system, fiber reinforced mortar was selected by experiments on compressive strength, setting time and fluidity. After performing G-code simulation, transfer and extrusion experiments with the selected mortar mix were performed and the possibility of the development of automated freeform construction system was demonstrated. Based on this research results, it is required to keep the automated freeform construction system improve and extend it into the new application area in construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2004/09">(2004-09)</a><br><a href="../../../hwan_khos.2004.CWFbCC/">Concrete Wall Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2005/11">(2005-11)</a><br><a href="../../../hwan_khos.2005.AICPCCC/">An Innovative Construction Process-Contour Crafting (CC)</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -71,8 +51,8 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maralapalle_vedprakash"><b>Maralapalle</b> Vedprakash</a>, <a href="../../../author/kumavat_r_hemraj"><b>Kumavat</b> Hemraj</a>, <a href="../../../author/nadaf_b_maheboobsab"><b>Nadaf</b> Maheboobsab</a>, <a href="../../../author/zende_ahmad_aijaz"><b>Zende</b> Aijaz</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mara_kuma_nada_zend.2025.O3GCfSC/">Optimizing 3D Geopolymer Concrete for Sustainable Construction:<br/>A Review of Material Selection, Printing Methods, and Properties</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b> Mohammad</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../givk_tohi.2024.TEoFTCaSAASotCSaMo3PAEC/">The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete</a></li>
@@ -97,4 +77,33 @@ tags:
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{jeon_park_kang_kim.2013.DoaAFCSaICM,
+      author            = "Kwang-Hyun Jeon and Min-Beom Park and Min-Kyung Kang and Jung-Hoon Kim",
+      title             = "Development of an Automated Freeform Construction System and Its Construction Materials",
+      doi               = "10.22260/isarc2013/0153",
+      year              = "2013",
+      booktitle         = "Proceedings of the 30th International Symposium on Automation and Robotics in Construction and Mining: Building the Future in Automation and Robotics",
+      editor            = "Ferri Hassani and Osama Moselhi and Carl Haas",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K.-H. Jeon, M.-B. Park, M.-K. Kang and J.-H. Kim, “Development of an Automated Freeform Construction System and Its Construction Materials”, in <i>Proceedings of the 30th International Symposium on Automation and Robotics in Construction and Mining: Building the Future in Automation and Robotics</i>,  2013. doi: 10.22260/isarc2013/0153.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jeon, Kwang-Hyun, Min-Beom Park, Min-Kyung Kang, and Jung-Hoon Kim. “Development of an Automated Freeform Construction System and Its Construction Materials”. In <i>Proceedings of the 30th International Symposium on Automation and Robotics in Construction and Mining: Building the Future in Automation and Robotics</i>, edited by Ferri Hassani, Osama Moselhi, and Carl Haas, 2013. https://doi.org/10.22260/isarc2013/0153.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

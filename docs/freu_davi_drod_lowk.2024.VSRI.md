@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Niklas Freund, Martin David, Klaus Dröder, Dirk Lowke
+    - footer
+title: Freund Niklas, David Martin, Dröder Klaus, Lowke Dirk
 description:
 tags:
  - bond
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Vibrated Short Rebar Insertion:<br/>:aca-blank: The Effect of Integration Time on the Resulting Bond Quality ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1007/978-3-031-70031-6_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70031-6_38</a>
+#Vibrated Short Rebar Insertion&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">The Effect of Integration Time on the Resulting Bond Quality</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_38" target="_blank">10.1007/978-3-031-70031-6_38</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/david_martin"><b>David</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/droder_klaus"><b>Dröder</b>&nbsp;Klaus</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 327-334
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/david_martin"><b>David</b> Martin</a> <a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 327-334
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#effect`](keyword/effect)
-    [`#insertion`](keyword/insertion)
-    [`#integration`](keyword/integration)
-    [`#quality`](keyword/quality)
-    [`#rebar`](keyword/rebar)
-    [`#result`](keyword/result)
-    [`#short`](keyword/short)
-    [`#time`](keyword/time)
-    [`#vibration`](keyword/vibration)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/insertion"><button class="btn">#insertion</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/result"><button class="btn">#result</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/vibration"><button class="btn">#vibration</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Vibrated%20Short%20Rebar%20Insertion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203051269&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402088318" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70031-6_38" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70031-6_38?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing is gaining popularity in the construction industry due to its advantages in producing complex concrete components. However, current techniques often focus on unreinforced concrete, which poses a challenge for structural elements, that usually require reinforcement. A promising solution is the integration of short rebars, where concrete layers are first printed and then reinforced with inserted rebars. Thus, the bond quality of the inserted rebar is highly dependent on the rheological properties of the printed concrete. This study investigates if vibrating the short rebar during insertion can improve the bond zone by locally fluidising the surrounding concrete. Rebars are inserted into fine-grained 3D printing concrete both with and without vibration. To study the effect of the concrete structural build-up, i.e. rheology, rebars are integrated at three different time steps (10, 30 and 60 min). The yield stress at each integration time is measured using penetrometer tests. The bond strength is evaluated by pull-out tests according to RILEM RC 6. For reference, conventional specimens are produced in moulds. The results show a decrease in bond strength with increasing integration time for all specimens. A negative correlation between the concrete yield stress and the resulting bond strength is observed. However, the vibration of the rebar significantly improves the bond strength, increasing it at early integration times to the bond quality of the cast reference specimen. Even at an integration time of 60 min, vibration increases bond strength by 166% compared to direct insertion without any vibration.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../freu_davi_bohl_mai.2023.S3P/">Shotcrete 3D Printing:<br/>Interaction of Nozzle Geometry, Homogeneity and Hardened Concrete Properties</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../freu_lowk.2022.ILRiS3P/">Inter-Layer Reinforcement in Shotcrete 3D Printing</a></li>
@@ -85,9 +62,40 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{freu_davi_drod_lowk.2024.VSRI,
+      author            = "Niklas Freund and Martin David and Klaus Dröder and Dirk Lowke",
+      title             = "Vibrated Short Rebar Insertion: The Effect of Integration Time on the Resulting Bond Quality",
+      doi               = "10.1007/978-3-031-70031-6_38",
+      year              = "2024",
+      volume            = "53",
+      pages             = "327--334",
+      booktitle         = "Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Freund, M. David, K. Dröder and D. Lowke, “Vibrated Short Rebar Insertion: The Effect of Integration Time on the Resulting Bond Quality”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 327–334. doi: 10.1007/978-3-031-70031-6_38.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Freund, Niklas, Martin David, Klaus Dröder, and Dirk Lowke. “Vibrated Short Rebar Insertion: The Effect of Integration Time on the Resulting Bond Quality”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:327–34, 2024. https://doi.org/10.1007/978-3-031-70031-6_38.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

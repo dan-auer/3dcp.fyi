@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Yuan, Shenghao Zuo, Zemin Li, Caijun Shi, Qihong Wu
+    - footer
+title: Yuan Qiang, Zuo Shenghao, Li Zemin, Shi Caijun, Wu Qihong
 description:
 tags:
  - binder
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimizing Three-Dimensional Printing Binder Composed of Ordinary-Portland-Cement and Calcium-Sulfoaluminate-Cement with Retarders ([2021-11](date/2021/11))
-<a href="https://doi.org/10.14359/51733120" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51733120</a>
+#Optimizing Three-Dimensional Printing Binder Composed of Ordinary-Portland-Cement and Calcium-Sulfoaluminate-Cement with Retarders ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733120" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733120" target="_blank">10.14359/51733120</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/zuo_shenghao"><b>Zuo</b>&nbsp;Shenghao</a></span>, <a href="../../../author/li_zemin"><b>Li</b>&nbsp;Zemin</a></span>, <a href="../../../author/shi_caijun"><b>Shi</b>&nbsp;Caijun</a></span>, <a href="../../../author/wu_qihong"><b>Wu</b>&nbsp;Qihong</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 155-165
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a> <a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a>
-,     <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>
-,     <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>
-,     <a href="../../../author/wu_qihong"><b>Wu</b> Qihong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 155-165
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#dimension`](keyword/dimension)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#retarder`](keyword/retarder)
-    [`#sulfoaluminate`](keyword/sulfoaluminate)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/retarder"><button class="btn">#retarder</button></a> <a href="../../keyword/sulfoaluminate"><button class="btn">#sulfoaluminate</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Three-Dimensional%20Printing%20Binder%20Composed%20of%20Ordinary-Portland-Cement%20and%20Calcium-Sulfoaluminate-Cement%20with%20Retarders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122131319&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3205661060" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51733120" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51733120?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Printability and open time are of great concern for three-dimensional (3D) printing of concrete. In this study, blends of ordinary portland cement (OPC) and calcium sulfoaluminate cement (CSA) were used as 3D-printing binders (3DPBs). Two organic salts—that is, sodium gluconate (SG) and potassium sodium tartrate (PST)—were selected as retarders to control the setting process of 3DPB. Effects of SG or PST dosages on 3DPB were characterized by measuring rheological properties, fluidity, penetration resistance, and bearing capacity. The underlying mechanisms were further revealed by zeta potential and thermogravimetric analyses. The results indicate that a blended binder with 90% OPC and 10% CSA is feasible as a 3DPB. Both SG and PST lead to the improvement of fluidity and a reduction of bearing capacity; however, the evolution of static yield stress highly depends on the dosages of retarders. Taking the open time, extrudability, and buildability into consideration, the optimal 3DPBs composed of OPC, CSA, and retarder are given.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
@@ -93,10 +69,41 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_shun"><b>Liu</b> Shun</a>, <a href="../../../author/yang_xiaobin"><b>Yang</b> Xiaobin</a>, <a href="../../../author/wu_jianing"><b>Wu</b> Jianing</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../liu_yang_wu.2025.DEAoCB3PSMUDCLUC/">Damage Evolution Analysis of Cement-Based 3D Printing Similar Materials Under Different Cyclic Loading-Unloading Conditions</a></li>
       <li><a href="../../../author/yassin_m_ahmed"><b>Yassin</b> Ahmed</a>, <a href="../../../author/hafez_ahmed_mohamed"><b>Hafez</b> Mohamed</a>, <a href="../../../author/aboelhassan_gamal_mohamed"><b>Aboelhassan</b> Mohamed</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yass_hafe_aboe.2025.EaNIotEoDToSFotFBaMPo3CCPPwCCIAP/">Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P</a></li>
       <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yuan_zuo_li_shi.2021.OTDPBCoOPCaCSCwR,
+      author            = "Qiang Yuan and Shenghao Zuo and Zemin Li and Caijun Shi and Qihong Wu",
+      title             = "Optimizing Three-Dimensional Printing Binder Composed of Ordinary-Portland-Cement and Calcium-Sulfoaluminate-Cement with Retarders",
+      doi               = "10.14359/51733120",
+      year              = "2021",
+      journal           = "ACI Materials Journal",
+      volume            = "118",
+      number            = "6",
+      pages             = "155--165",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Yuan, S. Zuo, Z. Li, C. Shi and Q. Wu, “Optimizing Three-Dimensional Printing Binder Composed of Ordinary-Portland-Cement and Calcium-Sulfoaluminate-Cement with Retarders”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 155–165, 2021, doi: 10.14359/51733120.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Qiang, Shenghao Zuo, Zemin Li, Caijun Shi, and Qihong Wu. “Optimizing Three-Dimensional Printing Binder Composed of Ordinary-Portland-Cement and Calcium-Sulfoaluminate-Cement with Retarders”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 155–65. https://doi.org/10.14359/51733120.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

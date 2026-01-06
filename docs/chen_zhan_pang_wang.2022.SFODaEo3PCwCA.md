@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yidong Chen, Yunsheng Zhang, Bo Pang, Dafu Wang, Zhiyong Liu, Guojian Liu
+    - footer
+title: Chen Yidong, Zhang Yunsheng, Pang Bo, Wang Dafu, Liu Zhiyong, Liu Guojian
 description:
 tags:
  - aggregate
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1617/s11527-022-01943-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-022-01943-7</a>
+#Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-022-01943-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-022-01943-7" target="_blank">10.1617/s11527-022-01943-7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yidong"><b>Chen</b>&nbsp;Yidong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yunsheng"><b>Zhang</b>&nbsp;Yunsheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pang_bo"><b>Pang</b>&nbsp;Bo</a></span>, <a href="../../../author/wang_dafu"><b>Wang</b>&nbsp;Dafu</a></span>, <a href="../../../author/liu_zhiyong"><b>Liu</b>&nbsp;Zhiyong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2023-2741" title="ORCID: 0000-0003-2023-2741" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_guojian"><b>Liu</b>&nbsp;Guojian</a></span><br>
+Journal Article - Materials and Structures, Vol. 55, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a> <a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> <a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pang_bo"><b>Pang</b> Bo</a> <a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a>
-,     <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>
-,     <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> <a href="https://orcid.org/0000-0003-2023-2741" title="ORCID: 0000-0003-2023-2741" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 55, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#distribution`](keyword/distribution)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Steel-Fiber%20Orientational%20Distribution%20and%20Effects%20on%203D%20Printed%20Concrete%20with%20Coarse%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127769405&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4226054155" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-022-01943-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-022-01943-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, the first insight into the extrusion-based 3D printed steel fiber reinforced concrete with 5–20 mm coarse aggregate (3DPSFRC) is presented. The fresh properties and mechanical performance of 0%, 1% and 2% fiber content 3DPSFRC were investigated and compared with those of the cast. Through the deep-learning segmentation method, the centerlines of steel fibers in the X-ray micro-computed tomography image sequence are extracted and 3D analyzed. The orientational distribution coefficients were introduced to quantitatively indicate the degree of steel fiber inclination in the printing (θ) and stacking directions (γ) inside the 3DPSFRC. Results indicate that the flowability of 3DPSFRC was decreased due to the presence of steel fibers compared with plain concrete. The enhancement effect of steel fiber on the compressive, flexural, and axial tensile strength (up to 73.24 MPa, 8.71 MPa, and 7.58 MPa, respectively) and post-peak toughness of 3DPSFRC is remarkable. The weakening of orientational distribution coefficients and the partial divergence distribution of steel fibers are related to the presence of coarse aggregate. Further, the anisotropy of 3DPSFRC in the compressive and flexural tests is weakened owing to the changes in the fiber orientational distribution after the steel fiber content increases.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -100,8 +75,9 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/pal_abhipsa"><b>Pal</b> Abhipsa</a>, <a href="../../../author/wan-wendner_lin"><b>Wan-Wendner</b> Lin</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../pal_wan.2025.3CPaIPoEESWE/">3D Concrete Printing and Infill Patterns of Energy Efficient Structural Wall Elements</a></li>
@@ -133,4 +109,34 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../yang_wu_liu.2023.RDBo3PUHPFRCUDST/">Rate-Dependent Behavior of 3D Printed Ultra-High-Performance Fiber-Reinforced Concrete Under Dynamic Splitting Tensile</a></li>
       <li><a href="../../../author/kan_deyuan"><b>Kan</b> Deyuan</a>, <a href="../../../author/liu_guifeng"><b>Liu</b> Guifeng</a>, <a href="../../../author/cao_cindy_shuang"><b>Cao</b> Shuang</a>, <a href="../../../author/chen_zhengfa"><b>Chen</b> Zhengfa</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kan_liu_cao_chen.2022.MPaPSoMWCNTRRPCfTDPMbME/">Mechanical Properties and Pore-Structure of Multi-Walled Carbon-Nano-Tube-Reinforced Reactive Powder-Concrete for Three-Dimensional Printing Manufactured by Material-Extrusion</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_pang_wang.2022.SFODaEo3PCwCA,
+      author            = "Yidong Chen and Yunsheng Zhang and Bo Pang and Dafu Wang and Zhiyong Liu and Guojian Liu",
+      title             = "Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate",
+      doi               = "10.1617/s11527-022-01943-7",
+      year              = "2022",
+      journal           = "Materials and Structures",
+      volume            = "55",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, Y. Zhang, B. Pang, D. Wang, Z. Liu and G. Liu, “Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate”, <i>Materials and Structures</i>, vol. 55, no. 3, 2022, doi: 10.1617/s11527-022-01943-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yidong, Yunsheng Zhang, Bo Pang, Dafu Wang, Zhiyong Liu, and Guojian Liu. “Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate”. <i>Materials and Structures</i> 55, no. 3 (2022). https://doi.org/10.1617/s11527-022-01943-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

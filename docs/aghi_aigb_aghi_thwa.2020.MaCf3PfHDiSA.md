@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Douglas Aghimien, Clinton Aigbavboa, Lerato Aghimien, Wellington Thwala, Lebu Ndlovu
+    - footer
+title: Aghimien Douglas, Aigbavboa Clinton, Aghimien Lerato, Thwala Wellington, Ndlovu Lebu
 description:
 tags:
  - case
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Making a Case for 3D Printing for Housing Delivery in South Africa ([2020-01](date/2020/01))
-<a href="https://doi.org/10.1108/ijhma-11-2019-0111" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/ijhma-11-2019-0111</a>
+#Making a Case for 3D Printing for Housing Delivery in South Africa ([2020-01](date/2020/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/ijhma-11-2019-0111" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ijhma-11-2019-0111" target="_blank">10.1108/ijhma-11-2019-0111</a>
 
--------------------------
+<a href="../../../author/aghimien_douglas"><b>Aghimien</b>&nbsp;Douglas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2866-3706" title="ORCID: 0000-0003-2866-3706" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b>&nbsp;Clinton</a></span>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b>&nbsp;Lerato</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8848-7823" title="ORCID: 0000-0002-8848-7823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b>&nbsp;Wellington</a></span>, <a href="../../../author/ndlovu_lebu"><b>Ndlovu</b>&nbsp;Lebu</a></span><br>
+Journal Article - International Journal of Housing Markets and Analysis, Vol. 13, Iss. 4, pp. 565-581
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>
-,     <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a> <a href="https://orcid.org/0000-0003-2866-3706" title="ORCID: 0000-0003-2866-3706" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>
-,     <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> <a href="https://orcid.org/0000-0002-8848-7823" title="ORCID: 0000-0002-8848-7823" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ndlovu_lebu"><b>Ndlovu</b> Lebu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Housing Markets and Analysis, Vol. 13, Iss. 4, pp. 565-581
-
-:aca-blank:{ .lg .middle}
-    [`#case`](keyword/case)
-    [`#delievery`](keyword/delievery)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/delievery"><button class="btn">#delievery</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Making%20a%20Case%20for%203D%20Printing%20for%20Housing%20Delivery%20in%20South%20Africa" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078895280&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3004207603" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/ijhma-11-2019-0111" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/ijhma-11-2019-0111?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Considering the need for standard and cost-effective housing delivery in South Africa, this study aims to make a case for three-dimensional (3D) printing in housing delivery through an assessment of the inherent benefits and the factors that could acts as barriers to its adoption. The study used a survey of construction professionals currently actively involved in a construction project in the country. Analysis of data gathered was done using a fourstep analysis approach and relevant descriptive and inferential statistics were adopted. The study revealed through factor analysis that 3D printing in housing delivery promises better cost delivery, increased productivity and stakeholder satisfaction, socio-economic benefits, improved quality and faster housing delivery. While these benefits exist, factors such as technical and operational issues of the 3D printing itself, organizational and personnel issues as well as lack of awareness of the inherent benefits and understanding of the technology among stakeholders can prove to be barriers to the adoption of the technology. In the quest to achieve standard and affordable housing which is part of its National Development Plan 2030, the government can adopt 3D printing which promises significant benefits in terms of cost, time, quality, productivity and stakeholders’ satisfaction. Property developers can also adopt the technology to improve their housing delivery, competitive advantage and the economic value of their properties. The study contributes significantly to the body of knowledge as it reveals the benefits and barriers of adopting 3D printing in housing delivery in South Africa – an aspect that has not gained significant attention in the fourth industrial revolution and housing delivery discuss in the country. Considering the need for standard and cost-effective housing delivery in South Africa, this study aims to make a case for three-dimensional (3D) printing in housing delivery through an assessment of the inherent benefits and the factors that could acts as barriers to its adoption. The study used a survey of construction professionals currently actively involved in a construction project in the country. Analysis of data gathered was done using a fourstep analysis approach and relevant descriptive and inferential statistics were adopted. The study revealed through factor analysis that 3D printing in housing delivery promises better cost delivery, increased productivity and stakeholder satisfaction, socio-economic benefits, improved quality and faster housing delivery. While these benefits exist, factors such as technical and operational issues of the 3D printing itself, organizational and personnel issues as well as lack of awareness of the inherent benefits and understanding of the technology among stakeholders can prove to be barriers to the adoption of the technology. In the quest to achieve standard and affordable housing which is part of its National Development Plan 2030, the government can adopt 3D printing which promises significant benefits in terms of cost, time, quality, productivity and stakeholders’ satisfaction. Property developers can also adopt the technology to improve their housing delivery, competitive advantage and the economic value of their properties. The study contributes significantly to the body of knowledge as it reveals the benefits and barriers of adopting 3D printing in housing delivery in South Africa – an aspect that has not gained significant attention in the fourth industrial revolution and housing delivery discuss in the country.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a>, <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="../../../date/2001/09">(2001-09)</a><br><a href="../../../khos_russ_kwon_bukk.2001.CLP/">Crafting Large Prototypes</a></li>
@@ -74,8 +55,8 @@ tags:
       <li><a href="../../../author/tobi_l-mohd_a"><b>Tobi</b> A.</a>, <a href="../../../author/omar_a_s"><b>Omar</b> S.</a>, <a href="../../../author/yehia_z"><b>Yehia</b> Z.</a>, <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b> S.</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../tobi_omar_yehi_alo.2018.CVo3PHiU/">Cost Viability of 3D Printed House in UK</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
@@ -93,4 +74,35 @@ tags:
       <li><a href="../../../author/wang_yuxin"><b>Wang</b> Yuxin</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dyskin_arcady"><b>Dyskin</b> Arcady</a>, <a href="../../../author/pasternak_elena"><b>Pasternak</b> Elena</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../wang_asla_dysk_past.2023.DTAi3CP/">Digital Twin Applications in 3D Concrete Printing</a></li>
       <li><a href="../../../author/leite_gabriela"><b>Leite</b> Gabriela</a>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../leit_font.2021.AMatEotCI/">Additive Manufacturing and the Evolution of the Construction Industry:<br/>A Systematic Literature Review 2015-2021</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA,
+      author            = "Douglas Aghimien and Clinton Ohis Aigbavboa and Lerato Aghimien and Wellington Didibhuku Thwala and Lebu Ndlovu",
+      title             = "Making a Case for 3D Printing for Housing Delivery in South Africa",
+      doi               = "10.1108/ijhma-11-2019-0111",
+      year              = "2020",
+      journal           = "International Journal of Housing Markets and Analysis",
+      volume            = "13",
+      number            = "4",
+      pages             = "565--581",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Aghimien, C. O. Aigbavboa, L. Aghimien, W. D. Thwala and L. Ndlovu, “Making a Case for 3D Printing for Housing Delivery in South Africa”, <i>International Journal of Housing Markets and Analysis</i>, vol. 13, no. 4, pp. 565–581, 2020, doi: 10.1108/ijhma-11-2019-0111.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aghimien, Douglas, Clinton Ohis Aigbavboa, Lerato Aghimien, Wellington Didibhuku Thwala, and Lebu Ndlovu. “Making a Case for 3D Printing for Housing Delivery in South Africa”. <i>International Journal of Housing Markets and Analysis</i> 13, no. 4 (2020): 565–81. https://doi.org/10.1108/ijhma-11-2019-0111.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

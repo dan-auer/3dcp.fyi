@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yohan Jacquet, Arnaud Perrot
+    - footer
+title: Jacquet Yohan, Perrot Arnaud
 description:
 tags:
  - combination
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/14/5110/pdf?version=1689831902) Sewing Concrete Device:<br/>:aca-blank: Combining In-Line Rheology-Control and Reinforcement-System for 3D Concrete Printing ([2023-07](date/2023/07))
-<a href="https://doi.org/10.3390/ma16145110" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16145110</a>
+#Sewing Concrete Device&nbsp;([2023-07](date/2023/07))
+<div class="h1-like">Combining In-Line Rheology-Control and Reinforcement-System for 3D Concrete Printing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/14/5110/pdf?version=1689831902) <a href="https://doi.org/10.3390/ma16145110" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16145110" target="_blank">10.3390/ma16145110</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 14, No. 5110
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 14, No. 5110
-
-:aca-blank:{ .lg .middle}
-    [`#combination`](keyword/combination)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#line`](keyword/line)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sewing%20Concrete%20Device" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166182665&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4384933249" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16145110" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16145110?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Of the digital concrete-additive-manufacturing techniques, extrusion-based systems are probably the most widespread and studied. Despite the significant potential offered by 3D printing, several challenges must still be overcome. For instance, although several solutions have already been explored, the automated reinforcement of the layer-wise printed structures represents a challenge. The inline quality control of the fresh-state properties of 3D-printed materials is also an open question that needs to be addressed to find an efficient shared practice. This study proposes a new device designed to simultaneously reinforce 3D-printed structures along and through the layers and to be used as an inline quality-control device. This device consists in a sewing system, which is composed of a rotating system, and a hollow needle, which drives a reinforcing cable or yarn and can be used to inject cement grout to fill holes and improve bonding with reinforcement. The rotation is induced by a stepper motor, which measures the torque that is required to make the needle penetrate. This measurement can be used as a quality-control index to ensure material homogeneity. This paper aims to present an original reinforcement system that can be fully automated and simultaneously create reinforcement patterns in different directions of the printed structure while controlling the material’s fresh properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -109,8 +90,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../fasi_libr.2025.TAISSYSMf3CP/">Towards Accurate In-Situ Static Yield Stress Measurement for 3D Concrete Printing:<br/>A Study on Novel Fast Penetration Test</a></li>
@@ -121,4 +102,35 @@ tags:
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wars_pand_bisw.2023.EFAMaMPoFR3PC/">Exploring Fiber Addition Methods and Mechanical Properties of Fiber-Reinforced 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a>, <a href="../../../author/gosch_lukas"><b>Gosch</b> Lukas</a>, <a href="../../../author/vasatko_hana"><b>Vašatko</b> Hana</a>, <a href="../../../author/konigsberger_markus"><b>Königsberger</b> Markus</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../jauk_gosc_vasa_koni.2023.FR3PoC/">Filament-Reinforced 3D Printing of Clay</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jacq_perr.2023.SCD,
+      author            = "Yohan Jacquet and Arnaud Perrot",
+      title             = "Sewing Concrete Device: Combining In-Line Rheology-Control and Reinforcement-System for 3D Concrete Printing",
+      doi               = "10.3390/ma16145110",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "14",
+      pages             = "5110",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Jacquet  and A. Perrot, “Sewing Concrete Device: Combining In-Line Rheology-Control and Reinforcement-System for 3D Concrete Printing”, <i>Materials</i>, vol. 16, no. 14, p. 5110, 2023, doi: 10.3390/ma16145110.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jacquet, Yohan, and Arnaud Perrot. “Sewing Concrete Device: Combining In-Line Rheology-Control and Reinforcement-System for 3D Concrete Printing”. <i>Materials</i> 16, no. 14 (2023): 5110. https://doi.org/10.3390/ma16145110.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

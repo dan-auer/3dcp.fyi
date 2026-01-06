@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yefan Zhi, Teng Teng, Masoud Akbarzadeh
+    - footer
+title: Zhi Yefan, Teng Teng, Akbarzadeh Masoud
 description:
 tags:
  - concrete
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1007/s44223-024-00070-3) Designing 3D Printed Concrete Structures with Scaled Fabrication Models ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1007/s44223-024-00070-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s44223-024-00070-3</a>
+#Designing 3D Printed Concrete Structures with Scaled Fabrication Models ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s44223-024-00070-3) <a href="https://doi.org/10.1007/s44223-024-00070-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-024-00070-3" target="_blank">10.1007/s44223-024-00070-3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1654-4865" title="ORCID: 0000-0003-1654-4865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_yefan"><b>Zhi</b>&nbsp;Yefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6460-7109" title="ORCID: 0000-0001-6460-7109" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_teng"><b>Teng</b>&nbsp;Teng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b>&nbsp;Masoud</a></span><br>
+Journal Article - Architectural Intelligence, Vol. 3, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> <a href="https://orcid.org/0000-0003-1654-4865" title="ORCID: 0000-0003-1654-4865" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teng_teng"><b>Teng</b> Teng</a> <a href="https://orcid.org/0000-0001-6460-7109" title="ORCID: 0000-0001-6460-7109" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architectural Intelligence, Vol. 3, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Designing%203D%20Printed%20Concrete%20Structures%20with%20Scaled%20Fabrication%20Models" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401436113" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s44223-024-00070-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s44223-024-00070-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article proposes using scaled fabrication models to assist the design research of 3D-printed discrete concrete structures where full-scale fabrication tests are costly and time-consuming. A scaled fabrication model (SFM) is a scaled model 3D-printed the same way as in actual construction to reflect its fabrication details and acquire alike layer line textures. The components of a 1:10 SFM can be eas- ily produced by consumer-level desktop 3D printers with minimal modification. SFMs assist the design communication and make possible quick tests of dis- tinct fabrication designs that are hard to assess in digital modeling [Response to 1.1] during the conceptual design phase. A case study of a discrete compression- dominant funicular floor derived from graphic statics is presented to illustrate the contribution of SFM to the design research of force-informed toolpathing where the printing direction of a component is aligned to the principal stress line. The design iterations encompass a sequence of component, partial, and full model SFM printing tests to explore and optimize the fabrication schemes where par- allel, non-parallel, and creased slicing methods to create toolpaths are compared and chosen to adapt different discrete components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../anto_jipa_reit_dill.2020.FCb/">Fast Complexity</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -83,10 +63,40 @@ tags:
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../zhan_wu_zhan_yuan.2021.3CPwVWF/">3D Concrete Printing with Variable-Width Filament</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhi_akba.2025.STToSCi3CPfOBaSQ/">Surface-Toolpath Twins of Shell Components in 3D Concrete Printing for Optimized Buildability and Surface Quality</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhi_chai_teng_akba.2025.ATDo3CPSC/">Automated Toolpath Design of 3D Concrete Printing Structural Components</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhi_teng_akba.2024.D3PCSwSFM,
+      author            = "Yefan Zhi and Teng Teng and Masoud Akbarzadeh",
+      title             = "Designing 3D Printed Concrete Structures with Scaled Fabrication Models",
+      doi               = "10.1007/s44223-024-00070-3",
+      year              = "2024",
+      journal           = "Architectural Intelligence",
+      volume            = "3",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhi, T. Teng and M. Akbarzadeh, “Designing 3D Printed Concrete Structures with Scaled Fabrication Models”, <i>Architectural Intelligence</i>, vol. 3, no. 1, 2024, doi: 10.1007/s44223-024-00070-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhi, Yefan, Teng Teng, and Masoud Akbarzadeh. “Designing 3D Printed Concrete Structures with Scaled Fabrication Models”. <i>Architectural Intelligence</i> 3, no. 1 (2024). https://doi.org/10.1007/s44223-024-00070-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

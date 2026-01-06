@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Md. Mollah, Raphaël Comminal, Wilson Silva, Berin Šeta, Jon Spangenberg
+    - footer
+title: Mollah Md., Comminal Raphaël, Silva Wilson, Šeta Berin, Spangenberg Jon
 description:
 tags:
  - analysis
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2023.107263) Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.cemconres.2023.107263" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2023.107263</a>
+#Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2023.107263) <a href="https://doi.org/10.1016/j.cemconres.2023.107263" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2023.107263" target="_blank">10.1016/j.cemconres.2023.107263</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mollah_tusher_md"><b>Mollah</b>&nbsp;Md.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/comminal_raphael"><b>Comminal</b>&nbsp;Raphaël</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_ricardo-leal_wilson"><b>da&nbsp;Silva</b>&nbsp;Wilson</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5989-1122" title="ORCID: 0000-0002-5989-1122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seta_berin"><b>Šeta</b>&nbsp;Berin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 173, No. 107263
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> <a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> <a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> <a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> <a href="https://orcid.org/0000-0002-5989-1122" title="ORCID: 0000-0002-5989-1122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 173, No. 107263
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#bar`](keyword/bar)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#dynamic`](keyword/dynamic)
-    [`#experiment`](keyword/experiment)
-    [`#fluid`](keyword/fluid)
-    [`#integration`](keyword/integration)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Computational%20Fluid%20Dynamics%20Modelling%20and%20Experimental%20Analysis%20of%20Reinforcement-Bar-Integration%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165228927&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4384993143" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2023.107263" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2023.107263?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A challenge for 3D Concrete Printing is to incorporate reinforcement bars without compromising the concreterebar bonding. In this paper, a Computational Fluid Dynamics (CFD) model is used to analyze the deposition of concrete around pre-installed rebars. The concrete is modelled with a yield-stress dependent elastoviscoplastic constitutive model. The simulated cross-sections of the deposited layers are compared with experiments under different configurations and rebar sizes, and found capable of capturing the air void formation with high accuracy. This proves model robustness and provides a tool for running digital experiments prior to fullscale tests. Additionally, the model is employed to conduct a parametric study under three different rebarconfigurations: i) no-rebar; ii) horizontal rebar; and iii) cross-shaped (horizontal and vertical) rebars. The results illustrate that air voids can be eliminated in all investigated cases by changing the toolpath, process parameters, and rebar joint geometry, which emphasizes the great potential of the digital model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
@@ -111,8 +85,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/huang_zhangshuo"><b>Huang</b> Zhangshuo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../ding_zhu_huan.2025.ESotSFODoEB3PUHPC/">Experimental Study on the Steel Fiber Orientational Distribution of Extrusion-Based 3D-Printed Ultra High-Performance Concrete</a></li>
       <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
@@ -136,4 +110,34 @@ tags:
       <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>, <a href="../../../author/li_wengui"><b>Li</b> Wengui</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wang_li_guo_kash.2024.C3PTiSC/">Concrete 3D Printing Technology in Sustainable Construction:<br/>A Review on Raw Materials, Concrete Types and Performances</a></li>
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wars_pand_bisw.2023.EFAMaMPoFR3PC/">Exploring Fiber Addition Methods and Mechanical Properties of Fiber-Reinforced 3D Printed Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moll_comm_silv_seta.2023.CFDMaEAoRBIi3CP,
+      author            = "Md. Tusher Mollah and Raphaël Comminal and Wilson Ricardo Leal da Silva and Berin Šeta and Jon Spangenberg",
+      title             = "Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing",
+      doi               = "10.1016/j.cemconres.2023.107263",
+      year              = "2023",
+      journal           = "Cement and Concrete Research",
+      volume            = "173",
+      pages             = "107263",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. T. Mollah, R. Comminal, W. R. L. da Silva, B. Šeta and J. Spangenberg, “Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing”, <i>Cement and Concrete Research</i>, vol. 173, p. 107263, 2023, doi: 10.1016/j.cemconres.2023.107263.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mollah, Md. Tusher, Raphaël Comminal, Wilson Ricardo Leal da Silva, Berin Šeta, and Jon Spangenberg. “Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing”. <i>Cement and Concrete Research</i> 173 (2023): 107263. https://doi.org/10.1016/j.cemconres.2023.107263.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

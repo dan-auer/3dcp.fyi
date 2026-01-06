@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ma Lei 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/kong_lingyu"><b>Kong</b> Lingyu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../jia_kong_jia_ma.2024.PaMPo3PUHPCILP/">Printability and Mechanical Properties of 3D Printing Ultra-High-Performance Concrete Incorporating Limestone-Powder</a></li>
   <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jiang_yifan"><b>Jiang</b> Yifan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../ma_jia_chen_jian.2024.WLaSPi3PCwVwbaSS/">Water Loss and Shrinkage Prediction in 3D Printed Concrete with Varying w/b and Specimen Sizes</a></li>
   <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhou_mengting"><b>Zhou</b> Mengting</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jia_zhou_chen_wang.2024.EoSFSaCoPMaMPo3PHSCM/">Effect of Steel-Fiber Shape and Content on Printability, Microstructure and Mechanical Properties of 3D Printable High-Strength Cementitious Materials</a></li>

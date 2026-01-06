@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 # el Mahdy Deena 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/sameh_hazem"><b>Sameh</b> Hazem</a>, <a href="../../../author/fekry_mayar"><b>Fekry</b> Mayar</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mahd_same_fekr.2025.SSo3PECD/">Structural Stability of 3D-Printed Earthen Catenary Domes:<br/>Experimental and Analytical Insights</a></li>
   <li><a href="../../../author/abdelaziz_mohamed"><b>Abdelaziz</b> Mohamed</a>, <a href="../../../author/vukorep_ilija"><b>Vukorep</b> Ilija</a>, <a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../abde_vuko_mahd.2025.EE3PCOwIAHADSoRA/">Exploring Extreme 3D Printed Clay Overhangs with Integrated Active Hot Air Drying System on Robotic Arm</a></li>
   <li><a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b> Mohamad</a>, <a href="../../../author/mendonca_paulo"><b>Mendonça</b> Paulo</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hani_mend_figu_mahd.2025.ESotTPo3PEWSwOIP/">Experimental Study on the Thermal Performance of 3D-Printed Earthen Wall Segment with Optimized Infill Pattern</a></li>

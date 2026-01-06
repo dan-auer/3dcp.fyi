@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Katsufumi Hashimoto, Kota Nakase, Rei Yoshihara, Yoshiki Honda, Katsuya Kono
+    - footer
+title: Hashimoto Katsufumi, Nakase Kota, Yoshihara Rei, Honda Yoshiki, Kono Katsuya
 description:
 tags:
  - concrete
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluation and Investigation of Material and Mechanical Property of 3D Printed Concrete by Means of Non-Destructive Testing Methods ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1007/978-981-96-2810-0_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-96-2810-0_20</a>
+#Evaluation and Investigation of Material and Mechanical Property of 3D Printed Concrete by Means of Non-Destructive Testing Methods ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-2810-0_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-2810-0_20" target="_blank">10.1007/978-981-96-2810-0_20</a>
 
--------------------------
+<a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b>&nbsp;Katsufumi</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-7207-2963" title="ORCID: 0009-0009-7207-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nakase_kota"><b>Nakase</b>&nbsp;Kota</a></span>, <a href="../../../author/yoshihara_rei"><b>Yoshihara</b>&nbsp;Rei</a></span>, <a href="../../../author/honda_yoshiki"><b>Honda</b>&nbsp;Yoshiki</a></span>, <a href="../../../author/kono_katsuya"><b>Kono</b>&nbsp;Katsuya</a></span><br>
+Contribution - Proceedings of the International Conference on Building Materials, pp. 265-275
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>
-,     <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a> <a href="https://orcid.org/0009-0009-7207-2963" title="ORCID: 0009-0009-7207-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yoshihara_rei"><b>Yoshihara</b> Rei</a>
-,     <a href="../../../author/honda_yoshiki"><b>Honda</b> Yoshiki</a>
-,     <a href="../../../author/kono_katsuya"><b>Kono</b> Katsuya</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the International Conference on Building Materials, pp. 265-275
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#destructive`](keyword/destructive)
-    [`#evaluation`](keyword/evaluation)
-    [`#investigation`](keyword/investigation)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20and%20Investigation%20of%20Material%20and%20Mechanical%20Property%20of%203D%20Printed%20Concrete%20by%20Means%20of%20Non-Destructive%20Testing%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004638067&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409920801" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-96-2810-0_20" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-96-2810-0_20?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     When constructing 3D printed concrete, it is important to set the appropriate fabrication conditions and printing parameters, such as printing material extrusion rate, printing path Pattern, printing time, printing speed and diameter of nozzle, in addition to selecting material and designing mix proportion. In the case of conventionally casted concrete member, a similar material property and structural performance can be basically achieved when using the same material and mix proportion under the equivalent environmental condition. In contrast, 3D printed concrete displays different material segregation, mechanical property, and fracture behavior with changing the printing parameters for building an object, even when using the same materials and mix proportions. This study aims to control and evaluate the material property and structural capacity alteration of 3D printed concrete based on the printing parameters. Especially, the material setting in printing procedure and the fracture mechanism are discussed by means of several non-destructive testing (NDT), e.g. X-ray CT and Acoustic Emission.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
@@ -83,7 +58,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/yoshihara_rei"><b>Yoshihara</b> Rei</a>, <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yosh_naka_hash_sugi.2024.EoADHi3PCbMoXRC/">Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{hash_naka_yosh_hond.2025.EaIoMaMPo3PCbMoNDTM,
+      author            = "Katsufumi Hashimoto and Kota Nakase and Rei Yoshihara and Yoshiki Honda and Katsuya Kono",
+      title             = "Evaluation and Investigation of Material and Mechanical Property of 3D Printed Concrete by Means of Non-Destructive Testing Methods",
+      doi               = "10.1007/978-981-96-2810-0_20",
+      year              = "2025",
+      volume            = "585",
+      pages             = "265--275",
+      booktitle         = "Proceedings of the International Conference on Building Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Hashimoto, K. Nakase, R. Yoshihara, Y. Honda and K. Kono, “Evaluation and Investigation of Material and Mechanical Property of 3D Printed Concrete by Means of Non-Destructive Testing Methods”, in <i>Proceedings of the International Conference on Building Materials</i>,  2025, vol. 585, pp. 265–275. doi: 10.1007/978-981-96-2810-0_20.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hashimoto, Katsufumi, Kota Nakase, Rei Yoshihara, Yoshiki Honda, and Katsuya Kono. “Evaluation and Investigation of Material and Mechanical Property of 3D Printed Concrete by Means of Non-Destructive Testing Methods”. In <i>Proceedings of the International Conference on Building Materials</i>, 585:265–75, 2025. https://doi.org/10.1007/978-981-96-2810-0_20.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

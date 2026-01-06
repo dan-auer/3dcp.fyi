@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianjun Zhong, Libo Lyu, Yongjie Deng, Haiyan Ma, Qiuchun Yu, Yun Liang, Weihong Li, Hongfa Yu
+    - footer
+title: Zhong Jianjun, Lyu Libo, Deng Yongjie, Ma Haiyan, Yu Qiuchun, Liang Yun, Li Weihong, Yu Hongfa
 description:
 tags:
  - cement
@@ -20,40 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} An Evaluation-Method for the Printability of Magnesium-Phosphate-Cement Concrete for Integrated Mixing-Stirring-Extrusion Rapid 3D Printing ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1007/s43452-024-01111-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s43452-024-01111-4</a>
+#An Evaluation-Method for the Printability of Magnesium-Phosphate-Cement Concrete for Integrated Mixing-Stirring-Extrusion Rapid 3D Printing ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s43452-024-01111-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-024-01111-4" target="_blank">10.1007/s43452-024-01111-4</a>
 
--------------------------
+<a href="../../../author/zhong_jianjun"><b>Zhong</b>&nbsp;Jianjun</a></span>, <a href="../../../author/lyu_libo"><b>Lyu</b>&nbsp;Libo</a></span>, <a href="../../../author/deng_yongjie"><b>Deng</b>&nbsp;Yongjie</a></span>, <a href="../../../author/ma_haiyan"><b>Ma</b>&nbsp;Haiyan</a></span>, <a href="../../../author/yu_qiuchun"><b>Yu</b>&nbsp;Qiuchun</a></span>, <a href="../../../author/liang_yun"><b>Liang</b>&nbsp;Yun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2008-2977" title="ORCID: 0000-0002-2008-2977" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_weihong"><b>Li</b>&nbsp;Weihong</a></span>, <a href="../../../author/yu_hongfa"><b>Yu</b>&nbsp;Hongfa</a></span><br>
+Journal Article - Archives of Civil and Mechanical Engineering, Vol. 25, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhong_jianjun"><b>Zhong</b> Jianjun</a>
-,     <a href="../../../author/lyu_libo"><b>Lyu</b> Libo</a>
-,     <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>
-,     <a href="../../../author/ma_haiyan"><b>Ma</b> Haiyan</a>
-,     <a href="../../../author/yu_qiuchun"><b>Yu</b> Qiuchun</a>
-,     <a href="../../../author/liang_yun"><b>Liang</b> Yun</a>
-,     <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> <a href="https://orcid.org/0000-0002-2008-2977" title="ORCID: 0000-0002-2008-2977" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_hongfa"><b>Yu</b> Hongfa</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Archives of Civil and Mechanical Engineering, Vol. 25, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#extrusion`](keyword/extrusion)
-    [`#integration`](keyword/integration)
-    [`#magnesium`](keyword/magnesium)
-    [`#method`](keyword/method)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#rapid`](keyword/rapid)
-    [`#stir`](keyword/stir)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/stir"><button class="btn">#stir</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Evaluation-Method%20for%20the%20Printability%20of%20Magnesium-Phosphate-Cement%20Concrete%20for%20Integrated%20Mixing-Stirring-Extrusion%20Rapid%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218188448&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406813560" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s43452-024-01111-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s43452-024-01111-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study examines a new 3D printing molding process for magnesium phosphate cement (MPC)-based materials. The process involves inputting dry powder and outputting wet material. The study proposes an evaluation method for the integrated 3D printer with functions of mixing, stirring, and extrusion for rapid-setting concrete is used for the research. The study proposes an evaluation method for the printability of materials based on the consistency of MPC paste measured by a Vicat apparatus. The study systematically examines consistency, setting time, extrudability, buildability, and mechanical properties of MPC concrete extruded by the 3D print head under different water-to-material ratios (mass ratio of water to dry mix). The results show that MPC concrete sets rapidly with setting times consistently within 4 min. The consistency of the printing paste decreases as the water-to-material ratio increases. When the extrusion consistency is between 25 and 34 mm, the 3D printed MPC concrete exhibits good extrudability, and when the extrusion consistency is between 23 and 34 mm, the 3D printed MPC concrete shows excellent buildability. A correlation has been established between the water-to-material ratio for rapid 3D printing of MPC concrete and the water-to-binder ratio used in traditional casting processes. The compressive and flexural strengths of the 3D printed MPC concrete generally decrease as the concrete consistency decreases. Under equal consistency and age, the compressive and flexural strengths of the printed specimens are approximately 1/3 and 1/2 of the casting strength, respectively. However, the printed specimens have better crack resistance than those cast. Therefore, the Vicat consistency could be used as an evaluation method for the printability of rapid-setting materials in the rapid-setting and hardening MPC-based material 3D printing process. When the extrusion consistency of MPC paste is in the range of 25–34 mm, the integrated mixing–stirring–extrusion 3D printing molding process for MPC-based materials can be realized. This method simplifies the operation process and procedures of the 3D printing equipment, ensuring accurate shaping and stability of performance of the 3D printed cement-based materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a>, <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../klyu_klyu_fedi_agee.2022.FaMPoLCMf3P/">Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../liu_li_wang_ma.2022.SAfPEaMPOoSB3PM/">Systematic Approach for Printability Evaluation and Mechanical Property Optimization of Spray-Based 3D Printed Mortar</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hu_tingyu"><b>Hu</b> Tingyu</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../ma_hu_wang_liu.2023.MPCfPB3CP/">Magnesium Phosphate Cement for Powder-Based 3D Concrete Printing:<br/>Systematic Evaluation and Optimization of Printability and Printing Quality</a></li>
@@ -94,8 +64,38 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lyu_libo"><b>Lyu</b> Libo</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/yu_qiuchun"><b>Yu</b> Qiuchun</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lyu_li_deng_yu.2025.EPoMPCLSCUVCaI3PAfLDM/">Engineering Properties of Magnesium Phosphate Cement Lunar Soil Concrete Under Vacuum Conditions and Its 3D Printing Application for Lunar Dome Model</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhon_lyu_deng_ma.2025.AEMftPoMPCCfIMSER3P,
+      author            = "Jianjun Zhong and Libo Lyu and Yongjie Deng and Haiyan Ma and Qiuchun Yu and Yun Liang and Weihong Li and Hongfa Yu",
+      title             = "An Evaluation-Method for the Printability of Magnesium-Phosphate-Cement Concrete for Integrated Mixing-Stirring-Extrusion Rapid 3D Printing",
+      doi               = "10.1007/s43452-024-01111-4",
+      year              = "2025",
+      journal           = "Archives of Civil and Mechanical Engineering",
+      volume            = "25",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhong, “An Evaluation-Method for the Printability of Magnesium-Phosphate-Cement Concrete for Integrated Mixing-Stirring-Extrusion Rapid 3D Printing”, <i>Archives of Civil and Mechanical Engineering</i>, vol. 25, no. 2, 2025, doi: 10.1007/s43452-024-01111-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhong, Jianjun, Libo Lyu, Yongjie Deng, Haiyan Ma, Qiuchun Yu, Yun Liang, Weihong Li, and Hongfa Yu. “An Evaluation-Method for the Printability of Magnesium-Phosphate-Cement Concrete for Integrated Mixing-Stirring-Extrusion Rapid 3D Printing”. <i>Archives of Civil and Mechanical Engineering</i> 25, no. 2 (2025). https://doi.org/10.1007/s43452-024-01111-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #robust
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
   <li><a href="../../../author/wang_jiakang"><b>Wang</b> Jiakang</a>, <a href="../../../author/anwar_kashif_muhammad"><b>Anwar</b> Muhammad</a>, <a href="../../../author/zhu_xingyi"><b>Zhu</b> Xingyi</a>, <a href="../../../author/zhang_yating"><b>Zhang</b> Yating</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../wang_anwa_zhu_zhan.2025.ROoFRftMMaPPoCE3PG/">Robust Optimization of Formulation Ratios for the Mechanical, Microstructural and Printing Performance of Cost-Effective 3D Printing Geopolymer</a></li>
   <li><a href="../../../author/mahmoudi_matineh"><b>Mahmoudi</b> Matineh</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mahm_wang_flat.2024.RoDC/">Robustness of Digital Concrete:<br/>Effects of Temperature, Accelerator Type and Dosage</a></li>

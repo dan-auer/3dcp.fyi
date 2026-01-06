@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jun-Jie Zeng, Pei-Lin Li, Zitong Yan, Jie-Kai Zhou, Wai-Meng Quach, Yan Zhuge
+    - footer
+title: Zeng Jun-Jie, Li Pei-Lin, Yan Zitong, Zhou Jie-Kai, Quach Wai-Meng, Zhuge Yan
 description:
 tags:
  - behavior
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Behavior of 3D Printed HPC Plates with FRP-Grid-Reinforcement Under Bending ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.engstruct.2023.116578" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.116578</a>
+#Behavior of 3D Printed HPC Plates with FRP-Grid-Reinforcement Under Bending ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2023.116578" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116578" target="_blank">10.1016/j.engstruct.2023.116578</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <a href="../../../author/li_pei-lin"><b>Li</b>&nbsp;Pei-Lin</a></span>, <a href="../../../author/yan_zitong"><b>Yan</b>&nbsp;Zitong</a></span>, <a href="../../../author/zhou_jie-kai"><b>Zhou</b>&nbsp;Jie-Kai</a></span>, <a href="../../../author/quach_wai-meng"><b>Quach</b>&nbsp;Wai-Meng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuge_yan"><b>Zhuge</b>&nbsp;Yan</a></span><br>
+Journal Article - Engineering Structures, Vol. 294, No. 116578
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> <a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a>
-,     <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>
-,     <a href="../../../author/zhou_jie-kai"><b>Zhou</b> Jie-Kai</a>
-,     <a href="../../../author/quach_wai-meng"><b>Quach</b> Wai-Meng</a>
-,     <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> <a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 294, No. 116578
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#bending`](keyword/bending)
-    [`#plate`](keyword/plate)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/plate"><button class="btn">#plate</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Behavior%20of%203D%20Printed%20HPC%20Plates%20with%20FRP-Grid-Reinforcement%20Under%20Bending" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85167801169&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385774250" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.116578" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.116578?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     High-performance concrete (HPC) has become increasing popular in structural engineering. Capitalizing the advanced construction technology of 3D concrete printing (3DCP) and merits of HPC, structures with various profiles could be designed and constructed easily. As the mechanical properties of 3D printed concrete may be worse than the corresponding concrete cast by the conventional technology, this study proposes to evolve flexible fiber-reinforced polymer (FRP) grid as reinforcement for 3D printed HPC plates. Twelve plates were tested to explore the effects of the loading direction and fabrication type on the flexural behavior of FRP grid reinforced HPC plates. The results showed that the performance of the 3D printed HPC plates can be considerably enhanced owning to the FRP grid reinforcement. Additionally, the μCT-scanned images show that the pores between deposition layers were elongated due to the movement of the nozzle during printing, and the pores were stretched in the printing direction. The flexible FRP reinforcement may allow 3D printing of FRP reinforced concrete elements in the future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>
@@ -95,8 +74,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_dong_siko_lin.2025.3PCRwFFRPSoG/">3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids:<br/>Concept and Bond Tests</a></li>
@@ -115,4 +95,34 @@ tags:
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zeng_yan_jian_li.2024.3PoFGaBRfRCP/">3D Printing of FRP Grid and Bar Reinforcement for Reinforced Concrete Plates:<br/>Development and Effectiveness</a></li>
       <li><a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liao_jinjing"><b>Liao</b> Jinjing</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../yan_zeng_zhug_liao.2023.CBoFC3PUHPCC/">Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zeng_li_yan_zhou.2023.Bo3PHPwFGRUB,
+      author            = "Jun-Jie Zeng and Pei-Lin Li and Zitong Yan and Jie-Kai Zhou and Wai-Meng Quach and Yan Zhuge",
+      title             = "Behavior of 3D Printed HPC Plates with FRP-Grid-Reinforcement Under Bending",
+      doi               = "10.1016/j.engstruct.2023.116578",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "294",
+      pages             = "116578",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-J. Zeng, P.-L. Li, Z. Yan, J.-K. Zhou, W.-M. Quach and Y. Zhuge, “Behavior of 3D Printed HPC Plates with FRP-Grid-Reinforcement Under Bending”, <i>Engineering Structures</i>, vol. 294, p. 116578, 2023, doi: 10.1016/j.engstruct.2023.116578.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zeng, Jun-Jie, Pei-Lin Li, Zitong Yan, Jie-Kai Zhou, Wai-Meng Quach, and Yan Zhuge. “Behavior of 3D Printed HPC Plates with FRP-Grid-Reinforcement Under Bending”. <i>Engineering Structures</i> 294 (2023): 116578. https://doi.org/10.1016/j.engstruct.2023.116578.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

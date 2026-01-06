@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ahmed Nasr, Jiyuan Wang, Zhenhua Duan, Qi Deng, Amardeep Singh, Wei Zhang, Mohammed Arab
+    - footer
+title: Nasr Ahmed, Wang Jiyuan, Duan Zhenhua, Deng Qi, Singh Amardeep, Zhang Wei, Arab Mohammed
 description:
 tags:
  - assessment
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143639" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143639</a>
+#Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143639" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143639" target="_blank">10.1016/j.conbuildmat.2025.143639</a>
 
--------------------------
+<a href="../../../author/nasr_ahmed"><b>Nasr</b>&nbsp;Ahmed</a></span>, <a href="../../../author/wang_jiyuan"><b>Wang</b>&nbsp;Jiyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5167-0969" title="ORCID: 0000-0001-5167-0969" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_qi"><b>Deng</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span>, <a href="../../../author/zhang_wei"><b>Zhang</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0582-3535" title="ORCID: 0000-0003-0582-3535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arab_abd-el-salam_mohammed"><b>Arab</b>&nbsp;Mohammed</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 495, No. 143639
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>
-,     <a href="../../../author/wang_jiyuan"><b>Wang</b> Jiyuan</a>
-,     <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> <a href="https://orcid.org/0000-0001-5167-0969" title="ORCID: 0000-0001-5167-0969" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_wei"><b>Zhang</b> Wei</a>
-,     <a href="../../../author/arab_abd-el-salam_mohammed"><b>Arab</b> Mohammed</a> <a href="https://orcid.org/0000-0003-0582-3535" title="ORCID: 0000-0003-0582-3535" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 495, No. 143639
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#density`](keyword/density)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/density"><button class="btn">#density</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessing%20the%20Visibility%20and%20Impact%20of%20Recycled%20High-Density%20Polyethylene%20Fibers%20in%203D-Printed%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016003773&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414222666" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143639" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143639?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid increase in global plastic consumption has led to a substantial rise in plastic waste, presenting serious environmental concerns. This study investigates the incorporation of recycled high-density polyethylene (RHDPE) fibers into 3D-printed cementitious composites (3DPCC) as a sustainable solution to improve material performance while mitigating environmental impact. RHDPE fibers with lengths of 6 mm and 12 mm were incorporated into the mortar matrix at varying volume fractions ranging from 0.3 % to 1.5 %. The research systematically examines the influence of fiber length and dosage on the workability, rheological properties, extrudability, buildability and mechanical properties of 3DPCC. Additionally, the study evaluates the potential of RHDPE fibers to reduce the carbon footprint associated with additive construction. The rheological characterization revealed that increasing fiber content and length led to noticeable increase in static yield stress, dynamic yield stress, and plastic viscosity. Notably, the H12–15 mix demonstrated increases of 140.9 %, 90.4 %, and 116.1 % in these parameters, respectively, compared to the control mix (CON), with similar trends maintained after 60 min. Although extrusion efficiency exhibited slight reductions, buildability improved considerably. The maximum buildable height increased from 18 layers in the CON mix to 27 layers in the H12–15 mix, demonstrating the structural advantages of fiber reinforcement. Mechanical testing showed that the incorporation of 12 mm RHDPE fibers enhanced compressive strength (43.10 MPa), splitting tensile strength (4.42 MPa), and flexural strength (12.63 MPa), particularly along the Z-axis, where interlayer bonding is critical. These values represent a 15–20 % improvement over the control mix.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a></li>
@@ -87,7 +62,37 @@ tags:
       <li><a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../xu_chen_zhao_li.2021.PaECoAM3PWPCBMBotRSM/">Printability and Efflorescence-Control of Admixtures-Modified 3D Printed White Portland-Cement-Based Materials Based on the Response-Surface-Methodology</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nasr_wang_duan_deng.2025.AtVaIoRHDPFi3PCC,
+      author            = "Ahmed Nasr and Jiyuan Wang and Zhenhua Duan and Qi Deng and Amardeep Singh and Wei Zhang and Mohammed Abd El-Salam Arab",
+      title             = "Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites",
+      doi               = "10.1016/j.conbuildmat.2025.143639",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "495",
+      pages             = "143639",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Nasr, “Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites”, <i>Construction and Building Materials</i>, vol. 495, p. 143639, 2025, doi: 10.1016/j.conbuildmat.2025.143639.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nasr, Ahmed, Jiyuan Wang, Zhenhua Duan, Qi Deng, Amardeep Singh, Wei Zhang, and Mohammed Abd El-Salam Arab. “Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites”. <i>Construction and Building Materials</i> 495 (2025): 143639. https://doi.org/10.1016/j.conbuildmat.2025.143639.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

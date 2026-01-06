@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yujun Che, Shengwen Tang, Huashan Yang, Weiwei Li, Mengyuan Shi
+    - footer
+title: Che Yujun, Tang Shengwen, Yang Huashan, Li Weiwei, Shi Mengyuan
 description:
 tags:
  - air
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/16/4438/pdf?version=1628412671) Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials ([2021-08](date/2021/08))
-<a href="https://doi.org/10.3390/ma14164438" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14164438</a>
+#Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials ([2021-08](date/2021/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/16/4438/pdf?version=1628412671) <a href="https://doi.org/10.3390/ma14164438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14164438" target="_blank">10.3390/ma14164438</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/che_yujun"><b>Che</b>&nbsp;Yujun</a></span>, <a href="../../../author/tang_shengwen"><b>Tang</b>&nbsp;Shengwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_huashan"><b>Yang</b>&nbsp;Huashan</a></span>, <a href="../../../author/li_weiwei"><b>Li</b>&nbsp;Weiwei</a></span>, <a href="../../../author/shi_mengyuan"><b>Shi</b>&nbsp;Mengyuan</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 16
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tang_shengwen"><b>Tang</b> Shengwen</a>
-,     <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a>
-,     <a href="../../../author/shi_mengyuan"><b>Shi</b> Mengyuan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 16, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#cement`](keyword/cement)
-    [`#influence`](keyword/influence)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#void`](keyword/void)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/void"><button class="btn">#void</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influences%20of%20Air-Voids%20on%20the%20Performance%20of%203D%20Printing%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112275760&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3188045906" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14164438" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14164438?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper focuses on inspecting the influences of anti-foaming agent (AFA) on the performance of 3D printing cementitious materials (3DPC). The mini-slump, spreading diameter, yield stress, and strength of 3DPC were evaluated. Additionally, the air-void content, air-void morphology, and air-void size distribution of mortar with and without 0.05% AFA were assessed through image analysis. The mechanical performance and air-void structure of 3D printed samples were also investigated and compared to that of conventionally mould cast samples. Test results show that an optimal AFA content enables 3DPC to achieve favorable workability and mechanical performance. The addition of AFA exhibits lower air-void content in 3DPC than that of the sample without the AFA addition. This reduction in air-void content is further strengthened by the results of strength analysis. Electron microscope analysis shows that the use of AFA results in the suppressed formation of large air-voids during the process of fresh 3DPC. Moreover, the air-void morphology substantially influenced the mechanical performance of hardened 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
@@ -101,8 +79,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/makul_natt"><b>Makul</b> Natt</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../maku.2025.3CP/">3D Concrete Printing</a></li>
       <li><a href="../../../author/makul_natt"><b>Makul</b> Natt</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../maku.2025.AM/">Additive Manufacturing</a></li>
@@ -110,4 +88,34 @@ tags:
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../yang_che.2022.RoAMFaaPRfFAi3PCM/">Recycling of Aggregate Micro-Fines as a Partial Replacement for Fly-Ash in 3D Printing Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{che_tang_yang_li.2021.IoAVotPo3PCM,
+      author            = "Yujun Che and Shengwen Tang and Huashan Yang and Weiwei Li and Mengyuan Shi",
+      title             = "Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials",
+      doi               = "10.3390/ma14164438",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "16",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Che, S. Tang, H. Yang, W. Li and M. Shi, “Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials”, <i>Materials</i>, vol. 14, no. 16, 2021, doi: 10.3390/ma14164438.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Che, Yujun, Shengwen Tang, Huashan Yang, Weiwei Li, and Mengyuan Shi. “Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials”. <i>Materials</i> 14, no. 16 (2021). https://doi.org/10.3390/ma14164438.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

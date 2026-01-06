@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jeneé Jagoda, Brandy Diggs-McGee, Megan Kreiger, Steven Schuldt
+    - footer
+title: Jagoda Jeneé, Diggs-McGee Brandy, Kreiger Megan, Schuldt Steven
 description:
 tags:
  - case
@@ -12,28 +13,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2412-3811/5/4/35/pdf?version=1586173866) The Viability and Simplicity of 3D Printed Construction:<br/>:aca-blank: A Military Case Study ([2020-04](date/2020/04))
-<a href="https://doi.org/10.3390/infrastructures5040035" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/infrastructures5040035</a>
+#The Viability and Simplicity of 3D Printed Construction&nbsp;([2020-04](date/2020/04))
+<div class="h1-like">A Military Case Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2412-3811/5/4/35/pdf?version=1586173866) <a href="https://doi.org/10.3390/infrastructures5040035" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures5040035" target="_blank">10.3390/infrastructures5040035</a>
 
--------------------------
+<a href="../../../author/jagoda_a_jenee"><b>Jagoda</b>&nbsp;Jeneé</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2052-0946" title="ORCID: 0000-0003-2052-0946" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b>&nbsp;Brandy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_a_megan"><b>Kreiger</b>&nbsp;Megan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4234-7454" title="ORCID: 0000-0002-4234-7454" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schuldt_j_steven"><b>Schuldt</b>&nbsp;Steven</a></span><br>
+Journal Article - Infrastructures, Vol. 5, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>
-,     <a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a> <a href="https://orcid.org/0000-0003-2052-0946" title="ORCID: 0000-0003-2052-0946" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a> <a href="https://orcid.org/0000-0002-4234-7454" title="ORCID: 0000-0002-4234-7454" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Infrastructures, Vol. 5, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#case`](keyword/case)
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#simple`](keyword/simple)
-
-
--------------------------
+<a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simple"><button class="btn">#simple</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Viability%20and%20Simplicity%20of%203D%20Printed%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85083317260&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,22 +35,17 @@ tags:
 <a href="https://inciteful.xyz/p/W3015147208" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/infrastructures5040035" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/infrastructures5040035?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In November 2019, U.S. Marines, Air Force, and Army Corps of Engineers personnel demonstrated the viability and simplicity of three-dimensionally (3D)-printed construction in a controlled environment at the U.S. Army Engineer Research and Development Center—Construction Engineering Research Laboratory in Champaign, Illinois. The tri-service exercise spanned three days and culminated in the construction of three 1 m × 1 m × 1 m (3 ft × 3 ft × 3 ft) concrete dragon’s teeth (square pyramid military fortifications used to defend against tanks and armored vehicles) and several custom-designed objects. The structural components were printed using a custom-built, gantry-style printer called ACES Lite 2 and a commercially available, proprietary mortar mix. This paper examines the viability of using 3D-printed construction in remote, isolated, and expeditionary environments by considering the benefits and challenges associated with the printing materials, structural design, process efficiency, labor demands, logistical considerations, environmental impact, and project cost. Based on the results of this exercise, 3D-printed construction was found to be faster, safer, less labor-intensive, and more structurally efficient than conventional construction methods: the dragon’s teeth were printed in an average of 57 min each and required only two laborers. However, the use of commercially procured, pre-mixed materials introduced additional cost, logistical burden, and adverse environmental impact as compared to traditional, on-site concrete mixing and production. Finally, this paper suggests future applications and areas of further research for 3D-printed construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../digg_krei_krei_case.2019.PTvET/">Print Time vs. Elapsed Time:<br/>A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</a></li>
       <li><a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>, <a href="../../../author/ismaeel_se_walaa"><b>Ismaeel</b> Walaa</a>, <a href="../../../author/abbas_ayman"><b>Abbas</b> Ayman</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../gene_isma_abba.2019.ACRfATDCWPTiE/">A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
-      <li><a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../jago_digg_krei_schu.2020.TVaSo3PC/">The Viability and Simplicity of 3D Printed Construction:<br/>A Military Case Study</a></li>
       <li><a href="../../../author/jassmi_hamad"><b>Jassmi</b> Hamad</a>, <a href="../../../author/najjar_fady"><b>Najjar</b> Fady</a>, <a href="../../../author/mourad_ismail_abdel-hamid"><b>Mourad</b> Abdel-Hamid</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../jass_najj_mour.2018.LS3P/">Large-Scale 3D Printing:<br/>The Way Forward</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a>, <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="../../../date/2001/09">(2001-09)</a><br><a href="../../../khos_russ_kwon_bukk.2001.CLP/">Crafting Large Prototypes</a></li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../krei_krei_case.2019.DotCPfRACC/">Development of the Construction Processes for Reinforced Additively Constructed Concrete</a></li>
@@ -73,8 +55,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/he_lewei"><b>He</b> Lewei</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../tay_ting_pand_he.2018.BSo3PC/">Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yang_lakh_bela_merz.2025.AVCfO3CPiUE/">Adaptive Velocity Compensation for Optimal 3D Concrete Printing in Uncontrolled Environments</a></li>
       <li><a href="../../../author/panchal_priyanka"><b>Panchal</b> Priyanka</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../panc_choi.2025.ARoEoNFtMCFaEEPo3PC/">A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete</a></li>
@@ -106,6 +88,35 @@ tags:
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/wood_tanner"><b>Wood</b> Tanner</a>, <a href="../../../author/macallister_bruce"><b>MacAllister</b> Bruce</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../krei_digg_wood_maca.2020.FCfDAC/">Field Considerations for Deploying Additive Construction</a></li>
-      <li><a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../jago_digg_krei_schu.2020.TVaSo3PC/">The Viability and Simplicity of 3D Printed Construction:<br/>A Military Case Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jago_digg_krei_schu.2020.TVaSo3PC,
+      author            = "Jeneé A. Jagoda and Brandy N. Diggs-McGee and Megan A. Kreiger and Steven J. Schuldt",
+      title             = "The Viability and Simplicity of 3D Printed Construction: A Military Case Study",
+      doi               = "10.3390/infrastructures5040035",
+      year              = "2020",
+      journal           = "Infrastructures",
+      volume            = "5",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. A. Jagoda, B. N. Diggs-McGee, M. A. Kreiger and S. J. Schuldt, “The Viability and Simplicity of 3D Printed Construction: A Military Case Study”, <i>Infrastructures</i>, vol. 5, no. 4, 2020, doi: 10.3390/infrastructures5040035.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jagoda, Jeneé A., Brandy N. Diggs-McGee, Megan A. Kreiger, and Steven J. Schuldt. “The Viability and Simplicity of 3D Printed Construction: A Military Case Study”. <i>Infrastructures</i> 5, no. 4 (2020). https://doi.org/10.3390/infrastructures5040035.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

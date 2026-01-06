@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alexander Lin, Abhimanyu Goel, De Wong, Charlene Yeo, Jacky Chung, Sze Pang, Chi-Hwa Wang, Hayden Taylor, Harn Kua
+    - footer
+title: Lin Alexander, Goel Abhimanyu, Wong De, Yeo Charlene, Chung Jacky, Pang Sze, Wang Chi-Hwa, Taylor Hayden, Kua Harn
 description:
 tags:
  - compression
@@ -15,36 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2022.104467) Compressive Load-Dominated Concrete Structures for Customized 3D Printing Fabrication ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.autcon.2022.104467" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104467</a>
+#Compressive Load-Dominated Concrete Structures for Customized 3D Printing Fabrication ([2022-07](date/2022/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2022.104467) <a href="https://doi.org/10.1016/j.autcon.2022.104467" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104467" target="_blank">10.1016/j.autcon.2022.104467</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3773-7503" title="ORCID: 0000-0002-3773-7503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lin_alexander"><b>Lin</b>&nbsp;Alexander</a></span>, <a href="../../../author/goel_abhimanyu"><b>Goel</b>&nbsp;Abhimanyu</a></span>, <a href="../../../author/wong_hui-alwin_de"><b>Wong</b>&nbsp;De</a></span>, <a href="../../../author/yeo_charlene"><b>Yeo</b>&nbsp;Charlene</a></span>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b>&nbsp;Jacky</a></span>, <a href="../../../author/pang_dai_sze"><b>Pang</b>&nbsp;Sze</a></span>, <a href="../../../author/wang_chi-hwa"><b>Wang</b>&nbsp;Chi-Hwa</a></span>, <a href="../../../author/taylor_k_hayden"><b>Taylor</b>&nbsp;Hayden</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6263-5974" title="ORCID: 0000-0001-6263-5974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kua_wei_harn"><b>Kua</b>&nbsp;Harn</a></span><br>
+Journal Article - Automation in Construction, Vol. 141
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a> <a href="https://orcid.org/0000-0002-3773-7503" title="ORCID: 0000-0002-3773-7503" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/goel_abhimanyu"><b>Goel</b> Abhimanyu</a>
-,     <a href="../../../author/wong_hui-alwin_de"><b>Wong</b> De</a>
-,     <a href="../../../author/yeo_charlene"><b>Yeo</b> Charlene</a>
-,     <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a>
-,     <a href="../../../author/pang_dai_sze"><b>Pang</b> Sze</a>
-,     <a href="../../../author/wang_chi-hwa"><b>Wang</b> Chi-Hwa</a>
-,     <a href="../../../author/taylor_k_hayden"><b>Taylor</b> Hayden</a>
-,     <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a> <a href="https://orcid.org/0000-0001-6263-5974" title="ORCID: 0000-0001-6263-5974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 141, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#customization`](keyword/customization)
-    [`#fabrication`](keyword/fabrication)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Compressive%20Load-Dominated%20Concrete%20Structures%20for%20Customized%203D%20Printing%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133774564&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4284965594" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104467" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104467?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Existing approaches from design to concrete 3D-printing fabrication can customize the shapes of compressiondominated concrete arches and vaults but has limited applications due to high facility requirements such as a robotic arm and a reconfigurable print bed for fabricating overhanging geometries. Therefore, there is a need to develop an alternative design-to-fabrication approach for 3D printers without such facility requirements. In this paper, concrete blocks were designed as prismatic shapes which could be customized by a most basic, gantrybased 3D printer with a flat print bed and could be assembled to a larger 3D arch structure designed based on stability and strength analyses. The feasibility of such approach was demonstrated by lab prototyping. Reduced facility requirements in this approach allow 3D-printing to be more widely applied for customizing compression-dominated structures. With further design method innovation in the future, this design-tofabrication approach can be extended for compression-dominated structures with more complex geometries.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -87,8 +61,9 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_hanmo"><b>Wang</b> Hanmo</a>, <a href="../../../author/wan_yujia"><b>Wan</b> Yujia</a>, <a href="../../../author/owyong_shawn"><b>Owyong</b> Shawn</a>, <a href="../../../author/connie-lim_en"><b>Connie Lim</b> En</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wan_owyo_conn.2026.TLCC/">Towards Low-Carbon Construction:<br/>Nature-Inspired Internal Patterns for Thermal Insulation in Lightweight Concrete Component Cast Using 3D-Printed Formwork</a></li>
       <li><a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/shi_a"><b>Shi</b> A.</a>, <a href="../../../author/kajandran_v"><b>Kajandran</b> V.</a>, <a href="../../../author/lam_w-m_t"><b>Lam</b> T.</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kua_shi_kaja_lam.2025.TSC3P/">Toward Sustainable Construction 3D Printing:<br/>Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/lee_lung_kah"><b>Lee</b> Kah</a>, <a href="../../../author/bo_sun"><b>Bo</b> Sun</a>, <a href="../../../author/koh_kian_weng"><b>Koh</b> Weng</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../shi_lee_bo_koh.2025.DEoSBo3PCSK/">Dimensional Effects on Shear Behaviour of 3D-Printed Concrete Shear Keys</a></li>
@@ -101,4 +76,33 @@ tags:
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
       <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../heyw_nich.2023.Sa3CP/">Sustainability and 3D Concrete Printing:<br/>Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lin_goel_wong_yeo.2022.CLDCSfC3PF,
+      author            = "Alexander Lin and Abhimanyu Goel and De Hui Alwin Wong and Charlene Yeo and Jacky K. H. Chung and Sze Dai Pang and Chi-Hwa Wang and Hayden K. Taylor and Harn Wei Kua",
+      title             = "Compressive Load-Dominated Concrete Structures for Customized 3D Printing Fabrication",
+      doi               = "10.1016/j.autcon.2022.104467",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "141",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Lin, “Compressive Load-Dominated Concrete Structures for Customized 3D Printing Fabrication”, <i>Automation in Construction</i>, vol. 141, 2022, doi: 10.1016/j.autcon.2022.104467.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lin, Alexander, Abhimanyu Goel, De Hui Alwin Wong, Charlene Yeo, Jacky K. H. Chung, Sze Dai Pang, Chi-Hwa Wang, Hayden K. Taylor, and Harn Wei Kua. “Compressive Load-Dominated Concrete Structures for Customized 3D Printing Fabrication”. <i>Automation in Construction</i> 141 (2022). https://doi.org/10.1016/j.autcon.2022.104467.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

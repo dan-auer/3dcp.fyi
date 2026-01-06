@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paulo Matos, Hellen Prigol, Adilson Schackow, Samara Silva Nazário, Gabriel Doerner, Nicollas Safanelli
+    - footer
+title: Matos Paulo, Prigol Hellen, Schackow Adilson, Silva Nazário Samara, Doerner Gabriel, Safanelli Nicollas
 description:
 tags:
  - base
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1590/s1983-41952024000500015) Quality-Control-Tests of Fresh 3D Printable Cement-Based Materials ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1590/s1983-41952024000500015" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1590/s1983-41952024000500015</a>
+#Quality-Control-Tests of Fresh 3D Printable Cement-Based Materials ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1590/s1983-41952024000500015) <a href="https://doi.org/10.1590/s1983-41952024000500015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1590/s1983-41952024000500015" target="_blank">10.1590/s1983-41952024000500015</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3695-1356" title="ORCID: 0000-0002-3695-1356" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matos_ricardo_paulo"><b>de&nbsp;Matos</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1600-6840" title="ORCID: 0009-0001-1600-6840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prigol_hellen"><b>Prigol</b>&nbsp;Hellen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2561-5231" title="ORCID: 0000-0003-2561-5231" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schackow_adilson"><b>Schackow</b>&nbsp;Adilson</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-3131-5602" title="ORCID: 0009-0007-3131-5602" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva-nazario_samara"><b>da&nbsp;Silva Nazário</b>&nbsp;Samara</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-0637-9306" title="ORCID: 0009-0003-0637-9306" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/doerner_gabriel"><b>Doerner</b>&nbsp;Gabriel</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-7363-4744" title="ORCID: 0009-0002-7363-4744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/safanelli_nicollas"><b>Safanelli</b>&nbsp;Nicollas</a></span><br>
+Journal Article - Revista IBRACON de Estruturas e Materiais, Vol. 17, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/matos_ricardo_paulo"><b>de Matos</b> Paulo</a> <a href="https://orcid.org/0000-0002-3695-1356" title="ORCID: 0000-0002-3695-1356" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/prigol_hellen"><b>Prigol</b> Hellen</a> <a href="https://orcid.org/0009-0001-1600-6840" title="ORCID: 0009-0001-1600-6840" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a> <a href="https://orcid.org/0000-0003-2561-5231" title="ORCID: 0000-0003-2561-5231" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silva-nazario_samara"><b>da Silva Nazário</b> Samara</a> <a href="https://orcid.org/0009-0007-3131-5602" title="ORCID: 0009-0007-3131-5602" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/doerner_gabriel"><b>Doerner</b> Gabriel</a> <a href="https://orcid.org/0009-0003-0637-9306" title="ORCID: 0009-0003-0637-9306" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a> <a href="https://orcid.org/0009-0002-7363-4744" title="ORCID: 0009-0002-7363-4744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Revista IBRACON de Estruturas e Materiais, Vol. 17, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#fresh`](keyword/fresh)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#quality`](keyword/quality)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quality-Control-Tests%20of%20Fresh%203D%20Printable%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001379151&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399498515" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1590/s1983-41952024000500015" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1590/s1983-41952024000500015?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) has emerged as a promising solution for the modernization of the construction sector. Additionally, design optimization allows for material reduction, promoting sustainable construction. Despite these advancements, there is still no standard for the assessment of the fresh state and quality control of 3DCP. This work discusses the results of quality control tests for fresh 3DCP. Specifically, seven samples with different mix designs were produced and subjected to rotational rheometry, slug tests, flow table tests, and buildability tests (i.e., the height supported prior to collapse). The results showed that the yield stress obtained from rheometry and the slug test did not match but fell within the same order of magnitude. The yield stress values obtained from rheometry were the closest to the gravityinduced stress in the buildability test. Regarding buildability prediction, the slug test exhibited the strongest correlation with the number of layers supported in buildability (R2 = 0.92); rotational rheometry also demonstrated a good correlation with that parameter (R2 = 0.80). In contrast, the results of the flow table test neither correlated with the yield stress obtained from any other tests nor proved efficient in predicting buildability. Finally, the paper presented a discussion on testing and printing challenges.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../bres_nabo.2022.TPBDf3CPoCEAS/">Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures</a></li>
@@ -93,9 +69,39 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/tan_yanke"><b>Tan</b> Yanke</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zheng_shipeng"><b>Zheng</b> Shipeng</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM/">Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a>, <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a>, <a href="../../../author/effting_carmeane"><b>Effting</b> Carmeane</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../safa_scha_efft_mato.2025.TEoCNotRHoCPaBo3PC/">The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete</a></li>
       <li><a href="../../../author/silveira-junior_gomes_jairon"><b>Silveira Júnior</b> Jairon</a>, <a href="../../../author/sakata_dors_rafael"><b>Sakata</b> Rafael</a>, <a href="../../../author/onghero_lucas"><b>Onghero</b> Lucas</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../silv_saka_ongh_mato.2025.AAWaaSCMf3PPC/">Al-Anodizing Waste as a Supplementary Cementitious Material for 3D-Printed Portland Cement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mato_prig_scha_silv.2024.QCToF3PCBM,
+      author            = "Paulo Ricardo de Matos and Hellen Prigol and Adilson Schackow and Samara da Silva Nazário and Gabriel Doerner and Nicollas Safanelli",
+      title             = "Quality-Control-Tests of Fresh 3D Printable Cement-Based Materials",
+      doi               = "10.1590/s1983-41952024000500015",
+      year              = "2024",
+      journal           = "Revista IBRACON de Estruturas e Materiais",
+      volume            = "17",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. R. de Matos, H. Prigol, A. Schackow, S. da Silva Nazário, G. Doerner and N. Safanelli, “Quality-Control-Tests of Fresh 3D Printable Cement-Based Materials”, <i>Revista IBRACON de Estruturas e Materiais</i>, vol. 17, no. 5, 2024, doi: 10.1590/s1983-41952024000500015.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Matos, Paulo Ricardo de, Hellen Prigol, Adilson Schackow, Samara da Silva Nazário, Gabriel Doerner, and Nicollas Safanelli. “Quality-Control-Tests of Fresh 3D Printable Cement-Based Materials”. <i>Revista IBRACON De Estruturas E Materiais</i> 17, no. 5 (2024). https://doi.org/10.1590/s1983-41952024000500015.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnesh Das, Lex Reiter, Sara Mantellato, Robert Flatt
+    - footer
+title: Das Arnesh, Reiter Lex, Mantellato Sara, Flatt Robert
 description:
 tags:
  - age
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2022.107004) Early-Age Rheology and Hydration-Control of Ternary Binders for 3D Printing Applications ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.cemconres.2022.107004" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.107004</a>
+#Early-Age Rheology and Hydration-Control of Ternary Binders for 3D Printing Applications ([2022-10](date/2022/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2022.107004) <a href="https://doi.org/10.1016/j.cemconres.2022.107004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.107004" target="_blank">10.1016/j.cemconres.2022.107004</a>
 
--------------------------
+<a href="../../../author/das_arnesh"><b>Das</b>&nbsp;Arnesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3941-0739" title="ORCID: 0000-0003-3941-0739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mantellato_sara"><b>Mantellato</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 162
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> <a href="https://orcid.org/0000-0003-3941-0739" title="ORCID: 0000-0003-3941-0739" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 162, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#application`](keyword/application)
-    [`#binder`](keyword/binder)
-    [`#control`](keyword/control)
-    [`#early`](keyword/early)
-    [`#hydration`](keyword/hydration)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#ternary`](keyword/ternary)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/ternary"><button class="btn">#ternary</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Rheology%20and%20Hydration-Control%20of%20Ternary%20Binders%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139816634&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4306377789" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.107004" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.107004?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Achieving and controlling the desired strength build-up is important for 3D concrete printing. In this paper, we investigate the possibility of using calcium aluminate cement (CAC) as an accelerator for Ordinary Portland Cement (OPC) for 3D extrusion printing. Both ternary and binary cement systems were studied whereby for the former, the third component was a calcium sulfate source (C$). Experiments are conducted on mixes both in presence and absence of retarders. They focus on hydration progress, evolution of rheological properties and microstructural development. It is concluded that CAC-C$ can be effectively used as an accelerator to achieve the desired rates of strength build-up. Additionally, it is shown that strength build-up has is directly related to CAC dosage, irrespective of the presence of retarders. Based on microstructure characterization results, AFt and AH3 are found to be formed in the first hour after acceleration and responsible for the observed strength build-up.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
@@ -84,8 +61,8 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xu_sun_sun_chen.2025.RRMbAICfISP/">Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>Towards 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/li_qiyan"><b>Li</b> Qiyan</a>, <a href="../../../author/su_anshuang"><b>Su</b> Anshuang</a>, <a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_su_gao.2025.IoIPo3PMOCBMbCC/">Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
@@ -110,4 +87,33 @@ tags:
       <li><a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/gierszewska_natalia"><b>Gierszewska</b> Natalia</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../olcz_skib_gier.2023.3PMwHACaASfSMUf3P/">3D Printed Mortar with High Alumina-Cement as Alternative Solution for Standard Materials Used for 3D Printing</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/melesse_bizu_birru"><b>Melesse</b> Birru</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../rehm_mele_kim.2023.SoD3CPCaPOoSAoIHP/">Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{das_reit_mant_flat.2022.EARaHCoTBf3PA,
+      author            = "Arnesh Das and Lex Reiter and Sara Mantellato and Robert Johann Flatt",
+      title             = "Early-Age Rheology and Hydration-Control of Ternary Binders for 3D Printing Applications",
+      doi               = "10.1016/j.cemconres.2022.107004",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "162",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Das, L. Reiter, S. Mantellato and R. J. Flatt, “Early-Age Rheology and Hydration-Control of Ternary Binders for 3D Printing Applications”, <i>Cement and Concrete Research</i>, vol. 162, 2022, doi: 10.1016/j.cemconres.2022.107004.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Das, Arnesh, Lex Reiter, Sara Mantellato, and Robert Johann Flatt. “Early-Age Rheology and Hydration-Control of Ternary Binders for 3D Printing Applications”. <i>Cement and Concrete Research</i> 162 (2022). https://doi.org/10.1016/j.cemconres.2022.107004.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiongfei Liu, Huachong Cai, Guowei Ma, Guanyu Hou
+    - footer
+title: Liu Xiongfei, Cai Huachong, Ma Guowei, Hou Guanyu
 description:
 tags:
  - action
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Spray-Based 3D Concrete Printing-Parameter Design-Model:<br/>:aca-blank: Actionable Insight for High Printing Quality ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105446" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105446</a>
+#Spray-Based 3D Concrete Printing-Parameter Design-Model&nbsp;([2024-01](date/2024/01))
+<div class="h1-like">Actionable Insight for High Printing Quality</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105446" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105446" target="_blank">10.1016/j.cemconcomp.2024.105446</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <a href="../../../author/cai_huachong"><b>Cai</b>&nbsp;Huachong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0902-4899" title="ORCID: 0000-0002-0902-4899" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hou_guanyu"><b>Hou</b>&nbsp;Guanyu</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 147, No. 105446
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cai_huachong"><b>Cai</b> Huachong</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hou_guanyu"><b>Hou</b> Guanyu</a> <a href="https://orcid.org/0000-0002-0902-4899" title="ORCID: 0000-0002-0902-4899" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 147, No. 105446
-
-:aca-blank:{ .lg .middle}
-    [`#action`](keyword/action)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#height`](keyword/height)
-    [`#model`](keyword/model)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#spray`](keyword/spray)
-
-
--------------------------
+<a href="../../keyword/action"><button class="btn">#action</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Spray-Based%203D%20Concrete%20Printing-Parameter%20Design-Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=EID not found for the given DOI&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391018598" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105446" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105446?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A spray-based 3D concrete printing parameter design model to design and optimize printable concrete is proposed. The effects of different relatable printing parameters, such as nozzle travel speed (V), spray nozzle diameter (A), and spray standoff distance (D) on spray-based 3D printability and printing quality are investigated systematically. The hydration mechanism of spray-based 3D printed concrete is then explored in terms of mechanical performance, layer moisture content, micromorphology, and pore structure. The experimental results show that the printing quality of the printed concrete can be effectively improved by optimizing the relatable printing parameters. Based on the three key printing performance indexes of layer thickness, surface flatness, and rebound rate, the spray-based 3D concrete printing parameters design model β = f(V,A,D) is proposed. In the high-precision zone of β [0.7,1], the printing parameter V70A8D60 (β = 0.71) is selected to further verify the effectiveness of the model. It shows that the spray-based 3D printing process with appropriate printing parameters ensures the excellent hydration process of the printed concrete. Compared with those of the cast counterpart, the flexural, compressive, and splitting strengths of spray-based 3D printed V70A8D60 specimens increase by 5.67–14.48 %, 15.79–29.79 %, and 19.95–37.27 %, respectively. Further, high-pressure spraying in the spraybased 3D printing process optimizes the pore structure of the printed concrete with a 69.4 % decrease in total porosity. An “Olympic rings” convex structure with different accuracy grade parameters in the β model is designed and fabricated to demonstrate the feasibility and practical applicability of the currently proposed parametric design model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -114,8 +91,8 @@ tags:
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/wang_jianhong"><b>Wang</b> Jianhong</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/zhang_xiaoshuang"><b>Zhang</b> Xiaoshuang</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhan_wang_liu_zhan.2022.EoPPotPQo3PCCBM/">Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
@@ -129,4 +106,34 @@ tags:
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/guo_pei"><b>Guo</b> Pei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_li_guo_wang.2025.SB3PTSC/">Spray-Based 3D Printed Tunnel Slag Concrete:<br/>Evaluation for Printability and Mechanical Performance</a></li>
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_cai_ma_hou.2024.SB3CPPDM,
+      author            = "Xiongfei Liu and Huachong Cai and Guowei Ma and Guanyu Hou",
+      title             = "Spray-Based 3D Concrete Printing-Parameter Design-Model: Actionable Insight for High Printing Quality",
+      doi               = "10.1016/j.cemconcomp.2024.105446",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "147",
+      pages             = "105446",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, H. Cai, G. Ma and G. Hou, “Spray-Based 3D Concrete Printing-Parameter Design-Model: Actionable Insight for High Printing Quality”, <i>Cement and Concrete Composites</i>, vol. 147, p. 105446, 2024, doi: 10.1016/j.cemconcomp.2024.105446.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xiongfei, Huachong Cai, Guowei Ma, and Guanyu Hou. “Spray-Based 3D Concrete Printing-Parameter Design-Model: Actionable Insight for High Printing Quality”. <i>Cement and Concrete Composites</i> 147 (2024): 105446. https://doi.org/10.1016/j.cemconcomp.2024.105446.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Duballet Romain 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../mesn_duba_bave.2025.SAo3P/">Structural Applications of 3D Printing</a></li>
   <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../duba_mesn_duco_carn.2020.FDPfSTS/">Free Deposition-Printing for Space-Truss-Structures</a></li>
   <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../gaud_dirr_duba_bouy.2020.IC3P/">Industrialising Concrete 3D Printing</a></li>

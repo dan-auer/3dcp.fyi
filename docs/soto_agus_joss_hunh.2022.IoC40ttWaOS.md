@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Borja Soto, Isolda Agustí-Juan, Samuel Joss, Jens Hunhevicz
+    - footer
+title: Soto Borja, Agustí-Juan Isolda, Joss Samuel, Hunhevicz Jens
 description:
 tags:
  - construction
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://discovery.ucl.ac.uk/10075076/1/Agusti%20Juan_Implications%20of%20Construction%204.0%20to%20the%20workforce%20and%20organizational%20structures_AAM.pdf) Implications of Construction 4.0 to the Workforce and Organizational Structures ([2019-05](date/2019/05))
-<a href="https://doi.org/10.1080/15623599.2019.1616414" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/15623599.2019.1616414</a>
+#Implications of Construction 4.0 to the Workforce and Organizational Structures ([2019-05](date/2019/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://discovery.ucl.ac.uk/10075076/1/Agusti%20Juan_Implications%20of%20Construction%204.0%20to%20the%20workforce%20and%20organizational%20structures_AAM.pdf) <a href="https://doi.org/10.1080/15623599.2019.1616414" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2019.1616414" target="_blank">10.1080/15623599.2019.1616414</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9613-8105" title="ORCID: 0000-0002-9613-8105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soto_garcia_borja"><b>de&nbsp;Soto</b>&nbsp;Borja</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b>&nbsp;Isolda</a></span>, <a href="../../../author/joss_samuel"><b>Joss</b>&nbsp;Samuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1296-2384" title="ORCID: 0000-0002-1296-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b>&nbsp;Jens</a></span><br>
+Journal Article - International Journal of Construction Management, Vol. 22, Iss. 2, pp. 205-217
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/soto_garcia_borja"><b>de Soto</b> Borja</a> <a href="https://orcid.org/0000-0002-9613-8105" title="ORCID: 0000-0002-9613-8105" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a> <a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a>
-,     <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a> <a href="https://orcid.org/0000-0002-1296-2384" title="ORCID: 0000-0002-1296-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Construction Management, Vol. 22, Iss. 2, pp. 205-217
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#implication`](keyword/implication)
-    [`#organization`](keyword/organization)
-    [`#structure`](keyword/structure)
-    [`#workforce`](keyword/workforce)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/organization"><button class="btn">#organization</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/workforce"><button class="btn">#workforce</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Implications%20of%20Construction%204.0%20to%20the%20Workforce%20and%20Organizational%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85066063580&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,24 +35,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2945838180" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/15623599.2019.1616414" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/15623599.2019.1616414?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The counterpart of Industry 4.0 in the AEC/FM industry is known as Construction 4.0. Its essence is the digitalization and automation of the AEC/FM industry. As robots and other technologies make their way into the different phases of the lifecycle of construction projects, the concern about the future of jobs and wages will increase. While the use of robotics has the potential to improve productivity and safety, it should not necessarily reduce total employment in the construction sector in the long run. It is expected that existing roles will evolve, and new roles will be created (e.g., in addition to designers there will be a need for employees with digital skills). Focusing on the construction phase of a robotically built concrete wall, the different roles were evaluated. From this study, it was found that there will be a time in which conventional construction and robotic technologies will coexist, leading to a higher job variability and new roles, both at the managerial and operations/execution levels. Although this study is not meant to be an exact representation of how the AEC/FM roles will change as a consequence of Construction 4.0, it opens the debate and research in this area.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ahme_giwa_game_arce.2024.ARDLSAM/">Automated Reinforcement During Large-Scale Additive Manufacturing:<br/>Structural-Assessment of a Dual Approach</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../plac_schw.2023.FPtS/">From Process to System:<br/>A Review on the Implications of Concrete 3D Printing on Project Delivery</a></li>
       <li><a href="../../../author/wu_huanyu"><b>Wu</b> Huanyu</a>, <a href="../../../author/liu_yongqi"><b>Liu</b> Yongqi</a>, <a href="../../../author/chang_ruidong"><b>Chang</b> Ruidong</a>, <a href="../../../author/wu_lingyi"><b>Wu</b> Lingyi</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../wu_liu_chan_wu.2024.RSQaToCR/">Research Status Quo and Trends of Construction Robotics:<br/>A Bibliometric Analysis</a></li>
@@ -77,4 +58,35 @@ tags:
       <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>, <a href="../../../author/apolinarska_anna_aleksandra"><b>Apolinarska</b> Aleksandra</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../gras_baur_apol_dorf.2020.DH/">DFAB House:<br/>A Comprehensive Demonstrator of Digital Fabrication in Architecture</a></li>
       <li><a href="../../../author/ramani_ayyagari"><b>Ramani</b> Ayyagari</a>, <a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../rama_soto.2020.PSotIo3PotCSC/">Preliminary Study of the Implications of 3D Printing on the Construction Supply Chain</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{soto_agus_joss_hunh.2022.IoC40ttWaOS,
+      author            = "Borja García de Soto and Isolda Agustí-Juan and Samuel Joss and Jens Juri Hunhevicz",
+      title             = "Implications of Construction 4.0 to the Workforce and Organizational Structures",
+      doi               = "10.1080/15623599.2019.1616414",
+      year              = "2022",
+      journal           = "International Journal of Construction Management",
+      volume            = "22",
+      number            = "2",
+      pages             = "205--217",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. G. de Soto, I. Agustí-Juan, S. Joss and J. J. Hunhevicz, “Implications of Construction 4.0 to the Workforce and Organizational Structures”, <i>International Journal of Construction Management</i>, vol. 22, no. 2, pp. 205–217, 2022, doi: 10.1080/15623599.2019.1616414.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Soto, Borja García de, Isolda Agustí-Juan, Samuel Joss, and Jens Juri Hunhevicz. “Implications of Construction 4.0 to the Workforce and Organizational Structures”. <i>International Journal of Construction Management</i> 22, no. 2 (2022): 205–17. https://doi.org/10.1080/15623599.2019.1616414.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

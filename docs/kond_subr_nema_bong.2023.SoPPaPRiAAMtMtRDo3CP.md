@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kala Kondepudi, Kolluru Subramaniam, Behzad Nematollahi, Shin Bong, Jay Sanjayan
+    - footer
+title: Kondepudi Kala, Subramaniam Kolluru, Nematollahi Behzad, Bong Shin, Sanjayan Jay
 description:
 tags:
  - activation
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://raiith.iith.ac.in/11364/1/Cement_and_Concrete_Composites.pdf) Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing:<br/>:aca-blank: Correction ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104838" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104838</a>
+#Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing&nbsp;([2022-11](date/2022/11))
+<div class="h1-like">Correction</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](http://raiith.iith.ac.in/11364/1/Cement_and_Concrete_Composites.pdf) <a href="https://doi.org/10.1016/j.cemconcomp.2022.104838" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104838" target="_blank">10.1016/j.cemconcomp.2022.104838</a>
 
--------------------------
+<a href="../../../author/kondepudi_kala"><b>Kondepudi</b>&nbsp;Kala</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bong_hau_shin"><b>Bong</b>&nbsp;Shin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 135
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>
-,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> <a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 135, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#concrete`](keyword/concrete)
-    [`#correction`](keyword/correction)
-    [`#demand`](keyword/demand)
-    [`#mixture`](keyword/mixture)
-    [`#packing`](keyword/packing)
-    [`#particle`](keyword/particle)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/correction"><button class="btn">#correction</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/packing"><button class="btn">#packing</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20of%20Particle-Packing%20and%20Paste-Rheology%20in%20Alkali-Activated%20Mixtures%20to%20Meet%20the%20Rheology%20Demands%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141469809&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,20 +42,16 @@ tags:
 <a href="https://inciteful.xyz/p/W4308579422" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104838" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104838?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The oxide compositions in Table 1 should be replaced with the following:
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/raj_shubham"><b>Raj</b> Shubham</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../pari_raj_sing_subr.2025.D3PCbItIoAC/">Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics</a></li>
       <li><a href="../../../author/shilton_robert"><b>Shilton</b> Robert</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../shil_wang_bant.2025.UoPaaRMAfAAMf3P/">Use of Polysaccharides as a Rheology-Modifying-Admixture for Alkali-Activated Materials for 3D Printing</a></li>
       <li><a href="../../../author/jin_peng"><b>Jin</b> Peng</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/kohestanian_mohammad"><b>Kohestanian</b> Mohammad</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../jin_hasa_kohe_mehr.2024.MNAi3PC/">Micro/Nano Additives in 3D Printing Concrete:<br/>Opportunities, Challenges, and Potential Outlook in Construction Applications</a></li>
@@ -86,4 +61,33 @@ tags:
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lyu_dai_chen.2023.SSPCMbMEaAB3P/">Sandwich-Structured Porous Concrete Manufactured by Mortar-Extrusion and Aggregate-Bed 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kond_subr_nema_bong.2023.SoPPaPRiAAMtMtRDo3CP,
+      author            = "Kala Kondepudi and Kolluru V. L. Subramaniam and Behzad Nematollahi and Shin Hau Bong and Jay Gnananandan Sanjayan",
+      title             = "Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing: Correction",
+      doi               = "10.1016/j.cemconcomp.2022.104838",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "135",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Kondepudi, K. V. L. Subramaniam, B. Nematollahi, S. H. Bong and J. G. Sanjayan, “Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing: Correction”, <i>Cement and Concrete Composites</i>, vol. 135, 2023, doi: 10.1016/j.cemconcomp.2022.104838.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kondepudi, Kala, Kolluru V. L. Subramaniam, Behzad Nematollahi, Shin Hau Bong, and Jay Gnananandan Sanjayan. “Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing: Correction”. <i>Cement and Concrete Composites</i> 135 (2023). https://doi.org/10.1016/j.cemconcomp.2022.104838.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

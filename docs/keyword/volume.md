@@ -8,7 +8,7 @@ search:
 
 # #volume
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
   <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a>, <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../kaya_ciza_yalc_fele.2024.EoHMaAVoFaHPo3PC/">Effect of Hydroxypropyl-Methylcellulose and Aggregate Volume on Fresh and Hardened Properties of 3D Printable Concrete</a></li>
   <li><a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/kango_ananya"><b>Kango</b> Ananya</a>, <a href="../../../author/leung_victor"><b>Leung</b> Victor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../vase_chad_kang_leun.2024.IP/">Impact Printing:<br/>A Novel Robotic Additive Manufacturing Method for Circular, High-Volume Construction</a></li>

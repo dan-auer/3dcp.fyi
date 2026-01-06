@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Akesh Kakarla, Ing Kong, Vipulkumar Patel
+    - footer
+title: Kakarla Akesh, Kong Ing, Patel Vipulkumar
 description:
 tags:
  - additive
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing for Building and Constructions ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1002/9781394198085.ch16" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/9781394198085.ch16</a>
+#Additive Manufacturing for Building and Constructions ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9781394198085.ch16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781394198085.ch16" target="_blank">10.1002/9781394198085.ch16</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7989-6991" title="ORCID: 0000-0002-7989-6991" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kakarla_babu_akesh"><b>Kakarla</b>&nbsp;Akesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7496-9728" title="ORCID: 0000-0001-7496-9728" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kong_ing"><b>Kong</b>&nbsp;Ing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6463-9044" title="ORCID: 0000-0002-6463-9044" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/patel_ishvarbhai_vipulkumar"><b>Patel</b>&nbsp;Vipulkumar</a></span><br>
+Contribution - Additive Manufacturing with Novel Materials, pp. 485-508
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kakarla_babu_akesh"><b>Kakarla</b> Akesh</a> <a href="https://orcid.org/0000-0002-7989-6991" title="ORCID: 0000-0002-7989-6991" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kong_ing"><b>Kong</b> Ing</a> <a href="https://orcid.org/0000-0001-7496-9728" title="ORCID: 0000-0001-7496-9728" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/patel_ishvarbhai_vipulkumar"><b>Patel</b> Vipulkumar</a> <a href="https://orcid.org/0000-0002-6463-9044" title="ORCID: 0000-0002-6463-9044" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Additive Manufacturing with Novel Materials, pp. 485-508
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20for%20Building%20and%20Constructions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194343985&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391885072" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/9781394198085.ch16" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/9781394198085.ch16?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM), more commonly called three-dimensional (3D) printing, is a rising technology in the civil construction industry. The technique develops the 3D structures rapidly with little personnel, minimal resources, and reduces waste production. However, 3D printing is less explored in building and construction than in aerospace, automobile, and medical applications. This chapter provides an argument for the potential role of AM in building and construction applications. Furthermore, the chapter also provides insights into existing and novel materials and discusses ideal material properties for AM in building structures. The research progress and future of digitalizing construction techniques are systematically reported, and the conclusions will be helpful for designers and civil engineers to recognise the AM implications for minimising cost and time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "55 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -114,7 +97,37 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kaka_kong_pate.2024.AMfBaC,
+      author            = "Akesh Babu Kakarla and Ing Kong and Vipulkumar Ishvarbhai Patel",
+      title             = "Additive Manufacturing for Building and Constructions",
+      doi               = "10.1002/9781394198085.ch16",
+      year              = "2024",
+      pages             = "485--508",
+      booktitle         = "Additive Manufacturing with Novel Materials",
+      editor            = "R. Rajasekar and C. Moganapriya and P. Sathish Kumar",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. B. Kakarla, I. Kong and V. I. Patel, “Additive Manufacturing for Building and Constructions”, in <i>Additive Manufacturing with Novel Materials</i>,  2024, pp. 485–508. doi: 10.1002/9781394198085.ch16.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kakarla, Akesh Babu, Ing Kong, and Vipulkumar Ishvarbhai Patel. “Additive Manufacturing for Building and Constructions”. In <i>Additive Manufacturing with Novel Materials</i>, edited by R. Rajasekar, C. Moganapriya, and P. Sathish Kumar, 485–508, 2024. https://doi.org/10.1002/9781394198085.ch16.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

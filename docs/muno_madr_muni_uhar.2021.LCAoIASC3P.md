@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ivan Muñoz, Javier Madrid, Manuel Muñiz, Maylis Uhart, Joseph Canou, Christoph Martin, Marc Fabritius, Laura Calvo, Louison Poudelet, Roger Cardona, Hélène Lombois-Burger, Nikolaos Vlasopoulos, Charles Bouyssou, Justin Dirrenberger, Alexios Papacharalampopoulos, Panagiotis Stavropoulos
+    - footer
+title: Muñoz Ivan, Madrid Javier, Muñiz Manuel, Uhart Maylis, Canou Joseph, Martin Christoph, Fabritius Marc, Calvo Laura, Poudelet Louison, Cardona Roger, Lombois-Burger Hélène, Vlasopoulos Nikolaos, Bouyssou Charles, Dirrenberger Justin, Papacharalampopoulos Alexios, Stavropoulos Panagiotis
 description:
 tags:
  - additive
@@ -16,44 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1007/s00170-020-06487-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00170-020-06487-0</a>
+#Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing ([2021-01](date/2021/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00170-020-06487-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-020-06487-0" target="_blank">10.1007/s00170-020-06487-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9637-3634" title="ORCID: 0000-0001-9637-3634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/munoz_ivan"><b>Muñoz</b>&nbsp;Ivan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/madrid_alonso_javier"><b>Madrid</b>&nbsp;Javier</a></span>, <a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b>&nbsp;Manuel</a></span>, <a href="../../../author/uhart_maylis"><b>Uhart</b>&nbsp;Maylis</a></span>, <a href="../../../author/canou_joseph"><b>Canou</b>&nbsp;Joseph</a></span>, <a href="../../../author/martin_christoph"><b>Martin</b>&nbsp;Christoph</a></span>, <a href="../../../author/fabritius_marc"><b>Fabritius</b>&nbsp;Marc</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3962-6417" title="ORCID: 0000-0003-3962-6417" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calvo_laura"><b>Calvo</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8732-2314" title="ORCID: 0000-0002-8732-2314" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poudelet_louison"><b>Poudelet</b>&nbsp;Louison</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9991-8601" title="ORCID: 0000-0001-9991-8601" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cardona_roger"><b>Cardona</b>&nbsp;Roger</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3352-5746" title="ORCID: 0000-0003-3352-5746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b>&nbsp;Hélène</a></span>, <a href="../../../author/vlasopoulos_nikolaos"><b>Vlasopoulos</b>&nbsp;Nikolaos</a></span>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b>&nbsp;Charles</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b>&nbsp;Justin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7666-2156" title="ORCID: 0000-0001-7666-2156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b>&nbsp;Alexios</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0724-7957" title="ORCID: 0000-0003-0724-7957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stavropoulos_panagiotis"><b>Stavropoulos</b>&nbsp;Panagiotis</a></span><br>
+Journal Article - The International Journal of Advanced Manufacturing Technology, Vol. 112, Iss. 7-8, pp. 2149-2159
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/munoz_ivan"><b>Muñoz</b> Ivan</a> <a href="https://orcid.org/0000-0001-9637-3634" title="ORCID: 0000-0001-9637-3634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> <a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>
-,     <a href="../../../author/uhart_maylis"><b>Uhart</b> Maylis</a>
-,     <a href="../../../author/canou_joseph"><b>Canou</b> Joseph</a>
-,     <a href="../../../author/martin_christoph"><b>Martin</b> Christoph</a>
-,     <a href="../../../author/fabritius_marc"><b>Fabritius</b> Marc</a>
-,     <a href="../../../author/calvo_laura"><b>Calvo</b> Laura</a> <a href="https://orcid.org/0000-0003-3962-6417" title="ORCID: 0000-0003-3962-6417" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/poudelet_louison"><b>Poudelet</b> Louison</a> <a href="https://orcid.org/0000-0002-8732-2314" title="ORCID: 0000-0002-8732-2314" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cardona_roger"><b>Cardona</b> Roger</a> <a href="https://orcid.org/0000-0001-9991-8601" title="ORCID: 0000-0001-9991-8601" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a> <a href="https://orcid.org/0000-0003-3352-5746" title="ORCID: 0000-0003-3352-5746" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vlasopoulos_nikolaos"><b>Vlasopoulos</b> Nikolaos</a>
-,     <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>
-,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b> Alexios</a> <a href="https://orcid.org/0000-0001-7666-2156" title="ORCID: 0000-0001-7666-2156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stavropoulos_panagiotis"><b>Stavropoulos</b> Panagiotis</a> <a href="https://orcid.org/0000-0003-0724-7957" title="ORCID: 0000-0003-0724-7957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The International Journal of Advanced Manufacturing Technology, Vol. 112, Iss. 7-8, pp. 2149-2159
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#integration`](keyword/integration)
-    [`#life`](keyword/life)
-    [`#print`](keyword/print)
-    [`#subtractive`](keyword/subtractive)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/subtractive"><button class="btn">#subtractive</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Integrated%20Additive-Subtractive%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099057232&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3121063880" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00170-020-06487-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00170-020-06487-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A life cycle assessment (LCA) was conducted on an innovative concrete 3D printing system, offering the following main advantages: (1) additive and subtractive capabilities, allowing for the automated post-processing of printed parts, including operations such as surface polishing, grooving and drilling and (2) the use of a cable robot, which is less expensive, lighter, more transportable, more energy-efficient and more easily reconfigurable than alternatives such as gantry-type systems. The production of a 4-m height structural pillar was assessed, comparing it to production with traditional methods, namely, using a mould. The study included the entire supply chain of the 3D printing equipment, operation and end-of-life, based on real data from the design and operation ofa demonstration plant installed in Spain. Data for traditional construction was based on literature and expert judgement. The 3D production process included printing the pillar perimeter in four pieces with 3D printing concrete, transporting to the construction site and reinforcing and casting with conventional concrete. Traditional production involved reinforcing and casting with the mould on-site. The results show that when only one pillar needs to be produced, 3D printing has a lower environmental impact in all the environmental indicators assessed when compared to using a mould that is discarded after a single use. As an example, GHG emissions are lower by 38%. It was also found that the contribution of 3D printing to the environmental impact of producing a pillar is almost negligible, representing less than 1% of the pillar’s total GHG emissions. However, when the same pillar needs to be produced in higher numbers, the results show that 3D printing and conventional production have a similar environmental impact, given that the mould used in conventional production can be reused, becoming a comparatively efficient option.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
@@ -90,8 +56,8 @@ tags:
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "41 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
       <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_arshdeep"><b>Singh</b> Arshdeep</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../ghod_sing_sing_chow.2025.AMSMaSiCaBA/">Additively Manufactured Smart Materials and Structures in Construction and Building Applications</a></li>
       <li><a href="../../../author/panchal_priyanka"><b>Panchal</b> Priyanka</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../panc_choi.2025.ARoEoNFtMCFaEEPo3PC/">A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete</a></li>
@@ -134,4 +100,35 @@ tags:
       <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../dobr_busw_cava_kinn.2022.MaCB3PMiIGSUaBNC/">Milling a Cement-Based 3D Printable Mortar in Its Green State Using a Ball-Nosed Cutter</a></li>
       <li><a href="../../../author/leite_gabriela"><b>Leite</b> Gabriela</a>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../leit_font.2021.AMatEotCI/">Additive Manufacturing and the Evolution of the Construction Industry:<br/>A Systematic Literature Review 2015-2021</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{muno_madr_muni_uhar.2021.LCAoIASC3P,
+      author            = "Ivan Muñoz and Javier Alonso Madrid and Manuel Menendez Muñiz and Maylis Uhart and Joseph Canou and Christoph Martin and Marc Fabritius and Laura Calvo and Louison Poudelet and Roger Cardona and Hélène Lombois-Burger and Nikolaos Vlasopoulos and Charles Bouyssou and Justin Dirrenberger and Alexios Papacharalampopoulos and Panagiotis Stavropoulos",
+      title             = "Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing",
+      doi               = "10.1007/s00170-020-06487-0",
+      year              = "2021",
+      journal           = "The International Journal of Advanced Manufacturing Technology",
+      volume            = "112",
+      number            = "7-8",
+      pages             = "2149--2159",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Muñoz, “Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing”, <i>The International Journal of Advanced Manufacturing Technology</i>, vol. 112, no. 7–8, pp. 2149–2159, 2021, doi: 10.1007/s00170-020-06487-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Muñoz, Ivan, Javier Alonso Madrid, Manuel Menendez Muñiz, Maylis Uhart, Joseph Canou, Christoph Martin, Marc Fabritius, et al.. “Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing”. <i>The International Journal of Advanced Manufacturing Technology</i> 112, no. 7-8 (2021): 2149–59. https://doi.org/10.1007/s00170-020-06487-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

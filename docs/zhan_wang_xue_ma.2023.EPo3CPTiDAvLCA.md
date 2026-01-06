@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ruo-Chen Zhang, Li Wang, Xuan Xue, Guowei Ma
+    - footer
+title: Zhang Ruo-Chen, Wang Li, Xue Xuan, Ma Guowei
 description:
 tags:
  - area
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.jclepro.2023.136412" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2023.136412</a>
+#Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment ([2023-02](date/2023/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2023.136412" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2023.136412" target="_blank">10.1016/j.jclepro.2023.136412</a>
 
--------------------------
+<a href="../../../author/zhang_ruo-chen"><b>Zhang</b>&nbsp;Ruo-Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/xue_xuan"><b>Xue</b>&nbsp;Xuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Journal of Cleaner Production
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#area`](keyword/area)
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#environment`](keyword/environment)
-    [`#life`](keyword/life)
-    [`#print`](keyword/print)
-    [`#profile`](keyword/profile)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/area"><button class="btn">#area</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/profile"><button class="btn">#profile</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Environmental%20Profile%20of%203D%20Concrete%20Printing%20Technology%20in%20Desert%20Areas%20via%20Life%20Cycle%20Assessment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148547778&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320484160" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2023.136412" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2023.136412?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) offers a particularly advantageous construction method in harsh environments, such as desert areas that experience shortages of building materials and labor. Evaluating the environmental impacts of 3DCP in remote areas is essential for substantification and thus practical application of this technology. Therefore, life cycle assessment against conventional construction was conducted in this study to determine the environmental profile of 3DCP in desert areas considering different reinforcement methods and aggregates. The comparison results indicate that 3DCP is more sustainable owing to its lower potential for freshwater ecotoxicity, particular matter formation, human toxicity, ozone depletion, and eutrophication. The environmental friendliness of using in-situ desert sand for 3DCP depends on the material delivery distance. Electricity consumption also influences the environmental impact of 3DCP. Although 3DCP is promising as an environmentally friendly construction method for use in remote areas, technological updates and energy supply adjustment and justification remain essential.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -89,8 +66,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
       <li><a href="../../../author/wang_guihua"><b>Wang</b> Guihua</a>, <a href="../../../author/zhou_jiguo"><b>Zhou</b> Jiguo</a>, <a href="../../../author/liu_haoyun"><b>Liu</b> Haoyun</a>, <a href="../../../author/zhang_jianming"><b>Zhang</b> Jianming</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../wang_zhou_liu_zhan.2025.RPaMDo3PCBoLFN/">Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR</a></li>
@@ -111,4 +88,32 @@ tags:
       <li><a href="../../../author/jones_es_kathryn"><b>Jones</b> Kathryn</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../jone_li.2023.LCAoUTWTTCCAMtCM/">Life Cycle Assessment of Ultra-Tall Wind Turbine Towers Comparing Concrete Additive Manufacturing to Conventional Manufacturing</a></li>
       <li><a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../fern_cald_mend.2023.EEo3PCWCtLCPitCoSH/">Environmental Evaluation of 3D Printed Concrete Walls Considering the Life Cycle Perspective in the Context of Social Housing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA,
+      author            = "Ruo-Chen Zhang and Li Wang and Xuan Xue and Guowei Ma",
+      title             = "Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment",
+      doi               = "10.1016/j.jclepro.2023.136412",
+      year              = "2023",
+      journal           = "Journal of Cleaner Production",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R.-C. Zhang, L. Wang, X. Xue and G. Ma, “Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment”, <i>Journal of Cleaner Production</i>, 2023, doi: 10.1016/j.jclepro.2023.136412.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Ruo-Chen, Li Wang, Xuan Xue, and Guowei Ma. “Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment”. <i>Journal of Cleaner Production</i>, 2023. https://doi.org/10.1016/j.jclepro.2023.136412.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

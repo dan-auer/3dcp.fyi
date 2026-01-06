@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anjalee Wijethunge, Don Samarasinghe, An Le, Akvan Gajanayake, Chinthaka Atapattu
+    - footer
+title: Wijethunge Anjalee, Samarasinghe Don, Le An, Gajanayake Akvan, Atapattu Chinthaka
 description:
 tags:
  - challenge
@@ -15,32 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1881&context=cib-conferences) A Systematic Review on Sustainable 3D Concrete Printing:<br/>:aca-blank: Opportunities and Challenges ([2025-06](date/2025/06))
-<a href="https://doi.org/10.7771/3067-4883.1881" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.7771/3067-4883.1881</a>
+#A Systematic Review on Sustainable 3D Concrete Printing&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Opportunities and Challenges</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1881&context=cib-conferences) <a href="https://doi.org/10.7771/3067-4883.1881" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7771/3067-4883.1881" target="_blank">10.7771/3067-4883.1881</a>
 
--------------------------
+<a href="../../../author/wijethunge_anjalee"><b>Wijethunge</b>&nbsp;Anjalee</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b>&nbsp;Don</a></span>, <a href="../../../author/le_an"><b>Le</b>&nbsp;An</a></span>, <a href="../../../author/gajanayake_akvan"><b>Gajanayake</b>&nbsp;Akvan</a></span>, <a href="../../../author/atapattu_chinthaka"><b>Atapattu</b>&nbsp;Chinthaka</a></span><br>
+Journal Article - CIB Conferences, Vol. 1, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wijethunge_anjalee"><b>Wijethunge</b> Anjalee</a>
-,     <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> <a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/le_an"><b>Le</b> An</a>
-,     <a href="../../../author/gajanayake_akvan"><b>Gajanayake</b> Akvan</a>
-,     <a href="../../../author/atapattu_chinthaka"><b>Atapattu</b> Chinthaka</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - CIB Conferences, Vol. 1, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#opportunity`](keyword/opportunity)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Systematic%20Review%20on%20Sustainable%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411471481" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.7771/3067-4883.1881" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.7771/3067-4883.1881?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a systematic literature review of the opportunities and challenges of implementing 3D concrete printing (3DCP) in the construction industry. While 3DCP holds significant potential to improve construction processes by enhancing efficiency, sustainability, and design flexibility, its widespread adoption is hindered by several challenges. A structured review methodology was employed, analysing 58 peer-reviewed articles sourced from SCOPUS and Discovery databases, using the PRISMA guidelines for comprehensive screening and analysis. The findings are categorised using the PESTEL framework (Political, Economic, Social, Technological, Environmental, and Legal), offering a detailed perspective on the factors influencing 3DCP implementation. Key opportunities include improved time efficiency, cost-effectiveness, reduced material waste, and greater design flexibility. Conversely, significant challenges include the absence of standardised technical and legal frameworks, a shortage of skilled labour, high initial investment costs for machinery and materials, and limited available resources. These barriers present significant obstacles to adopting technology within the construction sector. This research highlights gaps in cost considerations, governmental support, and technological advancements. Addressing these gaps through industry collaboration, case studies, improved regulatory frameworks, and continued technological innovation could accelerate the adoption of 3DCP, enabling its integration into construction industry practices and fostering more efficient, sustainable, and innovative building processes. The findings contribute valuable insights for researchers, practitioners, and policymakers seeking new insights to overcome current challenges and maximise the potential of 3DCP technology in the construction sector.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
@@ -90,7 +69,37 @@ tags:
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tami_alqa_khal_alha.2023.Fo3CPPaC/">Framework of 3D Concrete Printing Potential and Challenges</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wije_sama_le_gaja.2025.ASRoS3CP,
+      author            = "Anjalee Wijethunge and Don Amila Sajeevan Samarasinghe and An Le and Akvan Gajanayake and Chinthaka Atapattu",
+      title             = "A Systematic Review on Sustainable 3D Concrete Printing: Opportunities and Challenges",
+      doi               = "10.7771/3067-4883.1881",
+      year              = "2025",
+      journal           = "CIB Conferences",
+      volume            = "1",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Wijethunge, D. A. S. Samarasinghe, A. Le, A. Gajanayake and C. Atapattu, “A Systematic Review on Sustainable 3D Concrete Printing: Opportunities and Challenges”, <i>CIB Conferences</i>, vol. 1, no. 1, 2025, doi: 10.7771/3067-4883.1881.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wijethunge, Anjalee, Don Amila Sajeevan Samarasinghe, An Le, Akvan Gajanayake, and Chinthaka Atapattu. “A Systematic Review on Sustainable 3D Concrete Printing: Opportunities and Challenges”. <i>CIB Conferences</i> 1, no. 1 (2025). https://doi.org/10.7771/3067-4883.1881.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

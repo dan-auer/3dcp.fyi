@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Samad Sepasgozar, Anqi Shi, Liming Yang, Sara Shirowzhan, David Edwards
+    - footer
+title: Sepasgozar Samad, Shi Anqi, Yang Liming, Shirowzhan Sara, Edwards David
 description:
 tags:
  - additive
@@ -15,32 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/10/12/231/pdf) Additive Manufacturing Applications for Industry 4.0:<br/>:aca-blank: A Systematic Critical Review ([2020-12](date/2020/12))
-<a href="https://doi.org/10.3390/buildings10120231" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings10120231</a>
+#Additive Manufacturing Applications for Industry 4.0&nbsp;([2020-12](date/2020/12))
+<div class="h1-like">A Systematic Critical Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/10/12/231/pdf) <a href="https://doi.org/10.3390/buildings10120231" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings10120231" target="_blank">10.3390/buildings10120231</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2568-3111" title="ORCID: 0000-0003-2568-3111" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b>&nbsp;Samad</a></span>, <a href="../../../author/shi_anqi"><b>Shi</b>&nbsp;Anqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0095-5635" title="ORCID: 0000-0003-0095-5635" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_liming"><b>Yang</b>&nbsp;Liming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1511-3617" title="ORCID: 0000-0003-1511-3617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9727-6000" title="ORCID: 0000-0001-9727-6000" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/edwards_j_david"><b>Edwards</b>&nbsp;David</a></span><br>
+Journal Article - Buildings, Vol. 10, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a> <a href="https://orcid.org/0000-0003-2568-3111" title="ORCID: 0000-0003-2568-3111" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>
-,     <a href="../../../author/yang_liming"><b>Yang</b> Liming</a> <a href="https://orcid.org/0000-0003-0095-5635" title="ORCID: 0000-0003-0095-5635" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a> <a href="https://orcid.org/0000-0003-1511-3617" title="ORCID: 0000-0003-1511-3617" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/edwards_j_david"><b>Edwards</b> David</a> <a href="https://orcid.org/0000-0001-9727-6000" title="ORCID: 0000-0001-9727-6000" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 10, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#critical`](keyword/critical)
-    [`#industry`](keyword/industry)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Applications%20for%20Industry%204.0" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097365465&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3111672935" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings10120231" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings10120231?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing, including 3D printing (3DP), is one of the critical pillars of Industry 4.0 and the next construction revolution. Several countries, including China, have utilized 3DP on larger scales or real projects. However, reviews of the lessons learned from previous large-sized practices of 3DP utilization are scarce. This paper presents a few practical applications of implementing 3DP over the past decade and suggests a direction for future research work. Recent publications on 3DP practices are systematically reviewed using an interpretivist philosophical lens, and more specifically, the nozzle characteristics are focused upon. The Scopus and China National Knowledge Infrastructure (CNKI) journal databases are utilized, resulting in the examination of 54 English and 62 Chinese papers. The selected practices from Mainland China, Hong Kong, Taiwan and Macao are considered for this review. A content critical review approach is adopted, and the identified papers are critically reviewed. These papers reported key challenges and advantages from their reported practices, such as limitations in aggregate sizes, nozzle sizes, standards, post-occupancy satisfaction, final product quality, productivity challenges and other associated risks. The paper reports upon prominent limitations and signposts directions for future investigations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -99,8 +78,8 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../yass_hamz_sakk.2020.ABMtOWoRSaC3P/">Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/shi_a"><b>Shi</b> A.</a>, <a href="../../../author/kajandran_v"><b>Kajandran</b> V.</a>, <a href="../../../author/lam_w-m_t"><b>Lam</b> T.</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kua_shi_kaja_lam.2025.TSC3P/">Toward Sustainable Construction 3D Printing:<br/>Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement</a></li>
       <li><a href="../../../author/tian_xin"><b>Tian</b> Xin</a>, <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/fang_zhi"><b>Fang</b> Zhi</a>, <a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tian_shi_fang_lin.2025.MIEoMBi3PCSK/">Multi-Interface Effects on Mechanical Behavior in 3D-Printed Concrete Shear Keys:<br/>A Finite Element Modeling Strategy</a></li>
@@ -125,4 +104,34 @@ tags:
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../garc_moro_band.2021.AEo3PB/">Architectural Evaluation of 3D Printed Buildings</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sepa_shi_yang_shir.2020.AMAfI40,
+      author            = "Samad M. E. Sepasgozar and Anqi Shi and Liming Yang and Sara Shirowzhan and David J. Edwards",
+      title             = "Additive Manufacturing Applications for Industry 4.0: A Systematic Critical Review",
+      doi               = "10.3390/buildings10120231",
+      year              = "2020",
+      journal           = "Buildings",
+      volume            = "10",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. M. E. Sepasgozar, A. Shi, L. Yang, S. Shirowzhan and D. J. Edwards, “Additive Manufacturing Applications for Industry 4.0: A Systematic Critical Review”, <i>Buildings</i>, vol. 10, no. 12, 2020, doi: 10.3390/buildings10120231.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sepasgozar, Samad M. E., Anqi Shi, Liming Yang, Sara Shirowzhan, and David J. Edwards. “Additive Manufacturing Applications for Industry 4.0: A Systematic Critical Review”. <i>Buildings</i> 10, no. 12 (2020). https://doi.org/10.3390/buildings10120231.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

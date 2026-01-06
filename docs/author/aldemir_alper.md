@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Aldemir Alper 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/kulak_yilmaz_adnan"><b>Külak</b> Adnan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ilca_kula_sahi_alde.2025.RaMSf3GSUCaDW/">Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste</a></li>
   <li><a href="../../../author/ozalp_abdulkadir"><b>Özalp</b> Abdulkadir</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../ozal_alde.2025.AIBDCPTfTDPCW/">Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls</a></li>
   <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../kul_koca_alde_yld.2024.3POPAAMDfBMW/">3D Printable One-Part Alkali-Activated Mortar Derived from Brick-Masonry-Wastes</a></li>

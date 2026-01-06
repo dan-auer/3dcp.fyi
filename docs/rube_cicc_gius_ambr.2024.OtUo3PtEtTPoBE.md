@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tullio Rubeis, Annamaria Ciccozzi, Letizia Giusti, Dario Ambrosini
+    - footer
+title: Rubeis Tullio, Ciccozzi Annamaria, Giusti Letizia, Ambrosini Dario
 description:
 tags:
  - buildability
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.110284) On the Use of 3D Printing to Enhance the Thermal Performance of Building Envelope:<br/>:aca-blank: A Review ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.jobe.2024.110284" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110284</a>
+#On the Use of 3D Printing to Enhance the Thermal Performance of Building Envelope&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.110284) <a href="https://doi.org/10.1016/j.jobe.2024.110284" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110284" target="_blank">10.1016/j.jobe.2024.110284</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8536-369X" title="ORCID: 0000-0002-8536-369X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rubeis_tullio"><b>de&nbsp;Rubeis</b>&nbsp;Tullio</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-6447-8019" title="ORCID: 0009-0004-6447-8019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ciccozzi_annamaria"><b>Ciccozzi</b>&nbsp;Annamaria</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-7768-7504" title="ORCID: 0009-0001-7768-7504" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giusti_letizia"><b>Giusti</b>&nbsp;Letizia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8905-0316" title="ORCID: 0000-0002-8905-0316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ambrosini_dario"><b>Ambrosini</b>&nbsp;Dario</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 95, No. 110284
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rubeis_tullio"><b>de Rubeis</b> Tullio</a> <a href="https://orcid.org/0000-0002-8536-369X" title="ORCID: 0000-0002-8536-369X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ciccozzi_annamaria"><b>Ciccozzi</b> Annamaria</a> <a href="https://orcid.org/0009-0004-6447-8019" title="ORCID: 0009-0004-6447-8019" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/giusti_letizia"><b>Giusti</b> Letizia</a> <a href="https://orcid.org/0009-0001-7768-7504" title="ORCID: 0009-0001-7768-7504" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ambrosini_dario"><b>Ambrosini</b> Dario</a> <a href="https://orcid.org/0000-0002-8905-0316" title="ORCID: 0000-0002-8905-0316" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 95, No. 110284
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#enhancement`](keyword/enhancement)
-    [`#envelope`](keyword/envelope)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#temperature`](keyword/temperature)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=On%20the%20Use%20of%203D%20Printing%20to%20Enhance%20the%20Thermal%20Performance%20of%20Building%20Envelope" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199520526&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401016508" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110284" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110284?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is constantly evolving, enabling new innovative manufacturing applications. Extensive research in biomimetics underscores the significant impact of geometric configurations on the thermal performance of building envelopes. However, a comprehensive literature review on the thermal efficacy of 3D printed building components remains unexplored. This study, after offering an overview of 3D printing, its development and its application in the construction sector, focuses on its potential in terms of thermal optimization of the building envelope, through the use of complex shapes and cutting-edge materials. The review ends with the examination of the recent challenges faced by 3D printing and the perspectives for its future development, opening the doors to various research opportunities. Overall, 696 publications from 2006 to 2024 were selected, and 160 of them were deemed suitable. Four databases were used for literature searches: Science Direct, Scopus, Springer Link, Google Scholar. The main findings highlighted that while 3D printing holds promise for enhancing thermal performance in the building industry, it has yet to reach its full potential. The review revealed a variety of approaches pursued to optimize the thermal performance of 3D printed building components, including topology, material selection, and sustainability considerations. Among the examined thermophysical properties, the lowest recorded thermal conductivity, 0.04 W/mK, was achieved using wheat straw-based composite materials. Similarly, the minimum thermal transmittance value for a 3D printed wall was found to be 0.15 W/m2K.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "83 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
@@ -151,8 +130,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/kim_ki_young"><b>Kim</b> Young</a>, <a href="../../../author/scoppa_martin"><b>Scoppa</b> Martin</a>, <a href="../../../author/haddad_madhar"><b>Haddad</b> Madhar</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_scop_hadd.2025.AIitRo3PiRB/">An Investigation into the Role of 3D Printing in Residential Buildings:<br/>An Emirati Housing Case Study</a></li>
@@ -164,4 +143,34 @@ tags:
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../arau_mart_cabr_nune.2025.EoLECALOtPoCCf3P/">Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rube_cicc_gius_ambr.2024.OtUo3PtEtTPoBE,
+      author            = "Tullio de Rubeis and Annamaria Ciccozzi and Letizia Giusti and Dario Ambrosini",
+      title             = "On the Use of 3D Printing to Enhance the Thermal Performance of Building Envelope: A Review",
+      doi               = "10.1016/j.jobe.2024.110284",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "95",
+      pages             = "110284",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. de Rubeis, A. Ciccozzi, L. Giusti and D. Ambrosini, “On the Use of 3D Printing to Enhance the Thermal Performance of Building Envelope: A Review”, <i>Journal of Building Engineering</i>, vol. 95, p. 110284, 2024, doi: 10.1016/j.jobe.2024.110284.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rubeis, Tullio de, Annamaria Ciccozzi, Letizia Giusti, and Dario Ambrosini. “On the Use of 3D Printing to Enhance the Thermal Performance of Building Envelope: A Review”. <i>Journal of Building Engineering</i> 95 (2024): 110284. https://doi.org/10.1016/j.jobe.2024.110284.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

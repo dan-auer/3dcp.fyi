@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeşim Tarhan, Remzi Şahin
+    - footer
+title: Tarhan Yeşim, Şahin Remzi
 description:
 tags:
  - air
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Physicomechanical Behavior and Microstructure of Air-Entrained 3D Printable Concrete ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1061/jmcee7.mteng-16224" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jmcee7.mteng-16224</a>
+#The Physicomechanical Behavior and Microstructure of Air-Entrained 3D Printable Concrete ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-16224" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-16224" target="_blank">10.1061/jmcee7.mteng-16224</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5400-7732" title="ORCID: 0000-0001-5400-7732" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_remzi"><b>Şahin</b>&nbsp;Remzi</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 36, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="https://orcid.org/0000-0001-5400-7732" title="ORCID: 0000-0001-5400-7732" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 36, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#entrainment`](keyword/entrainment)
-    [`#micro`](keyword/micro)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Physicomechanical%20Behavior%20and%20Microstructure%20of%20Air-Entrained%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175074969&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387760482" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jmcee7.mteng-16224" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jmcee7.mteng-16224?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The effects of air-entraining admixture (AEA), curing process, and core direction were studied as parameters in terms of their effect on the physicomechanical properties of 3D printed concrete. Four different AEA dosages (0%, 0.1%, 0.15%, and 0.2% by dosage of binder) were used to prepare the mixtures used for 3D printing. The influence of anisotropy on the printed concrete was studied by testing the cores drilled from the horizontal and vertical directions of the 3D concretes. The study also examines the efficiency of a specific spray-deposited chemical curing technique for improving the strength characteristics of3D concrete. The addition ofAEA reduced the unit weight significantly, thereby making the concrete ideal for lightweight structural members. Ultrasonic pulse velocity (UPV) testing on 3D printed samples showed that voids and air entrainment during the deposition process reduced the wave velocities. The ultrasonic wave velocity of cores drilled parallel to the printing direction was found to be slightly higher than cores perpendicular to the printing direction. However, the observation from the nondestructive tests did not agree with the compressive strength studies. The compressive strength of the cores drilled perpendicular to the direction of printing was higher than those drilled parallel, which can be due to the layers formed in the concrete during the filament deposition process. The 3D printing process reduced the compressive strength and induced anisotropy. The compressive strengths were reduced with air entrainment in the sample that was not 3D-printed. However, in the 3D-printed samples, 0.1% of AEA increased the vertical and horizontal strength compared to the samples without AEA. AEA in small quantities was found to be capable of improving the rheology of the mix and reducing the possible defects during the printing process, which resulted in better interlayer bonding. The durability aspect of air entrainment was studied using capillary water absorption, and it was found that the capillary water absorption increased with the addition of AEA. Microstructural studies using the Brunauer–Emmett–Teller (BET), Mercury Intrusion Porosimetry (MIP) and Scanning Electron Microscopy (SEM) on the 3D concrete revealed that the volume and size of the pores in the hardened matrix increased with the addition of AEA. The mechanical and durability studies showed that the optimal percentage of AEA is 0.1%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/eugenin_claudia"><b>Eugenin</b> Claudia</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a>, <a href="../../../author/brevis_wernher"><b>Brevis</b> Wernher</a>, <a href="../../../author/lopez_mauricio"><b>Lopez</b> Mauricio</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../euge_nava_brev_lope.2022.ABaaAfPC/">Air-Bubbles as an Admixture for Printable Concrete:<br/>A Review of the Rheological Effect of Entrained Air</a></li>
@@ -90,8 +72,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xiao_chen_ding_zou.2022.BBoSCR3PCitDPttI/">Bending Behavior of Steel-Cable-Reinforced 3D Printed Concrete in the Direction Perpendicular to the Interfaces</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chou_pal_kapo.2025.IoPDaIPTotBCaHMPoAIWB3PC/">Influence of Printing Direction and Interlayer Printing Time on the Bond Characteristics and Hardened Mechanical Properties of Agro-Industrial Waste-Based 3D Printed Concrete</a></li>
@@ -99,4 +81,34 @@ tags:
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_sahi.2024.TIoAEoFEi3PC/">The Impact of Air-Entraining on Frost-Endurance in 3D Printed Concrete:<br/>The Function of Printing Orientation and Curing Process</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tarh_tarh_jacq_perr.2024.MBo3PaTREFC/">Mechanical Behavior of 3D Printed and Textile-Reinforced Eco-Friendly Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tarh_sahi.2024.TPBaMoAE3PC,
+      author            = "Yeşim Tarhan and Remzi Şahin",
+      title             = "The Physicomechanical Behavior and Microstructure of Air-Entrained 3D Printable Concrete",
+      doi               = "10.1061/jmcee7.mteng-16224",
+      year              = "2024",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "36",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tarhan  and R. Şahin, “The Physicomechanical Behavior and Microstructure of Air-Entrained 3D Printable Concrete”, <i>Journal of Materials in Civil Engineering</i>, vol. 36, no. 1, 2024, doi: 10.1061/jmcee7.mteng-16224.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tarhan, Yeşim, and Remzi Şahin. “The Physicomechanical Behavior and Microstructure of Air-Entrained 3D Printable Concrete”. <i>Journal of Materials in Civil Engineering</i> 36, no. 1 (2024). https://doi.org/10.1061/jmcee7.mteng-16224.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

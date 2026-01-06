@@ -8,7 +8,7 @@ search:
 
 # #head
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mira_lesa_schu_rous.2025.CPTLP/">Concrete Printing Through Lace Pressing:<br/>Head, Shoulders, Knees and Toes</a></li>
   <li><a href="../../../author/wu_changzhong"><b>Wu</b> Changzhong</a>, <a href="../../../author/lu_yuanyuan"><b>Lu</b> Yuanyuan</a>, <a href="../../../author/tian_jiaxin"><b>Tian</b> Jiaxin</a>, <a href="../../../author/zhu_xingyu"><b>Zhu</b> Xingyu</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wu_lu_tian_zhu.2025.Ro3PSoCBoRAaSDoSH/">Research on 3D Printed Section of Concrete Based on Robot Arm and Structural Design of Sprinkler Head</a></li>
   <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../rama_pasu_mech_sanj.2024.TPPHMoHAACfBEi3CP/">Two-Part Print-Head Mixing of Hybrid Alkali-Activated Cement for Buildability Enhancement in 3D Concrete Printing</a></li>

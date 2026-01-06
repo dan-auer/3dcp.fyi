@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Khan Shoukat 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yous_khan_koc.2025.MPaDOoLESRwNFWaNf3oFS/">Material, Process, and Design Optimization of Local Earthen Soil Reinforced with Natural Fiber Waste and Nanoclay for 3DP of Functional Structures</a></li>
   <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../khan_koc.2024.AiAMSM/">Advancements in Additively Manufactured Safety Materials:<br/>Energy-Efficient 3D Printing Solutions for Critical Infrastructure</a></li>
   <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../khan_ilca_imra_amin.2024.TIoNDaPSoGB3PCS/">The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures:<br/>Numerical Modeling and Experimental Validation</a></li>

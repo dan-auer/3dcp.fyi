@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhengrong Li, Wenjing Xing, Jingting Sun, Xiwen Feng
+    - footer
+title: Li Zhengrong, Xing Wenjing, Sun Jingting, Feng Xiwen
 description:
 tags:
  - buildability
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls:<br/>:aca-blank: A Review ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.130102" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.130102</a>
+#Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls&nbsp;([2022-12](date/2022/12))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.130102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.130102" target="_blank">10.1016/j.conbuildmat.2022.130102</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8676-667X" title="ORCID: 0000-0001-8676-667X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhengrong"><b>Li</b>&nbsp;Zhengrong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6942-8310" title="ORCID: 0000-0001-6942-8310" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xing_wenjing"><b>Xing</b>&nbsp;Wenjing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2161-8216" title="ORCID: 0000-0003-2161-8216" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_jingting"><b>Sun</b>&nbsp;Jingting</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2116-2303" title="ORCID: 0000-0002-2116-2303" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_xiwen"><b>Feng</b>&nbsp;Xiwen</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 365
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="https://orcid.org/0000-0001-8676-667X" title="ORCID: 0000-0001-8676-667X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> <a href="https://orcid.org/0000-0001-6942-8310" title="ORCID: 0000-0001-6942-8310" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="https://orcid.org/0000-0003-2161-8216" title="ORCID: 0000-0003-2161-8216" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="https://orcid.org/0000-0002-2116-2303" title="ORCID: 0000-0002-2116-2303" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 365, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#characteristic`](keyword/characteristic)
-    [`#heat`](keyword/heat)
-    [`#moist`](keyword/moist)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#scale`](keyword/scale)
-    [`#structure`](keyword/structure)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/moist"><button class="btn">#moist</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multi-Scale%20Structural%20Characteristics%20and%20Heat-Moisture%20Properties%20of%203D%20Printed%20Building%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145657030&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4312159842" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.130102" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.130102?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As 3D printed buildings are a relatively novel form of architecture, it is essential to evaluate their performance throughout their lifecycle to promote sustainable development. The heat and moisture properties of the building envelope impact the building’s energy consumption and indoor environment, which is one of the challenges for 3D printed buildings in achieving their sustainability objectives. Owing to the unique microstructural and macrostructural characteristics of 3D printed building walls, the heat and moisture transport process becomes complicated and must be re-evaluated. This study focuses on the coupling effect of multiscale structural characteristics and the heat–moisture properties of 3D printed buildings and summarizes the current research status and deficiencies in these two aspects. Anisotropic thermal conductivity and water absorption via the interlayer have piqued the interest of scholars, and structural design has contributed to much progress in optimizing the properties of 3D printed building walls. However, with most of the research focusing on either structural characteristics or the heat or moisture transfer properties of 3D printed buildings, there is not enough research on the coupling relationship between the two. Advancements in material science and manufacturing processes have made it possible for 3D printed buildings to attain well-matched structures and properties. Therefore, this study proposes a research framework for eliminating structural and property defects, and further incorporating the environmental benefits at the performance design stage, under the belief that it will advance the development of sustainable 3D printed buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "94 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -168,8 +144,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
@@ -177,11 +153,40 @@ tags:
       <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bajw_sama_flem_bao.2025.ASLRotTBoBECT3CP3/">A Systematic Literature Review on the Thermal Behaviour of Building Elements Constructed Through 3D Concrete Printing (3DCP)</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shukla_yash"><b>Shukla</b> Yash</a>, <a href="../../../author/rawal_rajan"><b>Rawal</b> Rajan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../dey_pand_shuk_rawa.2025.ACAoTPo3PCLW/">A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls</a></li>
       <li><a href="../../../author/suphunsaeng_kantawich"><b>Suphunsaeng</b> Kantawich</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pethrung_sirichai"><b>Pethrung</b> Sirichai</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../suph_pras_peth_pans.2025.FPEo3PCW/">Fire Performance Evaluation of 3D-Printed Concrete Walls:<br/>A Combined Full-Scale and Numerical Modeling Approach</a></li>
-      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
+      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/wang_heyu"><b>Wang</b> Heyu</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../li_xing_wang_sun.2024.TEoHGoSSHTiEB3PS/">The Effect of Heterogeneous Geometry on Steady-State Heat Transfer in Extrusion-Based 3D Printed Structures</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sove_cala.2024.IoPPotTPo3PCS/">Influence of Printing Parameters on the Thermal Properties of 3D Printed Construction Structures</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../li_xing_sun_feng.2024.TNMfAHTi3PCGS/">Thermal Network Model for Anisotropic Heat Transfer in 3D Printed Complex Geometry Structures</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_xing_sun_feng.2023.MSSCaHMPo3PBW,
+      author            = "Zhengrong Li and Wenjing Xing and Jingting Sun and Xiwen Feng",
+      title             = "Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls: A Review",
+      doi               = "10.1016/j.conbuildmat.2022.130102",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "365",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Li, W. Xing, J. Sun and X. Feng, “Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls: A Review”, <i>Construction and Building Materials</i>, vol. 365, 2023, doi: 10.1016/j.conbuildmat.2022.130102.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Zhengrong, Wenjing Xing, Jingting Sun, and Xiwen Feng. “Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls: A Review”. <i>Construction and Building Materials</i> 365 (2023). https://doi.org/10.1016/j.conbuildmat.2022.130102.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #milling
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
   <li><a href="../../../author/kinski_wojciech"><b>Kiński</b> Wojciech</a>, <a href="../../../author/siwicki_przemyslaw"><b>Siwicki</b> Przemysław</a>, <a href="../../../author/zielinski_jacek"><b>Zieliński</b> Jacek</a>, <a href="../../../author/smater_michal"><b>Smater</b> Michał</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kins_siwi_ziel_smat.2026.AoaLSMPMMf3PfC/">Adaptation of a Large-Scale, Modular Printer-Milling Machine for 3D Printing from Concrete</a></li>
   <li><a href="../../../author/hagle_marius"><b>Hägle</b> Marius</a>, <a href="../../../author/stohr_ben"><b>Stöhr</b> Ben</a>, <a href="../../../author/stark_alexander"><b>Stark</b> Alexander</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../hagl_stoh_star.2025.ItAoCSTRM/">Increasing the Accuracy of Concrete Surfaces Through Robotic Milling</a></li>

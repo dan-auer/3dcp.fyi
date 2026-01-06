@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kailun Chen, Qiong Liu, Bing Chen, Shishun Zhang, Liberato Ferrara, Wengui Li
+    - footer
+title: Chen Kailun, Liu Qiong, Chen Bing, Zhang Shishun, Ferrara Liberato, Li Wengui
 description:
 tags:
  - construction
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.108501) A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.jobe.2024.108501" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.108501</a>
+#A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.108501) <a href="https://doi.org/10.1016/j.jobe.2024.108501" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108501" target="_blank">10.1016/j.jobe.2024.108501</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6448-2721" title="ORCID: 0000-0001-6448-2721" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_kailun"><b>Chen</b>&nbsp;Kailun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_qiong"><b>Liu</b>&nbsp;Qiong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2862-3392" title="ORCID: 0000-0003-2862-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_bing"><b>Chen</b>&nbsp;Bing</a></span>, <a href="../../../author/zhang_shishun"><b>Zhang</b>&nbsp;Shishun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4651-1215" title="ORCID: 0000-0002-4651-1215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_wengui"><b>Li</b>&nbsp;Wengui</a></span><br>
+Journal Article - Journal of Building Engineering, No. 108501
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> <a href="https://orcid.org/0000-0001-6448-2721" title="ORCID: 0000-0001-6448-2721" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_bing"><b>Chen</b> Bing</a> <a href="https://orcid.org/0000-0003-2862-3392" title="ORCID: 0000-0003-2862-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a>
-,     <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_wengui"><b>Li</b> Wengui</a> <a href="https://orcid.org/0000-0002-4651-1215" title="ORCID: 0000-0002-4651-1215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 108501
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#effect`](keyword/effect)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#raw`](keyword/raw)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/raw"><button class="btn">#raw</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20on%20Effect%20of%20Raw%20Materials%20on%20the%20Performance%20of%203D%20Printed%20Geopolymer%20System%20for%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182892502&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390700870" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.108501" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.108501?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Traditional building materials such as cement products release a large amount of carbon dioxide during their preparation and usage, which has a negative impact on the environment. On the other hand, 3D printing with geopolymer materials adopts renewable and low-carbon emission raw materials. It also possesses characteristics such as energy efficiency and resource-efficient utilization, which help to reduce carbon emissions and improve sustainability. Therefore, the development of them is of great significance. This paper comprehensively reviews the 3D printing of geopolymer systems, the impact of raw materials on processability, including flowability and thixotropy, and microstructure. The paper also conducts in-depth research on sustainability and environmental impact. The evaluation shows that the initial content of silicon, aluminium, and calcium in the silicate raw material plays an important role in the gel structure and microstructural development of the geopolymer. Aluminium can promote reaction rate, increase reaction degree, and product formation. Silicon helps improve the strength of the geopolymer and enhance its mechanical properties. Calcium facilitates the formation and stability of the three-dimensional network structure, further improving material strength and stability. Furthermore, the reactivity of raw materials is also a key factor affecting interlayer bonding and interface mechanical properties. Finally, considering sustainability, the selection of raw materials is crucial in reducing carbon emissions, energy consumption, and costs. Compared to cement, 3D printing with geopolymer materials has lower carbon emissions, energy consumption, and costs, thus which is considered as a sustainable material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -116,8 +91,8 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
@@ -144,4 +119,33 @@ tags:
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jaji_zijl_baba.2024.DaPSoMB3PGC/">Durability and Pore-Structure of Metakaolin-Based 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>, <a href="../../../author/li_wengui"><b>Li</b> Wengui</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wang_li_guo_kash.2024.C3PTiSC/">Concrete 3D Printing Technology in Sustainable Construction:<br/>A Review on Raw Materials, Concrete Types and Performances</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC,
+      author            = "Kailun Chen and Qiong Liu and Bing Chen and Shishun Zhang and Liberato Ferrara and Wengui Li",
+      title             = "A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction",
+      doi               = "10.1016/j.jobe.2024.108501",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "108501",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Chen, Q. Liu, B. Chen, S. Zhang, L. Ferrara and W. Li, “A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction”, <i>Journal of Building Engineering</i>, p. 108501, 2024, doi: 10.1016/j.jobe.2024.108501.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Kailun, Qiong Liu, Bing Chen, Shishun Zhang, Liberato Ferrara, and Wengui Li. “A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction”. <i>Journal of Building Engineering</i>, 2024, 108501. https://doi.org/10.1016/j.jobe.2024.108501.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dong An, Yixia Zhang, Chunhui Yang
+    - footer
+title: An Dong, Zhang Yixia, Yang Chunhui
 description:
 tags:
  - aggregate
@@ -22,37 +23,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2351154?needAccess=true) Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>:aca-blank: A Review ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1080/17452759.2024.2351154" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2351154</a>
+#Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2351154?needAccess=true) <a href="https://doi.org/10.1080/17452759.2024.2351154" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2351154" target="_blank">10.1080/17452759.2024.2351154</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_dong"><b>An</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1912-8277" title="ORCID: 0000-0003-1912-8277" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_x_yixia"><b>Zhang</b>&nbsp;Yixia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5598-958X" title="ORCID: 0000-0001-5598-958X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_richard_chunhui"><b>Yang</b>&nbsp;Chunhui</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/an_dong"><b>An</b> Dong</a> <a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a> <a href="https://orcid.org/0000-0003-1912-8277" title="ORCID: 0000-0003-1912-8277" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="https://orcid.org/0000-0001-5598-958X" title="ORCID: 0000-0001-5598-958X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#application`](keyword/application)
-    [`#behavior`](keyword/behavior)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#design`](keyword/design)
-    [`#incorporation`](keyword/incorporation)
-    [`#mixture`](keyword/mixture)
-    [`#practice`](keyword/practice)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#review`](keyword/review)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Incorporating%20Coarse%20Aggregates%20into%203D%20Concrete%20Printing%20from%20Mixture%20Design%20and%20Process-Control%20to%20Structural%20Behavior%20and%20Practical%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193301094&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396920194" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2351154" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2351154?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) is progressing from lab pilots to large-scale manufacturing, encountering limitations with conventional printable material – cement mortar. Coarse aggregate concrete (CAC) emerges as a promising alternative due to its superior material properties, cost-effectiveness, and sustainability, attracting considerable interest in academia and industry. This paper explores the integration of CAC into 3DCP, focusing on three critical aspects: mixture design of 3D printable concrete, innovative methods of 3D printing process, and structural behaviours of 3D printed concrete specimens, structural members and systems. It elucidates the relationships among mixture composition, processing parameters, early-age material properties, and printability requirements. Furthermore, particle-bed 3D printing technology for CAC is discussed, highlighting advantages and challenges compared to extrusion methods. Ultimately, this review provides valuable insights into the technical challenges and prospects of 3D printing coarse aggregate concrete (3DPCAC) technology, aiming to foster advancements in research and construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "89 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
@@ -168,8 +142,9 @@ tags:
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../paul_lee_tay_lim.2026.UtSPo3CPwLAaSCC/">Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/rusin-zurek_karina"><b>Rusin-Żurek</b> Karina</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_rusi_hage.2025.RMaLIAtMf3CP/">Recycled Materials and Lightweight Insulating Additions to Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
@@ -181,4 +156,34 @@ tags:
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/quan_hongzhu"><b>Quan</b> Hongzhu</a>, <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../chen_zhan_quan_liu.2024.EATDMPo3PCwCA/">Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a>, <a href="../../../author/mwongo_mwiti"><b>Mwongo</b> Mwiti</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../vill_mwon_baba_zijl.2024.QRCaDWfUi3PC/">Quantifying Recycled Construction and Demolition Waste for Use in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA,
+      author            = "Dong An and Yixia X. Zhang and Chunhui Richard Yang",
+      title             = "Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications: A Review",
+      doi               = "10.1080/17452759.2024.2351154",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. An, Y. X. Zhang and C. R. Yang, “Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications: A Review”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2351154.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">An, Dong, Yixia X. Zhang, and Chunhui Richard Yang. “Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications: A Review”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2351154.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

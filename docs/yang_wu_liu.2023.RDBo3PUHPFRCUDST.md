@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yekai Yang, Chengqing Wu, Zhongxian Liu
+    - footer
+title: Yang Yekai, Wu Chengqing, Liu Zhongxian
 description:
 tags:
  - behavior
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rate-Dependent Behavior of 3D Printed Ultra-High-Performance Fiber-Reinforced Concrete Under Dynamic Splitting Tensile ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/j.compstruct.2023.116727" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compstruct.2023.116727</a>
+#Rate-Dependent Behavior of 3D Printed Ultra-High-Performance Fiber-Reinforced Concrete Under Dynamic Splitting Tensile ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compstruct.2023.116727" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2023.116727" target="_blank">10.1016/j.compstruct.2023.116727</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_yekai"><b>Yang</b>&nbsp;Yekai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span><br>
+Journal Article - Composite Structures
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a> <a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> <a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composite Structures, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#dependency`](keyword/dependency)
-    [`#dynamic`](keyword/dynamic)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#rate`](keyword/rate)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#split`](keyword/split)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/split"><button class="btn">#split</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rate-Dependent%20Behavior%20of%203D%20Printed%20Ultra-High-Performance%20Fiber-Reinforced%20Concrete%20Under%20Dynamic%20Splitting%20Tensile" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147546839&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4317666334" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compstruct.2023.116727" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compstruct.2023.116727?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the development of additive manufacturing, attention to 3D printing concrete construction technology has been paid. Dynamic performance is one of the important material properties of concrete. However, the rate dependent behaviour of 3D printed concrete under dynamic tension has not been explored. In this study, the dynamic splitting tensile test of the 3D printed ultra-high performance fibre reinforced concrete (3DP-UHPFRC) was performed. The dynamic splitting tensile behaviour of 3DP-UHPFRC was analysed by varying the preparation method, with or without fibre, fibre length, impact velocity and tensile direction, and the anisotropic characteristics of 3DP-UHPFRC were evaluated. The test results revealed that the failure mode of 3DP-UHPFRC exhibited ductility in the X-direction and experienced brittleness in the Y- and Z-directions. When the strain rates are the same (12 s−1), the peak stress of 3D printing specimen with 6-mm steel fibre in the X-direction is 49.038% higher than that of 3D printing specimen without steel fibre in the X-direction, while 3D printing specimen with 6-mm steel fibre in the Y-direction is only 2.350% higher than that of 3D printing specimen without steel fibre in the Y-direction. The dynamic increase factor (DIFst) of tensile strength of the 3D printed ultra-high performance concrete (3DP-UHPC) without steel fibre demonstrated insignificant anisotropy, while DIFst for 3DP-UHPFRC in the X-direction was remarkably lower than that in the Y- and Z-directions. Moreover, a dynamic tensile orthotropic constitutive model was preliminarily proposed for further study.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_zhan_pang_wang.2022.SFODaEo3PCwCA/">Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../demo_duco_mesn_caro.2021.FBPoCFfCBCMaAM/">Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing:<br/>Rheological and Technological Requirements</a></li>
       <li><a href="../../../author/liu_chenkang"><b>Liu</b> Chenkang</a>, <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>, <a href="../../../author/zhou_cong"><b>Zhou</b> Cong</a>, <a href="../../../author/sun_honglei"><b>Sun</b> Honglei</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../liu_yue_zhou_sun.2021.AMPoEB3PLC/">Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete</a></li>
@@ -85,8 +60,8 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liao_gero_wang_chen.2025.DoEECiaOCMfH3PC/">Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete</a></li>
@@ -109,4 +84,32 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/lu_pengyuan"><b>Lu</b> Pengyuan</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/dong_liang"><b>Dong</b> Liang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yang_lu_liu_dong.2024.EoSFwDOoMPo3PSFRC/">Effect of Steel-Fiber with Different Orientations on Mechanical Properties of 3D Printed Steel-Fiber-Reinforced Concrete:<br/>Meso-Scale Finite-Element-Analysis</a></li>
       <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_wu_liu.2023.RDBo3PUHPFRCUDST,
+      author            = "Yekai Yang and Chengqing Wu and Zhongxian Liu",
+      title             = "Rate-Dependent Behavior of 3D Printed Ultra-High-Performance Fiber-Reinforced Concrete Under Dynamic Splitting Tensile",
+      doi               = "10.1016/j.compstruct.2023.116727",
+      year              = "2023",
+      journal           = "Composite Structures",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yang, C. Wu and Z. Liu, “Rate-Dependent Behavior of 3D Printed Ultra-High-Performance Fiber-Reinforced Concrete Under Dynamic Splitting Tensile”, <i>Composite Structures</i>, 2023, doi: 10.1016/j.compstruct.2023.116727.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Yekai, Chengqing Wu, and Zhongxian Liu. “Rate-Dependent Behavior of 3D Printed Ultra-High-Performance Fiber-Reinforced Concrete Under Dynamic Splitting Tensile”. <i>Composite Structures</i>, 2023. https://doi.org/10.1016/j.compstruct.2023.116727.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

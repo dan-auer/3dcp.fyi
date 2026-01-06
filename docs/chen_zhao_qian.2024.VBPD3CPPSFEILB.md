@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Baixi Chen, Xueqi Zhao, Xiaoping Qian
+    - footer
+title: Chen Baixi, Zhao Xueqi, Qian Xiaoping
 description:
 tags:
  - base
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.autcon.2024.105776" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105776</a>
+#Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105776" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105776" target="_blank">10.1016/j.autcon.2024.105776</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9503-2851" title="ORCID: 0000-0002-9503-2851" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_baixi"><b>Chen</b>&nbsp;Baixi</a></span>, <a href="../../../author/zhao_xueqi"><b>Zhao</b>&nbsp;Xueqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9159-9877" title="ORCID: 0000-0002-9159-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_xiaoping"><b>Qian</b>&nbsp;Xiaoping</a></span><br>
+Journal Article - Automation in Construction, Vol. 168, No. 105776
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> <a href="https://orcid.org/0000-0002-9503-2851" title="ORCID: 0000-0002-9503-2851" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_xueqi"><b>Zhao</b> Xueqi</a>
-,     <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="https://orcid.org/0000-0002-9159-9877" title="ORCID: 0000-0002-9159-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 168, No. 105776
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#embedded`](keyword/embedded)
-    [`#framework`](keyword/framework)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Voxel-Based%20Path-Driven%203D%20Concrete%20Printing%20Process%20Simulation%20Framework%20Embedding%20Inter-Layer%20Behavior" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204088115&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402619267" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105776" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105776?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper introduces a numerical framework to model the 3D concrete printing process, considering critical factors, particularly the print path and interlayer interactions. Within this framework, a finite element model is automatically generated for an arbitrary 3D-printed object. This is achieved by voxelizing the bounding space, incorporating a zero-thickness interlayer cohesive zone, and pinpointing the active elements. Additionally, a print path-driven element segment algorithm is developed, allowing for sequential element placement in alignment with the print path during simulation, thereby mirroring the actual printing process. The model efficacy is demonstrated through two benchmarks, focusing on elastic buckling and plastic failure, where it agrees with existing experimental and numerical data. Using this validated model, the impacts of various printing parameters, such as print width, speed, path, and interlayer behaviors are explored, and an integrated toolbox for both educational and academic purposes is created. This toolbox is available at https://github.com/Baixi-Ch en/3DCPProcessSimulaion.git.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
@@ -103,12 +79,42 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../ye_zhua_teng_yu.2024.CEAo3CPwECC/">Comparative Environmental-Assessment of 3D Concrete Printing with Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reznik_petro"><b>Reznik</b> Petro</a>, <a href="../../../author/volodymyrov_anton"><b>Volodymyrov</b> Anton</a>, <a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a>, <a href="../../../author/firsov_pavlo"><b>Firsov</b> Pavlo</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../rezn_volo_tene_firs.2026.NAo3PPFiMSBC/">Numerical Analysis of 3D-Printed Permanent Formwork in Multi-Story Building Construction</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
       <li><a href="../../../author/garces_gonzalo"><b>Garcés</b> Gonzalo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../garc_garc_buns_muno.2025.AC40/">Additive Construction 4.0:<br/>A Systematic Review of 3D Concrete Printing for Construction 4.0</a></li>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhao_qian.2024.VBPD3CPPSFEILB,
+      author            = "Baixi Chen and Xueqi Zhao and Xiaoping Qian",
+      title             = "Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior",
+      doi               = "10.1016/j.autcon.2024.105776",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "168",
+      pages             = "105776",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Chen, X. Zhao and X. Qian, “Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior”, <i>Automation in Construction</i>, vol. 168, p. 105776, 2024, doi: 10.1016/j.autcon.2024.105776.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Baixi, Xueqi Zhao, and Xiaoping Qian. “Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior”. <i>Automation in Construction</i> 168 (2024): 105776. https://doi.org/10.1016/j.autcon.2024.105776.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

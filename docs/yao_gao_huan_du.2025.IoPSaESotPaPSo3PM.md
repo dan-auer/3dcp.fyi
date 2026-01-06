@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Weijing Yao, Yangyunzhi Gao, Xin Huang, Hongjian Du
+    - footer
+title: Yao Weijing, Gao Yangyunzhi, Huang Xin, Du Hongjian
 description:
 tags:
  - extrusion
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143157" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143157</a>
+#Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143157" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143157" target="_blank">10.1016/j.conbuildmat.2025.143157</a>
 
--------------------------
+<a href="../../../author/yao_weijing"><b>Yao</b>&nbsp;Weijing</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7059-5351" title="ORCID: 0000-0001-7059-5351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_yangyunzhi"><b>Gao</b>&nbsp;Yangyunzhi</a></span>, <a href="../../../author/huang_xin"><b>Huang</b>&nbsp;Xin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 493, No. 143157
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yao_weijing"><b>Yao</b> Weijing</a>
-,     <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a> <a href="https://orcid.org/0000-0001-7059-5351" title="ORCID: 0000-0001-7059-5351" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_xin"><b>Huang</b> Xin</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 493, No. 143157
-
-:aca-blank:{ .lg .middle}
-    [`#extrusion`](keyword/extrusion)
-    [`#influence`](keyword/influence)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#speed`](keyword/speed)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/speed"><button class="btn">#speed</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Printing%20Speed%20and%20Extrusion%20Speed%20on%20the%20Performance%20and%20Pore%20Structures%20of%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013505875&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413422289" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143157" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143157?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the influence of printing speed and extrusion speed on the early-age properties (green strength and 24-h shrinkage), mechanical strength (flexure strength, compressive strength, and bond strength), chloride penetration resistance, and pore structure of 3D-printed mortar. Single-factor experiments determined optimal parameters, with a printing speed of 50–75 mm/s and an extrusion speed of 0.25–0.35 r/s identified as optimal. The study also analyzed the effects of parameter variations. As the printing speed increases, the printing material transitions from overlapping to a wavy pattern, decreasing strength, particularly when the speed exceeds 75 mm/s. Conversely, an increase in extrusion speed enlarges the printed material's width and height, enhancing strength. The pore characteristics of typical specimens were analyzed by CT scanning. To evaluate printing quality, the unit length extrusion mass D was introduced. When D reaches within an appropriate range (≥75 g/cm), the material's internal structure becomes denser, and the printed specimen achieves optimal width and height. Consequently, the material exhibits superior strength, reduced 24-h shrinkage, and improved resistance to chloride penetration.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
@@ -96,8 +74,38 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yao_gao_huan_du.2025.IoPSaESotPaPSo3PM,
+      author            = "Weijing Yao and Yangyunzhi Gao and Xin Huang and Hongjian Du",
+      title             = "Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar",
+      doi               = "10.1016/j.conbuildmat.2025.143157",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "493",
+      pages             = "143157",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Yao, Y. Gao, X. Huang and H. Du, “Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar”, <i>Construction and Building Materials</i>, vol. 493, p. 143157, 2025, doi: 10.1016/j.conbuildmat.2025.143157.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yao, Weijing, Yangyunzhi Gao, Xin Huang, and Hongjian Du. “Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar”. <i>Construction and Building Materials</i> 493 (2025): 143157. https://doi.org/10.1016/j.conbuildmat.2025.143157.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

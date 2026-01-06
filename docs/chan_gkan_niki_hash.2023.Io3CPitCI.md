@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ravekumar Chandrasekar, Michaela Gkantou, Georgios Nikitas, Khalid Hashim, Hampannaver Pradeep, Arun Ahuja
+    - footer
+title: Chandrasekar Ravekumar, Gkantou Michaela, Nikitas Georgios, Hashim Khalid, Pradeep Hampannaver, Ahuja Arun
 description:
 tags:
  - concrete
@@ -15,33 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://researchonline.ljmu.ac.uk/id/eprint/18006/1/Upload%20for%20the%203D.pdf) Integration of 3D Concrete Printing in the Construction Industry:<br/>:aca-blank: A Short Review ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1007/978-981-19-7358-1_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-19-7358-1_38</a>
+#Integration of 3D Concrete Printing in the Construction Industry&nbsp;([2022-10](date/2022/10))
+<div class="h1-like">A Short Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://researchonline.ljmu.ac.uk/id/eprint/18006/1/Upload%20for%20the%203D.pdf) <a href="https://doi.org/10.1007/978-981-19-7358-1_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-7358-1_38" target="_blank">10.1007/978-981-19-7358-1_38</a>
 
--------------------------
+<a href="../../../author/chandrasekar_ravekumar"><b>Chandrasekar</b>&nbsp;Ravekumar</a></span>, <a href="../../../author/gkantou_michaela"><b>Gkantou</b>&nbsp;Michaela</a></span>, <a href="../../../author/nikitas_georgios"><b>Nikitas</b>&nbsp;Georgios</a></span>, <a href="../../../author/hashim_khalid"><b>Hashim</b>&nbsp;Khalid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8178-7658" title="ORCID: 0000-0001-8178-7658" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pradeep_rajanna_hampannaver"><b>Pradeep</b>&nbsp;Hampannaver</a></span>, <a href="../../../author/ahuja_arun"><b>Ahuja</b>&nbsp;Arun</a></span><br>
+Contribution - Current Trends in Geotechnical Engineering and Construction, pp. 445-452
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chandrasekar_ravekumar"><b>Chandrasekar</b> Ravekumar</a>
-,     <a href="../../../author/gkantou_michaela"><b>Gkantou</b> Michaela</a>
-,     <a href="../../../author/nikitas_georgios"><b>Nikitas</b> Georgios</a>
-,     <a href="../../../author/hashim_khalid"><b>Hashim</b> Khalid</a>
-,     <a href="../../../author/pradeep_rajanna_hampannaver"><b>Pradeep</b> Hampannaver</a> <a href="https://orcid.org/0000-0001-8178-7658" title="ORCID: 0000-0001-8178-7658" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahuja_arun"><b>Ahuja</b> Arun</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Current Trends in Geotechnical Engineering and Construction, pp. 445-452
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#integration`](keyword/integration)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#short`](keyword/short)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integration%20of%203D%20Concrete%20Printing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172139607&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4307452466" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-19-7358-1_38" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-19-7358-1_38?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Over the past decade 3D printing technology has completely changed the face of manufacturing industry. However, the full potential of this paradigmshifting technology has not been fully seen yet. When used in large scale, 3D printing can have many applications in the construction industry. The perceived benefits of such implementation primarily include the ease of construction, as formworks are not required, which can consequently lead to smaller construction times, greater flexibility for complex designs and potentially reduced waste. Upon discussing the main benefits, applications of 3D printed concrete structures are presented and the printing process is briefly reviewed. To allow for cost and time efficiency and sufficient printing quality, past research has focused on concrete’s workability and mechanical properties. Reported data from recent experimental studies on 3D printed concrete materials are collated and results in terms of mix proportion design, compressive strength, speed rate are discussed. Finally, the potential of future applications is summarised.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
@@ -79,7 +57,37 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{chan_gkan_niki_hash.2023.Io3CPitCI,
+      author            = "Ravekumar Chandrasekar and Michaela Gkantou and Georgios Nikitas and Khalid Hashim and Hampannaver Rajanna Pradeep and Arun Ahuja",
+      title             = "Integration of 3D Concrete Printing in the Construction Industry: A Short Review",
+      doi               = "10.1007/978-981-19-7358-1_38",
+      year              = "2023",
+      pages             = "445--452",
+      booktitle         = "Current Trends in Geotechnical Engineering and Construction",
+      editor            = "Mahdi Karkush and Deepankar Choudhury and Jie Han",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Chandrasekar, M. Gkantou, G. Nikitas, K. Hashim, H. R. Pradeep and A. Ahuja, “Integration of 3D Concrete Printing in the Construction Industry: A Short Review”, in <i>Current Trends in Geotechnical Engineering and Construction</i>,  2023, pp. 445–452. doi: 10.1007/978-981-19-7358-1_38.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chandrasekar, Ravekumar, Michaela Gkantou, Georgios Nikitas, Khalid Hashim, Hampannaver Rajanna Pradeep, and Arun Ahuja. “Integration of 3D Concrete Printing in the Construction Industry: A Short Review”. In <i>Current Trends in Geotechnical Engineering and Construction</i>, edited by Mahdi Karkush, Deepankar Choudhury, and Jie Han, 445–52, 2023. https://doi.org/10.1007/978-981-19-7358-1_38.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Karthick Manikandan, Xuepeng Jiang, Amit Singh, Beiwen Li, Hantang Qin
+    - footer
+title: Manikandan Karthick, Jiang Xuepeng, Singh Amit, Li Beiwen, Qin Hantang
 description:
 tags:
  - clay
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.promfg.2020.05.160) Effects of Nozzle Geometries on 3D Printing of Clay Constructs:<br/>:aca-blank: Quantifying Contour-Deviation and Mechanical Properties ([2020-06](date/2020/06))
-<a href="https://doi.org/10.1016/j.promfg.2020.05.160" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.promfg.2020.05.160</a>
+#Effects of Nozzle Geometries on 3D Printing of Clay Constructs&nbsp;([2020-06](date/2020/06))
+<div class="h1-like">Quantifying Contour-Deviation and Mechanical Properties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.promfg.2020.05.160) <a href="https://doi.org/10.1016/j.promfg.2020.05.160" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.promfg.2020.05.160" target="_blank">10.1016/j.promfg.2020.05.160</a>
 
--------------------------
+<a href="../../../author/manikandan_karthick"><b>Manikandan</b>&nbsp;Karthick</a></span>, <a href="../../../author/jiang_xuepeng"><b>Jiang</b>&nbsp;Xuepeng</a></span>, <a href="../../../author/singh_a_amit"><b>Singh</b>&nbsp;Amit</a></span>, <a href="../../../author/li_beiwen"><b>Li</b>&nbsp;Beiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4180-7911" title="ORCID: 0000-0003-4180-7911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qin_hantang"><b>Qin</b>&nbsp;Hantang</a></span><br>
+Journal Article - Procedia Manufacturing, Vol. 48, pp. 678-683
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/manikandan_karthick"><b>Manikandan</b> Karthick</a>
-,     <a href="../../../author/jiang_xuepeng"><b>Jiang</b> Xuepeng</a>
-,     <a href="../../../author/singh_a_amit"><b>Singh</b> Amit</a>
-,     <a href="../../../author/li_beiwen"><b>Li</b> Beiwen</a>
-,     <a href="../../../author/qin_hantang"><b>Qin</b> Hantang</a> <a href="https://orcid.org/0000-0003-4180-7911" title="ORCID: 0000-0003-4180-7911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Procedia Manufacturing, Vol. 48, pp. 678-683
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#construction`](keyword/construction)
-    [`#contour`](keyword/contour)
-    [`#deviation`](keyword/deviation)
-    [`#effect`](keyword/effect)
-    [`#geometry`](keyword/geometry)
-    [`#mechanics`](keyword/mechanics)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#quantity`](keyword/quantity)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/deviation"><button class="btn">#deviation</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Nozzle%20Geometries%20on%203D%20Printing%20of%20Clay%20Constructs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85091645327&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3037404439" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.promfg.2020.05.160" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.promfg.2020.05.160?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this research, ready-to-print clay was employed to 3D print cylindrical constructs using two different nozzle geometries. The cylinders were printed using a direct ink writing (DIW) 3D printer with similar printing parameters such that the impacts of using different nozzle geometries in contour deviation and mechanical properties of the printed constructs can be quantified. Choosing the right nozzle geometry before printing is critical as it affects the surface finish as well as the mechanical properties of the constructs. This study utilizes point cloud data of the printed samples obtained from a scanning system to measure the contour deviation and surface roughness. According to the results from the point cloud analysis, for cylindrical constructs, circular nozzle imparts less surface roughness and contour deviation whereas square nozzle imparts higher compression strength but with comparatively higher contour deviation and surface roughness. The study provides framework to determine the deviations and mechanical properties of the free form constructs. The work has provided a guideline of nozzle selection in 3D printing of clay constructs for civil infrastructures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/holt_camille"><b>Holt</b> Camille</a>, <a href="../../../author/edwards_laurie"><b>Edwards</b> Laurie</a>, <a href="../../../author/keyte_louise"><b>Keyte</b> Louise</a>, <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b> Farzad</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../holt_edwa_keyt_mogh.2019.C3P/">Construction 3D Printing</a></li>
@@ -85,8 +60,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a>, <a href="../../../author/john_john"><b>John</b> John</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../irsh_amja_kuma_john.2025.SoNPf3PoC/">Significance of Nozzle Parameters for 3D Printing of Concrete</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/chaari_zied_mohamed"><b>Chaari</b> Mohamed</a>, <a href="../../../author/pereira_philbert_gilroy"><b>Pereira</b> Gilroy</a>, <a href="../../../author/daroge_fawwad"><b>Daroge</b> Fawwad</a>, <a href="../../../author/buainain_shamma"><b>Buainain</b> Shamma</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chaa_pere_daro_buai.2024.3PBwCCUaSAPR/">3D Printing Birdhouses with Ceramic Clay Using a Six-Axis Palletizing Robot</a></li>
@@ -106,4 +81,34 @@ tags:
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../duar_brow_mema_duar.2021.LfHSuCfC3PC/">Learning from Historical Structures under Compression for Concrete 3D Printing Construction</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mani_jian_sing_li.2020.EoNGo3PoCC,
+      author            = "Karthick Manikandan and Xuepeng Jiang and Amit A. Singh and Beiwen Li and Hantang Qin",
+      title             = "Effects of Nozzle Geometries on 3D Printing of Clay Constructs: Quantifying Contour-Deviation and Mechanical Properties",
+      doi               = "10.1016/j.promfg.2020.05.160",
+      year              = "2020",
+      journal           = "Procedia Manufacturing",
+      volume            = "48",
+      pages             = "678--683",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Manikandan, X. Jiang, A. A. Singh, B. Li and H. Qin, “Effects of Nozzle Geometries on 3D Printing of Clay Constructs: Quantifying Contour-Deviation and Mechanical Properties”, <i>Procedia Manufacturing</i>, vol. 48, pp. 678–683, 2020, doi: 10.1016/j.promfg.2020.05.160.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Manikandan, Karthick, Xuepeng Jiang, Amit A. Singh, Beiwen Li, and Hantang Qin. “Effects of Nozzle Geometries on 3D Printing of Clay Constructs: Quantifying Contour-Deviation and Mechanical Properties”. <i>Procedia Manufacturing</i> 48 (2020): 678–83. https://doi.org/10.1016/j.promfg.2020.05.160.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

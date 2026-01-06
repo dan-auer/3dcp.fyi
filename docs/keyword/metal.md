@@ -8,7 +8,7 @@ search:
 
 # #metal
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aros_reis_bran_figu.2026.AOMPaDToR3PCMwFaMR/">Assessing Orthotropic Mechanical Performance and Digital Twin of Robotic 3D Printed Cementitious Mortars with Fibers and Metal Reinforcements</a></li>
   <li><a href="../../../author/zhi_zhenzhen"><b>Zhi</b> Zhenzhen</a>, <a href="../../../author/guo_yanfei"><b>Guo</b> Yanfei</a>, <a href="../../../author/qi_huahui"><b>Qi</b> Huahui</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhi_guo_qi_tan.2024.EoAMSoHPoACSHf3P/">Effect of Alkali-Metal-Sulfates on Hydration Properties of Alpha-Calcium-Sulfate-Hemihydrate for 3D Printing</a></li>
   <li><a href="../../../author/egawa_ryo"><b>Egawa</b> Ryo</a>, <a href="../../../author/nezu_shoichi"><b>Nezu</b> Shoichi</a>, <a href="../../../author/nishijo_keisuke"><b>Nishijo</b> Keisuke</a>, <a href="../../../author/ohno_kazunori"><b>Ohno</b> Kazunori</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../egaw_nezu_nish_ohno.2024.DSMRISUCRMf3CP/">Different Sized Metal Reinforcement Insertion System Using Cartridge Replacement Mechanism for 3D Concrete Printer</a></li>

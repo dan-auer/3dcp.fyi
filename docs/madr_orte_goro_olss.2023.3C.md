@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Javier Madrid, Guillermo Ortega, Javier Gorostiza Carabaño, Nils Olsson, José Tenorio Ríos
+    - footer
+title: Madrid Javier, Ortega Guillermo, Gorostiza Carabaño Javier, Olsson Nils, Tenorio Ríos José
 description:
 tags:
  - clay
@@ -11,28 +12,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2073-4352/13/3/375/pdf?version=1677067182) 3D Claying:<br/>:aca-blank: 3D Printing and Recycling Clay ([2023-02](date/2023/02))
-<a href="https://doi.org/10.3390/cryst13030375" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/cryst13030375</a>
+#3D Claying&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">3D Printing and Recycling Clay</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2073-4352/13/3/375/pdf?version=1677067182) <a href="https://doi.org/10.3390/cryst13030375" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/cryst13030375" target="_blank">10.3390/cryst13030375</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/madrid_alonso_javier"><b>Madrid</b>&nbsp;Javier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2213-1699" title="ORCID: 0000-0002-2213-1699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b>&nbsp;Guillermo</a></span>, <a href="../../../author/gorostiza-carabano_javier"><b>Gorostiza Carabaño</b>&nbsp;Javier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b>&nbsp;Nils</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0273-3414" title="ORCID: 0000-0002-0273-3414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b>&nbsp;José</a></span><br>
+Journal Article - Crystals, Vol. 13, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> <a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a> <a href="https://orcid.org/0000-0002-2213-1699" title="ORCID: 0000-0002-2213-1699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gorostiza-carabano_javier"><b>Gorostiza Carabaño</b> Javier</a>
-,     <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a> <a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="https://orcid.org/0000-0002-0273-3414" title="ORCID: 0000-0002-0273-3414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Crystals, Vol. 13, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Claying" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151646325&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4321598483" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/cryst13030375" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/cryst13030375?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Clay is of great interest as a 3D printing material thanks to its ease of use, recyclability and reusability. This paper analyses the technical aspects of the whole printing process. The behaviour of 3D printing clay is studied with respect to the environment and its specific application as a temporary or definitive formwork system for cement parts. The study addresses the performance of clay and the loss of its properties and characteristics according to the type of protection, whether it is in direct contact with air or cement, or protected with plastics, metal sheets, or combinations of both. A 3D printing system with various printers and 3D models has been considered, observing a direct relationship between the prototype shape, extrusion process and resulting material. The most important variables in 3D printing have been considered: layer height, line thickness, base definition, total model height, overhang angles, overlap between layers, etc. The main technical aspects have been analysed such as raw material properties, kneading, process control, post-treatments and material hardening. As a natural material, clay can be reused indefinitely under certain conditions to be part of a circular economy with low energy consumption and minimal resources. It is concluded that the option of using ceramics in 3D printing for very diverse uses in the architecture, engineering & construction (AEC) sector is very promising due to their ease of implementation, recycling capability and suitability to different environments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../batt_mill_veri.2020.PCC/">Print-Cast Concrete:<br/>Additive Manufacturing for 3D Printing Mortar in Robotically Fabricated Green Sand Molds</a></li>
       <li><a href="../../../author/bruce_mackenzie"><b>Bruce</b> Mackenzie</a>, <a href="../../../author/clune_gabrielle"><b>Clune</b> Gabrielle</a>, <a href="../../../author/xie_ruxin"><b>Xie</b> Ruxin</a>, <a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../bruc_clun_xie_moza.2021.C/">Cocoon:<br/>3D Printed Clay Formwork for Concrete Casting</a></li>
@@ -78,8 +61,9 @@ tags:
       <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_suik.2025.CoEAEPPo3PMUIT/">Characterization of Early-Age Elastic–Plastic Properties of 3D Printed Materials Using Indentation Testing</a></li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sang_bian_forc.2025.ADT3PCF/">Advancing Decarbonization Through 3D Printed Concrete Formworks:<br/>LIFE Cycle Analysis of Technologies, Materials, and Processes</a></li>
       <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../madr_orte_olss_teno.2024.3C/">3D Constructing:<br/>Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation</a></li>
       <li><a href="../../../author/nan_cristina"><b>Nan</b> Cristina</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../nan.2024.TCCC/">The Computational Clay Column:<br/>Computational Ceramic Systems with Additive Manufacturing</a></li>
@@ -87,4 +71,34 @@ tags:
       <li><a href="../../../author/los-angeles-ortega-rosario_maria"><b>Los Angeles Ortega Rosario</b> Maria</a>, <a href="../../../author/medina_melany"><b>Medina</b> Melany</a>, <a href="../../../author/duque_rafael"><b>Duque</b> Rafael</a>, <a href="../../../author/alberto-jaen-ortega_antonio"><b>Alberto Jaén Ortega</b> Antonio</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../los_medi_duqu_albe.2024.ASC/">Advancing Sustainable Construction:<br/>Insights into Clay-Based Additive Manufacturing for Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a>, <a href="../../../author/gosch_lukas"><b>Gosch</b> Lukas</a>, <a href="../../../author/vasatko_hana"><b>Vašatko</b> Hana</a>, <a href="../../../author/konigsberger_markus"><b>Königsberger</b> Markus</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../jauk_gosc_vasa_koni.2023.FR3PoC/">Filament-Reinforced 3D Printing of Clay</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{madr_orte_goro_olss.2023.3C,
+      author            = "Javier Alonso Madrid and Guillermo Sotorrío Ortega and Javier Gorostiza Carabaño and Nils Olof Emanuel Olsson and José Antonio Tenorio Ríos",
+      title             = "3D Claying: 3D Printing and Recycling Clay",
+      doi               = "10.3390/cryst13030375",
+      year              = "2023",
+      journal           = "Crystals",
+      volume            = "13",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. A. Madrid, G. S. Ortega, J. G. Carabaño, N. O. E. Olsson and J. A. T. Ríos, “3D Claying: 3D Printing and Recycling Clay”, <i>Crystals</i>, vol. 13, no. 3, 2023, doi: 10.3390/cryst13030375.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Madrid, Javier Alonso, Guillermo Sotorrío Ortega, Javier Gorostiza Carabaño, Nils Olof Emanuel Olsson, and José Antonio Tenorio Ríos. “3D Claying: 3D Printing and Recycling Clay”. <i>Crystals</i> 13, no. 3 (2023). https://doi.org/10.3390/cryst13030375.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

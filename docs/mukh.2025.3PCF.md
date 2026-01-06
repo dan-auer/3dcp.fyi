@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Faisal Mukhtar
+    - footer
+title: Mukhtar Faisal
 description:
 tags:
  - cohesion
@@ -17,30 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D-Printed Concrete Fracture:<br/>:aca-blank: Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.compstruc.2025.107822" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compstruc.2025.107822</a>
+#3D-Printed Concrete Fracture&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compstruc.2025.107822" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruc.2025.107822" target="_blank">10.1016/j.compstruc.2025.107822</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5276-4828" title="ORCID: 0000-0001-5276-4828" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mukhtar_faisal"><b>Mukhtar</b>&nbsp;Faisal</a></span><br>
+Journal Article - Computers & Structures, Vol. 315, No. 107822
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> <a href="https://orcid.org/0000-0001-5276-4828" title="ORCID: 0000-0001-5276-4828" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Computers & Structures, Vol. 315, No. 107822
-
-:aca-blank:{ .lg .middle}
-    [`#cohesion`](keyword/cohesion)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fem`](keyword/fem)
-    [`#fracture`](keyword/fracture)
-    [`#law`](keyword/law)
-    [`#mixing`](keyword/mixing)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cohesion"><button class="btn">#cohesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fem"><button class="btn">#fem</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/law"><button class="btn">#law</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D-Printed%20Concrete%20Fracture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005254171&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410483992" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compstruc.2025.107822" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compstruc.2025.107822?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Unlike conventional concrete fractures, few models of 3D-printed concrete (3DPC) fractures have been reported; moreover, systematic validation across diverse tests, materials, and laboratories is lacking. This paper first reviews existing 3DPC fracture simulations against experiments, noting mixed performance in most cases. Additionally, current models often require excessive material parameters that can be difficult to measure and interpret, along with a scarcity of 3D modeling. To address these issues, the paper develops a robust 3D validation framework using the generalized/eXtended finite element method to simulate both interlayer bonds and intralayer fractures in 3DPC/cementitious materials. Four softening models were assessed by capturing linear and nonlinear fracture responses under tensile, bending, and shear tests. Different 3DPC mixtures (plain, fiber-reinforced, and limestone-calcined clay) from existing experimental studies across different laboratories were used for validation, showing good agreement with experimental load–displacement behavior. The influences of layer print interval and nozzle standoff distance from two separate tests were investigated, revealing that the bilinear cohesive model provided the most consistent predictions for plain and fiber-reinforced 3DPC under tension and bending. In contrast, the Park–Paulino–Roesler and Xu–Needleman cohesive models better captured fracture behavior for the limestone-calcined clay mix, while the linear cohesive model was most suitable for shear mode. A fracture in a topologically optimized 3DPC girder was also simulated, illustrating the method’s applicability to large-scale structural elements, the importance of the material mix, and highlighting a scenario where 2D approximations are inapplicable.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/norval_chris"><b>Norval</b> Chris</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../baba_norv_kola_paul.2024.3PLCCCCIRPW/">3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste:<br/>RESIN8</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -102,8 +83,38 @@ tags:
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mukh.2025.3PCF,
+      author            = "Faisal Mukhtar",
+      title             = "3D-Printed Concrete Fracture: Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM",
+      doi               = "10.1016/j.compstruc.2025.107822",
+      year              = "2025",
+      journal           = "Computers & Structures",
+      volume            = "315",
+      pages             = "107822",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Mukhtar, “3D-Printed Concrete Fracture: Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM”, <i>Computers & Structures</i>, vol. 315, p. 107822, 2025, doi: 10.1016/j.compstruc.2025.107822.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mukhtar, Faisal. “3D-Printed Concrete Fracture: Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM”. <i>Computers & Structures</i> 315 (2025): 107822. https://doi.org/10.1016/j.compstruc.2025.107822.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

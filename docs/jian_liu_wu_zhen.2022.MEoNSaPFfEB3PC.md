@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Quan Jiang, Qiang Liu, Si Wu, Hong Zheng, Wenliang Sun
+    - footer
+title: Jiang Quan, Liu Qiang, Wu Si, Zheng Hong, Sun Wenliang
 description:
 tags:
  - anisotropy
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>:aca-blank: Printability and Mechanical Anisotropy ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.addma.2022.102944" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.102944</a>
+#Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete&nbsp;([2022-06](date/2022/06))
+<div class="h1-like">Printability and Mechanical Anisotropy</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.102944" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.102944" target="_blank">10.1016/j.addma.2022.102944</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <a href="../../../author/liu_qiang"><b>Liu</b>&nbsp;Qiang</a></span>, <a href="../../../author/wu_si"><b>Wu</b>&nbsp;Si</a></span>, <a href="../../../author/zheng_hong"><b>Zheng</b>&nbsp;Hong</a></span>, <a href="../../../author/sun_wenliang"><b>Sun</b>&nbsp;Wenliang</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 56
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a> <a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>
-,     <a href="../../../author/wu_si"><b>Wu</b> Si</a>
-,     <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a>
-,     <a href="../../../author/sun_wenliang"><b>Sun</b> Wenliang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 56, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#silica`](keyword/silica)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modification%20Effect%20of%20Nano-Silica%20and%20Polypropylene-Fiber%20for%20Extrusion-Based%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131668421&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281874030" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.102944" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.102944?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently cement-based 3D printing (3DP) technology has been broadly adopted in civil engineering, and its printability is an important factor for its further application. Taking cement, fine sand and thickener as the basic formula, hybrid nanosilica (NS) and polypropylene (PP) fibers with different dosages are tested to comparing their modification effects on 3DP concrete’s printability and mechanical anisotropy. The mortar flowability, printability, physical-mechanical properties and microstructure of these modified 3DP concretes are tested. The results demonstrated that both NS and PP fibers can accelerate the setting time of mortar, reduce its paste fluidity and slump, and improve its printability and homogeneity. But its density and compressive strength are reduced. Specifically, adding 1% NS and 0.2% PP fibers to 3DP concrete can improve its buildability by more than 67%, reduce the deformation rate up to 46% and the anisotropy of compressive strength up to 64%. These additive material also make the structure change from brittle failure to ductile failure, which is beneficial to structural safety. The microstructure analysis of these presented 3DP concrete shows that the NS can increase the number of concrete’s micro pores and improve both its pore structure and the cementation property between layers, which can enhance the cementation between PP fibers and cement paste. These results can enrich the 3D-printed cement construction in additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
@@ -101,8 +76,8 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "74 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/sakolaree_natthanicha"><b>Sakolaree</b> Natthanicha</a>, <a href="../../../author/taweesint_jutamas"><b>Taweesint</b> Jutamas</a>, <a href="../../../author/sungsiri_krisana"><b>Sungsiri</b> Krisana</a>, <a href="../../../author/assawamankongcharoen_sirikamol"><b>Assawamankongcharoen</b> Sirikamol</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sako_tawe_sung_assa.2025.EoFaMPaSoHMCMf3PT/">Evaluation of Fresh and Mechanical Properties and Shrinkage of Hydrophobic Mortar Containing Microfiber for 3D Printing Technology</a></li>
       <li><a href="../../../author/gao_shan"><b>Gao</b> Shan</a>, <a href="../../../author/li_tianyu"><b>Li</b> Tianyu</a>, <a href="../../../author/yuan_jian"><b>Yuan</b> Jian</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gao_li_yuan_nish.2025.MPo3PMTM/">Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar</a></li>
@@ -178,4 +153,33 @@ tags:
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
       <li><a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/ziemelis_krists"><b>Ziemelis</b> Krists</a>, <a href="../../../author/vanags_andris"><b>Vanags</b> Andris</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../spur_sink_ziem_vana.2022.TEoAEAoFaHPo3C/">The Effects of Air-Entraining Agent on Fresh and Hardened Properties of 3D Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC,
+      author            = "Quan Jiang and Qiang Liu and Si Wu and Hong Zheng and Wenliang Sun",
+      title             = "Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete: Printability and Mechanical Anisotropy",
+      doi               = "10.1016/j.addma.2022.102944",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "56",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Jiang, Q. Liu, S. Wu, H. Zheng and W. Sun, “Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete: Printability and Mechanical Anisotropy”, <i>Additive Manufacturing</i>, vol. 56, 2022, doi: 10.1016/j.addma.2022.102944.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiang, Quan, Qiang Liu, Si Wu, Hong Zheng, and Wenliang Sun. “Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete: Printability and Mechanical Anisotropy”. <i>Additive Manufacturing</i> 56 (2022). https://doi.org/10.1016/j.addma.2022.102944.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

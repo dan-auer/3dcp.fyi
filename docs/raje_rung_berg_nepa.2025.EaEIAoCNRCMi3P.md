@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Naveenkumar Rajendran, Troy Runge, Richard Bergman, Prakash Nepal, Syed Ali, Abdullah Fahim, Mehdi Moradllo
+    - footer
+title: Rajendran Naveenkumar, Runge Troy, Bergman Richard, Nepal Prakash, Ali Syed, Fahim Abdullah, Moradllo Mehdi
 description:
 tags:
  - analysis
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Economic and Environmental Impact Analysis of Cellulose Nanocrystal-Reinforced Cementitious Mixture in 3D Printing ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.resconrec.2025.108252" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.resconrec.2025.108252</a>
+#Economic and Environmental Impact Analysis of Cellulose Nanocrystal-Reinforced Cementitious Mixture in 3D Printing ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.resconrec.2025.108252" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.resconrec.2025.108252" target="_blank">10.1016/j.resconrec.2025.108252</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4757-0364" title="ORCID: 0000-0002-4757-0364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajendran_naveenkumar"><b>Rajendran</b>&nbsp;Naveenkumar</a></span>, <a href="../../../author/runge_troy"><b>Runge</b>&nbsp;Troy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1798-1717" title="ORCID: 0000-0003-1798-1717" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bergman_richard"><b>Bergman</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3170-8506" title="ORCID: 0000-0003-3170-8506" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nepal_prakash"><b>Nepal</b>&nbsp;Prakash</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5204-5073" title="ORCID: 0000-0001-5204-5073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_danish_syed"><b>Ali</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-7301-4256" title="ORCID: 0009-0005-7301-4256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fahim_abdullah"><b>al&nbsp;Fahim</b>&nbsp;Abdullah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3889-4455" title="ORCID: 0000-0002-3889-4455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moradllo_khanzadeh_mehdi"><b>Moradllo</b>&nbsp;Mehdi</a></span><br>
+Journal Article - Resources, Conservation and Recycling, Vol. 218, No. 108252
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rajendran_naveenkumar"><b>Rajendran</b> Naveenkumar</a> <a href="https://orcid.org/0000-0002-4757-0364" title="ORCID: 0000-0002-4757-0364" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/runge_troy"><b>Runge</b> Troy</a>
-,     <a href="../../../author/bergman_richard"><b>Bergman</b> Richard</a> <a href="https://orcid.org/0000-0003-1798-1717" title="ORCID: 0000-0003-1798-1717" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nepal_prakash"><b>Nepal</b> Prakash</a> <a href="https://orcid.org/0000-0003-3170-8506" title="ORCID: 0000-0003-3170-8506" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ali_danish_syed"><b>Ali</b> Syed</a> <a href="https://orcid.org/0000-0001-5204-5073" title="ORCID: 0000-0001-5204-5073" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fahim_abdullah"><b>al Fahim</b> Abdullah</a> <a href="https://orcid.org/0009-0005-7301-4256" title="ORCID: 0009-0005-7301-4256" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moradllo_khanzadeh_mehdi"><b>Moradllo</b> Mehdi</a> <a href="https://orcid.org/0000-0002-3889-4455" title="ORCID: 0000-0002-3889-4455" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Resources, Conservation and Recycling, Vol. 218, No. 108252
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#cellulose`](keyword/cellulose)
-    [`#cement`](keyword/cement)
-    [`#economic`](keyword/economic)
-    [`#environment`](keyword/environment)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Economic%20and%20Environmental%20Impact%20Analysis%20of%20Cellulose%20Nanocrystal-Reinforced%20Cementitious%20Mixture%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000622983&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408396714" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.resconrec.2025.108252" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.resconrec.2025.108252?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing has emerged as a transformative technology in the construction sector; however, cementitious composites are hindered by high costs and substantial environmental impacts. This study investigates cellulose nanocrystals (CNC)-reinforced cementitious mixture for its economic feasibility and environmental impacts in the 3D printing sector. In this study, a commercial large-scale process model with a daily capacity of 100 m3 for cementitious mixture production for 3D printing was developed. The estimated minimum selling price (MSP) of CNC-reinforced cementitious mixture was $423/m3, which was 3 % higher than conventional cementitious mixture due to composition variations, and the estimated minimum printing cost was $333/m3. The estimated global warming impact of 1 m3 of CNC-reinforced cementitious mixture was 1704.81 kg CO2 eq, which was higher than conventional cementitious mixture. The MSP and environmental impact of CNC-reinforced cementitious mixture were lower than conventional cementitious mixture when compressive and flexural strength were considered as functional units.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/fahim_abdullah"><b>Fahim</b> Abdullah</a>, <a href="../../../author/admassu_natnael"><b>Admassu</b> Natnael</a>, <a href="../../../author/dailey_garret"><b>Dailey</b> Garret</a>, <a href="../../../author/moradllo_khanzadeh_mehdi"><b>Moradllo</b> Mehdi</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../fahi_adma_dail_mora.2024.AoCNCi3PAACC/">Application of Cellulose-Nano-Crystals in 3D Printed Alkali-Activated Cementitious Composites</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
@@ -84,9 +59,39 @@ tags:
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../sing_liu_xiao_lyu.2022.MaMPo3PCDwSFuDLD/">Mechanical and Macrostructural Properties of 3D Printed Concrete Dosed with Steel-Fibers under Different Loading-Direction</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/fahim_abdullah"><b>Fahim</b> Abdullah</a>, <a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b> Syed</a>, <a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b> Mehdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../fahi_bukh_khan.2025.AMoCTCSwCN/">Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/cuesta-astorga_eva"><b>Cuesta-Astorga</b> Eva</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../alon_blan_cues_inda.2025.SotB3PHPMUMCA/">Selection of the Best 3D Printing High-Performance Mortars Using Multi-Criteria Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raje_rung_berg_nepa.2025.EaEIAoCNRCMi3P,
+      author            = "Naveenkumar Rajendran and Troy Runge and Richard Bergman and Prakash Nepal and Syed Danish Ali and Abdullah Al Fahim and Mehdi Khanzadeh Moradllo",
+      title             = "Economic and Environmental Impact Analysis of Cellulose Nanocrystal-Reinforced Cementitious Mixture in 3D Printing",
+      doi               = "10.1016/j.resconrec.2025.108252",
+      year              = "2025",
+      journal           = "Resources, Conservation and Recycling",
+      volume            = "218",
+      pages             = "108252",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Rajendran, “Economic and Environmental Impact Analysis of Cellulose Nanocrystal-Reinforced Cementitious Mixture in 3D Printing”, <i>Resources, Conservation and Recycling</i>, vol. 218, p. 108252, 2025, doi: 10.1016/j.resconrec.2025.108252.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rajendran, Naveenkumar, Troy Runge, Richard Bergman, Prakash Nepal, Syed Danish Ali, Abdullah Al Fahim, and Mehdi Khanzadeh Moradllo. “Economic and Environmental Impact Analysis of Cellulose Nanocrystal-Reinforced Cementitious Mixture in 3D Printing”. <i>Resources, Conservation and Recycling</i> 218 (2025): 108252. https://doi.org/10.1016/j.resconrec.2025.108252.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

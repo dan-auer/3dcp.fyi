@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Philip Yuan, Qiang Zhan, Hao Wu, Hooi Beh, Liming Zhang
+    - footer
+title: Yuan Philip, Zhan Qiang, Wu Hao, Beh Hooi, Zhang Liming
 description:
 tags:
  - concrete
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2021.103716) Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.jobe.2021.103716" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.103716</a>
+#Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing ([2021-11](date/2021/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2021.103716) <a href="https://doi.org/10.1016/j.jobe.2021.103716" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.103716" target="_blank">10.1016/j.jobe.2021.103716</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2836-0019" title="ORCID: 0000-0003-2836-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhan_qiang"><b>Zhan</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_hao"><b>Wu</b>&nbsp;Hao</a></span>, <a href="../../../author/beh_shan_hooi"><b>Beh</b>&nbsp;Hooi</a></span>, <a href="../../../author/zhang_liming"><b>Zhang</b>&nbsp;Liming</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 46
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a> <a href="https://orcid.org/0000-0003-2836-0019" title="ORCID: 0000-0003-2836-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> <a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a>
-,     <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 46, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#extrusion`](keyword/extrusion)
-    [`#method`](keyword/method)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#time`](keyword/time)
-    [`#tool`](keyword/tool)
-    [`#variation`](keyword/variation)
-    [`#width`](keyword/width)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Tool-Path-Planning%20and%20Extrusion-Control-Method%20for%20Variable-Width%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121221946&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3217179425" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.103716" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.103716?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D concrete printing (3DCP) is one of the most widely used methods for the digital fabrication of concrete material. For variable thickness components, inner cavity or internal toolpath can occur when using constant-width filament. Printing with variable-width filament is a possible solution to reduce the inner toolpath and enhance the integrity of the components. However, the conventional open-loop control method requires pre-calibration of materials and extrusion equipment and relies on the fine control of the material properties and the stability of the pump system. This paper presents a variable-width 3DCP method using real-time toolpath planning and extrusion control (RTPEC). In this paper, the material requirement, extrusion system, and real-time control algorithm are discussed. A controlled experiment is performed to verify the feasibility of the algorithms and the real-time control system. The printing accuracy in the horizontal and vertical directions is analyzed by 3D scanning. The result shows better horizontal accuracy and surface quality by using the RTPEC method. The result is well within the tolerance of the building scale component and demonstrates the potential applications in 3D concrete printing of building scale components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
@@ -106,8 +80,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a>, <a href="../../../author/zhang_lichao"><b>Zhang</b> Lichao</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../xu_ding_cai_zhan.2019.VF3CPUaVSSN/">Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a>, <a href="../../../author/andreou_alexis"><b>Andreou</b> Alexis</a>, <a href="../../../author/andreou_vasilis"><b>Andreou</b> Vasilis</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kont_geor_andr_andr.2025.MaELHtWRi3THGC/">Measuring and Evaluating Layer Height to Width Ratio in 3DCP Towards Higher Geometric Conformity</a></li>
@@ -135,4 +109,33 @@ tags:
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/teng_huaijin"><b>Teng</b> Huaijin</a>, <a href="../../../author/liao_hengcheng"><b>Liao</b> Hengcheng</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../pan_teng_liao_jian.2022.EoSPAoMPo3PCBM/">Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials:<br/>Experimental and Numerical Studies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP,
+      author            = "Philip F. Yuan and Qiang Zhan and Hao Wu and Hooi Shan Beh and Liming Zhang",
+      title             = "Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing",
+      doi               = "10.1016/j.jobe.2021.103716",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "46",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. F. Yuan, Q. Zhan, H. Wu, H. S. Beh and L. Zhang, “Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing”, <i>Journal of Building Engineering</i>, vol. 46, 2022, doi: 10.1016/j.jobe.2021.103716.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Philip F., Qiang Zhan, Hao Wu, Hooi Shan Beh, and Liming Zhang. “Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing”. <i>Journal of Building Engineering</i> 46 (2022). https://doi.org/10.1016/j.jobe.2021.103716.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

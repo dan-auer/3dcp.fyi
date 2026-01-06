@@ -8,7 +8,7 @@ search:
 
 # #existence
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>
   <li><a href="../../../author/yin_xunzhi"><b>Yin</b> Xunzhi</a>, <a href="../../../author/guo_chong"><b>Guo</b> Chong</a>, <a href="../../../author/sun_bo"><b>Sun</b> Bo</a>, <a href="../../../author/chen_honggang"><b>Chen</b> Honggang</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_guo_sun_chen.2023.TSotAiDCoCB/">The State of the Art in Digital Construction of Clay Buildings:<br/>Reviews of Existing Practices and Recommendations for Future Development</a></li>
   <li><a href="../../../author/guanziroli_stefano"><b>Guanziroli</b> Stefano</a>, <a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a>, <a href="../../../author/negrini_alberto"><b>Negrini</b> Alberto</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../guan_marc_negr_ferr.2024.ANCoAMftRoET/">A New Concept of Additive Manufacturing for the Regeneration of Existing Tunnels</a></li>

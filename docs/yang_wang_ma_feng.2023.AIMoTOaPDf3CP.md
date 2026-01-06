@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenwei Yang, Li Wang, Guowei Ma, Peng Feng
+    - footer
+title: Yang Wenwei, Wang Li, Ma Guowei, Feng Peng
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.engstruct.2023.116435" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.116435</a>
+#An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2023.116435" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116435" target="_blank">10.1016/j.engstruct.2023.116435</a>
 
--------------------------
+<a href="../../../author/yang_wenwei"><b>Yang</b>&nbsp;Wenwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7391-7993" title="ORCID: 0000-0001-7391-7993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_peng"><b>Feng</b>&nbsp;Peng</a></span><br>
+Journal Article - Engineering Structures, Vol. 291, No. 116435
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="https://orcid.org/0000-0001-7391-7993" title="ORCID: 0000-0001-7391-7993" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 291, No. 116435
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#integration`](keyword/integration)
-    [`#method`](keyword/method)
-    [`#optimization`](keyword/optimization)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Integrated%20Method%20of%20Topological-Optimization%20and%20Path-Design%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162183260&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4380727950" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.116435" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.116435?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As an advanced construction technology, 3D concrete printing (3DCP) has the advantage of high manufacturing freedom for various freeform structures. The digital design of 3D printing using topology optimization contributes to obtaining the maximum performance potential from manufactured structures. However, most digitally designed structures obtained by topology optimization cannot be directly manufactured using 3DCP owing to various manufacturing constraints that have not yet been considered in the design process. This paper presents an integrated design method for 3DCP by incorporating extrusion-based manufacturing characteristics into the topology optimization algorithm. Topological optimization is based on the solid isotropic material with penalization (SIMP) method owing to its ease of adaptation to multiple constraints. During the optimization iteration, the manufacturing characteristics of nozzle size and path continuity are considered as the design requirements of 3D printed structures to achieve high-quality manufacturing by using intermittent interruption of topology optimization to modify the design variables. Meanwhile, the anisotropic behaviors of material constraints and the volume and Tsai-Wu criterion of design constraints are introduced to obtain the desired mechanical performance with lightweight designs. Moreover, the number of closed regions and overhang angle controls are incorporated to ensure the global path continuity and stable stacking of optimized 3D structures. A concrete arch structure is 3D printed to validate the proposed integrated method, and the removal of breakpoints and short paths and complete filling rate are demonstrated. The integrated method facilitates the engineering application of 3DCP in a high-efficiency and high-quality manner.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../cars.2020.TOwNSRfMETAM/">Topology-Optimization with Nozzle-Size-Restrictions for Material-Extrusion-Type Additive Manufacturing</a></li>
@@ -87,8 +65,9 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
@@ -120,4 +99,34 @@ tags:
       <li><a href="../../../author/suthar_mahendrabhai"><b>Suthar</b> Mahendrabhai</a>, <a href="../../../author/shariff_m_najeeb"><b>Shariff</b> Najeeb</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../suth_shar_nant.2024.PAoTO3PCSCSUFES/">Performance-Assessment of Topologically Optimised 3D Printable Concrete Sewer Cross-Section Using Finite Element Simulation</a></li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/hu_yuanyuan"><b>Hu</b> Yuanyuan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../yang_wang_hu_sanj.2024.AITOMIMCf3PFRCS/">An Integrated Topology-Optimization Method Including Manufacturing-Constraints for 3D Printed Fiber-Reinforced Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_wang_ma_feng.2023.AIMoTOaPDf3CP,
+      author            = "Wenwei Yang and Li Wang and Guowei Ma and Peng Feng",
+      title             = "An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing",
+      doi               = "10.1016/j.engstruct.2023.116435",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "291",
+      pages             = "116435",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Yang, L. Wang, G. Ma and P. Feng, “An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing”, <i>Engineering Structures</i>, vol. 291, p. 116435, 2023, doi: 10.1016/j.engstruct.2023.116435.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Wenwei, Li Wang, Guowei Ma, and Peng Feng. “An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing”. <i>Engineering Structures</i> 291 (2023): 116435. https://doi.org/10.1016/j.engstruct.2023.116435.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ren Xiaodan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ye_fan"><b>Ye</b> Fan</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ye_ren.2026.AECBRLPOMf3CP/">A Eulerian Circuit-Based Reinforcement Learning Path Optimization Method for 3D Concrete Printing</a></li>
   <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhu_cerv_ren.2025.PABAo3PCS/">Peridynamic Anisotropic Behavior Analysis of 3D-Printed Concrete Structures</a></li>
   <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhu_cerv_ren.2024.BoC3PCGUP/">Buildability of Complex 3D Printed Concrete Geometries Using Peridynamics</a></li>

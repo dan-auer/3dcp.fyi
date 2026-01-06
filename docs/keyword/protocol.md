@@ -8,7 +8,7 @@ search:
 
 # #protocol
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a></li>
   <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b> Vignesh</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ravi_giri_rama_prem.2023.IoTPoDtRPoCPMfC3P/">Influence of Test-Protocol on Determining the Rheological Properties of Cement-Pastes-Mixtures for Concrete 3D Printing</a></li>
   <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/ozcelikci_emircan"><b>Ozcelikci</b> Emircan</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../ilca_sahi_kul_ozce.2023.RPaEPAoCaDWBGMwVTP/">Rheological Property and Extrudability Performance-Assessment of Construction and Demolition Waste-Based Geopolymer Mortars with Varied Testing Protocols</a></li>

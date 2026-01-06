@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behrokh Khoshnevis, Xiao Yuan, Behnam Zahiri, Jing Zhang, Bin Xia
+    - footer
+title: Khoshnevis Behrokh, Yuan Xiao, Zahiri Behnam, Zhang Jing, Xia Bin
 description:
 tags:
  - analysis
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Deformation-Analysis of Sulfur-Concrete Structures Made by Contour Crafting ([2015-09](date/2015/09))
-<a href="https://doi.org/10.2514/6.2015-4452" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2514/6.2015-4452</a>
+#Deformation-Analysis of Sulfur-Concrete Structures Made by Contour Crafting ([2015-09](date/2015/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2514/6.2015-4452" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2015-4452" target="_blank">10.2514/6.2015-4452</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <a href="../../../author/zahiri_behnam"><b>Zahiri</b>&nbsp;Behnam</a></span>, <a href="../../../author/zhang_jing"><b>Zhang</b>&nbsp;Jing</a></span>, <a href="../../../author/xia_bin"><b>Xia</b>&nbsp;Bin</a></span><br>
+Contribution - Proceedings of AIAA SPACE 2015 Conference and Exposition
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>
-,     <a href="../../../author/zahiri_behnam"><b>Zahiri</b> Behnam</a>
-,     <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>
-,     <a href="../../../author/xia_bin"><b>Xia</b> Bin</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of AIAA SPACE 2015 Conference and Exposition, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#deformation`](keyword/deformation)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Deformation-Analysis%20of%20Sulfur-Concrete%20Structures%20Made%20by%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,23 +36,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2324948900" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2514/6.2015-4452" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2514/6.2015-4452?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper reports on the experiments with the Contour Crafting Automated Construction process using sulfur concrete as the choice of construction material. Sulfur concrete has numerous terrestrial applications and is potentially an ideal construction material for planetary construction. On Mars, sulfur can be found in abundance and the range of temperature variation on the planet is within the safe zone for the structures to be built and survive over reasonable length of time with sulfur concrete. Several experiments have been performed at centimeter and meter scales. A FEA simulation model for the behavior of sulfur concrete based structures has been developed. Experimental results were compared with the results of simulation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a> <a href="../../../date/2013/09">(2013-09)</a><br><a href="../../../khos_than_yuan_zhan.2013.AiCCTfESIB/">Advances in Contour Crafting Technology for Extraterrestrial Settlement Infrastructure Buildup</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/herbert_marc"><b>Herbert</b> Marc</a>, <a href="../../../author/lamendola_joseph"><b>Lamendola</b> Joseph</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../giwa_herb_lame_fisk.2024.PRCULS3PwSC/">Planetary Robotic Construction Using Large-Scale 3D Printing with Sulfur-Concrete</a></li>
       <li><a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>, <a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../muje_samu_lanj_chip.2023.DoAA3PC/">Development of Alkali-Activated 3D Printable Concrete:<br/>A Review</a></li>
@@ -86,4 +65,33 @@ tags:
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/zou_na"><b>Zou</b> Na</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bhar_zou_pei.2018.AMfCIDaC/">Additive Manufacturing for Civil Infrastructure Design and Construction:<br/>Current State and Gaps</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/meier_ryan"><b>Meier</b> Ryan</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a> et al. <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../kaze_yuan_meie_coch.2017.CS3P/">Construction-Scale 3D Printing:<br/>Shape Stability of Fresh Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{khos_yuan_zahi_zhan.2015.DAoSCSMbCC,
+      author            = "Behrokh Khoshnevis and Xiao Yuan and Behnam Zahiri and Jing Zhang and Bin Xia",
+      title             = "Deformation-Analysis of Sulfur-Concrete Structures Made by Contour Crafting",
+      doi               = "10.2514/6.2015-4452",
+      year              = "2015",
+      booktitle         = "Proceedings of AIAA SPACE 2015 Conference and Exposition",
+      editor            = "American Institute of Aeronautics and Astronautics",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Khoshnevis, X. Yuan, B. Zahiri, J. Zhang and B. Xia, “Deformation-Analysis of Sulfur-Concrete Structures Made by Contour Crafting”, in <i>Proceedings of AIAA SPACE 2015 Conference and Exposition</i>,  2015. doi: 10.2514/6.2015-4452.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khoshnevis, Behrokh, Xiao Yuan, Behnam Zahiri, Jing Zhang, and Bin Xia. “Deformation-Analysis of Sulfur-Concrete Structures Made by Contour Crafting”. In <i>Proceedings of AIAA SPACE 2015 Conference and Exposition</i>, edited by American Institute of Aeronautics and Astronautics, 2015. https://doi.org/10.2514/6.2015-4452.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

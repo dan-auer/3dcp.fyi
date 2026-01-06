@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qamar Shahzad, Fangyuan Li
+    - footer
+title: Shahzad Qamar, Li Fangyuan
 description:
 tags:
  - age
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Assessing the Load-Bearing Capacity of 3D Printed Concrete at Early-Ages:<br/>:aca-blank: An Innovative Approach ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1007/s40999-024-01046-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40999-024-01046-0</a>
+#Assessing the Load-Bearing Capacity of 3D Printed Concrete at Early-Ages&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">An Innovative Approach</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40999-024-01046-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40999-024-01046-0" target="_blank">10.1007/s40999-024-01046-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahzad_qamar"><b>Shahzad</b>&nbsp;Qamar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2815-3602" title="ORCID: 0000-0002-2815-3602" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_fangyuan"><b>Li</b>&nbsp;Fangyuan</a></span><br>
+Journal Article - International Journal of Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="https://orcid.org/0000-0002-2815-3602" title="ORCID: 0000-0002-2815-3602" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#approach`](keyword/approach)
-    [`#assessment`](keyword/assessment)
-    [`#bearing`](keyword/bearing)
-    [`#capacity`](keyword/capacity)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#innovation`](keyword/innovation)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessing%20the%20Load-Bearing%20Capacity%20of%203D%20Printed%20Concrete%20at%20Early-Ages" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208146464&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404044146" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40999-024-01046-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40999-024-01046-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The focus of this study is to determine the load-bearing capacity of a structure produced using 3D printing technology. The main objective is to forecast the highest achievable elevation for 3D-printed concrete construction while avoiding any structural integrity issues. To achieve this objective, an inventive experimental approach was introduced to assess the load-bearing potential of freshly printed concrete. The study involved conducting tests to measure the structure's load-bearing capacity and determine the highest achievable printing height in its initial developmental phase. Afterward, the time-dependent properties were examined experimentally with the intention of integrating them into simulations at a subsequent phase. Subsequently, the buildability standard utilizing the Mohr–Coulomb model was defined, and its accuracy was tested via a combination of numerical and experimental assessments. The model demonstrated satisfactory performance in accurately capturing the time-dependent mechanical behavior of concrete properties as they developed over time. Each casted block weighed 7.2 kg and served as a load on the printed structure. The structure withstood the weight of up to six casted blocks before reaching its failure point, all while achieving a successful printing height exceeding 600 mm. Additionally, the numerical model exhibited satisfactory performance in forecasting the initial plastic bearing capacity of 3DPC during its early stages. However, during the experiments, the actual specimen failed immediately after the application of the sixth load, whereas the modeling results suggested that the specimen could bear the sixth load before ultimately yielding. Ultimately, recommendations were proposed with the goal of enhancing the forthcoming 3DPC simulation modeling.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -92,8 +71,36 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../shah_li.2025.IoCIotMPo3PCS/">Impact of Concrete Interfaces on the Mechanical Performance of 3D Printed Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_li.2024.AtLBCo3PCaEA,
+      author            = "Qamar Shahzad and Fangyuan Li",
+      title             = "Assessing the Load-Bearing Capacity of 3D Printed Concrete at Early-Ages: An Innovative Approach",
+      doi               = "10.1007/s40999-024-01046-0",
+      year              = "2024",
+      journal           = "International Journal of Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Shahzad  and F. Li, “Assessing the Load-Bearing Capacity of 3D Printed Concrete at Early-Ages: An Innovative Approach”, <i>International Journal of Civil Engineering</i>, 2024, doi: 10.1007/s40999-024-01046-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahzad, Qamar, and Fangyuan Li. “Assessing the Load-Bearing Capacity of 3D Printed Concrete at Early-Ages: An Innovative Approach”. <i>International Journal of Civil Engineering</i>, 2024. https://doi.org/10.1007/s40999-024-01046-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

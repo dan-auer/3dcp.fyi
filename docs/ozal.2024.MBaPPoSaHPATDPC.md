@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatih Özalp
+    - footer
+title: Özalp Fatih
 description:
 tags:
  - anisotropy
@@ -20,33 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Behavior and Permeability Properties of Sustainable and High-Performance Anisotropic Three-Dimensional Printable Concrete ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1007/s11709-023-0962-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-023-0962-1</a>
+#Mechanical Behavior and Permeability Properties of Sustainable and High-Performance Anisotropic Three-Dimensional Printable Concrete ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-023-0962-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-023-0962-1" target="_blank">10.1007/s11709-023-0962-1</a>
 
--------------------------
+<a href="../../../author/ozalp_fatih"><b>Özalp</b>&nbsp;Fatih</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ozalp_fatih"><b>Özalp</b> Fatih</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#height`](keyword/height)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#permeability`](keyword/permeability)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#sustainability`](keyword/sustainability)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permeability"><button class="btn">#permeability</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Behavior%20and%20Permeability%20Properties%20of%20Sustainable%20and%20High-Performance%20Anisotropic%20Three-Dimensional%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182144974&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390823341" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-023-0962-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-023-0962-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printable concrete requires further development owing to the challenges encountered, including its brittle behavior, high cement requirement for the buildability of layers, and anisotropic behavior in different directions. The aim of this study is to overcome these challenges. First, three-dimensional printable concrete mixtures were prepared using silica fume, ground blast furnace slag, and metakaolin, instead of cement, to reduce the amount of cement. Subsequently, the rheological and mechanical behaviors of these concretes were investigated. Second, three-dimensional printable concrete mixtures were prepared using 6-mm-long steel and synthetic fibers to eliminate brittleness and determine the effect of those fibers on the anisotropic behavior of the concrete. As a result of this study, it is understood that printable concretes with extremely low permeability and high buildability can be achieved using mineral additives. In addition, results showed that three-dimensional concrete samples containing short steel fibers achieve fracture energies up to 36 times greater than that of plain concrete. Meanwhile, its characteristic length values, as indicators of ductility, are 22 times higher than those of plain concrete. The weakest strength was recorded at the interfaces between layers. The bending and splitting tensile strengths of three-dimensional printed plain concrete samples were 15% and 19% lower than those of casted samples, respectively. However, the addition of fibers improved the mechanical strength of the interfaces significantly.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -118,8 +95,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/kaya_yahya"><b>Kaya</b> Yahya</a>, <a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../sahi_kaya_akgu_mard.2025.DoMPo3FRPCMEtET/">Degradation of Mechanical Properties of 3D Fiber Reinforced Printed Concrete Mixtures Exposed to Elevated Temperatures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ozal.2024.MBaPPoSaHPATDPC,
+      author            = "Fatih Özalp",
+      title             = "Mechanical Behavior and Permeability Properties of Sustainable and High-Performance Anisotropic Three-Dimensional Printable Concrete",
+      doi               = "10.1007/s11709-023-0962-1",
+      year              = "2024",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Özalp, “Mechanical Behavior and Permeability Properties of Sustainable and High-Performance Anisotropic Three-Dimensional Printable Concrete”, <i>Frontiers of Structural and Civil Engineering</i>, 2024, doi: 10.1007/s11709-023-0962-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Özalp, Fatih. “Mechanical Behavior and Permeability Properties of Sustainable and High-Performance Anisotropic Three-Dimensional Printable Concrete”. <i>Frontiers of Structural and Civil Engineering</i>, 2024. https://doi.org/10.1007/s11709-023-0962-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

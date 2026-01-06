@@ -8,7 +8,7 @@ search:
 
 # #function
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
   <li><a href="../../../author/knychalla_bruno"><b>Knychalla</b> Bruno</a>, <a href="../../../author/wiesner_christian"><b>Wiesner</b> Christian</a>, <a href="../../../author/sonnleitner_patrick"><b>Sonnleitner</b> Patrick</a>, <a href="../../../author/kowalczyk_magdalena"><b>Kowalczyk</b> Magdalena</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../knyc_wies_sonn_kowa.2025.IFF/">Integrated Fiber Forms:<br/>Functionally Integrated Slab Systems Through Additive Manufacturing and Natural Fiber Reinforcement</a></li>
   <li><a href="../../../author/manickavasakam_karnan"><b>Manickavasakam</b> Karnan</a>, <a href="../../../author/huri_a-al_mohammed"><b>Huri</b> Mohammed</a>, <a href="../../../author/kharma_m_khaled"><b>Kharma</b> Khaled</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_huri_khar_hosa.2025.S3PC/">Smart 3D-Printed Concrete:<br/>Recent Advances in Self-Sensing Mix Design and Functional Reinforcements</a></li>

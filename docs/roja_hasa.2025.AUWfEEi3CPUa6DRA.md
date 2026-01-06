@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jorge Rojas, Sogand Hasanzadeh
+    - footer
+title: Rojas Jorge, Hasanzadeh Sogand
 description:
 tags:
  - arm
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1061/9780784486115.078" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/9780784486115.078</a>
+#A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784486115.078" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784486115.078" target="_blank">10.1061/9780784486115.078</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9372-0864" title="ORCID: 0000-0001-9372-0864" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rojas_jorge"><b>Rojas</b>&nbsp;Jorge</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6214-3443" title="ORCID: 0000-0001-6214-3443" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b>&nbsp;Sogand</a></span><br>
+Contribution - Computing in Civil Engineering, pp. 733-742
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a> <a href="https://orcid.org/0000-0001-9372-0864" title="ORCID: 0000-0001-9372-0864" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="https://orcid.org/0000-0001-6214-3443" title="ORCID: 0000-0001-6214-3443" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Computing in Civil Engineering, pp. 733-742
-
-:aca-blank:{ .lg .middle}
-    [`#arm`](keyword/arm)
-    [`#concrete`](keyword/concrete)
-    [`#dof`](keyword/dof)
-    [`#efficient`](keyword/efficient)
-    [`#enhancement`](keyword/enhancement)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#uniform`](keyword/uniform)
-    [`#workflow`](keyword/workflow)
-
-
--------------------------
+<a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dof"><button class="btn">#dof</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/uniform"><button class="btn">#uniform</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Unified%20Workflow%20for%20Enhanced%20Efficiency%20in%203D%20Concrete%20Printing%20Using%20a%206%20DoF%20Robotic%20Arm" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/9780784486115.078" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/9780784486115.078?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotic construction through 3D Concrete Printing (3DCP) is revolutionizing the construction industry by offering design flexibility, efficiency, and sustainability benefits. Previous research has extensively explored hardware-related challenges and software-related automation of a three Degrees of Freedom (DoF) gantry system printer. However, a 6 DoF robotic arm printer requires specific robot programming language and logic to ensure safe and efficient printing. To address this gap, this paper streamlines a software workflow, spanning from modeling to code generation for printing, avoiding interoperability issues. The comparative analysis showed that the novel automated workflow seamlessly integrates the modeling phase with toolpath planning and code generation, eliminating the need for multiple software tools and disparate file formats. The proposed unified workflow not only streamlines the construction process but also opens avenues for unprecedented design flexibility that can propel 3DCP technology to new levels.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/chen_hao"><b>Chen</b> Hao</a>, <a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/chen_peng"><b>Chen</b> Peng</a>, <a href="../../../author/li_ning"><b>Li</b> Ning</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_chen_li.2023.ARotESDfLSEB3CP/">A Review of the Extruder System Design for Large-Scale Extrusion-Based 3D Concrete Printing</a></li>
@@ -79,7 +58,36 @@ tags:
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tami_alqa_khal_alha.2023.Fo3CPPaC/">Framework of 3D Concrete Printing Potential and Challenges</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/lee_jia-shen_brian"><b>Lee</b> Brian</a>, <a href="../../../author/gan_jia-hui_nicole"><b>Gan</b> Nicole</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_moha_lee_gan.2021.EBIfLTPPiDCPwDDS/">Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script:<br/>A Case Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{roja_hasa.2025.AUWfEEi3CPUa6DRA,
+      author            = "Jorge Rojas and Sogand Hasanzadeh",
+      title             = "A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm",
+      doi               = "10.1061/9780784486115.078",
+      year              = "2025",
+      pages             = "733--742",
+      booktitle         = "Computing in Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Rojas  and S. Hasanzadeh, “A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm”, in <i>Computing in Civil Engineering</i>,  2025, pp. 733–742. doi: 10.1061/9780784486115.078.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rojas, Jorge, and Sogand Hasanzadeh. “A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm”. In <i>Computing in Civil Engineering</i>, 733–42, 2025. https://doi.org/10.1061/9780784486115.078.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

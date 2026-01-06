@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Jiang, Qingxin Zhang, Abir Tabbaa, Ronan Daly
+    - footer
+title: Jiang Yu, Zhang Qingxin, Tabbaa Abir, Daly Ronan
 description:
 tags:
  - cement
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2025.140873) The Critical Role of Time-Dependent Rheology for Improved Quality Control of 3D Printed Cementitious Structures ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140873" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140873</a>
+#The Critical Role of Time-Dependent Rheology for Improved Quality Control of 3D Printed Cementitious Structures ([2025-03](date/2025/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2025.140873) <a href="https://doi.org/10.1016/j.conbuildmat.2025.140873" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140873" target="_blank">10.1016/j.conbuildmat.2025.140873</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6172-1130" title="ORCID: 0000-0002-6172-1130" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_yu"><b>Jiang</b>&nbsp;Yu</a></span>, <a href="../../../author/zhang_qingxin"><b>Zhang</b>&nbsp;Qingxin</a></span>, <a href="../../../author/tabbaa_abir"><b>al&nbsp;Tabbaa</b>&nbsp;Abir</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8299-5755" title="ORCID: 0000-0002-8299-5755" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/daly_ronan"><b>Daly</b>&nbsp;Ronan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 473, No. 140873
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiang_yu"><b>Jiang</b> Yu</a> <a href="https://orcid.org/0000-0002-6172-1130" title="ORCID: 0000-0002-6172-1130" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_qingxin"><b>Zhang</b> Qingxin</a>
-,     <a href="../../../author/tabbaa_abir"><b>al Tabbaa</b> Abir</a>
-,     <a href="../../../author/daly_ronan"><b>Daly</b> Ronan</a> <a href="https://orcid.org/0000-0002-8299-5755" title="ORCID: 0000-0002-8299-5755" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 473, No. 140873
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#critical`](keyword/critical)
-    [`#dependency`](keyword/dependency)
-    [`#improvement`](keyword/improvement)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#rheology`](keyword/rheology)
-    [`#structure`](keyword/structure)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Critical%20Role%20of%20Time-Dependent%20Rheology%20for%20Improved%20Quality%20Control%20of%203D%20Printed%20Cementitious%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001302213&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409096665" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140873" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140873?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of cementitious materials is gaining momentum as a method of construction across length scales, from patterned coatings to full-scale structures. The technology also enables cutting-edge research in hierarchical architectures and in carbon storage applications. Cement-based material printing faces challenges because colloidal flocculation and hydration reactions transition the material from a printable fluid to a solid over time. This drives continuous changes in material printability and can lead to unpredictable macroscopic properties. It is therefore critical to give manufacturers quality control metrics that will link their cement-based formulations to the macroscopic properties of the final printed products. Here, we report a first step to progress this with a small-scale cement paste extrusion printing study. We examine the cement paste rheological properties that link closely to flows experienced during printing, quantify the changes over time and show how these influence changes in extrusion pressure and filament cross-sectional morphology. We then use numerical simulations to help understand these experimentally observed changes. We observe a time when both the cement paste’s static yield stress and the extrusion pressure suddenly increase, coinciding with a change in filament morphology. Importantly, this change in printing behaviour occurs at approximately half the Open Time, the conventionally defined metric for printability and we observe a 29 % reduction in the interlayer contact area between filaments, which can increase macroporosity and drive down load-bearing capacity. This allows us to define ‘print quality assurance time’, a metric that takes into account the dynamic nature of cementitious materials to ensure predictable mesostructures and in turn controlled macroscopic properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -116,8 +92,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../merc_sahi_celi_ozka.2025.SPoPF3PCW/">Structural Performance of Pre-Fabricated 3D Printed Concrete Walls:<br/>Effect of Cold Joint, Axial Load and Load Type</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jian_zhan_tabb_daly.2025.TCRoTDRfIQCo3PCS,
+      author            = "Yu Jiang and Qingxin Zhang and Abir al Tabbaa and Ronan Daly",
+      title             = "The Critical Role of Time-Dependent Rheology for Improved Quality Control of 3D Printed Cementitious Structures",
+      doi               = "10.1016/j.conbuildmat.2025.140873",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "473",
+      pages             = "140873",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Jiang, Q. Zhang, A. al Tabbaa and R. Daly, “The Critical Role of Time-Dependent Rheology for Improved Quality Control of 3D Printed Cementitious Structures”, <i>Construction and Building Materials</i>, vol. 473, p. 140873, 2025, doi: 10.1016/j.conbuildmat.2025.140873.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiang, Yu, Qingxin Zhang, Abir al Tabbaa, and Ronan Daly. “The Critical Role of Time-Dependent Rheology for Improved Quality Control of 3D Printed Cementitious Structures”. <i>Construction and Building Materials</i> 473 (2025): 140873. https://doi.org/10.1016/j.conbuildmat.2025.140873.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

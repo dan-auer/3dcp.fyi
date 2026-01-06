@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Herding Friedrich 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
   <li><a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../herd_lowk.2024.ItDAiSCAbwcRG/">Improving the Dimensional Accuracy in Selective Cement-Activation by w/c-Ratio Gradation</a></li>
   <li><a href="../../../author/wuchner_roland"><b>Wüchner</b> Roland</a>, <a href="../../../author/warnakulasuriya_suneth"><b>Warnakulasuriya</b> Suneth</a>, <a href="../../../author/asl_najian_reza"><b>Asl</b> Reza</a>, <a href="../../../author/bletzinger_kai-uwe"><b>Bletzinger</b> Kai-Uwe</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wuch_warn_asl_blet.2024.FFSOfAMiC/">Free-Form Structural Optimization for Additive Manufacturing in Construction</a></li>

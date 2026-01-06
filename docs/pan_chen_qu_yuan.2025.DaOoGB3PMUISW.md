@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Keheng Pan, Yinhan Cheng, Guangfei Qu, Zheng Yuan, Guojun Liu
+    - footer
+title: Pan Keheng, Cheng Yinhan, Qu Guangfei, Yuan Zheng, Liu Guojun
 description:
 tags:
  - application
@@ -22,39 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development and Optimization of Geopolymer-Based 3D Printing Materials Utilizing Industrial Solid Waste:<br/>:aca-blank: Rheological Properties and Practical Applications ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142719" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142719</a>
+#Development and Optimization of Geopolymer-Based 3D Printing Materials Utilizing Industrial Solid Waste&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">Rheological Properties and Practical Applications</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142719" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142719" target="_blank">10.1016/j.conbuildmat.2025.142719</a>
 
--------------------------
+<a href="../../../author/pan_keheng"><b>Pan</b>&nbsp;Keheng</a></span>, <a href="../../../author/cheng_yinhan"><b>Cheng</b>&nbsp;Yinhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8000-1198" title="ORCID: 0000-0002-8000-1198" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qu_guangfei"><b>Qu</b>&nbsp;Guangfei</a></span>, <a href="../../../author/yuan_zheng"><b>Yuan</b>&nbsp;Zheng</a></span>, <a href="../../../author/liu_guojun"><b>Liu</b>&nbsp;Guojun</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 491, No. 142719
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pan_keheng"><b>Pan</b> Keheng</a>
-,     <a href="../../../author/cheng_yinhan"><b>Cheng</b> Yinhan</a>
-,     <a href="../../../author/qu_guangfei"><b>Qu</b> Guangfei</a> <a href="https://orcid.org/0000-0002-8000-1198" title="ORCID: 0000-0002-8000-1198" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_zheng"><b>Yuan</b> Zheng</a>
-,     <a href="../../../author/liu_guojun"><b>Liu</b> Guojun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 491, No. 142719
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#development`](keyword/development)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#industry`](keyword/industry)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#practice`](keyword/practice)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#solid`](keyword/solid)
-    [`#util`](keyword/util)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20and%20Optimization%20of%20Geopolymer-Based%203D%20Printing%20Materials%20Utilizing%20Industrial%20Solid%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010841699&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,23 +45,49 @@ tags:
 <a href="https://inciteful.xyz/p/W6940156968" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142719" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142719?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As urbanization and industrialization continue to advance, the issue of solid waste generated by industrial production has become increasingly prominent, posing a serious threat to the natural environment. This study therefore proposes a basic design concept for 3D printing materials based on industrial solid waste, demonstrating its potential for practical applications. The study commences with an examination of the molding mechanism, followed by an investigation into the impact of retarder, thickener and solid waste on the performance of the paste. The relationship between retarding mechanisms, rheological properties and performance control is also explored. A printable geopolymer paste was prepared by combining industrial solid waste components with dopants, with a view to achieving varying coagulation times and rheological properties. The addition of 3 wt% retarder and 0.4 wt% thickener resulted in a paste that was utilized for printing molding. This paste exhibited a retention index of 2.1 %, a collapse ratio of 0.5 %, an initial setting time of 14 min, and a fluidity of 190 mm. The 14-day compressive and flexural strengths were found to be 65 MPa and 1.9 MPa, respectively. This study is of considerable theoretical and practical significance, and it plays a pivotal role in promoting the utilization of industrial solid waste resources and the advancement of green manufacturing technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../lim_pand_pham.2018.IFCo3PGCwIPSCR/">Improving Flexural Characteristics of 3D Printed Geopolymer Composites with In-Process Steel-Cable-Reinforcement</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pan_chen_qu_yuan.2025.DaOoGB3PMUISW,
+      author            = "Keheng Pan and Yinhan Cheng and Guangfei Qu and Zheng Yuan and Guojun Liu",
+      title             = "Development and Optimization of Geopolymer-Based 3D Printing Materials Utilizing Industrial Solid Waste: Rheological Properties and Practical Applications",
+      doi               = "10.1016/j.conbuildmat.2025.142719",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "491",
+      pages             = "142719",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Pan, Y. Cheng, G. Qu, Z. Yuan and G. Liu, “Development and Optimization of Geopolymer-Based 3D Printing Materials Utilizing Industrial Solid Waste: Rheological Properties and Practical Applications”, <i>Construction and Building Materials</i>, vol. 491, p. 142719, 2025, doi: 10.1016/j.conbuildmat.2025.142719.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pan, Keheng, Yinhan Cheng, Guangfei Qu, Zheng Yuan, and Guojun Liu. “Development and Optimization of Geopolymer-Based 3D Printing Materials Utilizing Industrial Solid Waste: Rheological Properties and Practical Applications”. <i>Construction and Building Materials</i> 491 (2025): 142719. https://doi.org/10.1016/j.conbuildmat.2025.142719.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

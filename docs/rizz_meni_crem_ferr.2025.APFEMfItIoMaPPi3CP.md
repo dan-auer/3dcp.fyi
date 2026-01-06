@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Giacomo Rizzieri, Simone Meni, Massimiliano Cremonesi, Liberato Ferrara
+    - footer
+title: Rizzieri Giacomo, Meni Simone, Cremonesi Massimiliano, Ferrara Liberato
 description:
 tags:
  - concrete
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.compstruc.2025.107883) A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.compstruc.2025.107883" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compstruc.2025.107883</a>
+#A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.compstruc.2025.107883) <a href="https://doi.org/10.1016/j.compstruc.2025.107883" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruc.2025.107883" target="_blank">10.1016/j.compstruc.2025.107883</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2392-1684" title="ORCID: 0000-0002-2392-1684" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b>&nbsp;Giacomo</a></span>, <a href="../../../author/meni_simone"><b>Meni</b>&nbsp;Simone</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7885-029X" title="ORCID: 0000-0001-7885-029X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b>&nbsp;Massimiliano</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span><br>
+Journal Article - Computers & Structures, Vol. 316, No. 107883
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> <a href="https://orcid.org/0000-0002-2392-1684" title="ORCID: 0000-0002-2392-1684" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meni_simone"><b>Meni</b> Simone</a>
-,     <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="https://orcid.org/0000-0001-7885-029X" title="ORCID: 0000-0001-7885-029X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Computers & Structures, Vol. 316, No. 107883
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#finite`](keyword/finite)
-    [`#influence`](keyword/influence)
-    [`#investigation`](keyword/investigation)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#parameter`](keyword/parameter)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Particle%20Finite%20Element%20Method%20for%20Investigating%20the%20Influence%20of%20Material%20and%20Process%20Parameters%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009698818&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412049622" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compstruc.2025.107883" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compstruc.2025.107883?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is an innovative construction technology that enables the efficient fabrication of complex objects through the extrusion of cementitious materials. However, the quality and integrity of the structural components are critically dependent on the accuracy of the extrusion and layer deposition processes. This study employs the Particle Finite Element Method (PFEM), consisting of an updated Lagrangian FEM formulation equipped with an efficient remeshing scheme, to virtually reproduce 3D printing of cementitious materials. PFEM allows for automatically tracking the free-surface and efficiently modelling the material as a non-Newtonian Bingham fluid. The numerical framework is applied to assess the impact of key material and process parameters (including yield stress, viscosity, nozzle diameter, nozzle height, translational velocity, and extrusion velocity) on the morphology of the printed layers. Results allow to create a prototype design chart providing an estimate of the filament shape based on selected material and printing parameters in free-flow deposition 3DCP. Additionally, from simulations, a dimensionless map can be generated distinguishing between five printing regimes: quasi-Newtonian flows, free-flow deposition of round shapes, free-flow deposition of spread shapes, filament tearing, and layer-pressing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../an_rahm_zhan_yang.2025.EoK3CPPPoLS/">Effects of Key 3D Concrete Printing Process Parameters on Layer Shape:<br/>Experimental Study and Smooth Particle Hydrodynamics Modelling</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
@@ -108,9 +83,39 @@ tags:
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/niu_huaxian"><b>Niu</b> Huaxian</a>, <a href="../../../author/yu_bo"><b>Yu</b> Bo</a>, <a href="../../../author/hao_ji"><b>Hao</b> Ji</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../niu_yu_hao.2025.CBFFAoSNi3CP/">CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rizz_meni_crem_ferr.2025.APFEMfItIoMaPPi3CP,
+      author            = "Giacomo Rizzieri and Simone Meni and Massimiliano Cremonesi and Liberato Ferrara",
+      title             = "A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing",
+      doi               = "10.1016/j.compstruc.2025.107883",
+      year              = "2025",
+      journal           = "Computers & Structures",
+      volume            = "316",
+      pages             = "107883",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Rizzieri, S. Meni, M. Cremonesi and L. Ferrara, “A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing”, <i>Computers & Structures</i>, vol. 316, p. 107883, 2025, doi: 10.1016/j.compstruc.2025.107883.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rizzieri, Giacomo, Simone Meni, Massimiliano Cremonesi, and Liberato Ferrara. “A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing”. <i>Computers & Structures</i> 316 (2025): 107883. https://doi.org/10.1016/j.compstruc.2025.107883.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

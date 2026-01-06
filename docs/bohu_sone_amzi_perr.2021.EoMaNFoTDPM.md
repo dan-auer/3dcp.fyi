@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marie Bohuchval, Mohammed Sonebi, Sofiane Amziane, Arnaud Perrot
+    - footer
+title: Bohuchval Marie, Sonebi Mohammed, Amziane Sofiane, Perrot Arnaud
 description:
 tags:
  - dimension
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar ([2020-12](date/2020/12))
-<a href="https://doi.org/10.1680/jcoma.20.00009" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jcoma.20.00009</a>
+#Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar ([2020-12](date/2020/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jcoma.20.00009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jcoma.20.00009" target="_blank">10.1680/jcoma.20.00009</a>
 
--------------------------
+<a href="../../../author/bohuchval_marie"><b>Bohuchval</b>&nbsp;Marie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amziane_sofiane"><b>Amziane</b>&nbsp;Sofiane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Journal Article - Proceedings of the Institution of Civil Engineers - Construction Materials, Vol. 174, Iss. 3, pp. 115-128
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Proceedings of the Institution of Civil Engineers - Construction Materials, Vol. 174, Iss. 3, pp. 115-128
-
-:aca-blank:{ .lg .middle}
-    [`#dimension`](keyword/dimension)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#mortar`](keyword/mortar)
-    [`#natural`](keyword/natural)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Metakaolin%20and%20Natural%20Fibers%20on%20Three-Dimensional%20Printing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108081390&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3043424253" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jcoma.20.00009" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jcoma.20.00009?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this study was to investigate the effect of different parameters of the mix composition on the fresh and rheological properties of printable mortar. Metakaolin, limestone filler and fly ash were tested as binders. The water/binder ratio was set as 0.50. Superplasticiser (SP), viscosity-modifying admixture (VMA, nanoclay based) and natural sisal fibres were used at different percentages. The positive effect of fibres was reversed when the dosage of fibres was too high (difficulties in extruding and drainage phenomenon, which led to a stiffening of the mix). The VMA caused an important loss of workability and time gap, which influenced the passing ability of the mix through the extruder. Adding sisal fibres led to a greater yield stress and higher cohesiveness of the mix. Increased SP dosage led to an increase in slump flow and penetration values and reduced the yield stress, which affected the stability of the shape of printed layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -78,8 +57,8 @@ tags:
       <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../sone_amzi_perr.2019.MBo3PCM/">Mechanical Behavior of 3D Printed Cement Materials</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
       <li><a href="../../../author/salifu_n"><b>Salifu</b> N.</a>, <a href="../../../author/bassuoni_t_mohamed"><b>Bassuoni</b> Mohamed</a>, <a href="../../../author/guven_gursans"><b>Guven</b> Gursans</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sali_bass_guve.2025.PEoLBCaCNi3CP/">Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing</a></li>
       <li><a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a>, <a href="../../../author/kopecsko_katalin"><b>Kopecskó</b> Katalin</a>, <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b> György</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../thaj_kope_bala.2025.EPo3PCbUMaSF/">Enhancing Printability of 3D Printed Concrete by Using Metakaolin and Silica Fume</a></li>
@@ -104,4 +83,35 @@ tags:
       <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../rodr_olek_moin_zava.2021.LSCaFPoMtTTDPC/">Linking Solids Content and Flow Properties of Mortars to Their Three-Dimensional Printing Characteristics</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bohu_sone_amzi_perr.2021.EoMaNFoTDPM,
+      author            = "Marie Bohuchval and Mohammed Sonebi and Sofiane Amziane and Arnaud Perrot",
+      title             = "Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar",
+      doi               = "10.1680/jcoma.20.00009",
+      year              = "2021",
+      journal           = "Proceedings of the Institution of Civil Engineers - Construction Materials",
+      volume            = "174",
+      number            = "3",
+      pages             = "115--128",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Bohuchval, M. Sonebi, S. Amziane and A. Perrot, “Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar”, <i>Proceedings of the Institution of Civil Engineers - Construction Materials</i>, vol. 174, no. 3, pp. 115–128, 2021, doi: 10.1680/jcoma.20.00009.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bohuchval, Marie, Mohammed Sonebi, Sofiane Amziane, and Arnaud Perrot. “Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar”. <i>Proceedings of the Institution of Civil Engineers - Construction Materials</i> 174, no. 3 (2021): 115–28. https://doi.org/10.1680/jcoma.20.00009.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

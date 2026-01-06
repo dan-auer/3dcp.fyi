@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kantawich Suphunsaeng, Lapyote Prasittisopin, Sirichai Pethrung, Withit Pansuk
+    - footer
+title: Suphunsaeng Kantawich, Prasittisopin Lapyote, Pethrung Sirichai, Pansuk Withit
 description:
 tags:
  - approach
@@ -20,36 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fire Performance Evaluation of 3D-Printed Concrete Walls:<br/>:aca-blank: A Combined Full-Scale and Numerical Modeling Approach ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.jobe.2025.112296" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112296</a>
+#Fire Performance Evaluation of 3D-Printed Concrete Walls&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">A Combined Full-Scale and Numerical Modeling Approach</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112296" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112296" target="_blank">10.1016/j.jobe.2025.112296</a>
 
--------------------------
+<a href="../../../author/suphunsaeng_kantawich"><b>Suphunsaeng</b>&nbsp;Kantawich</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b>&nbsp;Lapyote</a></span>, <a href="../../../author/pethrung_sirichai"><b>Pethrung</b>&nbsp;Sirichai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8910-2043" title="ORCID: 0000-0001-8910-2043" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pansuk_withit"><b>Pansuk</b>&nbsp;Withit</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112296
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/suphunsaeng_kantawich"><b>Suphunsaeng</b> Kantawich</a>
-,     <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pethrung_sirichai"><b>Pethrung</b> Sirichai</a>
-,     <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="https://orcid.org/0000-0001-8910-2043" title="ORCID: 0000-0001-8910-2043" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112296
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#combination`](keyword/combination)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#fire`](keyword/fire)
-    [`#full`](keyword/full)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fire%20Performance%20Evaluation%20of%203D-Printed%20Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000802741&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408304319" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112296" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112296?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is now being adopted in construction projects worldwide, allowing many benefits from such automated construction. However, existing research has limited its durability evaluation to full-scale testing. Furthermore, the numerical simulation of the 3DCP method is a new research area in the fields of dynamic growth, and many practical questions still remain. This paper presents the findings of full-scale and numerical studies on the fire performance of different 3DCP walls configurations. The effects of the wall thickness, cross-sectional arrangements, and inner cavity area on the insulation fire rating under different fire scenarios were examined. Results indicate that all full-scale specimens tested satisfy the integrity criteria for 3-hour exposure time. Non-load bearing 3DCP showed a better fire insulation performance, whereas 3DCP wall with increased total thickness had better fire resistance. Numerical modeling performed effectively predicts 3DCP wall performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bard_cupk_wash_zegl.2019.TIRT/">Thermally Informed Robotic Topologies:<br/>Profile 3D Printing for the Robotic Construction of Concrete Panels, Thermally Tuned Through High-Resolution Surface Geometry</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
@@ -116,10 +91,39 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/khairnar_neha"><b>Khairnar</b> Neha</a>, <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b> Ulka</a>, <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b> Shilpa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_khai_daha_mash.2025.RoSi3CP/">Review on Sustainability in 3D Concrete Printing:<br/>Focus on Waste Utilization and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{suph_pras_peth_pans.2025.FPEo3PCW,
+      author            = "Kantawich Suphunsaeng and Lapyote Prasittisopin and Sirichai Pethrung and Withit Pansuk",
+      title             = "Fire Performance Evaluation of 3D-Printed Concrete Walls: A Combined Full-Scale and Numerical Modeling Approach",
+      doi               = "10.1016/j.jobe.2025.112296",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112296",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Suphunsaeng, L. Prasittisopin, S. Pethrung and W. Pansuk, “Fire Performance Evaluation of 3D-Printed Concrete Walls: A Combined Full-Scale and Numerical Modeling Approach”, <i>Journal of Building Engineering</i>, p. 112296, 2025, doi: 10.1016/j.jobe.2025.112296.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Suphunsaeng, Kantawich, Lapyote Prasittisopin, Sirichai Pethrung, and Withit Pansuk. “Fire Performance Evaluation of 3D-Printed Concrete Walls: A Combined Full-Scale and Numerical Modeling Approach”. <i>Journal of Building Engineering</i>, 2025, 112296. https://doi.org/10.1016/j.jobe.2025.112296.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

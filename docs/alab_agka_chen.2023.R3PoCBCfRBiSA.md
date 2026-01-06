@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Alabbasi, Asterios Agkathidis, Hanmei Chen
+    - footer
+title: Alabbasi Mohammad, Agkathidis Asterios, Chen Hanmei
 description:
 tags:
  - buildability
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/j.autcon.2023.104751" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.104751</a>
+#Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2023.104751" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104751" target="_blank">10.1016/j.autcon.2023.104751</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7551-663X" title="ORCID: 0000-0002-7551-663X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b>&nbsp;Mohammad</a></span>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b>&nbsp;Asterios</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-2055" title="ORCID: 0000-0002-6424-2055" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_hanmei"><b>Chen</b>&nbsp;Hanmei</a></span><br>
+Journal Article - Automation in Construction, Vol. 148
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a> <a href="https://orcid.org/0000-0002-7551-663X" title="ORCID: 0000-0002-7551-663X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>
-,     <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="https://orcid.org/0000-0002-6424-2055" title="ORCID: 0000-0002-6424-2055" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 148, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%203D%20Printing%20of%20Concrete%20Building%20Components%20for%20Residential%20Buildings%20in%20Saudi%20Arabia" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147656559&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4318301858" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.104751" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.104751?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article presents the development and validation of a design-to-fabrication framework aiming to improve the efficiency of fabricating reinforced concrete building components for housing projects in the Kingdom of Saudi Arabia by incorporating 3D concrete printing technology. In particular, the research presents an algorithmic framework to mass customise a typical Saudi Arabian free standing house by utilising parametric modelling, topology optimization (TO), finite element analysis (FEA), and robotic 3D printing tools and techniques. The framework was validated by the fabrication of optimised reinforced concrete columns and by testing their structural performance under the Saudi Building Code (SBC 304). The findings demonstrate the benefits and drawbacks of the proposed framework and compare it to current Saudi conventional construction approaches. The paper also addresses the need for mass customisation in the construction industry of the Kingdom of Saudi Arabia
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -71,8 +53,9 @@ tags:
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "36 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/jun_yubin"><b>Jun</b> Yubin</a>, <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bang_ha_jun_yim.2026.OCWDbERfEIBSi3PCCC/">Optimal Casting Window Defined by Electrical Resistivity for Enhancing Interfacial Bond Strength in 3D Printed-Cast Concrete Composites</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
@@ -108,7 +91,34 @@ tags:
       <li><a href="../../../author/wang_hao"><b>Wang</b> Hao</a>, <a href="../../../author/jiang_minghui"><b>Jiang</b> Minghui</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/zhou_gangming"><b>Zhou</b> Gangming</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_jian_hang_zhou.2023.RotMPaFRoAS3PM/">Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar</a></li>
       <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../chen_pan_zhu_ma.2023.IMPo3POPGCwSFR/">Improving Mechanical Properties of 3D Printable One-Part Geopolymer Concrete with Steel-Fiber-Reinforcement</a></li>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../wan_yang_wang_ma.2023.GCPPf3CPMBS/">Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure</a></li>
-      <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../sala_jaya.2022.OSoRAaFSfDFTiCI/">Optimum Selection of Reinforcement, Assembly, and Formwork System for Digital Fabrication Technique in Construction Industry:<br/>A Critical Review</a></li>
-      <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alab_agka_chen.2023.R3PoCBCfRBiSA,
+      author            = "Mohammad Alabbasi and Asterios Agkathidis and Hanmei Chen",
+      title             = "Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia",
+      doi               = "10.1016/j.autcon.2023.104751",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "148",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Alabbasi, A. Agkathidis and H. Chen, “Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia”, <i>Automation in Construction</i>, vol. 148, 2023, doi: 10.1016/j.autcon.2023.104751.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alabbasi, Mohammad, Asterios Agkathidis, and Hanmei Chen. “Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia”. <i>Automation in Construction</i> 148 (2023). https://doi.org/10.1016/j.autcon.2023.104751.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

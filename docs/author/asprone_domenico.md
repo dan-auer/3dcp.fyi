@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Asprone Domenico 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../giul_menn_capo_aspr.2024.EBoa3PCWwFBAStIPCL/">Experimental Behavior of a 3D Printed Concrete Wall with Fixed Base Anchorage Subjected to In-Plane Cyclic Loads</a></li>
   <li><a href="../../../author/pastore_tommaso"><b>Pastore</b> Tommaso</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../past_espo_menn_aspr.2022.OFCiC3PUIBC/">Overcoming Fabrication-Constraints in Concrete 3D Printing Using Interlacing Bezier-Curves:<br/>A Numerical and Experimental Analysis</a></li>
   <li><a href="../../../author/pastore_tommaso"><b>Pastore</b> Tommaso</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../past_menn_aspr.2022.BBBRKGAtAPCitTOoCS/">Bézier-Based Biased Random-Key Genetic Algorithm to Address Printability-Constraints in the Topology-Optimization of Concrete Structures</a></li>

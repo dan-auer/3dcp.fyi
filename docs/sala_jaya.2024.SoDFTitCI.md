@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: M. Salaimanimagudam, Jaganathan Jayaprakash
+    - footer
+title: Salaimanimagudam M., Jayaprakash Jaganathan
 description:
 tags:
  - approach
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Selection of Digital Fabrication Technique in the Construction Industry:<br/>:aca-blank: A Multi-Criteria Decision-Making Approach ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1007/s11709-024-1075-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-024-1075-1</a>
+#Selection of Digital Fabrication Technique in the Construction Industry&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">A Multi-Criteria Decision-Making Approach</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-024-1075-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-024-1075-1" target="_blank">10.1007/s11709-024-1075-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b>&nbsp;Jaganathan</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> <a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#construction`](keyword/construction)
-    [`#criteria`](keyword/criteria)
-    [`#decision`](keyword/decision)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#industry`](keyword/industry)
-    [`#multi`](keyword/multi)
-    [`#selective`](keyword/selective)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/decision"><button class="btn">#decision</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Selection%20of%20Digital%20Fabrication%20Technique%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197922477&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400297935" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-024-1075-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-024-1075-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication techniques, in recent decades, have provided the basis of a sustainable revolution in the construction industry. However, selecting the digital fabrication method in terms of manufacturability and functionality requirements is a complex problem. This paper presents alternatives and criteria for selection of digital fabrication techniques by adopting the multi-criteria decision-making technique. The alternatives considered in the study are concrete three-dimensional (3D) printing, shotcrete, smart dynamic casting, material intrusion, mesh molding, injection concrete 3D printing, and thin forming techniques. The criteria include formwork utilization, reinforcement incorporation, geometrical complexity, material enhancement, assembly complexity, surface finish, and build area. It demonstrates different multi-criteria decision-making techniques, with both subjective and objective weighting methods. The given ranking is based on the current condition of digital fabrication in the construction industry. The study reveals that in the selection of digital fabrication techniques, the criteria including reinforcement incorporation, build area, and geometrical complexity play a pivotal role, collectively accounting for nearly 70% of the overall weighting. Among the evaluated techniques, concrete 3D printing emerged as the best performer, however the shotcrete and mesh molding techniques in the second and third positions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "59 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -129,8 +108,36 @@ tags:
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yori_liza_sleb_blan.2022.LCAaMCDMAtDtPo3PCMaG/">Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers</a></li>
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhou_yuan_zhou.2021.DaFoa3CPPSB/">Design and Fabrication of a 3D Concrete Printed Pre-Stressed Bridge</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sala_jaya.2024.SoDFTitCI,
+      author            = "M. P. Salaimanimagudam and Jaganathan Jayaprakash",
+      title             = "Selection of Digital Fabrication Technique in the Construction Industry: A Multi-Criteria Decision-Making Approach",
+      doi               = "10.1007/s11709-024-1075-1",
+      year              = "2024",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. Salaimanimagudam  and J. Jayaprakash, “Selection of Digital Fabrication Technique in the Construction Industry: A Multi-Criteria Decision-Making Approach”, <i>Frontiers of Structural and Civil Engineering</i>, 2024, doi: 10.1007/s11709-024-1075-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Salaimanimagudam, M. P., and Jaganathan Jayaprakash. “Selection of Digital Fabrication Technique in the Construction Industry: A Multi-Criteria Decision-Making Approach”. <i>Frontiers of Structural and Civil Engineering</i>, 2024. https://doi.org/10.1007/s11709-024-1075-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

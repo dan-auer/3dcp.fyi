@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zicheng Zhuang, Fengming Xu, Junhong Ye, Nan Hu, Liming Jiang, Yiwei Weng
+    - footer
+title: Zhuang Zicheng, Xu Fengming, Ye Junhong, Hu Nan, Jiang Liming, Weng Yiwei
 description:
 tags:
  - comprehension
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.nature.com/articles/s44296-024-00017-9.pdf) A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1038/s44296-024-00017-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s44296-024-00017-9</a>
+#A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s44296-024-00017-9.pdf) <a href="https://doi.org/10.1038/s44296-024-00017-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s44296-024-00017-9" target="_blank">10.1038/s44296-024-00017-9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7693-4289" title="ORCID: 0000-0001-7693-4289" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuang_zicheng"><b>Zhuang</b>&nbsp;Zicheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-0591" title="ORCID: 0000-0002-8678-0591" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_fengming"><b>Xu</b>&nbsp;Fengming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3536-8414" title="ORCID: 0000-0003-3536-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_nan"><b>Hu</b>&nbsp;Nan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8112-2330" title="ORCID: 0000-0001-8112-2330" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_liming"><b>Jiang</b>&nbsp;Liming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
+Journal Article - npj Materials Sustainability, Vol. 2, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a> <a href="https://orcid.org/0000-0001-7693-4289" title="ORCID: 0000-0001-7693-4289" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a> <a href="https://orcid.org/0000-0002-8678-0591" title="ORCID: 0000-0002-8678-0591" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> <a href="https://orcid.org/0000-0003-3536-8414" title="ORCID: 0000-0003-3536-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_liming"><b>Jiang</b> Liming</a> <a href="https://orcid.org/0000-0001-8112-2330" title="ORCID: 0000-0001-8112-2330" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - npj Materials Sustainability, Vol. 2, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Review%20of%20Sustainable%20Materials%20and%20Tool-Path-Optimization%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399300372" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s44296-024-00017-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s44296-024-00017-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction sector has experienced remarkable advancements in recent years, driven by the demand for sustainable and efficient building practices. Among these advancements, 3D concrete printing has emerged as a highly promising technology that holds the potential to revolutionize the construction industry. This review paper aims to provide a comprehensive analysis of the latest developments in three vital areas related to 3D concrete printing: sustainable materials, structural optimization, and toolpath design. A systematic literature review approach is employed based on established practices in additive manufacturing for construction to explore the intersections between these areas. The review reveals that material recycling plays a crucial role in achieving sustainable construction practices. Extensive research has been conducted on structural optimization methodologies to enhance the performance and efficiency of 3D printed concrete structures. In the printing process, toolpath design plays a significant role in ensuring the precise and efficient deposition of concrete. This paper discusses various toolpath generation strategies that take factors such as geometric complexity, printing constraints, and material flow control into account. In summary, the insights presented in this paper may serve as guidelines for researchers, engineers, and industry professionals towards sustainable and efficient construction practices using 3D concrete printing technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "74 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
@@ -144,11 +119,10 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
-      <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xuhua"><b>Liu</b> Xuhua</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_liu_wei_pan.2025.PtTPo3PPFREBoMM/">Predicting the Tensile Performance of 3D-Printed PE Fiber-Reinforced ECC Based on Micromechanics Model</a></li>
@@ -160,6 +134,35 @@ tags:
       <li><a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b> Ghaith</a>, <a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a>, <a href="../../../author/rub_k-abu_rashid"><b>Rub</b> Rashid</a>, <a href="../../../author/cho_cung-suk"><b>Cho</b> Cung-Suk</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../nass_ali_rub_cho.2025.OCBMFf3P/">Optimizing Cement-Based Material Formulation for 3D Printing:<br/>Integrating Carbon Nanotubes and Silica Fume</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/zhao_xueqi"><b>Zhao</b> Xueqi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhao_qian.2024.VBPD3CPPSFEILB/">Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior</a></li>
-      <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP,
+      author            = "Zicheng Zhuang and Fengming Xu and Junhong Ye and Nan Hu and Liming Jiang and Yiwei Weng",
+      title             = "A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing",
+      doi               = "10.1038/s44296-024-00017-9",
+      year              = "2024",
+      journal           = "npj Materials Sustainability",
+      volume            = "2",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zhuang, F. Xu, J. Ye, N. Hu, L. Jiang and Y. Weng, “A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing”, <i>npj Materials Sustainability</i>, vol. 2, no. 1, 2024, doi: 10.1038/s44296-024-00017-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhuang, Zicheng, Fengming Xu, Junhong Ye, Nan Hu, Liming Jiang, and Yiwei Weng. “A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing”. <i>Npj Materials Sustainability</i> 2, no. 1 (2024). https://doi.org/10.1038/s44296-024-00017-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

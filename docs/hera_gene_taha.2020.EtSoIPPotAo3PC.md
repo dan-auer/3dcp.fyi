@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Heras Murica, Moneeb Genedy, Mahmoud Taha
+    - footer
+title: Heras Murica Daniel, Genedy Moneeb, Taha Mahmoud
 description:
 tags:
  - anisotropy
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete ([2020-09](date/2020/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.120559" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.120559</a>
+#Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete ([2020-09](date/2020/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.120559" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.120559" target="_blank">10.1016/j.conbuildmat.2020.120559</a>
 
--------------------------
+<a href="../../../author/heras-murica_daniel"><b>Heras Murica</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0037-5086" title="ORCID: 0000-0002-0037-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/genedy_moneeb"><b>Genedy</b>&nbsp;Moneeb</a></span>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b>&nbsp;Mahmoud</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 262
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>
-,     <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a> <a href="https://orcid.org/0000-0002-0037-5086" title="ORCID: 0000-0002-0037-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 262, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#examination`](keyword/examination)
-    [`#infill`](keyword/infill)
-    [`#pattern`](keyword/pattern)
-    [`#print`](keyword/print)
-    [`#significance`](keyword/significance)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/significance"><button class="btn">#significance</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Examining%20the%20Significance%20of%20Infill-Printing-Pattern%20on%20the%20Anisotropy%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85090962881&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3087777498" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.120559" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.120559?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing relies on the deposition of layers of material upon existing ones. The nature of this method disadvantages materials such as concrete due to the rheological changes of the material over time, the lack of standardization of the printing process, and the nature of the deposition process. This paper examines the significance of infill printing patterns on the anisotropic properties of3D printed concrete. The rheological properties, the compressive strength, and the interlayer and interfilamentous bond strength of the 3D printed concrete were characterized. We show that there is a directional dependency on all the infill patterns. The specimens show lower compressive strength, and modulus of elasticity in the Z (extrusion) direction compared with the X and Y directions but insignificant difference of the strength and modulus between the X and Y directions. However, no directional dependency was found for the strain at failure. On the other hand, no significant difference in the mechanical properties of 3D printed concrete was observed or can be attributed to the infill printing patterns. The results also show that the 3D printed concrete shows higher compressive strength, for two out of the three testing directions (X and Y) than conventionally cast concrete. This is due to the compactness associated with the printing process that is strongly dependent on the printing parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -97,8 +77,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "112 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/drumond_henrique-cota_pedro"><b>Drumond</b> Pedro</a>, <a href="../../../author/milagres_faria-barros_geysiane"><b>Milagres</b> Geysiane</a>, <a href="../../../author/parassen_renata_paloma"><b>Parassen</b> Paloma</a>, <a href="../../../author/santos_nascimento-procopio_luana"><b>Santos</b> Luana</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../drum_mila_para_sant.2025.AoPDiFTo3PRCB/">Assessment of Printing Direction in Flexural Tests of 3D Printed Reinforced Concrete Beams</a></li>
@@ -211,4 +192,33 @@ tags:
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/widjaya_christian_david"><b>Widjaya</b> David</a>, <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b> Alexander</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_widj_wibo_chan.2022.UCOaAtCtISToMi3CP/">Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing</a></li>
       <li><a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../sepa_shi_yang_shir.2020.AMAfI40/">Additive Manufacturing Applications for Industry 4.0:<br/>A Systematic Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hera_gene_taha.2020.EtSoIPPotAo3PC,
+      author            = "Daniel Heras Murica and Moneeb Genedy and Mahmoud M. Reda Taha",
+      title             = "Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2020.120559",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "262",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. H. Murica, M. Genedy and M. M. R. Taha, “Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 262, 2020, doi: 10.1016/j.conbuildmat.2020.120559.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Murica, Daniel Heras, Moneeb Genedy, and Mahmoud M. Reda Taha. “Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete”. <i>Construction and Building Materials</i> 262 (2020). https://doi.org/10.1016/j.conbuildmat.2020.120559.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mingyang Li, Dong Zhang, Teck Wong, Ming Tan, Yiwei Weng
+    - footer
+title: Li Mingyang, Zhang Dong, Wong Teck, Tan Ming, Weng Yiwei
 description:
 tags:
  - cast
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.36922/msam.1603) Modeling and Experimental Investigation of Fiber Orientation in Cast and 3D Printed Cementitious Composites ([2023-09](date/2023/09))
-<a href="https://doi.org/10.36922/msam.1603" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.36922/msam.1603</a>
+#Modeling and Experimental Investigation of Fiber Orientation in Cast and 3D Printed Cementitious Composites ([2023-09](date/2023/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.36922/msam.1603) <a href="https://doi.org/10.36922/msam.1603" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.36922/msam.1603" target="_blank">10.36922/msam.1603</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <a href="../../../author/zhang_dong"><b>Zhang</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
+Journal Article - Materials Science in Additive Manufacturing, Vol. 2, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Science in Additive Manufacturing, Vol. 2, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cast`](keyword/cast)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#experiment`](keyword/experiment)
-    [`#fiber`](keyword/fiber)
-    [`#investigation`](keyword/investigation)
-    [`#model`](keyword/model)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modeling%20and%20Experimental%20Investigation%20of%20Fiber%20Orientation%20in%20Cast%20and%203D%20Printed%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195211347&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387103158" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.36922/msam.1603" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.36922/msam.1603?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fiber orientation is process-related and has significant impacts on material performance. However, existing studies only consider the impact of individual factors on the fiber orientation, either boundary impacts or flow field impacts. This work aims to study fiber orientation by considering the combined impact of these two factors. Analytical models were first constructed, which revealed that when the flow of material is negligible, fiber orientation is impacted by the boundary conditions. When the flow field is non-negligible, fiber orientation is affected by the direction of flow streamlines. Specimens were then prepared using fluorescence image processing and µ-computed tomography scanning for fiber orientation analysis. The results indicate that fiber orientation could be controlled by varying boundary constraints and flow fields. Mechanical results reveal that when the designed condition achieves directionalorientated fibers, the mechanical property of specimens could be enhanced with the applied stress direction being the same as the fiber orientation. This work provides a novel insight to tailor fiber-reinforced cementitious material properties by designing the boundary constraints and flow fields in the cast and printing processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../figu_rodr_ahme_bos.2020.MBoPSHCC/">Mechanical Behavior of Printed Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
@@ -84,11 +60,41 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../weng_qian_he_li.2018.3PHPFRCCFLSP/">3D Printable High-Performance Fiber-Reinforced Cementitious Composites For Large-Scale Printing</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/mo_liwu"><b>Mo</b> Liwu</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../weng_ruan_li_mo.2019.FSoSMPPCPf3P/">Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM/">Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods</a></li>
       <li><a href="../../../author/rama-krishna_k_a"><b>Rama Krishna</b> A.</a>, <a href="../../../author/mallik_mainak"><b>Mallik</b> Mainak</a>, <a href="../../../author/maity_damodar"><b>Maity</b> Damodar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../rama_mall_mait.2024.DaACMf3CP/">Developing an Appropriate Concrete Mix for 3D Concrete Printing</a></li>
       <li><a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../birr_rehm_kim.2024.CAoSBUiOCSaTCSASoDMf3CP/">Comparative Analysis of Structural Build-Up in One-Component Stiff and Two-Component Shotcrete-Accelerated Set-on-Demand Mixtures for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_zhan_wong_tan.2023.MaEIoFOiCa3PCC,
+      author            = "Mingyang Li and Dong Zhang and Teck Neng Wong and Ming Jen Tan and Yiwei Weng",
+      title             = "Modeling and Experimental Investigation of Fiber Orientation in Cast and 3D Printed Cementitious Composites",
+      doi               = "10.36922/msam.1603",
+      year              = "2023",
+      journal           = "Materials Science in Additive Manufacturing",
+      volume            = "2",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Li, D. Zhang, T. N. Wong, M. J. Tan and Y. Weng, “Modeling and Experimental Investigation of Fiber Orientation in Cast and 3D Printed Cementitious Composites”, <i>Materials Science in Additive Manufacturing</i>, vol. 2, no. 3, 2023, doi: 10.36922/msam.1603.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Mingyang, Dong Zhang, Teck Neng Wong, Ming Jen Tan, and Yiwei Weng. “Modeling and Experimental Investigation of Fiber Orientation in Cast and 3D Printed Cementitious Composites”. <i>Materials Science in Additive Manufacturing</i> 2, no. 3 (2023). https://doi.org/10.36922/msam.1603.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

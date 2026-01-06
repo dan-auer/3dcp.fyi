@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chaofan Wang, Bin Li, Bing Chen
+    - footer
+title: Wang Chaofan, Li Bin, Chen Bing
 description:
 tags:
  - cement
@@ -21,36 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing Printability and Mechanical Performance of 3D Printed Magnesium Phosphate Cement Through Silica Fume Modification:<br/>:aca-blank: Rheological, Microstructural, and Numerical Insights ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141302" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141302</a>
+#Enhancing Printability and Mechanical Performance of 3D Printed Magnesium Phosphate Cement Through Silica Fume Modification&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">Rheological, Microstructural, and Numerical Insights</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141302" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141302" target="_blank">10.1016/j.conbuildmat.2025.141302</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9800-9748" title="ORCID: 0000-0001-9800-9748" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_chaofan"><b>Wang</b>&nbsp;Chaofan</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-6305-1377" title="ORCID: 0009-0002-6305-1377" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_bin"><b>Li</b>&nbsp;Bin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2862-3392" title="ORCID: 0000-0003-2862-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_bing"><b>Chen</b>&nbsp;Bing</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 477, No. 141302
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a> <a href="https://orcid.org/0000-0001-9800-9748" title="ORCID: 0000-0001-9800-9748" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_bin"><b>Li</b> Bin</a> <a href="https://orcid.org/0009-0002-6305-1377" title="ORCID: 0009-0002-6305-1377" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_bing"><b>Chen</b> Bing</a> <a href="https://orcid.org/0000-0003-2862-3392" title="ORCID: 0000-0003-2862-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 477, No. 141302
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#enhancement`](keyword/enhancement)
-    [`#fume`](keyword/fume)
-    [`#insights`](keyword/insights)
-    [`#magnesium`](keyword/magnesium)
-    [`#mechanics`](keyword/mechanics)
-    [`#modification`](keyword/modification)
-    [`#numeric`](keyword/numeric)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#silica`](keyword/silica)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Printability%20and%20Mechanical%20Performance%20of%203D%20Printed%20Magnesium%20Phosphate%20Cement%20Through%20Silica%20Fume%20Modification" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002814829&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409596312" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141302" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141302?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explores the modification of 3D printed magnesium phosphate cement (MPC) using silica fume (SF) from rheological, microstructural and numerical perspectives, with the aim of enhancing its printability and mechanical performance. Results demonstrate that the incorporation of SF improved the yield stress and viscosity by forming compact flocculation structures. For hardened 3D printed MPC, SF reduced its mechanical anisotropy by enhancing its interlayer bonding. Microstructural analysis reveals that SF refined pores, suppressed dittmarite formation and promoted the formation of magnesium silicate hydrated (M-S-H) phase at interlayers, which is critical for the interlayer bonding enhancement. A discrete element method (DEM) model validates the critical influence of interlayer bonding on anisotropic behavior and reveals the failure mechanism of 3D printed MPC loaded in different loading directions. This work bridges the gap between rheology control and mechanical anisotropy in 3D printed MPC, offering valuable insights for advancing additive manufacturing in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
@@ -110,9 +85,39 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_li_chen.2025.EPaMPo3PMPCTSFM,
+      author            = "Chaofan Wang and Bin Li and Bing Chen",
+      title             = "Enhancing Printability and Mechanical Performance of 3D Printed Magnesium Phosphate Cement Through Silica Fume Modification: Rheological, Microstructural, and Numerical Insights",
+      doi               = "10.1016/j.conbuildmat.2025.141302",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "477",
+      pages             = "141302",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Wang, B. Li and B. Chen, “Enhancing Printability and Mechanical Performance of 3D Printed Magnesium Phosphate Cement Through Silica Fume Modification: Rheological, Microstructural, and Numerical Insights”, <i>Construction and Building Materials</i>, vol. 477, p. 141302, 2025, doi: 10.1016/j.conbuildmat.2025.141302.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Chaofan, Bin Li, and Bing Chen. “Enhancing Printability and Mechanical Performance of 3D Printed Magnesium Phosphate Cement Through Silica Fume Modification: Rheological, Microstructural, and Numerical Insights”. <i>Construction and Building Materials</i> 477 (2025): 141302. https://doi.org/10.1016/j.conbuildmat.2025.141302.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

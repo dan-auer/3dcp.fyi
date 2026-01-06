@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Victor Bono, Nicolas Ducoulombier, Romain Mesnil, Jean-François Caron
+    - footer
+title: Bono Victor, Ducoulombier Nicolas, Mesnil Romain, Caron Jean-François
 description:
 tags:
  - carbon
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Methodology for Formulating Low-Carbon Printable Mortar Through Particles-Packing-Optimization ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.cemconres.2023.107403" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2023.107403</a>
+#Methodology for Formulating Low-Carbon Printable Mortar Through Particles-Packing-Optimization ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2023.107403" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2023.107403" target="_blank">10.1016/j.cemconres.2023.107403</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-7596-9395" title="ORCID: 0009-0006-7596-9395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bono_victor"><b>de&nbsp;Bono</b>&nbsp;Victor</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 176, No. 107403
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bono_victor"><b>de Bono</b> Victor</a> <a href="https://orcid.org/0009-0006-7596-9395" title="ORCID: 0009-0006-7596-9395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 176, No. 107403
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#formulas`](keyword/formulas)
-    [`#low`](keyword/low)
-    [`#method`](keyword/method)
-    [`#mortar`](keyword/mortar)
-    [`#optimization`](keyword/optimization)
-    [`#packing`](keyword/packing)
-    [`#particle`](keyword/particle)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/packing"><button class="btn">#packing</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Methodology%20for%20Formulating%20Low-Carbon%20Printable%20Mortar%20Through%20Particles-Packing-Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185836781&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389962815" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2023.107403" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2023.107403?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     High packing density is one of the key factors for obtaining ultra-high-performance cementitious materials in the hardened state. Packing density also plays a role in the fresh state, influencing various properties of dense suspensions, including rheological properties and stability, which are highly important in 3d printing applications. The maximum packing density of a specific mixture can be estimated by considering the geometrical properties and proportions of each component using the compressive packing model (CPM). This paper aims to utilize the CPM as an efficient tool for designing cementitious materials specifically tailored for large-scale 3D printing of mortar in bi-component printing systems, with a focus on maximizing the performance-to-environmental impact ratio. Two different sets of mixtures were prepared for this study. Set A consisted of cement, sand, and silica fume, while Set B utilized cement, multiple sands, and multiple limestone fillers. Within each group, various mixtures were tested on a small scale to validate their rheological properties, particularly the yield stress. Pumpability, extrudability and buildability were evaluated by utilizing these mixtures in different printing sessions. Additionally, the compressive strengths of these mixtures were characterized. Finally, a method for designing a printable mixture is presented, and efficient and printable formulations with low cement ratio are proposed and printed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhat_jain_sant.2022.CoMEaaEAotBoaA3PC/">Criticality of Microstructural Evolution at an Early-Age on the Buildability of an Accelerated 3D Printable Concrete</a></li>
@@ -107,8 +84,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
       <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/rosa_sarkis_pedro"><b>Rosa</b> Pedro</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mesn_rosa_demo.2025.TOi3PCS/">Thickness Optimisation in 3D Printed Concrete Structures</a></li>
       <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jin_caro_ouel.2024.MtCFo3PC/">Minimizing the Carbon Footprint of 3D Printing Concrete:<br/>Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization</a></li>
@@ -118,4 +95,34 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../perr_jacq_caro_mesn.2024.So3PwABaM/">Snapshot on 3D Printing with Alternative Binders and Materials:<br/>Earth, Geopolymers, Gypsum and Low-Carbon Concrete</a></li>
       <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bono_mesn_duco_caro.2024.DSOaFoCSTFR3P/">Design, Structural Optimization and Fabrication of Concrete Shell Through Fiber-Reinforced 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bono_duco_mesn_caro.2024.MfFLCPMTPPO,
+      author            = "Victor de Bono and Nicolas Ducoulombier and Romain Mesnil and Jean-François Caron",
+      title             = "Methodology for Formulating Low-Carbon Printable Mortar Through Particles-Packing-Optimization",
+      doi               = "10.1016/j.cemconres.2023.107403",
+      year              = "2024",
+      journal           = "Cement and Concrete Research",
+      volume            = "176",
+      pages             = "107403",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. de Bono, N. Ducoulombier, R. Mesnil and J.-F. Caron, “Methodology for Formulating Low-Carbon Printable Mortar Through Particles-Packing-Optimization”, <i>Cement and Concrete Research</i>, vol. 176, p. 107403, 2024, doi: 10.1016/j.cemconres.2023.107403.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bono, Victor de, Nicolas Ducoulombier, Romain Mesnil, and Jean-François Caron. “Methodology for Formulating Low-Carbon Printable Mortar Through Particles-Packing-Optimization”. <i>Cement and Concrete Research</i> 176 (2024): 107403. https://doi.org/10.1016/j.cemconres.2023.107403.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

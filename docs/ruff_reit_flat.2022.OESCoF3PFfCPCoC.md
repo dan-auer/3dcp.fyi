@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nicolas Ruffray, Lex Reiter, Robert Flatt
+    - footer
+title: Ruffray Nicolas, Reiter Lex, Flatt Robert
 description:
 tags:
  - cast
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831541) Overcoming Environmental Stress-Cracking of FDM 3D Printed Formwork for Counter-Pressure Casting of Concrete ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1089/3dp.2021.0006" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1089/3dp.2021.0006</a>
+#Overcoming Environmental Stress-Cracking of FDM 3D Printed Formwork for Counter-Pressure Casting of Concrete ([2022-04](date/2022/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831541) <a href="https://doi.org/10.1089/3dp.2021.0006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2021.0006" target="_blank">10.1089/3dp.2021.0006</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7957-3201" title="ORCID: 0000-0002-7957-3201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruffray_nicolas"><b>Ruffray</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 2, pp. 122-131
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ruffray_nicolas"><b>Ruffray</b> Nicolas</a> <a href="https://orcid.org/0000-0002-7957-3201" title="ORCID: 0000-0002-7957-3201" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 2, pp. 122-131
-
-:aca-blank:{ .lg .middle}
-    [`#cast`](keyword/cast)
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#environment`](keyword/environment)
-    [`#formwork`](keyword/formwork)
-    [`#pressure`](keyword/pressure)
-    [`#print`](keyword/print)
-    [`#stress`](keyword/stress)
-
-
--------------------------
+<a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Overcoming%20Environmental%20Stress-Cracking%20of%20FDM%203D%20Printed%20Formwork%20for%20Counter-Pressure%20Casting%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129284945&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3200093806" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1089/3dp.2021.0006" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1089/3dp.2021.0006?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid growth of interest toward concrete digital fabrication reflects the current aspiration for better, smarter, faster, and greener construction means. Among a broad variety of techniques developed by our community, digital casting presents clear advantages regarding dimensional precision, geometrical freedom, and surface finish of the produced elements. In contrast to robotic slip forming, the usage of digitally fabricated formworks requires simpler equipment. It, however, calls for easily shaped formworks, typically best three-dimensional (3D) printed, for example, by fused deposition modeling. While such molds can be easily fabricated with a wide range of commercially off-the-shelf available 3D printers, a shortcoming is the susceptibility of many polymers to environmental stress cracking, particularly when in contact with high pH solutions typical for cementitious materials. This article confirms the problem posed by this type of environmental stress cracking and presents two very effective means of circumventing it: A silicone coating and cyclic olefin copolymer. Apart from this, in the specific case of counterpressure casting (CPC), hydrostatic pressure must be resisted by a powder bed surrounding the formwork. The efficiency of such beds is examined and a particular mixture of sand and lead is shown to be particularly effective, provided its density is regulated to balance stress principles derived from soil mechanics. Presented applications include the successful CPC of thin prismatic formworks with a concrete height up to 3 m as representative of typical interfloor load-bearing elements. The combination of counterpressure and stress control is shown to be essential for such achievement, highlighting the potential of this approach as a viable member of the concrete digital casting family.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -93,12 +72,43 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/andreou_vasilis"><b>Andreou</b> Vasilis</a>, <a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../andr_kont.2024.FOfC3CP/">Formwork-Optimization for Complex 3D Concrete Printing:<br/>A Unified Theoretical, Digital, and Experimental Framework</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/vangen_kathrina"><b>Vangen</b> Kathrina</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wang_vang_burg_flat.2024.DFMPSfBLCMCC/">Digital Fabrication Material-Processing-Strategy for Bespoke Low-Clinker Mass-Concrete Components</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../jipa_reit_flat_dill.2022.ESCo3PPEtC/">Environmental Stress Cracking of 3D Printed Polymers Exposed to Concrete</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/fuhrimann_lukas"><b>Fuhrimann</b> Lukas</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../llor_quad_scot_fuhr.2022.ADC/">Additive Digital Casting:<br/>From Lab to Industry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ruff_reit_flat.2022.OESCoF3PFfCPCoC,
+      author            = "Nicolas Ruffray and Lex Reiter and Robert Johann Flatt",
+      title             = "Overcoming Environmental Stress-Cracking of FDM 3D Printed Formwork for Counter-Pressure Casting of Concrete",
+      doi               = "10.1089/3dp.2021.0006",
+      year              = "2022",
+      journal           = "3D Printing and Additive Manufacturing",
+      volume            = "9",
+      number            = "2",
+      pages             = "122--131",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Ruffray, L. Reiter and R. J. Flatt, “Overcoming Environmental Stress-Cracking of FDM 3D Printed Formwork for Counter-Pressure Casting of Concrete”, <i>3D Printing and Additive Manufacturing</i>, vol. 9, no. 2, pp. 122–131, 2022, doi: 10.1089/3dp.2021.0006.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ruffray, Nicolas, Lex Reiter, and Robert Johann Flatt. “Overcoming Environmental Stress-Cracking of FDM 3D Printed Formwork for Counter-Pressure Casting of Concrete”. <i>3D Printing and Additive Manufacturing</i> 9, no. 2 (2022): 122–31. https://doi.org/10.1089/3dp.2021.0006.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

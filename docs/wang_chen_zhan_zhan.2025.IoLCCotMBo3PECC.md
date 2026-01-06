@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuting Wang, Meng Chen, Tong Zhang, Mingzhong Zhang
+    - footer
+title: Wang Yuting, Chen Meng, Zhang Tong, Zhang Mingzhong
 description:
 tags:
  - behavior
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106366" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106366</a>
+#Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106366" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106366" target="_blank">10.1016/j.cemconcomp.2025.106366</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-7345-0562" title="ORCID: 0009-0007-7345-0562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yuting"><b>Wang</b>&nbsp;Yuting</a></span>, <a href="../../../author/chen_meng"><b>Chen</b>&nbsp;Meng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_tong"><b>Zhang</b>&nbsp;Tong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_mingzhong"><b>Zhang</b>&nbsp;Mingzhong</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106366
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="https://orcid.org/0009-0007-7345-0562" title="ORCID: 0009-0007-7345-0562" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>
-,     <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106366
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#influence`](keyword/influence)
-    [`#limestone`](keyword/limestone)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Limestone%20Calcined%20Clay%20on%20the%20Mechanical%20Behaviour%20of%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019192346&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415300319" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106366" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106366?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Utilisation of engineered cementitious composites (ECC) for additive manufacturing can help improve the toughness and deformability of printed structures, while it is vital to further enhance its sustainability for engineering applications. In this study, limestone calcined clay was adopted as an alternative low-carbon binder to cement at replacement levels of 0, 30% 45% and 60% for 3D printed ECC. The mechanical properties of printed ECC based on limestone calcined clay cement (LC3) were systematically investigated. Results reveal that the tensile strength of printed ECC dropped but the strain capacity raised with increasing limestone calcined clay substitution. All printed LC3 based ECC exhibited strain hardening behaviour and have a tensile strain of over 2%. The compressive and flexural strengths of cast specimens declined with increasing limestone calcined clay content, while the strengths of printed counterparts improved when loaded in individual printed directions. Interlayer bonding strength of the printed LC3 based ECC in the horizontal direction reduced by 3.58%–8.32% while that in the vertical direction raised by 5.69%–9.64% than strengths of printed ordinary ECC. Fracture toughness of printed ECC significantly decreased with increasing limestone calcined clay substitution. Nevertheless, the interlayer fracture toughness of printed LC3 based ECC achieved 65% of the internal fracture toughness, where the bridging effect of fibres embedded in the interlayer resulted in an enhancement of interfacial performance. Overall, the printed ECC showed desirable mechanical properties due to the enhancement of ductility and interlayer bonding behaviour when the substitution of limestone calcined clay is below 45%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../bai_xiao_ding_yu.2024.IBPB3PECCaPCC/">Interfacial Bond-Properties Between 3D Printed Engineered Cementitious Composite and Post-Cast Concrete</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
@@ -109,7 +86,36 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC,
+      author            = "Yuting Wang and Meng Chen and Tong Zhang and Mingzhong Zhang",
+      title             = "Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2025.106366",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106366",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, M. Chen, T. Zhang and M. Zhang, “Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites”, <i>Cement and Concrete Composites</i>, p. 106366, 2025, doi: 10.1016/j.cemconcomp.2025.106366.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yuting, Meng Chen, Tong Zhang, and Mingzhong Zhang. “Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites”. <i>Cement and Concrete Composites</i>, 2025, 106366. https://doi.org/10.1016/j.cemconcomp.2025.106366.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

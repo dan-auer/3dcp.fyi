@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zhong Ray 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_besk_krav_zhon.2025.EVo3CP/">Economic Viability of 3D Concrete Printing:<br/>A Comparative Study with Traditional Construction Method</a></li>
   <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_krav_besk_lazo.2025.3PoRMfSC/">3D Printing of Recycled Materials for Sustainable Construction:<br/>A Comprehensive Economic and Life Cycle Assessment</a></li>
   <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../raza_besk_zhon.2024.CEVSAoOSaOS3CPP/">Comparative Environmental Value-Stream-Assessment of Off-Site and On-Site 3D Construction Printing Processes</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Barrie Dams, Binling Chen, Yusuf Kaya, Paul Shepherd, Mirko Kovac, Richard Ball
+    - footer
+title: Dams Barrie, Chen Binling, Kaya Yusuf, Shepherd Paul, Kovac Mirko, Ball Richard
 description:
 tags:
  - additive
@@ -15,33 +16,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } The Rise of Aerial Additive Manufacturing in Construction:<br/>:aca-blank: A Review of Material Advancements ([2024-11](date/2024/11))
-<a href="https://doi.org/10.3389/fmats.2024.1458752" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fmats.2024.1458752</a>
+#The Rise of Aerial Additive Manufacturing in Construction&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">A Review of Material Advancements</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3389/fmats.2024.1458752" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2024.1458752" target="_blank">10.3389/fmats.2024.1458752</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7081-5457" title="ORCID: 0000-0001-7081-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dams_barrie"><b>Dams</b>&nbsp;Barrie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0719-7398" title="ORCID: 0000-0003-0719-7398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_binling"><b>Chen</b>&nbsp;Binling</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2963-1896" title="ORCID: 0000-0003-2963-1896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b>&nbsp;Yusuf</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shepherd_paul"><b>Shepherd</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9720-2463" title="ORCID: 0000-0002-9720-2463" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kovac_mirko"><b>Kovac</b>&nbsp;Mirko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ball_j_richard"><b>Ball</b>&nbsp;Richard</a></span><br>
+Journal Article - Frontiers in Materials, Vol. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a> <a href="https://orcid.org/0000-0001-7081-5457" title="ORCID: 0000-0001-7081-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_binling"><b>Chen</b> Binling</a> <a href="https://orcid.org/0000-0003-0719-7398" title="ORCID: 0000-0003-0719-7398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a> <a href="https://orcid.org/0000-0003-2963-1896" title="ORCID: 0000-0003-2963-1896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> <a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kovac_mirko"><b>Kovac</b> Mirko</a> <a href="https://orcid.org/0000-0002-9720-2463" title="ORCID: 0000-0002-9720-2463" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a> <a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers in Materials, Vol. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#advance`](keyword/advance)
-    [`#aerial`](keyword/aerial)
-    [`#construction`](keyword/construction)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/aerial"><button class="btn">#aerial</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Rise%20of%20Aerial%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217380734&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406850080" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3389/fmats.2024.1458752" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3389/fmats.2024.1458752?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry has recently increased the adoption of additive manufacturing (AM, also known as 3D-printing) technologies. This review paper presents the state of the art of groundbased AM systems in construction, focusing comprehensively on developments in the material aspect towards using unmanned aerial vehicles (UAV), commonly referred to as 'drones'. AM itself is introduced, and an overview of the history of AM is provided. Key projects developing both ground-based cementitious and polymeric AM applications for construction purposes are reviewed along with material constituents, AM deposition methods and reinforcement techniques to mitigate against crack propagation. The review details a cutting-edge Aerial Additive Manufacturing (AAM) system developed to utilise untethered, self-powered UAV platforms extruding material during autonomous flight, which is designed to bring multi-agent aerial mobility to AM in the construction industry. An overview of the history of UAV development is presented, as well as the current use of UAV platforms combined with material deposition devices for construction and considerations for developing suitable materials and future research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "98 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -93,7 +71,6 @@ tags:
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/orr_lachlan"><b>Orr</b> Lachlan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../dams_chen_kaya_orr.2024.FPaADoPCMfAAM/">Fresh Properties and Autonomous Deposition of Pseudoplastic Cementitious Mortars for Aerial Additive Manufacturing</a></li>
-      <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a>, <a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../dams_chen_shep_ball.2023.DoCMfAAM/">Development of Cementitious Mortars for Aerial Additive Manufacturing</a></li>
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a>, <a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../dams_shep_ball.2023.DaPEoFPQCSfAAM/">Development and Performance Evaluation of Fibrous Pseudoplastic Quaternary Cement Systems for Aerial Additive Manufacturing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
@@ -167,9 +144,37 @@ tags:
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a>, <a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ball_dams_shep_chen.2025.EAAMwCMUAD/">Exploring Aerial Additive Manufacturing with Cementitious Materials Using Autonomous Drones</a></li>
-      <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dams_chen_kaya_shep.2024.TRoAAMiC,
+      author            = "Barrie Dams and Binling Chen and Yusuf Furkan Kaya and Paul Shepherd and Mirko Kovac and Richard J. Ball",
+      title             = "The Rise of Aerial Additive Manufacturing in Construction: A Review of Material Advancements",
+      doi               = "10.3389/fmats.2024.1458752",
+      year              = "2024",
+      journal           = "Frontiers in Materials",
+      volume            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Dams, B. Chen, Y. F. Kaya, P. Shepherd, M. Kovac and R. J. Ball, “The Rise of Aerial Additive Manufacturing in Construction: A Review of Material Advancements”, <i>Frontiers in Materials</i>, vol. 11, 2024, doi: 10.3389/fmats.2024.1458752.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dams, Barrie, Binling Chen, Yusuf Furkan Kaya, Paul Shepherd, Mirko Kovac, and Richard J. Ball. “The Rise of Aerial Additive Manufacturing in Construction: A Review of Material Advancements”. <i>Frontiers in Materials</i> 11 (2024). https://doi.org/10.3389/fmats.2024.1458752.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Haoyu Lu, Lizhi Zhang, Junkai Wang, Zhaoxin Shi, Wei She, Wenqiang Zuo
+    - footer
+title: Lu Haoyu, Zhang Lizhi, Wang Junkai, Shi Zhaoxin, She Wei, Zuo Wenqiang
 description:
 tags:
  - assessment
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Penetration-Test of Sheet-Like Indenter for Yield-Stress-Assessment of 3D Printed Concrete ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107728" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107728</a>
+#Penetration-Test of Sheet-Like Indenter for Yield-Stress-Assessment of 3D Printed Concrete ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2024.107728" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107728" target="_blank">10.1016/j.cemconres.2024.107728</a>
 
--------------------------
+<a href="../../../author/lu_haoyu"><b>Lu</b>&nbsp;Haoyu</a></span>, <a href="../../../author/zhang_lizhi"><b>Zhang</b>&nbsp;Lizhi</a></span>, <a href="../../../author/wang_junkai"><b>Wang</b>&nbsp;Junkai</a></span>, <a href="../../../author/shi_zhaoxin"><b>Shi</b>&nbsp;Zhaoxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6959-1625" title="ORCID: 0000-0002-6959-1625" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/she_wei"><b>She</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_wenqiang"><b>Zuo</b>&nbsp;Wenqiang</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 188, No. 107728
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lu_haoyu"><b>Lu</b> Haoyu</a>
-,     <a href="../../../author/zhang_lizhi"><b>Zhang</b> Lizhi</a>
-,     <a href="../../../author/wang_junkai"><b>Wang</b> Junkai</a>
-,     <a href="../../../author/shi_zhaoxin"><b>Shi</b> Zhaoxin</a>
-,     <a href="../../../author/she_wei"><b>She</b> Wei</a> <a href="https://orcid.org/0000-0002-6959-1625" title="ORCID: 0000-0002-6959-1625" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a> <a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 188, No. 107728
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#penetration`](keyword/penetration)
-    [`#print`](keyword/print)
-    [`#stress`](keyword/stress)
-    [`#test`](keyword/test)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Penetration-Test%20of%20Sheet-Like%20Indenter%20for%20Yield-Stress-Assessment%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209995358&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404742258" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107728" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107728?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The evolution of early mechanical properties of 3D-printed concrete (3DPC) plays a crucial role in early constructability, while current methods face challenges on the tradeoff between the accuracy and feasibility of mechanical properties characterization. In this paper, we designed a sheet-like indenter configuration to quantitatively obtain the yield stress of fresh 3DPC. First, we show the typical force-depth curve of sheet-like indenters obtained during the penetration test and analyze the main factors affecting the penetration resistance at various regimes. Then, we derive the quantitative correlation between the yield stress and the force-depth curve based on numerical simulation. Our results show that the slipping phenomenon between the indenter side and the material leads to an underestimation of the yield stress compared to the standard compression test and cone-shaped indenter. We moreover propose a sheet-like indenter with surface roughness modification to obtain the accurate yield stress value, together with a formula for the yield stress calculation based on the force-depth curve. Finally, we assess the feasibility of the proposed approach, which can robustly predict fresh 3DPC with yield stresses in the range of 1–100 kPa.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -101,9 +78,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../zhao_yang_zhu_ding.2022.EoRPaPSoMAo3PBFCM/">Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
       <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lu_zhan_wang_shi.2025.PToSLIfYSAo3PC,
+      author            = "Haoyu Lu and Lizhi Zhang and Junkai Wang and Zhaoxin Shi and Wei She and Wenqiang Zuo",
+      title             = "Penetration-Test of Sheet-Like Indenter for Yield-Stress-Assessment of 3D Printed Concrete",
+      doi               = "10.1016/j.cemconres.2024.107728",
+      year              = "2025",
+      journal           = "Cement and Concrete Research",
+      volume            = "188",
+      pages             = "107728",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Lu, L. Zhang, J. Wang, Z. Shi, W. She and W. Zuo, “Penetration-Test of Sheet-Like Indenter for Yield-Stress-Assessment of 3D Printed Concrete”, <i>Cement and Concrete Research</i>, vol. 188, p. 107728, 2025, doi: 10.1016/j.cemconres.2024.107728.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lu, Haoyu, Lizhi Zhang, Junkai Wang, Zhaoxin Shi, Wei She, and Wenqiang Zuo. “Penetration-Test of Sheet-Like Indenter for Yield-Stress-Assessment of 3D Printed Concrete”. <i>Cement and Concrete Research</i> 188 (2025): 107728. https://doi.org/10.1016/j.cemconres.2024.107728.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

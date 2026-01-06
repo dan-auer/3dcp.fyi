@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Chen, Nuttapon Toosumran, Noura Chehab, Henri Spanjers, Oğuzhan Çopuroğlu
+    - footer
+title: Chen Yu, Toosumran Nuttapon, Chehab Noura, Spanjers Henri, Çopuroğlu Oğuzhan
 description:
 tags:
  - age
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jclepro.2022.134522) Feasibility Study of Using Desalination-Brine to Control the Stiffness and Early-Age Hydration of 3D Printable Cementitious Materials ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.jclepro.2022.134522" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2022.134522</a>
+#Feasibility Study of Using Desalination-Brine to Control the Stiffness and Early-Age Hydration of 3D Printable Cementitious Materials ([2022-10](date/2022/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jclepro.2022.134522) <a href="https://doi.org/10.1016/j.jclepro.2022.134522" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2022.134522" target="_blank">10.1016/j.jclepro.2022.134522</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1220-9023" title="ORCID: 0000-0003-1220-9023" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toosumran_nuttapon"><b>Toosumran</b>&nbsp;Nuttapon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5197-9517" title="ORCID: 0000-0002-5197-9517" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chehab_noura"><b>Chehab</b>&nbsp;Noura</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9035-9417" title="ORCID: 0000-0002-9035-9417" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spanjers_henri"><b>Spanjers</b>&nbsp;Henri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span><br>
+Journal Article - Journal of Cleaner Production
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/toosumran_nuttapon"><b>Toosumran</b> Nuttapon</a> <a href="https://orcid.org/0000-0003-1220-9023" title="ORCID: 0000-0003-1220-9023" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chehab_noura"><b>Chehab</b> Noura</a> <a href="https://orcid.org/0000-0002-5197-9517" title="ORCID: 0000-0002-5197-9517" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/spanjers_henri"><b>Spanjers</b> Henri</a> <a href="https://orcid.org/0000-0002-9035-9417" title="ORCID: 0000-0002-9035-9417" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#early`](keyword/early)
-    [`#feasibility`](keyword/feasibility)
-    [`#hydration`](keyword/hydration)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#stiffness`](keyword/stiffness)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20Study%20of%20Using%20Desalination-Brine%20to%20Control%20the%20Stiffness%20and%20Early-Age%20Hydration%20of%203D%20Printable%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139591462&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4302762942" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2022.134522" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2022.134522?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper proposes the use of desalination brine as a setting and hydration activator in set-on-demand 3D concrete printing. A series of tests were conducted to investigate the effect of adding different concentrations of desalination brine on stiffness evolution and early-age hydration of Portland cement mortars (PC mixtures) and limestone-calcined clay-based cementitious materials (LC mixtures). Results show that, increasing brine concentration decreased slump, flowability and initial setting time, as well as enhanced buildability, and stimulated the stiffness development within the first hour. Furthermore, the addition of desalination brine resulted in an acceleration of cement hydration, a higher amount of chemically bound water and a higher 1st day compressive strength. The abovementioned behaviors were further promoted by doubling the brine concentration. Due to the presence of reactive aluminates in calcined clay, the acceleration of first-day hydration was slightly diminished and a higher intensity of Friedel’s salt was observed in LC mixtures compared to that of PC mixtures with the same desalination brine addition.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -103,11 +79,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/rathnarajan_sundar"><b>Rathnarajan</b> Sundar</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../siko_rath_fede_tech.2024.UoSaaAi3PC/">Use of Seawater as an Accelerator in 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhan_schl_copu.2024.DoSoD3PLCCBCMUDB/">Development of Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Desalination Brine</a></li>
       <li><a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../luo_yu_long_zhen.2024.IoDToSPoFMPaILAo3PC/">Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rahmani_hossein"><b>Rahmani</b> Hossein</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../chen_rahm_schl_copu.2024.AAtDSoD3PLCCBCMUCN/">An Approach to Develop Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Calcium-Nitrate</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_toos_cheh_span.2022.FSoUDBtCtSaEAHo3PCM,
+      author            = "Yu Chen and Nuttapon Toosumran and Noura Chehab and Henri Spanjers and Oğuzhan Çopuroğlu",
+      title             = "Feasibility Study of Using Desalination-Brine to Control the Stiffness and Early-Age Hydration of 3D Printable Cementitious Materials",
+      doi               = "10.1016/j.jclepro.2022.134522",
+      year              = "2022",
+      journal           = "Journal of Cleaner Production",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, N. Toosumran, N. Chehab, H. Spanjers and O. Çopuroğlu, “Feasibility Study of Using Desalination-Brine to Control the Stiffness and Early-Age Hydration of 3D Printable Cementitious Materials”, <i>Journal of Cleaner Production</i>, 2022, doi: 10.1016/j.jclepro.2022.134522.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yu, Nuttapon Toosumran, Noura Chehab, Henri Spanjers, and Oğuzhan Çopuroğlu. “Feasibility Study of Using Desalination-Brine to Control the Stiffness and Early-Age Hydration of 3D Printable Cementitious Materials”. <i>Journal of Cleaner Production</i>, 2022. https://doi.org/10.1016/j.jclepro.2022.134522.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

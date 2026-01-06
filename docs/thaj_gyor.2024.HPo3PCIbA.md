@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marwah Thajeel, L. György
+    - footer
+title: Thajeel Marwah, György L.
 description:
 tags:
  - anisotropy
@@ -14,26 +15,11 @@ tags:
 
 ---
 
-# Hardened Properties of 3D Printed Concrete Influenced by Anisotropy ([2024-08](date/2024/08))
--------------------------
+#Hardened Properties of 3D Printed Concrete Influenced by Anisotropy ([2024-08](date/2024/08))
+<span class="author"><a href="https://orcid.org/0009-0004-2378-6066" title="ORCID: 0009-0004-2378-6066" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b>&nbsp;Marwah</a></span>, <a href="../../../author/gyorgy_balazs_l"><b>György</b>&nbsp;L.</a></span><br>
+Contribution - Proceedings of the 15th fib International PhD Symposium in Civil Engineering, pp. 1227-1234
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a> <a href="https://orcid.org/0009-0004-2378-6066" title="ORCID: 0009-0004-2378-6066" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gyorgy_balazs_l"><b>György</b> L.</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 15th fib International PhD Symposium in Civil Engineering, pp. 1227-1234
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#hardened`](keyword/hardened)
-    [`#influence`](keyword/influence)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hardened%20Properties%20of%203D%20Printed%20Concrete%20Influenced%20by%20Anisotropy" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -48,17 +34,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of 3D concrete printing (3DCP) provides the capability to produce intricate and unique shapes by employing a printer equipped with a pump, hose, and nozzle. The efficiency of the printing process is a key factor in construction, determined by elements such as the dimensions and complexity of the printed parts, the pump rate, and the quality of the concrete mix. Achieving high precision during printing necessitates the use of advanced construction materials. Unlike traditional casting techniques, 3D CP does not require support formwork, making the fresh properties of the material, the orientation, and the printing direction critical to the structural integrity of the printed items. The process of layering in 3D concrete printing can introduce weaknesses at the joints, affecting the overall mechanical properties of the printed elements. This research explores the impact of loading direction relative to printing direction on the compressive strength, flexural strength, and modulus of elasticity. Moreover, study the effect of three different printing paths on the compressive strength of 3D printed specimens, comparing them with those created using conventional mould casting. The findings reveal that both the direction and path of printing play a significant role in determining the strength of the printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
@@ -69,7 +51,36 @@ tags:
       <li><a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a>, <a href="../../../author/solyom_sandor"><b>Sólyom</b> Sándor</a>, <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b> György</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../thaj_soly_bala.2024.IoPDaPPotCSo3PC/">Impact of Printing-Directions and Printing-Paths on the Compressive Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{thaj_gyor.2024.HPo3PCIbA,
+      author            = "Marwah Manea Thajeel and L. Balázs György",
+      title             = "Hardened Properties of 3D Printed Concrete Influenced by Anisotropy",
+      year              = "2024",
+      pages             = "1227--1234",
+      booktitle         = "Proceedings of the 15th fib International PhD Symposium in Civil Engineering",
+      editor            = "György L. Balázs and Sándor Sólyom and Stephen Foster",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. M. Thajeel  and L. B. György, “Hardened Properties of 3D Printed Concrete Influenced by Anisotropy”, in <i>Proceedings of the 15th fib International PhD Symposium in Civil Engineering</i>,  2024, pp. 1227–1234.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Thajeel, Marwah Manea, and L. Balázs György. “Hardened Properties of 3D Printed Concrete Influenced by Anisotropy”. In <i>Proceedings of the 15th Fib International PhD Symposium in Civil Engineering</i>, edited by György L. Balázs, Sándor Sólyom, and Stephen Foster, 1227–34, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

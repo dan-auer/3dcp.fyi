@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yifan Pan, Yulu Zhang, Dakang Zhang, Yuying Song
+    - footer
+title: Pan Yifan, Zhang Yulu, Zhang Dakang, Song Yuying
 description:
 tags:
  - application
@@ -12,28 +13,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing in Construction:<br/>:aca-blank: State of the Art and Applications ([2021-05](date/2021/05))
-<a href="https://doi.org/10.1007/s00170-021-07213-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00170-021-07213-0</a>
+#3D Printing in Construction&nbsp;([2021-05](date/2021/05))
+<div class="h1-like">State of the Art and Applications</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00170-021-07213-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-021-07213-0" target="_blank">10.1007/s00170-021-07213-0</a>
 
--------------------------
+<a href="../../../author/pan_yifan"><b>Pan</b>&nbsp;Yifan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4178-0368" title="ORCID: 0000-0003-4178-0368" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yulu"><b>Zhang</b>&nbsp;Yulu</a></span>, <a href="../../../author/zhang_dakang"><b>Zhang</b>&nbsp;Dakang</a></span>, <a href="../../../author/song_yuying"><b>Song</b>&nbsp;Yuying</a></span><br>
+Journal Article - The International Journal of Advanced Manufacturing Technology, Vol. 115, Iss. 5-6, pp. 1329-1348
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pan_yifan"><b>Pan</b> Yifan</a>
-,     <a href="../../../author/zhang_yulu"><b>Zhang</b> Yulu</a> <a href="https://orcid.org/0000-0003-4178-0368" title="ORCID: 0000-0003-4178-0368" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_dakang"><b>Zhang</b> Dakang</a>
-,     <a href="../../../author/song_yuying"><b>Song</b> Yuying</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The International Journal of Advanced Manufacturing Technology, Vol. 115, Iss. 5-6, pp. 1329-1348
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105990862&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3162400034" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00170-021-07213-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00170-021-07213-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is an emerging technology that revolutionizes the traditional construction industry. Although it has gained wide attention, implementing the state of the art of3D printing in construction has remained limited. Since the technology has been developing very fast and many innovations have been made public by nonacademic sources, excluding them would inevitably result in an incomplete picture. Therefore, in this review, we aimed to fill this gap by including all the construction 3D printing projects and studies performed from nonacademic sources as well as academic articles. Apart from evaluating the current progress, we also examined the readiness of 3D printing applications in construction, both from technical and nontechnical aspects. As reflected by various printing products and applications, this technology can offer much for the construction industry. However, the current printing technology cannot yet produce products for the construction sector due to limited printing materials, methods, and systems. Many projects have been performed by self-developed printing setups, which are technically similar. In addition, the impacts of the technology have never been quantified. Researchers and practitioners dive into technological developments without knowing whether they would bring benefits to the construction industry. Whether following this new trend and reinventing 3D printing setups a waste ofresources remains a question. For its applications in construction, more government support and official national and international building codes can be expected.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -95,8 +78,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "36 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
@@ -134,4 +117,35 @@ tags:
       <li><a href="../../../author/nemova_darya"><b>Nemova</b> Darya</a>, <a href="../../../author/kotov_vladimirovich_evgeny"><b>Kotov</b> Evgeny</a>, <a href="../../../author/andreeva_darya"><b>Andreeva</b> Darya</a>, <a href="../../../author/khorobrov_svyatoslav"><b>Khorobrov</b> Svyatoslav</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../nemo_koto_andr_khor.2022.ESotTPo3PES/">Experimental Study on the Thermal Performance of 3D Printed Enclosing Structures</a></li>
       <li><a href="../../../author/leite_gabriela"><b>Leite</b> Gabriela</a>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../leit_font.2021.AMatEotCI/">Additive Manufacturing and the Evolution of the Construction Industry:<br/>A Systematic Literature Review 2015-2021</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pan_zhan_zhan_song.2021.3PiC,
+      author            = "Yifan Pan and Yulu Zhang and Dakang Zhang and Yuying Song",
+      title             = "3D Printing in Construction: State of the Art and Applications",
+      doi               = "10.1007/s00170-021-07213-0",
+      year              = "2021",
+      journal           = "The International Journal of Advanced Manufacturing Technology",
+      volume            = "115",
+      number            = "5-6",
+      pages             = "1329--1348",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Pan, Y. Zhang, D. Zhang and Y. Song, “3D Printing in Construction: State of the Art and Applications”, <i>The International Journal of Advanced Manufacturing Technology</i>, vol. 115, no. 5–6, pp. 1329–1348, 2021, doi: 10.1007/s00170-021-07213-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pan, Yifan, Yulu Zhang, Dakang Zhang, and Yuying Song. “3D Printing in Construction: State of the Art and Applications”. <i>The International Journal of Advanced Manufacturing Technology</i> 115, no. 5-6 (2021): 1329–48. https://doi.org/10.1007/s00170-021-07213-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

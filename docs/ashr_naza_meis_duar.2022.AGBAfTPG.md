@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Negar Ashrafi, Shadi Nazarian, Nicholas Meisel, José Duarte
+    - footer
+title: Ashrafi Negar, Nazarian Shadi, Meisel Nicholas, Duarte José
 description:
 tags:
  - additive
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) A Grammar-Based Algorithm for Tool-Path-Generation:<br/>:aca-blank: Compensating for Material-Deformation in the Additive Manufacturing of Concrete ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.addma.2022.102803" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.102803</a>
+#A Grammar-Based Algorithm for Tool-Path-Generation&nbsp;([2022-04](date/2022/04))
+<div class="h1-like">Compensating for Material-Deformation in the Additive Manufacturing of Concrete</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.addma.2022.102803" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.102803" target="_blank">10.1016/j.addma.2022.102803</a>
 
--------------------------
+<a href="../../../author/ashrafi_negar"><b>Ashrafi</b>&nbsp;Negar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3718-9279" title="ORCID: 0000-0002-3718-9279" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meisel_a_nicholas"><b>Meisel</b>&nbsp;Nicholas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 55
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>
-,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="https://orcid.org/0000-0002-3718-9279" title="ORCID: 0000-0002-3718-9279" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 55, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#algorithm`](keyword/algorithm)
-    [`#base`](keyword/base)
-    [`#compensation`](keyword/compensation)
-    [`#concrete`](keyword/concrete)
-    [`#deformation`](keyword/deformation)
-    [`#generation`](keyword/generation)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#path`](keyword/path)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/compensation"><button class="btn">#compensation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Grammar-Based%20Algorithm%20for%20Tool-Path-Generation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128511397&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,24 +42,20 @@ tags:
 <a href="https://inciteful.xyz/p/W4224233033" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.102803" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.102803?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In architecture, AM technologies have been used for rapid prototyping since the early 1990s. However, using AM for automated building construction represent a revolution for the industry that requires modeling the complex relationships between materials, printing system, and designs. An important aspect of research in this area is the deformation of concrete during printing and how it affects shape accuracy and structural stability of the printed geometries. A previous experimental study proposed a series of equations to predict material deformation for a specific concrete mix. This study incorporates these equations in a shape grammar-based algorithm to decompose complex geometries into simpler ones, slice the simpler geometries, and generate compensated toolpaths. The algorithm was implemented in Grasshopper, a Rhino plugin, and it can be used as a 3D slicer specifically for 3D printing concrete purposes. The slicer is validated with two printing experiments, involving a simple and a complex shape. The algorithm can be extended to other material mixes by developing similar experimental studies and incorporating the resulting equations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../ashr_naza_meis_duar.2021.ECaCftCEoTNoLaVoMoSDiSSAMoC/">Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
       <li><a href="../../../author/wang_xiaoqi"><b>Wang</b> Xiaoqi</a>, <a href="../../../author/zuo_tianyi"><b>Zuo</b> Tianyi</a>, <a href="../../../author/xu_yanling"><b>Xu</b> Yanling</a>, <a href="../../../author/liu_xing"><b>Liu</b> Xing</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wang_zuo_xu_liu.2025.RLBCPPaAC3PoCHC/">Reinforcement Learning-Based Continuous Path Planning and Automated Concrete 3D Printing of Complex Hollow Components</a></li>
@@ -97,4 +73,33 @@ tags:
       <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../duar_duar_brow_naza.2023.DaHf3CPiPR/">Designing a Habitat for 3D Concrete Printing in Permafrost-Regions</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ashr_naza_meis_duar.2022.AGBAfTPG,
+      author            = "Negar Ashrafi and Shadi Nazarian and Nicholas A. Meisel and José Pinto Duarte",
+      title             = "A Grammar-Based Algorithm for Tool-Path-Generation: Compensating for Material-Deformation in the Additive Manufacturing of Concrete",
+      doi               = "10.1016/j.addma.2022.102803",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "55",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Ashrafi, S. Nazarian, N. A. Meisel and J. P. Duarte, “A Grammar-Based Algorithm for Tool-Path-Generation: Compensating for Material-Deformation in the Additive Manufacturing of Concrete”, <i>Additive Manufacturing</i>, vol. 55, 2022, doi: 10.1016/j.addma.2022.102803.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ashrafi, Negar, Shadi Nazarian, Nicholas A. Meisel, and José Pinto Duarte. “A Grammar-Based Algorithm for Tool-Path-Generation: Compensating for Material-Deformation in the Additive Manufacturing of Concrete”. <i>Additive Manufacturing</i> 55 (2022). https://doi.org/10.1016/j.addma.2022.102803.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

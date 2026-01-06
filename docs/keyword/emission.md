@@ -8,7 +8,7 @@ search:
 
 # #emission
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
   <li><a href="../../../author/wang_zherui"><b>Wang</b> Zherui</a>, <a href="../../../author/teitelbaum_e"><b>Teitelbaum</b> E.</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/aviv_d"><b>Aviv</b> D.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../wang_teit_akba_aviv.2025.EAoTMPoSO3PCFEfCER/">Experimental Assessment on Thermal Mass Performance of Structurally Optimized, 3D-Printed Concrete Floor Element for Carbon Emission Reduction</a></li>
   <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/zhou_yubao"><b>Zhou</b> Yubao</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../naka_zhou_hash_sugi.2025.AEMoFBo3PCwDPP/">Acoustic Emission Monitoring of Fracture Behaviour of 3D Printed Concrete with Different Printing Paths</a></li>

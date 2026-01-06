@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Bilén Sven 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a>, <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../capu_farr_bile_duar.2025.VBSaDTTiC3CP/">Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing:<br/>Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications</a></li>
   <li><a href="../../../author/baghi_ali"><b>Baghi</b> Ali</a>, <a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bagh_amin_mema_bile.2024.3CPoSSFvEC/">3D Concrete Printing of Self-Supported Filaments via Entrained Cables:<br/>Constructing Formwork-Free Spanning Structures</a></li>
   <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/watson_d_nathan"><b>Watson</b> Nathan</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../duar_duar_wats_bile.2024.A3CPfEE/">Advancing 3D Concrete Printing for Extreme Environments:<br/>A Focus on Alaska</a></li>

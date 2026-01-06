@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hamed Izadgoshasb, Amirreza Kandiri, Pshtiwan Shakor, Vittoria Laghi, Giada Gasparini
+    - footer
+title: Izadgoshasb Hamed, Kandiri Amirreza, Shakor Pshtiwan, Laghi Vittoria, Gasparini Giada
 description:
 tags:
  - compression
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/11/22/10826/pdf?version=1637062470) Predicting Compressive Strength of 3D Printed Mortar in Structural Members Using Machine Learning ([2021-11](date/2021/11))
-<a href="https://doi.org/10.3390/app112210826" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app112210826</a>
+#Predicting Compressive Strength of 3D Printed Mortar in Structural Members Using Machine Learning ([2021-11](date/2021/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/11/22/10826/pdf?version=1637062470) <a href="https://doi.org/10.3390/app112210826" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app112210826" target="_blank">10.3390/app112210826</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3694-4316" title="ORCID: 0000-0002-3694-4316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/izadgoshasb_hamed"><b>Izadgoshasb</b>&nbsp;Hamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8683-7984" title="ORCID: 0000-0001-8683-7984" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kandiri_amirreza"><b>Kandiri</b>&nbsp;Amirreza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/laghi_vittoria"><b>Laghi</b>&nbsp;Vittoria</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7547-4305" title="ORCID: 0000-0001-7547-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gasparini_giada"><b>Gasparini</b>&nbsp;Giada</a></span><br>
+Journal Article - Applied Sciences, Vol. 11, Iss. 22
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/izadgoshasb_hamed"><b>Izadgoshasb</b> Hamed</a> <a href="https://orcid.org/0000-0002-3694-4316" title="ORCID: 0000-0002-3694-4316" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kandiri_amirreza"><b>Kandiri</b> Amirreza</a> <a href="https://orcid.org/0000-0001-8683-7984" title="ORCID: 0000-0001-8683-7984" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> <a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gasparini_giada"><b>Gasparini</b> Giada</a> <a href="https://orcid.org/0000-0001-7547-4305" title="ORCID: 0000-0001-7547-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 11, Iss. 22, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#compression`](keyword/compression)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#mortar`](keyword/mortar)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Predicting%20Compressive%20Strength%20of%203D%20Printed%20Mortar%20in%20Structural%20Members%20Using%20Machine%20Learning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119584107&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3212017751" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app112210826" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app112210826?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Machine learning is the discipline of learning commands in the computer machine to predict and expect the results of real application and is currently the most promising simulation in artificial intelligence. This paper aims at using different algorithms to calculate and predict the compressive strength of extrusion 3DP concrete (cement mortar). The investigation is carried out using multi-objective grasshopper optimization algorithm (MOGOA) and artificial neural network (ANN). Given that the accuracy of a machine learning method depends on the number of data records, and for concrete 3D printing, this number is limited to few years of study, this work develops a new method by combining both methodologies into an ANNMOGOA approach to predict the compressive strength of 3D-printed concrete. Some promising results in the iteration process are achieved.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -94,8 +71,8 @@ tags:
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/mostazid_ibrahim_md"><b>Mostazid</b> Md</a>, <a href="../../../author/faysal_abdul-motaleb_md"><b>Faysal</b> Md</a>, <a href="../../../author/shi_xinjun"><b>Shi</b> Xinjun</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../uddi_most_fays_shi.2025.DaNSPMf3PGC/">Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete:<br/>An Interpretable Data-Driven Approach</a></li>
       <li><a href="../../../author/liu_shijie"><b>Liu</b> Shijie</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b> Muwaffaq</a>, <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b> Ahmed</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_liu_alqu_abdo.2025.A3PFRCfSC/">Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction:<br/>A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions</a></li>
@@ -124,4 +101,34 @@ tags:
       <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../sent_raph.2022.UCVfMtQo3PCS/">Using Computer-Vision for Monitoring the Quality of 3D Printed Concrete Structures</a></li>
       <li><a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../puza_shak_lagh_dmit.2022.LS3PfCAbMoRAaG3P/">Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{izad_kand_shak_lagh.2021.PCSo3PMiSMUML,
+      author            = "Hamed Izadgoshasb and Amirreza Kandiri and Pshtiwan N. Shakor and Vittoria Laghi and Giada Gasparini",
+      title             = "Predicting Compressive Strength of 3D Printed Mortar in Structural Members Using Machine Learning",
+      doi               = "10.3390/app112210826",
+      year              = "2021",
+      journal           = "Applied Sciences",
+      volume            = "11",
+      number            = "22",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Izadgoshasb, A. Kandiri, P. N. Shakor, V. Laghi and G. Gasparini, “Predicting Compressive Strength of 3D Printed Mortar in Structural Members Using Machine Learning”, <i>Applied Sciences</i>, vol. 11, no. 22, 2021, doi: 10.3390/app112210826.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Izadgoshasb, Hamed, Amirreza Kandiri, Pshtiwan N. Shakor, Vittoria Laghi, and Giada Gasparini. “Predicting Compressive Strength of 3D Printed Mortar in Structural Members Using Machine Learning”. <i>Applied Sciences</i> 11, no. 22 (2021). https://doi.org/10.3390/app112210826.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

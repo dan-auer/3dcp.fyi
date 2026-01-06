@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Antonio Cicione, Jacques Kruger, Jean-Pierre Mostert, Richard Walls, Gideon Zijl
+    - footer
+title: Cicione Antonio, Kruger Jacques, Mostert Jean-Pierre, Walls Richard, Zijl Gideon
 description:
 tags:
  - algorithm
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Effect of Wind on 3D Printed Concrete Inter-Layer Bond Strength Based on Machine Learning Algorithms ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1201/9781003348443-66" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1201/9781003348443-66</a>
+#The Effect of Wind on 3D Printed Concrete Inter-Layer Bond Strength Based on Machine Learning Algorithms ([2022-09](date/2022/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003348443-66" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003348443-66" target="_blank">10.1201/9781003348443-66</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1368-4718" title="ORCID: 0000-0002-1368-4718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cicione_antonio"><b>Cicione</b>&nbsp;Antonio</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-4222-1540" title="ORCID: 0009-0006-4222-1540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mostert_jean-pierre"><b>Mostert</b>&nbsp;Jean-Pierre</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0913-3200" title="ORCID: 0000-0002-0913-3200" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walls_shaun_richard"><b>Walls</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Contribution - Proceedings of The Eighth International Conference on Structural Engineering, Mechanics and Computation, pp. 405-409
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a> <a href="https://orcid.org/0000-0002-1368-4718" title="ORCID: 0000-0002-1368-4718" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a> <a href="https://orcid.org/0009-0006-4222-1540" title="ORCID: 0009-0006-4222-1540" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a> <a href="https://orcid.org/0000-0002-0913-3200" title="ORCID: 0000-0002-0913-3200" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of The Eighth International Conference on Structural Engineering, Mechanics and Computation, pp. 405-409
-
-:aca-blank:{ .lg .middle}
-    [`#algorithm`](keyword/algorithm)
-    [`#base`](keyword/base)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#wind`](keyword/wind)
-
-
--------------------------
+<a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/wind"><button class="btn">#wind</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Wind%20on%203D%20Printed%20Concrete%20Inter-Layer%20Bond%20Strength%20Based%20on%20Machine%20Learning%20Algorithms" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145617191&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4303617511" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1201/9781003348443-66" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1201/9781003348443-66?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Over the past 5 years, research focused on 3D printed concrete (3DPC) has increased significantly. One specific issue that attracts significant attention under researchers, is the reduction in mechanical strength as a result of weak bond between filament layers. Deriving analytical expressions for this reduction in flexural capacity has proven to be extremely challenging, since there are multiple variables that affect the interlayer bond strength. For example, pass time (time between layer depositions), ambient temperature, wind, humidity, and concrete mixture impact the bond. Hence, a more sophisticated approach, such as Machine Learning (ML) models, could be beneficial to determine the effect of a large number of variables on, for example, the interlayer bond strength. It is with this background, that this paper seeks to investigate the effect of wind on the interlayer bond strength based on supervised ML algorithms, as a basis for future research. In this work, 29 3D printed concrete (3DPC) samples were printed under different wind conditions. The input data (wind speed) and output data (tensile capacity) were collected and cleaned using Python. The data was split into two categories, namely training data (data used to develop the model using a regression algorithm with the built-in Scikit package in Python) and test data (data used to test the accuracy of the model). It was found that an increase in wind speed up to approximately 25 km/h, correlates to a decrease in interlayer bond.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../heev_best_krug_zijl.2021.MCfNSoEB3CP/">Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -84,7 +57,37 @@ tags:
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{cici_krug_most_wall.2022.TEoWo3PCILBSBoMLA,
+      author            = "Antonio Cicione and Jacques Pienaar Kruger and Jean-Pierre Mostert and Richard Shaun Walls and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "The Effect of Wind on 3D Printed Concrete Inter-Layer Bond Strength Based on Machine Learning Algorithms",
+      doi               = "10.1201/9781003348443-66",
+      year              = "2022",
+      pages             = "405--409",
+      booktitle         = "Proceedings of The Eighth International Conference on Structural Engineering, Mechanics and Computation: Current Perspectives and New Directions in Mechanics, Modelling and Design of Structural Systems",
+      editor            = "Alphose Zingoni",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Cicione, J. P. Kruger, J.-P. Mostert, R. S. Walls and G. P. A. G. van Zijl, “The Effect of Wind on 3D Printed Concrete Inter-Layer Bond Strength Based on Machine Learning Algorithms”, in <i>Proceedings of The Eighth International Conference on Structural Engineering, Mechanics and Computation: Current Perspectives and New Directions in Mechanics, Modelling and Design of Structural Systems</i>,  2022, pp. 405–409. doi: 10.1201/9781003348443-66.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cicione, Antonio, Jacques Pienaar Kruger, Jean-Pierre Mostert, Richard Shaun Walls, and Gideon Pieter Adriaan Greeff van Zijl. “The Effect of Wind on 3D Printed Concrete Inter-Layer Bond Strength Based on Machine Learning Algorithms”. In <i>Proceedings of The Eighth International Conference on Structural Engineering, Mechanics and Computation: Current Perspectives and New Directions in Mechanics, Modelling and Design of Structural Systems</i>, edited by Alphose Zingoni, 405–9, 2022. https://doi.org/10.1201/9781003348443-66.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

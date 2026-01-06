@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shiping Li, Yan Sun, Ye Qian, Wujun Chen, Daxu Zhang, Xiaoniu Yu
+    - footer
+title: Li Shiping, Sun Yan, Qian Ye, Chen Wujun, Zhang Daxu, Yu Xiaoniu
 description:
 tags:
  - bio
@@ -20,38 +21,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106395" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106395</a>
+#Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites ([2025-11](date/2025/11))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cemconcomp.2025.106395" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106395" target="_blank">10.1016/j.cemconcomp.2025.106395</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7639-2985" title="ORCID: 0000-0001-7639-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shiping"><b>Li</b>&nbsp;Shiping</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yan"><b>Sun</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span>, <a href="../../../author/chen_wujun"><b>Chen</b>&nbsp;Wujun</a></span>, <a href="../../../author/zhang_daxu"><b>Zhang</b>&nbsp;Daxu</a></span>, <a href="../../../author/yu_xiaoniu"><b>Yu</b>&nbsp;Xiaoniu</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106395
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_shiping"><b>Li</b> Shiping</a> <a href="https://orcid.org/0000-0001-7639-2985" title="ORCID: 0000-0001-7639-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_yan"><b>Sun</b> Yan</a> <a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a>
-,     <a href="../../../author/zhang_daxu"><b>Zhang</b> Daxu</a>
-,     <a href="../../../author/yu_xiaoniu"><b>Yu</b> Xiaoniu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106395
-
-:aca-blank:{ .lg .middle}
-    [`#bio`](keyword/bio)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#enhancement`](keyword/enhancement)
-    [`#flexural`](keyword/flexural)
-    [`#hardened`](keyword/hardened)
-    [`#inspiration`](keyword/inspiration)
-    [`#interface`](keyword/interface)
-    [`#interlocking`](keyword/interlocking)
-    [`#print`](keyword/print)
-    [`#response`](keyword/response)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bio-Inspired%20Jigsaw-Interlocking%20Suture%20Interfaces%20for%20Enhanced%20Flexural%20Response%20of%203D-Printed%20Strain-Hardening%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021576947&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7104731988" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106395" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106395?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The natural jigsaw-interlocking suture interfaces of the exoskeletal forewings (elytra) of the diabolical ironclad beetle, Phloeodes diabolicus, exhibit excellent mechanical response, enabling efficient load transfer and energy dissipation. Inspired by these natural jigsaw-interlocking suture interfaces, a groove structure with prefabricated interlocking sutures in 3D-printed Strain-Hardening Cementitious Composites (3DP-SHCC) was systematically studied to investigate the influence of suture geometries on load transfer efficiency, crack propagation paths, and failure modes, revealing the unique energy dissipation mechanism and exceptional deformation capacity of the jigsaw-interlocking suture. Experimental results show that bio-inspired jigsaw-interlocking sutures can significantly enhance flexural strength and energy dissipation, and delay suture interface failure through an interlocking mechanism. The optimized suture geometries (engagement angle = 25°; elliptical aspect ratio = 1.8) achieve synergistic optimization of flexural strength, ductility, and energy dissipation. Compared with its cast unjointed counterpart, specimen Y-A25°G1.8 retained 97.2% of the flexural strength and 94.0% of the total energy dissipation, indicating comparable mechanical performance without supplementary reinforcement. These findings challenge the conventional assumption that joints inherently compromise mechanical performance. The suture interface with nonlinear mechanical response provides a novel bio-inspired approach for the engineering joint design, holding significant application potential in the fields of earthquake resistance and prefabrication assembly.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../aram_cald_puen.2023.WJPo3PCBSUFL/">Wet Joint Performance of 3D Printed Concrete Beam Segments Under Flexural Loading</a></li>
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -98,7 +70,36 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zahrani_a_abdullah"><b>Zahrani</b> Abdullah</a>, <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zahr_algh_basa.2022.COo3PCWfIBTP/">Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_sun_qian_chen.2025.BIJISIfEFRo3PSHCC,
+      author            = "Shiping Li and Yan Sun and Ye Qian and Wujun Chen and Daxu Zhang and Xiaoniu Yu",
+      title             = "Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2025.106395",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106395",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Li, Y. Sun, Y. Qian, W. Chen, D. Zhang and X. Yu, “Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites”, <i>Cement and Concrete Composites</i>, p. 106395, 2025, doi: 10.1016/j.cemconcomp.2025.106395.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Shiping, Yan Sun, Ye Qian, Wujun Chen, Daxu Zhang, and Xiaoniu Yu. “Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites”. <i>Cement and Concrete Composites</i>, 2025, 106395. https://doi.org/10.1016/j.cemconcomp.2025.106395.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

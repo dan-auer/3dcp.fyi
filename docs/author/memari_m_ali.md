@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Memari Ali 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../amin_mema.2025.DoELwCf3P/">Development of EPS Light‐weight Concrete for 3D Printing</a></li>
   <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../amin_mema.2024.AoABi3CPfMPE/">Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation</a></li>
   <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../amin_mema.2024.NaESoR3WFwLC/">Numerical and Experimental Study on Reinforced 3DCP Walls Filled with Lightweight Concrete</a></li>

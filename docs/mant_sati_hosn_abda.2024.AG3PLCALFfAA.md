@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bharadwaj Mantha, Ala Sati, Fatma Hosny, Mohamed Abdallah, Saleh Dabous
+    - footer
+title: Mantha Bharadwaj, Sati Ala, Hosny Fatma, Abdallah Mohamed, Dabous Saleh
 description:
 tags:
  - application
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Generic 3D Printing Life Cycle Assessment (LCA) Framework for AEC Applications ([2024-06](date/2024/06))
-<a href="https://doi.org/10.22260/isarc2024/0163" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2024/0163</a>
+#A Generic 3D Printing Life Cycle Assessment (LCA) Framework for AEC Applications ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2024/0163" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0163" target="_blank">10.22260/isarc2024/0163</a>
 
--------------------------
+<a href="../../../author/mantha_r-k_bharadwaj"><b>Mantha</b>&nbsp;Bharadwaj</a></span>, <a href="../../../author/sati_ala"><b>Sati</b>&nbsp;Ala</a></span>, <a href="../../../author/hosny_fatma"><b>Hosny</b>&nbsp;Fatma</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4304-7234" title="ORCID: 0000-0002-4304-7234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdallah_mohamed"><b>Abdallah</b>&nbsp;Mohamed</a></span>, <a href="../../../author/dabous_saleh"><b>abu&nbsp;Dabous</b>&nbsp;Saleh</a></span><br>
+Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mantha_r-k_bharadwaj"><b>Mantha</b> Bharadwaj</a>
-,     <a href="../../../author/sati_ala"><b>Sati</b> Ala</a>
-,     <a href="../../../author/hosny_fatma"><b>Hosny</b> Fatma</a>
-,     <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a> <a href="https://orcid.org/0000-0002-4304-7234" title="ORCID: 0000-0002-4304-7234" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dabous_saleh"><b>abu Dabous</b> Saleh</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#assessment`](keyword/assessment)
-    [`#cycle`](keyword/cycle)
-    [`#framework`](keyword/framework)
-    [`#life`](keyword/life)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Generic%203D%20Printing%20Life%20Cycle%20Assessment%20%28LCA%29%20Framework%20for%20AEC%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199613679&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399043652" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2024/0163" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2024/0163?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Amidst the increasing adoption of threedimensional printing (3DP) in the architecture, engineering, and construction (AEC) industry, there exists a notable research gap concerning the quantification of its environmental impact. More importantly, there is a lack of a generic framework that can be employed for different material types and methods. Therefore, this research aims to develop a generic 3DP life cycle assessment (LCA) framework pertaining to the AEC industry. To substantiate the viability of the proposed framework, a meticulous case study was conducted. Focused on the LCA of a concrete 3DP process employed in constructing a twostory residential villa in the United Arab Emirates (UAE), the case study employed the contour crafting 3DP technique. A detailed cradle-to-construction LCA was executed using a functional unit of 1m3. Data compilation involved synthesizing information from literature sources and utilizing DesignBuilder™ software. The embodied carbon analysis of the case study yielded insightful results, indicating that the contour crafting technique emitted approximately 103,135 kg of carbon. Significantly, concrete emerged as the predominant construction material, contributing approximately 52% to the total equivalent over the various life cycle stages. Future work warrants further investigation into the mitigation measures to enhance the environmental performance of 3DP within the AEC industry. Additionally, the research encourages the exploration of alternative 3DP construction techniques and diverse project types, thereby broadening the applicability of the developed framework. This research provides a foundation for more sustainable practices and fosters further exploration of the 3DP implementation within the AEC industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
@@ -83,7 +62,36 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mant_sati_hosn_abda.2024.AG3PLCALFfAA,
+      author            = "Bharadwaj R. K. Mantha and Ala Sati and Fatma Hosny and Mohamed Abdallah and Saleh Abu Dabous",
+      title             = "A Generic 3D Printing Life Cycle Assessment (LCA) Framework for AEC Applications",
+      doi               = "10.22260/isarc2024/0163",
+      year              = "2024",
+      booktitle         = "Proceedings of the 41st International Symposium on Automation and Robotics in Construction",
+      editor            = "Vincente Gonzalez-Moret and Jiansong Zhang and Borja García de Soto and Ioannis Brilakis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. R. K. Mantha, A. Sati, F. Hosny, M. Abdallah and S. A. Dabous, “A Generic 3D Printing Life Cycle Assessment (LCA) Framework for AEC Applications”, in <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>,  2024. doi: 10.22260/isarc2024/0163.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mantha, Bharadwaj R. K., Ala Sati, Fatma Hosny, Mohamed Abdallah, and Saleh Abu Dabous. “A Generic 3D Printing Life Cycle Assessment (LCA) Framework for AEC Applications”. In <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>, edited by Vincente Gonzalez-Moret, Jiansong Zhang, Borja García de Soto, and Ioannis Brilakis, 2024. https://doi.org/10.22260/isarc2024/0163.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

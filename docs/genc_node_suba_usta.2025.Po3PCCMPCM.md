@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Osman Gencel, Mehrab Nodehi, Serkan Subaşı, Abid Ustaoğlu, Ahmet Sarı, Ahmet Bozkurt, Gökhan Hekimoğlu, Yasemin Hatipoğlu, Muhammed Maraşlı, Togay Ozbakkaloglu
+    - footer
+title: Gencel Osman, Nodehi Mehrab, Subaşı Serkan, Ustaoğlu Abid, Sarı Ahmet, Bozkurt Ahmet, Hekimoğlu Gökhan, Hatipoğlu Yasemin, Maraşlı Muhammed, Ozbakkaloglu Togay
 description:
 tags:
  - change
@@ -15,37 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Properties of 3D Printed Concrete Containing Microencapsulated Phase Change Material ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.tsep.2025.104082" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.tsep.2025.104082</a>
+#Properties of 3D Printed Concrete Containing Microencapsulated Phase Change Material ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.tsep.2025.104082" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tsep.2025.104082" target="_blank">10.1016/j.tsep.2025.104082</a>
 
--------------------------
+<a href="../../../author/gencel_osman"><b>Gencel</b>&nbsp;Osman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nodehi_mehrab"><b>Nodehi</b>&nbsp;Mehrab</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7826-1348" title="ORCID: 0000-0001-7826-1348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subasi_serkan"><b>Subaşı</b>&nbsp;Serkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3391-5015" title="ORCID: 0000-0003-3391-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ustaoglu_abid"><b>Ustaoğlu</b>&nbsp;Abid</a></span>, <a href="../../../author/sari_ahmet"><b>Sarı</b>&nbsp;Ahmet</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3163-0131" title="ORCID: 0000-0002-3163-0131" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bozkurt_ahmet"><b>Bozkurt</b>&nbsp;Ahmet</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0991-6897" title="ORCID: 0000-0002-0991-6897" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hekimoglu_gokhan"><b>Hekimoğlu</b>&nbsp;Gökhan</a></span>, <a href="../../../author/hatipoglu_yasemin"><b>Hatipoğlu</b>&nbsp;Yasemin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2684-1003" title="ORCID: 0000-0003-2684-1003" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marasli_muhammed"><b>Maraşlı</b>&nbsp;Muhammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b>&nbsp;Togay</a></span><br>
+Journal Article - Thermal Science and Engineering Progress, No. 104082
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gencel_osman"><b>Gencel</b> Osman</a>
-,     <a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a> <a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/subasi_serkan"><b>Subaşı</b> Serkan</a> <a href="https://orcid.org/0000-0001-7826-1348" title="ORCID: 0000-0001-7826-1348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ustaoglu_abid"><b>Ustaoğlu</b> Abid</a> <a href="https://orcid.org/0000-0003-3391-5015" title="ORCID: 0000-0003-3391-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sari_ahmet"><b>Sarı</b> Ahmet</a>
-,     <a href="../../../author/bozkurt_ahmet"><b>Bozkurt</b> Ahmet</a> <a href="https://orcid.org/0000-0002-3163-0131" title="ORCID: 0000-0002-3163-0131" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hekimoglu_gokhan"><b>Hekimoğlu</b> Gökhan</a> <a href="https://orcid.org/0000-0002-0991-6897" title="ORCID: 0000-0002-0991-6897" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hatipoglu_yasemin"><b>Hatipoğlu</b> Yasemin</a>
-,     <a href="../../../author/marasli_muhammed"><b>Maraşlı</b> Muhammed</a> <a href="https://orcid.org/0000-0003-2684-1003" title="ORCID: 0000-0003-2684-1003" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> <a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Thermal Science and Engineering Progress, No. 104082
-
-:aca-blank:{ .lg .middle}
-    [`#change`](keyword/change)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#material`](keyword/material)
-    [`#phase`](keyword/phase)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%203D%20Printed%20Concrete%20Containing%20Microencapsulated%20Phase%20Change%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017429340&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414106662" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.tsep.2025.104082" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.tsep.2025.104082?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of cementitious materials is a novel approach to fabricating structural components with many applications, including rapid structural recovery in remote areas since it can function almost autonomously. However, since the newly built components are instantly exposed to the outside environment, their thermal properties can have major impact on their energy efficiency and the long-term operating costs for heating, ventilation, and air conditioning systems. To address this challenge, and for the first time, this study combines an outdoor thermal monitoring system with a detailed material performance evaluation for 3D printed concrete (3DPC) containing melamine–formaldehyde-based phase change materials (PCMs). To uncover the impact of PCMs in 3DPC sections, a series of standardized and advanced tests, including nano-indentation, µCT scanning, SEM, and thermal efficiency measurements, was performed. Results show that the inclusion of PCM increased total porosity from 14.44 % to 21.49 % and water absorption from 8.57 % to 11.20 %. Surface hardness decreased from 1296.11 MPa to 764.58 MPa, accompanied by a higher variability (standard deviation rising from 256.60 to 414.55 MPa) for PCM-containing samples, as compared to the reference 3DPC samples. The addition of PCMs also reduced thermal conductivity by ∼10 %, while it also remained stable after 100 cycles of freeze-thawing. The results of the study are found to be significant and contribute to the development of energy-efficient and resilient materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../chri_cho_zijl_vill.2022.PCMIRBAi3PC/">Phase-Change-Material-Infused Recycled Brick-Aggregate in 3D Printed Concrete</a></li>
       <li><a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yang_haibin"><b>Yang</b> Haibin</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../cui_yu_cao_yang.2022.EoPaTPo3PCMwPCM/">Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -84,7 +57,36 @@ tags:
       <li><a href="../../../author/omur_tarik"><b>Omur</b> Tarik</a>, <a href="../../../author/akpunar_kaan_ahmet"><b>Akpunar</b> Ahmet</a>, <a href="../../../author/bingol_betul_ayse"><b>Bingöl</b> Ayşe</a>, <a href="../../../author/oktay_busra"><b>Oktay</b> Büşra</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../omur_akpu_bing_okta.2025.TIoPCMFTDPAAotPoBFSBAAC/">The Influence of Phase-Change-Material Filled Three-Dimensional Printed Artificial Aggregates on the Properties of Blast-Furnace-Slag Based Alkali-Activated Concrete</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/shen_junyi"><b>Shen</b> Junyi</a>, <a href="../../../author/naseem_rabia"><b>Naseem</b> Rabia</a>, <a href="../../../author/yao_yonggang"><b>Yao</b> Yonggang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../shah_shen_nase_yao.2021.IoPCMoCBfC3P/">Influence of Phase-Change-Material on Concrete Behavior for Construction 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{genc_node_suba_usta.2025.Po3PCCMPCM,
+      author            = "Osman Gencel and Mehrab Nodehi and Serkan Subaşı and Abid Ustaoğlu and Ahmet Sarı and Ahmet Bozkurt and Gökhan Hekimoğlu and Yasemin Hatipoğlu and Muhammed Maraşlı and Togay Ozbakkaloglu",
+      title             = "Properties of 3D Printed Concrete Containing Microencapsulated Phase Change Material",
+      doi               = "10.1016/j.tsep.2025.104082",
+      year              = "2025",
+      journal           = "Thermal Science and Engineering Progress",
+      pages             = "104082",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Gencel, “Properties of 3D Printed Concrete Containing Microencapsulated Phase Change Material”, <i>Thermal Science and Engineering Progress</i>, p. 104082, 2025, doi: 10.1016/j.tsep.2025.104082.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gencel, Osman, Mehrab Nodehi, Serkan Subaşı, Abid Ustaoğlu, Ahmet Sarı, Ahmet Bozkurt, Gökhan Hekimoğlu, Yasemin Hatipoğlu, Muhammed Maraşlı, and Togay Ozbakkaloglu. “Properties of 3D Printed Concrete Containing Microencapsulated Phase Change Material”. <i>Thermal Science and Engineering Progress</i>, 2025, 104082. https://doi.org/10.1016/j.tsep.2025.104082.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

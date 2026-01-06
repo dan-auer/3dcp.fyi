@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: S. Mahanthi, M. Kantarao, S. Uma Maheswara Rao, M. Niharika, Sk Munnisa
+    - footer
+title: Mahanthi S., Kantarao M., Uma Maheswara Rao S., Niharika M., Munnisa Sk
 description:
 tags:
  - concrete
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1088/1742-6596/2779/1/012052) Sustainable Mix-Design for 3D Printable Concrete ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1088/1742-6596/2779/1/012052" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1742-6596/2779/1/012052</a>
+#Sustainable Mix-Design for 3D Printable Concrete ([2024-02](date/2024/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1742-6596/2779/1/012052) <a href="https://doi.org/10.1088/1742-6596/2779/1/012052" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/2779/1/012052" target="_blank">10.1088/1742-6596/2779/1/012052</a>
 
--------------------------
+<a href="../../../author/mahanthi_s"><b>Mahanthi</b>&nbsp;S.</a></span>, <a href="../../../author/kantarao_m"><b>Kantarao</b>&nbsp;M.</a></span>, <a href="../../../author/uma-maheswara-rao_s"><b>Uma Maheswara Rao</b>&nbsp;S.</a></span>, <a href="../../../author/niharika_m"><b>Niharika</b>&nbsp;M.</a></span>, <a href="../../../author/munnisa_shami_sk"><b>Munnisa</b>&nbsp;Sk</a></span><br>
+Journal Article - Journal of Physics: Conference Series, Vol. 2779, Iss. 1, No. 012052
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mahanthi_s"><b>Mahanthi</b> S.</a>
-,     <a href="../../../author/kantarao_m"><b>Kantarao</b> M.</a>
-,     <a href="../../../author/uma-maheswara-rao_s"><b>Uma Maheswara Rao</b> S.</a>
-,     <a href="../../../author/niharika_m"><b>Niharika</b> M.</a>
-,     <a href="../../../author/munnisa_shami_sk"><b>Munnisa</b> Sk</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Physics: Conference Series, Vol. 2779, Iss. 1, No. 012052
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#mixing`](keyword/mixing)
-    [`#printability`](keyword/printability)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Mix-Design%20for%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201557435&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401443201" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1742-6596/2779/1/012052" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1742-6596/2779/1/012052?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is a new building process that has great potential for the construction industry in terms of optimizing construction time, cost, design flexibility, error reduction, and environmental factors. The most influential factor that determines successful printing is the concrete mix. This study focuses on designing a sustainable 3D printable mix and further examining its fresh and hardened mechanical properties. This study concentrated on the performance requirements for 3D printable concrete, which include printability, extrudability, and buildability. The trail mixes are conducted using cement, fine aggregate, and water. Crucial components like GGBS, fly ash, and crystalline silica are replaced with cement to improve the performance of the concrete mix. The mechanical and fresh properties of the 3D printable mix are examined using compressive and unconfined uniaxial compression tests. The early-age strength of the trail mixes was assessed using the unconfined uniaxial compression test. The findings showed that the best mix could withstand deposited layers for 60 minutes after adding water to the binder. The mix containing cement, fly ash, GGBS, silica, sand, and water is the optimal mix. The compressive test of the printed specimen revealed that it attained 44.5% and 23% more strength compared to other mixes. The inclusion of crystalline silica is the reason behind increased compressive strength and an inter-layer bond between the layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
       <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/li_lei"><b>Li</b> Lei</a>, <a href="../../../author/yao_qinye"><b>Yao</b> Qinye</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../duan_li_yao_zou.2022.EoMotFaHPo3PCC/">Effect of Metakaolin on the Fresh and Hardened Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a>, <a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dvor_marc_hage_maro.2022.DoCSCCf3P/">Design of Cement-Slag Concrete Composition for 3D Printing</a></li>
@@ -79,7 +59,38 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{maha_kant_uma_niha.2024.SMDf3PC,
+      author            = "S. Mahanthi and M. Kantarao and S. Uma Maheswara Rao and M. Niharika and Sk Shami Munnisa",
+      title             = "Sustainable Mix-Design for 3D Printable Concrete",
+      doi               = "10.1088/1742-6596/2779/1/012052",
+      year              = "2024",
+      journal           = "Journal of Physics: Conference Series",
+      volume            = "2779",
+      number            = "1",
+      pages             = "012052",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Mahanthi, M. Kantarao, S. U. M. Rao, M. Niharika and S. S. Munnisa, “Sustainable Mix-Design for 3D Printable Concrete”, <i>Journal of Physics: Conference Series</i>, vol. 2779, no. 1, p. 012052, 2024, doi: 10.1088/1742-6596/2779/1/012052.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mahanthi, S., M. Kantarao, S. Uma Maheswara Rao, M. Niharika, and Sk Shami Munnisa. “Sustainable Mix-Design for 3D Printable Concrete”. <i>Journal of Physics: Conference Series</i> 2779, no. 1 (2024): 012052. https://doi.org/10.1088/1742-6596/2779/1/012052.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

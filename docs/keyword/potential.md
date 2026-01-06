@@ -8,7 +8,7 @@ search:
 
 # #potential
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bugarin_gilberto_juan"><b>Bugarin</b> Juan</a>, <a href="../../../author/hajjar_pedron_ayla"><b>Hajjar</b> Ayla</a>, <a href="../../../author/ssengooba_aloysious"><b>Ssengooba</b> Aloysious</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../buga_hajj_ssen_rang.2026.ACBaSCitIP/">Advancing Circular Bioeconomy and Sustainable Construction in the Iberian Peninsula:<br/>Addressing the Potential of Timber Residues for 3D Printing</a></li>
   <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
   <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../paul_lee_tay_lim.2026.UtSPo3CPwLAaSCC/">Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing</a></li>

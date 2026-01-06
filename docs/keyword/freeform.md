@@ -8,7 +8,7 @@ search:
 
 # #freeform
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ojeda_juan"><b>Ojeda</b> Juan</a>, <a href="../../../author/grebner_philipp"><b>Grebner</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ojed_greb_knaa_rose.2024.3PwWtFaSLSPfFF/">3D Printing with WAAM to Form and Stiffen Lightweight Steel Panels for Freeform Façades</a></li>
   <li><a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/kwon_hyunchul"><b>Kwon</b> Hyunchul</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../amir_bagh_kwon.2024.NRAfFCCTCF3P/">New Reinforcement Approach for Freeform Concrete Components Through Carbon Fiber 3D Printing</a></li>
   <li><a href="../../../author/zhang_yuanyuan"><b>Zhang</b> Yuanyuan</a>, <a href="../../../author/pan_pan"><b>Pan</b> Pan</a>, <a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a>, <a href="../../../author/dong_biqin"><b>Dong</b> Biqin</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_pan_li_dong.2022.FEPoViCMfHAT/">Freeform Embedded Printing of Vasculature in Cementitious Materials for Healing-Agent Transport</a></li>

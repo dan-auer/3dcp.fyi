@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Pierre Maxime 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ghabezloo_siavash"><b>Ghabezloo</b> Siavash</a>, <a href="../../../author/dangla_patrick"><b>Dangla</b> Patrick</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pier_ghab_dang_mesn.2025.MMo3CP/">Multiphysics Modelling of 3D Concrete Printing:<br/>From Material Model to Process Simulation and Optimisation</a></li>
   <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a></li>
   <li><a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ghabezloo_siavash"><b>Ghabezloo</b> Siavash</a>, <a href="../../../author/dangla_patrick"><b>Dangla</b> Patrick</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../pier_ghab_dang_mesn.2025.MMf3CP/">Multiphysics Modelling for 3D Concrete Printing:<br/>From Printability to Hardened Properties</a></li>

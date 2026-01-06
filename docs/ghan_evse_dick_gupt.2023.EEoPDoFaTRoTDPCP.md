@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rita Ghantous, Anastasiia Evseeva, Brandon Dickey, Shashank Gupta, Arjun Prihar, Hadi Esmaeeli, Mohamadreza Moini, William Weiss
+    - footer
+title: Ghantous Rita, Evseeva Anastasiia, Dickey Brandon, Gupta Shashank, Prihar Arjun, Esmaeeli Hadi, Moini Mohamadreza, Weiss William
 description:
 tags:
  - cement
@@ -19,39 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.concrete.org/publications/getarticle.aspx?m=icap&pubid=51738808) Examining Effect of Printing-Directionality on Freezing-and-Thawing Response of Three-Dimensional-Printed Cement-Paste ([2023-07](date/2023/07))
-<a href="https://doi.org/10.14359/51738808" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51738808</a>
+#Examining Effect of Printing-Directionality on Freezing-and-Thawing Response of Three-Dimensional-Printed Cement-Paste ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.concrete.org/publications/getarticle.aspx?m=icap&pubid=51738808) <a href="https://doi.org/10.14359/51738808" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51738808" target="_blank">10.14359/51738808</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1918-5450" title="ORCID: 0000-0002-1918-5450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghantous_maria_rita"><b>Ghantous</b>&nbsp;Rita</a></span>, <a href="../../../author/evseeva_anastasiia"><b>Evseeva</b>&nbsp;Anastasiia</a></span>, <a href="../../../author/dickey_brandon"><b>Dickey</b>&nbsp;Brandon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1192-9603" title="ORCID: 0000-0002-1192-9603" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gupta_shashank"><b>Gupta</b>&nbsp;Shashank</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0366-4211" title="ORCID: 0000-0002-0366-4211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prihar_arjun"><b>Prihar</b>&nbsp;Arjun</a></span>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b>&nbsp;Hadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weiss_jason_william"><b>Weiss</b>&nbsp;William</a></span><br>
+Journal Article - ACI Materials Journal
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> <a href="https://orcid.org/0000-0002-1918-5450" title="ORCID: 0000-0002-1918-5450" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/evseeva_anastasiia"><b>Evseeva</b> Anastasiia</a>
-,     <a href="../../../author/dickey_brandon"><b>Dickey</b> Brandon</a>
-,     <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> <a href="https://orcid.org/0000-0002-1192-9603" title="ORCID: 0000-0002-1192-9603" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a> <a href="https://orcid.org/0000-0002-0366-4211" title="ORCID: 0000-0002-0366-4211" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>
-,     <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> <a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#dimension`](keyword/dimension)
-    [`#direction`](keyword/direction)
-    [`#effect`](keyword/effect)
-    [`#examination`](keyword/examination)
-    [`#freeze`](keyword/freeze)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#response`](keyword/response)
-    [`#thaw`](keyword/thaw)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Examining%20Effect%20of%20Printing-Directionality%20on%20Freezing-and-Thawing%20Response%20of%20Three-Dimensional-Printed%20Cement-Paste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85170638861&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4381299408" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51738808" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51738808?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of 3-D printing with cementitious materials is increasing in the construction industry. Limited information exists on the freeze and thaw (FT) performance of the 3-D printed elements. A few studies have used standard FT testing procedures (ASTM C666) to assess the FT response, however, ASTM C666 is insensitive to anisotropy caused by printing directionality. This paper investigates the FT response of 3-D printed cement paste elements using thermomechanical analysis (TMA) to examine the influence of directionality in comparison to cast counterparts. Cement paste with a water-to-cement ratio (w/c) of 0.275 was used. The critical degree of saturation (DOSCR) as well as the coefficient of the thermal expansion (COTE) were determined for specimens with varying degrees of saturation (DOS). Micro-computed tomography (micro-CT) was conducted to quantitatively understand the heterogeneities in the pore microstructure of 3-D printed materials. For the specimens fabricated in this study, the COTE and DOSCR are independent of the 3-D printing directionality and were comparable to conventionally cast specimens. For samples at 100% saturation, the FT damage was higher in 3-D printed samples as compared to cast samples. The use of a low w/c in 3-D printed materials, desired from a buildability perspective, led to low capillary porosity, which thus decreased the amount of freezable pore solution, and increased the FT resistance of the 3-D printed materials. Micro-CT analysis demonstrated a significant 4.6 times higher average porosity in the interfacial regions compared to the filament cores.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
@@ -114,8 +85,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
       <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a></li>
@@ -123,4 +94,32 @@ tags:
       <li><a href="../../../author/ralston_nadia"><b>Ralston</b> Nadia</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rals_gupt_moin.2024.3PoACSBwEaISC/">3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation</a></li>
       <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/garlock_e-moreyra_maria"><b>Garlock</b> Maria</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../prih_garl_najm_moin.2024.MPoSACEbRAM/">Mechanical Performance of Sinusoidally Architected Concrete Enabled by Robotic Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ghan_evse_dick_gupt.2023.EEoPDoFaTRoTDPCP,
+      author            = "Rita Maria Ghantous and Anastasiia Evseeva and Brandon Dickey and Shashank Gupta and Arjun Prihar and Hadi S. Esmaeeli and Mohamadreza Moini and William Jason Weiss",
+      title             = "Examining Effect of Printing-Directionality on Freezing-and-Thawing Response of Three-Dimensional-Printed Cement-Paste",
+      doi               = "10.14359/51738808",
+      year              = "2023",
+      journal           = "ACI Materials Journal",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. M. Ghantous, “Examining Effect of Printing-Directionality on Freezing-and-Thawing Response of Three-Dimensional-Printed Cement-Paste”, <i>ACI Materials Journal</i>, 2023, doi: 10.14359/51738808.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ghantous, Rita Maria, Anastasiia Evseeva, Brandon Dickey, Shashank Gupta, Arjun Prihar, Hadi S. Esmaeeli, Mohamadreza Moini, and William Jason Weiss. “Examining Effect of Printing-Directionality on Freezing-and-Thawing Response of Three-Dimensional-Printed Cement-Paste”. <i>ACI Materials Journal</i>, 2023. https://doi.org/10.14359/51738808.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongyu Zhao, Xiangyu Wang, Junbo Sun, Yufei Wang, Zhaohui Chen, Jun Wang, Xinglong Xu
+    - footer
+title: Zhao Hongyu, Wang Xiangyu, Sun Junbo, Wang Yufei, Chen Zhaohui, Wang Jun, Xu Xinglong
 description:
 tags:
  - additive
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Artificial Intelligence Powered Real-Time Quality Monitoring for Additive Manufacturing in Construction ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.135894" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.135894</a>
+#Artificial Intelligence Powered Real-Time Quality Monitoring for Additive Manufacturing in Construction ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135894" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135894" target="_blank">10.1016/j.conbuildmat.2024.135894</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhaohui"><b>Chen</b>&nbsp;Zhaohui</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3384-4050" title="ORCID: 0000-0003-3384-4050" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_jun"><b>Wang</b>&nbsp;Jun</a></span>, <a href="../../../author/xu_xinglong"><b>Xu</b>&nbsp;Xinglong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 429, No. 135894
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> <a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-,     <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_jun"><b>Wang</b> Jun</a> <a href="https://orcid.org/0000-0003-3384-4050" title="ORCID: 0000-0003-3384-4050" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_xinglong"><b>Xu</b> Xinglong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 429, No. 135894
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#artificial`](keyword/artificial)
-    [`#construction`](keyword/construction)
-    [`#intelligence`](keyword/intelligence)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#monitoring`](keyword/monitoring)
-    [`#quality`](keyword/quality)
-    [`#real`](keyword/real)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Artificial%20Intelligence%20Powered%20Real-Time%20Quality%20Monitoring%20for%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191437448&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396243036" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.135894" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.135894?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the manufacturing process of 3D Concrete Printing (3DCP), defects and anomalies have a significant impact on both the success rate and the quality of the final products, underscoring the need for real-time monitoring. Currently, monitoring is primarily based on manual observation and existing automated methods are limited in real-time performance and accuracy. This study introduced a real-time and highly accurate defect detection and measurement system for using deep learning (DL) and computer vision (CV) techniques. A range of improvement methods were applied in YOLOv7, showing better capacities of accuracy and speed for detecting defects in 3DCP than current cutting-edge detectors such as YOLOv8. Notably, the virtual high-fidelity data were produced by DL based data augmentation strategy and their effects were assessed. Replacing real data as the training dataset, the generated virtual data were used in the models to improve measurement accuracy. Applying the proposed method, the comprehensive insights into 3DCP defects were obtained. Consequently, the relationship formula between defect frequency and printer parameters was investigated by the proposed method, guiding operators in effectively controlling printer parameters and preventing breakpoint defects during the printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -105,8 +79,9 @@ tags:
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a>, <a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ozde_alac.2025.CEfLAaS3CP/">Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing</a></li>
       <li><a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>, <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_ji_cui_shi.2025.RPoQCMoC3PBoCV/">Research Progress on Quality Control Method of Concrete 3D Printing Based on Computer Vision</a></li>
@@ -115,4 +90,34 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/jassmi_hamad"><b>Jassmi</b> Hamad</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_jass_liu_wang.2024.AIBMRi3PC/">Artificial Intelligence-Based Microcracks Research in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_wang_sun_wang.2024.AIPRTQMfAMiC,
+      author            = "Hongyu Zhao and Xiangyu Wang and Junbo Sun and Yufei Wang and Zhaohui Chen and Jun Wang and Xinglong Xu",
+      title             = "Artificial Intelligence Powered Real-Time Quality Monitoring for Additive Manufacturing in Construction",
+      doi               = "10.1016/j.conbuildmat.2024.135894",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "429",
+      pages             = "135894",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhao, “Artificial Intelligence Powered Real-Time Quality Monitoring for Additive Manufacturing in Construction”, <i>Construction and Building Materials</i>, vol. 429, p. 135894, 2024, doi: 10.1016/j.conbuildmat.2024.135894.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Hongyu, Xiangyu Wang, Junbo Sun, Yufei Wang, Zhaohui Chen, Jun Wang, and Xinglong Xu. “Artificial Intelligence Powered Real-Time Quality Monitoring for Additive Manufacturing in Construction”. <i>Construction and Building Materials</i> 429 (2024): 135894. https://doi.org/10.1016/j.conbuildmat.2024.135894.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

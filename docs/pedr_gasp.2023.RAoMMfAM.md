@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ana Pedrosa, Florindo Gaspar
+    - footer
+title: Pedrosa Ana, Gaspar Florindo
 description:
 tags:
  - additive
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology-Assessment of Mortar-Materials for Additive Manufacturing ([2023-08](date/2023/08))
-<a href="https://doi.org/10.2174/2666145417666230801093723" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2174/2666145417666230801093723</a>
+#Rheology-Assessment of Mortar-Materials for Additive Manufacturing ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2174/2666145417666230801093723" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2174/2666145417666230801093723" target="_blank">10.2174/2666145417666230801093723</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4442-8167" title="ORCID: 0000-0003-4442-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pedrosa_ana"><b>Pedrosa</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span><br>
+Journal Article - Current Materials Science, Vol. 17
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pedrosa_ana"><b>Pedrosa</b> Ana</a> <a href="https://orcid.org/0000-0003-4442-8167" title="ORCID: 0000-0003-4442-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Current Materials Science, Vol. 17, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#assessment`](keyword/assessment)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#mortar`](keyword/mortar)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology-Assessment%20of%20Mortar-Materials%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187221923&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385456122" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2174/2666145417666230801093723" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2174/2666145417666230801093723?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This review article discusses the relevant rheological tests to evaluate the properties of compositions applied to the 3D printing of concrete (3DCP). These materials must rapidly develop rigidity and resistance, avoiding the collapse of the printed structure, with suitable buildability and other state properties, such as extrudability. A good balance must be maintained between properties and rheological parameters, such as yield stress and viscosity. Cohesion, Young's modulus, and thixotropy are also among the parameters used in these evaluations. The rheological tests addressed are the rheometer, direct shear test, uniaxial unconfined compression test, and penetration test. Their limitations must be taken into account to obtain accurate values of the rheological parameters. It was found that the most used test is the rheometer, and the test that needs to be further studied is the penetration test. Hence, it is recommended to search for a more expeditious method related to the rheological assessment to facilitate obtaining the associated parameters in a simple way.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/benamara_abdeslam"><b>Benamara</b> Abdeslam</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/kaci_abdelhak"><b>Kaci</b> Abdelhak</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bena_pier_kaci_meli.2020.3PoaCBMiaCFS/">3D Printing of a Cement-Based Mortar in a Complex Fluid Suspension:<br/>Analytical Modeling and Experimental Tests</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -90,7 +72,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pedr_gasp.2023.RAoMMfAM,
+      author            = "Ana Pedrosa and Florindo Gaspar",
+      title             = "Rheology-Assessment of Mortar-Materials for Additive Manufacturing",
+      doi               = "10.2174/2666145417666230801093723",
+      year              = "2023",
+      journal           = "Current Materials Science",
+      volume            = "17",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Pedrosa  and F. Gaspar, “Rheology-Assessment of Mortar-Materials for Additive Manufacturing”, <i>Current Materials Science</i>, vol. 17, 2023, doi: 10.2174/2666145417666230801093723.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pedrosa, Ana, and Florindo Gaspar. “Rheology-Assessment of Mortar-Materials for Additive Manufacturing”. <i>Current Materials Science</i> 17 (2023). https://doi.org/10.2174/2666145417666230801093723.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

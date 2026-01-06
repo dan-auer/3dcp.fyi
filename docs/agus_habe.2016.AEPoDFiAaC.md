@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Isolda Agustí-Juan, Guillaume Habert
+    - footer
+title: Agustí-Juan Isolda, Habert Guillaume
 description:
 tags:
  - architecture
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/caadria2016_797.pdf) An Environmental Perspective on Digital Fabrication in Architecture and Construction ([2016-04](date/2016/04))
-<a href="https://doi.org/10.52842/conf.caadria.2016.797" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.caadria.2016.797</a>
+#An Environmental Perspective on Digital Fabrication in Architecture and Construction ([2016-04](date/2016/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2016_797.pdf) <a href="https://doi.org/10.52842/conf.caadria.2016.797" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2016.797" target="_blank">10.52842/conf.caadria.2016.797</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b>&nbsp;Isolda</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/habert_guillaume"><b>Habert</b>&nbsp;Guillaume</a></span><br>
+Contribution - Proceedings of the 21st Conference on Computer Aided Architectural Design Research in Asia (CAADRIA), pp. 797-806
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a> <a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 21st Conference on Computer Aided Architectural Design Research in Asia (CAADRIA), pp. 797-806
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#environment`](keyword/environment)
-    [`#fabrication`](keyword/fabrication)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Environmental%20Perspective%20on%20Digital%20Fabrication%20in%20Architecture%20and%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,20 +35,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2342016732" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.caadria.2016.797" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.caadria.2016.797?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication processes and technologies are becoming an essential part of the modern product manufacturing. As the use of 3D printing grows, potential applications into large scale processes are emerging. The combined methods of computational design and robotic fabrication have demonstrated potential to expand architectural design. However, factors such as material use, energy demands, durability, GHG emissions and waste production must be recognized as the priorities over the entire life of any architectural project. Given the recent developments at architecture scale, this study aims to investigate the environmental consequences and opportunities of digital fabrication in construction. This paper presents two case studies of classic building elements digitally fabricated. In each case study, the projects were assessed according to the Life Cycle Assessment (LCA) framework and compared with conventional construction with similar function. The analysis highlighted the importance of material-efficient design to achieve high environmental benefits in digitally fabricated architecture. The knowledge established in this research should be directed to the development of guidelines that help designers to make more sustainable choices in the implementation of digital fabrication in architecture and construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mantha_r-k_bharadwaj"><b>Mantha</b> Bharadwaj</a>, <a href="../../../author/sati_ala"><b>Sati</b> Ala</a>, <a href="../../../author/hosny_fatma"><b>Hosny</b> Fatma</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../mant_sati_hosn_abda.2024.AG3PLCALFfAA/">A Generic 3D Printing Life Cycle Assessment (LCA) Framework for AEC Applications</a></li>
       <li><a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/gall_corentin"><b>Gall</b> Corentin</a>, <a href="../../../author/saade_myriam"><b>Saadé</b> Myriam</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../roux_arch_gall_saad.2024.TSM/">Towards Sustainable Material:<br/>Optimizing Geopolymer Mortar Formulations for 3D Printing</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../li_xing_sun_feng.2024.TNMfAHTi3PCGS/">Thermal Network Model for Anisotropic Heat Transfer in 3D Printed Complex Geometry Structures</a></li>
@@ -77,4 +60,34 @@ tags:
       <li><a href="../../../author/lee_dongyoun"><b>Lee</b> Dongyoun</a>, <a href="../../../author/kim_hakmin"><b>Kim</b> Hakmin</a>, <a href="../../../author/sim_joonhyeok"><b>Sim</b> Joonhyeok</a>, <a href="../../../author/lee_dongmin"><b>Lee</b> Dongmin</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lee_kim_sim_lee.2019.Ti3PTfCAUTM/">Trends in 3D Printing Technology for Construction Automation Using Text Mining</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{agus_habe.2016.AEPoDFiAaC,
+      author            = "Isolda Agustí-Juan and Guillaume Habert",
+      title             = "An Environmental Perspective on Digital Fabrication in Architecture and Construction",
+      doi               = "10.52842/conf.caadria.2016.797",
+      year              = "2016",
+      pages             = "797--806",
+      booktitle         = "Proceedings of the 21st Conference on Computer Aided Architectural Design Research in Asia (CAADRIA)",
+      editor            = "Sheng-Fen Chien and Seungyeon Choo and Marc Aurel Schnabel and Walaiporn Nakapan and Mi Jeong Kim and Stanislav Roudavski",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Agustí-Juan  and G. Habert, “An Environmental Perspective on Digital Fabrication in Architecture and Construction”, in <i>Proceedings of the 21st Conference on Computer Aided Architectural Design Research in Asia (CAADRIA)</i>,  2016, pp. 797–806. doi: 10.52842/conf.caadria.2016.797.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Agustí-Juan, Isolda, and Guillaume Habert. “An Environmental Perspective on Digital Fabrication in Architecture and Construction”. In <i>Proceedings of the 21st Conference on Computer Aided Architectural Design Research in Asia (CAADRIA)</i>, edited by Sheng-Fen Chien, Seungyeon Choo, Marc Aurel Schnabel, Walaiporn Nakapan, Mi Jeong Kim, and Stanislav Roudavski, 797–806, 2016. https://doi.org/10.52842/conf.caadria.2016.797.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

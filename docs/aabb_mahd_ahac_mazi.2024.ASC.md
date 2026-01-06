@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamed Aabbas, Mustapha Mahdaoui, Mohammed Ahachad, Brahim Mazian, Issam Aalil, Mustapha Ouardouz
+    - footer
+title: Aabbas Mohamed, Mahdaoui Mustapha, Ahachad Mohammed, Mazian Brahim, Aalil Issam, Ouardouz Mustapha
 description:
 tags:
  - advance
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advancing Sustainable Construction:<br/>:aca-blank: Terracotta Component Development Through Extrusion-Based 3D Printing with Local Clay ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137549" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137549</a>
+#Advancing Sustainable Construction&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">Terracotta Component Development Through Extrusion-Based 3D Printing with Local Clay</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137549" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137549" target="_blank">10.1016/j.conbuildmat.2024.137549</a>
 
--------------------------
+<a href="../../../author/aabbas_mohamed"><b>el&nbsp;Aabbas</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0424-796X" title="ORCID: 0000-0003-0424-796X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahdaoui_mustapha"><b>Mahdaoui</b>&nbsp;Mustapha</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1722-1347" title="ORCID: 0000-0003-1722-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahachad_mohammed"><b>Ahachad</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7459-0195" title="ORCID: 0000-0001-7459-0195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mazian_brahim"><b>Mazian</b>&nbsp;Brahim</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3537-0936" title="ORCID: 0000-0003-3537-0936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aalil_issam"><b>Aalil</b>&nbsp;Issam</a></span>, <a href="../../../author/ouardouz_mustapha"><b>Ouardouz</b>&nbsp;Mustapha</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 442, No. 137549
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aabbas_mohamed"><b>el Aabbas</b> Mohamed</a>
-,     <a href="../../../author/mahdaoui_mustapha"><b>Mahdaoui</b> Mustapha</a> <a href="https://orcid.org/0000-0003-0424-796X" title="ORCID: 0000-0003-0424-796X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a> <a href="https://orcid.org/0000-0003-1722-1347" title="ORCID: 0000-0003-1722-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a> <a href="https://orcid.org/0000-0001-7459-0195" title="ORCID: 0000-0001-7459-0195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aalil_issam"><b>Aalil</b> Issam</a> <a href="https://orcid.org/0000-0003-3537-0936" title="ORCID: 0000-0003-3537-0936" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ouardouz_mustapha"><b>Ouardouz</b> Mustapha</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 442, No. 137549
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#base`](keyword/base)
-    [`#clay`](keyword/clay)
-    [`#component`](keyword/component)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#extrusion`](keyword/extrusion)
-    [`#local`](keyword/local)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199497715&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401051887" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137549" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137549?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study examines the use of 3D printing technology in construction, specifically the use of local clay as the primary material for developing Terracotta components. The results demonstrate the feasibility and high print quality achievable with clay, establishing it as a viable material for 3D printing in construction. The analysis of physical properties, such as shrinkage, density, and water absorption, provides valuable insights. Thermal conductivity, also examined, contributes to a comprehensive understanding of material performance. The article identifies the optimal extrusion parameters for terracotta components. The evaluations show that the water absorption rates are within standards, and the density variation ranges from 1420 to 1466 kg/m³. Additionally, there is a direct correlation between thermal conductivity and density. The compressive strengths are diverse, ranging from 18 MPa to 33 MPa. While modulus of elasticity provides essential quantitative data for understanding the mechanical behavior of printed samples when subjected to various stresses. The internal structure significantly influences compression resistance in 3D printed bricks, emphasizing its importance in design. This research highlights the potential of 3D printing, specifically with clay, in sustainable construction. It encourages further exploration of its practical applications in the industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -93,8 +68,39 @@ tags:
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/cheng_zhi"><b>Cheng</b> Zhi</a>, <a href="../../../author/zhao_zhiyi"><b>Zhao</b> Zhiyi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhan_liu_chen_zhao.2022.EoLMPoSo3PCCBM/">Effect of Layering Molding Process on Strength of 3D Printed Composite Cement-Based Materials</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/zoghlami_aya"><b>Zoghlami</b> Aya</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../aabb_mazi_ahac_zogh.2026.S3PCBICW/">Sustainable 3D Printed Clay Bricks Incorporating Coffee Waste:<br/>Toward Circular Economy in Construction</a></li>
       <li><a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a>, <a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a>, <a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jin_xu_xu.2025.I3PCFiTVGR/">Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aabb_mahd_ahac_mazi.2024.ASC,
+      author            = "Mohamed el Aabbas and Mustapha Mahdaoui and Mohammed Ahachad and Brahim Mazian and Issam Aalil and Mustapha Ouardouz",
+      title             = "Advancing Sustainable Construction: Terracotta Component Development Through Extrusion-Based 3D Printing with Local Clay",
+      doi               = "10.1016/j.conbuildmat.2024.137549",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "442",
+      pages             = "137549",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. el Aabbas, M. Mahdaoui, M. Ahachad, B. Mazian, I. Aalil and M. Ouardouz, “Advancing Sustainable Construction: Terracotta Component Development Through Extrusion-Based 3D Printing with Local Clay”, <i>Construction and Building Materials</i>, vol. 442, p. 137549, 2024, doi: 10.1016/j.conbuildmat.2024.137549.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aabbas, Mohamed el, Mustapha Mahdaoui, Mohammed Ahachad, Brahim Mazian, Issam Aalil, and Mustapha Ouardouz. “Advancing Sustainable Construction: Terracotta Component Development Through Extrusion-Based 3D Printing with Local Clay”. <i>Construction and Building Materials</i> 442 (2024): 137549. https://doi.org/10.1016/j.conbuildmat.2024.137549.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

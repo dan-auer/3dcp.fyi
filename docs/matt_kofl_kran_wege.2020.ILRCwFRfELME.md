@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Carla Matthäus, Nadine Kofler, Thomas Kränkel, Daniel Weger, Christoph Gehlen
+    - footer
+title: Matthäus Carla, Kofler Nadine, Kränkel Thomas, Weger Daniel, Gehlen Christoph
 description:
 tags:
  - combination
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/13/21/4778/pdf) Inter-Layer Reinforcement Combined with Fiber-Reinforcement for Extruded Lightweight Mortar Elements ([2020-10](date/2020/10))
-<a href="https://doi.org/10.3390/ma13214778" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma13214778</a>
+#Inter-Layer Reinforcement Combined with Fiber-Reinforcement for Extruded Lightweight Mortar Elements ([2020-10](date/2020/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/13/21/4778/pdf) <a href="https://doi.org/10.3390/ma13214778" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13214778" target="_blank">10.3390/ma13214778</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9079-8578" title="ORCID: 0000-0001-9079-8578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b>&nbsp;Carla</a></span>, <a href="../../../author/kofler_nadine"><b>Kofler</b>&nbsp;Nadine</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krankel_thomas"><b>Kränkel</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span><br>
+Journal Article - Materials, Vol. 13, Iss. 21
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="https://orcid.org/0000-0001-9079-8578" title="ORCID: 0000-0001-9079-8578" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kofler_nadine"><b>Kofler</b> Nadine</a>
-,     <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> <a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 13, Iss. 21, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#combination`](keyword/combination)
-    [`#element`](keyword/element)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#light`](keyword/light)
-    [`#mortar`](keyword/mortar)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Reinforcement%20Combined%20with%20Fiber-Reinforcement%20for%20Extruded%20Lightweight%20Mortar%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85094623486&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3094924445" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma13214778" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma13214778?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Lightweight mortar extrusion enables the production of monolithic exterior wall components with improved thermal insulation by installing air chambers and reduced material demand compared to conventional construction techniques. However, without reinforcement, the systems are not capable of bearing high flexural forces and, thus, the application possibilities are limited. Furthermore, the layer bonding is a weak spot in the system. We investigate a reinforcement strategy combining fibers in the mortar matrix with vertically inserted elements to compensate the layer bonding. By implementing fibers in the extruded matrix, the flexural strength can be increased almost threefold parallel to the layers. However, there is still an anisotropy between the layers as fibers are oriented during deposition and the layer bond is still mainly depending on hydration processes. This can be compensated by the vertical insertion of reinforcement elements in the freshly deposited layers. Corrugated wire fibers as well as short steel reinforcement elements were suitable to increase the flexural strength between the layers. As shown, the potential increase in flexural strength could be of a factor six compared to the reference (12 N/mm2 instead of 1.9 N/mm2). Thus, the presented methods reduce anisotropy in flexural strength due to layered production.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -100,8 +76,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cao_cui.2025.SFNPTtR3PC/">Simple Floor Nail Placement Technique to Reinforce 3D-Printed Concrete:<br/>An Experimental Investigation</a></li>
       <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../amin_mema.2024.AoABi3CPfMPE/">Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../cao_wu_cui.2025.ESoISMFfR3PC/">Experimental Study on In-Situ Mesh Fabrication for Reinforcing 3D Printed Concrete</a></li>
@@ -134,4 +110,34 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{matt_kofl_kran_wege.2020.ILRCwFRfELME,
+      author            = "Carla Irmgard Ingeborg Matthäus and Nadine Kofler and Thomas Kränkel and Daniel Weger and Christoph Gehlen",
+      title             = "Inter-Layer Reinforcement Combined with Fiber-Reinforcement for Extruded Lightweight Mortar Elements",
+      doi               = "10.3390/ma13214778",
+      year              = "2020",
+      journal           = "Materials",
+      volume            = "13",
+      number            = "21",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. I. I. Matthäus, N. Kofler, T. Kränkel, D. Weger and C. Gehlen, “Inter-Layer Reinforcement Combined with Fiber-Reinforcement for Extruded Lightweight Mortar Elements”, <i>Materials</i>, vol. 13, no. 21, 2020, doi: 10.3390/ma13214778.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Matthäus, Carla Irmgard Ingeborg, Nadine Kofler, Thomas Kränkel, Daniel Weger, and Christoph Gehlen. “Inter-Layer Reinforcement Combined with Fiber-Reinforcement for Extruded Lightweight Mortar Elements”. <i>Materials</i> 13, no. 21 (2020). https://doi.org/10.3390/ma13214778.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

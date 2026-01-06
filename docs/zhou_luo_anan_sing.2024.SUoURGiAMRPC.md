@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiyi Zhou, Haoran Luo, Kamal Anand, Amardeep Singh, Yi Xie
+    - footer
+title: Zhou Yiyi, Luo Haoran, Anand Kamal, Singh Amardeep, Xie Yi
 description:
 tags:
  - additive
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.135556" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.135556</a>
+#Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135556" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135556" target="_blank">10.1016/j.conbuildmat.2024.135556</a>
 
--------------------------
+<a href="../../../author/zhou_yiyi"><b>Zhou</b>&nbsp;Yiyi</a></span>, <a href="../../../author/luo_haoran"><b>Luo</b>&nbsp;Haoran</a></span>, <a href="../../../author/anand_kamal"><b>Anand</b>&nbsp;Kamal</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_min_yi"><b>Xie</b>&nbsp;Yi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 419, No. 135556
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>
-,     <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>
-,     <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>
-,     <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 419, No. 135556
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#glass`](keyword/glass)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#powder`](keyword/powder)
-    [`#recycling`](keyword/recycling)
-    [`#sustainability`](keyword/sustainability)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Use%20of%20Ultrafine%20Recycled%20Glass%20in%20Additive%20Manufactured%20Reactive-Powder%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186119865&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392139019" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.135556" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.135556?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recycled Ultrafine Glass Powder (UFGP) is used to create Reactive Powder Concrete (RPC), a construction material with outstanding qualities for 3D printed concrete (3DPC) applications. Due to its pozzolanic characteristics and particle size, UFGP increases the strength of concrete. By partially replacing cement, using UFGP in 3DPC might reduce waste from the glass industry, advance sustainability, and make it possible to build durable, environmentally friendly, and reasonably priced structures. This study investigates the impact of incorporating 10 μm UFGP as a cement replacement, at rates ranging from 0% to 25%, on the fresh performance, constructability, and mechanical properties of 3DP-RPC. Results showed an increase of slump by 27.54% with 25% UFGP. Mix with 20% UFGP showed a comparable compressive and flexural strength with the control sample. Therefore, incorporating GP in concrete not only enhances its properties but also significantly reduces its carbon footprint. This innovative approach has considerable potential in promoting environmental sustainability in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
@@ -82,8 +59,8 @@ tags:
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../sing_liu_xiao_lyu.2022.MaMPo3PCDwSFuDLD/">Mechanical and Macrostructural Properties of 3D Printed Concrete Dosed with Steel-Fibers under Different Loading-Direction</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_song"><b>Yang</b> Song</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sing_yang_wang_xiao.2025.CTFCfFTRi3PC/">Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete</a></li>
       <li><a href="../../../author/lin_yini"><b>Lin</b> Yini</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_yan_sun_tang.2025.EoWGPoPHaMo3PC/">Effects of Waste Glass Powder on Printability, Hydration and Microstructure of 3D Printing Concrete</a></li>
@@ -93,4 +70,34 @@ tags:
       <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../li_sing_zhao_sun.2024.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D Printed Concrete Through Recycled Ultra-Fine Waste-Glass-Powder</a></li>
       <li><a href="../../../author/los-angeles-ortega-rosario_maria"><b>Los Angeles Ortega Rosario</b> Maria</a>, <a href="../../../author/medina_melany"><b>Medina</b> Melany</a>, <a href="../../../author/duque_rafael"><b>Duque</b> Rafael</a>, <a href="../../../author/alberto-jaen-ortega_antonio"><b>Alberto Jaén Ortega</b> Antonio</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../los_medi_duqu_albe.2024.ASC/">Advancing Sustainable Construction:<br/>Insights into Clay-Based Additive Manufacturing for Architecture, Engineering, and Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_luo_anan_sing.2024.SUoURGiAMRPC,
+      author            = "Yiyi Zhou and Haoran Luo and Kamal Anand and Amardeep Singh and Yi Min Xie",
+      title             = "Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.135556",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "419",
+      pages             = "135556",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhou, H. Luo, K. Anand, A. Singh and Y. M. Xie, “Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete”, <i>Construction and Building Materials</i>, vol. 419, p. 135556, 2024, doi: 10.1016/j.conbuildmat.2024.135556.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Yiyi, Haoran Luo, Kamal Anand, Amardeep Singh, and Yi Min Xie. “Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete”. <i>Construction and Building Materials</i> 419 (2024): 135556. https://doi.org/10.1016/j.conbuildmat.2024.135556.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

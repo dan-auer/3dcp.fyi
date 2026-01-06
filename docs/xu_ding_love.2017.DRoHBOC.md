@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jie Xu, Lieyun Ding, Peter Love
+    - footer
+title: Xu Jie, Ding Lieyun, Love Peter
 description:
 tags:
  - buildability
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital Reproduction of Historical Building Ornamental Components:<br/>:aca-blank: From 3D Scanning to 3D Printing ([2017-01](date/2017/01))
-<a href="https://doi.org/10.1016/j.autcon.2017.01.010" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2017.01.010</a>
+#Digital Reproduction of Historical Building Ornamental Components&nbsp;([2017-01](date/2017/01))
+<div class="h1-like">From 3D Scanning to 3D Printing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2017.01.010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2017.01.010" target="_blank">10.1016/j.autcon.2017.01.010</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_lieyun"><b>Ding</b>&nbsp;Lieyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3239-1304" title="ORCID: 0000-0002-3239-1304" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/love_ed_peter"><b>Love</b>&nbsp;Peter</a></span><br>
+Journal Article - Automation in Construction, Vol. 76, pp. 85-96
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a> <a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="https://orcid.org/0000-0002-3239-1304" title="ORCID: 0000-0002-3239-1304" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 76, pp. 85-96
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#component`](keyword/component)
-    [`#digital`](keyword/digital)
-    [`#historical`](keyword/historical)
-    [`#print`](keyword/print)
-    [`#reproducibility`](keyword/reproducibility)
-    [`#scan`](keyword/scan)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/historical"><button class="btn">#historical</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reproducibility"><button class="btn">#reproducibility</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Reproduction%20of%20Historical%20Building%20Ornamental%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85010416796&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2580111650" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2017.01.010" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2017.01.010?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A combination of the three-dimensional (3D) scanning and cement mortar-based 3D printing technology is used to develop a novel process for reproducing a historical building ornamental component, which is traditionally labor intensive and expensive to construct. A hierarchical algorithm for model slicing and a modified scan line algorithm for nozzle path are developed and presented. To demonstrate the feasibility ofthe proposed digital reproduction process, a damaged cup-shaped individual plinth from the campus at the Huazhong University ofScience and Technology (HUST) in China, is 3D scanned, re-modelled, and re-constructed using specific3D printing technology. An estimation is implemented to the façade of the printed plinth as well as the scanning accuracy. The compressive strength of the printed plinth is tested and calculated, which resulted in 19.8 Mpa and 15.6 Mpa for its vertical and lateral directions, respectively. The reproduction evaluation indicates that the developed process provides the foundation and impetus for future work in the area of the digital reproduction of historical building ornamental components using 3D scanning and cement mortar-based 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
@@ -71,8 +52,8 @@ tags:
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "45 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
@@ -119,4 +100,34 @@ tags:
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_ding_love.2017.DRoHBOC,
+      author            = "Jie Jerry Xu and Lieyun Ding and Peter E.D. Love",
+      title             = "Digital Reproduction of Historical Building Ornamental Components: From 3D Scanning to 3D Printing",
+      doi               = "10.1016/j.autcon.2017.01.010",
+      year              = "2017",
+      journal           = "Automation in Construction",
+      volume            = "76",
+      pages             = "85--96",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. J. Xu, L. Ding and P. E. D. Love, “Digital Reproduction of Historical Building Ornamental Components: From 3D Scanning to 3D Printing”, <i>Automation in Construction</i>, vol. 76, pp. 85–96, 2017, doi: 10.1016/j.autcon.2017.01.010.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Jie Jerry, Lieyun Ding, and Peter E.D. Love. “Digital Reproduction of Historical Building Ornamental Components: From 3D Scanning to 3D Printing”. <i>Automation in Construction</i> 76 (2017): 85–96. https://doi.org/10.1016/j.autcon.2017.01.010.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

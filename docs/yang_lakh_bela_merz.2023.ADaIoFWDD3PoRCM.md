@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xinrui Yang, Othman Lakhal, Abdelkader Belarouci, Rochdi Merzouki
+    - footer
+title: Yang Xinrui, Lakhal Othman, Belarouci Abdelkader, Merzouki Rochdi
 description:
 tags:
  - automation
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automatic Detection and Isolation of Filament-Width-Deviation During 3D Printing of Recycled Construction-Material ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1109/tmech.2023.3313693" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/tmech.2023.3313693</a>
+#Automatic Detection and Isolation of Filament-Width-Deviation During 3D Printing of Recycled Construction-Material ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/tmech.2023.3313693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tmech.2023.3313693" target="_blank">10.1109/tmech.2023.3313693</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7841-4321" title="ORCID: 0000-0002-7841-4321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_xinrui"><b>Yang</b>&nbsp;Xinrui</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0169-5396" title="ORCID: 0000-0003-0169-5396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lakhal_othman"><b>Lakhal</b>&nbsp;Othman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7331-1502" title="ORCID: 0000-0001-7331-1502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/belarouci_abdelkader"><b>Belarouci</b>&nbsp;Abdelkader</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/merzouki_rochdi"><b>Merzouki</b>&nbsp;Rochdi</a></span><br>
+Journal Article - IEEE/ASME Transactions on Mechatronics, pp. 1-10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a> <a href="https://orcid.org/0000-0002-7841-4321" title="ORCID: 0000-0002-7841-4321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a> <a href="https://orcid.org/0000-0003-0169-5396" title="ORCID: 0000-0003-0169-5396" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a> <a href="https://orcid.org/0000-0001-7331-1502" title="ORCID: 0000-0001-7331-1502" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IEEE/ASME Transactions on Mechatronics, pp. 1-10
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#construction`](keyword/construction)
-    [`#detection`](keyword/detection)
-    [`#deviation`](keyword/deviation)
-    [`#filament`](keyword/filament)
-    [`#isolation`](keyword/isolation)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#width`](keyword/width)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/deviation"><button class="btn">#deviation</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/isolation"><button class="btn">#isolation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automatic%20Detection%20and%20Isolation%20of%20Filament-Width-Deviation%20During%203D%20Printing%20of%20Recycled%20Construction-Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173298726&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387146122" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/tmech.2023.3313693" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/tmech.2023.3313693?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this work, we deal with the problem of quality control in the continuous deposition of construction material (concrete), printed in 3-D by a robotic device, in order to produce shapes with complex geometry. Thus, a methodology for online quality monitoring of 3-D concrete printing has been developed. This methodology enables the automatic and real-time detection of deviations in the filament width during material deposition. It also allows to locate the origin of the deviation of the filament by establishing a correlation between the curvature of the shape to be printed, the speed of the robot-nozzle, and the flow rate of the printing material. Filament width estimation is performed using a deep learning instance segmentation model and a corresponding binary mask, then a morphology-based approach is applied to the mask to calculate the overall filament width. Finally, a fault detection and isolation-based method is then applied to monitor the residual signals from the printing process under the guidance of the generated adaptive thresholds to detect and isolate the filament width deviation geometric defect. The experimental results show that this printing quality control methodology improves the process of 3-D printing construction materials in real time
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
@@ -86,8 +62,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yang_lakh_bela_merz.2025.AVCfO3CPiUE/">Adaptive Velocity Compensation for Optimal 3D Concrete Printing in Uncontrolled Environments</a></li>
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_lakh_bela_merz.2025.FQDtACfFIDOSR3P/">From Qualitative Diagnosis to Adaptive Compensation for Filament Imperfections During On-Site Robotic 3D Printing</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
@@ -95,4 +71,33 @@ tags:
       <li><a href="../../../author/bahoria_v_boskey"><b>Bahoria</b> Boskey</a>, <a href="../../../author/bhagat_m_rajesh"><b>Bhagat</b> Rajesh</a>, <a href="../../../author/pande_b_prashant"><b>Pande</b> Prashant</a>, <a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../baho_bhag_pand_raut.2024.DOo3PCECLCAaLCC/">Design-Optimization of 3D Printed Concrete Elements Considering Life Cycle Assessment and Life Cycle Costing</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_ik-gyeom"><b>Kim</b> Ik-Gyeom</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../rehm_kim_kim.2024.TFAi3CPC/">Towards Full Automation in 3D Concrete Printing Construction:<br/>Development of an Automated and In-Line Test-Method for In-Situ Assessment of Structural Build-Up and Quality of Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_lakh_bela_merz.2023.ADaIoFWDD3PoRCM,
+      author            = "Xinrui Yang and Othman Lakhal and Abdelkader Belarouci and Rochdi Merzouki",
+      title             = "Automatic Detection and Isolation of Filament-Width-Deviation During 3D Printing of Recycled Construction-Material",
+      doi               = "10.1109/tmech.2023.3313693",
+      year              = "2023",
+      journal           = "IEEE/ASME Transactions on Mechatronics",
+      pages             = "1--10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Yang, O. Lakhal, A. Belarouci and R. Merzouki, “Automatic Detection and Isolation of Filament-Width-Deviation During 3D Printing of Recycled Construction-Material”, <i>IEEE/ASME Transactions on Mechatronics</i>, pp. 1–10, 2023, doi: 10.1109/tmech.2023.3313693.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Xinrui, Othman Lakhal, Abdelkader Belarouci, and Rochdi Merzouki. “Automatic Detection and Isolation of Filament-Width-Deviation During 3D Printing of Recycled Construction-Material”. <i>IEEE/ASME Transactions on Mechatronics</i>, 2023, 1–10. https://doi.org/10.1109/tmech.2023.3313693.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

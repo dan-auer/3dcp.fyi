@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Dielemans Gido 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>
   <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../diel_lach_khad_hack.2024.RR/">Robotic Repair:<br/>In-Place 3D Printing for Repair of Building Components Using a Mobile Robot</a></li>
   <li><a href="../../../author/cutajar_sacha"><b>Cutajar</b> Sacha</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/krakovska_ema"><b>Krakovská</b> Ema</a>, <a href="../../../author/dorresteijn_evelien"><b>Dorresteijn</b> Evelien</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../cuta_diel_krak_dorr.2024.USEF/">Up-Scaling Earth Formworks:<br/>3D Printing-Strategies for Material-Optimized Reinforced Concrete Structures</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhigang Qiao, Hui Li, Fei Wang, Yongle Qi, Wukui Zheng
+    - footer
+title: Qiao Zhigang, Li Hui, Wang Fei, Qi Yongle, Zheng Wukui
 description:
 tags:
  - change
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04688) Optimizing Thermal Energy Storage in 3D Printed Concrete with Hollow Ceramsite Composite Phase Change Materials ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04688" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04688</a>
+#Optimizing Thermal Energy Storage in 3D Printed Concrete with Hollow Ceramsite Composite Phase Change Materials ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04688) <a href="https://doi.org/10.1016/j.cscm.2025.e04688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04688" target="_blank">10.1016/j.cscm.2025.e04688</a>
 
--------------------------
+<a href="../../../author/qiao_zhigang"><b>Qiao</b>&nbsp;Zhigang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span>, <a href="../../../author/wang_fei"><b>Wang</b>&nbsp;Fei</a></span>, <a href="../../../author/qi_yongle"><b>Qi</b>&nbsp;Yongle</a></span>, <a href="../../../author/zheng_wukui"><b>Zheng</b>&nbsp;Wukui</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04688
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qiao_zhigang"><b>Qiao</b> Zhigang</a>
-,     <a href="../../../author/li_hui"><b>Li</b> Hui</a> <a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_fei"><b>Wang</b> Fei</a>
-,     <a href="../../../author/qi_yongle"><b>Qi</b> Yongle</a>
-,     <a href="../../../author/zheng_wukui"><b>Zheng</b> Wukui</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04688
-
-:aca-blank:{ .lg .middle}
-    [`#change`](keyword/change)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#energy`](keyword/energy)
-    [`#hollow`](keyword/hollow)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#phase`](keyword/phase)
-    [`#print`](keyword/print)
-    [`#storage`](keyword/storage)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/storage"><button class="btn">#storage</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Thermal%20Energy%20Storage%20in%203D%20Printed%20Concrete%20with%20Hollow%20Ceramsite%20Composite%20Phase%20Change%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003414635&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409787829" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04688" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04688?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing has revolutionized construction, yet integrating phase change materials (PCMs) into 3D printed concrete (3DPC) to enhance energy efficiency remains a major challenge. This study presents a novel approach by incorporating hollow ceramsite composite phase change materials (HC-PCMs) into 3DPC, achieving an innovative balance between thermal energy storage and mechanical performance in thermal energy storage 3D printed concrete (TES-3DPC). Unlike conventional PCM-integration methods, the use of HC-PCMs overcomes leakage issues and enhances structural integrity due to their robust ceramic shell and high adsorption capacity. The impact of HC-PCMs on printing, mechanical, and thermal properties was evaluated. Results indicate that a 10% HC-PCMs content improves fluidity, while a 30% content increases specific heat capacity from 1.25 J/g·°C at 0% to 1.82 J/g·°C, representing a 45.43% increase, significantly enhancing thermal energy storage. Despite reduced extrudability due to particle interlocking, optimized extrusion speed enables successful printing. The compressive strength of the TES-3DPC with 30% HC-PCMs remains at 48.1 MPa, and the elastic modulus is 29.4 GPa, demonstrating that HC-PCMs do not compromise mechanical integrity. Additionally, internal temperature fluctuations in 3D printed models were reduced by 6.8 °C, and the Overheating degree (OD) decreased from 3.3 °C·h to 1.12 oC·h, effectively improving thermal comfort. This study pioneers the integration of hollow ceramsite-based PCMs into 3DPC, offering a promising strategy for developing energy-efficient, thermally stable 3D printed buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/brooks_lee_adam"><b>Brooks</b> Adam</a>, <a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/seyfimakrani_shayan"><b>Seyfimakrani</b> Shayan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../broo_he_farz_seyf.2022.IPETESi3PCC/">Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
@@ -101,7 +75,36 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qiao_li_wang_qi.2025.OTESi3PCwHCCPCM,
+      author            = "Zhigang Qiao and Hui Li and Fei Wang and Yongle Qi and Wukui Zheng",
+      title             = "Optimizing Thermal Energy Storage in 3D Printed Concrete with Hollow Ceramsite Composite Phase Change Materials",
+      doi               = "10.1016/j.cscm.2025.e04688",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04688",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Qiao, H. Li, F. Wang, Y. Qi and W. Zheng, “Optimizing Thermal Energy Storage in 3D Printed Concrete with Hollow Ceramsite Composite Phase Change Materials”, <i>Case Studies in Construction Materials</i>, p. e04688, 2025, doi: 10.1016/j.cscm.2025.e04688.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qiao, Zhigang, Hui Li, Fei Wang, Yongle Qi, and Wukui Zheng. “Optimizing Thermal Energy Storage in 3D Printed Concrete with Hollow Ceramsite Composite Phase Change Materials”. <i>Case Studies in Construction Materials</i>, 2025, e04688. https://doi.org/10.1016/j.cscm.2025.e04688.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

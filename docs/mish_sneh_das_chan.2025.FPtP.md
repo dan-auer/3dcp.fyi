@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sanjeet Mishra, K. Snehal, B. Das, Rajasekaran Chandrasekaran, Salim Barbhuiya
+    - footer
+title: Mishra Sanjeet, Snehal K., Das B., Chandrasekaran Rajasekaran, Barbhuiya Salim
 description:
 tags:
  - assessment
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} From Printing to Performance:<br/>:aca-blank: A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1007/s41024-025-00626-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41024-025-00626-4</a>
+#From Printing to Performance&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41024-025-00626-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00626-4" target="_blank">10.1007/s41024-025-00626-4</a>
 
--------------------------
+<a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b>&nbsp;Sanjeet</a></span>, <a href="../../../author/snehal_k"><b>Snehal</b>&nbsp;K.</a></span>, <a href="../../../author/das_b_b"><b>Das</b>&nbsp;B.</a></span>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b>&nbsp;Rajasekaran</a></span>, <a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b>&nbsp;Salim</a></span><br>
+Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 10, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>
-,     <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>
-,     <a href="../../../author/das_b_b"><b>Das</b> B.</a>
-,     <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a>
-,     <a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 10, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#life`](keyword/life)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20Printing%20to%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004344080&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410111339" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41024-025-00626-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41024-025-00626-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A paradigm shift in the construction sector has been driven by 3D concrete printing (3DCP), offering automated alternatives to conventional building methods. 3DCP enhances precision, efficiency, and consistency through robotic control and advanced printhead systems while reducing material waste and enabling design flexibility. This review examines the working principles, printer classifications (gantry-based and robotic arm-based), and operational parameters, highlighting printing speed, interlayer gap time, and nozzle size and shape as critical parameters for buildability, interlayer bonding, and extrusion quality. Their influence is discussed in relation to fresh properties (flowability, pumpability, extrudability, shape retention, and buildability) and hardened properties (compressive, tensile, and flexural strength, interlayer bonding, and durability). Mix design strategies for optimizing rheology, printability, and sustainable material selection are critically reviewed. Key durability concerns such as shrinkage, cracking, and weather resistance are addressed. Reinforcement methods, including steel bars, fibers, and embedment techniques, are also discussed. A life cycle analysis reveals that 3DCP reduces carbon dioxide emissions by up to 89.2% and construction costs by 30–40% through formwork elimination. Environmental impacts (waste generation, carbon footprint, and energy use) are assessed using regional and global data, considering embodied energy, transportation, and maintenance costs. Challenges such as regulatory hurdles, high initial investment, and the absence of standardized guidelines are identified. This review covers developments from the past decade, offering valuable insights for researchers, industry professionals, and policymakers regarding the advancements, limitations, and future directions of 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "156 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -227,8 +204,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/atalay_berrin"><b>Atalay</b> Berrin</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_atal.2025.PaBaAfSaHP3PC/">Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete</a></li>
@@ -238,4 +215,34 @@ tags:
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.3PAoFAaGABaTBCM/">3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.EtRoMiBaTB3PM/">Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars:<br/>Deep Insights into Printability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mish_sneh_das_chan.2025.FPtP,
+      author            = "Sanjeet Kumar Mishra and K. Snehal and B. B. Das and Rajasekaran Chandrasekaran and Salim Barbhuiya",
+      title             = "From Printing to Performance: A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment",
+      doi               = "10.1007/s41024-025-00626-4",
+      year              = "2025",
+      journal           = "Journal of Building Pathology and Rehabilitation",
+      volume            = "10",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. K. Mishra, K. Snehal, B. B. Das, R. Chandrasekaran and S. Barbhuiya, “From Printing to Performance: A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment”, <i>Journal of Building Pathology and Rehabilitation</i>, vol. 10, no. 2, 2025, doi: 10.1007/s41024-025-00626-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mishra, Sanjeet Kumar, K. Snehal, B. B. Das, Rajasekaran Chandrasekaran, and Salim Barbhuiya. “From Printing to Performance: A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment”. <i>Journal of Building Pathology and Rehabilitation</i> 10, no. 2 (2025). https://doi.org/10.1007/s41024-025-00626-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

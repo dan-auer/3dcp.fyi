@@ -8,7 +8,7 @@ search:
 
 # #humidity
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/posani_magda"><b>Posani</b> Magda</a>, <a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/du_yi"><b>Du</b> Yi</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../posa_vone_odag_du.2025.LCIHRv3PSBC/">Low-Carbon Indoor Humidity Regulation via 3D Printed Superhygroscopic Building Components</a></li>
   <li><a href="../../../author/wei_yazhi"><b>Wei</b> Yazhi</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wei_zhan.2024.IoTaHoMPoCOSPM3PC/">Influence of Temperature and Humidity on Mechanical Properties of Calcined-Oyster-Shell-Powder-Modified 3D Printed Concrete</a></li>
   <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/dominicus_randy"><b>Dominicus</b> Randy</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../sun_domi_dong_li.2024.PtSDo3PCCtSEoCTaH/">Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity:<br/>From Perspective of Modified Maturity-Model</a></li>

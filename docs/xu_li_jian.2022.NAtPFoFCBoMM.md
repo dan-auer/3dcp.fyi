@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhisong Xu, Zhuguo Li, Fei Jiang
+    - footer
+title: Xu Zhisong, Li Zhuguo, Jiang Fei
 description:
 tags:
  - approach
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical Approach to Pipe Flow of Fresh Concrete Based on MPS Method ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106679" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106679</a>
+#Numerical Approach to Pipe Flow of Fresh Concrete Based on MPS Method ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2021.106679" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106679" target="_blank">10.1016/j.cemconres.2021.106679</a>
 
--------------------------
+<a href="../../../author/xu_zhisong"><b>Xu</b>&nbsp;Zhisong</a></span>, <a href="../../../author/li_zhuguo"><b>Li</b>&nbsp;Zhuguo</a></span>, <a href="../../../author/jiang_fei"><b>Jiang</b>&nbsp;Fei</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 152
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_zhisong"><b>Xu</b> Zhisong</a>
-,     <a href="../../../author/li_zhuguo"><b>Li</b> Zhuguo</a>
-,     <a href="../../../author/jiang_fei"><b>Jiang</b> Fei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 152, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#flow`](keyword/flow)
-    [`#fresh`](keyword/fresh)
-    [`#method`](keyword/method)
-    [`#numeric`](keyword/numeric)
-    [`#pipe`](keyword/pipe)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Approach%20to%20Pipe%20Flow%20of%20Fresh%20Concrete%20Based%20on%20MPS%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120067172&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3216152743" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106679" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106679?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As a fundamental study of concrete pumping, this study developed a numerical method to simulate the flow and segregation of fresh concrete in pipes, based on the improved MPS (Moving Particle Semi-implicit) that has complete implicit algorithm, hereafter called I-MPS. The slip layer (LL) near the pipe inner wall was treated by the macroscopic approach, which estimates the slip resistance and the volumetric flow rate of LL from the apparent slip velocity of LL. Two constituent models were used to describe fresh concrete, called single-phase & mono-particle (SPMP) model and double-phase & multi-particle (DPMP) model, respectively. In the former, fresh concrete is considered as a single-phase granular fluid, but in the latter, fresh concrete is regarded as two-phase granular fluid with different particle shapes and sizes of coarse aggregate and matrix mortar. By comparing the numerical and theoretical pumping pressures of three concretes having slump from 13 cm to 21 cm, it was found that by using the macroscopic approach of LL and either of the constituent models, the numerical approach can predict properly the pumping pressure and velocity profile of fresh concrete in pipes. Moreover, if using the DPMP model, the segregation behavior of coarse aggregate particles during the pipe flow can also be simulated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/le_d_h"><b>Le</b> H.</a>, <a href="../../../author/kadri_hadj"><b>Kadri</b> Hadj</a>, <a href="../../../author/aggoun_salima"><b>Aggoun</b> Salima</a>, <a href="../../../author/vierendeels_jan"><b>Vierendeels</b> Jan</a> et al. <a href="../../../date/2015/01">(2015-01)</a><br><a href="../../../le_kadr_aggo_vier.2015.EoLLoVPoCiaPP/">Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
@@ -73,10 +52,39 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/khodor_jad"><b>Khodor</b> Jad</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../secr_khod_schr_mech.2018.FoLLaFTDPoCBM/">Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yoshihara_rei"><b>Yoshihara</b> Rei</a>, <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yosh_naka_hash_sugi.2024.EoADHi3PCbMoXRC/">Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT</a></li>
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/ishida_takato"><b>Ishida</b> Takato</a>, <a href="../../../author/nakada_kiyofumi"><b>Nakada</b> Kiyofumi</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../ishi_naka.2023.RoRiCBMaIAt3PUC/">Review of Rheology in Cement-Based Materials and Its Application to 3D Printing Using Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_li_jian.2022.NAtPFoFCBoMM,
+      author            = "Zhisong Xu and Zhuguo Li and Fei Jiang",
+      title             = "Numerical Approach to Pipe Flow of Fresh Concrete Based on MPS Method",
+      doi               = "10.1016/j.cemconres.2021.106679",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "152",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Xu, Z. Li and F. Jiang, “Numerical Approach to Pipe Flow of Fresh Concrete Based on MPS Method”, <i>Cement and Concrete Research</i>, vol. 152, 2022, doi: 10.1016/j.cemconres.2021.106679.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Zhisong, Zhuguo Li, and Fei Jiang. “Numerical Approach to Pipe Flow of Fresh Concrete Based on MPS Method”. <i>Cement and Concrete Research</i> 152 (2022). https://doi.org/10.1016/j.cemconres.2021.106679.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

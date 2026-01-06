@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chengjie Ye, Jie Xu, Giuseppe Lacidogna
+    - footer
+title: Ye Chengjie, Xu Jie, Lacidogna Giuseppe
 description:
 tags:
  - behavior
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106193" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106193</a>
+#Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106193" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106193" target="_blank">10.1016/j.cemconcomp.2025.106193</a>
 
--------------------------
+<a href="../../../author/ye_chengjie"><b>Ye</b>&nbsp;Chengjie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6930-979X" title="ORCID: 0000-0002-6930-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0192-3793" title="ORCID: 0000-0002-0192-3793" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lacidogna_giuseppe"><b>Lacidogna</b>&nbsp;Giuseppe</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 163, No. 106193
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ye_chengjie"><b>Ye</b> Chengjie</a>
-,     <a href="../../../author/xu_jie"><b>Xu</b> Jie</a> <a href="https://orcid.org/0000-0002-6930-979X" title="ORCID: 0000-0002-6930-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lacidogna_giuseppe"><b>Lacidogna</b> Giuseppe</a> <a href="https://orcid.org/0000-0002-0192-3793" title="ORCID: 0000-0002-0192-3793" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 163, No. 106193
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#ceramic`](keyword/ceramic)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#fracture`](keyword/fracture)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fracture%20Behavior%20of%203D%20Printed%20Geopolymer%20Concrete%20Containing%20Waste%20Ceramic" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008131432&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411362199" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106193" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106193?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study systematically investigates the fracture behavior of 3D printed geopolymer concrete containing waste ceramic. Based on three-point bending tests, the effect of waste ceramic aggregate (CWA) content and printing direction on the cracking patterns of 3D printed geopolymer concrete (3DGPC) were investigated with the help of digital image correlation (DIC) and acoustic emission (AE) techniques. The test results showed that the addition of 40 % CWA significantly enhanced the mechanical properties, fracture toughness and fracture energy of concrete. Compared to inter-strip cracking, inter-layer cracking was verified to be more effective in mitigating stress concentrations which further improves the performance of concrete. DIC analysis revealed that CWA incorporation and interlayer fracture had significantly increased the crack opening displacement, effectively inhibiting crack propagation and alleviating stress concentration at the crack tip. AE analysis further indicated that the incorporation of CWA and interlayer fracture can reduced shear cracks and enhanced the fracture toughness effectively. This research not only provides optimal mix proportions and printing parameters for 3D printed geopolymer concrete, but also holds the potential to promote the sustainable development of 3D printing technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/ge_yutian"><b>Ge</b> Yutian</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../huan_ge_wang_wang.2024.RCBPUiFR3PC/">Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete:<br/>An Eco-Friendly Substitute to Conventional Fine Aggregates</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a></li>
@@ -89,10 +68,40 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ye_xu_laci.2025.FBo3PGCCWC,
+      author            = "Chengjie Ye and Jie Xu and Giuseppe Lacidogna",
+      title             = "Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic",
+      doi               = "10.1016/j.cemconcomp.2025.106193",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "163",
+      pages             = "106193",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Ye, J. Xu and G. Lacidogna, “Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic”, <i>Cement and Concrete Composites</i>, vol. 163, p. 106193, 2025, doi: 10.1016/j.cemconcomp.2025.106193.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ye, Chengjie, Jie Xu, and Giuseppe Lacidogna. “Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic”. <i>Cement and Concrete Composites</i> 163 (2025): 106193. https://doi.org/10.1016/j.cemconcomp.2025.106193.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

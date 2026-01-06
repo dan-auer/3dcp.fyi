@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rísia Araújo, Antônio Martinelli, Kleber Cabral, Ueslei Nunes, Iago Silva, Allynson Xavier
+    - footer
+title: Araújo Rísia, Martinelli Antônio, Cabral Kleber, Nunes Ueslei, Silva Iago, Xavier Allynson
 description:
 tags:
  - aggregate
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140581" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140581</a>
+#Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140581" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140581" target="_blank">10.1016/j.conbuildmat.2025.140581</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9265-9459" title="ORCID: 0000-0001-9265-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/araujo_a_risia"><b>Araújo</b>&nbsp;Rísia</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3885-9104" title="ORCID: 0000-0003-3885-9104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b>&nbsp;Antônio</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7502-3002" title="ORCID: 0000-0001-7502-3002" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b>&nbsp;Kleber</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9534-9632" title="ORCID: 0000-0001-9534-9632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nunes_s_ueslei"><b>Nunes</b>&nbsp;Ueslei</a></span>, <a href="../../../author/silva_felipe-domingos_iago"><b>da&nbsp;Silva</b>&nbsp;Iago</a></span>, <a href="../../../author/xavier_a-c_allynson"><b>Xavier</b>&nbsp;Allynson</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 470, No. 140581
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a> <a href="https://orcid.org/0000-0001-9265-9459" title="ORCID: 0000-0001-9265-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a> <a href="https://orcid.org/0000-0003-3885-9104" title="ORCID: 0000-0003-3885-9104" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a> <a href="https://orcid.org/0000-0001-7502-3002" title="ORCID: 0000-0001-7502-3002" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> <a href="https://orcid.org/0000-0001-9534-9632" title="ORCID: 0000-0001-9534-9632" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silva_felipe-domingos_iago"><b>da Silva</b> Iago</a>
-,     <a href="../../../author/xavier_a-c_allynson"><b>Xavier</b> Allynson</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 470, No. 140581
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#expansion`](keyword/expansion)
-    [`#light`](keyword/light)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Lightweight%20Expanded%20Clay%20Aggregate%20%28LECA%29%20On%20the%20Printability%20of%20Cementitious%20Compositions%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219550687&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408126984" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140581" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140581?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The interest in the development of 3D printing of concrete (3DCP) and its mixtures has significantly increased in recent years. In particular, lightweight mixtures, capable of optimizing the printing process and the thermal comfort of printed structures, still need to be studied. However, it is known that the addition of lightweight aggregates reduces density, providing better resistance to both buckling and plastic collapse during printing. In this sense, the present study aimed at evaluating the influence of the replacement of natural sand by lightweight expanded clay aggregate (LECA) on the fresh state properties of 3DCP mixtures. A 2² factorial design was used, with the replacement content of sand by LECA and the aggregate to binder ratio as independent factors. The squeeze-flow technique, together with the flow-table test, were used to evaluate the rheological behavior of the 3DCP mixtures containing aggregates up to 1.2 mm in maximum diameter. The results showed that replacing sand with LECA increased the flow tension and viscosity of the mix, which resulted in increased constructability preserving the extrudability of to the reference mix. In addition, the mixes with LECA showed up to a 13 % decrease in density in the fresh state, improving the resistance to both local buckling and preventing the plastic collapse during printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "66 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/souza-dias_leonardo"><b>Souza Dias</b> Leonardo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../barb_anjo_cabr_souz.2022.DoCf3PwRCC/">Development of Composites for 3D Printing with Reduced Cement Consumption</a></li>
@@ -138,7 +113,37 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.PaEMPoMCM3PECCBotRSM/">Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{arau_mart_cabr_nune.2025.EoLECALOtPoCCf3P,
+      author            = "Rísia A. Araújo and Antônio Eduardo Martinelli and Kleber Cavalcanti Cabral and Ueslei S. Nunes and Iago Felipe Domingos da Silva and Allynson A. C. Xavier",
+      title             = "Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2025.140581",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "470",
+      pages             = "140581",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. A. Araújo, A. E. Martinelli, K. C. Cabral, U. S. Nunes, I. F. D. da Silva and A. A. C. Xavier, “Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing”, <i>Construction and Building Materials</i>, vol. 470, p. 140581, 2025, doi: 10.1016/j.conbuildmat.2025.140581.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Araújo, Rísia A., Antônio Eduardo Martinelli, Kleber Cavalcanti Cabral, Ueslei S. Nunes, Iago Felipe Domingos da Silva, and Allynson A. C. Xavier. “Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing”. <i>Construction and Building Materials</i> 470 (2025): 140581. https://doi.org/10.1016/j.conbuildmat.2025.140581.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

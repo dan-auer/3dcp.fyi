@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tianjie Zhang, Donglei Wang, Yang Lu
+    - footer
+title: Zhang Tianjie, Wang Donglei, Lu Yang
 description:
 tags:
  - behavior
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/buildings15020275) A Navier-Stokes-Informed Neural Network for Simulating the Flow-Behavior of Flowable Cement-Paste in 3D Concrete Printing ([2025-01](date/2025/01))
-<a href="https://doi.org/10.3390/buildings15020275" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15020275</a>
+#A Navier-Stokes-Informed Neural Network for Simulating the Flow-Behavior of Flowable Cement-Paste in 3D Concrete Printing ([2025-01](date/2025/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings15020275) <a href="https://doi.org/10.3390/buildings15020275" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15020275" target="_blank">10.3390/buildings15020275</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6697-0777" title="ORCID: 0000-0002-6697-0777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_tianjie"><b>Zhang</b>&nbsp;Tianjie</a></span>, <a href="../../../author/wang_donglei"><b>Wang</b>&nbsp;Donglei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2330-4237" title="ORCID: 0000-0003-2330-4237" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_yang"><b>Lu</b>&nbsp;Yang</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 2, No. 275
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_tianjie"><b>Zhang</b> Tianjie</a> <a href="https://orcid.org/0000-0002-6697-0777" title="ORCID: 0000-0002-6697-0777" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_donglei"><b>Wang</b> Donglei</a>
-,     <a href="../../../author/lu_yang"><b>Lu</b> Yang</a> <a href="https://orcid.org/0000-0003-2330-4237" title="ORCID: 0000-0003-2330-4237" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 2, No. 275
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#flow`](keyword/flow)
-    [`#information`](keyword/information)
-    [`#network`](keyword/network)
-    [`#neural`](keyword/neural)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Navier-Stokes-Informed%20Neural%20Network%20for%20Simulating%20the%20Flow-Behavior%20of%20Flowable%20Cement-Paste%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215969206&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406601034" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15020275" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15020275?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this work, we propose a Navier–Stokes-Informed Neural Network (NSINN) as a surrogate approach to predict the localized flow behavior of cementitious materials for advancing 3D additive construction technology to gain fundamental insights into multiscale mechanisms of cement paste rheology. NS equations are embedded into the NSINN to interpret the flow pattern in the 3D printing barrel. The results show that the presented NSINN has a higher accuracy compared to a traditional artificial neural network (ANN) as the Mean Square Errors (MSEs) of the u, v, and p predicted by NSINN are 1.25×10−4, 1.85×10−5, and 3.91×10−3, respectively. Compared to the ANN, the MSE of the predictions are 5.88×10−2, 4.17×10−3, and 1.72×10−2, respectively. Moreover, the mean prediction time used in the NSINN, the ANN, and Computational Fluid Dynamics (CFD) are 0.039 s, 0.014 s, and 3.37 s, respectively. That means the method is more computationally efficient at performing simulations compared to CFD which is mesh-based. The NSINN is also utilized in studying the relationship between geometry and extrudability. The ratio (R = 0.25, 0.5, and 0.75) between the diameter of the outlet and that of the domain is studied. It shows that a larger ratio (R = 0.75) can lead to better extrudability of the 3D concrete printing (3DCP).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -88,8 +65,39 @@ tags:
       <li><a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../vall_farz_khay.2021.EoFBaPIVoSSo3PE/">Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_wang_lu.2025.ANSINNfStFBoFCPi3CP,
+      author            = "Tianjie Zhang and Donglei Wang and Yang Lu",
+      title             = "A Navier-Stokes-Informed Neural Network for Simulating the Flow-Behavior of Flowable Cement-Paste in 3D Concrete Printing",
+      doi               = "10.3390/buildings15020275",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "2",
+      pages             = "275",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Zhang, D. Wang and Y. Lu, “A Navier-Stokes-Informed Neural Network for Simulating the Flow-Behavior of Flowable Cement-Paste in 3D Concrete Printing”, <i>Buildings</i>, vol. 15, no. 2, p. 275, 2025, doi: 10.3390/buildings15020275.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Tianjie, Donglei Wang, and Yang Lu. “A Navier-Stokes-Informed Neural Network for Simulating the Flow-Behavior of Flowable Cement-Paste in 3D Concrete Printing”. <i>Buildings</i> 15, no. 2 (2025): 275. https://doi.org/10.3390/buildings15020275.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

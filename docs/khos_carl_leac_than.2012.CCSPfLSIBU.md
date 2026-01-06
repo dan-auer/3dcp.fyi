@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behrokh Khoshnevis, Anders Carlson, Neil Leach, Madhu Thangavelu
+    - footer
+title: Khoshnevis Behrokh, Carlson Anders, Leach Neil, Thangavelu Madhu
 description:
 tags:
  - buildability
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://ntrs.nasa.gov/api/citations/20160010607/downloads/20160010607.pdf) Contour Crafting Simulation-Plan for Lunar Settlement Infrastructure Build-Up ([2012-04](date/2012/04))
-<a href="https://doi.org/10.1061/9780784412190.155" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/9780784412190.155</a>
+#Contour Crafting Simulation-Plan for Lunar Settlement Infrastructure Build-Up ([2012-04](date/2012/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://ntrs.nasa.gov/api/citations/20160010607/downloads/20160010607.pdf) <a href="https://doi.org/10.1061/9780784412190.155" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784412190.155" target="_blank">10.1061/9780784412190.155</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/carlson_anders"><b>Carlson</b>&nbsp;Anders</a></span>, <a href="../../../author/leach_neil"><b>Leach</b>&nbsp;Neil</a></span>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b>&nbsp;Madhu</a></span><br>
+Contribution - Earth and Space 2012, pp. 1458-1467
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/carlson_anders"><b>Carlson</b> Anders</a>
-,     <a href="../../../author/leach_neil"><b>Leach</b> Neil</a>
-,     <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Earth and Space 2012, pp. 1458-1467
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#infrastructure`](keyword/infrastructure)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Contour%20Crafting%20Simulation-Plan%20for%20Lunar%20Settlement%20Infrastructure%20Build-Up" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84874282187&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,21 +35,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2314067256" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/9780784412190.155" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/9780784412190.155?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Several unique systems including the Lunar Electric Rover, the unpressurized Chariot rover, the versatile light-weight crane and Athlete cargo transporter as well as the habitat module mockups and a new generation of spacesuits are undergoing coordinated tests at NASA’s facility for Desert Research and Test Studies (D-RATS). A synergetic plan is proposed for utilizing these maturing systems coupled with a fabrication technology called Contour Crafting, tailored for swift and reliable lunar infrastructure development. The intent is to increase astronaut safety, improve buildup performance, ameliorate lunar dust interference and concerns, and reduce time-to-commission, all in an economic manner.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/floris_ignazio"><b>Floris</b> Ignazio</a>, <a href="../../../author/duran_dayan"><b>Duran</b> Dayan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../sang_flor_dura.2025.UIAfBBMt3CPaSP/">Unified Integration Approach for Bridging BIM Model to 3D Construction Printing and Scale Prototyping</a></li>
       <li><a href="../../../author/ma_liangzhu"><b>Ma</b> Liangzhu</a>, <a href="../../../author/yin_deshun"><b>Yin</b> Deshun</a>, <a href="../../../author/ren_jiangtao"><b>Ren</b> Jiangtao</a>, <a href="../../../author/tian_mingyuan"><b>Tian</b> Mingyuan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_yin_ren_tian.2024.AETSDRMf3PCMitFS/">An Effective Thixotropic Structural-Dynamics Rheological-Model for 3D Printed Concrete Materials in the Flow-State</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
@@ -84,4 +65,34 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a> <a href="../../../date/2013/09">(2013-09)</a><br><a href="../../../khos_than_yuan_zhan.2013.AiCCTfESIB/">Advances in Contour Crafting Technology for Extraterrestrial Settlement Infrastructure Buildup</a></li>
       <li><a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/carlson_anders"><b>Carlson</b> Anders</a>, <a href="../../../author/leach_neil"><b>Leach</b> Neil</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../than_khos_carl_leac.2012.ACECRSaCCTfLSID/">Architectural Concepts Employing Co-Robot-Strategy and Contour Crafting Technologies for Lunar Settlement Infrastructure Development</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{khos_carl_leac_than.2012.CCSPfLSIBU,
+      author            = "Behrokh Khoshnevis and Anders Carlson and Neil Leach and Madhu Thangavelu",
+      title             = "Contour Crafting Simulation-Plan for Lunar Settlement Infrastructure Build-Up",
+      doi               = "10.1061/9780784412190.155",
+      year              = "2012",
+      pages             = "1458--1467",
+      booktitle         = "Earth and Space 2012",
+      editor            = "Kris Zacny and Ramesh B. Malla and Wieslaw Binienda",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Khoshnevis, A. Carlson, N. Leach and M. Thangavelu, “Contour Crafting Simulation-Plan for Lunar Settlement Infrastructure Build-Up”, in <i>Earth and Space 2012</i>,  2012, pp. 1458–1467. doi: 10.1061/9780784412190.155.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khoshnevis, Behrokh, Anders Carlson, Neil Leach, and Madhu Thangavelu. “Contour Crafting Simulation-Plan for Lunar Settlement Infrastructure Build-Up”. In <i>Earth and Space 2012</i>, edited by Kris Zacny, Ramesh B. Malla, and Wieslaw Binienda, 1458–67, 2012. https://doi.org/10.1061/9780784412190.155.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

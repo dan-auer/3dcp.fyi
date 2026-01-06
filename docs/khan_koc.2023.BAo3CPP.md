@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shoukat Khan, Muammer Koç
+    - footer
+title: Khan Shoukat, Koç Muammer
 description:
 tags:
  - analysis
@@ -17,31 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2227-9717/11/3/782/pdf?version=1678443260) Buildability-Analysis of 3D Concrete Printing Process:<br/>:aca-blank: A Parametric Study Using Design of Experiment-Approach ([2023-03](date/2023/03))
-<a href="https://doi.org/10.3390/pr11030782" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/pr11030782</a>
+#Buildability-Analysis of 3D Concrete Printing Process&nbsp;([2023-03](date/2023/03))
+<div class="h1-like">A Parametric Study Using Design of Experiment-Approach</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2227-9717/11/3/782/pdf?version=1678443260) <a href="https://doi.org/10.3390/pr11030782" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/pr11030782" target="_blank">10.3390/pr11030782</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_alim_shoukat"><b>Khan</b>&nbsp;Shoukat</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
+Journal Article - Processes, Vol. 11, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> <a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Processes, Vol. 11, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#approach`](keyword/approach)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#experiment`](keyword/experiment)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Buildability-Analysis%20of%203D%20Concrete%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152275722&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4323361375" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/pr11030782" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/pr11030782?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Plastic collapse and buckling are the key structural failure criteria in 3D concrete printing (3DCP). This study aims to analyze the effect of different geometrical designs and printing factors on the buildability performance of 3DCP structures. Due to the high number of variables involved, the Design of Experiment (DOE) has been used to reduce the number of simulations. In geometrical design parameters, the structure’s design is more sensitive, followed by the width and length of the printed design. The buildability increases when we move from sharp corners to more stable structures like fillets and circular geometry. For geometrical design parameters, a maximum buildability of 74% of the designed height is achieved for circular design with the highest width and lowest diameter. For printing parameters, the highest buildability of 486 mm (81%) is achieved for the lower values of printing speed and layer height. The study analyzed failure phenomena of buckling and yield strength for the tested combination of parameters. The study analyzed the sensitivity analysis of individual parameters and their combination for maximum buildability and developed the low order polynomial regression equation for each printing parameter and geometrical factors. Based on the analysis of the results, the study also proposed different new printing strategies to increase the overall performance of the printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../jaya_sanj_raje.2020.CEf3CPUDES/">Characterizing Extrudability for 3D Concrete Printing Using Discrete Element Simulations</a></li>
@@ -81,8 +61,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kul_koca.2025.PAoDaOPi3CPoWE/">Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
@@ -101,4 +81,34 @@ tags:
       <li><a href="../../../author/vespalec_arnost"><b>Vespalec</b> Arnošt</a>, <a href="../../../author/podrouzek_jan"><b>Podroužek</b> Jan</a>, <a href="../../../author/koutny_daniel"><b>Koutný</b> Daniel</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../vesp_podr_kout.2023.DAtSIPfD3PoCfCAut8m/">DoE Approach to Setting Input Parameters for Digital 3D Printing of Concrete for Coarse Aggregates up to 8 mm</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/jassim_muhammad"><b>Jassim</b> Muhammad</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../khan_jass_ilca_sahi.2023.3PoCM/">3D Printing of Circular Materials:<br/>Comparative Environmental Analysis of Materials and Construction Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan_koc.2023.BAo3CPP,
+      author            = "Shoukat Alim Khan and Muammer Koç",
+      title             = "Buildability-Analysis of 3D Concrete Printing Process: A Parametric Study Using Design of Experiment-Approach",
+      doi               = "10.3390/pr11030782",
+      year              = "2023",
+      journal           = "Processes",
+      volume            = "11",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. A. Khan  and M. Koç, “Buildability-Analysis of 3D Concrete Printing Process: A Parametric Study Using Design of Experiment-Approach”, <i>Processes</i>, vol. 11, no. 3, 2023, doi: 10.3390/pr11030782.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khan, Shoukat Alim, and Muammer Koç. “Buildability-Analysis of 3D Concrete Printing Process: A Parametric Study Using Design of Experiment-Approach”. <i>Processes</i> 11, no. 3 (2023). https://doi.org/10.3390/pr11030782.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

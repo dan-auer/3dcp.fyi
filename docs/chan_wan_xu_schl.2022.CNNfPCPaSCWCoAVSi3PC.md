@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ze Chang, Zhi Wan, Yading Xu, Erik Schlangen, Branko Šavija
+    - footer
+title: Chang Ze, Wan Zhi, Xu Yading, Schlangen Erik, Šavija Branko
 description:
 tags:
  - air
@@ -22,39 +23,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engfracmech.2022.108624) Convolutional Neural Network for Predicting Crack-Pattern and Stress-Crack-Width Curve of Air-Void Structure in 3D Printed Concrete ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.engfracmech.2022.108624" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engfracmech.2022.108624</a>
+#Convolutional Neural Network for Predicting Crack-Pattern and Stress-Crack-Width Curve of Air-Void Structure in 3D Printed Concrete ([2022-06](date/2022/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engfracmech.2022.108624) <a href="https://doi.org/10.1016/j.engfracmech.2022.108624" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engfracmech.2022.108624" target="_blank">10.1016/j.engfracmech.2022.108624</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2445-3878" title="ORCID: 0000-0002-2445-3878" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chang_ze"><b>Chang</b>&nbsp;Ze</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1974-6510" title="ORCID: 0000-0002-1974-6510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan_zhi"><b>Wan</b>&nbsp;Zhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_yading"><b>Xu</b>&nbsp;Yading</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
+Journal Article - Engineering Fracture Mechanics, Vol. 271
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> <a href="https://orcid.org/0000-0002-2445-3878" title="ORCID: 0000-0002-2445-3878" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> <a href="https://orcid.org/0000-0002-1974-6510" title="ORCID: 0000-0002-1974-6510" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_yading"><b>Xu</b> Yading</a> <a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Fracture Mechanics, Vol. 271, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#concrete`](keyword/concrete)
-    [`#convolution`](keyword/convolution)
-    [`#crack`](keyword/crack)
-    [`#curve`](keyword/curve)
-    [`#network`](keyword/network)
-    [`#neural`](keyword/neural)
-    [`#pattern`](keyword/pattern)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#stress`](keyword/stress)
-    [`#structure`](keyword/structure)
-    [`#void`](keyword/void)
-    [`#width`](keyword/width)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/convolution"><button class="btn">#convolution</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/void"><button class="btn">#void</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Convolutional%20Neural%20Network%20for%20Predicting%20Crack-Pattern%20and%20Stress-Crack-Width%20Curve%20of%20Air-Void%20Structure%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132790643&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4282914543" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engfracmech.2022.108624" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engfracmech.2022.108624?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D concrete printing (3DCP) results in deposited materials with complex microstructures that have high porosity and distinct anisotropy. Due to the material heterogeneity and rapid growth of cracks, fracture analysis in these air-void structures is often complex, resulting in a high computational cost. This study proposes a convolutional neural network (CNN)-based methodology for fracture analysis using air-void structures as input. More specifically, the lattice fracture model is used to build a dataset that comprises input air-void structures as well as output fracture information, including the crack patterns and crack-width curves. To establish the relationship between crack morphology and associated microstructures, a U-net convolutional neural network is first presented. With the obtained crack pattern as input, the principal component analysis (PCA) and CNN are then integrated to predict the stress-crack width curves. The predicted results from the CNN model demonstrate a quantitative agreement with lattice numerical analyses, with 0.85 Intersection over Union for crack patterns prediction and 0.75 R2 for the stress-crack width curves prediction. This indicates that CNN models can be used as an alternative to traditional numerical analysis. The feature maps during the convolutional or deconvolutional process are given to explain why the proposed CNN models perform well on fracture analysis of the air-void system. Moreover, the model generalization is discussed using transfer learning with fine-tuning to show the model potential on microstructures expressing varied pore information. In the end, the microstructures cropped from XCT are created to explore the further application of CNN models on fracture analysis of 3D printed materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chan_xu_chen_gan.2021.ADLMfAoBPo3PC/">A Discrete Lattice-Model for Assessment of Buildability Performance of 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
@@ -96,8 +67,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/ozalp_abdulkadir"><b>Özalp</b> Abdulkadir</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../ozal_alde.2025.AIBDCPTfTDPCW/">Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls</a></li>
@@ -111,4 +82,33 @@ tags:
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/liu_kun"><b>Liu</b> Kun</a>, <a href="../../../author/li_yunchao"><b>Li</b> Yunchao</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../geng_luo_liu_li.2023.RSaPoMLiC3P/">Research Status and Prospect of Machine Learning in Construction 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chan_wan_xu_schl.2022.CNNfPCPaSCWCoAVSi3PC,
+      author            = "Ze Chang and Zhi Wan and Yading Xu and Erik Schlangen and Branko Šavija",
+      title             = "Convolutional Neural Network for Predicting Crack-Pattern and Stress-Crack-Width Curve of Air-Void Structure in 3D Printed Concrete",
+      doi               = "10.1016/j.engfracmech.2022.108624",
+      year              = "2022",
+      journal           = "Engineering Fracture Mechanics",
+      volume            = "271",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Chang, Z. Wan, Y. Xu, E. Schlangen and B. Šavija, “Convolutional Neural Network for Predicting Crack-Pattern and Stress-Crack-Width Curve of Air-Void Structure in 3D Printed Concrete”, <i>Engineering Fracture Mechanics</i>, vol. 271, 2022, doi: 10.1016/j.engfracmech.2022.108624.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chang, Ze, Zhi Wan, Yading Xu, Erik Schlangen, and Branko Šavija. “Convolutional Neural Network for Predicting Crack-Pattern and Stress-Crack-Width Curve of Air-Void Structure in 3D Printed Concrete”. <i>Engineering Fracture Mechanics</i> 271 (2022). https://doi.org/10.1016/j.engfracmech.2022.108624.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

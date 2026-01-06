@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Kinnell Peter 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a></li>
   <li><a href="../../../author/farhan_azziz_abdul"><b>Farhan</b> Abdul</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../farh_xu_dobr_kola.2024.Q3CPPW/">Quantifying 3D Concrete Printing Production Waste</a></li>
   <li><a href="../../../author/gill_connor"><b>Gill</b> Connor</a>, <a href="../../../author/justham_laura"><b>Justham</b> Laura</a>, <a href="../../../author/lohse_niels"><b>Lohse</b> Niels</a>, <a href="../../../author/haynes_adam"><b>Haynes</b> Adam</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../gill_just_lohs_hayn.2024.MaCoSMRf3CP/">Measurement and Control of Serial Manipulator Robots for 3D Concrete Printing</a></li>

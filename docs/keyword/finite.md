@@ -8,7 +8,7 @@ search:
 
 # #finite
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>
   <li><a href="../../../author/apsari_auliagitta"><b>Apsari</b> Auliagitta</a>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a>, <a href="../../../author/suprobo_priyo"><b>Suprobo</b> Priyo</a>, <a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../apsa_tamb_supr_sury.2025.IoPSaNSoBo3PCW/">Influence of Printing Speed and Nozzle Size on Buildability of 3D Printed Concrete Walls:<br/>A Nonlinear Finite Element Study</a></li>
   <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a>, <a href="../../../author/dai_yuntong"><b>Dai</b> Yuntong</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ma_chen_dai_zhou.2025.MPo3PCISF/">Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork:<br/>Experimental Study and Finite Element Analysis</a></li>

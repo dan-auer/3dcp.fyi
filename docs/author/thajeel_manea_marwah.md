@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Thajeel Marwah 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a>, <a href="../../../author/chalawi_hasan_ameen"><b>Chalawi</b> Ameen</a>, <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b> György</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../thaj_chal_bala.2025.PaSo3PC/">Printability and Strength of 3D-Printed Concrete:<br/>Role of Mix Design and Printing Parameters</a></li>
   <li><a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a>, <a href="../../../author/kopecsko_katalin"><b>Kopecskó</b> Katalin</a>, <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b> György</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../thaj_kope_bala.2025.EPo3PCbUMaSF/">Enhancing Printability of 3D Printed Concrete by Using Metakaolin and Silica Fume</a></li>
   <li><a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a>, <a href="../../../author/gyorgy_balazs_l"><b>György</b> L.</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../thaj_gyor.2024.HPo3PCIbA/">Hardened Properties of 3D Printed Concrete Influenced by Anisotropy</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcin Maroszek, Magdalena Rudziewicz, Marek Hebda
+    - footer
+title: Maroszek Marcin, Rudziewicz Magdalena, Hebda Marek
 description:
 tags:
  - component
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/18/19/4517/pdf?version=1759059357) Recycled Components in 3D Concrete Printing Mixes:<br/>:aca-blank: A Review ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3390/ma18194517" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18194517</a>
+#Recycled Components in 3D Concrete Printing Mixes&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/19/4517/pdf?version=1759059357) <a href="https://doi.org/10.3390/ma18194517" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18194517" target="_blank">10.3390/ma18194517</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 19
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> <a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 19, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Recycled%20Components%20in%203D%20Concrete%20Printing%20Mixes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018914475&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414592904" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18194517" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18194517?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Rapid population growth and accelerating urbanization are intensifying the demand for construction materials, particularly concrete, which is predominantly produced with Portland cement and natural aggregates. This reliance imposes substantial environmental burdens through resource depletion and greenhouse gas emissions. Within the framework of sustainable construction, recycled aggregates and industrial by-products such as fly ash, slags, crushed glass, and other secondary raw materials have emerged as viable substitutes in concrete production. At the same time, three-dimensional concrete printing (3DCP) offers opportunities to optimize material use and minimize waste, yet it requires tailored mix designs with controlled rheological and mechanical performance. This review synthesizes current knowledge on the use of recycled construction and demolition waste, industrial by-products, and geopolymers in concrete mixtures for 3D printing applications. Particular attention is given to pozzolanic activity, particle size effects, mechanical strength, rheology, thermal conductivity, and fire resistance of recycled-based composites. The environmental assessment is considered through life-cycle analysis (LCA), emphasizing carbon footprint reduction strategies enabled by recycled constituents and low-clinker formulations. The analysis demonstrates that recycled-based 3D printable concretes can maintain or enhance structural performance while mix-level (cradle-to-gate, A1–A3) LCAs of printable mixes report CO2 reductions typically in the range of ~20–50% depending on clinker substitution and recycled constituents—with up to ~48% for fine recycled aggregates when accompanied by cement reduction and up to ~62% for mixes with recycled concrete powder, subject to preserved printability. This work highlights both opportunities and challenges, outlining pathways for advancing durable, energy-efficient, and environmentally responsible 3D-printed construction materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "63 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abudawaba_fareh"><b>Abudawaba</b> Fareh</a>, <a href="../../../author/gomaa_eslam"><b>Gomaa</b> Eslam</a>, <a href="../../../author/gheni_a_ahmed"><b>Gheni</b> Ahmed</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../abud_goma_ghen_feys.2025.EoFPoHCCFABAA3PM/">Evaluation of Fresh Properties of High Calcium Content Fly Ash-Based Alkali-Activated 3D-Printed Mortar</a></li>
       <li><a href="../../../author/abudawaba_fareh"><b>Abudawaba</b> Fareh</a>, <a href="../../../author/gomaa_eslam"><b>Gomaa</b> Eslam</a>, <a href="../../../author/gheni_a_ahmed"><b>Gheni</b> Ahmed</a>, <a href="../../../author/gawady_mohamed"><b>Gawady</b> Mohamed</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../abud_goma_ghen_gawa.2022.DMPfCCFABAA3PCM/">Developing Mix Proportions for Class C Fly-Ash-Based Alkali-Activated 3D Printed Concrete Mixtures</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ambi_kali_seba_shek.2025.S3PCMUCS/">Sustainable 3D Printable Concrete-Mix Using Copper-Slag</a></li>
@@ -126,7 +108,37 @@ tags:
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{maro_rudz_hebd.2025.RCi3CPM,
+      author            = "Marcin Maroszek and Magdalena Rudziewicz and Marek Hebda",
+      title             = "Recycled Components in 3D Concrete Printing Mixes: A Review",
+      doi               = "10.3390/ma18194517",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "19",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Maroszek, M. Rudziewicz and M. Hebda, “Recycled Components in 3D Concrete Printing Mixes: A Review”, <i>Materials</i>, vol. 18, no. 19, 2025, doi: 10.3390/ma18194517.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Maroszek, Marcin, Magdalena Rudziewicz, and Marek Hebda. “Recycled Components in 3D Concrete Printing Mixes: A Review”. <i>Materials</i> 18, no. 19 (2025). https://doi.org/10.3390/ma18194517.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

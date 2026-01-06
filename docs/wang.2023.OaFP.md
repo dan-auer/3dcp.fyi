@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Timothy Wangler
+    - footer
+title: Wangler Timothy
 description:
 tags:
  - future
@@ -10,23 +11,13 @@ tags:
 
 ---
 
-# Opportunities and Future Perspectives ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1680/amc.66410.219" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/amc.66410.219</a>
+#Opportunities and Future Perspectives ([2023-12](date/2023/12))
+ <a href="https://doi.org/10.1680/amc.66410.219" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/amc.66410.219" target="_blank">10.1680/amc.66410.219</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span><br>
+Contribution - Additive Manufacturing for Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Additive Manufacturing for Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#future`](keyword/future)
-    [`#opportunity`](keyword/opportunity)
-
-
--------------------------
+<a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Opportunities%20and%20Future%20Perspectives" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182300903&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -41,19 +32,44 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/amc.66410.219" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/amc.66410.219?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing of concrete (AMoC) is a technology that has seen much more widespread development and exposure within the recent past, and has established a foothold in the construction landscape. The construction sector has long lagged behind other economic sectors in productivity, and a higher degree of automation has long been sought, with AMoC as one example of it. While AMoC has been pushed as one possible solution to the productivity problem, it also has many other potential benefits, such as in sustainability, thanks to its possibilities in using less material overall, although these benefits should be proactively pursued. While numerous challenges remain, in particular that of exactly how to integrate reinforcement in true structural systems, interest has yet to wane thanks to the societal pressures that make the case for AMoC to be economically viable.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{wang.2023.OaFP,
+      author            = "Timothy Paul Wangler",
+      title             = "Opportunities and Future Perspectives",
+      doi               = "10.1680/amc.66410.219",
+      year              = "2023",
+      booktitle         = "Additive Manufacturing for Construction",
+      editor            = "Biranchi Narayan Panda and Pshtiwan N. Shakor and Vittoria Laghi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. P. Wangler, “Opportunities and Future Perspectives”, in <i>Additive Manufacturing for Construction</i>,  2023. doi: 10.1680/amc.66410.219.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wangler, Timothy Paul. “Opportunities and Future Perspectives”. In <i>Additive Manufacturing for Construction</i>, edited by Biranchi Narayan Panda, Pshtiwan N. Shakor, and Vittoria Laghi, 2023. https://doi.org/10.1680/amc.66410.219.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

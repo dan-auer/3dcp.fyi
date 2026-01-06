@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Liu, Zhihui Wang, Yiwen Wu, Huawei Liu, Tianguo Zhang, Xin Wang, Wei Zhang
+    - footer
+title: Liu Chao, Wang Zhihui, Wu Yiwen, Liu Huawei, Zhang Tianguo, Wang Xin, Zhang Wei
 description:
 tags:
  - concrete
@@ -19,38 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2023.106169) 3D Printing Concrete with Recycled Sand:<br/>:aca-blank: The Influence Mechanism of Extruded Pore-Defects on Constitutive Relationship ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.jobe.2023.106169" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.106169</a>
+#3D Printing Concrete with Recycled Sand&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">The Influence Mechanism of Extruded Pore-Defects on Constitutive Relationship</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2023.106169) <a href="https://doi.org/10.1016/j.jobe.2023.106169" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106169" target="_blank">10.1016/j.jobe.2023.106169</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/wang_zhihui"><b>Wang</b>&nbsp;Zhihui</a></span>, <a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/zhang_tianguo"><b>Zhang</b>&nbsp;Tianguo</a></span>, <a href="../../../author/wang_xin"><b>Wang</b>&nbsp;Xin</a></span>, <a href="../../../author/zhang_wei"><b>Zhang</b>&nbsp;Wei</a></span><br>
+Journal Article - Journal of Building Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_zhihui"><b>Wang</b> Zhihui</a>
-,     <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>
-,     <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_tianguo"><b>Zhang</b> Tianguo</a>
-,     <a href="../../../author/wang_xin"><b>Wang</b> Xin</a>
-,     <a href="../../../author/zhang_wei"><b>Zhang</b> Wei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#constitutive`](keyword/constitutive)
-    [`#defect`](keyword/defect)
-    [`#extrusion`](keyword/extrusion)
-    [`#influence`](keyword/influence)
-    [`#mechanism`](keyword/mechanism)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#relation`](keyword/relation)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Concrete%20with%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148963325&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4321602048" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.106169" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.106169?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recycled sand (RS) as an environmental-friendly building material, has shown great prospects for the digital construction of buildings. In this study, 3D printed recycled sand concrete (3DPRSC) mixed with RS was prepared, and the related compressive strength and constitutive relationships were investigated on different RS replacement ratios and construction methods. The geometric characteristics and spatial distribution of pore defects were analyzed by the combined X-CT and MIP, and the microscopic morphology of RS and natural sand was analyzed by SEM. The results showed that the compressive strength and constitutive curves have apparent anisotropic characteristics. With the increase in the RS replacement rate, the compressive strength tended to decrease. The ellipsoidal pore geometry’s arrangement of 3DPRSC extruded pore defects differs in different printing directions, and the pore defect distribution characteristics vary with the accumulated height of the filaments and the printing direction. The mechanism of the formation and distribution of extruded pore defects on the compressive strength and constitutive relationship was analyzed, and a model of the constitutive curve based on extruded pore defects and anisotropy was established, which provided a theoretical basis for the nonlinear analysis of the engineering structure of 3DPRSC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -114,8 +87,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "29 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/khoury_eliane"><b>Khoury</b> Eliane</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b> Bogdan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khou_chei_schu_caza.2025.UVMf3PoMMwRS/">Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
@@ -146,4 +119,32 @@ tags:
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>, <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../lyu_dai_zong_zhu.2023.PGAaMSo3PVCBwCaS/">Plant-Germination Ability and Mechanical Strength of 3D Printed Vegetation Concrete Bound with Cement and Soil</a></li>
       <li><a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/tang_yuxiang"><b>Tang</b> Yuxiang</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../lv_xiao_duan_tang.2023.TDEaSMo3PCPSBoMR/">Time-Dependent Evolution and Strength Modulation of 3D Printed Concrete Pore-Structure Based on Microbial Remediation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_wang_wu_liu.2023.3PCwRS,
+      author            = "Chao Liu and Zhihui Wang and Yiwen Wu and Huawei Liu and Tianguo Zhang and Xin Wang and Wei Zhang",
+      title             = "3D Printing Concrete with Recycled Sand: The Influence Mechanism of Extruded Pore-Defects on Constitutive Relationship",
+      doi               = "10.1016/j.jobe.2023.106169",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, “3D Printing Concrete with Recycled Sand: The Influence Mechanism of Extruded Pore-Defects on Constitutive Relationship”, <i>Journal of Building Engineering</i>, 2023, doi: 10.1016/j.jobe.2023.106169.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chao, Zhihui Wang, Yiwen Wu, Huawei Liu, Tianguo Zhang, Xin Wang, and Wei Zhang. “3D Printing Concrete with Recycled Sand: The Influence Mechanism of Extruded Pore-Defects on Constitutive Relationship”. <i>Journal of Building Engineering</i>, 2023. https://doi.org/10.1016/j.jobe.2023.106169.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

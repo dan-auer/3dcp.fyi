@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bharat Bhushan Jindal, Parveen Jangra
+    - footer
+title: Bhushan Jindal Bharat, Jangra Parveen
 description:
 tags:
  - application
@@ -20,34 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete:<br/>:aca-blank: A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.131614" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.131614</a>
+#3D Printed Concrete&nbsp;([2023-05](date/2023/05))
+<div class="h1-like">A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.131614" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131614" target="_blank">10.1016/j.conbuildmat.2023.131614</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2385-8539" title="ORCID: 0000-0003-2385-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b>&nbsp;Bharat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9896-0274" title="ORCID: 0000-0002-9896-0274" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jangra_parveen"><b>Jangra</b>&nbsp;Parveen</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 387
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a> <a href="https://orcid.org/0000-0003-2385-8539" title="ORCID: 0000-0003-2385-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="https://orcid.org/0000-0002-9896-0274" title="ORCID: 0000-0002-9896-0274" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 387, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#field`](keyword/field)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#raw`](keyword/raw)
-    [`#review`](keyword/review)
-    [`#synthesis`](keyword/synthesis)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/raw"><button class="btn">#raw</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/synthesis"><button class="btn">#synthesis</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85158895132&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4375952666" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.131614" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.131614?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study presents a detailed assessment of current technical obstacles and the potential for newly developed 3D printing concrete technology. This novel construction strategy will transform the building geometry features while saving time and money, but it still faces several technical, environmental, and operational obstacles. This study combines the knowledge of the most recent publications with the author’s view to address and explore the significant operating aspects, practicality, and possibilities for novel three dimensional printed concrete (3DPC) technology. This paper is organized into seven main categories: prominent parameters for 3DPC, raw materials, mix design methodology, the effect of concrete ingredients on the properties of 3DPC, 3DPC microstructure, reinforcement in 3DPC, field applications and sustainability of 3DPC are covered. Furthermore, solutions for the problems, scope, and economic and environmental challenges have been presented. It was found that this technology needs maturity at different levels, such as technical, economic, and environmental before implementation for practical applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "131 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -205,8 +182,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "30 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sun_qian_chen.2025.BIJISIfEFRo3PSHCC/">Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
@@ -238,4 +215,33 @@ tags:
       <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../kurn_kim.2023.UIBfSTDPIA/">Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/wang_fei"><b>Wang</b> Fei</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/chen_tingzhu"><b>Chen</b> Tingzhu</a>, <a href="../../../author/he_bijuan"><b>He</b> Bijuan</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_hua_chen_he.2023.EoNCaPotBoUFDSB3PM/">Effect of Nano-Clay and PCE on the Buildability of Ultra-Fine Dredged Sand-Based 3D Printing Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bhus_jang.2023.3PC,
+      author            = "Bharat Bhushan Jindal and Parveen Jangra",
+      title             = "3D Printed Concrete: A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications",
+      doi               = "10.1016/j.conbuildmat.2023.131614",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "387",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. B. Jindal  and P. Jangra, “3D Printed Concrete: A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications”, <i>Construction and Building Materials</i>, vol. 387, 2023, doi: 10.1016/j.conbuildmat.2023.131614.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jindal, Bharat Bhushan, and Parveen Jangra. “3D Printed Concrete: A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications”. <i>Construction and Building Materials</i> 387 (2023). https://doi.org/10.1016/j.conbuildmat.2023.131614.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

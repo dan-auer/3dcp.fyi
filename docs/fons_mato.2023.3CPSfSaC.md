@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mariana Fonseca, Ana Matos
+    - footer
+title: Fonseca Mariana, Matos Ana
 description:
 tags:
  - circular
@@ -15,29 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/6/2458/pdf?version=1679295152) 3D Construction Printing Standing for Sustainability and Circularity:<br/>:aca-blank: Material-Level Opportunities ([2023-03](date/2023/03))
-<a href="https://doi.org/10.3390/ma16062458" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16062458</a>
+#3D Construction Printing Standing for Sustainability and Circularity&nbsp;([2023-03](date/2023/03))
+<div class="h1-like">Material-Level Opportunities</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/6/2458/pdf?version=1679295152) <a href="https://doi.org/10.3390/ma16062458" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16062458" target="_blank">10.3390/ma16062458</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2455-9859" title="ORCID: 0000-0002-2455-9859" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fonseca_mariana"><b>Fonseca</b>&nbsp;Mariana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1646-4665" title="ORCID: 0000-0002-1646-4665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matos_mafalda_ana"><b>Matos</b>&nbsp;Ana</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a> <a href="https://orcid.org/0000-0002-2455-9859" title="ORCID: 0000-0002-2455-9859" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="https://orcid.org/0000-0002-1646-4665" title="ORCID: 0000-0002-1646-4665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#circular`](keyword/circular)
-    [`#construction`](keyword/construction)
-    [`#level`](keyword/level)
-    [`#material`](keyword/material)
-    [`#opportunity`](keyword/opportunity)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/level"><button class="btn">#level</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Construction%20Printing%20Standing%20for%20Sustainability%20and%20Circularity" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152034638&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4327984012" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16062458" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16062458?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional Cementitious materials Printing (3DCP) is a cutting-edge technology for the construction industry. Three-dimensional printed buildings have shown that a well-developed automated technology can foster valuable benefits, such as a freeform architectural design without formworks and reduced human intervention. However, scalability, commercialization and sustainability of the 3DPC technology remain critical issues. The current work presents the ecological fragility, challenges and opportunities inherent in decreasing the 3DCP environmental footprint at a material level (cementitious materials and aggregates). The very demanding performance of printable mixtures, namely in a fresh state, requires high dosages of cement and supplementary cementitious materials (SCM). Besides the heavy carbon footprint of cement production, the standard SCM availability might be an issue, especially in the longer term. One exciting option to decrease the embodied CO2 of 3DCP is, for example, to incorporate alternative and locally available SCM as partial cement replacements. Those alternative SCM can be wastes or by-products from industries or agriculture, with no added value. Moreover, the partial replacement of natural aggregate can also bring advantages for natural resource preservation. This work has highlighted the enormous potential of 3DCP to contribute to reducing the dependence on Portland cement and to manage the current colossal wastes and by-products with no added value, shifting to a Circular Economy. Though LCA analysis, mixture design revealed a critical parameter in the environmental impact of 3DCP elements or buildings. Even though cement significantly affects the LCA of 3DCP, it is crucial to achieving adequate fresh properties and rheology. From the literature survey, mixtures formulated with alternative SCM (wastes or by-products) are still restricted to rice husk ash, Municipal Solid Waste ashes and recycled powder from construction and demolition wastes. Natural aggregate replacement research has been focused on recycled fine sand, mine tailing, copper tailing, iron tailing, ornamental stone waste, recycled glass, crumb rubber, rubber powder and granules, recycled PET bottles and steel slag. However, flowability loss and mechanical strength decrease are still critical. Research efforts are needed to find low-carbon cement replacements and mix-design optimization, leading to a more sustainable and circular 3DCP while ensuring the final product performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "99 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
@@ -163,8 +145,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cojocari_iulia"><b>Cojocari</b> Iulia</a>, <a href="../../../author/martins_mota_mirna"><b>Martins</b> Mirna</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cojo_mart_rang_cunh.2026.S3PfLSPbOW/">Scaling 3D Printing for Large-Scale Production by Optimising Workflow</a></li>
       <li><a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ribe_rang_bran_figu.2026.INVT3CP/">Improving Natural Ventilation Through 3D Concrete Printing</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
@@ -187,4 +169,34 @@ tags:
       <li><a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/liu_hao"><b>Liu</b> Hao</a>, <a href="../../../author/huo_longfei"><b>Huo</b> Longfei</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../yang_li_liu_huo.2024.EtPfCCaRo3PCB/">Exploring the Potential for Carrying Capacity and Reusability of 3D Printed Concrete Bridges:<br/>Construction, Dismantlement, and Reconstruction of a Box Arch Bridge</a></li>
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/isopescu_nicolina_dorina"><b>Isopescu</b> Dorina</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ungu_onut_isop_tara.2023.ANAf3PFRM/">A Novel Approach for 3D Printing Fiber-Reinforced Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fons_mato.2023.3CPSfSaC,
+      author            = "Mariana Fonseca and Ana Mafalda Matos",
+      title             = "3D Construction Printing Standing for Sustainability and Circularity: Material-Level Opportunities",
+      doi               = "10.3390/ma16062458",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Fonseca  and A. M. Matos, “3D Construction Printing Standing for Sustainability and Circularity: Material-Level Opportunities”, <i>Materials</i>, vol. 16, no. 6, 2023, doi: 10.3390/ma16062458.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fonseca, Mariana, and Ana Mafalda Matos. “3D Construction Printing Standing for Sustainability and Circularity: Material-Level Opportunities”. <i>Materials</i> 16, no. 6 (2023). https://doi.org/10.3390/ma16062458.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

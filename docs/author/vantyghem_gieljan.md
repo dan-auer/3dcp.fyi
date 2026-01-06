@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Vantyghem Gieljan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_ren_vant_lesa.2023.E3CPtHRTL/">Extending 3D Concrete Printing to Hard Rock Tunnel Linings:<br/>Adhesion of Fresh Cementitious Materials for Different Surface Inclinations</a></li>
   <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../ooms_vant_tao_beka.2022.TPoaTO3PCB/">The Production of a Topology-Optimized 3D Printed Concrete Bridge</a></li>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tao_vant_lesa_yuan.2021.APoPPMCfRTL/">Adhesion Properties of Printable Polymer-Modified Concrete for Rock Tunnel Linings</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Barrie Dams, Binling Chen, Yusuf Kaya, Lachlan Orr, Basaran Kocer, Paul Shepherd, Mirko Kovac, Richard Ball
+    - footer
+title: Dams Barrie, Chen Binling, Kaya Yusuf, Orr Lachlan, Kocer Basaran, Shepherd Paul, Kovac Mirko, Ball Richard
 description:
 tags:
  - additive
@@ -16,36 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://ieeexplore.ieee.org/ielx7/6287639/6514899/10459016.pdf) Fresh Properties and Autonomous Deposition of Pseudoplastic Cementitious Mortars for Aerial Additive Manufacturing ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1109/access.2024.3373188" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/access.2024.3373188</a>
+#Fresh Properties and Autonomous Deposition of Pseudoplastic Cementitious Mortars for Aerial Additive Manufacturing ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://ieeexplore.ieee.org/ielx7/6287639/6514899/10459016.pdf) <a href="https://doi.org/10.1109/access.2024.3373188" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/access.2024.3373188" target="_blank">10.1109/access.2024.3373188</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7081-5457" title="ORCID: 0000-0001-7081-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dams_barrie"><b>Dams</b>&nbsp;Barrie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0719-7398" title="ORCID: 0000-0003-0719-7398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_binling"><b>Chen</b>&nbsp;Binling</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2963-1896" title="ORCID: 0000-0003-2963-1896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b>&nbsp;Yusuf</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-2377-9959" title="ORCID: 0009-0000-2377-9959" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orr_lachlan"><b>Orr</b>&nbsp;Lachlan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5150-5151" title="ORCID: 0000-0002-5150-5151" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kocer_bahadir_basaran"><b>Kocer</b>&nbsp;Basaran</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shepherd_paul"><b>Shepherd</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9720-2463" title="ORCID: 0000-0002-9720-2463" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kovac_mirko"><b>Kovac</b>&nbsp;Mirko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ball_j_richard"><b>Ball</b>&nbsp;Richard</a></span><br>
+Journal Article - IEEE Access, Vol. 12, pp. 34606-34631
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a> <a href="https://orcid.org/0000-0001-7081-5457" title="ORCID: 0000-0001-7081-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_binling"><b>Chen</b> Binling</a> <a href="https://orcid.org/0000-0003-0719-7398" title="ORCID: 0000-0003-0719-7398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a> <a href="https://orcid.org/0000-0003-2963-1896" title="ORCID: 0000-0003-2963-1896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/orr_lachlan"><b>Orr</b> Lachlan</a> <a href="https://orcid.org/0009-0000-2377-9959" title="ORCID: 0009-0000-2377-9959" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kocer_bahadir_basaran"><b>Kocer</b> Basaran</a> <a href="https://orcid.org/0000-0002-5150-5151" title="ORCID: 0000-0002-5150-5151" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> <a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kovac_mirko"><b>Kovac</b> Mirko</a> <a href="https://orcid.org/0000-0002-9720-2463" title="ORCID: 0000-0002-9720-2463" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a> <a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IEEE Access, Vol. 12, pp. 34606-34631
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#aerial`](keyword/aerial)
-    [`#cement`](keyword/cement)
-    [`#deposition`](keyword/deposition)
-    [`#fresh`](keyword/fresh)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mortar`](keyword/mortar)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aerial"><button class="btn">#aerial</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fresh%20Properties%20and%20Autonomous%20Deposition%20of%20Pseudoplastic%20Cementitious%20Mortars%20for%20Aerial%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187339875&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392406106" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/access.2024.3373188" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/access.2024.3373188?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive Manufacturing (AM) in relation to the construction industry is an emerging technology. However, ground-based AM on construction scales may be limited by the dimensions, reach and weight of the ground-based deposition platform. Aerial additive manufacturing (AAM) can revolutionise construction-based AM by employing multiple untethered unmanned aerial vehicles (UAV, known as ‘drones’) depositing material using miniature deposition devices. This study investigates aerial platform and cementitious material requirements for AAM and details development of structurally viable cementitious composite material with suitable rheological properties to demonstrate AAM as a novel aerial approach to complement ground-based activities. A synergistic combination of natural hydrophilic and partially synthetic hygroscopic polymeric hydrocolloids was developed in cementitious material to achieve optimal rheology properties in the fresh state. Analysis involved oscillation and flow tests, calorimetry, microscopy, computed tomography and mechanical tests. AAM application considerations focused on technical characteristics of UAV platforms, flight times, payloads and developed extrusion systems with optimal nozzle dimensions. Results demonstrate critical material parameters of 1700 kg/m3 density, 4° phase angle, 1.1 kPa yield stress, <10 MPa complex modulus, and the ability to be processed through miniature deposition devices with 500 N force and 250 mA current. Material extrusions were realised using a custom-designed miniature deposition system which a UAV can carry and power. AAM will significantly impact automated construction by enabling new advances in aerial platform applications featuring multiple coordinated agents depositing bespoke material. This is particularly relevant to elevated or challenging construction conditions where an automated aerial approach can crucially reduce safety risks.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../bent_jone_bent_pelt.2019.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
@@ -110,11 +84,41 @@ tags:
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a>, <a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ball_dams_shep_chen.2025.EAAMwCMUAD/">Exploring Aerial Additive Manufacturing with Cementitious Materials Using Autonomous Drones</a></li>
       <li><a href="../../../author/bahoria_v_boskey"><b>Bahoria</b> Boskey</a>, <a href="../../../author/bhagat_m_rajesh"><b>Bhagat</b> Rajesh</a>, <a href="../../../author/pande_b_prashant"><b>Pande</b> Prashant</a>, <a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../baho_bhag_pand_raut.2024.DOo3PCECLCAaLCC/">Design-Optimization of 3D Printed Concrete Elements Considering Life Cycle Assessment and Life Cycle Costing</a></li>
       <li><a href="../../../author/wang_lingyu"><b>Wang</b> Lingyu</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wang_zhiyong"><b>Wang</b> Zhiyong</a>, <a href="../../../author/chen_juan"><b>Chen</b> Juan</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_zhan_wang_chen.2024.AMiCUUAV/">Additive Manufacturing in Construction Using Unmanned Aerial Vehicle:<br/>Design, Implementation, and Material-Properties</a></li>
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dams_chen_kaya_orr.2024.FPaADoPCMfAAM,
+      author            = "Barrie Dams and Binling Chen and Yusuf Furkan Kaya and Lachlan Orr and Basaran Bahadir Kocer and Paul Shepherd and Mirko Kovac and Richard J. Ball",
+      title             = "Fresh Properties and Autonomous Deposition of Pseudoplastic Cementitious Mortars for Aerial Additive Manufacturing",
+      doi               = "10.1109/access.2024.3373188",
+      year              = "2024",
+      journal           = "IEEE Access",
+      volume            = "12",
+      pages             = "34606--34631",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Dams, “Fresh Properties and Autonomous Deposition of Pseudoplastic Cementitious Mortars for Aerial Additive Manufacturing”, <i>IEEE Access</i>, vol. 12, pp. 34606–34631, 2024, doi: 10.1109/access.2024.3373188.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dams, Barrie, Binling Chen, Yusuf Furkan Kaya, Lachlan Orr, Basaran Bahadir Kocer, Paul Shepherd, Mirko Kovac, and Richard J. Ball. “Fresh Properties and Autonomous Deposition of Pseudoplastic Cementitious Mortars for Aerial Additive Manufacturing”. <i>IEEE Access</i> 12 (2024): 34606–31. https://doi.org/10.1109/access.2024.3373188.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

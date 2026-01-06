@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ming Lu, Philip Yuan
+    - footer
+title: Lu Ming, Yuan Philip
 description:
 tags:
  - algorithm
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/caadria2020_062.pdf) A New Algorithm to Get Optimized Target Plane on Six-Axis Robot for Fabrication ([2020-08](date/2020/08))
-<a href="https://doi.org/10.52842/conf.caadria.2020.2.393" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.caadria.2020.2.393</a>
+#A New Algorithm to Get Optimized Target Plane on Six-Axis Robot for Fabrication ([2020-08](date/2020/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2020_062.pdf) <a href="https://doi.org/10.52842/conf.caadria.2020.2.393" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2020.2.393" target="_blank">10.52842/conf.caadria.2020.2.393</a>
 
--------------------------
+<a href="../../../author/lu_ming"><b>Lu</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span><br>
+Contribution - Proceedings of the 25th Conference on Computer Aided Architectural Design Research in Asia, pp. 393-402
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lu_ming"><b>Lu</b> Ming</a>
-,     <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 25th Conference on Computer Aided Architectural Design Research in Asia, pp. 393-402
-
-:aca-blank:{ .lg .middle}
-    [`#algorithm`](keyword/algorithm)
-    [`#axis`](keyword/axis)
-    [`#fabrication`](keyword/fabrication)
-    [`#optimization`](keyword/optimization)
-    [`#plane`](keyword/plane)
-    [`#robot`](keyword/robot)
-    [`#six`](keyword/six)
-
-
--------------------------
+<a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/plane"><button class="btn">#plane</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/six"><button class="btn">#six</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20New%20Algorithm%20to%20Get%20Optimized%20Target%20Plane%20on%20Six-Axis%20Robot%20for%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,22 +37,48 @@ tags:
 <a href="https://inciteful.xyz/p/W4286419853" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.caadria.2020.2.393" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.caadria.2020.2.393?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication is blurring the boundaries between design, manufacturing and material effects. More and more experimental design processes involve an intertwined investigation ofthese aspects, especially when it comes to additive techniques such as 3D Concrete Printing (3DCP). Conventional digital tools present limitations in the description of an object, which neglects material, textural, and machinic information. In this paper, we exploit the control of extrusion-based 3D printing via programmed layered toolpath as a design method for enhancing the control ofthe manufactured architectural elements. The paper presents an experimental framework for design, analysis and fabrication with 3DCP, developing a system for materializing interdependencies between geometry, material, performance. This is applied to a series of architectural artefacts which demonstrate the advantages and possibilities opened by the introduced workflow, expanding the design process towards higher control on the objects buildability, structural integrity and aesthetic.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/lu_ming"><b>Lu</b> Ming</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lu_wu_yuan.2024.OfIRJMiNH3PA/">Optimization for Industrial Robot Joint Movement in Non-Horizontal 3D Printing Application</a></li>
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhou_yuan_zhou.2021.DaFoa3CPPSB/">Design and Fabrication of a 3D Concrete Printed Pre-Stressed Bridge</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lu_yuan.2020.ANAtGOTPoSARfF,
+      author            = "Ming Lu and Philip F. Yuan",
+      title             = "A New Algorithm to Get Optimized Target Plane on Six-Axis Robot for Fabrication",
+      doi               = "10.52842/conf.caadria.2020.2.393",
+      year              = "2020",
+      pages             = "393--402",
+      booktitle         = "Proceedings of the 25th Conference on Computer Aided Architectural Design Research in Asia",
+      editor            = "Dominik Holzer and Walaiporn Nakapan and Anastasia Globa and Immanuel Koh",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Lu  and P. F. Yuan, “A New Algorithm to Get Optimized Target Plane on Six-Axis Robot for Fabrication”, in <i>Proceedings of the 25th Conference on Computer Aided Architectural Design Research in Asia</i>,  2020, pp. 393–402. doi: 10.52842/conf.caadria.2020.2.393.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lu, Ming, and Philip F. Yuan. “A New Algorithm to Get Optimized Target Plane on Six-Axis Robot for Fabrication”. In <i>Proceedings of the 25th Conference on Computer Aided Architectural Design Research in Asia</i>, edited by Dominik Holzer, Walaiporn Nakapan, Anastasia Globa, and Immanuel Koh, 393–402, 2020. https://doi.org/10.52842/conf.caadria.2020.2.393.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

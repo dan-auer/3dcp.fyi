@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chenxi Jin, Chenhan Xu, Weishun Xu
+    - footer
+title: Jin Chenxi, Xu Chenhan, Xu Weishun
 description:
 tags:
  - clay
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s44223-025-00088-1.pdf) Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1007/s44223-025-00088-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s44223-025-00088-1</a>
+#Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44223-025-00088-1.pdf) <a href="https://doi.org/10.1007/s44223-025-00088-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-025-00088-1" target="_blank">10.1007/s44223-025-00088-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-1233-9506" title="ORCID: 0009-0002-1233-9506" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jin_chenxi"><b>Jin</b>&nbsp;Chenxi</a></span>, <a href="../../../author/xu_chenhan"><b>Xu</b>&nbsp;Chenhan</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-4489-7858" title="ORCID: 0009-0000-4489-7858" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_weishun"><b>Xu</b>&nbsp;Weishun</a></span><br>
+Journal Article - Architectural Intelligence, Vol. 4, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a> <a href="https://orcid.org/0009-0002-1233-9506" title="ORCID: 0009-0002-1233-9506" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a>
-,     <a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a> <a href="https://orcid.org/0009-0000-4489-7858" title="ORCID: 0009-0000-4489-7858" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architectural Intelligence, Vol. 4, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#formwork`](keyword/formwork)
-    [`#green`](keyword/green)
-    [`#integration`](keyword/integration)
-    [`#print`](keyword/print)
-    [`#thin`](keyword/thin)
-    [`#vault`](keyword/vault)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> <a href="../../keyword/vault"><button class="btn">#vault</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integrating%203D-Printed%20Clay%20Formwork%20into%20Thin-Vaulted%20Green%20Roof" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410451997" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s44223-025-00088-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s44223-025-00088-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Green roofs (GRs) play an important role in urban sustainability initiatives, offering reduced building energy consumption and enhanced ecological performance through additional growing medium and vegetation layers. Nevertheless, these functional components introduce challenges such as extra structural load, greater slab thickness, and increased construction complexity. This research proposes a design-fabrication method for a thin-vaulted green roof prototype, featuring a compression-only surface and upstand ribs along unevenly distributed stress lines to achieve both lightweight properties and material efficiency compared to a conventional flat roof with GR systems. To realize such a non-standard and multifunctional structure, a hybrid formwork system combining 3D clay printed (3DCP) molds and a reusable, doubly curved foam base is proposed to handle geometric complexity and functional integration by incorporating stay-in-place formwork as the growing medium. An empirical construction experiment, conducted at a 1:5 scale, validates the proposed method with optimized fabrication procedures for a proposed application scenario in a community renovation project.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mahdaoui_mustapha"><b>Mahdaoui</b> Mustapha</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../aabb_mahd_ahac_mazi.2024.ASC/">Advancing Sustainable Construction:<br/>Terracotta Component Development Through Extrusion-Based 3D Printing with Local Clay</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/calvo-barentin_javier_cristian"><b>Calvo Barentin</b> Cristian</a>, <a href="../../../author/schulte_martinez_dinorah"><b>Schulte</b> Dinorah</a>, <a href="../../../author/senol_ayca"><b>Şenol</b> Ayça</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../beda_calv_schu_seno.2023.MC/">Mineral Composites:<br/>Stay-in-Place Formwork for Concrete Using Foam 3D Printing</a></li>
@@ -84,7 +64,37 @@ tags:
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
       <li><a href="../../../author/wang_shian"><b>Wang</b> Shian</a>, <a href="../../../author/liu_chi"><b>Liu</b> Chi</a>, <a href="../../../author/zhang_li_guo"><b>Zhang</b> Guo</a>, <a href="../../../author/luo_huan_qi"><b>Luo</b> Qi</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../wang_liu_zhan_luo.2020.DP/">Digital Planting:<br/>Fabrication of Integrated Concrete Green Wall via Additive Manufacturing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jin_xu_xu.2025.I3PCFiTVGR,
+      author            = "Chenxi Jin and Chenhan Xu and Weishun Xu",
+      title             = "Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof",
+      doi               = "10.1007/s44223-025-00088-1",
+      year              = "2025",
+      journal           = "Architectural Intelligence",
+      volume            = "4",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Jin, C. Xu and W. Xu, “Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof”, <i>Architectural Intelligence</i>, vol. 4, no. 1, 2025, doi: 10.1007/s44223-025-00088-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jin, Chenxi, Chenhan Xu, and Weishun Xu. “Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof”. <i>Architectural Intelligence</i> 4, no. 1 (2025). https://doi.org/10.1007/s44223-025-00088-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

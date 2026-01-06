@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ursula Pott, Cordula Jakob, Julian Wolf, Dietmar Stephan
+    - footer
+title: Pott Ursula, Jakob Cordula, Wolf Julian, Stephan Dietmar
 description:
 tags:
  - application
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132260" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132260</a>
+#Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132260" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132260" target="_blank">10.1016/j.conbuildmat.2023.132260</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pott_ursula"><b>Pott</b>&nbsp;Ursula</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8573-1501" title="ORCID: 0000-0002-8573-1501" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jakob_cordula"><b>Jakob</b>&nbsp;Cordula</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9492-5236" title="ORCID: 0000-0002-9492-5236" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolf_julian"><b>Wolf</b>&nbsp;Julian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 395, No. 132260
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> <a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a> <a href="https://orcid.org/0000-0002-8573-1501" title="ORCID: 0000-0002-8573-1501" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolf_julian"><b>Wolf</b> Julian</a> <a href="https://orcid.org/0000-0002-9492-5236" title="ORCID: 0000-0002-9492-5236" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 395, No. 132260
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#axis`](keyword/axis)
-    [`#chemical`](keyword/chemical)
-    [`#comparison`](keyword/comparison)
-    [`#compression`](keyword/compression)
-    [`#method`](keyword/method)
-    [`#physics`](keyword/physics)
-    [`#print`](keyword/print)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Physical%20and%20Physico-Chemical%20Methods%20for%203D%20Printing%20Application%20with%20the%20Focus%20on%20the%20Unconfined%20Uniaxial%20Compression-Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164292248&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382600137" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132260" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132260?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     For a commercial success of 3D concrete printing, standardisation is necessary to enable industrial production. To select methods for standardisation from the material side, detailed knowledge of suitable methods and of material behaviour is required in advance. Therefore, this study aims to compare different methods for investigating stiff printable mortars during the transition regime of a non-Newtonian fluid to a cohesive frictional material by physical and physicochemical methods focusing on the unconfined uniaxial compression test. The study shows that all methods exhibit comparable progressions, although the results are affected differently by self-heating, material composition and progressive hydration.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -93,10 +70,40 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sand_step.2025.OMf3PG/">Online Monitoring for 3D Printable Geopolymers:<br/>Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects</a></li>
       <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../jia_dong_xia_niu.2025.IPSo3PCIRBFA/">Initial Plastic Shrinkage of 3D-Printed Concrete Incorporating Recycled Brick Fine Aggregates:<br/>Insights from Water Transport and Structural Evolution</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sand_step.2025.TRoMSiSt3PoG/">The Role of Mixing Sequence in Shaping the 3D-Printability of Geopolymers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pott_jako_wolf_step.2023.CoPaPCMf3PAwtFotUUCT,
+      author            = "Ursula Pott and Cordula Jakob and Julian Wolf and Dietmar Stephan",
+      title             = "Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test",
+      doi               = "10.1016/j.conbuildmat.2023.132260",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "395",
+      pages             = "132260",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. Pott, C. Jakob, J. Wolf and D. Stephan, “Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test”, <i>Construction and Building Materials</i>, vol. 395, p. 132260, 2023, doi: 10.1016/j.conbuildmat.2023.132260.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pott, Ursula, Cordula Jakob, Julian Wolf, and Dietmar Stephan. “Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test”. <i>Construction and Building Materials</i> 395 (2023): 132260. https://doi.org/10.1016/j.conbuildmat.2023.132260.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

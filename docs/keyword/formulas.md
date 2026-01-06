@@ -8,7 +8,7 @@ search:
 
 # #formulas
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/soshinskiy_olexander"><b>Soshinskiy</b> Olexander</a>, <a href="../../../author/rashkevich_nina"><b>Rashkevich</b> Nina</a>, <a href="../../../author/shakhov_stanislav"><b>Shakhov</b> Stanislav</a>, <a href="../../../author/melnychenko_andrii"><b>Melnychenko</b> Andrii</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sosh_rash_shak_meln.2025.FaCMfAtSCoBSCwaC3P/">Formulating a Calculation Methodology for Assessing the Strength Characteristics of Building Structures Constructed with a Construction 3D Printer</a></li>
   <li><a href="../../../author/vico-lujano_raul"><b>Vico Lujano</b> Raúl</a>, <a href="../../../author/perez-villarejo_luis"><b>Pérez Villarejo</b> Luis</a>, <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a>, <a href="../../../author/hidalgo-torrano_pilar"><b>Hidalgo-Torrano</b> Pilar</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../vico_pere_nova_hida.2025.OMFf3P/">Optimized Mortar Formulations for 3D Printing:<br/>A Rheological Study of Cementitious Pastes Incorporating Potassium-Rich Biomass Fly Ash Wastes</a></li>
   <li><a href="../../../author/wang_jiakang"><b>Wang</b> Jiakang</a>, <a href="../../../author/anwar_kashif_muhammad"><b>Anwar</b> Muhammad</a>, <a href="../../../author/zhu_xingyi"><b>Zhu</b> Xingyi</a>, <a href="../../../author/zhang_yating"><b>Zhang</b> Yating</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../wang_anwa_zhu_zhan.2025.ROoFRftMMaPPoCE3PG/">Robust Optimization of Formulation Ratios for the Mechanical, Microstructural and Printing Performance of Cost-Effective 3D Printing Geopolymer</a></li>

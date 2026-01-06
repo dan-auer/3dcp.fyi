@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abhinav Bhardwaj, Scott Jones, Negar Kalantar, Zhijian Pei, John Vickers, Timothy Wangler, Pablo Zavattieri, Na Zou
+    - footer
+title: Bhardwaj Abhinav, Jones Scott, Kalantar Negar, Pei Zhijian, Vickers John, Wangler Timothy, Zavattieri Pablo, Zou Na
 description:
 tags:
  - additive
@@ -14,34 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing Processes for Infrastructure Construction:<br/>:aca-blank: A Review ([2019-06](date/2019/06))
-<a href="https://doi.org/10.1115/1.4044106" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1115/1.4044106</a>
+#Additive Manufacturing Processes for Infrastructure Construction&nbsp;([2019-06](date/2019/06))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/1.4044106" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/1.4044106" target="_blank">10.1115/1.4044106</a>
 
--------------------------
+<a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b>&nbsp;Abhinav</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_z_scott"><b>Jones</b>&nbsp;Scott</a></span>, <a href="../../../author/kalantar_negar"><b>Kalantar</b>&nbsp;Negar</a></span>, <a href="../../../author/pei_zhijian"><b>Pei</b>&nbsp;Zhijian</a></span>, <a href="../../../author/vickers_john"><b>Vickers</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b>&nbsp;Pablo</a></span>, <a href="../../../author/zou_na"><b>Zou</b>&nbsp;Na</a></span><br>
+Contribution - Proceedings of the ASME 2019 International Manufacturing Science and Engineering Conference
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>
-,     <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a> <a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>
-,     <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a>
-,     <a href="../../../author/vickers_john"><b>Vickers</b> John</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> <a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zou_na"><b>Zou</b> Na</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the ASME 2019 International Manufacturing Science and Engineering Conference, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#infrastructure`](keyword/infrastructure)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#process`](keyword/process)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Processes%20for%20Infrastructure%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85115692839&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4236554083" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1115/1.4044106" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1115/1.4044106?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) has had an enormous impact in the manufacturing sector. Its role has evolved from printing prototypes to manufacturing functional parts for a variety of applications in the automotive, aerospace, and medical industries. Recently, AM processes have also been applied in the infrastructure construction industry. Applications of AM processes could bring in significant improvements in infrastructure construction, specifically in the areas of productivity and safety. It is desirable to have a review on the current state of these emerging AM processes for infrastructure construction as well as existing gaps in this field. This paper reviews AM processes in infrastructure construction. It discusses the process principle, application examples, and gaps for each of the AM processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "69 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -137,8 +114,8 @@ tags:
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2009/06">(2009-06)</a><br><a href="../../../zhan_khos.2009.CCPPaO/">Contour Crafting Process Planning and Optimization</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "36 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/du_shizhao"><b>Du</b> Shizhao</a>, <a href="../../../author/kang_chunxia"><b>Kang</b> Chunxia</a>, <a href="../../../author/du_xiuli"><b>Du</b> Xiuli</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../du_kang_du.2025.FPo3PRCSfTP/">Fatigue Performance of 3D Printed Reusable Concrete Slabs for Temporary Pavements</a></li>
       <li><a href="../../../author/pour_k_arash"><b>Pour</b> Arash</a>, <a href="../../../author/farsangi_noroozinejad_ehsan"><b>Farsangi</b> Ehsan</a>, <a href="../../../author/yang_y_t"><b>Yang</b> T.</a>, <a href="../../../author/li_shaofan"><b>Li</b> Shaofan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pour_fars_yang_li.2025.3PoCaGC/">3D Printing of Conventional and Geopolymer Concretes:<br/>Advancements, Challenges, Future Directions, and Cost Analysis</a></li>
       <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/medina_moises"><b>Medina</b> Moisés</a>, <a href="../../../author/opazo-vega_alexander"><b>Opazo-Vega</b> Alexander</a>, <a href="../../../author/moreno_francisco"><b>Moreno</b> Francisco</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../forc_medi_opaz_more.2025.AMitCI/">Additive Manufacturing in the Construction Industry</a></li>
@@ -176,4 +153,34 @@ tags:
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bhar_jone_kala_pei.2019.AMPfIC,
+      author            = "Abhinav Bhardwaj and Scott Z. Jones and Negar Kalantar and Zhijian Pei and John Vickers and Timothy Paul Wangler and Pablo D. Zavattieri and Na Zou",
+      title             = "Additive Manufacturing Processes for Infrastructure Construction: A Review",
+      doi               = "10.1115/1.4044106",
+      year              = "2019",
+      volume            = "141",
+      booktitle         = "Proceedings of the ASME 2019 International Manufacturing Science and Engineering Conference",
+      editor            = "American Society of Mechanical Engineers",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Bhardwaj, “Additive Manufacturing Processes for Infrastructure Construction: A Review”, in <i>Proceedings of the ASME 2019 International Manufacturing Science and Engineering Conference</i>,  2019, vol. 141. doi: 10.1115/1.4044106.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bhardwaj, Abhinav, Scott Z. Jones, Negar Kalantar, Zhijian Pei, John Vickers, Timothy Paul Wangler, Pablo D. Zavattieri, and Na Zou. “Additive Manufacturing Processes for Infrastructure Construction: A Review”. In <i>Proceedings of the ASME 2019 International Manufacturing Science and Engineering Conference</i>, edited by American Society of Mechanical Engineers, Vol. 141, 2019. https://doi.org/10.1115/1.4044106.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

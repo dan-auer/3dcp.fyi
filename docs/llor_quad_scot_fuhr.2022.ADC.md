@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ena Lloret-Fritschi, Elia Quadranti, Fabio Scotto, Lukas Fuhrimann, Thibault Demoulin, Sara Mantellato, Lukas Unteregger, Joris Burger, Rafael Pileggi, Fabio Gramazio, Matthias Kohler, Robert Flatt
+    - footer
+title: Lloret-Fritschi Ena, Quadranti Elia, Scotto Fabio, Fuhrimann Lukas, Demoulin Thibault, Mantellato Sara, Unteregger Lukas, Burger Joris, Pileggi Rafael, Gramazio Fabio, Kohler Matthias, Flatt Robert
 description:
 tags:
  - additive
@@ -12,36 +13,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/10/3468/pdf?version=1652960293) Additive Digital Casting:<br/>:aca-blank: From Lab to Industry ([2022-05](date/2022/05))
-<a href="https://doi.org/10.3390/ma15103468" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15103468</a>
+#Additive Digital Casting&nbsp;([2022-05](date/2022/05))
+<div class="h1-like">From Lab to Industry</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/10/3468/pdf?version=1652960293) <a href="https://doi.org/10.3390/ma15103468" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15103468" target="_blank">10.3390/ma15103468</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7461-983X" title="ORCID: 0000-0002-7461-983X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quadranti_elia"><b>Quadranti</b>&nbsp;Elia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0501-6576" title="ORCID: 0000-0002-0501-6576" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scotto_fabio"><b>Scotto</b>&nbsp;Fabio</a></span>, <a href="../../../author/fuhrimann_lukas"><b>Fuhrimann</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5074-7626" title="ORCID: 0000-0002-5074-7626" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demoulin_thibault"><b>Demoulin</b>&nbsp;Thibault</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3941-0739" title="ORCID: 0000-0003-3941-0739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mantellato_sara"><b>Mantellato</b>&nbsp;Sara</a></span>, <a href="../../../author/unteregger_lukas"><b>Unteregger</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/burger_jan_joris"><b>Burger</b>&nbsp;Joris</a></span>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b>&nbsp;Rafael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a> <a href="https://orcid.org/0000-0002-7461-983X" title="ORCID: 0000-0002-7461-983X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a> <a href="https://orcid.org/0000-0002-0501-6576" title="ORCID: 0000-0002-0501-6576" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fuhrimann_lukas"><b>Fuhrimann</b> Lukas</a>
-,     <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> <a href="https://orcid.org/0000-0002-5074-7626" title="ORCID: 0000-0002-5074-7626" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> <a href="https://orcid.org/0000-0003-3941-0739" title="ORCID: 0000-0003-3941-0739" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/unteregger_lukas"><b>Unteregger</b> Lukas</a>
-,     <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a> <a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#cast`](keyword/cast)
-    [`#digital`](keyword/digital)
-    [`#industry`](keyword/industry)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Digital%20Casting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132815891&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4280577921" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15103468" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15103468?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete construction harms our environment, making it urgent to develop new methods for building with less materials. Structurally efficient shapes are, however, often expensive to produce, because they require non-standard formworks, thus, standard structures, which use more material than is often needed, remain cheaper. Digital fabrication has the potential to change this paradigm. One method is Digital Casting Systems (DCS), where the hydration of self-compacting concrete is controlled on the fly during production, shortening the required setting time and reducing hydrostatic pressure on the formwork to a minimum. This enables a productivity increase for standard concrete production. More importantly, though, it enables a rethinking of formworks, as the process requires only cheap thin formworks, thus, unlocking the possibility to produce optimised structural members with less bulk material and lower environmental cost. While DCS has already proven effective in building structural members, this process faces the challenge of moving into industry. This paper covers the next steps in doing so. First, we present the benchmark and expectations set by the industry. Second, we consider how we comply with these requirements and convert our fast-setting self-compacting mortar mix into a coarser one. Third, we present the next generation of our digital processing system, which moves closer to the industrial requirements in terms of size and the control system. Finally, two prototypes demonstrate how DSC: (a) increases standard bulk production by 50% and (b) can be cast into ultra-thin formworks. We discuss the results and the short-term industrial concerns for efficiency and robustness, which must be addressed for such a system to be fully implemented in industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
@@ -84,8 +59,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/wenger_cedric"><b>Wenger</b> Cedric</a>, <a href="../../../author/walpen_lukas"><b>Walpen</b> Lukas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../das_weng_walp_flat.2025.EAHoALCCfDF/">Early-Age Hydration of Accelerated Low-Carbon Cements for Digital Fabrication</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/chen_wei-ting"><b>Chen</b> Wei-Ting</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../gure_chen_wang_llor.2024.SuiDCoC/">Scaling up in Digital Casting of Concrete:<br/>Towards Industry Integration</a></li>
@@ -103,4 +78,34 @@ tags:
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../burg_hube_llor_mata.2022.DaFoORCFSULS3PF/">Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork</a></li>
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mata_bisc_hube_anto.2022.DFRCFS/">Digitally Fabricated Ribbed Concrete Floor Slabs:<br/>A Sustainable Solution for Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{llor_quad_scot_fuhr.2022.ADC,
+      author            = "Ena Lloret-Fritschi and Elia Quadranti and Fabio Scotto and Lukas Fuhrimann and Thibault Demoulin and Sara Mantellato and Lukas Unteregger and Joris Jan Burger and Rafael Giuliano Pileggi and Fabio Gramazio and Matthias Daniel Kohler and Robert Johann Flatt",
+      title             = "Additive Digital Casting: From Lab to Industry",
+      doi               = "10.3390/ma15103468",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Lloret-Fritschi, “Additive Digital Casting: From Lab to Industry”, <i>Materials</i>, vol. 15, no. 10, 2022, doi: 10.3390/ma15103468.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lloret-Fritschi, Ena, Elia Quadranti, Fabio Scotto, Lukas Fuhrimann, Thibault Demoulin, Sara Mantellato, Lukas Unteregger, et al.. “Additive Digital Casting: From Lab to Industry”. <i>Materials</i> 15, no. 10 (2022). https://doi.org/10.3390/ma15103468.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Reiter Lex 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../anto_skev_bisc_reit.2024.CSIf3CP/">Column-Slab Interfaces for 3D Concrete Printing:<br/>Design, Fabrication and Assembly Strategies</a></li>
   <li><a href="../../../author/chen_wei-ting"><b>Chen</b> Wei-Ting</a>, <a href="../../../author/sunny-anthraper_liya"><b>Sunny Anthraper</b> Liya</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_sunn_skev_reit.2023.ICGTi3CPW/">Imprinting Concrete Graded Transparency in 3D Concrete Printing Walls</a></li>
   <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../das_reit_mant_flat.2022.EARaHCoTBf3PA/">Early-Age Rheology and Hydration-Control of Ternary Binders for 3D Printing Applications</a></li>

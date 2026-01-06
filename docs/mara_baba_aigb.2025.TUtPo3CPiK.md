@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ian Mararo, Adewumi Babafemi, Clinton Aigbavboa
+    - footer
+title: Mararo Ian, Babafemi Adewumi, Aigbavboa Clinton
 description:
 tags:
  - construction
@@ -10,25 +11,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/15623599.2025.2550483?needAccess=true) Towards Understanding the Perceptions of 3D Construction Printing in Kenya ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1080/15623599.2025.2550483" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/15623599.2025.2550483</a>
+#Towards Understanding the Perceptions of 3D Construction Printing in Kenya ([2025-09](date/2025/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/15623599.2025.2550483?needAccess=true) <a href="https://doi.org/10.1080/15623599.2025.2550483" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2025.2550483" target="_blank">10.1080/15623599.2025.2550483</a>
 
--------------------------
+<a href="../../../author/mararo_m_ian"><b>Mararo</b>&nbsp;Ian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2866-3706" title="ORCID: 0000-0003-2866-3706" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b>&nbsp;Clinton</a></span><br>
+Journal Article - International Journal of Construction Management, pp. 1-21
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mararo_m_ian"><b>Mararo</b> Ian</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a> <a href="https://orcid.org/0000-0003-2866-3706" title="ORCID: 0000-0003-2866-3706" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Construction Management, pp. 1-21
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Towards%20Understanding%20the%20Perceptions%20of%203D%20Construction%20Printing%20in%20Kenya" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014914084&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -43,17 +32,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413891952" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/15623599.2025.2550483" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/15623599.2025.2550483?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Kenya faces a persistent housing deficit exacerbated by rapid urbanisation and reliance on traditional construction methods characterised by low productivity. Construction innovations like 3D Construction Printing (3DCP) have been linked to significant improvements in construction productivity. This study explores the potential of 3DCP to transform housing delivery in Kenya, drawing on the Diffusion of Innovation (DOI) theory to understand stakeholder perceptions. Through qualitative interviews with academic and industry stakeholders, the study uncovers the perceptions of 3DCP adoption. Findings indicate that stakeholders widely acknowledge the relative advantages of 3DCP over traditional construction methods, including faster construction timelines, improved quality (material homogeneity, dimensional accuracy and reproducibility), and design flexibility (the capacity to produce curvilinear geometries without formwork). However, barriers such as high initial investment costs, limited technical expertise, and incompatibility with Kenya’s affordable housing context hinder adoption. The study recommends a dual strategy to increase adoption: integrating 3DCP into national housing policy and promoting research and development initiatives to localise the technology. This approach aims to address both economic and socio-cultural resistance. The study contributes to theory by contextualising and extending DOI in a developing country setting, highlighting the limitations of its assumptions when applied to risk-averse markets like Kenya.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
@@ -75,7 +60,36 @@ tags:
       <li><a href="../../../author/souza_araujo_eduarda"><b>Souza</b> Eduarda</a>, <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../souz_ribe_sten_nema.2024.3PSLCMfCoASHiB/">3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil:<br/>Potential, Challenges, and Research Needs</a></li>
       <li><a href="../../../author/wang_qiang-chen"><b>Wang</b> Qiang-Chen</a>, <a href="../../../author/yu_si-nan"><b>Yu</b> Si-Nan</a>, <a href="../../../author/chen_zi-xiao"><b>Chen</b> Zi-Xiao</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_yu_chen_weng.2023.PACiFDA/">Promoting Additive Construction in Fast-Developing Areas:<br/>A Q-Methodology-Analysis of Stakeholder-Perspectives on Policy-Mixes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mara_baba_aigb.2025.TUtPo3CPiK,
+      author            = "Ian M. Mararo and Adewumi John Babafemi and Clinton Ohis Aigbavboa",
+      title             = "Towards Understanding the Perceptions of 3D Construction Printing in Kenya",
+      doi               = "10.1080/15623599.2025.2550483",
+      year              = "2025",
+      journal           = "International Journal of Construction Management",
+      pages             = "1--21",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. M. Mararo, A. J. Babafemi and C. O. Aigbavboa, “Towards Understanding the Perceptions of 3D Construction Printing in Kenya”, <i>International Journal of Construction Management</i>, pp. 1–21, 2025, doi: 10.1080/15623599.2025.2550483.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mararo, Ian M., Adewumi John Babafemi, and Clinton Ohis Aigbavboa. “Towards Understanding the Perceptions of 3D Construction Printing in Kenya”. <i>International Journal of Construction Management</i>, 2025, 1–21. https://doi.org/10.1080/15623599.2025.2550483.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,8 @@ search:
 
 # #polymer
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
   <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/oh_gyujong"><b>Oh</b> Gyujong</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM/">Effects of the Combined Incorporation of Superabsorbent Polymers and Polyvinyl Alcohol Fibers on Material Properties of 3D Printable Mortar:<br/>Rheology, Shrinkage, and Mechanical Behavior</a></li>
   <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zeng_jian_yan_sun.2025.3PoCCFRPRfCC/">3D Printing of Continuous Carbon Fiber-Reinforced Polymer Reinforcement for Concrete Columns</a></li>
   <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gu_han_khay.2025.EoAKoSPo3PC/">Effect of Absorption Kinetics of Superabsorbent Polymer on 3D Printing Characteristics</a></li>

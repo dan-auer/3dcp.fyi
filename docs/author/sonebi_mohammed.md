@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Sonebi Mohammed 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/hamill_gerard"><b>Hamill</b> Gerard</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sone_kaus_amzi_hami.2025.OoRaHPo3CP/">Optimization of Rheological and Hardened Properties of 3D Concrete Printing</a></li>
   <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vare_barl_sone.2024.EoBFaNCtEEaBo3PM/">Evaluation of Basalt-Fibers and Nano-Clays to Enhance Extrudability and Buildability of 3D Printing Mortars</a></li>
   <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../kaus_sone_amat_perr.2023.EoNCotPoEB3PM/">Effect of Nano-Clay on the Printability of Extrusion-Based 3D Printable Mortar</a></li>

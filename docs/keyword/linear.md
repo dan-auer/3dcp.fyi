@@ -8,7 +8,7 @@ search:
 
 # #linear
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gao_jianhao"><b>Gao</b> Jianhao</a>, <a href="../../../author/niu_yujun"><b>Niu</b> Yujun</a>, <a href="../../../author/wang_chaofeng"><b>Wang</b> Chaofeng</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../gao_niu_wang.2025.LHP/">Linear Helical Printing:<br/>A Novel Approach to 3D Printing Concrete Structures with Enhanced Integrity</a></li>
   <li><a href="../../../author/rymes_jiri"><b>Rymeš</b> Jiří</a>, <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a>, <a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a>, <a href="../../../author/bures_vladislav"><b>Bureš</b> Vladislav</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../ryme_cerv_jend_bure.2024.I3MaNLNSiCAM/">Integrating 3D Modelling and Non-Linear Numerical Simulations in Concrete Additive Manufacturing</a></li>
   <li><a href="../../../author/bharti_mrityunjay"><b>Bharti</b> Mrityunjay</a>, <a href="../../../author/menon_arun"><b>Menon</b> Arun</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bhar_meno_sant.2024.NLBUCoH3PC/">Non-Linear Behavior Under Compression of Hardened 3D Printed Concrete</a></li>

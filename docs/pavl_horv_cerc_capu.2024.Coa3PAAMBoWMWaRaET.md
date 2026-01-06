@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Majda Pavlin, Barbara Horvat, Romana Cerc Korošec, Rok Capuder, Lidija Korat Bensa, Vilma Ducman
+    - footer
+title: Pavlin Majda, Horvat Barbara, Cerc Korošec Romana, Capuder Rok, Korat Bensa Lidija, Ducman Vilma
 description:
 tags:
  - activation
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2024.105445) Characterisation of a 3D Printed Alkali-Activated Material Based on Waste-Mineral-Wool at Room and Elevated Temperatures ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105445" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105445</a>
+#Characterisation of a 3D Printed Alkali-Activated Material Based on Waste-Mineral-Wool at Room and Elevated Temperatures ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2024.105445) <a href="https://doi.org/10.1016/j.cemconcomp.2024.105445" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105445" target="_blank">10.1016/j.cemconcomp.2024.105445</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1701-8130" title="ORCID: 0000-0002-1701-8130" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pavlin_majda"><b>Pavlin</b>&nbsp;Majda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3393-0699" title="ORCID: 0000-0002-3393-0699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/horvat_barbara"><b>Horvat</b>&nbsp;Barbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3486-5219" title="ORCID: 0000-0002-3486-5219" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cerc-korosec_romana"><b>Cerc Korošec</b>&nbsp;Romana</a></span>, <a href="../../../author/capuder_rok"><b>Capuder</b>&nbsp;Rok</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3412-981X" title="ORCID: 0000-0002-3412-981X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korat-bensa_lidija"><b>Korat Bensa</b>&nbsp;Lidija</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6430-3305" title="ORCID: 0000-0002-6430-3305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducman_vilma"><b>Ducman</b>&nbsp;Vilma</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 147, No. 105445
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pavlin_majda"><b>Pavlin</b> Majda</a> <a href="https://orcid.org/0000-0002-1701-8130" title="ORCID: 0000-0002-1701-8130" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/horvat_barbara"><b>Horvat</b> Barbara</a> <a href="https://orcid.org/0000-0002-3393-0699" title="ORCID: 0000-0002-3393-0699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cerc-korosec_romana"><b>Cerc Korošec</b> Romana</a> <a href="https://orcid.org/0000-0002-3486-5219" title="ORCID: 0000-0002-3486-5219" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/capuder_rok"><b>Capuder</b> Rok</a>
-,     <a href="../../../author/korat-bensa_lidija"><b>Korat Bensa</b> Lidija</a> <a href="https://orcid.org/0000-0002-3412-981X" title="ORCID: 0000-0002-3412-981X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ducman_vilma"><b>Ducman</b> Vilma</a> <a href="https://orcid.org/0000-0002-6430-3305" title="ORCID: 0000-0002-6430-3305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 147, No. 105445
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#base`](keyword/base)
-    [`#characteristic`](keyword/characteristic)
-    [`#elevation`](keyword/elevation)
-    [`#material`](keyword/material)
-    [`#mineral`](keyword/mineral)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Characterisation%20of%20a%203D%20Printed%20Alkali-Activated%20Material%20Based%20on%20Waste-Mineral-Wool%20at%20Room%20and%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182875296&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391018620" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105445" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105445?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The building sector is the largest energy consumer in the European Union (EU), accounting for approximately 40 % of energy consumption and 36 % of CO2 emissions [1]. The demand for housing is expected to rise because of the increase in global population. Consequently, construction and demolition waste (CDW), which currently constitutes approximately 25–30 % of the total waste generated annually in Europe [2], will also increase, making it necessary to use it appropriately instead of being dumped in landfills. Additive manufacturing (3D printing) has gained significant attention over the last few years and has served as an encouraging method for solving several environmental problems, including the need for both local source materials and minimising waste production. 3D printing enables the production of more complex shapes and has been employed in various fields [3,4]. Additive manufacturing offers advantages such as freedom of design, reduced labour, customisation, automation, waste minimisation, and the ability to build complex structures with inexpensive materials. However, it also suffers from disadvantages such as the formation of voids between layers, which results in higher porosity and reduced adhesion between printed layers and anisotropic behaviour. These disadvantages represent the challenges in additive manufacturing that need to be overcome [5]. Various types of additive manufacturing methods are currently in use, including binder jetting, directed energy deposition, material extrusion, material jetting, powder bed fusion, sheet lamination, and vat photo-polymerization [6]. Extrusion and layered printing are most commonly applied for concrete-type materials [7,8].
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
@@ -108,9 +82,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pavl_horv_cerc_capu.2024.Coa3PAAMBoWMWaRaET,
+      author            = "Majda Pavlin and Barbara Horvat and Romana Cerc Korošec and Rok Capuder and Lidija Korat Bensa and Vilma Ducman",
+      title             = "Characterisation of a 3D Printed Alkali-Activated Material Based on Waste-Mineral-Wool at Room and Elevated Temperatures",
+      doi               = "10.1016/j.cemconcomp.2024.105445",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "147",
+      pages             = "105445",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Pavlin, B. Horvat, R. C. Korošec, R. Capuder, L. K. Bensa and V. Ducman, “Characterisation of a 3D Printed Alkali-Activated Material Based on Waste-Mineral-Wool at Room and Elevated Temperatures”, <i>Cement and Concrete Composites</i>, vol. 147, p. 105445, 2024, doi: 10.1016/j.cemconcomp.2024.105445.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pavlin, Majda, Barbara Horvat, Romana Cerc Korošec, Rok Capuder, Lidija Korat Bensa, and Vilma Ducman. “Characterisation of a 3D Printed Alkali-Activated Material Based on Waste-Mineral-Wool at Room and Elevated Temperatures”. <i>Cement and Concrete Composites</i> 147 (2024): 105445. https://doi.org/10.1016/j.cemconcomp.2024.105445.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

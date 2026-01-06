@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangpeng Cao, Shiheng Yu, Hongzhi Cui, Zongjin Li
+    - footer
+title: Cao Xiangpeng, Yu Shiheng, Cui Hongzhi, Li Zongjin
 description:
 tags:
  - base
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/4/453/pdf?version=1650447176) 3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>:aca-blank: A Review ([2022-04](date/2022/04))
-<a href="https://doi.org/10.3390/buildings12040453" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12040453</a>
+#3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials&nbsp;([2022-04](date/2022/04))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/4/453/pdf?version=1650447176) <a href="https://doi.org/10.3390/buildings12040453" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12040453" target="_blank">10.3390/buildings12040453</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_xiangpeng"><b>Cao</b>&nbsp;Xiangpeng</a></span>, <a href="../../../author/yu_shiheng"><b>Yu</b>&nbsp;Shiheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_hongzhi"><b>Cui</b>&nbsp;Hongzhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zongjin"><b>Li</b>&nbsp;Zongjin</a></span><br>
+Journal Article - Buildings, Vol. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a> <a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>
-,     <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#extrusion`](keyword/extrusion)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#review`](keyword/review)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Devices%20and%20Reinforcing%20Techniques%20for%20Extruded%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128785693&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4224256128" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12040453" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12040453?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete is by volume the most widely used building material all over the world. The concrete industry emits large quantities of greenhouse gases. Therefore, developing low CO2 concrete becomes an urgent issue for those countries with significant concrete production and consumption. In recent years, 3D concrete printing (3DCP) which is a new concrete construction method, is being developed by many research institutions and enterprises throughout the world. The primary advantages of 3DCP include increasing architecture flexibility, reducing labor usage, as well as saving in-situ construction time and cost. According to the statements by Tay et al. [2017], Wolfs et al. [2018], and Bos et al. [2016], 3DCP as a future construction trend may be a potential low CO2 approach. Thus, the objective of this paper is to critically explore the possible low CO2 strategies for 3DCP which have not been systematically conducted so far. Initially, this study introduces an overview of 3DCP by reviewing the relevant publications over last 20 years. Moreover, the potential low CO2 aspects of 3DCP are illustrated and discussed. Finally, the challenges and opportunities of developing 3DCP are analyzed and summarized. Overall, 3DCP is exploring possibilities of a low CO2 concrete approach, since it might consume less concrete materials and does not need formwork. On the other hand, to maximize CO2 reduction and accelerate the development of this technique, the future routes of 3DCP can be identified such as developing low CO2 printable concrete, seeking the proper reinforcement methods, improving print quality and capability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "116 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -184,8 +163,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "40 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sicakova_alena"><b>Sičáková</b> Alena</a>, <a href="../../../author/vercimak_dominik"><b>Verčimák</b> Dominik</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sica_verc.2025.LMwaHPoRFiTo3PP/">Lightweight Mixtures with a High Proportion of Recycled Fillers in Terms of 3D Printing Parameters</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/valek_josef"><b>Válek</b> Josef</a>, <a href="../../../author/romanova_dorota"><b>Romanová</b> Dorota</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../vale_roma.2025.3CPSDiCtRPaAS/">3D Concrete Printing Simulating Device in Comparison to Real Printing and Aggregate Substitutes</a></li>
@@ -227,4 +206,33 @@ tags:
       <li><a href="../../../author/kulaienko_oleh"><b>Kulaienko</b> Oleh</a>, <a href="../../../author/kabus_oleksii"><b>Kabus</b> Oleksii</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kula_kabu.2023.3CPT/">3D Concrete Printing Technology:<br/>Implementing Tasks in Ukraine</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cao_yu_cui_li.2022.3PDaRTfECBM,
+      author            = "Xiangpeng Cao and Shiheng Yu and Hongzhi Cui and Zongjin Li",
+      title             = "3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials: A Review",
+      doi               = "10.3390/buildings12040453",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Cao, S. Yu, H. Cui and Z. Li, “3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials: A Review”, <i>Buildings</i>, vol. 12, 2022, doi: 10.3390/buildings12040453.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cao, Xiangpeng, Shiheng Yu, Hongzhi Cui, and Zongjin Li. “3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials: A Review”. <i>Buildings</i> 12 (2022). https://doi.org/10.3390/buildings12040453.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

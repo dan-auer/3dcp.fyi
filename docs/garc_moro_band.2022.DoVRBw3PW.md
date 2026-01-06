@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rodrigo García-Alvarado, Ginnia Moroni-Orellana, Pablo Banda
+    - footer
+title: García-Alvarado Rodrigo, Moroni-Orellana Ginnia, Banda Pablo
 description:
 tags:
  - buildability
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/11/1796/pdf?version=1666851186) Development of Variable Residential Buildings with 3D Printed Walls ([2022-10](date/2022/10))
-<a href="https://doi.org/10.3390/buildings12111796" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12111796</a>
+#Development of Variable Residential Buildings with 3D Printed Walls ([2022-10](date/2022/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/11/1796/pdf?version=1666851186) <a href="https://doi.org/10.3390/buildings12111796" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12111796" target="_blank">10.3390/buildings12111796</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4585-9073" title="ORCID: 0000-0003-4585-9073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b>&nbsp;Ginnia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8716-6868" title="ORCID: 0000-0002-8716-6868" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banda_pablo"><b>Banda</b>&nbsp;Pablo</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a> <a href="https://orcid.org/0000-0003-4585-9073" title="ORCID: 0000-0003-4585-9073" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="https://orcid.org/0000-0002-8716-6868" title="ORCID: 0000-0002-8716-6868" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#development`](keyword/development)
-    [`#print`](keyword/print)
-    [`#variation`](keyword/variation)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Variable%20Residential%20Buildings%20with%203D%20Printed%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141830582&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,18 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4307303287" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12111796" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12111796?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     New 3D-printing technologies allows to make constructive elements, especially walls, faster and with formal diversity. The 3D-printed elements usually have self-supporting capacities, but they need to be reinforced or integrated into larger structures, to make buildings of large extension or height of several floors. This work proposes a residential construction strategy, focused on Chile, which combines a modular main reinforced concrete structure with partitions made of 3D-printed walls to obtain different housing organizations. For this, a structural grid and range of volumes are defined in BIM. In addition, a parametric programming is developed and prototypes of 3D-printed walls are made. The volumetric development provides a wide repertoire of residential surfaces, while the main structure provides a great flexibility of occupancy. The programming organizes the design and execution process, with numeric analysis and visualization capabilities. The executed prototypes demonstrate a constructive feasibility and architectural appealing. This development expresses the possibility to integrate 3D-printing in massive and varied dwelling construction, and suggests new paths for housing construction with the application of new design technologies and automated manufacturing in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/anane_walid"><b>Anane</b> Walid</a>, <a href="../../../author/iordanova_ivanka"><b>Iordanova</b> Ivanka</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../anan_iord_ouel.2023.TUoBfR3CP/">The Use of BIM for Robotic 3D Concrete Printing</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -89,8 +70,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
       <li><a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/taswin_faustin_william"><b>Taswin</b> William</a>, <a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sari_bera_tasw_saro.2025.WBSaCPFfaH3PMB/">Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building</a></li>
       <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
@@ -103,4 +84,34 @@ tags:
       <li><a href="../../../author/liu_ke"><b>Liu</b> Ke</a>, <a href="../../../author/takasu_koji"><b>Takasu</b> Koji</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/zu_kun"><b>Zu</b> Kun</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../liu_taka_jian_zu.2023.MPo3PCC/">Mechanical Properties of 3D Printed Concrete Components:<br/>A Review</a></li>
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/isopescu_nicolina_dorina"><b>Isopescu</b> Dorina</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ungu_onut_isop_tara.2023.ANAf3PFRM/">A Novel Approach for 3D Printing Fiber-Reinforced Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{garc_moro_band.2022.DoVRBw3PW,
+      author            = "Rodrigo García-Alvarado and Ginnia Moroni-Orellana and Pablo Banda",
+      title             = "Development of Variable Residential Buildings with 3D Printed Walls",
+      doi               = "10.3390/buildings12111796",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. García-Alvarado, G. Moroni-Orellana and P. Banda, “Development of Variable Residential Buildings with 3D Printed Walls”, <i>Buildings</i>, vol. 12, no. 11, 2022, doi: 10.3390/buildings12111796.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">García-Alvarado, Rodrigo, Ginnia Moroni-Orellana, and Pablo Banda. “Development of Variable Residential Buildings with 3D Printed Walls”. <i>Buildings</i> 12, no. 11 (2022). https://doi.org/10.3390/buildings12111796.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

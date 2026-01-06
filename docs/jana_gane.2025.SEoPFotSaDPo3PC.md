@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Parthiban Janani, G. Ganesh
+    - footer
+title: Janani Parthiban, Ganesh G.
 description:
 tags:
  - concrete
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1002/suco.70387" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.70387</a>
+#Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.70387" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70387" target="_blank">10.1002/suco.70387</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-7344-7502" title="ORCID: 0009-0005-7344-7502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/janani_parthiban"><b>Janani</b>&nbsp;Parthiban</a></span>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b>&nbsp;G.</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a> <a href="https://orcid.org/0009-0005-7344-7502" title="ORCID: 0009-0005-7344-7502" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#strength`](keyword/strength)
-    [`#synergy`](keyword/synergy)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Synergistic%20Effects%20of%20Polypropylene%20Fibers%20on%20the%20Strength%20and%20Durability%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020767012&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415780332" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.70387" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.70387?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Optimizing material composition in 3D concrete printing, is essential to enhance both printability and structural performance. This study explores the influence of polypropylene fibers on the fresh and hardened properties of 3D printed concrete. Marble powder waste was incorporated as a partial replacement for cement of 10% to promote sustainability, while polypropylene fibers were added at varying dosages from 0.1% to 0.5% to assess their impact on fresh and hardened state behavior. Fresh properties such as extrudability and buildability were systematically evaluated. Notably, the mix with 0.2% fiber content demonstrated superior buildability, ensuring stable layer deposition and structural integrity during the printing process. Further, in terms of hardened performance, 0.2% polypropylene fiber inclusion significantly enhanced compressive, flexural and interlayer bond strengths. Durability was assessed through water absorption and sorptivity tests, where the optimal mix exhibited reduced permeability, indicating better resistance to moisture ingress and enhanced long-term durability. Scanning Electron Microscopy analysis further validated these observations, demonstrating the microstructure with better fiber distribution, less porosity, and the development of a compact C–S–H gel. These findings highlight the potential of integrating an optimal 0.2% polypropylene fiber content in 3D Printing Concrete to achieve superior performance in better buildability and durability performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/norval_chris"><b>Norval</b> Chris</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../baba_norv_kola_paul.2024.3PLCCCCIRPW/">3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste:<br/>RESIN8</a></li>
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>, <a href="../../../author/shen_liang"><b>Shen</b> Liang</a>, <a href="../../../author/su_shiyong"><b>Su</b> Shiyong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../cui_ji_shen_su.2025.ANNBMfA3PCPiRF/">A Neural Network-Based Model for Assessing 3D Printable Concrete Performance in Robotic Fabrication</a></li>
@@ -94,7 +74,35 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/deng_run-bin"><b>Deng</b> Run-Bin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zeng_sun_deng_yan.2025.BPBFBa3PHPC/">Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jana_gane.2025.SEoPFotSaDPo3PC,
+      author            = "Parthiban Janani and G. Mohan Ganesh",
+      title             = "Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete",
+      doi               = "10.1002/suco.70387",
+      year              = "2025",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Janani  and G. M. Ganesh, “Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete”, <i>Structural Concrete</i>, 2025, doi: 10.1002/suco.70387.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Janani, Parthiban, and G. Mohan Ganesh. “Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete”. <i>Structural Concrete</i>, 2025. https://doi.org/10.1002/suco.70387.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

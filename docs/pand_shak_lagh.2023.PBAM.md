@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Biranchi Panda, Pshtiwan Shakor, Vittoria Laghi
+    - footer
+title: Panda Biranchi, Shakor Pshtiwan, Laghi Vittoria
 description:
 tags:
  - additive
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Powder-Bed Additive Manufacturing ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1680/amc.66410.079" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/amc.66410.079</a>
+#Powder-Bed Additive Manufacturing ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/amc.66410.079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/amc.66410.079" target="_blank">10.1680/amc.66410.079</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/laghi_vittoria"><b>Laghi</b>&nbsp;Vittoria</a></span><br>
+Contribution - Additive Manufacturing for Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> <a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Additive Manufacturing for Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#bed`](keyword/bed)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#powder`](keyword/powder)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Powder-Bed%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182292928&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390072900" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/amc.66410.079" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/amc.66410.079?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing was invented by Sachs and co-workers in 1989, who achieved a patent for the selective particle-bed three-dimensional printing technique. This technique is sometimes called binder jet 3D printing or inkjet 3D printing. This process consists of: (1) depositing a layer of powder material in a confined region; (2) applying additional material to selected areas of the powder layer, causing a layer of powder material to become bonded at those areas; and (3) repeating steps (1) and (2) a predetermined number of times to produce successive layers that become bonded to each other. The loose particles are removed in a depowdering procedure at the end of the printing process. Following printing, additional post-treatment of the printed elements might be possible. The concept of binder jetting was brought to the construction industry by Enrico Dini, who founded the D-Shape company in 2004. The D-Shape process is similar to particle-bed 3D printing, and was made possible by developments in digital technology and automation in the construction process. Additive manufacturing technologies have begun to be actively developed in the field of construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "76 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../aspr_menn_bos_mata.2022.SDaToDMCS/">Structural Design and Testing of Digitally Manufactured Concrete Structures</a></li>
@@ -135,8 +118,37 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../yuan_tao.2018.MaEoPC/">Mixing and Extrusion of Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a>, <a href="../../../author/udayakumar_ganesh_raja"><b>Udayakumar</b> Raja</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vasi_uday_bohl_mai.2024.ANMfSPB3P/">A Numerical Model for Simulating Particle-Bed 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{pand_shak_lagh.2023.PBAM,
+      author            = "Biranchi Narayan Panda and Pshtiwan N. Shakor and Vittoria Laghi",
+      title             = "Powder-Bed Additive Manufacturing",
+      doi               = "10.1680/amc.66410.079",
+      year              = "2023",
+      booktitle         = "Additive Manufacturing for Construction",
+      editor            = "Biranchi Narayan Panda and Pshtiwan N. Shakor and Vittoria Laghi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. N. Panda, P. N. Shakor and V. Laghi, “Powder-Bed Additive Manufacturing”, in <i>Additive Manufacturing for Construction</i>,  2023. doi: 10.1680/amc.66410.079.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Panda, Biranchi Narayan, Pshtiwan N. Shakor, and Vittoria Laghi. “Powder-Bed Additive Manufacturing”. In <i>Additive Manufacturing for Construction</i>, edited by Biranchi Narayan Panda, Pshtiwan N. Shakor, and Vittoria Laghi, 2023. https://doi.org/10.1680/amc.66410.079.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

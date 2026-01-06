@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Farshad Dabbaghisouraki, Amin Tanhadoust, Moncef Nehdi
+    - footer
+title: Dabbaghisouraki Farshad, Tanhadoust Amin, Nehdi Moncef
 description:
 tags:
  - challenge
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fiber Reinforcement Strategies in 3D Concrete Printing:<br/>:aca-blank: Addressing Challenges and Identifying Research Gaps ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/b978-0-443-29861-5.00032-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-443-29861-5.00032-9</a>
+#Fiber Reinforcement Strategies in 3D Concrete Printing&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">Addressing Challenges and Identifying Research Gaps</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-29861-5.00032-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-29861-5.00032-9" target="_blank">10.1016/b978-0-443-29861-5.00032-9</a>
 
--------------------------
+<a href="../../../author/dabbaghisouraki_farshad"><b>Dabbaghisouraki</b>&nbsp;Farshad</a></span>, <a href="../../../author/tanhadoust_amin"><b>Tanhadoust</b>&nbsp;Amin</a></span>, <a href="../../../author/nehdi_l_moncef"><b>Nehdi</b>&nbsp;Moncef</a></span><br>
+Contribution - Digital Transformation in the Construction Industry, pp. 639-654
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dabbaghisouraki_farshad"><b>Dabbaghisouraki</b> Farshad</a>
-,     <a href="../../../author/tanhadoust_amin"><b>Tanhadoust</b> Amin</a>
-,     <a href="../../../author/nehdi_l_moncef"><b>Nehdi</b> Moncef</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Digital Transformation in the Construction Industry, pp. 639-654
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#gap`](keyword/gap)
-    [`#identification`](keyword/identification)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/gap"><button class="btn">#gap</button></a> <a href="../../keyword/identification"><button class="btn">#identification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fiber%20Reinforcement%20Strategies%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010976689&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409950928" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-443-29861-5.00032-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-443-29861-5.00032-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The incorporation of six different types of fibers, including basalt, carbon, glass, polyethylene, polypropylene, and steel fibers, as one of the reinforcement strategies in 3D concrete printing (3DCP) is comprehensively investigated in this book chapter. It aims to discuss their impact on the mechanical properties and performance of 3DCP structures. Various aspects such as fiber types, lengths, orientations, and content, and their impact on the fresh and hardened properties of 3DCP, are covered. Furthermore, this chapter discusses the challenges associated with using these fibers in 3DCP processes, highlighting the advancements, limitations, and future research directions in this rapidly evolving field. The insights provided in this chapter serve as a valuable resource for researchers, engineers, and practitioners interested in enhancing the structural integrity and performance of 3DCP structures through fiber reinforcement strategies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
@@ -98,7 +78,36 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{dabb_tanh_nehd.2025.FRSi3CP,
+      author            = "Farshad Dabbaghisouraki and Amin Tanhadoust and Moncef L. Nehdi",
+      title             = "Fiber Reinforcement Strategies in 3D Concrete Printing: Addressing Challenges and Identifying Research Gaps",
+      doi               = "10.1016/b978-0-443-29861-5.00032-9",
+      year              = "2025",
+      pages             = "639--654",
+      booktitle         = "Digital Transformation in the Construction Industry",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Dabbaghisouraki, A. Tanhadoust and M. L. Nehdi, “Fiber Reinforcement Strategies in 3D Concrete Printing: Addressing Challenges and Identifying Research Gaps”, in <i>Digital Transformation in the Construction Industry</i>,  2025, pp. 639–654. doi: 10.1016/b978-0-443-29861-5.00032-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dabbaghisouraki, Farshad, Amin Tanhadoust, and Moncef L. Nehdi. “Fiber Reinforcement Strategies in 3D Concrete Printing: Addressing Challenges and Identifying Research Gaps”. In <i>Digital Transformation in the Construction Industry</i>, 639–54, 2025. https://doi.org/10.1016/b978-0-443-29861-5.00032-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

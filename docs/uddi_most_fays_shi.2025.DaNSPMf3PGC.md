@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Md Uddin, Md Mostazid, Md Faysal, Xinjun Shi
+    - footer
+title: Uddin Md, Mostazid Md, Faysal Md, Shi Xinjun
 description:
 tags:
  - approach
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete:<br/>:aca-blank: An Interpretable Data-Driven Approach ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.istruc.2025.110405" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.110405</a>
+#Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">An Interpretable Data-Driven Approach</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.110405" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.110405" target="_blank">10.1016/j.istruc.2025.110405</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/uddin_nasir_md"><b>Uddin</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0999-8324" title="ORCID: 0000-0003-0999-8324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mostazid_ibrahim_md"><b>Mostazid</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2001-527X" title="ORCID: 0000-0003-2001-527X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/faysal_abdul-motaleb_md"><b>Faysal</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2858-8603" title="ORCID: 0000-0003-2858-8603" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_xinjun"><b>Shi</b>&nbsp;Xinjun</a></span><br>
+Journal Article - Structures, Vol. 82, No. 110405
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mostazid_ibrahim_md"><b>Mostazid</b> Md</a> <a href="https://orcid.org/0000-0003-0999-8324" title="ORCID: 0000-0003-0999-8324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/faysal_abdul-motaleb_md"><b>Faysal</b> Md</a> <a href="https://orcid.org/0000-0003-2001-527X" title="ORCID: 0000-0003-2001-527X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_xinjun"><b>Shi</b> Xinjun</a> <a href="https://orcid.org/0000-0003-2858-8603" title="ORCID: 0000-0003-2858-8603" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 82, No. 110405
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#data`](keyword/data)
-    [`#development`](keyword/development)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#printability`](keyword/printability)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Developing%20a%20Novel%20Strength%20Predictive%20Modeling%20for%203D%20Printable%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019985951&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415278386" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.110405" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.110405?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed geopolymer concrete (3DP-GPC) offers the potential for faster construction and intricate design implementation. However, optimizing the mix design remains a major challenge due to the complexity of geopolymer chemistry and the reliance on trial-and-error experimentation. Prior studies using machine learning (ML) have largely focused on fiber-reinforced GPC, leaving plain 3DP-GPC underexplored despite its fundamental importance for material optimization in 3D printing. This study addresses this gap by systematically applying and comparing four gradient-boosting ML models, XGBoost, LightGBM, CatBoost, and NGBoost, to predict compressive strength (CS) and flexural strength (FS) of plain 3DP-GPC. A dataset of over 500 entries was compiled from literature, normalized in terms of oxide composition of activators and curing parameters to reduce heterogeneity. The dataset was divided into training (80 %) and testing (20 %) subsets, with hyperparameter tuning performed via 5-fold cross-validation using GridSearchCV from Scikit-learn to ensure robust and computationally efficient model training. The models achieved high accuracy in predicting the CS of 3D-GPC, with R2 values ranging from 0.900 to 0.902 (training) and 0.899–0.900 (testing). FS prediction was also promising, with R2 values of 0.864–0.877 (training) and 0.791–0.808 (testing). SHAP (Shapley Additive Explanations) analysis identified curing period, water-to-binder ratio, and activator modulus as the most influential parameters for CS, while binder type and curing conditions dominate FS. Overall, this work provides systematic and interpretable ML framework for plain 3DP-GPC. The findings offer practical insights into key governing parameters and present a data-driven tool to streamline mix design, reducing experimental workload and accelerating the adoption of sustainable 3D printing in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
@@ -93,7 +71,37 @@ tags:
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../xia_nema_sanj.2019.DoPB3CPUG/">Development of Powder-Based 3D Concrete Printing Using Geopolymers</a></li>
       <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../yan_zhan_ma_sanj.2024.AEFUHPGCwQBf3P/">An Eco-Friendly Ultra-High-Performance Geopolymer Concrete with Quaternary Binders for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{uddi_most_fays_shi.2025.DaNSPMf3PGC,
+      author            = "Md Nasir Uddin and Md Ibrahim Mostazid and Md Abdul Motaleb Faysal and Xinjun Shi",
+      title             = "Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete: An Interpretable Data-Driven Approach",
+      doi               = "10.1016/j.istruc.2025.110405",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "82",
+      pages             = "110405",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. N. Uddin, M. I. Mostazid, M. A. M. Faysal and X. Shi, “Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete: An Interpretable Data-Driven Approach”, <i>Structures</i>, vol. 82, p. 110405, 2025, doi: 10.1016/j.istruc.2025.110405.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Uddin, Md Nasir, Md Ibrahim Mostazid, Md Abdul Motaleb Faysal, and Xinjun Shi. “Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete: An Interpretable Data-Driven Approach”. <i>Structures</i> 82 (2025): 110405. https://doi.org/10.1016/j.istruc.2025.110405.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bishnu Shukla, Gaurav Bharti, Bhupender Parashar, Pushpendra Sharma, Shivam Verma
+    - footer
+title: Shukla Bishnu, Bharti Gaurav, Parashar Bhupender, Sharma Pushpendra, Verma Shivam
 description:
 tags:
  - concrete
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction:<br/>:aca-blank: Current Status and Future Prospects ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1007/978-3-031-92801-7_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-92801-7_13</a>
+#Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Current Status and Future Prospects</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-92801-7_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92801-7_13" target="_blank">10.1007/978-3-031-92801-7_13</a>
 
--------------------------
+<a href="../../../author/shukla_kant_bishnu"><b>Shukla</b>&nbsp;Bishnu</a></span>, <a href="../../../author/bharti_gaurav"><b>Bharti</b>&nbsp;Gaurav</a></span>, <a href="../../../author/parashar_bhupender"><b>Parashar</b>&nbsp;Bhupender</a></span>, <a href="../../../author/sharma_kumar_pushpendra"><b>Sharma</b>&nbsp;Pushpendra</a></span>, <a href="../../../author/verma_shivam"><b>Verma</b>&nbsp;Shivam</a></span><br>
+Contribution - Innovative Technologies for Smart and Sustainable Infrastructure, pp. 225-239
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shukla_kant_bishnu"><b>Shukla</b> Bishnu</a>
-,     <a href="../../../author/bharti_gaurav"><b>Bharti</b> Gaurav</a>
-,     <a href="../../../author/parashar_bhupender"><b>Parashar</b> Bhupender</a>
-,     <a href="../../../author/sharma_kumar_pushpendra"><b>Sharma</b> Pushpendra</a>
-,     <a href="../../../author/verma_shivam"><b>Verma</b> Shivam</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Innovative Technologies for Smart and Sustainable Infrastructure, pp. 225-239
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#future`](keyword/future)
-    [`#influence`](keyword/influence)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Variables%20Influencing%20the%20Performance%20of%203D%20Concrete%20Printing%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413861810" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-92801-7_13" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-92801-7_13?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A type of additive manufacturing called three-dimensional concrete printing (3DCP) makes it possible to create intricate architectural details straight from digital three-dimensional design using CAD software (3D CAD) models eliminating the requirements of traditional molds or fixtures. This innovative technology is gaining traction due to its efficiency in producing precise prototypes with reduced material waste and minimal human intervention. Its applications range from manufacturing structural components to on-site construction of walls, addressing various design and technical challenges. With a focus on sustainable practices, such as the use of recycled aggregates, ecologically friendly binders, chemical admixtures, and nano-additives to enhance mix designs, this chapter critically examines developments in 3DCP. It also examines current studies on the rheological characteristics needed for efficient printing, highlighting its potential for environmentally beneficial structural and ornamental uses. The chapter ends with a list of research gaps, especially with regard to improving longevity and continued reliability of 3D-printed concrete buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../arun_nema_bong_rana.2019.HPo3PUHPFRCfDCA/">Hardened Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -100,7 +78,36 @@ tags:
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{shuk_bhar_para_shar.2025.VItPo3CPfSC,
+      author            = "Bishnu Kant Shukla and Gaurav Bharti and Bhupender Parashar and Pushpendra Kumar Sharma and Shivam Verma",
+      title             = "Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction: Current Status and Future Prospects",
+      doi               = "10.1007/978-3-031-92801-7_13",
+      year              = "2025",
+      pages             = "225--239",
+      booktitle         = "Innovative Technologies for Smart and Sustainable Infrastructure",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. K. Shukla, G. Bharti, B. Parashar, P. K. Sharma and S. Verma, “Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction: Current Status and Future Prospects”, in <i>Innovative Technologies for Smart and Sustainable Infrastructure</i>,  2025, pp. 225–239. doi: 10.1007/978-3-031-92801-7_13.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shukla, Bishnu Kant, Gaurav Bharti, Bhupender Parashar, Pushpendra Kumar Sharma, and Shivam Verma. “Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction: Current Status and Future Prospects”. In <i>Innovative Technologies for Smart and Sustainable Infrastructure</i>, 225–39, 2025. https://doi.org/10.1007/978-3-031-92801-7_13.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

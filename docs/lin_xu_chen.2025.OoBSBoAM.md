@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xing-Tao Lin, Shuhao Xu, Xiangsheng Chen
+    - footer
+title: Lin Xing-Tao, Xu Shuhao, Chen Xiangsheng
 description:
 tags:
  - additive
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimization of Building Structures Based on Additive Manufacturing:<br/>:aca-blank: A Review ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.jobe.2025.113813" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113813</a>
+#Optimization of Building Structures Based on Additive Manufacturing&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113813" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113813" target="_blank">10.1016/j.jobe.2025.113813</a>
 
--------------------------
+<a href="../../../author/lin_xing-tao"><b>Lin</b>&nbsp;Xing-Tao</a></span>, <a href="../../../author/xu_shuhao"><b>Xu</b>&nbsp;Shuhao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0880-579X" title="ORCID: 0000-0002-0880-579X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_xiangsheng"><b>Chen</b>&nbsp;Xiangsheng</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113813
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>
-,     <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>
-,     <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="https://orcid.org/0000-0002-0880-579X" title="ORCID: 0000-0002-0880-579X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113813
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#optimization`](keyword/optimization)
-    [`#review`](keyword/review)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Building%20Structures%20Based%20on%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014593120&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413388092" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113813" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113813?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing has emerged as a transformative force in the construction industry, offering advantages such as mold-free design, enhanced design freedom, automation, and digital management. However, traditional construction methods remain constrained in exploiting material properties and meeting functional demands. This paper comprehensively reviews four key strategies for optimizing 3D concrete printing structures: topology optimization heterogeneous structures, functionally graded heterogeneous structures, unsupported cantilever structures, and biomimetic structures along with their logical relationships. Additionally, this review explores its potential in enhancing architectural design freedom, optimizing material utilization, and meeting functional requirements, providing researchers with insights and references for optimizing 3D concrete printing structures. Furthermore, it highlights anisotropy, interlayer weak interfaces, and practical engineering application as major challenges faced during the optimization of 3D printing structures, and illustrates how specific challenges can be addressed through structural optimization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "126 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
@@ -191,8 +172,37 @@ tags:
       <li><a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>, <a href="../../../author/hou_dongqi"><b>Hou</b> Dongqi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhao_jian_xia_hou.2025.MICPEoTSaEASo3PC/">Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zuo_cort_huan_chen.2023.PtWAoLS3P/">Propelling the Widespread Adoption of Large-Scale 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lin_xu_chen.2025.OoBSBoAM,
+      author            = "Xing-Tao Lin and Shuhao Xu and Xiangsheng Chen",
+      title             = "Optimization of Building Structures Based on Additive Manufacturing: A Review",
+      doi               = "10.1016/j.jobe.2025.113813",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113813",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X.-T. Lin, S. Xu and X. Chen, “Optimization of Building Structures Based on Additive Manufacturing: A Review”, <i>Journal of Building Engineering</i>, p. 113813, 2025, doi: 10.1016/j.jobe.2025.113813.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lin, Xing-Tao, Shuhao Xu, and Xiangsheng Chen. “Optimization of Building Structures Based on Additive Manufacturing: A Review”. <i>Journal of Building Engineering</i>, 2025, 113813. https://doi.org/10.1016/j.jobe.2025.113813.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

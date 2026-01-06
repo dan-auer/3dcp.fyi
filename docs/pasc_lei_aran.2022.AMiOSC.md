@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jubert Pasco, Zhen Lei, Clodualdo Aranas
+    - footer
+title: Pasco Jubert, Lei Zhen, Aranas Clodualdo
 description:
 tags:
  - additive
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/1/53/pdf?version=1641524420) Additive Manufacturing in Off-Site Construction:<br/>:aca-blank: Review and Future Directions ([2022-01](date/2022/01))
-<a href="https://doi.org/10.3390/buildings12010053" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12010053</a>
+#Additive Manufacturing in Off-Site Construction&nbsp;([2022-01](date/2022/01))
+<div class="h1-like">Review and Future Directions</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/1/53/pdf?version=1641524420) <a href="https://doi.org/10.3390/buildings12010053" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12010053" target="_blank">10.3390/buildings12010053</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5242-2334" title="ORCID: 0000-0001-5242-2334" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pasco_jubert"><b>Pasco</b>&nbsp;Jubert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0826-9763" title="ORCID: 0000-0002-0826-9763" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lei_zhen"><b>Lei</b>&nbsp;Zhen</a></span>, <a href="../../../author/aranas_clodualdo"><b>Aranas</b>&nbsp;Clodualdo</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pasco_jubert"><b>Pasco</b> Jubert</a> <a href="https://orcid.org/0000-0001-5242-2334" title="ORCID: 0000-0001-5242-2334" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lei_zhen"><b>Lei</b> Zhen</a> <a href="https://orcid.org/0000-0002-0826-9763" title="ORCID: 0000-0002-0826-9763" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aranas_clodualdo"><b>Aranas</b> Clodualdo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#direction`](keyword/direction)
-    [`#future`](keyword/future)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#review`](keyword/review)
-    [`#site`](keyword/site)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20Off-Site%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123240572&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4206726187" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12010053" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12010053?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) is one of the pillars of Industry 4.0 to attain a circular economy. The process involves a layer-by-layer deposition of material from a computer-aided-design (CAD) model to form complex shapes. Fast prototyping and waste minimization are the main benefits of employing such a technique. AM technology is presently revolutionizing various industries such as electronics, biomedical, defense, and aerospace. Such technology can be complemented with standardized frameworks to attract industrial acceptance, such as in the construction industry. Offsite construction has the potential to improve construction efficiency by adopting AM. In this paper, the types of additive manufacturing processes were reviewed, with emphasis on applications in offsite construction. This information was complemented with a discussion on the types and mechanical properties of materials that can be produced using AM techniques, particularly metallic components. Strategies to assess cost and material considerations such as Production line Breakdown Structure (PBS) and Value Stream Mapping are highlighted. In addition, a comprehensive approach that evaluates the entire life cycle of the component was suggested when comparing AM techniques and conventional manufacturing options.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/biswas_kaushik"><b>Biswas</b> Kaushik</a>, <a href="../../../author/rose_james"><b>Rose</b> James</a>, <a href="../../../author/eikevik_leif"><b>Eikevik</b> Leif</a>, <a href="../../../author/guerguis_maged"><b>Guerguis</b> Maged</a> et al. <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../bisw_rose_eike_guer.2017.AMIE/">Additive Manufacturing Integrated Energy:<br/>Enabling Innovative Solutions for Buildings of the Future</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
@@ -113,8 +94,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/sameh_hazem"><b>Sameh</b> Hazem</a>, <a href="../../../author/fekry_mayar"><b>Fekry</b> Mayar</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mahd_same_fekr.2025.SSo3PECD/">Structural Stability of 3D-Printed Earthen Catenary Domes:<br/>Experimental and Analytical Insights</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/atalay_berrin"><b>Atalay</b> Berrin</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_atal.2025.PaBaAfSaHP3PC/">Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete</a></li>
       <li><a href="../../../author/anop_darya"><b>Anop</b> Darya</a>, <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>, <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../anop_sade_beis_rude.2025.AMaaAtCSiCSA/">Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment</a></li>
@@ -131,4 +112,34 @@ tags:
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pasc_lei_aran.2022.AMiOSC,
+      author            = "Jubert Pasco and Zhen Lei and Clodualdo Aranas",
+      title             = "Additive Manufacturing in Off-Site Construction: Review and Future Directions",
+      doi               = "10.3390/buildings12010053",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Pasco, Z. Lei and C. Aranas, “Additive Manufacturing in Off-Site Construction: Review and Future Directions”, <i>Buildings</i>, vol. 12, no. 1, 2022, doi: 10.3390/buildings12010053.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pasco, Jubert, Zhen Lei, and Clodualdo Aranas. “Additive Manufacturing in Off-Site Construction: Review and Future Directions”. <i>Buildings</i> 12, no. 1 (2022). https://doi.org/10.3390/buildings12010053.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

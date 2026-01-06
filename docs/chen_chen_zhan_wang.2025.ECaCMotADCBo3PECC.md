@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meng Chen, Jianhua Cheng, Tong Zhang, Yuting Wang
+    - footer
+title: Chen Meng, Cheng Jianhua, Zhang Tong, Wang Yuting
 description:
 tags:
  - anisotropy
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Characterization and Constitutive Modelling of the Anisotropic Dynamic Compressive Behavior of 3D Printed Engineered Cementitious Composites ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.105995" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.105995</a>
+#Experimental Characterization and Constitutive Modelling of the Anisotropic Dynamic Compressive Behavior of 3D Printed Engineered Cementitious Composites ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.105995" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.105995" target="_blank">10.1016/j.cemconcomp.2025.105995</a>
 
--------------------------
+<a href="../../../author/chen_meng"><b>Chen</b>&nbsp;Meng</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-5559-9117" title="ORCID: 0009-0008-5559-9117" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_jianhua"><b>Cheng</b>&nbsp;Jianhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_tong"><b>Zhang</b>&nbsp;Tong</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-7345-0562" title="ORCID: 0009-0007-7345-0562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yuting"><b>Wang</b>&nbsp;Yuting</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 160, No. 105995
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>
-,     <a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a> <a href="https://orcid.org/0009-0008-5559-9117" title="ORCID: 0009-0008-5559-9117" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="https://orcid.org/0009-0007-7345-0562" title="ORCID: 0009-0007-7345-0562" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 160, No. 105995
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#composite`](keyword/composite)
-    [`#compression`](keyword/compression)
-    [`#constitutive`](keyword/constitutive)
-    [`#dynamic`](keyword/dynamic)
-    [`#engineered`](keyword/engineered)
-    [`#experiment`](keyword/experiment)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Characterization%20and%20Constitutive%20Modelling%20of%20the%20Anisotropic%20Dynamic%20Compressive%20Behavior%20of%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000188606&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408253231" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.105995" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.105995?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Engineered cementitious composites (ECC) offer a potential solution to the weak tensile strength and cracking issues of 3D printed concrete (3DPC), while their great performance under dynamic loading helps to broaden the application scope of 3D printing technology. This study systematically investigates the relationship between the dynamic compressive properties and the anisotropic behavior of 3DP-ECC under various strain rates through ultrasonic pulse velocity, quasi-static and dynamic compression, as well as novel sieving tests. The results indicate that the dynamic compressive behavior of 3DP-ECC shows a pronounced strain rate dependency especially in the Z-direction, while the mechanical anisotropy coefficient of the 3DP specimens decreased by 14.2% as the strain rate rose from 60 s−1 to 120 s−1. In what follows, the fractal theory is applied to characterize the internal damage of 3DP-ECC in different orientations, indicating that the dynamic compressive strength and dissipation energy exhibit a linear relationship with the fractal dimension. Based on the modified viscoelastic theory and spatial transformation tensor method, the anisotropic damage dynamic compression constitutive model is developed to predict the stress-strain behavior of 3DP-ECC at different strain rates. The exploration of dynamic compression behavior and anisotropic constitutive relationships of 3DP-ECC provides a basis for further integrated practical applications under extreme strain rate conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
@@ -107,12 +81,42 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
       <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/sun_hao"><b>Sun</b> Hao</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_sun_wang_zhan.2025.RBIPSaADSBo3PECC/">Relationship Between Interfacial Pore Structure and Anisotropic Dynamic Splitting Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_chen_zhan_wang.2025.ECaCMotADCBo3PECC,
+      author            = "Meng Chen and Jianhua Cheng and Tong Zhang and Yuting Wang",
+      title             = "Experimental Characterization and Constitutive Modelling of the Anisotropic Dynamic Compressive Behavior of 3D Printed Engineered Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2025.105995",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "160",
+      pages             = "105995",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chen, J. Cheng, T. Zhang and Y. Wang, “Experimental Characterization and Constitutive Modelling of the Anisotropic Dynamic Compressive Behavior of 3D Printed Engineered Cementitious Composites”, <i>Cement and Concrete Composites</i>, vol. 160, p. 105995, 2025, doi: 10.1016/j.cemconcomp.2025.105995.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Meng, Jianhua Cheng, Tong Zhang, and Yuting Wang. “Experimental Characterization and Constitutive Modelling of the Anisotropic Dynamic Compressive Behavior of 3D Printed Engineered Cementitious Composites”. <i>Cement and Concrete Composites</i> 160 (2025): 105995. https://doi.org/10.1016/j.cemconcomp.2025.105995.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

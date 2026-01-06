@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yang Wang, Liu-Chao Qiu, Song-Gui Chen, Yi Liu
+    - footer
+title: Wang Yang, Qiu Liu-Chao, Chen Song-Gui, Liu Yi
 description:
 tags:
  - adhesion
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing in Air and Under Water:<br/>:aca-blank: A Comparative Study on the Buildability and Inter-Layer Adhesion ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.134403" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.134403</a>
+#3D Concrete Printing in Air and Under Water&nbsp;([2023-12](date/2023/12))
+<div class="h1-like">A Comparative Study on the Buildability and Inter-Layer Adhesion</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.134403" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134403" target="_blank">10.1016/j.conbuildmat.2023.134403</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yang"><b>Wang</b>&nbsp;Yang</a></span>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b>&nbsp;Liu-Chao</a></span>, <a href="../../../author/chen_song-gui"><b>Chen</b>&nbsp;Song-Gui</a></span>, <a href="../../../author/liu_yi"><b>Liu</b>&nbsp;Yi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 411, No. 134403
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> <a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>
-,     <a href="../../../author/chen_song-gui"><b>Chen</b> Song-Gui</a>
-,     <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 411, No. 134403
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#air`](keyword/air)
-    [`#buildability`](keyword/buildability)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20in%20Air%20and%20Under%20Water" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179756663&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389636017" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.134403" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.134403?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) technology is still in the early stages of research in the construction industry, and the development of underwater 3D concrete printing (U3DCP) based on this technology is still in its infancy. To promote the widespread application and adoption of U3DCP, a comprehensive understanding of the performance of 3D concrete printing in air and under water is crucial. In this study, the buildability and interlayer bonding of fresh concrete in different environments were evaluated and compared. The advantages of using water buoyancy to partially counterbalance the weight of concrete and enhance buildability, and the drawbacks of weakened interlayer bonding in a water environment were highlighted. Predictive formulas for the printable height of concrete printed in air and under water considering the impact of time intervals on the characteristics of the concrete, were proposed based on the relationship between the structural build-up coefficient and the height of the printed specimens. The interfacial adhesion of concrete printed in air was higher than that printed under water. However, the interlayer adhesion over time of concrete printed in air decreased faster than that printed under water. Permeability measurements on fresh concrete confirmed that water penetration is mainly responsible for the differences observed in interface adhesion.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
@@ -102,8 +80,9 @@ tags:
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
@@ -120,4 +99,34 @@ tags:
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wang_chen_zhan_zhan.2024.HPaMo3PECCBoLCCC/">Hardening Properties and Microstructure of 3D Printed Engineered Cementitious Composites Based on Limestone-Calcined-Clay-Cement</a></li>
       <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/dynowski_piotr"><b>Dynowski</b> Piotr</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../korn_gade_dyno_tran.2024.AMiUA/">Additive Manufacturing in Underwater Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_qiu_chen_liu.2024.3CPiAaUW,
+      author            = "Yang Wang and Liu-Chao Qiu and Song-Gui Chen and Yi Liu",
+      title             = "3D Concrete Printing in Air and Under Water: A Comparative Study on the Buildability and Inter-Layer Adhesion",
+      doi               = "10.1016/j.conbuildmat.2023.134403",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "411",
+      pages             = "134403",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, L.-C. Qiu, S.-G. Chen and Y. Liu, “3D Concrete Printing in Air and Under Water: A Comparative Study on the Buildability and Inter-Layer Adhesion”, <i>Construction and Building Materials</i>, vol. 411, p. 134403, 2024, doi: 10.1016/j.conbuildmat.2023.134403.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yang, Liu-Chao Qiu, Song-Gui Chen, and Yi Liu. “3D Concrete Printing in Air and Under Water: A Comparative Study on the Buildability and Inter-Layer Adhesion”. <i>Construction and Building Materials</i> 411 (2024): 134403. https://doi.org/10.1016/j.conbuildmat.2023.134403.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

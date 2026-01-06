@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bochao Sun, Randy Dominicus, Enlai Dong, Peichen Li, Zi Ye, Wei Wang
+    - footer
+title: Sun Bochao, Dominicus Randy, Dong Enlai, Li Peichen, Ye Zi, Wang Wei
 description:
 tags:
  - concrete
@@ -21,39 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity:<br/>:aca-blank: From Perspective of Modified Maturity-Model ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136291" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136291</a>
+#Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity&nbsp;([2024-04](date/2024/04))
+<div class="h1-like">From Perspective of Modified Maturity-Model</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136291" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136291" target="_blank">10.1016/j.conbuildmat.2024.136291</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_bochao"><b>Sun</b>&nbsp;Bochao</a></span>, <a href="../../../author/dominicus_randy"><b>Dominicus</b>&nbsp;Randy</a></span>, <a href="../../../author/dong_enlai"><b>Dong</b>&nbsp;Enlai</a></span>, <a href="../../../author/li_peichen"><b>Li</b>&nbsp;Peichen</a></span>, <a href="../../../author/ye_zi"><b>Ye</b>&nbsp;Zi</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 427, No. 136291
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a> <a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dominicus_randy"><b>Dominicus</b> Randy</a>
-,     <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>
-,     <a href="../../../author/li_peichen"><b>Li</b> Peichen</a>
-,     <a href="../../../author/ye_zi"><b>Ye</b> Zi</a>
-,     <a href="../../../author/wang_wei"><b>Wang</b> Wei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 427, No. 136291
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#cure`](keyword/cure)
-    [`#development`](keyword/development)
-    [`#effect`](keyword/effect)
-    [`#humidity`](keyword/humidity)
-    [`#maturity`](keyword/maturity)
-    [`#model`](keyword/model)
-    [`#modification`](keyword/modification)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#synergy`](keyword/synergy)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/humidity"><button class="btn">#humidity</button></a> <a href="../../keyword/maturity"><button class="btn">#maturity</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Predicting%20the%20Strength%20Development%20of%203D%20Printed%20Concrete%20Considering%20the%20Synergistic%20Effect%20of%20Curing-Temperature%20and%20Humidity" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190732774&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394946351" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136291" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136291?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to establish a development model for the compressive strength of 3D printed concrete (3DPC) under the coupling influence of temperature and humidity, utilizing the maturity method. Initially, diverse curing conditions were applied to 3D printed specimens, incorporating varying temperatures (10 °C, 20 °C, 40 °C) and relative humidity levels (100% RH, 80% RH, 60% RH, 40% RH), with strength value assessed at different ages. Subsequently, a maturity model for humidity modification was proposed, and the model was calibrated through experimental results. The results show that the strength of the specimens increases over time, irrespective of the variations in curing temperatures and humidity levels. Moreover, with a decrease in humidity level, a more pronounced decline in strength is observed. Furthermore, the anisotropy index values of the rate constant in the Y-direction specimen, when cured at temperatures of 10 °C and higher humidity conditions, such as 100% RH and 80% RH, exhibit significant variations across different temperatures and moisture levels, leading to increased anisotropies. The modified maturity model can be used to predict and evaluate the strength development of 3D PC under different environmental conditions with high accuracy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -118,8 +90,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
@@ -130,4 +102,34 @@ tags:
       <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/widmann_robert"><b>Widmann</b> Robert</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../raza_mans_sakh_widm.2025.LTBo3PCFfRSUEAL/">Load Transfer Behavior of 3D Printed Concrete Formwork for Ribbed Slabs Under Eccentric Axial Loads</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_domi_dong_li.2024.PtSDo3PCCtSEoCTaH,
+      author            = "Bochao Sun and Randy Dominicus and Enlai Dong and Peichen Li and Zi Ye and Wei Wang",
+      title             = "Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity: From Perspective of Modified Maturity-Model",
+      doi               = "10.1016/j.conbuildmat.2024.136291",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "427",
+      pages             = "136291",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Sun, R. Dominicus, E. Dong, P. Li, Z. Ye and W. Wang, “Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity: From Perspective of Modified Maturity-Model”, <i>Construction and Building Materials</i>, vol. 427, p. 136291, 2024, doi: 10.1016/j.conbuildmat.2024.136291.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Bochao, Randy Dominicus, Enlai Dong, Peichen Li, Zi Ye, and Wei Wang. “Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity: From Perspective of Modified Maturity-Model”. <i>Construction and Building Materials</i> 427 (2024): 136291. https://doi.org/10.1016/j.conbuildmat.2024.136291.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

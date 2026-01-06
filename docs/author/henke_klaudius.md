@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Henke Klaudius 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/buschmann_birger"><b>Buschmann</b> Birger</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/asshoff_carsten"><b>Asshoff</b> Carsten</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../busc_henk_assh_talk.2024.AMoWCPbILF/">Additive Manufacturing of Wood-Composite-Parts by Individual Layer Fabrication:<br/>Influence of Process Parameters on Product Properties</a></li>
   <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wege_talk_lowk_henk.2022.AMoFFCEbSBwCSBC/">Additive Manufacturing of Free-Formed Concrete Elements by Selective Binding with Calcium Silicate-Based Cements</a></li>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2b/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>

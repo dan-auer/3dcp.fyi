@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianguo Cai, Jingsong Wang, Qian Zhang, Caixia Du, Marco Meloni, Jian Feng
+    - footer
+title: Cai Jianguo, Wang Jingsong, Zhang Qian, Du Caixia, Meloni Marco, Feng Jian
 description:
 tags:
  - concrete
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03847) State of the Art of Mechanical Properties of 3D Printed Concrete ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03847" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03847</a>
+#State of the Art of Mechanical Properties of 3D Printed Concrete ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03847) <a href="https://doi.org/10.1016/j.cscm.2024.e03847" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03847" target="_blank">10.1016/j.cscm.2024.e03847</a>
 
--------------------------
+<a href="../../../author/cai_jianguo"><b>Cai</b>&nbsp;Jianguo</a></span>, <a href="../../../author/wang_jingsong"><b>Wang</b>&nbsp;Jingsong</a></span>, <a href="../../../author/zhang_qian"><b>Zhang</b>&nbsp;Qian</a></span>, <a href="../../../author/du_caixia"><b>Du</b>&nbsp;Caixia</a></span>, <a href="../../../author/meloni_marco"><b>Meloni</b>&nbsp;Marco</a></span>, <a href="../../../author/feng_jian"><b>Feng</b>&nbsp;Jian</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e03847
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cai_jianguo"><b>Cai</b> Jianguo</a>
-,     <a href="../../../author/wang_jingsong"><b>Wang</b> Jingsong</a>
-,     <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a>
-,     <a href="../../../author/du_caixia"><b>Du</b> Caixia</a>
-,     <a href="../../../author/meloni_marco"><b>Meloni</b> Marco</a>
-,     <a href="../../../author/feng_jian"><b>Feng</b> Jian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e03847
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=State%20of%20the%20Art%20of%20Mechanical%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206684282&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403425159" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03847" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03847?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The utilization of 3D printing in civil engineering has expedited the progression of intelligent construction and building industrialization. A plethora of studies in recent years have contributed to the advancement of 3D printed concrete technology. In contrast to traditional concrete construction techniques, 3D printed concrete technology offers additional benefits such as cost-effectiveness, reduced environmental impact, and a simpler process. The mechanical properties of 3D printed concrete are crucial for its application in building structures. This article provides a comprehensive review of the latest research endeavors in 3D printed concrete, covering both research and application. Firstly, this manuscript examines the size parameters and fabrication methods of the specimens utilized for mechanical performance tests. Subsequently, the mechanical properties of 3D printed concrete are described, and the effect of time-gap as a significant parameter on the performance of 3D printed concrete is discussed. Finally, the existing 3D printed concrete reinforcement technologies and their applications are summarized and categorized based on fibers and steel bars. Moreover, the key technical obstacles in the application of 3D printed concrete in building structures are identified. The ultimate objective of this article is to chart a course for the development and implementation of 3D printed concrete in building structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "110 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../aram_cald_puen.2022.BSoSRPttH3PCL/">Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers</a></li>
@@ -174,8 +153,8 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/soshinskiy_olexander"><b>Soshinskiy</b> Olexander</a>, <a href="../../../author/rashkevich_nina"><b>Rashkevich</b> Nina</a>, <a href="../../../author/shakhov_stanislav"><b>Shakhov</b> Stanislav</a>, <a href="../../../author/melnychenko_andrii"><b>Melnychenko</b> Andrii</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sosh_rash_shak_meln.2025.FaCMfAtSCoBSCwaC3P/">Formulating a Calculation Methodology for Assessing the Strength Characteristics of Building Structures Constructed with a Construction 3D Printer</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
@@ -189,4 +168,33 @@ tags:
       <li><a href="../../../author/gao_jianhao"><b>Gao</b> Jianhao</a>, <a href="../../../author/niu_yujun"><b>Niu</b> Yujun</a>, <a href="../../../author/wang_chaofeng"><b>Wang</b> Chaofeng</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../gao_niu_wang.2025.LHP/">Linear Helical Printing:<br/>A Novel Approach to 3D Printing Concrete Structures with Enhanced Integrity</a></li>
       <li><a href="../../../author/yassin_m_ahmed"><b>Yassin</b> Ahmed</a>, <a href="../../../author/hafez_ahmed_mohamed"><b>Hafez</b> Mohamed</a>, <a href="../../../author/aboelhassan_gamal_mohamed"><b>Aboelhassan</b> Mohamed</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yass_hafe_aboe.2025.EaNIotEoDToSFotFBaMPo3CCPPwCCIAP/">Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cai_wang_zhan_du.2024.SotAoMPo3PC,
+      author            = "Jianguo Cai and Jingsong Wang and Qian Zhang and Caixia Du and Marco Meloni and Jian Feng",
+      title             = "State of the Art of Mechanical Properties of 3D Printed Concrete",
+      doi               = "10.1016/j.cscm.2024.e03847",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e03847",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Cai, J. Wang, Q. Zhang, C. Du, M. Meloni and J. Feng, “State of the Art of Mechanical Properties of 3D Printed Concrete”, <i>Case Studies in Construction Materials</i>, p. e03847, 2024, doi: 10.1016/j.cscm.2024.e03847.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cai, Jianguo, Jingsong Wang, Qian Zhang, Caixia Du, Marco Meloni, and Jian Feng. “State of the Art of Mechanical Properties of 3D Printed Concrete”. <i>Case Studies in Construction Materials</i>, 2024, e03847. https://doi.org/10.1016/j.cscm.2024.e03847.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

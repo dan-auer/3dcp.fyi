@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Song, Guangyu Zhou, Hailing Bao, Qiong Liu
+    - footer
+title: Song Qiang, Zhou Guangyu, Bao Hailing, Liu Qiong
 description:
 tags:
  - carbonation
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/22/4036/pdf?version=1762677630) Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar ([2025-11](date/2025/11))
-<a href="https://doi.org/10.3390/buildings15224036" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15224036</a>
+#Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar ([2025-11](date/2025/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/22/4036/pdf?version=1762677630) <a href="https://doi.org/10.3390/buildings15224036" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15224036" target="_blank">10.3390/buildings15224036</a>
 
--------------------------
+<a href="../../../author/song_qiang"><b>Song</b>&nbsp;Qiang</a></span>, <a href="../../../author/zhou_guangyu"><b>Zhou</b>&nbsp;Guangyu</a></span>, <a href="../../../author/bao_hailing"><b>Bao</b>&nbsp;Hailing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_qiong"><b>Liu</b>&nbsp;Qiong</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 22, No. 4036
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/song_qiang"><b>Song</b> Qiang</a>
-,     <a href="../../../author/zhou_guangyu"><b>Zhou</b> Guangyu</a>
-,     <a href="../../../author/bao_hailing"><b>Bao</b> Hailing</a>
-,     <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 22, No. 4036
-
-:aca-blank:{ .lg .middle}
-    [`#carbonation`](keyword/carbonation)
-    [`#construction`](keyword/construction)
-    [`#effect`](keyword/effect)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixing`](keyword/mixing)
-    [`#mortar`](keyword/mortar)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Effects%20of%20Nozzle%20Proximal%20Carbonation%20Mixing%20and%20Vacuum%20Dewatering%20on%20the%20Printability%20and%20Mechanical%20Properties%20of%20the%203D%20Printed%20Construction%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023099653&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7104548604" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15224036" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15224036?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the printability and mechanical properties of 3D printed construction mortar (3DPCM) through the methods of vacuum dewatering and carbonation mixing, wherein flowability and extrudability serve as critical indicators of mortar printability. The results demonstrate that for mortar with a low water-to-binder ratio, both carbonation mixing and vacuum dewatering significantly reduce its rheological properties. Although a reduction in rheological performance is also observed in mortar with a high water-to-binder ratio by 7%, the effect is less pronounced. Furthermore, either carbonation mixing or vacuum dewatering effectively enhances printability, enabling highly flowable mortar to exhibit favorable printing performance while also markedly accelerating the hardening rate, thereby improving the shape retention of printed specimens. Additionally, the compressive strength can be enhanced by 4.1–4.6%. The printing process incorporating carbonation mixing or vacuum dewatering can enhance the interlayer bonding strength of mortar with high flowability; however, when both methods are applied simultaneously, the interlayer strength may decrease due to excessively rapid hardening. The final results indicate that vacuum dewatering and carbonation mixing can effectively improve the printability and buildability of more fluid mortar, providing feasibility for directly applying a wider range of mix proportions in printer-based manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
@@ -86,7 +62,38 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{song_zhou_bao_liu.2025.SotEoNPCMaVDotPaMPot3PCM,
+      author            = "Qiang Song and Guangyu Zhou and Hailing Bao and Qiong Liu",
+      title             = "Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar",
+      doi               = "10.3390/buildings15224036",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "22",
+      pages             = "4036",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Song, G. Zhou, H. Bao and Q. Liu, “Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar”, <i>Buildings</i>, vol. 15, no. 22, p. 4036, 2025, doi: 10.3390/buildings15224036.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Song, Qiang, Guangyu Zhou, Hailing Bao, and Qiong Liu. “Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar”. <i>Buildings</i> 15, no. 22 (2025): 4036. https://doi.org/10.3390/buildings15224036.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

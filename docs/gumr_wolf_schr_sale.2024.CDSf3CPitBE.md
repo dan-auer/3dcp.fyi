@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Idil Gümrük, Robert Wolfs, Torsten Schröder, Theo Salet
+    - footer
+title: Gümrük Idil, Wolfs Robert, Schröder Torsten, Salet Theo
 description:
 tags:
  - buildability
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-# Circular Design-Strategies for 3D Concrete Printing in the Built Environment ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24355/dbbs.084-202408130840-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24355/dbbs.084-202408130840-0</a>
+#Circular Design-Strategies for 3D Concrete Printing in the Built Environment ([2024-09](date/2024/09))
+ <a href="https://doi.org/10.24355/dbbs.084-202408130840-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202408130840-0" target="_blank">10.24355/dbbs.084-202408130840-0</a>
 
--------------------------
+<a href="../../../author/gumruk_idil"><b>Gümrük</b>&nbsp;Idil</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3162-6199" title="ORCID: 0000-0003-3162-6199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schroder_w-a_torsten"><b>Schröder</b>&nbsp;Torsten</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gumruk_idil"><b>Gümrük</b> Idil</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schroder_w-a_torsten"><b>Schröder</b> Torsten</a> <a href="https://orcid.org/0000-0003-3162-6199" title="ORCID: 0000-0003-3162-6199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#circular`](keyword/circular)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#environment`](keyword/environment)
-    [`#print`](keyword/print)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Circular%20Design-Strategies%20for%203D%20Concrete%20Printing%20in%20the%20Built%20Environment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,22 +37,47 @@ tags:
 <a href="https://inciteful.xyz/p/W6944906837" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24355/dbbs.084-202408130840-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24355/dbbs.084-202408130840-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry aims to address its large environmental footprint and waste generation. To reduce the environmental impact of the built environment, there is a tran-sition towards a circular economic model on the national and European level. Digital fabrication is presented as a viable direction towards lowering the environmental impact through optimized forms and reduced construction waste. Concrete being the most used material in construction, 3D Concrete Printing (3DCP) also became one of the more popular digital fabrication methods. With circularity in mind, there have been various studies on the life cycle assessment (LCA) of 3DCP materials and processes [1], [2]. While these studies are invaluable, in this context, the qualities of designs are often out of the scope of LCA. In this study, we evaluate 3DCP projects in practice and academia, to map existing design practices and determine their degree of circularity. For assessment, we will use a circularity indicator (C-Indicator) which has been developed for the context of 3DCP, by adapting existing C-indicators that are designed to assess the circularity of tradition-ally constructed buildings. Through this assessment, we underline and encourage the circular practices in 3DCP, as the technology develops. In this extended abstract, we’ll briefly discuss the findings of the study through one of the projects; Project Milestone, the first of a series of 3D printed concrete houses in the Netherlands[3].
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../kuzm_duco_fera_rous.2022.EIoEBAM/">Environmental Impact of Extrusion-Based Additive Manufacturing:<br/>Generic Model, Power-Measurements and Influence of Printing-Resolution</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../wolf_bos_sale.2023.LLoPM/">Lessons Learned of Project Milestone:<br/>The First 3D Printed Concrete House in the Netherlands</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gumr_wolf_schr_sale.2024.CDSf3CPitBE,
+      author            = "Idil Gümrük and Robert Johannes Maria Wolfs and Torsten W. A. Schröder and Theo A. M. Salet",
+      title             = "Circular Design-Strategies for 3D Concrete Printing in the Built Environment",
+      doi               = "10.24355/dbbs.084-202408130840-0",
+      year              = "2024",
+      booktitle         = "Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Gümrük, R. J. M. Wolfs, T. W. A. Schröder and T. A. M. Salet, “Circular Design-Strategies for 3D Concrete Printing in the Built Environment”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408130840-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gümrük, Idil, Robert Johannes Maria Wolfs, Torsten W. A. Schröder, and Theo A. M. Salet. “Circular Design-Strategies for 3D Concrete Printing in the Built Environment”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408130840-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

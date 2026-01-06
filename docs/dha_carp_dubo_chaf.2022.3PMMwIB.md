@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Romain D'Haese, Olivier Carpentier, Vincent Dubois, Sawsen Chafei, Eric Wirquin
+    - footer
+title: D'Haese Romain, Carpentier Olivier, Dubois Vincent, Chafei Sawsen, Wirquin Eric
 description:
 tags:
  - byproduct
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/14/21/14236/pdf?version=1667890512) 3D Printable Materials Made with Industrial Byproducts:<br/>:aca-blank: Formulation, Fresh and Hardened Properties ([2022-10](date/2022/10))
-<a href="https://doi.org/10.3390/su142114236" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su142114236</a>
+#3D Printable Materials Made with Industrial Byproducts&nbsp;([2022-10](date/2022/10))
+<div class="h1-like">Formulation, Fresh and Hardened Properties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/14/21/14236/pdf?version=1667890512) <a href="https://doi.org/10.3390/su142114236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su142114236" target="_blank">10.3390/su142114236</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3526-8782" title="ORCID: 0000-0002-3526-8782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dhaese_romain"><b>D'Haese</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7788-6132" title="ORCID: 0000-0002-7788-6132" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carpentier_olivier"><b>Carpentier</b>&nbsp;Olivier</a></span>, <a href="../../../author/dubois_vincent"><b>Dubois</b>&nbsp;Vincent</a></span>, <a href="../../../author/chafei_sawsen"><b>Chafei</b>&nbsp;Sawsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5248-5247" title="ORCID: 0000-0001-5248-5247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wirquin_eric"><b>Wirquin</b>&nbsp;Eric</a></span><br>
+Journal Article - Sustainability, Vol. 14, Iss. 21
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dhaese_romain"><b>D'Haese</b> Romain</a> <a href="https://orcid.org/0000-0002-3526-8782" title="ORCID: 0000-0002-3526-8782" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/carpentier_olivier"><b>Carpentier</b> Olivier</a> <a href="https://orcid.org/0000-0002-7788-6132" title="ORCID: 0000-0002-7788-6132" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dubois_vincent"><b>Dubois</b> Vincent</a>
-,     <a href="../../../author/chafei_sawsen"><b>Chafei</b> Sawsen</a>
-,     <a href="../../../author/wirquin_eric"><b>Wirquin</b> Eric</a> <a href="https://orcid.org/0000-0001-5248-5247" title="ORCID: 0000-0001-5248-5247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 14, Iss. 21, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#byproduct`](keyword/byproduct)
-    [`#formulas`](keyword/formulas)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#industry`](keyword/industry)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/byproduct"><button class="btn">#byproduct</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Materials%20Made%20with%20Industrial%20Byproducts" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148378016&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4308118663" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su142114236" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su142114236?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Growing in the field of construction, 3D printing allows to build non-standard shapes and to optimise the use of resources. The development of printable materials requires good control of the fresh state of the material—between mixing and printing, a printable material has to evolve from fluid matter to be pumpable (extrudability) up to a matter supporting its own weight and those of superior layers (buildability). Our researches are focused on printable materials used in large printers, i.e., printers able to build structural pieces for buildings. As many pumps and printers can be used to achieve a wide range of parts, this paper presents a simple method to provide valuable guidance to users when a decision needs to be made about printable materials. In this context, our researches both try to maximise the use of industrial by-products to reduce the environmental cost of printed material and to propose tests easy to carry out in the field. Consequently, on the one hand, some printable materials that mainly include quarry washing fines have been developed and, on the other hand, Fall cone and Vicat tests have been used to determine the printability limit. By not focusing on a single formula, the novelty of this paper is to present to readers some parametric models, i.e., a methodology that can be used according to their own devices and applications. Based on a design of experiments, 20 formulas have been tested. Parameters that influence the quality of printing are highlighted. Mechanical tests results at hardened state and shrinkage measurements are also shown to demonstrate the ability of some formulas to be structural materials: compressive strengths at 28 days between 7.50 MPa and 18.40 MPa.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
@@ -95,12 +73,42 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/khairnar_neha"><b>Khairnar</b> Neha</a>, <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b> Ulka</a>, <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b> Shilpa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_khai_daha_mash.2025.RoSi3CP/">Review on Sustainability in 3D Concrete Printing:<br/>Focus on Waste Utilization and Life Cycle Assessment</a></li>
       <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF/">3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers</a></li>
       <li><a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a>, <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../roch_fari_luca.2024.AMoEBM/">Additive Manufacturing of Earth-Based Materials:<br/>A Literature Review on Mortar-Composition, Extrusion, and Processing Earth</a></li>
       <li><a href="../../../author/dang_thuy-hang_thi"><b>Dang</b> Thi</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../dang_tran.2024.VotABCPLia3CPS/">Variation of the Adhesion Between Concrete Printed Layers in a 3D Concrete Printed Structure</a></li>
       <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../dahe_klei_benz_abri.2023.TDoSB3PM/">The Development of Soil-Based 3D Printable Mixtures:<br/>A Mix-Design Methodology and a Case Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dha_carp_dubo_chaf.2022.3PMMwIB,
+      author            = "Romain D'Haese and Olivier Carpentier and Vincent Dubois and Sawsen Chafei and Eric Wirquin",
+      title             = "3D Printable Materials Made with Industrial Byproducts: Formulation, Fresh and Hardened Properties",
+      doi               = "10.3390/su142114236",
+      year              = "2022",
+      journal           = "Sustainability",
+      volume            = "14",
+      number            = "21",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. D'Haese, O. Carpentier, V. Dubois, S. Chafei and E. Wirquin, “3D Printable Materials Made with Industrial Byproducts: Formulation, Fresh and Hardened Properties”, <i>Sustainability</i>, vol. 14, no. 21, 2022, doi: 10.3390/su142114236.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">D'Haese, Romain, Olivier Carpentier, Vincent Dubois, Sawsen Chafei, and Eric Wirquin. “3D Printable Materials Made with Industrial Byproducts: Formulation, Fresh and Hardened Properties”. <i>Sustainability</i> 14, no. 21 (2022). https://doi.org/10.3390/su142114236.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

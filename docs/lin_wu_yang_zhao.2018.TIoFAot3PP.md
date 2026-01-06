@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jia Lin, Xiong Wu, Wen Yang, Ri Zhao, L. Qiao
+    - footer
+title: Lin Jia, Wu Xiong, Yang Wen, Zhao Ri, Qiao L.
 description:
 tags:
  - aggregate
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://iopscience.iop.org/article/10.1088/1757-899X/292/1/012079/pdf) The Influence of Fine Aggregates on the 3D Printing Performance ([2018-02](date/2018/02))
-<a href="https://doi.org/10.1088/1757-899x/292/1/012079" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1757-899x/292/1/012079</a>
+#The Influence of Fine Aggregates on the 3D Printing Performance ([2018-02](date/2018/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1757-899X/292/1/012079/pdf) <a href="https://doi.org/10.1088/1757-899x/292/1/012079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/292/1/012079" target="_blank">10.1088/1757-899x/292/1/012079</a>
 
--------------------------
+<a href="../../../author/lin_chao_jia"><b>Lin</b>&nbsp;Jia</a></span>, <a href="../../../author/wu_xiong"><b>Wu</b>&nbsp;Xiong</a></span>, <a href="../../../author/yang_wen"><b>Yang</b>&nbsp;Wen</a></span>, <a href="../../../author/zhao_xu_ri"><b>Zhao</b>&nbsp;Ri</a></span>, <a href="../../../author/qiao_g_l"><b>Qiao</b>&nbsp;L.</a></span><br>
+Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 292
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lin_chao_jia"><b>Lin</b> Jia</a>
-,     <a href="../../../author/wu_xiong"><b>Wu</b> Xiong</a>
-,     <a href="../../../author/yang_wen"><b>Yang</b> Wen</a>
-,     <a href="../../../author/zhao_xu_ri"><b>Zhao</b> Ri</a>
-,     <a href="../../../author/qiao_g_l"><b>Qiao</b> L.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 292, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#fine`](keyword/fine)
-    [`#influence`](keyword/influence)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Influence%20of%20Fine%20Aggregates%20on%20the%203D%20Printing%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85042322902&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,21 +35,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2789996562" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1757-899x/292/1/012079" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1757-899x/292/1/012079?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Influences of nature Particle, size, grain shape and fineness modulus of fine aggregates on the 3D printing performance of cement-based mortar were investigated. Results showed that the working performance of the mortar is not only dependent on the fineness of the aggregate, but also the gradation and grain size of the aggregate. And the mechanical properties of the mortar are increasing with the increase of Mx in the same test condition. The research shows that it is effective to choose different properties of materials for different design requirements, and the fluidity of mortar must be decreased under assuring construction quality and the pumpability of 3D printing materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chhabra_gulshan"><b>Chhabra</b> Gulshan</a>, <a href="../../../author/gupta_anjali"><b>Gupta</b> Anjali</a>, <a href="../../../author/bali_rajan"><b>Bali</b> Rajan</a>, <a href="../../../author/tanwar_lovesh"><b>Tanwar</b> Lovesh</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chha_gupt_bali_tanw.2024.ASiC/">Advancing Sustainability in Construction:<br/>A Comprehensive Study on 3D-Printed Concrete Technologies</a></li>
       <li><a href="../../../author/pour_k_arash"><b>Pour</b> Arash</a>, <a href="../../../author/farsangi_noroozinejad_ehsan"><b>Farsangi</b> Ehsan</a>, <a href="../../../author/yang_y_t"><b>Yang</b> T.</a>, <a href="../../../author/li_shaofan"><b>Li</b> Shaofan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pour_fars_yang_li.2025.3PoCaGC/">3D Printing of Conventional and Geopolymer Concretes:<br/>Advancements, Challenges, Future Directions, and Cost Analysis</a></li>
       <li><a href="../../../author/shi_ye"><b>Shi</b> Ye</a>, <a href="../../../author/han_li"><b>Han</b> Li</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a>, <a href="../../../author/dai_kaichao"><b>Dai</b> Kaichao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../shi_han_wu_dai.2025.Do3PGUHPCBoBSO/">Design of 3D Printing Green Ultra-High Performance Concrete Based on Binder System Optimization</a></li>
@@ -82,4 +62,33 @@ tags:
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lin_wu_yang_zhao.2018.TIoFAot3PP,
+      author            = "Jia Chao Lin and Xiong Wu and Wen Yang and Ri Xu Zhao and L. G. Qiao",
+      title             = "The Influence of Fine Aggregates on the 3D Printing Performance",
+      doi               = "10.1088/1757-899x/292/1/012079",
+      year              = "2018",
+      journal           = "IOP Conference Series: Materials Science and Engineering",
+      volume            = "292",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. C. Lin, X. Wu, W. Yang, R. X. Zhao and L. G. Qiao, “The Influence of Fine Aggregates on the 3D Printing Performance”, <i>IOP Conference Series: Materials Science and Engineering</i>, vol. 292, 2018, doi: 10.1088/1757-899x/292/1/012079.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lin, Jia Chao, Xiong Wu, Wen Yang, Ri Xu Zhao, and L. G. Qiao. “The Influence of Fine Aggregates on the 3D Printing Performance”. <i>IOP Conference Series: Materials Science and Engineering</i> 292 (2018). https://doi.org/10.1088/1757-899x/292/1/012079.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

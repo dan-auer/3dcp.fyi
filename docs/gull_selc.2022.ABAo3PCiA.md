@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nur Gülle, Semra Selçuk
+    - footer
+title: Gülle Nur, Selçuk Semra
 description:
 tags:
  - analysis
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Bibliometric Analysis on 3D Printed Concrete in Architecture ([2021-08](date/2021/08))
-<a href="https://doi.org/10.1007/978-3-030-75235-4_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-75235-4_5</a>
+#A Bibliometric Analysis on 3D Printed Concrete in Architecture ([2021-08](date/2021/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-75235-4_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-75235-4_5" target="_blank">10.1007/978-3-030-75235-4_5</a>
 
--------------------------
+<a href="../../../author/gulle_banu_nur"><b>Gülle</b>&nbsp;Nur</a></span>, <a href="../../../author/selcuk_arslan_semra"><b>Selçuk</b>&nbsp;Semra</a></span><br>
+Contribution - Sustainability for 3D Printing, pp. 77-104
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gulle_banu_nur"><b>Gülle</b> Nur</a>
-,     <a href="../../../author/selcuk_arslan_semra"><b>Selçuk</b> Semra</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Sustainability for 3D Printing, pp. 77-104
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#architecture`](keyword/architecture)
-    [`#bibliometry`](keyword/bibliometry)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/bibliometry"><button class="btn">#bibliometry</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Bibliometric%20Analysis%20on%203D%20Printed%20Concrete%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201283672&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,24 +35,19 @@ tags:
 <a href="https://inciteful.xyz/p/W3197833419" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-75235-4_5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-75235-4_5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technologies with its advantages such as speed, precision, on-site direct printing, non-stop production, using an adequate amount of material, and manufacturing complex shapes, are effective laboratories for researchers working in field of architectural design. With these technologies, almost any kind of plasticized material can be used and many forms and structures can be printed from scale models to the one-to-one scale end products. With the introduction of concrete, the most widely used material in the construction industry, to the 3D printers, revolutionary developments have occurred in building construction. Although the studies proceed with an experimental approach, authorities argue that this form of production will shift the paradigm of building construction. This article discusses what kinds of change/transformation caused by the technological changes/developments are experienced in the Construction 4.0 process, as one of the most important items of the construction industry: “building with concrete”. This discussion has been conducted through the articles written in English between 2000 and 2020, collected with a comprehensive literature review of ISI Web of Science Database. Keyword scanning is limited with concrete/3D printing/digital production and articles containing a combination of these terms in the title/summary/keywords have been included. In this context, cooperation networks between leading countries, institutions, and actors have been presented while the latest developments related to the use of concrete in 3D printers have been revealed in this bibliometric analysis, and it has been possible to show these networks through clustering technics. It is thought that, by tracing the correlations between the keywords, interfaces of research on forms, materials, technology, and architectural applications that need more research will also be determined.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
-      <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/seylabi_elnaz"><b>Seylabi</b> Elnaz</a>, <a href="../../../author/ekenel_mahmut"><b>Ekenel</b> Mahmut</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kaze_seyl_eken.2022.C3P/">Concrete 3D Printing:<br/>Challenges and Opportunities for the Construction Industry</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
@@ -85,7 +67,37 @@ tags:
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gull_selc.2022.ABAo3PCiA,
+      author            = "Nur Banu Gülle and Semra Arslan Selçuk",
+      title             = "A Bibliometric Analysis on 3D Printed Concrete in Architecture",
+      doi               = "10.1007/978-3-030-75235-4_5",
+      year              = "2022",
+      pages             = "77--104",
+      booktitle         = "Sustainability for 3D Printing",
+      editor            = "Kamalpreet Sandhu and Sunpreet Singh and Chander Prakash and Karupppasamy Subburaj and Seeram Ramakrishna",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. B. Gülle  and S. A. Selçuk, “A Bibliometric Analysis on 3D Printed Concrete in Architecture”, in <i>Sustainability for 3D Printing</i>,  2022, pp. 77–104. doi: 10.1007/978-3-030-75235-4_5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gülle, Nur Banu, and Semra Arslan Selçuk. “A Bibliometric Analysis on 3D Printed Concrete in Architecture”. In <i>Sustainability for 3D Printing</i>, edited by Kamalpreet Sandhu, Sunpreet Singh, Chander Prakash, Karupppasamy Subburaj, and Seeram Ramakrishna, 77–104, 2022. https://doi.org/10.1007/978-3-030-75235-4_5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

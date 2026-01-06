@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lucia Licciardello, Alejandro Soto, Walter Kaufmann, Giovanni Metelli
+    - footer
+title: Licciardello Lucia, Soto Alejandro, Kaufmann Walter, Metelli Giovanni
 description:
 tags:
  - angle
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1002/suco.202400238) Determining the Strength of 3D Printed Concrete with the Modified Slant-Shear-Test ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1002/suco.202400238" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.202400238</a>
+#Determining the Strength of 3D Printed Concrete with the Modified Slant-Shear-Test ([2025-01](date/2025/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1002/suco.202400238) <a href="https://doi.org/10.1002/suco.202400238" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202400238" target="_blank">10.1002/suco.202400238</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5119-7390" title="ORCID: 0000-0001-5119-7390" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/licciardello_lucia"><b>Licciardello</b>&nbsp;Lucia</a></span>, <a href="../../../author/soto_giraldo_alejandro"><b>Soto</b>&nbsp;Alejandro</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaufmann_walter"><b>Kaufmann</b>&nbsp;Walter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4334-4108" title="ORCID: 0000-0002-4334-4108" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/metelli_giovanni"><b>Metelli</b>&nbsp;Giovanni</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/licciardello_lucia"><b>Licciardello</b> Lucia</a> <a href="https://orcid.org/0000-0001-5119-7390" title="ORCID: 0000-0001-5119-7390" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/soto_giraldo_alejandro"><b>Soto</b> Alejandro</a>
-,     <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/metelli_giovanni"><b>Metelli</b> Giovanni</a> <a href="https://orcid.org/0000-0002-4334-4108" title="ORCID: 0000-0002-4334-4108" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#angle`](keyword/angle)
-    [`#concrete`](keyword/concrete)
-    [`#determination`](keyword/determination)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#shear`](keyword/shear)
-    [`#strength`](keyword/strength)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/angle"><button class="btn">#angle</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Determining%20the%20Strength%20of%203D%20Printed%20Concrete%20with%20the%20Modified%20Slant-Shear-Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214830479&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406346871" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.202400238" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.202400238?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study deals with the assessment of the load-bearing capacity of layered 3D printed concrete (3DPC) using a modified slant shear test (MSST) to define a Mohr's envelope. To this aim, the established modified Coulomb yield condition of the concrete is complemented by a Coulomb failure criterion of the layer joints (cold or dry joints). Due to the anisotropy inherent to 3DPC elements, caused by the interlayer of printed concrete, the test setups commonly used for conventional concrete are inadequate to assess the load-bearing capacity of 3DPC. A total of 45 3DPC specimens with different inclinations of the concrete printed layers, including a cold joint with 30 min time gap were tested using the MSST. The results showed a high strength of the interfaces with two different failure modes, depending on the inclination of the layers: (i) concrete matrix failure and (ii) layer interface failure, where the latter governed for layer inclinations of 60 and 75 with respect to the horizontal plane. The test campaign confirms that the proposed MSST is a highly practical test method that enables determining the parameters governing a Mohr's envelope of layered 3DPC and can thus be used to reliably characterize its load-bearing capacity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/lin_wei_che"><b>Lin</b> Che</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/wang_mingyang"><b>Wang</b> Mingyang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../anto_lin_skev_wang.2024.TA/">Tor Alva:<br/>A 3D Concrete Printed Tower</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -101,12 +79,40 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sun_qian_chen.2025.BIJISIfEFRo3PSHCC/">Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/luo_rui"><b>Luo</b> Rui</a>, <a href="../../../author/sun_bin"><b>Sun</b> Bin</a>, <a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../luo_sun_fei_du.2025.ISLi3PCDtTGIM/">Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity</a></li>
       <li><a href="../../../author/tian_xin"><b>Tian</b> Xin</a>, <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/fang_zhi"><b>Fang</b> Zhi</a>, <a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tian_shi_fang_lin.2025.MIEoMBi3PCSK/">Multi-Interface Effects on Mechanical Behavior in 3D-Printed Concrete Shear Keys:<br/>A Finite Element Modeling Strategy</a></li>
       <li><a href="../../../author/yao_jiaxu"><b>Yao</b> Jiaxu</a>, <a href="../../../author/luo_jie"><b>Luo</b> Jie</a>, <a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/nagai_kohei"><b>Nagai</b> Kohei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../yao_luo_qiu_naga.2025.MMoACBaPOPo3PCwSBU3R/">Mesoscale Modeling of Anisotropic Compressive Behavior and Pull-Out Performance of 3D Printed Concrete with Steel Bars Using 3D RBSM</a></li>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/wolde_gezachew_japi"><b>Wolde</b> Japi</a>, <a href="../../../author/joda_akram"><b>Joda</b> Akram</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mans_wold_joda.2025.TPoSaaSIf3CPBW/">The Potential of Sand as a Sustainable Infill for 3D Concrete Printed Building Walls</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{licc_soto_kauf_mete.2025.DtSo3PCwtMSST,
+      author            = "Lucia Licciardello and Alejandro Giraldo Soto and Walter Kaufmann and Giovanni Metelli",
+      title             = "Determining the Strength of 3D Printed Concrete with the Modified Slant-Shear-Test",
+      doi               = "10.1002/suco.202400238",
+      year              = "2025",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Licciardello, A. G. Soto, W. Kaufmann and G. Metelli, “Determining the Strength of 3D Printed Concrete with the Modified Slant-Shear-Test”, <i>Structural Concrete</i>, 2025, doi: 10.1002/suco.202400238.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Licciardello, Lucia, Alejandro Giraldo Soto, Walter Kaufmann, and Giovanni Metelli. “Determining the Strength of 3D Printed Concrete with the Modified Slant-Shear-Test”. <i>Structural Concrete</i>, 2025. https://doi.org/10.1002/suco.202400238.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

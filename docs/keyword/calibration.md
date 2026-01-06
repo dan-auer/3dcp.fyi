@@ -8,7 +8,7 @@ search:
 
 # #calibration
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bettermann_luca"><b>Bettermann</b> Luca</a>, <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/esser_sebastian"><b>Esser</b> Sebastian</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bett_slep_esse_borr.2025.DDPCiAMfC/">Data-Driven Parameter Calibration in Additive Manufacturing for Construction:<br/>An Introduction to Learning by Printing</a></li>
   <li><a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/tan_yuan"><b>Tan</b> Yuan</a>, <a href="../../../author/li_mengxue"><b>Li</b> Mengxue</a>, <a href="../../../author/ajmal_moshin"><b>Ajmal</b> Moshin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../dahl_tan_li_ajma.2024.AFaECMfDESoAMiC/">A Flexible and Efficient Calibration Method for Discrete Element Simulations of Additive Manufacturing in Construction</a></li>
   <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sove_cala.2024.DCaPEoaSS3PfARiAMiC/">Design, Calibration and Performance Evaluation of a Small-Scale 3D Printer for Accelerating Research in Additive Manufacturing in Construction</a></li>

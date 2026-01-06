@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kathryn Jones, Mo Li
+    - footer
+title: Jones Kathryn, Li Mo
 description:
 tags:
  - additive
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1002/we.2947) Life Cycle Assessment of Additively Manufactured Foundations for Ultratall Wind Turbine Towers ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1002/we.2947" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/we.2947</a>
+#Life Cycle Assessment of Additively Manufactured Foundations for Ultratall Wind Turbine Towers ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1002/we.2947) <a href="https://doi.org/10.1002/we.2947" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/we.2947" target="_blank">10.1002/we.2947</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-4705-2768" title="ORCID: 0009-0009-4705-2768" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_es_kathryn"><b>Jones</b>&nbsp;Kathryn</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mo"><b>Li</b>&nbsp;Mo</a></span><br>
+Journal Article - Wind Energy
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jones_es_kathryn"><b>Jones</b> Kathryn</a> <a href="https://orcid.org/0009-0009-4705-2768" title="ORCID: 0009-0009-4705-2768" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Wind Energy, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#assessment`](keyword/assessment)
-    [`#cycle`](keyword/cycle)
-    [`#foundation`](keyword/foundation)
-    [`#life`](keyword/life)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#wind`](keyword/wind)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/foundation"><button class="btn">#foundation</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/wind"><button class="btn">#wind</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Additively%20Manufactured%20Foundations%20for%20Ultratall%20Wind%20Turbine%20Towers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204387596&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402650280" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/we.2947" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/we.2947?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Wind energy production is rapidly growing in the United States and is expected to continue increasing as more and larger wind turbines are installed. To support these taller and heavier onshore turbines, new foundations must be designed and manufactured. One proposed method of reducing the total amount of concrete and steel in spread foundations is to utilize additive manufacturing to enable more material-­efficient designs. To compare these additively manufacturing-­enabled designs to conventional foundation designs, this study performs a life cycle impact assessment of four ultra-­tall wind turbine foundations: two foundations using 78-­MPa 3D printed stay-­in-­place concrete formwork cast with 35-­MPa ready-­mix concrete with reinforcements, and two conventional foundations cast entirely out of 35-­MPa concrete with reinforcements. The life cycle assessment investigates the environmental impacts of four different stages, including materials production, transportation, construction, and end-­of-­life. The materials production stage is found to dominate the life cycle results, contributing over 97% of the total CO2 emissions and over 88% of the fossil fuel depletion for each foundation. Compared to the conventional designs, the Short Flat Ribbed Beam foundation with 3D printed formwork has 22.4% lower CO2 emissions and 28.3% lower fossil fuel depletion than the Circular foundation, and 2.0% higher CO2 and 5.9% lower fossil fuel depletion compared to the Tapered foundation. Parametric studies indicate that reducing cement content and increasing recycled content in printed concrete can significantly reduce the overall life cycle impacts of the foundations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ahme_biff_hass_bos.2020.3CP/">3D Concrete Printing:<br/>Free-Form Geometries with Improved Ductility and Strength</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../beka_titt_schu.2020.PCaFM/">Printed Concrete as Formwork-Material:<br/>A Preliminary Study</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -81,7 +62,35 @@ tags:
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jone_li.2024.LCAoAMFfUWTT,
+      author            = "Kathryn E.S. Jones and Mo Li",
+      title             = "Life Cycle Assessment of Additively Manufactured Foundations for Ultratall Wind Turbine Towers",
+      doi               = "10.1002/we.2947",
+      year              = "2024",
+      journal           = "Wind Energy",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. E. S. Jones  and M. Li, “Life Cycle Assessment of Additively Manufactured Foundations for Ultratall Wind Turbine Towers”, <i>Wind Energy</i>, 2024, doi: 10.1002/we.2947.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jones, Kathryn E.S., and Mo Li. “Life Cycle Assessment of Additively Manufactured Foundations for Ultratall Wind Turbine Towers”. <i>Wind Energy</i>, 2024. https://doi.org/10.1002/we.2947.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

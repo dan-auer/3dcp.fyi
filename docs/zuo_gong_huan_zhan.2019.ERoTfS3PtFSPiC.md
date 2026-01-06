@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zibo Zuo, Jian Gong, Yulin Huang, Yijian Zhan, Ming Gong, Lulu Zhang
+    - footer
+title: Zuo Zibo, Gong Jian, Huang Yulin, Zhan Yijian, Gong Ming, Zhang Lulu
 description:
 tags:
  - construction
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction ([2019-03](date/2019/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2019.02.171" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2019.02.171</a>
+#Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction ([2019-03](date/2019/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2019.02.171" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2019.02.171" target="_blank">10.1016/j.conbuildmat.2019.02.171</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_zibo"><b>Zuo</b>&nbsp;Zibo</a></span>, <a href="../../../author/gong_jian"><b>Gong</b>&nbsp;Jian</a></span>, <a href="../../../author/huang_yulin"><b>Huang</b>&nbsp;Yulin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0287-7776" title="ORCID: 0000-0002-0287-7776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhan_yijian"><b>Zhan</b>&nbsp;Yijian</a></span>, <a href="../../../author/gong_ming"><b>Gong</b>&nbsp;Ming</a></span>, <a href="../../../author/zhang_lulu"><b>Zhang</b>&nbsp;Lulu</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 208, pp. 350-360
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> <a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>
-,     <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>
-,     <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> <a href="https://orcid.org/0000-0002-0287-7776" title="ORCID: 0000-0002-0287-7776" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gong_ming"><b>Gong</b> Ming</a>
-,     <a href="../../../author/zhang_lulu"><b>Zhang</b> Lulu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 208, pp. 350-360
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#experiment`](keyword/experiment)
-    [`#full`](keyword/full)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#size`](keyword/size)
-    [`#transition`](keyword/transition)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/transition"><button class="btn">#transition</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Research%20on%20Transition%20from%20Scale%203D%20Printing%20to%20Full-Size%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85062509836&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2921520711" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2019.02.171" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2019.02.171?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The inevitable trend in the development of construction 3D printing is to change from printing the reduced size model to printing the full-size structure. While full-size printing is a mega-scale automated manufacturing process, and will face enormous challenges, e.g., blindly printing full-size buildings inevitably causes losses or accidents due to a mistake in the 3D design models or print parameters. This research proposes a method for evaluating the rationality of the models and optimizing the parameters of the full-size 3D printing, based on the scale 3D printing. A case study of a 15-m-span 3D printing landscape bridge is presented to illustrate the proposed method. A series of tests of the printing scaled models and full-size structures are conducted using an industrial printer and a five-axis printing equipment. The maximum deviation between the 3D printed bridge and the design model is within 0.9 mm, and the average is within 0.1 mm. The optimal parameters for the full-size printing such as a layer resolution of 4 mm are determined. Experimental findings indicate that it is feasible to apply the proposed method to print full-size structures, and avoid losses due to the models or parameters errors. In addition, the applications of the scale 3D printing in building lifecycle under the traditional construction mode are systematically discussed. Recommended materials and print parameters for scale 3D printing at different stages of the building lifecycle are introduced.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/dubois_vincent"><b>Dubois</b> Vincent</a>, <a href="../../../author/leblanc_alexandre"><b>Leblanc</b> Alexandre</a>, <a href="../../../author/carpentier_olivier"><b>Carpentier</b> Olivier</a>, <a href="../../../author/alhaik_ghaith"><b>Alhaik</b> Ghaith</a> et al. <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../dubo_lebl_carp_alha.2018.PoFSBLCwRH/">Performances of Flax Shive-Based Lightweight Composites with Rapid Hardening</a></li>
@@ -82,8 +59,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../zuo_gong_huan.2017.Po3PiCbUCCT/">Performance of 3D Printing in Construction by Using Computer-Control-Technology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
       <li><a href="../../../author/garces_gonzalo"><b>Garcés</b> Gonzalo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../garc_garc_buns_muno.2025.AC40/">Additive Construction 4.0:<br/>A Systematic Review of 3D Concrete Printing for Construction 4.0</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
@@ -110,4 +87,34 @@ tags:
       <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/li_shuaishuai"><b>Li</b> Shuaishuai</a>, <a href="../../../author/qin_tian"><b>Qin</b> Tian</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wang_li_qin_yu.2020.C3P/">Concrete 3D Printing:<br/>System Development, Process Planning and Experimental Results</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/wang_xujiang"><b>Wang</b> Xujiang</a>, <a href="../../../author/wang_wenlong"><b>Wang</b> Wenlong</a>, <a href="../../../author/wan_yi"><b>Wan</b> Yi</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../shah_wang_wang_wan.2020.CAaOoSTFaMSfC3PMDfSW/">Coordinated Adjustment and Optimization of Setting-Time, Flowability, and Mechanical Strength for Construction 3D Printing Material Derived from Solid Waste</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC,
+      author            = "Zibo Zuo and Jian Gong and Yulin Huang and Yijian Zhan and Ming Gong and Lulu Zhang",
+      title             = "Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction",
+      doi               = "10.1016/j.conbuildmat.2019.02.171",
+      year              = "2019",
+      journal           = "Construction and Building Materials",
+      volume            = "208",
+      pages             = "350--360",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zuo, J. Gong, Y. Huang, Y. Zhan, M. Gong and L. Zhang, “Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction”, <i>Construction and Building Materials</i>, vol. 208, pp. 350–360, 2019, doi: 10.1016/j.conbuildmat.2019.02.171.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zuo, Zibo, Jian Gong, Yulin Huang, Yijian Zhan, Ming Gong, and Lulu Zhang. “Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction”. <i>Construction and Building Materials</i> 208 (2019): 350–60. https://doi.org/10.1016/j.conbuildmat.2019.02.171.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

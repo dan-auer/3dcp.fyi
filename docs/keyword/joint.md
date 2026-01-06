@@ -8,7 +8,7 @@ search:
 
 # #joint
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../merc_sahi_celi_ozka.2025.SPoPF3PCW/">Structural Performance of Pre-Fabricated 3D Printed Concrete Walls:<br/>Effect of Cold Joint, Axial Load and Load Type</a></li>
   <li><a href="../../../author/popli_siddharth"><b>Popli</b> Siddharth</a>, <a href="../../../author/valikhah_fatemeh"><b>Valikhah</b> Fatemeh</a>, <a href="../../../author/zandi-lak_erfan"><b>Zandi Lak</b> Erfan</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../popl_vali_zand_das.2025.MaDPo3PCwCAaCJ/">Mechanical and Durability Performance of 3D-Printed Concrete with Coarse Aggregates and Cold Joints</a></li>
   <li><a href="../../../author/divya_m"><b>Divya</b> M.</a>, <a href="../../../author/riza_a-h_s"><b>Riza</b> S.</a>, <a href="../../../author/shariff_m_najeeb"><b>Shariff</b> Najeeb</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../divy_riza_shar.2025.CoCJFiDPMDtDP/">Characterization of Cold Joint Formation in Digitally Printed Mortar During the Dormant Phase:<br/>A Time-Dependent Study</a></li>

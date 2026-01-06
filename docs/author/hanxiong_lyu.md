@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,6 +9,6 @@ search:
 
 #  Hanxiong Lyu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/lucen_hao"><b>Lucen</b> Hao</a>, <a href="../../../author/hanxiong_lyu"><b>Hanxiong</b> Lyu</a>, <a href="../../../author/huanghua_zhang"><b>Huanghua</b> Zhang</a>, <a href="../../../author/shipeng_zhang"><b>Shipeng</b> Zhang</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../luce_hanx_huan_ship.2025.DoCAIEtItIPo3PC/">Development of CO2-Activated Interface Enhancer to Improve the Interlayer Properties of 3D-Printed Concrete</a></li>
 </ol>

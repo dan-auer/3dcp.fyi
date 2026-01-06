@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shuai Li, Jaide Corelli, Jonathan Tran, Linhua Fan
+    - footer
+title: Li Shuai, Corelli Jaide, Tran Jonathan, Fan Linhua
 description:
 tags:
  - cellulose
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } 3D Printable Cellulose Concrete:<br/>:aca-blank: A Review and Pathway to Future Research ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.jobe.2025.114187" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114187</a>
+#3D Printable Cellulose Concrete&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">A Review and Pathway to Future Research</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114187" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114187" target="_blank">10.1016/j.jobe.2025.114187</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shuai"><b>Li</b>&nbsp;Shuai</a></span>, <a href="../../../author/corelli_jaide"><b>Corelli</b>&nbsp;Jaide</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span>, <a href="../../../author/fan_linhua"><b>Fan</b>&nbsp;Linhua</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114187
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_shuai"><b>Li</b> Shuai</a> <a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114187
-
-:aca-blank:{ .lg .middle}
-    [`#cellulose`](keyword/cellulose)
-    [`#concrete`](keyword/concrete)
-    [`#future`](keyword/future)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Cellulose%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017432861&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7083302058" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114187" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114187?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is under enormous pressure to reduce carbon emissions, and cellulose fibres offer a sustainable and cost-effective approach to enhancing mechanical performance. This review examines the applications of cellulose fibres in 3D concrete printing (3DCP), with a focus on scalability, environmental benefits, and characterisation methods. The main contribution of cellulose fibres to cementitious matrix is their ability to refine microstructures, thereby improving flexural strength by up to 20% and CO2 sequestration by 18.4%. However, the benefits of CO2 sequestration are usually overestimated, and large-scale application faces challenges related to fibre variability and lack of standardisation. Research gaps are found in the understanding of anisotropy, fibre orientation, and pore morphology in 3D printed cellulose concrete. Advanced characterisation tools, particularly μCT combined with machine learning, present opportunities to address these challenges. This review identifies key areas for future investigation, including anisotropic behaviour, carbonation mechanisms, and design optimisation, aiming to advance 3DCP cellulose concrete as a viable material for sustainable construction and circular economy strategies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -83,8 +65,37 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/yang_rong"><b>Yang</b> Rong</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_huan_wang_yang.2023.EoHMoRaPotFPLoCASB3PC/">Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_core_tran_fan.2025.3PCC,
+      author            = "Shuai Li and Jaide Corelli and Jonathan Phuong Tran and Linhua Fan",
+      title             = "3D Printable Cellulose Concrete: A Review and Pathway to Future Research",
+      doi               = "10.1016/j.jobe.2025.114187",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114187",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Li, J. Corelli, J. P. Tran and L. Fan, “3D Printable Cellulose Concrete: A Review and Pathway to Future Research”, <i>Journal of Building Engineering</i>, p. 114187, 2025, doi: 10.1016/j.jobe.2025.114187.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Shuai, Jaide Corelli, Jonathan Phuong Tran, and Linhua Fan. “3D Printable Cellulose Concrete: A Review and Pathway to Future Research”. <i>Journal of Building Engineering</i>, 2025, 114187. https://doi.org/10.1016/j.jobe.2025.114187.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Sun Hou-Qi 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zeng_jian_yan_sun.2025.3PoCCFRPRfCC/">3D Printing of Continuous Carbon Fiber-Reinforced Polymer Reinforcement for Concrete Columns</a></li>
   <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
   <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liu_yue"><b>Liu</b> Yue</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sun_zeng_zhug_liu.2025.3PFGCP/">3D Printed Functionally Graded Concrete Plates:<br/>Concept and Bending Tests</a></li>

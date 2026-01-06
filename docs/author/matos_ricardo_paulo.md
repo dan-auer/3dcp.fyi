@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 # de Matos Paulo 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a>, <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a>, <a href="../../../author/effting_carmeane"><b>Effting</b> Carmeane</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../safa_scha_efft_mato.2025.TEoCNotRHoCPaBo3PC/">The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete</a></li>
   <li><a href="../../../author/silveira-junior_gomes_jairon"><b>Silveira Júnior</b> Jairon</a>, <a href="../../../author/sakata_dors_rafael"><b>Sakata</b> Rafael</a>, <a href="../../../author/onghero_lucas"><b>Onghero</b> Lucas</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../silv_saka_ongh_mato.2025.AAWaaSCMf3PPC/">Al-Anodizing Waste as a Supplementary Cementitious Material for 3D-Printed Portland Cement</a></li>
   <li><a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a>, <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a>, <a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a>, <a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mato_scha_safa_zat.2024.DBwCWf3M/">Developing Binders with Ceramic Waste for 3DCP Mixes</a></li>

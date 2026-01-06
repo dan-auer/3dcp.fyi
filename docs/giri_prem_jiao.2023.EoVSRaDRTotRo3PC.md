@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Greeshma Giridhar, Prabhat Prem, Dengwu Jiao
+    - footer
+title: Giridhar Greeshma, Prem Prabhat, Jiao Dengwu
 description:
 tags:
  - concrete
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.matpr.2023.03.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.03.027</a>
+#Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.03.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.027" target="_blank">10.1016/j.matpr.2023.03.027</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giridhar_greeshma"><b>Giridhar</b>&nbsp;Greeshma</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prem_ranjan_prabhat"><b>Prem</b>&nbsp;Prabhat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8943-757X" title="ORCID: 0000-0002-8943-757X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiao_dengwu"><b>Jiao</b>&nbsp;Dengwu</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> <a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="https://orcid.org/0000-0002-8943-757X" title="ORCID: 0000-0002-8943-757X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#effect`](keyword/effect)
-    [`#printability`](keyword/printability)
-    [`#rate`](keyword/rate)
-    [`#rest`](keyword/rest)
-    [`#rheology`](keyword/rheology)
-    [`#shear`](keyword/shear)
-    [`#time`](keyword/time)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> <a href="../../keyword/rest"><button class="btn">#rest</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Varying%20Shear%20Rates%20at%20Different%20Resting%20Times%20on%20the%20Rheology%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150034420&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4324075745" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.03.027" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.03.027?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing offers a paradigm shift in the construction industry. The material undergoes different stages like mixing, pumping, extruding, and printing with disparate shearing patterns and the effect of shear rates must be brought into consideration. The rheological properties of 3D printable concrete with varying shear rates at different resting times were studied. The designed mix has an ultra-high compressive strength of 110 MPa. Different hystresis curves with shear rates of 0–25 s1 (P1) and 0–50 s1 (P2) are studied. The tests were conducted at 10 min intervals up to 30 min resting time. The experimental down flow curves are further analyzed using the Bingham model, the modified Bingham model, and the Herschel-Bulkley model. It is observed that the rheological properties of 3D printable concrete are highly dependent on the resting time, and the applied shear rates and demand judicious selection of rheological models to predict yield stress and plastic viscosity. The comparison between experimental and analytical models indicates better predictability with the modified Bingham and Herschel- Bulkley model. The yield stress values for the modified Bingham model were found to be varying from 95 Pa to 178 Pa and Herschel-Bulkley model from 130 Pa to 177 Pa for P1 and P2, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
@@ -87,12 +64,40 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/nissanka_nilusha"><b>Nissanka</b> Nilusha</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../raje_niss_sanj.2025.ESoTDPBo3CP/">Experimental Study on Time-Dependent Pumping Behaviour of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b> Sílvio</a>, <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b> Ester</a>, <a href="../../../author/freitas-daudt_natalia"><b>Freitas Daudt</b> Natália</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP/">Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process</a></li>
       <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../prem_ambi_kuma_giri.2024.SBUMfTDCPBoKT/">Structural Build-Up-Model for Three-Dimensional Concrete Printing Based on Kinetics-Theory</a></li>
       <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../prem_ambi_kuma_ghod.2024.ATMtPtSBo3PC/">A Theoretical Model to Predict the Structural Buildability of 3D Printable Concrete</a></li>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b> Vignesh</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ravi_giri_rama_prem.2023.IoTPoDtRPoCPMfC3P/">Influence of Test-Protocol on Determining the Rheological Properties of Cement-Pastes-Mixtures for Concrete 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{giri_prem_jiao.2023.EoVSRaDRTotRo3PC,
+      author            = "Greeshma Giridhar and Prabhat Ranjan Prem and Dengwu Jiao",
+      title             = "Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete",
+      doi               = "10.1016/j.matpr.2023.03.027",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Giridhar, P. R. Prem and D. Jiao, “Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.03.027.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Giridhar, Greeshma, Prabhat Ranjan Prem, and Dengwu Jiao. “Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.03.027.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

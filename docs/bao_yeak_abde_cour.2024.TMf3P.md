@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ta Bao, Muy Yeakleang, Sandra Abdelouhab, Luc Courard
+    - footer
+title: Bao Ta, Yeakleang Muy, Abdelouhab Sandra, Courard Luc
 description:
 tags:
  - behavior
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/ma17205002) Testing Mortars for 3D Printing:<br/>:aca-blank: Correlation with Rheological Behavior ([2024-10](date/2024/10))
-<a href="https://doi.org/10.3390/ma17205002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17205002</a>
+#Testing Mortars for 3D Printing&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Correlation with Rheological Behavior</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17205002) <a href="https://doi.org/10.3390/ma17205002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17205002" target="_blank">10.3390/ma17205002</a>
 
--------------------------
+<a href="../../../author/bao_minh-phuong_ta"><b>Bao</b>&nbsp;Ta</a></span>, <a href="../../../author/yeakleang_muy"><b>Yeakleang</b>&nbsp;Muy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9196-1282" title="ORCID: 0000-0002-9196-1282" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdelouhab_sandra"><b>Abdelouhab</b>&nbsp;Sandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6573-6631" title="ORCID: 0000-0001-6573-6631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/courard_luc"><b>Courard</b>&nbsp;Luc</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 20
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bao_minh-phuong_ta"><b>Bao</b> Ta</a>
-,     <a href="../../../author/yeakleang_muy"><b>Yeakleang</b> Muy</a>
-,     <a href="../../../author/abdelouhab_sandra"><b>Abdelouhab</b> Sandra</a> <a href="https://orcid.org/0000-0002-9196-1282" title="ORCID: 0000-0002-9196-1282" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/courard_luc"><b>Courard</b> Luc</a> <a href="https://orcid.org/0000-0001-6573-6631" title="ORCID: 0000-0001-6573-6631" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 20, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#correlation`](keyword/correlation)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Testing%20Mortars%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207329830&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403398390" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17205002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17205002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensionally printed concrete is a transformative technology that addresses housing shortages due to population growth and enables innovative architectural designs. The objective of this study is to investigate the connection between a conventional test and the rheological properties of 3D-printed concrete. A more precise assessment of material quality based on traditional evaluation techniques is proposed. Standard tests are conducted to evaluate the consistency of 3D-printed concrete materials. Complementarily, a rheometer is employed to accurately measure key rheological properties, thereby establishing a link with empiric testing methodologies. The correlation between the flow table test and rheological coefficients, such as yield stress and viscosity, has been identified as the most effective in basic experiments for evaluating material behavior. This approach allows for a preliminary assessment of printability without the need for additional complex equipment. The study has successfully established a relationship between flow table tests and rheological parameters. However, further research involving a broader range of materials and print-test experiments is essential to enhance the correlation between other conventional testing methods and rheometer results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
@@ -116,10 +97,40 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/li_yifan"><b>Li</b> Yifan</a>, <a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a>, <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../li_chen_yang_guo.2025.IotIoMRotIBPoSW3PC/">Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bao_yeak_abde_cour.2024.TMf3P,
+      author            = "Ta Minh Phuong Bao and Muy Yeakleang and Sandra Abdelouhab and Luc Courard",
+      title             = "Testing Mortars for 3D Printing: Correlation with Rheological Behavior",
+      doi               = "10.3390/ma17205002",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "20",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. M. P. Bao, M. Yeakleang, S. Abdelouhab and L. Courard, “Testing Mortars for 3D Printing: Correlation with Rheological Behavior”, <i>Materials</i>, vol. 17, no. 20, 2024, doi: 10.3390/ma17205002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bao, Ta Minh Phuong, Muy Yeakleang, Sandra Abdelouhab, and Luc Courard. “Testing Mortars for 3D Printing: Correlation with Rheological Behavior”. <i>Materials</i> 17, no. 20 (2024). https://doi.org/10.3390/ma17205002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kamoru Ibrahim, Gideon Zijl, Adewumi Babafemi
+    - footer
+title: Ibrahim Kamoru, Zijl Gideon, Babafemi Adewumi
 description:
 tags:
  - behavior
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2024.138001) Time-Dependent Behavior of 3D Printed Fiber-Reinforced Limestone-Calcined-Clay-Cement Concrete Under Sustained Loadings ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138001" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138001</a>
+#Time-Dependent Behavior of 3D Printed Fiber-Reinforced Limestone-Calcined-Clay-Cement Concrete Under Sustained Loadings ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.138001) <a href="https://doi.org/10.1016/j.conbuildmat.2024.138001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138001" target="_blank">10.1016/j.conbuildmat.2024.138001</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b>&nbsp;Kamoru</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 446, No. 138001
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a> <a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 446, No. 138001
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#dependency`](keyword/dependency)
-    [`#fiber`](keyword/fiber)
-    [`#limestone`](keyword/limestone)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#sustainability`](keyword/sustainability)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Time-Dependent%20Behavior%20of%203D%20Printed%20Fiber-Reinforced%20Limestone-Calcined-Clay-Cement%20Concrete%20Under%20Sustained%20Loadings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202048049&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401858142" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138001" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138001?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The evolution of 3D-printed concrete (3DPC) structures has made remarkable impacts in the construction industry and academia for prospective engineering practice globally. This is due to promising outcomes of various investigations on its construction coupled with several advantages it offers over conventional cast concrete. However, the time-dependent deformation of 3DPC under sustained loading is still unknown and requires extensive research. Quasi-static studies have also shown that creep could be of great concern due to its production technique involving layer stacking, which eventually leads to weak interlayer bond strength. This paper experimentally investigates the time-dependent behaviour of fibre-reinforced printed concrete (FRPC) containing limestone calcined clay cement (LC3) under sustained tensile and flexural loadings. The experimental tests conducted on LC3-FRPC specimens in two orthogonal directions were individual creep and shrinkage to determine other parameters associated with creep responses, including creep fracture. The specimens for tensile and flexural creep were subjected to sustained stresses of 40, 60 and 80 % of the tensile and 40 % flexural strength results obtained from quasi-static tests. The quantified creep is compared in terms of the difference in stress levels, as the results revealed that none of the specimens fractured under sustained loadings. Instead, higher direct tensile strengths were recorded for the creep specimens after 225 days loaded at different stress levels. Then, it is postulated that direct tensile tests on similar LC3-FRPC specimens without creep loading may confirm that the monotonic stress-strain response at the age at which the tests are terminated forms an envelope for creep fracture.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/andersen_sebastian"><b>Andersen</b> Sebastian</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/paegle_ieva"><b>Paegle</b> Ieva</a>, <a href="../../../author/nielsen_henrik_jens"><b>Nielsen</b> Jens</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ande_silv_paeg_niel.2020.NMDtEABo3PC/">Numerical Model Describing the Early-Age Behavior of 3D Printed Concrete:<br/>Work in Progress</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../casa_espo_menn_aspr.2020.MCoCBMUi3IEACE/">Mechanical Characterization of Cement-Based Mortar Used in 3DCP Including Early-Age Creep Effects</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../chan_lian_xu_wan.2023.EACo3PM/">Early-Age Creep of 3D Printable Mortar:<br/>Experiments and Analytical Modelling</a></li>
@@ -98,10 +74,41 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/zoghlami_aya"><b>Zoghlami</b> Aya</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../aabb_mazi_ahac_zogh.2026.S3PCBICW/">Sustainable 3D Printed Clay Bricks Incorporating Coffee Waste:<br/>Toward Circular Economy in Construction</a></li>
       <li><a href="../../../author/kaur_zinnia"><b>Kaur</b> Zinnia</a>, <a href="../../../author/goyal_shweta"><b>Goyal</b> Shweta</a>, <a href="../../../author/kwatra_naveen"><b>Kwatra</b> Naveen</a>, <a href="../../../author/bera_kumar_tarun"><b>Bera</b> Tarun</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB/">Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yu_zhengxing"><b>Yu</b> Zhengxing</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_jiufu"><b>Zhang</b> Jiufu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP/">Study on the Predictive Model for Continuous Build-Height of 3D Printed Concrete Based on Printability and Early Mechanical Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ibra_zijl_baba.2024.TDBo3PFRLCCCCUSL,
+      author            = "Kamoru Ademola Ibrahim and Gideon Pieter Adriaan Greeff van Zijl and Adewumi John Babafemi",
+      title             = "Time-Dependent Behavior of 3D Printed Fiber-Reinforced Limestone-Calcined-Clay-Cement Concrete Under Sustained Loadings",
+      doi               = "10.1016/j.conbuildmat.2024.138001",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "446",
+      pages             = "138001",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. A. Ibrahim, G. P. A. G. van Zijl and A. J. Babafemi, “Time-Dependent Behavior of 3D Printed Fiber-Reinforced Limestone-Calcined-Clay-Cement Concrete Under Sustained Loadings”, <i>Construction and Building Materials</i>, vol. 446, p. 138001, 2024, doi: 10.1016/j.conbuildmat.2024.138001.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ibrahim, Kamoru Ademola, Gideon Pieter Adriaan Greeff van Zijl, and Adewumi John Babafemi. “Time-Dependent Behavior of 3D Printed Fiber-Reinforced Limestone-Calcined-Clay-Cement Concrete Under Sustained Loadings”. <i>Construction and Building Materials</i> 446 (2024): 138001. https://doi.org/10.1016/j.conbuildmat.2024.138001.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

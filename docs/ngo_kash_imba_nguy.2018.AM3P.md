@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tuan Ngo, Alireza Kashani, Gabriele Imbalzano, Quynh Nguyen, David Hui
+    - footer
+title: Ngo Tuan, Kashani Alireza, Imbalzano Gabriele, Nguyen Quynh, Hui David
 description:
 tags:
  - additive
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing (3D Printing):<br/>:aca-blank: A Review of Materials, Methods, Applications and Challenges ([2018-02](date/2018/02))
-<a href="https://doi.org/10.1016/j.compositesb.2018.02.012" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2018.02.012</a>
+#Additive Manufacturing (3D Printing)&nbsp;([2018-02](date/2018/02))
+<div class="h1-like">A Review of Materials, Methods, Applications and Challenges</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2018.02.012" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2018.02.012" target="_blank">10.1016/j.compositesb.2018.02.012</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9831-8580" title="ORCID: 0000-0002-9831-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ngo_d_tuan"><b>Ngo</b>&nbsp;Tuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kashani_alireza"><b>Kashani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2785-501X" title="ORCID: 0000-0003-2785-501X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b>&nbsp;Gabriele</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1825-4127" title="ORCID: 0000-0002-1825-4127" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b>&nbsp;Quynh</a></span>, <a href="../../../author/hui_david"><b>Hui</b>&nbsp;David</a></span><br>
+Journal Article - Composites Part B: Engineering, Vol. 143, pp. 172-196
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="https://orcid.org/0000-0002-9831-8580" title="ORCID: 0000-0002-9831-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a> <a href="https://orcid.org/0000-0003-2785-501X" title="ORCID: 0000-0003-2785-501X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> <a href="https://orcid.org/0000-0002-1825-4127" title="ORCID: 0000-0002-1825-4127" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hui_david"><b>Hui</b> David</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, Vol. 143, pp. 172-196
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#challenge`](keyword/challenge)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20%283D%20Printing%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85042370094&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,21 +39,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2793435880" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2018.02.012" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2018.02.012?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Freedom of design, mass customisation, waste minimisation and the ability to manufacture complex structures, as well as fast prototyping, are the main benefits of additive manufacturing (AM) or 3D printing. A comprehensive review of the main 3D printing methods, materials and their development in trending applications was carried out. In particular, the revolutionary applications of AM in biomedical, aerospace, buildings and protective structures were discussed. The current state of materials development, including metal alloys, polymer composites, ceramics and concrete, was presented. In addition, this paper discussed the main processing challenges with void formation, anisotropic behaviour, the limitation of computer design and layer-by-layer appearance. Overall, this paper gives an overview of 3D printing, including a survey on its benefits and drawbacks as a benchmark for future research and development
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a>, <a href="../../../author/fabbrocino_f"><b>Fabbrocino</b> F.</a>, <a href="../../../author/carpentieri_g"><b>Carpentieri</b> G.</a>, <a href="../../../author/modano_m"><b>Modano</b> M.</a> et al. <a href="../../../date/2015/12">(2015-12)</a><br><a href="../../../fari_fabb_carp_moda.2016.OtRoCMt3PPaMF/">On the Reinforcement of Cement Mortars through 3D Printed Polymeric- and Metallic-Fibers</a></li>
-      <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
       <li><a href="../../../author/gibbons_john_gregory"><b>Gibbons</b> Gregory</a>, <a href="../../../author/williams_reuben"><b>Williams</b> Reuben</a>, <a href="../../../author/purnell_phil"><b>Purnell</b> Phil</a>, <a href="../../../author/farahi_elham"><b>Farahi</b> Elham</a> <a href="../../../date/2013/07">(2013-07)</a><br><a href="../../../gibb_will_purn_fara.2010.3PoCC/">3D Printing of Cement Composites</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
@@ -89,8 +66,9 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "244 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/melero-tur_sofia"><b>Melero-Tur</b> Sofía</a>, <a href="../../../author/jimenez-guerrero_adriano"><b>Jiménez-Guerrero</b> Adriano</a>, <a href="../../../author/perez-fenoy_jose"><b>Pérez-Fenoy</b> José</a>, <a href="../../../author/barbero-barrera_mar_maria"><b>Barbero-Barrera</b> María</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../mele_jime_pere_barb.2026.RItPo3PCTtIoWM/">Re-Imagining the Production of 3D Printed Ceramics Through the Incorporation of Waste Materials</a></li>
       <li><a href="../../../author/huang_qunyi"><b>Huang</b> Qunyi</a>, <a href="../../../author/huang_qingyu"><b>Huang</b> Qingyu</a>, <a href="../../../author/yang_hong"><b>Yang</b> Hong</a>, <a href="../../../author/zhang_jiahang"><b>Zhang</b> Jiahang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_huan_yang_zhan.2026.RotWo3PFRCM/">Research on the Workability of 3D Printed Fiber-Reinforced Concrete Materials</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
@@ -335,4 +313,34 @@ tags:
       <li><a href="../../../author/yang_hongxiong"><b>Yang</b> Hongxiong</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a>, <a href="../../../author/chen_yuhong"><b>Chen</b> Yuhong</a>, <a href="../../../author/li_yijia"><b>Li</b> Yijia</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../yang_chun_chen_li.2018.TCCMoC3PAwIoT/">The Cost Calculation Method of Construction 3D Printing Aligned with Internet of Things</a></li>
       <li><a href="../../../author/kumar_sanjay"><b>Kumar</b> Sanjay</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../kuma.2018.PCDfAMoCC/">Process Chain Development for Additive Manufacturing of Cemented Carbide</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ngo_kash_imba_nguy.2018.AM3P,
+      author            = "Tuan D. Ngo and Alireza Kashani and Gabriele Imbalzano and Quynh Thuy Nguyen and David Hui",
+      title             = "Additive Manufacturing (3D Printing): A Review of Materials, Methods, Applications and Challenges",
+      doi               = "10.1016/j.compositesb.2018.02.012",
+      year              = "2018",
+      journal           = "Composites Part B: Engineering",
+      volume            = "143",
+      pages             = "172--196",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. D. Ngo, A. Kashani, G. Imbalzano, Q. T. Nguyen and D. Hui, “Additive Manufacturing (3D Printing): A Review of Materials, Methods, Applications and Challenges”, <i>Composites Part B: Engineering</i>, vol. 143, pp. 172–196, 2018, doi: 10.1016/j.compositesb.2018.02.012.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ngo, Tuan D., Alireza Kashani, Gabriele Imbalzano, Quynh Thuy Nguyen, and David Hui. “Additive Manufacturing (3D Printing): A Review of Materials, Methods, Applications and Challenges”. <i>Composites Part B: Engineering</i> 143 (2018): 172–96. https://doi.org/10.1016/j.compositesb.2018.02.012.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

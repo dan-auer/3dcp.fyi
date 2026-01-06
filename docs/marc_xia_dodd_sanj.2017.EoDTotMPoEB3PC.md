@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Taylor Marchment, Ming Xia, Elise Dodd, Jay Sanjayan, Behzad Nematollahi
+    - footer
+title: Marchment Taylor, Xia Ming, Dodd Elise, Sanjayan Jay, Nematollahi Behzad
 description:
 tags:
  - base
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Delay-Time on the Mechanical Properties of Extrusion-Based 3D Printed Concrete ([2017-07](date/2017/07))
-<a href="https://doi.org/10.22260/isarc2017/0032" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2017/0032</a>
+#Effect of Delay-Time on the Mechanical Properties of Extrusion-Based 3D Printed Concrete ([2017-07](date/2017/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2017/0032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2017/0032" target="_blank">10.22260/isarc2017/0032</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0463-8485" title="ORCID: 0000-0003-0463-8485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchment_taylor"><b>Marchment</b>&nbsp;Taylor</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_ming"><b>Xia</b>&nbsp;Ming</a></span>, <a href="../../../author/dodd_elise"><b>Dodd</b>&nbsp;Elise</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span><br>
+Contribution - Proceedings of the 34th International Symposium on Automation and Robotics in Construction, pp. 240-245
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="https://orcid.org/0000-0003-0463-8485" title="ORCID: 0000-0003-0463-8485" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dodd_elise"><b>Dodd</b> Elise</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 34th International Symposium on Automation and Robotics in Construction, pp. 240-245
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#delay`](keyword/delay)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/delay"><button class="btn">#delay</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Delay-Time%20on%20the%20Mechanical%20Properties%20of%20Extrusion-Based%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85032350627&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,25 +39,21 @@ tags:
 <a href="https://inciteful.xyz/p/W2744576509" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2017/0032" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2017/0032?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The extrusion-based 3D printing method is one of the main additive manufacturing techniques used in the construction industry which is capable of producing large-scale building components with complex geometries without the use of the expensive formwork. The mechanical properties of the printed concrete component are very much unlike the conventionally cast concrete. Therefore, the properties of these are important for the design of structures built with 3D printing process. In this study, a custom-made apparatus was used to simulate extrusion-based 3D printing process. Layered specimens with 10, 20 and 30 minutes delay time (i.e. the printing time interval between layers) have been printed using tailored conventional concrete mixture. Mechanical properties including compressive, flexural and inter-layer bonding strengths have been measured and the effect of delay time on the mechanical properties has been investigated. All printed specimens exhibited an anisotropic phenomenon in both compressive and flexural strengths. A significant inverted bell curve pattern emerged in the inter-layer bonding strength. The inter-layer bonding strength of the specimens with 10 minutes and 30 minutes delay time was similar, but higher than that of specimen with 20 minutes delay time. The major finding is that the surface moisture content plays a major role in the inter-layer bonding strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2011/10">(2011-10)</a><br><a href="../../../rael_frat.2011.DCPBCf3P/">Developing Concrete Polymer Building Components for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "40 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../miri_baaj_pola.2025.EIi3PCTCZM/">Exploring Interfaces in 3D-Printed Concrete Through Cohesive Zone Modelling</a></li>
       <li><a href="../../../author/popli_siddharth"><b>Popli</b> Siddharth</a>, <a href="../../../author/valikhah_fatemeh"><b>Valikhah</b> Fatemeh</a>, <a href="../../../author/zandi-lak_erfan"><b>Zandi Lak</b> Erfan</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../popl_vali_zand_das.2025.MaDPo3PCwCAaCJ/">Mechanical and Durability Performance of 3D-Printed Concrete with Coarse Aggregates and Cold Joints</a></li>
       <li><a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/prathap_y"><b>Prathap</b> Y.</a>, <a href="../../../author/sandeep_ankit"><b>Sandeep</b> Ankit</a>, <a href="../../../author/vaghamshi_v_keval"><b>Vaghamshi</b> Keval</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../das_prat_sand_vagh.2025.RtMSRDaMCo3PC/">Reviewing the Materials Selection, Rheology, Durability, and Microstructural Characteristics of 3D Printed Concrete</a></li>
@@ -119,4 +95,34 @@ tags:
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nema_xia_bong_sanj.2019.HPo3POPGfCA/">Hardened Properties of 3D Printable One-Part Geopolymer for Construction Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{marc_xia_dodd_sanj.2017.EoDTotMPoEB3PC,
+      author            = "Taylor Marchment and Ming Xia and Elise Dodd and Jay Gnananandan Sanjayan and Behzad Nematollahi",
+      title             = "Effect of Delay-Time on the Mechanical Properties of Extrusion-Based 3D Printed Concrete",
+      doi               = "10.22260/isarc2017/0032",
+      year              = "2017",
+      pages             = "240--245",
+      booktitle         = "Proceedings of the 34th International Symposium on Automation and Robotics in Construction: ISARC 2017",
+      editor            = "Min-Yuan Cheng and Hung-Ming Chen and Kuan Chang Chiu",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Marchment, M. Xia, E. Dodd, J. G. Sanjayan and B. Nematollahi, “Effect of Delay-Time on the Mechanical Properties of Extrusion-Based 3D Printed Concrete”, in <i>Proceedings of the 34th International Symposium on Automation and Robotics in Construction: ISARC 2017</i>,  2017, pp. 240–245. doi: 10.22260/isarc2017/0032.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Marchment, Taylor, Ming Xia, Elise Dodd, Jay Gnananandan Sanjayan, and Behzad Nematollahi. “Effect of Delay-Time on the Mechanical Properties of Extrusion-Based 3D Printed Concrete”. In <i>Proceedings of the 34th International Symposium on Automation and Robotics in Construction: ISARC 2017</i>, edited by Min-Yuan Cheng, Hung-Ming Chen, and Kuan Chang Chiu, 240–45, 2017. https://doi.org/10.22260/isarc2017/0032.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

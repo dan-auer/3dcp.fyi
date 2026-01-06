@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: James Dobrzanski, Jie Xu, Rasti Bartek, Daniel Becker, Peter Kinnell, John Kolawole, Marina Konstantatou, Richard Maddock, Muhammed Isa, Vera Sehlstedt, Richard Buswell
+    - footer
+title: Dobrzanski James, Xu Jie, Bartek Rasti, Becker Daniel, Kinnell Peter, Kolawole John, Konstantatou Marina, Maddock Richard, Isa Muhammed, Sehlstedt Vera, Buswell Richard
 description:
 tags:
  - automation
@@ -16,39 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2025.112640) From Digital Crafting to Digital Manufacturing:<br/>:aca-blank: Automated Production Using Hybrid 3D Concrete Printing ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112640" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112640</a>
+#From Digital Crafting to Digital Manufacturing&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">Automated Production Using Hybrid 3D Concrete Printing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.112640) <a href="https://doi.org/10.1016/j.jobe.2025.112640" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112640" target="_blank">10.1016/j.jobe.2025.112640</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1921-4247" title="ORCID: 0000-0003-1921-4247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dobrzanski_james"><b>Dobrzanski</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span>, <a href="../../../author/bartek_rasti"><b>Bartek</b>&nbsp;Rasti</a></span>, <a href="../../../author/becker_daniel"><b>de&nbsp;Becker</b>&nbsp;Daniel</a></span>, <a href="../../../author/kinnell_peter"><b>Kinnell</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kolawole_temitope_john"><b>Kolawole</b>&nbsp;John</a></span>, <a href="../../../author/konstantatou_marina"><b>Konstantatou</b>&nbsp;Marina</a></span>, <a href="../../../author/maddock_richard"><b>Maddock</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1742-3379" title="ORCID: 0000-0003-1742-3379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/isa_nura_muhammed"><b>Isa</b>&nbsp;Muhammed</a></span>, <a href="../../../author/sehlstedt_vera"><b>Sehlstedt</b>&nbsp;Vera</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112640
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> <a href="https://orcid.org/0000-0003-1921-4247" title="ORCID: 0000-0003-1921-4247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>
-,     <a href="../../../author/becker_daniel"><b>de Becker</b> Daniel</a>
-,     <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>
-,     <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> <a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/konstantatou_marina"><b>Konstantatou</b> Marina</a>
-,     <a href="../../../author/maddock_richard"><b>Maddock</b> Richard</a>
-,     <a href="../../../author/isa_nura_muhammed"><b>Isa</b> Muhammed</a> <a href="https://orcid.org/0000-0003-1742-3379" title="ORCID: 0000-0003-1742-3379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sehlstedt_vera"><b>Sehlstedt</b> Vera</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112640
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#craf`](keyword/craf)
-    [`#digital`](keyword/digital)
-    [`#hybrid`](keyword/hybrid)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20Digital%20Crafting%20to%20Digital%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004215795&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409589945" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112640" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112640?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) has undergone a significant growth over the last 20 years and more recently, methods for improving surface finish and manufacturing accuracy have been explored by applying secondary shaping processed, post printing. These approaches are termed ‘hybrid’ manufacturing, and a promising method is to use milling when the concrete is in its green state. The achievable precision and resolution of detailing is an order of magnitude greater than 3DCP alone and greater complexity than can be readily achieved in casting is possible. This step change in manufacturing capability enables a complete rethinking of design, but to date there has been no such work published. This article presents the hybrid process and explores the potential for design and manufacture based around ‘The Canopy’: a full-scale demonstrator project. The article reports on the narratives around establishing the design constraints and how they influenced the achievable detail, leading to the identification of 26 features that were used to classify the material and process constraints that need to be interpreted to achieve a manufacturable assembly. An identified challenge of implementing this and other cement-based digital fabrication methods, is the tacit knowledge required by operatives to create successful outcomes. By taking the output of this work and embedding constraints in design software, this could be avoided moving such processes away from digital crafting and towards digital manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../bard_cupk_wash_zegl.2018.RCSF/">Robotic Concrete Surface Finishing:<br/>A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</a></li>
@@ -119,9 +91,38 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/provis_lloyd_john"><b>Provis</b> John</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../xu_kola_prov_dobr.2022.AEToM3PCG/">An Early Trial on Milling 3D Printed Concrete Geometries:<br/>Observations and Insights of the Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhi_akba.2025.STToSCi3CPfOBaSQ/">Surface-Toolpath Twins of Shell Components in 3D Concrete Printing for Optimized Buildability and Surface Quality</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dobr_xu_bart_beck.2025.FDCtDM,
+      author            = "James Dobrzanski and Jie Jerry Xu and Rasti Bartek and Daniel de Becker and Peter Kinnell and John Temitope Kolawole and Marina Konstantatou and Richard Maddock and Muhammed Nura Isa and Vera Sehlstedt and Richard A. Buswell",
+      title             = "From Digital Crafting to Digital Manufacturing: Automated Production Using Hybrid 3D Concrete Printing",
+      doi               = "10.1016/j.jobe.2025.112640",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112640",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Dobrzanski, “From Digital Crafting to Digital Manufacturing: Automated Production Using Hybrid 3D Concrete Printing”, <i>Journal of Building Engineering</i>, p. 112640, 2025, doi: 10.1016/j.jobe.2025.112640.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dobrzanski, James, Jie Jerry Xu, Rasti Bartek, Daniel de Becker, Peter Kinnell, John Temitope Kolawole, Marina Konstantatou, et al.. “From Digital Crafting to Digital Manufacturing: Automated Production Using Hybrid 3D Concrete Printing”. <i>Journal of Building Engineering</i>, 2025, 112640. https://doi.org/10.1016/j.jobe.2025.112640.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

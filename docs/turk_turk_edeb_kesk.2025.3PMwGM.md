@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ayşe Türk, Furkan Türk, Serpil Edebali, Ülkü Keskin
+    - footer
+title: Türk Ayşe, Türk Furkan, Edebali Serpil, Keskin Ülkü
 description:
 tags:
  - green
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printable Mortars with Green Materials:<br/>:aca-blank: Sustainable Solutions with Nanocellulose ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1080/19648189.2025.2579932" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/19648189.2025.2579932</a>
+#3D Printable Mortars with Green Materials&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Sustainable Solutions with Nanocellulose</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/19648189.2025.2579932" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19648189.2025.2579932" target="_blank">10.1080/19648189.2025.2579932</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5882-4043" title="ORCID: 0000-0001-5882-4043" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/turk_ayse"><b>Türk</b>&nbsp;Ayşe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8156-0354" title="ORCID: 0000-0002-8156-0354" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/turk_furkan"><b>Türk</b>&nbsp;Furkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2098-580X" title="ORCID: 0000-0002-2098-580X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/edebali_serpil"><b>Edebali</b>&nbsp;Serpil</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9517-9116" title="ORCID: 0000-0002-9517-9116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keskin_sultan_ulku"><b>Keskin</b>&nbsp;Ülkü</a></span><br>
+Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-26
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a> <a href="https://orcid.org/0000-0001-5882-4043" title="ORCID: 0000-0001-5882-4043" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a> <a href="https://orcid.org/0000-0002-8156-0354" title="ORCID: 0000-0002-8156-0354" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a> <a href="https://orcid.org/0000-0002-2098-580X" title="ORCID: 0000-0002-2098-580X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="https://orcid.org/0000-0002-9517-9116" title="ORCID: 0000-0002-9517-9116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-26
-
-:aca-blank:{ .lg .middle}
-    [`#green`](keyword/green)
-    [`#material`](keyword/material)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#solution`](keyword/solution)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Mortars%20with%20Green%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020953767&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415836962" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/19648189.2025.2579932" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/19648189.2025.2579932?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to improve the fresh and hardened properties of 3D-printable mortars. For this purpose, mortar mixtures containing cellulose nanofibres (CNF) obtained from the green algae of the Cladophora sp., which is abundant in lakes and causes environmental pollution if not recycled, as well as commercially available cellulose nanocrystals (CNC) and welan gum (WG) were prepared. The results showed that CNF was the most effective additive in improving fresh-state rheology, increasing yield stress by approximately 6 times and thixotropy by 48 times compared to the reference sample. Additionally, the CNF-modified mortar could carry a load of 50 N in the fresh state. The CNC additive showed the best mechanical performance, increasing compressive strength by 12%. Cellulosic additives were also observed to reduce shrinkage. Nanocellulose additives also increased the interlayer adhesion strength. All additives used have improved the properties of 3D-printable mortars. This study successfully produced a 3D-printable concrete/mortar additive from Cladophora sp., an environmentally detrimental waste material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/armstrong_o_kristina"><b>Armstrong</b> Kristina</a>, <a href="../../../author/kamath_dipti"><b>Kamath</b> Dipti</a>, <a href="../../../author/zhao_xianhui"><b>Zhao</b> Xianhui</a>, <a href="../../../author/rencheck_l_mitchell"><b>Rencheck</b> Mitchell</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arms_kama_zhao_renc.2023.LCCEaCEoMfPCC/">Life Cycle Cost, Energy, and Carbon Emissions of Molds for Pre-Cast Concrete:<br/>Exploring the Impacts of Material-Choices and Additive Manufacturing</a></li>
       <li><a href="../../../author/biricik_oznur"><b>Biricik</b> Öznur</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../biri_mard.2022.PATBoSCCa3PC/">Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -101,7 +82,36 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{turk_turk_edeb_kesk.2025.3PMwGM,
+      author            = "Ayşe Türk and Furkan Türk and Serpil Edebali and Ülkü Sultan Keskin",
+      title             = "3D Printable Mortars with Green Materials: Sustainable Solutions with Nanocellulose",
+      doi               = "10.1080/19648189.2025.2579932",
+      year              = "2025",
+      journal           = "European Journal of Environmental and Civil Engineering",
+      pages             = "1--26",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Türk, F. Türk, S. Edebali and Ü. S. Keskin, “3D Printable Mortars with Green Materials: Sustainable Solutions with Nanocellulose”, <i>European Journal of Environmental and Civil Engineering</i>, pp. 1–26, 2025, doi: 10.1080/19648189.2025.2579932.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Türk, Ayşe, Furkan Türk, Serpil Edebali, and Ülkü Sultan Keskin. “3D Printable Mortars with Green Materials: Sustainable Solutions with Nanocellulose”. <i>European Journal of Environmental and Civil Engineering</i>, 2025, 1–26. https://doi.org/10.1080/19648189.2025.2579932.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

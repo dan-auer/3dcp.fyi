@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nan Li, Yongjie Deng, Weihong Li, Lingyu Li, Hongfa Yu, Haiyan Ma, Haotian Fan, Weimin Yu, Xiaoming Wang
+    - footer
+title: Li Nan, Deng Yongjie, Li Weihong, Li Lingyu, Yu Hongfa, Ma Haiyan, Fan Haotian, Yu Weimin, Wang Xiaoming
 description:
 tags:
  - activation
@@ -18,39 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1680/jmacr.25.00025" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jmacr.25.00025</a>
+#Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jmacr.25.00025" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.25.00025" target="_blank">10.1680/jmacr.25.00025</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2364-6616" title="ORCID: 0000-0003-2364-6616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_nan"><b>Li</b>&nbsp;Nan</a></span>, <a href="../../../author/deng_yongjie"><b>Deng</b>&nbsp;Yongjie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2008-2977" title="ORCID: 0000-0002-2008-2977" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_weihong"><b>Li</b>&nbsp;Weihong</a></span>, <a href="../../../author/li_lingyu"><b>Li</b>&nbsp;Lingyu</a></span>, <a href="../../../author/yu_hongfa"><b>Yu</b>&nbsp;Hongfa</a></span>, <a href="../../../author/ma_haiyan"><b>Ma</b>&nbsp;Haiyan</a></span>, <a href="../../../author/fan_haotian"><b>Fan</b>&nbsp;Haotian</a></span>, <a href="../../../author/yu_weimin"><b>Yu</b>&nbsp;Weimin</a></span>, <a href="../../../author/wang_xiaoming"><b>Wang</b>&nbsp;Xiaoming</a></span><br>
+Journal Article - Magazine of Concrete Research
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_nan"><b>Li</b> Nan</a> <a href="https://orcid.org/0000-0003-2364-6616" title="ORCID: 0000-0003-2364-6616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>
-,     <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> <a href="https://orcid.org/0000-0002-2008-2977" title="ORCID: 0000-0002-2008-2977" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_lingyu"><b>Li</b> Lingyu</a>
-,     <a href="../../../author/yu_hongfa"><b>Yu</b> Hongfa</a>
-,     <a href="../../../author/ma_haiyan"><b>Ma</b> Haiyan</a>
-,     <a href="../../../author/fan_haotian"><b>Fan</b> Haotian</a>
-,     <a href="../../../author/yu_weimin"><b>Yu</b> Weimin</a>
-,     <a href="../../../author/wang_xiaoming"><b>Wang</b> Xiaoming</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Magazine of Concrete Research, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#magnesium`](keyword/magnesium)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#rapid`](keyword/rapid)
-    [`#solid`](keyword/solid)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20of%20Active-Magnesia-Based%20Magnesium%20Phosphate%20Cement%20and%20Application%20of%20Rapid-Solidification%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412842302" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jmacr.25.00025" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jmacr.25.00025?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this work was to address the issues of high cost and limited application of magnesium phosphate cement (MPC) by using active magnesia (AM) as the primary raw material to prepare MPC. A self-developed quick-setting concrete three-dimensional (3D) printer was used to realise its 3D printing application. The effects of different metakaolin (MK) contents on macroscopic properties were explored, including the setting time, compressive strength and interfacial bonding strength of AM-based MPC. The effects of MK on the hydration products and the microscopic appearance of the AM-based MPC were investigated. On this basis, the MPC mix with optimal performance was selected for 3D printing performance testing. The effects of the rapid-solidification 3D printing process and conventional pouring process on the microstructure and composition of MPC were compared. The results showed that 4–6% MK improved the mechanical properties, bonding properties and later stability of the AM-based MPC. A 3D printer that integrates quick-setting concrete, mixing, stirring and extruding functions was developed. The printer can successfully print AM-based MPC, and the components have good extrusion, construction and mechanical properties. Compared with the traditional pouring process, this rapid-solidification 3D printing technology accelerates the formation of hydration products, but may reduce the compactness of the components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
       <li><a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/chen_xuhao"><b>Chen</b> Xuhao</a>, <a href="../../../author/li_nan"><b>Li</b> Nan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../li_chen_li.2023.3PoFSBFRCBM/">3D Printing of Fast Setting Basalt Fiber-Reinforced Cement-Based Materials</a></li>
       <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a></li>
@@ -99,7 +70,35 @@ tags:
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
       <li><a href="../../../author/zhao_yanhua"><b>Zhao</b> Yanhua</a>, <a href="../../../author/meng_wei"><b>Meng</b> Wei</a>, <a href="../../../author/wang_peifu"><b>Wang</b> Peifu</a>, <a href="../../../author/qian_dongqing"><b>Qian</b> Dongqing</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhao_meng_wang_qian.2022.RPoC3PTaIESMaMDC/">Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_deng_li_li.2025.PoAMBMPCaAoRS3PT,
+      author            = "Nan Li and Yongjie Deng and Weihong Li and Lingyu Li and Hongfa Yu and Haiyan Ma and Haotian Fan and Weimin Yu and Xiaoming Wang",
+      title             = "Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology",
+      doi               = "10.1680/jmacr.25.00025",
+      year              = "2025",
+      journal           = "Magazine of Concrete Research",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Li, “Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology”, <i>Magazine of Concrete Research</i>, 2025, doi: 10.1680/jmacr.25.00025.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Nan, Yongjie Deng, Weihong Li, Lingyu Li, Hongfa Yu, Haiyan Ma, Haotian Fan, Weimin Yu, and Xiaoming Wang. “Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology”. <i>Magazine of Concrete Research</i>, 2025. https://doi.org/10.1680/jmacr.25.00025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

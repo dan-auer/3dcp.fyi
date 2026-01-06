@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pedro Drumond, Geysiane Milagres, Paloma Parassen, Luana Santos, Diôgo Oliveira, José Carvalho, Gustavo Veríssimo, José Ribeiro
+    - footer
+title: Drumond Pedro, Milagres Geysiane, Parassen Paloma, Santos Luana, Oliveira Diôgo, Carvalho José, Veríssimo Gustavo, Ribeiro José
 description:
 tags:
  - assessment
@@ -16,36 +17,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Assessment of Printing Direction in Flexural Tests of 3D Printed Reinforced Concrete Beams ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1590/s1983-41952025000400001" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1590/s1983-41952025000400001</a>
+#Assessment of Printing Direction in Flexural Tests of 3D Printed Reinforced Concrete Beams ([2025-10](date/2025/10))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1590/s1983-41952025000400001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1590/s1983-41952025000400001" target="_blank">10.1590/s1983-41952025000400001</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-9891-2700" title="ORCID: 0009-0007-9891-2700" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/drumond_henrique-cota_pedro"><b>Drumond</b>&nbsp;Pedro</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8586-3179" title="ORCID: 0000-0001-8586-3179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/milagres_faria-barros_geysiane"><b>Milagres</b>&nbsp;Geysiane</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-2392-787X" title="ORCID: 0009-0003-2392-787X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parassen_renata_paloma"><b>Parassen</b>&nbsp;Paloma</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-0522-9010" title="ORCID: 0009-0001-0522-9010" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santos_nascimento-procopio_luana"><b>Santos</b>&nbsp;Luana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4771-8971" title="ORCID: 0000-0002-4771-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oliveira_silva_diogo"><b>de&nbsp;Oliveira</b>&nbsp;Diôgo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5785-3213" title="ORCID: 0000-0001-5785-3213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carvalho_maria-franco_jose"><b>de&nbsp;Carvalho</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8858-9985" title="ORCID: 0000-0002-8858-9985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/verissimo_de-souza_gustavo"><b>Veríssimo</b>&nbsp;Gustavo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4069-7001" title="ORCID: 0000-0003-4069-7001" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro_carlos-lopes_jose"><b>Ribeiro</b>&nbsp;José</a></span><br>
+Journal Article - Revista IBRACON de Estruturas e Materiais, Vol. 18, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/drumond_henrique-cota_pedro"><b>Drumond</b> Pedro</a> <a href="https://orcid.org/0009-0007-9891-2700" title="ORCID: 0009-0007-9891-2700" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/milagres_faria-barros_geysiane"><b>Milagres</b> Geysiane</a> <a href="https://orcid.org/0000-0001-8586-3179" title="ORCID: 0000-0001-8586-3179" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/parassen_renata_paloma"><b>Parassen</b> Paloma</a> <a href="https://orcid.org/0009-0003-2392-787X" title="ORCID: 0009-0003-2392-787X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santos_nascimento-procopio_luana"><b>Santos</b> Luana</a> <a href="https://orcid.org/0009-0001-0522-9010" title="ORCID: 0009-0001-0522-9010" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oliveira_silva_diogo"><b>de Oliveira</b> Diôgo</a> <a href="https://orcid.org/0000-0002-4771-8971" title="ORCID: 0000-0002-4771-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/carvalho_maria-franco_jose"><b>de Carvalho</b> José</a> <a href="https://orcid.org/0000-0001-5785-3213" title="ORCID: 0000-0001-5785-3213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/verissimo_de-souza_gustavo"><b>Veríssimo</b> Gustavo</a> <a href="https://orcid.org/0000-0002-8858-9985" title="ORCID: 0000-0002-8858-9985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ribeiro_carlos-lopes_jose"><b>Ribeiro</b> José</a> <a href="https://orcid.org/0000-0003-4069-7001" title="ORCID: 0000-0003-4069-7001" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Revista IBRACON de Estruturas e Materiais, Vol. 18, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#direction`](keyword/direction)
-    [`#flexural`](keyword/flexural)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessment%20of%20Printing%20Direction%20in%20Flexural%20Tests%20of%203D%20Printed%20Reinforced%20Concrete%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021335237&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415295019" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1590/s1983-41952025000400001" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1590/s1983-41952025000400001?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In Brazil, research on 3D-printed mortar remains nascent, with limited progress in structural applications. In this context, the present study aims to evaluate the structural impact of the printing direction on 3D-printed mortar beams. The study compares three types of beams: those printed in the longitudinal direction, those printed in the transverse direction, and conventionally cast beams. All beams were longitudinally reinforced and subjected to flexural testing. As anticipated, the cast beams exhibited superior strength compared to the beams printed with layers oriented longitudinally along the beam's axis. Beams printed with layers in the transverse direction demonstrated a significant reduction in strength, attributed to weakened interlayer bonding, creating preferential crack propagation paths.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -85,7 +59,37 @@ tags:
       <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schr_nere_mech.2019.CWIb3PCVaQbNR/">Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{drum_mila_para_sant.2025.AoPDiFTo3PRCB,
+      author            = "Pedro Henrique Cota Drumond and Geysiane Faria Barros Milagres and Paloma Renata Parassen and Luana Nascimento Procópio Santos and Diôgo Silva de Oliveira and José Maria Franco de Carvalho and Gustavo de Souza Veríssimo and José Carlos Lopes Ribeiro",
+      title             = "Assessment of Printing Direction in Flexural Tests of 3D Printed Reinforced Concrete Beams",
+      doi               = "10.1590/s1983-41952025000400001",
+      year              = "2025",
+      journal           = "Revista IBRACON de Estruturas e Materiais",
+      volume            = "18",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. H. C. Drumond, “Assessment of Printing Direction in Flexural Tests of 3D Printed Reinforced Concrete Beams”, <i>Revista IBRACON de Estruturas e Materiais</i>, vol. 18, no. 4, 2025, doi: 10.1590/s1983-41952025000400001.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Drumond, Pedro Henrique Cota, Geysiane Faria Barros Milagres, Paloma Renata Parassen, Luana Nascimento Procópio Santos, Diôgo Silva de Oliveira, José Maria Franco de Carvalho, Gustavo de Souza Veríssimo, and José Carlos Lopes Ribeiro. “Assessment of Printing Direction in Flexural Tests of 3D Printed Reinforced Concrete Beams”. <i>Revista IBRACON De Estruturas E Materiais</i> 18, no. 4 (2025). https://doi.org/10.1590/s1983-41952025000400001.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

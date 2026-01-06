@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Huang Shuyi 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../huan_anto_dill_xu.2025.LI3CPCSS/">Lamella-Inspired 3D Concrete Printed Column-Slab System:<br/>Balancing Act for Productivity and Sustainability</a></li>
   <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huan_xu_anto_dill.2024.SSL/">Self-Supporting Lamellae:<br/>Shape Variation Methods for the 3D Concrete Printing of Large Overhang Structures</a></li>
   <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/hu_hanyang"><b>Hu</b> Hanyang</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../huan_xu_hu.2023.SFaPPGMfLA3CPP/">Space-Filling and Print-Path-Generation-Methods for Large-Area 3D Concrete Printing Pavements</a></li>

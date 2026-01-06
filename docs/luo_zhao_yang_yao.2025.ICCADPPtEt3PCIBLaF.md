@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaoyu Luo, Yuqi Zhao, Min Yang, Xiaofei Yao, Jiawei Hu, Hao Shi, Mingyang Li, Yuan Zhao, Jinhui Qin, Ziyang Tian
+    - footer
+title: Luo Xiaoyu, Zhao Yuqi, Yang Min, Yao Xiaofei, Hu Jiawei, Shi Hao, Li Mingyang, Zhao Yuan, Qin Jinhui, Tian Ziyang
 description:
 tags:
  - agent
@@ -18,40 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.144707" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.144707</a>
+#Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.144707" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144707" target="_blank">10.1016/j.conbuildmat.2025.144707</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-1040-5022" title="ORCID: 0009-0005-1040-5022" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/luo_xiaoyu"><b>Luo</b>&nbsp;Xiaoyu</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-3661-260X" title="ORCID: 0009-0002-3661-260X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_yuqi"><b>Zhao</b>&nbsp;Yuqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_min"><b>Yang</b>&nbsp;Min</a></span>, <a href="../../../author/yao_xiaofei"><b>Yao</b>&nbsp;Xiaofei</a></span>, <a href="../../../author/hu_jiawei"><b>Hu</b>&nbsp;Jiawei</a></span>, <a href="../../../author/shi_hao"><b>Shi</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <a href="../../../author/zhao_yuan"><b>Zhao</b>&nbsp;Yuan</a></span>, <a href="../../../author/qin_jinhui"><b>Qin</b>&nbsp;Jinhui</a></span>, <a href="../../../author/tian_ziyang"><b>Tian</b>&nbsp;Ziyang</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 505, No. 144707
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a> <a href="https://orcid.org/0009-0005-1040-5022" title="ORCID: 0009-0005-1040-5022" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a> <a href="https://orcid.org/0009-0002-3661-260X" title="ORCID: 0009-0002-3661-260X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_min"><b>Yang</b> Min</a> <a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>
-,     <a href="../../../author/hu_jiawei"><b>Hu</b> Jiawei</a>
-,     <a href="../../../author/shi_hao"><b>Shi</b> Hao</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_yuan"><b>Zhao</b> Yuan</a>
-,     <a href="../../../author/qin_jinhui"><b>Qin</b> Jinhui</a>
-,     <a href="../../../author/tian_ziyang"><b>Tian</b> Ziyang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 505, No. 144707
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#filament`](keyword/filament)
-    [`#interface`](keyword/interface)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Introducing%20Cement%20Composite%20Agents%20During%20Printing%20Process%20to%20Enhance%20the%203D-Printed%20Concrete%20Interfaces%20Between%20Layers%20and%20Filaments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4416879185" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.144707" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.144707?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interface deficiencies between layers and filaments remain a significant challenge for 3D-printed concrete (3DPC). In this study, three methods with expansion agent (EA) modified cement composite agents were proposed: (1) brushing the interlayer interface slurry, (2) pre-filling inter-filament channel voids during printing process, and (3) combining the use of these two methods. 0 %, 3 %, 6 %, and 9 % were selected as the EA dosage of the agents. Four kinds of tests were conducted: compressive tests, direct tensile tests, computed tomography (CT) scanning, and scanning electron microscopy (SEM). In compressive tests, compared with the control group, the highest compressive strength occurred with the third method, increasing by 96.2 %, 136.1 %, and 77.4 % in three directions, respectively, while anisotropic parameters decreased to 0.03 from 0.22. In tensile tests, the optimal inter-filament interface bonding strengths were achieved at 9 % EA dosage with the third method, increasing by 180 %. The increase in mechanical strength resulted from the filling of channel voids and the improvement of interface microstructure. The AFt, produced from the hydration of EA, filled pores and acted as an interfacial connection bond, enhancing structural connectivity at the microscale and changing the orientation angles of micro pores. These reduce the anisotropy of 3DPC in the compressive and tensile tests. In combination with tensile test results, the inter-filament load-transfer mechanism was established. The findings reveal that the newly developed methods have the potential to address interface deficiency problems in 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/aman_mohammed_abdulkerim"><b>Aman</b> Abdulkerim</a>, <a href="../../../author/yang_zhe"><b>Yang</b> Zhe</a>, <a href="../../../author/xin_yubo"><b>Xin</b> Yubo</a>, <a href="../../../author/zhang_xiaoman"><b>Zhang</b> Xiaoman</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../aman_yang_xin_zhan.2025.IMOi3PCtMDS/">Introducing Magnesium Oxide into 3D Printed Concrete to Mitigate Dry-Shrinkage</a></li>
       <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../amin_mema.2024.AoABi3CPfMPE/">Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation</a></li>
@@ -130,7 +100,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF,
+      author            = "Xiaoyu Luo and Yuqi Zhao and Min Yang and Xiaofei Yao and Jiawei Hu and Hao Shi and Mingyang Li and Yuan Zhao and Jinhui Qin and Ziyang Tian",
+      title             = "Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments",
+      doi               = "10.1016/j.conbuildmat.2025.144707",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "505",
+      pages             = "144707",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Luo, “Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments”, <i>Construction and Building Materials</i>, vol. 505, p. 144707, 2025, doi: 10.1016/j.conbuildmat.2025.144707.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Luo, Xiaoyu, Yuqi Zhao, Min Yang, Xiaofei Yao, Jiawei Hu, Hao Shi, Mingyang Li, Yuan Zhao, Jinhui Qin, and Ziyang Tian. “Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments”. <i>Construction and Building Materials</i> 505 (2025): 144707. https://doi.org/10.1016/j.conbuildmat.2025.144707.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

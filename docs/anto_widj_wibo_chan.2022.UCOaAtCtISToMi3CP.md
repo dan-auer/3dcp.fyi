@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Antoni Antoni, David Widjaya, Alexander Wibowo, Jimmy Chandra, Pamuda Pudjisuryadi, Djwantoro Hardjito
+    - footer
+title: Antoni Antoni, Widjaya David, Wibowo Alexander, Chandra Jimmy, Pudjisuryadi Pamuda, Hardjito Djwantoro
 description:
 tags:
  - accelerator
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://repository.petra.ac.id/19549/1/Publikasi1_05014_8158.pdf) Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing ([2020-12](date/2020/12))
-<a href="https://doi.org/10.1007/978-981-16-7924-7_56" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-16-7924-7_56</a>
+#Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing ([2020-12](date/2020/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://repository.petra.ac.id/19549/1/Publikasi1_05014_8158.pdf) <a href="https://doi.org/10.1007/978-981-16-7924-7_56" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-16-7924-7_56" target="_blank">10.1007/978-981-16-7924-7_56</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6168-7094" title="ORCID: 0000-0001-6168-7094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/antoni_antoni"><b>Antoni</b>&nbsp;Antoni</a></span>, <a href="../../../author/widjaya_christian_david"><b>Widjaya</b>&nbsp;David</a></span>, <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1533-7717" title="ORCID: 0000-0003-1533-7717" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chandra_jimmy"><b>Chandra</b>&nbsp;Jimmy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2508-5608" title="ORCID: 0000-0002-2508-5608" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b>&nbsp;Pamuda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0262-9166" title="ORCID: 0000-0002-0262-9166" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hardjito_djwantoro"><b>Hardjito</b>&nbsp;Djwantoro</a></span><br>
+Contribution - Proceedings of the 5th International Conference on Sustainable Civil Engineering Structures and Construction Materials, pp. 871-880
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a> <a href="https://orcid.org/0000-0001-6168-7094" title="ORCID: 0000-0001-6168-7094" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/widjaya_christian_david"><b>Widjaya</b> David</a>
-,     <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b> Alexander</a>
-,     <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> <a href="https://orcid.org/0000-0003-1533-7717" title="ORCID: 0000-0003-1533-7717" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b> Pamuda</a> <a href="https://orcid.org/0000-0002-2508-5608" title="ORCID: 0000-0002-2508-5608" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hardjito_djwantoro"><b>Hardjito</b> Djwantoro</a> <a href="https://orcid.org/0000-0002-0262-9166" title="ORCID: 0000-0002-0262-9166" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 5th International Conference on Sustainable Civil Engineering Structures and Construction Materials, pp. 871-880
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#setting`](keyword/setting)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Using%20Calcium%20Oxide%20and%20Accelerator%20to%20Control%20the%20Initial%20Setting-Time%20of%20Mortar%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128719512&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4226038854" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-16-7924-7_56" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-16-7924-7_56?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, 3D printing has attracted a lot of attention in the construction industry. Compared with general concrete construction, 3D concrete printing has higher flexibility in creating concrete’s shape and design. 3D concrete printing requires the precise control of fresh concrete properties such as flowability, extrudability, and resistance to segregation during printing process. The initial setting time of the concrete also needs to be controlled as it needs to adhere to the next layer and then harden rapidly in order to support the upper layer. This study proposes a method to control the initial setting time of the concrete for the 3D printing process by using a mixture of calcium oxide powder and accelerators. The study showed that using 5–10% calcium oxide and 2–4% accelerator by mass of cement, the initial setting of the concrete can be varied. It is also shown that adding only accelerator prolongs the setting time of the mixture due to the plasticizer contained therein. By using calcium oxide power, the initial setting time of the concrete can be hastened and the combination of calcium oxide powder and accelerator can reduce the initial setting time while maintaining good workability of the mixture. The addition of accelerator also increases the early compressive strength of the concrete mixture.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
@@ -100,11 +77,42 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/leong_sing"><b>Leong</b> Sing</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mura_leon.2024.WDC/">Waste-Driven Construction:<br/>A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</a></li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/adi_n"><b>Adi</b> N.</a>, <a href="../../../author/kurniawan_e_m"><b>Kurniawan</b> M.</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../anto_adi_kurn_agra.2023.TIoVMAaCCo3PMC/">The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics</a></li>
       <li><a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/mansoor_bilal"><b>Mansoor</b> Bilal</a>, <a href="../../../author/grasley_zachary"><b>Grasley</b> Zachary</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mort_moha_mans_gras.2022.DoTMtEtPoCMfAM/">Development of Test-Methods to Evaluate the Printability of Concrete Materials for Additive Manufacturing</a></li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a>, <a href="../../../author/teopilus_d"><b>Teopilus</b> D.</a>, <a href="../../../author/sunaryo_h_a"><b>Sunaryo</b> A.</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../anto_agra_teop_suna.2021.IotMMaFAf3CP/">Investigation of the Material-Mixtures and Fiber-Addition for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{anto_widj_wibo_chan.2022.UCOaAtCtISToMi3CP,
+      author            = "Antoni Antoni and David Christian Widjaya and Alexander Ricardo Koentjoro Wibowo and Jimmy Chandra and Pamuda Pudjisuryadi and Djwantoro Hardjito",
+      title             = "Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing",
+      doi               = "10.1007/978-981-16-7924-7_56",
+      year              = "2022",
+      volume            = "215",
+      pages             = "871--880",
+      booktitle         = "Proceedings of the 5th International Conference on Sustainable Civil Engineering Structures and Construction Materials",
+      editor            = "Sheila Belayutham and Che Khairil Izam Che Ibrahim and Anizahyati Alisibramulisi and Hazrina Mansor and Muntasir Billah",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Antoni, D. C. Widjaya, A. R. K. Wibowo, J. Chandra, P. Pudjisuryadi and D. Hardjito, “Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing”, in <i>Proceedings of the 5th International Conference on Sustainable Civil Engineering Structures and Construction Materials</i>,  2022, vol. 215, pp. 871–880. doi: 10.1007/978-981-16-7924-7_56.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Antoni, Antoni, David Christian Widjaya, Alexander Ricardo Koentjoro Wibowo, Jimmy Chandra, Pamuda Pudjisuryadi, and Djwantoro Hardjito. “Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing”. In <i>Proceedings of the 5th International Conference on Sustainable Civil Engineering Structures and Construction Materials</i>, edited by Sheila Belayutham, Che Khairil Izam Che Ibrahim, Anizahyati Alisibramulisi, Hazrina Mansor, and Muntasir Billah, 215:871–80, 2022. https://doi.org/10.1007/978-981-16-7924-7_56.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

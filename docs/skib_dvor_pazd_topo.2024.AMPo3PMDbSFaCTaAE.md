@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Szymon Skibicki, Richard Dvořák, Luboš Pazdera, Libor Topolář, Dalibor Kocáb, Martin Alexa, Krzysztof Cendrowski, Marcin Hoffmann
+    - footer
+title: Skibicki Szymon, Dvořák Richard, Pazdera Luboš, Topolář Libor, Kocáb Dalibor, Alexa Martin, Cendrowski Krzysztof, Hoffmann Marcin
 description:
 tags:
  - acoustic
@@ -20,40 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138957" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138957</a>
+#Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138957" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138957" target="_blank">10.1016/j.conbuildmat.2024.138957</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0024-2344" title="ORCID: 0000-0003-0024-2344" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dvorak_richard"><b>Dvořák</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-5644" title="ORCID: 0000-0002-9416-5644" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pazdera_lubos"><b>Pazdera</b>&nbsp;Luboš</a></span>, <a href="../../../author/topolar_libor"><b>Topolář</b>&nbsp;Libor</a></span>, <a href="../../../author/kocab_dalibor"><b>Kocáb</b>&nbsp;Dalibor</a></span>, <a href="../../../author/alexa_martin"><b>Alexa</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b>&nbsp;Krzysztof</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 452, No. 138957
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dvorak_richard"><b>Dvořák</b> Richard</a> <a href="https://orcid.org/0000-0003-0024-2344" title="ORCID: 0000-0003-0024-2344" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a> <a href="https://orcid.org/0000-0002-9416-5644" title="ORCID: 0000-0002-9416-5644" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a>
-,     <a href="../../../author/kocab_dalibor"><b>Kocáb</b> Dalibor</a>
-,     <a href="../../../author/alexa_martin"><b>Alexa</b> Martin</a>
-,     <a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a> <a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 452, No. 138957
-
-:aca-blank:{ .lg .middle}
-    [`#acoustic`](keyword/acoustic)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#compression`](keyword/compression)
-    [`#determination`](keyword/determination)
-    [`#emission`](keyword/emission)
-    [`#flexural`](keyword/flexural)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#standard`](keyword/standard)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anisotropic%20Mechanical%20Properties%20of%203D%20Printed%20Mortar%20Determined%20by%20Standard%20Flexural%20and%20Compression-Test%20and%20Acoustic%20Emission" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208042205&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404019132" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138957" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138957?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mechanical properties of hardened 3D-printed compounds are an important factor for the future design of such structures. The disparities between casted and 3D-printed concrete can be attributed to variations in compaction levels and the multi-layered nature of the entire system. Both of these issues can influence the mechanical properties of the final element. Additionally, the printing process may be hindered by the composition of the mixture, particularly when fibers are present, as they can alter the pump output and the relationship between layers. This paper discusses the impact of different layer compositions and two types of mixes on the mechanical properties of 3D-printed elements. The study explores two types of layer compositions (linear and pyramid) and three-layer amounts (3 layers, 4 layers, and 5 layers). Furthermore, two types of mixes were considered: one without fibers and one with fibers. Acoustic emission techniques were employed to investigate the entire failure process, including the occurrence of cracks. Moreover, fundamental acoustic parameters were established for 3D-printed elements. The research demonstrates that layer distribution and the number of layers do not significantly affect mechanical properties. However, the mechanical properties can be altered by up to 29.6 % based on the loading direction of the specimens. Furthermore, statistically insignificant differences were observed in the resonant frequency and ultrasonic pulse velocity between printed and casted specimens. Lastly, the majority of cracks in the reference specimens were found in the middle, whereas for multi-layered printed specimens, cracks occurred not only in the center but also at a distance from it. This phenomenon shows that printed specimens fail in different ways than ordinary ones. For this purpose, the eccentric cracking coefficient was designed, which can be used to describe the intensity of eccentric cracking in 3D printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/kesek_rafal"><b>Kęsek</b> Rafał</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hage_maro_mroz_kese.2022.ILBSTi3PMMfCA/">Inter-Layer Bond Strength Testing in 3D Printed Mineral Materials for Construction Applications</a></li>
@@ -112,10 +82,40 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>
       <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ingl_prem.2025.AEEo3PUHPCwaWCAUFaHS/">Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States</a></li>
       <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{skib_dvor_pazd_topo.2024.AMPo3PMDbSFaCTaAE,
+      author            = "Szymon Skibicki and Richard Dvořák and Luboš Pazdera and Libor Topolář and Dalibor Kocáb and Martin Alexa and Krzysztof Cendrowski and Marcin Hoffmann",
+      title             = "Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission",
+      doi               = "10.1016/j.conbuildmat.2024.138957",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "452",
+      pages             = "138957",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Skibicki, “Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission”, <i>Construction and Building Materials</i>, vol. 452, p. 138957, 2024, doi: 10.1016/j.conbuildmat.2024.138957.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Skibicki, Szymon, Richard Dvořák, Luboš Pazdera, Libor Topolář, Dalibor Kocáb, Martin Alexa, Krzysztof Cendrowski, and Marcin Hoffmann. “Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission”. <i>Construction and Building Materials</i> 452 (2024): 138957. https://doi.org/10.1016/j.conbuildmat.2024.138957.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

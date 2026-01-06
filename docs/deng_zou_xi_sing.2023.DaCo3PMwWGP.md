@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qi Deng, Shuai Zou, Yonghui Xi, Amardeep Singh
+    - footer
+title: Deng Qi, Zou Shuai, Xi Yonghui, Singh Amardeep
 description:
 tags:
  - characteristic
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/6/1476/pdf?version=1686118232) Development and Characteristic of 3D Printable Mortar with Waste-Glass-Powder ([2023-06](date/2023/06))
-<a href="https://doi.org/10.3390/buildings13061476" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13061476</a>
+#Development and Characteristic of 3D Printable Mortar with Waste-Glass-Powder ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/6/1476/pdf?version=1686118232) <a href="https://doi.org/10.3390/buildings13061476" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13061476" target="_blank">10.3390/buildings13061476</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5167-0969" title="ORCID: 0000-0001-5167-0969" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_qi"><b>Deng</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_shuai"><b>Zou</b>&nbsp;Shuai</a></span>, <a href="../../../author/xi_yonghui"><b>Xi</b>&nbsp;Yonghui</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 6, No. 1476
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> <a href="https://orcid.org/0000-0001-5167-0969" title="ORCID: 0000-0001-5167-0969" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xi_yonghui"><b>Xi</b> Yonghui</a>
-,     <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 6, No. 1476
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#development`](keyword/development)
-    [`#glass`](keyword/glass)
-    [`#mortar`](keyword/mortar)
-    [`#powder`](keyword/powder)
-    [`#printability`](keyword/printability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20and%20Characteristic%20of%203D%20Printable%20Mortar%20with%20Waste-Glass-Powder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163580265&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4379798820" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13061476" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13061476?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) is emerging as an innovative technology and shows promise to revolutionize conventional construction modes. However, the current 3D-printed concrete (3DPC) generally requires higher cement content than conventional concrete to ensure its rheology for printing. From the perspective of cleaner production and reduce carbon emissions, this study explored the feasibility of replacing parts of cement with waste glass powder (WGP, 0%, 20%, 40%, and 60% by mass) and compared the properties of the developed 3DPC, including fluidity (flowable spread), rheology, heat of hydration, buildability, compressive strength, anisotropy, and drying shrinkage. The results showed that less than 40% WGP replacement had limited influence on the initial fluidity and static yield stress, as well as drying shrinkage, of 3DPC. Although the WGP inclusion decreased the compressive strength, it slowed down the fluidity loss and static yield stress increase, which could extend the workable time of the mixture for printing and improve buildability. The 40% WGP replacement was found increase to the buildability of the printing mixture from 150 mm to 155 mm. The printing mixture prepared with 60% WGP reduced the dying shrinkage by 50%. An exponential decay function between the fluidity and static yield stress was established so that the simple fluidity test could be used as an indicator of printability. The findings in this study provided a solution to reduce the consumption of cement in 3DPC, which could contribute to a greener production in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
@@ -91,8 +70,9 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
       <li><a href="../../../author/makul_natt"><b>Makul</b> Natt</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../maku.2025.3CP/">3D Concrete Printing</a></li>
@@ -106,4 +86,35 @@ tags:
       <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a>, <a href="../../../author/mahil_ahmed"><b>Mahil</b> Ahmed</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rahm_rawa_yang_mahi.2024.ACRoFaRPo3PCC/">A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites</a></li>
       <li><a href="../../../author/sun_jiapan"><b>Sun</b> Jiapan</a>, <a href="../../../author/fan_bingbing"><b>Fan</b> Bingbing</a>, <a href="../../../author/li_bin"><b>Li</b> Bin</a>, <a href="../../../author/zhang_yimeng"><b>Zhang</b> Yimeng</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../sun_fan_li_zhan.2024.ASoVaCo3PMwYRS/">A Study of Viability and Characteristic of 3D Printable Mortar with Yellow River Sand</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{deng_zou_xi_sing.2023.DaCo3PMwWGP,
+      author            = "Qi Deng and Shuai Zou and Yonghui Xi and Amardeep Singh",
+      title             = "Development and Characteristic of 3D Printable Mortar with Waste-Glass-Powder",
+      doi               = "10.3390/buildings13061476",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "6",
+      pages             = "1476",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Deng, S. Zou, Y. Xi and A. Singh, “Development and Characteristic of 3D Printable Mortar with Waste-Glass-Powder”, <i>Buildings</i>, vol. 13, no. 6, p. 1476, 2023, doi: 10.3390/buildings13061476.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Deng, Qi, Shuai Zou, Yonghui Xi, and Amardeep Singh. “Development and Characteristic of 3D Printable Mortar with Waste-Glass-Powder”. <i>Buildings</i> 13, no. 6 (2023): 1476. https://doi.org/10.3390/buildings13061476.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

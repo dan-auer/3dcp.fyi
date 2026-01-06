@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Biao Zhou, Hongru Zhou, Hideki Yoshioka, Takafumi Noguchi, Kai Wang, Bochao Sun, Yike Guo, Dianchao Wang, Weijian Zhao
+    - footer
+title: Zhou Biao, Zhou Hongru, Yoshioka Hideki, Noguchi Takafumi, Wang Kai, Sun Bochao, Guo Yike, Wang Dianchao, Zhao Weijian
 description:
 tags:
  - concrete
@@ -16,37 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112706" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112706</a>
+#Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112706" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112706" target="_blank">10.1016/j.jobe.2025.112706</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3517-699X" title="ORCID: 0000-0003-3517-699X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_biao"><b>Zhou</b>&nbsp;Biao</a></span>, <a href="../../../author/zhou_hongru"><b>Zhou</b>&nbsp;Hongru</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3875-0600" title="ORCID: 0000-0003-3875-0600" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoshioka_hideki"><b>Yoshioka</b>&nbsp;Hideki</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6115-2292" title="ORCID: 0000-0001-6115-2292" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noguchi_takafumi"><b>Noguchi</b>&nbsp;Takafumi</a></span>, <a href="../../../author/wang_kai"><b>Wang</b>&nbsp;Kai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_bochao"><b>Sun</b>&nbsp;Bochao</a></span>, <a href="../../../author/guo_yike"><b>Guo</b>&nbsp;Yike</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_dianchao"><b>Wang</b>&nbsp;Dianchao</a></span>, <a href="../../../author/zhao_weijian"><b>Zhao</b>&nbsp;Weijian</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112706
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_biao"><b>Zhou</b> Biao</a> <a href="https://orcid.org/0000-0003-3517-699X" title="ORCID: 0000-0003-3517-699X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_hongru"><b>Zhou</b> Hongru</a>
-,     <a href="../../../author/yoshioka_hideki"><b>Yoshioka</b> Hideki</a> <a href="https://orcid.org/0000-0003-3875-0600" title="ORCID: 0000-0003-3875-0600" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> <a href="https://orcid.org/0000-0001-6115-2292" title="ORCID: 0000-0001-6115-2292" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_kai"><b>Wang</b> Kai</a>
-,     <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a> <a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_yike"><b>Guo</b> Yike</a>
-,     <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a> <a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112706
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#elevation`](keyword/elevation)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#interlayer`](keyword/interlayer)
-    [`#mechanics`](keyword/mechanics)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Microstructure%20Evolution%20of%203D%20Printed%20Concrete%20Interlayer%20at%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003542316&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409528911" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112706" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112706?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As the technology of 3D printed concrete (3DPC) continues to advance in modern construction, understanding its fire resistance becomes increasingly important. Despite this, the performance of 3DPC under elevated temperatures—particularly in the interlayer regions, which are the weakest parts of the structure—has not been thoroughly examined. This study explores the mechanical and microstructural changes occurring in the interlayers of 3DPC when subjected to high temperatures. Through interlayer bond strength tests and advanced techniques, including X-ray Computed Tomography (CT), Scanning Electron Microscopy (SEM), X-ray Diffraction (XRD), and Thermogravimetric Analysis (TGA), it is found that elevated temperatures markedly decrease interlayer strength, leading to significant pore formation and phase transitions. Specifically, interlayer bond strength diminished by 83.1% at 600°C and exceeded 90% at 800°C. A notable increase in pore count—up by 35% at 400°C compared to room temperature—was also recorded. Additionally, mass loss increased significantly, reaching 13.6% at 800°C. These results indicate substantial degradation of structural integrity, providing critical insights for the development of more fire-resistant 3DPC materials and enhancing fire safety in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../che_yang.2022.HPPSaCSoEB3PCPCNCC/">Hydration Products, Pore-Structure, and Compressive Strength of Extrusion-Based 3D Printed Cement-Pastes Containing Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
@@ -91,8 +64,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../xiao_han_zhan_zou.2021.MaMEo3PCwPFaRSaET/">Mechanical and Microstructural Evolution of 3D Printed Concrete with Polyethylene-Fiber and Recycled Sand at Elevated Temperatures</a></li>
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>
@@ -100,4 +73,33 @@ tags:
       <li><a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT/">Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET,
+      author            = "Biao Zhou and Hongru Zhou and Hideki Yoshioka and Takafumi Noguchi and Kai Wang and Bochao Sun and Yike Guo and Dianchao Wang and Weijian Zhao",
+      title             = "Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures",
+      doi               = "10.1016/j.jobe.2025.112706",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112706",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zhou, “Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures”, <i>Journal of Building Engineering</i>, p. 112706, 2025, doi: 10.1016/j.jobe.2025.112706.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Biao, Hongru Zhou, Hideki Yoshioka, Takafumi Noguchi, Kai Wang, Bochao Sun, Yike Guo, Dianchao Wang, and Weijian Zhao. “Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures”. <i>Journal of Building Engineering</i>, 2025, 112706. https://doi.org/10.1016/j.jobe.2025.112706.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

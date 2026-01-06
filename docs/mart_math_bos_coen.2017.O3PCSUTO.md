@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pascal Martens, Maarten Mathot, Freek Bos, Jeroen Coenders
+    - footer
+title: Martens Pascal, Mathot Maarten, Bos Freek, Coenders Jeroen
 description:
 tags:
  - concrete
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimizing 3D Printed Concrete Structures Using Topology Optimization ([2017-06](date/2017/06))
-<a href="https://doi.org/10.1007/978-3-319-59471-2_37" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-59471-2_37</a>
+#Optimizing 3D Printed Concrete Structures Using Topology Optimization ([2017-06](date/2017/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-59471-2_37" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-59471-2_37" target="_blank">10.1007/978-3-319-59471-2_37</a>
 
--------------------------
+<a href="../../../author/martens_pascal"><b>Martens</b>&nbsp;Pascal</a></span>, <a href="../../../author/mathot_maarten"><b>Mathot</b>&nbsp;Maarten</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <a href="../../../author/coenders_jeroen"><b>Coenders</b>&nbsp;Jeroen</a></span><br>
+Contribution - High Tech Concrete, pp. 301-309
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/martens_pascal"><b>Martens</b> Pascal</a>
-,     <a href="../../../author/mathot_maarten"><b>Mathot</b> Maarten</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/coenders_jeroen"><b>Coenders</b> Jeroen</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - High Tech Concrete, pp. 301-309
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%203D%20Printed%20Concrete%20Structures%20Using%20Topology%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134841958&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,24 +35,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2622123565" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-59471-2_37" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-59471-2_37?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing and 3D printing are rapidly developing digital fabrication techniques (Lu et al. 2015). After the first steps in small scale printing of metals (Frazier 2014) and plastics (Gibson et al. 2014) have been made, research from various groups around the world is now also focusing on large scale printing in concrete (Lim et al. 2012) and making this technology more suitable for the construction scale. The potential of using this technology is that it will be possible to create complex and/or customised concrete designs with the expectation that the costs will be low and the construction speeds will be high. Additionally, this new technology will provide opportunities to create more efficient structures. Structures can already be optimised in the early stages of the design for weight and structural performance, but the resulting optimised structures are often difficult to manufacture due to the resulting geometry of the design. Additive manufacturing can address this issue without high costs for moulds and labour.  This paper will present a novel methodology to include material performance and manufacturing constraints of 3D printed concrete in design optimisation processes. The study examines the possibility to optimise concrete structures in the design phase. In order to save material and thus create more sustainable and more cost efficient structures, a topology optimisation method has been created specifically for 3D printed concrete. Traditional topology optimisation methods consider isotropic and linear elastic material and will not necessarily produce realisable and reliable optimised structures. In the algorithm presented constraints of the printing process and material properties from physical testing of this layered material have been considered in the optimisation. By adopting this methodology more realistic and feasible optimal concrete structures can be designed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/shukla_kant_bishnu"><b>Shukla</b> Bishnu</a>, <a href="../../../author/bharti_gaurav"><b>Bharti</b> Gaurav</a>, <a href="../../../author/parashar_bhupender"><b>Parashar</b> Bhupender</a>, <a href="../../../author/sharma_kumar_pushpendra"><b>Sharma</b> Pushpendra</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../shuk_bhar_para_shar.2025.VItPo3CPfSC/">Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction:<br/>Current Status and Future Prospects</a></li>
@@ -102,4 +83,34 @@ tags:
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mart_math_bos_coen.2017.O3PCSUTO,
+      author            = "Pascal Martens and Maarten Mathot and Freek Paul Bos and Jeroen Coenders",
+      title             = "Optimizing 3D Printed Concrete Structures Using Topology Optimization",
+      doi               = "10.1007/978-3-319-59471-2_37",
+      year              = "2017",
+      pages             = "301--309",
+      booktitle         = "High Tech Concrete: Where Technology and Engineering Meet",
+      editor            = "Dirk Arend Hordijk and Mladena Luković",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Martens, M. Mathot, F. P. Bos and J. Coenders, “Optimizing 3D Printed Concrete Structures Using Topology Optimization”, in <i>High Tech Concrete: Where Technology and Engineering Meet</i>,  2017, pp. 301–309. doi: 10.1007/978-3-319-59471-2_37.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Martens, Pascal, Maarten Mathot, Freek Paul Bos, and Jeroen Coenders. “Optimizing 3D Printed Concrete Structures Using Topology Optimization”. In <i>High Tech Concrete: Where Technology and Engineering Meet</i>, edited by Dirk Arend Hordijk and Mladena Luković, 301–9, 2017. https://doi.org/10.1007/978-3-319-59471-2_37.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

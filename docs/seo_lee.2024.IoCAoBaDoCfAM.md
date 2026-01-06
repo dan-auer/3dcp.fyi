@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eun-A Seo, Hojae Lee
+    - footer
+title: Seo Eun-A, Lee Hojae
 description:
 tags:
  - additive
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03871) Influence of Chemical Admixtures on Buildability and Deformation of Concrete for Additive Manufacturing ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03871" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03871</a>
+#Influence of Chemical Admixtures on Buildability and Deformation of Concrete for Additive Manufacturing ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03871) <a href="https://doi.org/10.1016/j.cscm.2024.e03871" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03871" target="_blank">10.1016/j.cscm.2024.e03871</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7377-3448" title="ORCID: 0000-0002-7377-3448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seo_eun-a"><b>Seo</b>&nbsp;Eun-A</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e03871
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a> <a href="https://orcid.org/0000-0002-7377-3448" title="ORCID: 0000-0002-7377-3448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> <a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e03871
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#admixture`](keyword/admixture)
-    [`#buildability`](keyword/buildability)
-    [`#chemical`](keyword/chemical)
-    [`#concrete`](keyword/concrete)
-    [`#deformation`](keyword/deformation)
-    [`#influence`](keyword/influence)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Chemical%20Admixtures%20on%20Buildability%20and%20Deformation%20of%20Concrete%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207066529&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403522556" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03871" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03871?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, the buildability of three-dimensionally (3D) printed (3DP) concrete that uses coarse aggregate was evaluated in the fresh state according to the contents of three chemical admixtures (high-range water-reducing agent (HRWRA), viscosity-modifying agent (VMA), and setting-time modifying agent), and the correlation between fluidity changes and buildability was analyzed. Polycarboxylate HRWRA and VMA contents were varied to control the flowability and static yield stress, which affect the workability. In addition, the SMA content was varied, and slump tests and table flow tests were performed at 30-minute intervals up to 6.5 hours after mixing to measure flowability. Simultaneously, static yield stress was measured to analyze rheological changes, and penetration resistance and green strength tests were performed to analyze the main factors influencing buildability over time. The highest buildability was observed when the VMA content was 1.5%. The static yield stress of fresh concrete could be ≤3000 Pa to guarantee adequate 3DP concrete transport performance while that at 1 h after mixing could be ≥2000 Pa to secure buildability. When the penetration resistance of fresh concrete is ≥80 kPa, the deflection of concrete may be <10%. Through this, buildability can be approximately judged based on penetration resistance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
@@ -105,8 +85,37 @@ tags:
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{seo_lee.2024.IoCAoBaDoCfAM,
+      author            = "Eun-A Seo and Hojae Lee",
+      title             = "Influence of Chemical Admixtures on Buildability and Deformation of Concrete for Additive Manufacturing",
+      doi               = "10.1016/j.cscm.2024.e03871",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e03871",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E.-A. Seo  and H. Lee, “Influence of Chemical Admixtures on Buildability and Deformation of Concrete for Additive Manufacturing”, <i>Case Studies in Construction Materials</i>, p. e03871, 2024, doi: 10.1016/j.cscm.2024.e03871.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Seo, Eun-A, and Hojae Lee. “Influence of Chemical Admixtures on Buildability and Deformation of Concrete for Additive Manufacturing”. <i>Case Studies in Construction Materials</i>, 2024, e03871. https://doi.org/10.1016/j.cscm.2024.e03871.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

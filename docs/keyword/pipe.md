@@ -8,7 +8,7 @@ search:
 
 # #pipe
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
   <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/besharatian_boshra"><b>Besharatian</b> Boshra</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hasa_besh_dora.2025.ACPCP/">Additively Constructed Plain Concrete Pipes:<br/>Structural Performance and Site Implementation</a></li>
   <li><a href="../../../author/ravindran_vishwanath"><b>Ravindran</b> Vishwanath</a>, <a href="../../../author/ranganathan_thiyagarajan"><b>Ranganathan</b> Thiyagarajan</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ravi_rang_rahu.2024.MoPSiYSF/">Migration of Particles Suspended in Yield-Stress Fluids:<br/>Insights from Numerical Simulation of Pipe Flow of 3D Printable Concrete</a></li>

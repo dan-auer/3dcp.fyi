@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Asel Aguilar Sanchez, Timothy Wangler, Matteo Stefanoni, Ueli Angst
+    - footer
+title: Aguilar Sanchez Asel, Wangler Timothy, Stefanoni Matteo, Angst Ueli
 description:
 tags:
  - carbonation
@@ -12,28 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jmi.13087) Microstructural Examination of Carbonated 3D Printed Concrete ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1111/jmi.13087" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1111/jmi.13087</a>
+#Microstructural Examination of Carbonated 3D Printed Concrete ([2022-02](date/2022/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jmi.13087) <a href="https://doi.org/10.1111/jmi.13087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1111/jmi.13087" target="_blank">10.1111/jmi.13087</a>
 
--------------------------
+<a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b>&nbsp;Asel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7630-1083" title="ORCID: 0000-0002-7630-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stefanoni_matteo"><b>Stefanoni</b>&nbsp;Matteo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2603-4757" title="ORCID: 0000-0002-2603-4757" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/angst_m_ueli"><b>Angst</b>&nbsp;Ueli</a></span><br>
+Journal Article - Journal of Microscopy, Vol. 286, Iss. 2, pp. 141-147
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a> <a href="https://orcid.org/0000-0002-7630-1083" title="ORCID: 0000-0002-7630-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="https://orcid.org/0000-0002-2603-4757" title="ORCID: 0000-0002-2603-4757" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Microscopy, Vol. 286, Iss. 2, pp. 141-147
-
-:aca-blank:{ .lg .middle}
-    [`#carbonation`](keyword/carbonation)
-    [`#concrete`](keyword/concrete)
-    [`#examination`](keyword/examination)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Microstructural%20Examination%20of%20Carbonated%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125773508&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,18 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4211134011" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1111/jmi.13087" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1111/jmi.13087?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The recent interest in 3D printing with concrete has generated great interest on how inhomogeneities arise and affect performance parameters, in particular strength and durability. With respect to durability, of particular interest is how 3D-printed layer interfaces can impact transport of species of interest, such as moisture, chlorides or carbon dioxide in carbonation processes. This is of particular interest considering that the primary use case of 3D-printed concrete has been as a lost formwork for a cast structural concrete, and thus it is of interest to determine the carbonation resistance. This study consists of a preliminary look at the microstructure after accelerated carbonation of a 3D-printed concrete used as a lost formwork. Preferential carbonation is observed in the layer interfaces compared to the bulk of the printed filaments, possibly related to porosity from air voids or a locally high capillary porosity corresponding to the lubrication layer. The new technology of 3D printing with concrete has been making a lot of headlines recently due to its great potential to make construction safer, cheaper and faster. It also allows us to make buildings and infrastructure objects that are more materially efficient, meaning that they use much less concrete compared to a more standard construction, so they are less environmentally harmful. However, this is all assuming that the printed concrete will perform similar to normal concrete. A lot of attention has been paid to whether the printed concrete is as strong as normal concrete, however not so much attention has been paid to if the printed concrete is as durable as normal concrete. The aim of this study is to make a first look at this, using the microscope. When we speak of concrete durability, we typically mean the protection of the steel reinforcement in the concrete, which acts to take up tensile stresses that may arise. Concrete acts as a protective barrier to this steel from corrosion, but aggressive species can go through this barrier to attack the steel. One of these aggressive species is carbon dioxide, which acts to reduce the pH around the reinforcement and results in its corrosion. Printed concrete, made in a layer-by-layer process, has many interfaces between these layers where the connection is potentially not as dense as in normal concrete. This study shows that these layer interfaces essentially can serve as highways for carbon dioxide to enter the concrete and attack the reinforcement. This means that any new 3D-printed structures need to take this into account, if the printed concrete is expected to serve as any kind of a protective barrier. We caution the reader that this study is purely observational, however, and a more in-depth study where we can actually make predictions about the printed concrete should be carried out.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -90,8 +71,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhon_huan_liu_wang.2025.DSfECCi3PSSM/">Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars:<br/>Material Modification and Curing Process Innovation</a></li>
@@ -112,4 +93,35 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_agui_anto_dill.2022.TYEo3PCCiaHAE/">Two Year Exposure of 3D Printed Cementitious Columns in a High-Alpine Environment</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{agui_wang_stef_angs.2022.MEoC3PC,
+      author            = "Asel Maria Aguilar Sanchez and Timothy Paul Wangler and Matteo Stefanoni and Ueli M. Angst",
+      title             = "Microstructural Examination of Carbonated 3D Printed Concrete",
+      doi               = "10.1111/jmi.13087",
+      year              = "2022",
+      journal           = "Journal of Microscopy",
+      volume            = "286",
+      number            = "2",
+      pages             = "141--147",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. M. A. Sanchez, T. P. Wangler, M. Stefanoni and U. M. Angst, “Microstructural Examination of Carbonated 3D Printed Concrete”, <i>Journal of Microscopy</i>, vol. 286, no. 2, pp. 141–147, 2022, doi: 10.1111/jmi.13087.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sanchez, Asel Maria Aguilar, Timothy Paul Wangler, Matteo Stefanoni, and Ueli M. Angst. “Microstructural Examination of Carbonated 3D Printed Concrete”. <i>Journal of Microscopy</i> 286, no. 2 (2022): 141–47. https://doi.org/10.1111/jmi.13087.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

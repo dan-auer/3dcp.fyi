@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Leonardo Giacomobono, Maria Argenti, Elena Ferretti, Giulio Paparella
+    - footer
+title: Giacomobono Leonardo, Argenti Maria, Ferretti Elena, Paparella Giulio
 description:
 tags:
  - design
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/9/2721/pdf) Three-Dimensional Printing with Earthen Materials:<br/>:aca-blank: A Settlement-Scale Design Experience ([2024-08](date/2024/08))
-<a href="https://doi.org/10.3390/buildings14092721" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14092721</a>
+#Three-Dimensional Printing with Earthen Materials&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">A Settlement-Scale Design Experience</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/9/2721/pdf) <a href="https://doi.org/10.3390/buildings14092721" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14092721" target="_blank">10.3390/buildings14092721</a>
 
--------------------------
+<a href="../../../author/giacomobono_leonardo"><b>Giacomobono</b>&nbsp;Leonardo</a></span>, <a href="../../../author/argenti_maria"><b>Argenti</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6660-0349" title="ORCID: 0000-0001-6660-0349" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferretti_elena"><b>Ferretti</b>&nbsp;Elena</a></span>, <a href="../../../author/paparella_giulio"><b>Paparella</b>&nbsp;Giulio</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 9, No. 2721
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/giacomobono_leonardo"><b>Giacomobono</b> Leonardo</a>
-,     <a href="../../../author/argenti_maria"><b>Argenti</b> Maria</a>
-,     <a href="../../../author/ferretti_elena"><b>Ferretti</b> Elena</a> <a href="https://orcid.org/0000-0001-6660-0349" title="ORCID: 0000-0001-6660-0349" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/paparella_giulio"><b>Paparella</b> Giulio</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 9, No. 2721
-
-:aca-blank:{ .lg .middle}
-    [`#design`](keyword/design)
-    [`#dimension`](keyword/dimension)
-    [`#earth`](keyword/earth)
-    [`#experience`](keyword/experience)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/experience"><button class="btn">#experience</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Printing%20with%20Earthen%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205217690&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402047226" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14092721" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14092721?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This case study originates as a design experiment for a sustainable housing system built on-site. The context is Niamey, the capital of Niger. The study takes into account the environmental issues in the construction sector and aims to find a solution capable of meeting housing, environmental, and economic needs. In the field of earthen construction, the most important developments have been achieved in manufacturing methods. In particular, the use of an additive digital manufacturing system, such as large-scale 3D printing, allows the construction of complex shapes derived from structural and thermal studies, maintaining a high degree of automation in the construction process, reducing construction times and labor costs. This paper investigates the possibility of responding to housing and environmental needs with a settlement system made almost entirely of printed earth, maintaining the highest possible degree of automation. Starting from a study on the state of the art of 3D printing in architecture and printable earthen compounds, the design choices of similar cases are analyzed to understand the construction techniques, potentials, and limitations of the medium. Finally, a design proposal is developed based on the definition of a fully printable functional module, which, upon aggregation, determines the characteristics of the final settlement. This implies a radical change of approach compared to previous prototyping of 3D-printed earthen buildings, as the design of the single functional module is not an exercise that finds completion in itself, but is oriented to the scale of the settlement right from the definition of its basic geometric characteristics. In other words, the settlement is no longer the result of the serial aggregation of independent basic units, but arises spontaneously from the juxtaposition of functional modules designed to interact with each other and merge into a single residential complex. The settlement is, therefore, the large-scale replication of the alternation between full and empty spaces that characterizes the single functional module and, even more importantly, the replication can take multiple forms. In fact, the full and empty spaces of the functional module are planned to allow multiple combinations of aggregation. This introduces a certain degree of customization into the growth dynamics of the settlement, a factor that is entirely new compared to previous proposals by repeatable modules. No less important are the environmental implications, as designing for the scale of the settlement allows the low carbon footprint typical of earth-based construction to be extended from the single building to the entire settlement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assuncao-badan_julie"><b>Assunção Badan</b> Julie</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM/">Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing</a></li>
       <li><a href="../../../author/bhusal_shiva"><b>Bhusal</b> Shiva</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../bhus_sedg_hoja.2023.EtPaRaMPo3PEMfCNB/">Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings</a></li>
       <li><a href="../../../author/brousek_josef"><b>Břoušek</b> Josef</a>, <a href="../../../author/petr_tomas"><b>Petr</b> Tomas</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../brou_petr_mend.2023.DAoLSRAfPCMUP/">Displacement-Analysis of Large-Scale Robotic Arm for Printing Cement-Mortar Using Photogrammetry</a></li>
@@ -80,8 +59,39 @@ tags:
       <li><a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>, <a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../paqu_fure_perr.2024.3PREStCiCVOoC/">3D Printed Raw Earth Structures to Create in Cities Vegetated Oasis of Coolness</a></li>
       <li><a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a>, <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../roch_fari_luca.2024.AMoEBM/">Additive Manufacturing of Earth-Based Materials:<br/>A Literature Review on Mortar-Composition, Extrusion, and Processing Earth</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kim_ki_young"><b>Kim</b> Young</a>, <a href="../../../author/scoppa_martin"><b>Scoppa</b> Martin</a>, <a href="../../../author/haddad_madhar"><b>Haddad</b> Madhar</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_scop_hadd.2025.AIitRo3PiRB/">An Investigation into the Role of 3D Printing in Residential Buildings:<br/>An Emirati Housing Case Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{giac_arge_ferr_papa.2024.TDPwEM,
+      author            = "Leonardo Giacomobono and Maria Argenti and Elena Ferretti and Giulio Paparella",
+      title             = "Three-Dimensional Printing with Earthen Materials: A Settlement-Scale Design Experience",
+      doi               = "10.3390/buildings14092721",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "9",
+      pages             = "2721",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Giacomobono, M. Argenti, E. Ferretti and G. Paparella, “Three-Dimensional Printing with Earthen Materials: A Settlement-Scale Design Experience”, <i>Buildings</i>, vol. 14, no. 9, p. 2721, 2024, doi: 10.3390/buildings14092721.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Giacomobono, Leonardo, Maria Argenti, Elena Ferretti, and Giulio Paparella. “Three-Dimensional Printing with Earthen Materials: A Settlement-Scale Design Experience”. <i>Buildings</i> 14, no. 9 (2024): 2721. https://doi.org/10.3390/buildings14092721.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

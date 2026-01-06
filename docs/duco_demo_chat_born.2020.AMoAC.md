@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nicolas Ducoulombier, Léo Demont, Camille Chateau, Michel Bornert, Jean-François Caron
+    - footer
+title: Ducoulombier Nicolas, Demont Léo, Chateau Camille, Bornert Michel, Caron Jean-François
 description:
 tags:
  - additive
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.promfg.2020.04.117) Additive Manufacturing of Anisotropic Concrete:<br/>:aca-blank: A Flow-Based Pultrusion of Continuous Fibers in a Cementitious Matrix ([2020-04](date/2020/04))
-<a href="https://doi.org/10.1016/j.promfg.2020.04.117" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.promfg.2020.04.117</a>
+#Additive Manufacturing of Anisotropic Concrete&nbsp;([2020-04](date/2020/04))
+<div class="h1-like">A Flow-Based Pultrusion of Continuous Fibers in a Cementitious Matrix</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.promfg.2020.04.117) <a href="https://doi.org/10.1016/j.promfg.2020.04.117" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.promfg.2020.04.117" target="_blank">10.1016/j.promfg.2020.04.117</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demont_leo"><b>Demont</b>&nbsp;Léo</a></span>, <a href="../../../author/chateau_camille"><b>Chateau</b>&nbsp;Camille</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6964-5793" title="ORCID: 0000-0002-6964-5793" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bornert_michel"><b>Bornert</b>&nbsp;Michel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span><br>
+Journal Article - Procedia Manufacturing, Vol. 47, pp. 1070-1077
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chateau_camille"><b>Chateau</b> Camille</a>
-,     <a href="../../../author/bornert_michel"><b>Bornert</b> Michel</a> <a href="https://orcid.org/0000-0002-6964-5793" title="ORCID: 0000-0002-6964-5793" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Procedia Manufacturing, Vol. 47, pp. 1070-1077
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#continuous`](keyword/continuous)
-    [`#fiber`](keyword/fiber)
-    [`#flow`](keyword/flow)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#matrix`](keyword/matrix)
-    [`#pultrusion`](keyword/pultrusion)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/pultrusion"><button class="btn">#pultrusion</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Anisotropic%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085496435&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3018712310" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.promfg.2020.04.117" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.promfg.2020.04.117?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     For the tens past years, important development has been achieved on the adaptation of additive manufacturing to the construction industry using concrete. They mostly concerns control rheology at fresh state, setting time, and technology advances. Nevertheless, the reinforcement of 3D printed part remains an open question. Different reinforcement protocols have been proposed in the literature, often based on traditional way of reinforcement. In this context, the aim of this paper is to present an alternative way to reinforce extruded concrete or other pasty materials inspired by the composite industry. The present patented manufacturing methodology is based on extrusion-based additive manufacturing, inspired by pultrusion and co-extrusion process of polymer composites, but taking full advantage of the specific rheological behaviour of cementitious matrix. It consists in the continuous addition of numerous continuous yarn in the extruded mortar before the final extrusion. A comparison between those processes is made. Depending on the number of yarns and their sizes, this process is showed to provide ductility for limited amount of reinforcement and have the potential to be an alternative to passive rebar traditionally used in concrete by providing a true reinforcement in traction to the structure for larger number of yarns, changing extruded concrete in unidirectional composite with brittle matrix. Using appropriate matrix formulation, the mastering of its yield stress during the extrusion is showed to be the most important process parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -88,8 +63,8 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.3PAoFAaGABaTBCM/">3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.EtRoMiBaTB3PM/">Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars:<br/>Deep Insights into Printability</a></li>
@@ -117,4 +92,34 @@ tags:
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{duco_demo_chat_born.2020.AMoAC,
+      author            = "Nicolas Ducoulombier and Léo Demont and Camille Chateau and Michel Bornert and Jean-François Caron",
+      title             = "Additive Manufacturing of Anisotropic Concrete: A Flow-Based Pultrusion of Continuous Fibers in a Cementitious Matrix",
+      doi               = "10.1016/j.promfg.2020.04.117",
+      year              = "2020",
+      journal           = "Procedia Manufacturing",
+      volume            = "47",
+      pages             = "1070--1077",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Ducoulombier, L. Demont, C. Chateau, M. Bornert and J.-F. Caron, “Additive Manufacturing of Anisotropic Concrete: A Flow-Based Pultrusion of Continuous Fibers in a Cementitious Matrix”, <i>Procedia Manufacturing</i>, vol. 47, pp. 1070–1077, 2020, doi: 10.1016/j.promfg.2020.04.117.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ducoulombier, Nicolas, Léo Demont, Camille Chateau, Michel Bornert, and Jean-François Caron. “Additive Manufacturing of Anisotropic Concrete: A Flow-Based Pultrusion of Continuous Fibers in a Cementitious Matrix”. <i>Procedia Manufacturing</i> 47 (2020): 1070–77. https://doi.org/10.1016/j.promfg.2020.04.117.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

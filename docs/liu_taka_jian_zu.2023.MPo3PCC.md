@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ke Liu, Koji Takasu, Jinming Jiang, Kun Zu, Weijun Gao
+    - footer
+title: Liu Ke, Takasu Koji, Jiang Jinming, Zu Kun, Gao Weijun
 description:
 tags:
  - component
@@ -14,31 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2023.100292) Mechanical Properties of 3D Printed Concrete Components:<br/>:aca-blank: A Review ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.dibe.2023.100292" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2023.100292</a>
+#Mechanical Properties of 3D Printed Concrete Components&nbsp;([2023-12](date/2023/12))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100292) <a href="https://doi.org/10.1016/j.dibe.2023.100292" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100292" target="_blank">10.1016/j.dibe.2023.100292</a>
 
--------------------------
+<a href="../../../author/liu_ke"><b>Liu</b>&nbsp;Ke</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2168-351X" title="ORCID: 0000-0003-2168-351X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/takasu_koji"><b>Takasu</b>&nbsp;Koji</a></span>, <a href="../../../author/jiang_jinming"><b>Jiang</b>&nbsp;Jinming</a></span>, <a href="../../../author/zu_kun"><b>Zu</b>&nbsp;Kun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0299-3686" title="ORCID: 0000-0003-0299-3686" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_weijun"><b>Gao</b>&nbsp;Weijun</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100292
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_ke"><b>Liu</b> Ke</a>
-,     <a href="../../../author/takasu_koji"><b>Takasu</b> Koji</a> <a href="https://orcid.org/0000-0003-2168-351X" title="ORCID: 0000-0003-2168-351X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>
-,     <a href="../../../author/zu_kun"><b>Zu</b> Kun</a>
-,     <a href="../../../author/gao_weijun"><b>Gao</b> Weijun</a> <a href="https://orcid.org/0000-0003-0299-3686" title="ORCID: 0000-0003-0299-3686" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100292
-
-:aca-blank:{ .lg .middle}
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D%20Printed%20Concrete%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179758360&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389393295" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2023.100292" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2023.100292?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing, which allows components to be fabricated in layers directly from a digital file, has been increasingly used in the construction industry. However, the deficiencies in mechanical properties of 3D printing concrete (3DPC) confined its wide usage in bearing structures. The 3DPC components have the disadvantages of geometric defects, residual stress, and a high level of anisotropy, resulting in printed components with poor load-bearing capacity. Studies have been conducted to enhance understanding and control of the mechanical properties of 3DPC, aiming at promoting the application of 3DPC in structural components. This paper summarized and analyzed the related research from the perspective of the kinds of structural components, i.e., beams, columns, and walls, and discussed the effects of reinforcement methods and various factors on their mechanical properties. Finally, the current main challenges and directions of future work required to optimize the usage of this technology in 3DPC components have been identified.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "83 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -148,8 +128,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aden_rashid_abdishukri"><b>Aden</b> Abdishukri</a>, <a href="../../../author/nunez-montoya_paola_alejandra"><b>Nuñez Montoya</b> Alejandra</a>, <a href="../../../author/ponce_mari_josef"><b>Ponce</b> Josef</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aden_nune_ponc_rang.2026.FB/">FAB-BIO:<br/>A Review of Bio-Based Materials Applied on 3D-Printed Living Walls</a></li>
       <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
       <li><a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a>, <a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sana_lito.2025.LBCot3PCSBoaSAaLTiS11/">Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1</a></li>
@@ -165,4 +145,33 @@ tags:
       <li><a href="../../../author/mitrovic_z_stefan"><b>Mitrović</b> Stefan</a>, <a href="../../../author/vidovic_milica"><b>Vidović</b> Milica</a>, <a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b> Ivan</a>, <a href="../../../author/dragas_jelena"><b>Dragaš</b> Jelena</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mitr_vido_ignj_drag.2024.ETo3PCTG/">Experimental Testing of 3D Printed Concrete Truss-Girder</a></li>
       <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>, <a href="../../../author/li_wengui"><b>Li</b> Wengui</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wang_li_guo_kash.2024.C3PTiSC/">Concrete 3D Printing Technology in Sustainable Construction:<br/>A Review on Raw Materials, Concrete Types and Performances</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_taka_jian_zu.2023.MPo3PCC,
+      author            = "Ke Liu and Koji Takasu and Jinming Jiang and Kun Zu and Weijun Gao",
+      title             = "Mechanical Properties of 3D Printed Concrete Components: A Review",
+      doi               = "10.1016/j.dibe.2023.100292",
+      year              = "2023",
+      journal           = "Developments in the Built Environment",
+      pages             = "100292",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Liu, K. Takasu, J. Jiang, K. Zu and W. Gao, “Mechanical Properties of 3D Printed Concrete Components: A Review”, <i>Developments in the Built Environment</i>, p. 100292, 2023, doi: 10.1016/j.dibe.2023.100292.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Ke, Koji Takasu, Jinming Jiang, Kun Zu, and Weijun Gao. “Mechanical Properties of 3D Printed Concrete Components: A Review”. <i>Developments in the Built Environment</i>, 2023, 100292. https://doi.org/10.1016/j.dibe.2023.100292.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

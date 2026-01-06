@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ana-Maria Anton, Che Lin, Eleni Skevaki, Mingyang Wang, Timothy Wangler, Robert Flatt, Alejandro Soto, Lukas Gebhard, Walter Kaufmann, Michael Hasmeyer, Benjamin Dillenburger
+    - footer
+title: Anton Ana-Maria, Lin Che, Skevaki Eleni, Wang Mingyang, Wangler Timothy, Flatt Robert, Soto Alejandro, Gebhard Lukas, Kaufmann Walter, Hasmeyer Michael, Dillenburger Benjamin
 description:
 tags:
  - concrete
@@ -10,33 +11,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Tor Alva:<br/>:aca-blank: A 3D Concrete Printed Tower ([2024-04](date/2024/04))
-<a href="https://doi.org/10.2307/jj.11374766.35" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2307/jj.11374766.35</a>
+#Tor Alva&nbsp;([2024-04](date/2024/04))
+<div class="h1-like">A 3D Concrete Printed Tower</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.2307/jj.11374766.35" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.35" target="_blank">10.2307/jj.11374766.35</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <a href="../../../author/lin_wei_che"><b>Lin</b>&nbsp;Che</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4820-4048" title="ORCID: 0000-0003-4820-4048" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skevaki_eleni"><b>Skevaki</b>&nbsp;Eleni</a></span>, <a href="../../../author/wang_mingyang"><b>Wang</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span>, <a href="../../../author/soto_giraldo_alejandro"><b>Soto</b>&nbsp;Alejandro</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gebhard_lukas"><b>Gebhard</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaufmann_walter"><b>Kaufmann</b>&nbsp;Walter</a></span>, <a href="../../../author/hasmeyer_michael"><b>Hasmeyer</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Contribution - Fabricate 2024, pp. 252-259
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_wei_che"><b>Lin</b> Che</a>
-,     <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a> <a href="https://orcid.org/0000-0003-4820-4048" title="ORCID: 0000-0003-4820-4048" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_mingyang"><b>Wang</b> Mingyang</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/soto_giraldo_alejandro"><b>Soto</b> Alejandro</a>
-,     <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a> <a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hasmeyer_michael"><b>Hasmeyer</b> Michael</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Fabricate 2024, pp. 252-259
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tor%20Alva" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393950070" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2307/jj.11374766.35" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2307/jj.11374766.35?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The enthusiasm of the participants captured in the historical video footage of the first 3D-printed wall more than 80 years ago anticipated an innovative trajectory for formwork-free concrete construction (Urschel, 1941). The act of autonomously fabricating a building using a mechanical rotary device to deposit concrete layer by layer, with minimal on-site human intervention, highlights a fascination with this progressive construction method. Upon the reintroduction of 3D concrete printing (3DCP) with automated tools pioneered by Khoshnevis, a remarkable interest boosted research and industry developments (Khoshnevis, 2004; Wangler et al., 2019). 3DCP is a digital fabrication process based on extruding fresh concrete filament deposited layer by layer to construct a digital design, with on-site printing and prefabrication as possible implementations (Wangler et al., 2019). The former requires building an object vertically, in its final location, while the latter involves 3D printing several components that are subsequently assembled. In a broader context, this raised the question of how this novel fabrication method could change the building culture and what architectural language is best suited to 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../anto_reit_skev_dill.2022.RLf3/">Reinforcement Lattices for 3DCP:<br/>A Fabrication Method Based on Ruled Surfaces</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -74,8 +52,8 @@ tags:
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhi_akba.2025.STToSCi3CPfOBaSQ/">Surface-Toolpath Twins of Shell Components in 3D Concrete Printing for Optimized Buildability and Surface Quality</a></li>
       <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../huan_anto_dill_xu.2025.LI3CPCSS/">Lamella-Inspired 3D Concrete Printed Column-Slab System:<br/>Balancing Act for Productivity and Sustainability</a></li>
       <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/campos_tatiana"><b>Campos</b> Tatiana</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ribe_camp_bran_figu.2025.3CS/">3DCP Composite Systems:<br/>Additive Manufacturing of a Concrete and Cellulose Interlocking Wall</a></li>
@@ -89,4 +67,34 @@ tags:
       <li><a href="../../../author/zimmermann_stefan"><b>Zimmermann</b> Stefan</a>, <a href="../../../author/griego_danielle"><b>Griego</b> Danielle</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zimm_grie_flat.2024.VDoC3PSwARBoMLDIA/">Visualizing Defects of Concrete 3D Printed Structures with Augmented Reality Based on Machine Learning-Driven Image-Analysis</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{anto_lin_skev_wang.2024.TA,
+      author            = "Ana-Maria Anton and Che Wei Lin and Eleni Skevaki and Mingyang Wang and Timothy Paul Wangler and Robert Johann Flatt and Alejandro Giraldo Soto and Lukas Gebhard and Walter Kaufmann and Michael Hasmeyer and Benjamin Dillenburger",
+      title             = "Tor Alva: A 3D Concrete Printed Tower",
+      doi               = "10.2307/jj.11374766.35",
+      year              = "2024",
+      pages             = "252--259",
+      booktitle         = "Fabricate 2024: Creating Resourceful Futures",
+      editor            = "Phil Ayres and Mette Ramsgaard Thomsen and Bob Sheil and Marilena Skavara",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A.-M. Anton, “Tor Alva: A 3D Concrete Printed Tower”, in <i>Fabricate 2024: Creating Resourceful Futures</i>,  2024, pp. 252–259. doi: 10.2307/jj.11374766.35.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Anton, Ana-Maria, Che Wei Lin, Eleni Skevaki, Mingyang Wang, Timothy Paul Wangler, Robert Johann Flatt, Alejandro Giraldo Soto, et al.. “Tor Alva: A 3D Concrete Printed Tower”. In <i>Fabricate 2024: Creating Resourceful Futures</i>, edited by Phil Ayres, Mette Ramsgaard Thomsen, Bob Sheil, and Marilena Skavara, 252–59, 2024. https://doi.org/10.2307/jj.11374766.35.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

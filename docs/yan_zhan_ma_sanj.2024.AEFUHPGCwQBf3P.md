@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yufei Yan, Mo Zhang, Guowei Ma, Jay Sanjayan
+    - footer
+title: Yan Yufei, Zhang Mo, Ma Guowei, Sanjayan Jay
 description:
 tags:
  - binder
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} An Eco-Friendly Ultra-High-Performance Geopolymer Concrete with Quaternary Binders for 3D Printing ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.jclepro.2024.144614" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2024.144614</a>
+#An Eco-Friendly Ultra-High-Performance Geopolymer Concrete with Quaternary Binders for 3D Printing ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2024.144614" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2024.144614" target="_blank">10.1016/j.jclepro.2024.144614</a>
 
--------------------------
+<a href="../../../author/yan_yufei"><b>Yan</b>&nbsp;Yufei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9680-4203" title="ORCID: 0000-0001-9680-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_mo"><b>Zhang</b>&nbsp;Mo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Journal of Cleaner Production, No. 144614
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>
-,     <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="https://orcid.org/0000-0001-9680-4203" title="ORCID: 0000-0001-9680-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, No. 144614
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#concrete`](keyword/concrete)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#quaternary`](keyword/quaternary)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quaternary"><button class="btn">#quaternary</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Eco-Friendly%20Ultra-High-Performance%20Geopolymer%20Concrete%20with%20Quaternary%20Binders%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213834237&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405894003" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2024.144614" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2024.144614?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Ultra-high performance geopolymer concrete (UHPGC) offers a sustainable solution for high-shape-flexible structures, while has barely been applied in 3D-printing construction (3DP) due to its challenging issues of high viscosity and low extrudability. This study aims to develop a 3D-printable "one-part" UHPGC (3DP-UHPGC) by using fly ash (FA), ground blast furnace slag (GBFS), steel slag (SS), and silica fume (SF), along with citric acid (CA) as a retarder. A multi-scale investigation was conducted to understand the modification mechanisms of SS, SF and CA on the printability and mechanical properties of 3DP-UHPGC. The results indicated that SS and SF improved the buildability of 3DP-UHPGC by raising the polymerization/hydration rate, and CA prolonged the flowable time and decreased viscosity by complexing with the extra Ca2+ introduced by GBFS and SS, which realized the 3D-printing of UHPGC. The microstructural compactness of UHPGC matrix was densified and the steel fiber-matrix bonding was strengthened by the increasingly formed C-S-H gels and C(N)-A-S-H gels through the pozzolanic reaction and extended geopolymerization between SF and the alkali ions provided by SS. Thanks to the synergistic effect of SS and SF, the 3D-printed UHPGC achieved the highest compressive strength of 123.03 MPa and flexural strength of 17.0 MPa.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -85,11 +64,41 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/mostazid_ibrahim_md"><b>Mostazid</b> Md</a>, <a href="../../../author/faysal_abdul-motaleb_md"><b>Faysal</b> Md</a>, <a href="../../../author/shi_xinjun"><b>Shi</b> Xinjun</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../uddi_most_fays_shi.2025.DaNSPMf3PGC/">Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete:<br/>An Interpretable Data-Driven Approach</a></li>
       <li><a href="../../../author/balina_karina"><b>Balina</b> Karina</a>, <a href="../../../author/gailitis_rihards"><b>Gailitis</b> Rihards</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/argalis_pavils_pauls"><b>Argalis</b> Pauls</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bali_gail_sink_arga.2025.PLf3PFGCUCWaA/">Prospective LCA for 3D-Printed Foamed Geopolymer Composites Using Construction Waste as Additives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yan_zhan_ma_sanj.2024.AEFUHPGCwQBf3P,
+      author            = "Yufei Yan and Mo Zhang and Guowei Ma and Jay Gnananandan Sanjayan",
+      title             = "An Eco-Friendly Ultra-High-Performance Geopolymer Concrete with Quaternary Binders for 3D Printing",
+      doi               = "10.1016/j.jclepro.2024.144614",
+      year              = "2024",
+      journal           = "Journal of Cleaner Production",
+      pages             = "144614",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yan, M. Zhang, G. Ma and J. G. Sanjayan, “An Eco-Friendly Ultra-High-Performance Geopolymer Concrete with Quaternary Binders for 3D Printing”, <i>Journal of Cleaner Production</i>, p. 144614, 2024, doi: 10.1016/j.jclepro.2024.144614.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yan, Yufei, Mo Zhang, Guowei Ma, and Jay Gnananandan Sanjayan. “An Eco-Friendly Ultra-High-Performance Geopolymer Concrete with Quaternary Binders for 3D Printing”. <i>Journal of Cleaner Production</i>, 2024, 144614. https://doi.org/10.1016/j.jclepro.2024.144614.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

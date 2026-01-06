@@ -8,7 +8,7 @@ search:
 
 # #migration
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_ziqi"><b>Zhang</b> Ziqi</a>, <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guoa_rongxin"><b>Guoa</b> Rongxin</a>, <a href="../../../author/lin_runsheng"><b>Lin</b> Runsheng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC/">Simulation and Analysis of Material Stacking and Migration Induced by Extrusion Behavior in 3D Printed Concrete</a></li>
   <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../duan_tao_lin_jiao.2025.3PDDMoLMitPM/">3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars:<br/>Experiment and Modelling</a></li>
   <li><a href="../../../author/ravindran_vishwanath"><b>Ravindran</b> Vishwanath</a>, <a href="../../../author/ranganathan_thiyagarajan"><b>Ranganathan</b> Thiyagarajan</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ravi_rang_rahu.2024.MoPSiYSF/">Migration of Particles Suspended in Yield-Stress Fluids:<br/>Insights from Numerical Simulation of Pipe Flow of 3D Printable Concrete</a></li>

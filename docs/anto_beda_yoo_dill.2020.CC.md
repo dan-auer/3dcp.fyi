@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ana-Maria Anton, Patrick Bedarf, Angela Yoo, Benjamin Dillenburger, Lex Reiter, Timothy Wangler, Robert Flatt
+    - footer
+title: Anton Ana-Maria, Bedarf Patrick, Yoo Angela, Dillenburger Benjamin, Reiter Lex, Wangler Timothy, Flatt Robert
 description:
 tags:
  - column
@@ -12,31 +13,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.research-collection.ethz.ch/bitstream/20.500.11850/408884/2/Anton_Ana.pdf) Concrete Choreography:<br/>:aca-blank: Prefabrication of 3D Printed Columns ([2020-09](date/2020/09))
-<a href="https://doi.org/10.2307/j.ctv13xpsvw.41" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2307/j.ctv13xpsvw.41</a>
+#Concrete Choreography&nbsp;([2020-09](date/2020/09))
+<div class="h1-like">Prefabrication of 3D Printed Columns</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.research-collection.ethz.ch/bitstream/20.500.11850/408884/2/Anton_Ana.pdf) <a href="https://doi.org/10.2307/j.ctv13xpsvw.41" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/j.ctv13xpsvw.41" target="_blank">10.2307/j.ctv13xpsvw.41</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bedarf_patrick"><b>Bedarf</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-8864-9751" title="ORCID: 0009-0003-8864-9751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoo_angela"><b>Yoo</b>&nbsp;Angela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Contribution - Fabricate 2020, pp. 286-293
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a> <a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a> <a href="https://orcid.org/0009-0003-8864-9751" title="ORCID: 0009-0003-8864-9751" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Fabricate 2020, pp. 286-293
-
-:aca-blank:{ .lg .middle}
-    [`#column`](keyword/column)
-    [`#concrete`](keyword/concrete)
-    [`#prefabrication`](keyword/prefabrication)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%20Choreography" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4237438830" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2307/j.ctv13xpsvw.41" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2307/j.ctv13xpsvw.41?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper introduces the cutting-edge 3D Concrete Printing (3DCP) process which stands at the core of the project Concrete Choreography, a family of nine prefabricated concrete columns. By simultaneously overseeing technological development, computational design and robotic fabrication, an interdisciplinary research team was able to reframe the challenge of large-scale high-resolution 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../anto_yoo_beda_reit.2019.VM/">Vertical Modulations</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -70,8 +50,8 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "59 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a>, <a href="../../../author/dai_yuntong"><b>Dai</b> Yuntong</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ma_chen_dai_zhou.2025.MPo3PCISF/">Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork:<br/>Experimental Study and Finite Element Analysis</a></li>
       <li><a href="../../../author/keller_petr"><b>Keller</b> Petr</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kell_mend.2025.AoODPbAMfCMoT/">Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time</a></li>
       <li><a href="../../../author/baritakis_mario"><b>Baritakis</b> Mario</a>, <a href="../../../author/traine_phillip"><b>Traine</b> Phillip</a>, <a href="../../../author/granzow_jan"><b>Granzow</b> Jan</a>, <a href="../../../author/dobert_christine"><b>Döbert</b> Christine</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bari_trai_gran_dobe.2024.3PCFfT/">3D-Printed Clay Formwork for Topology:<br/>Optimized Concrete Elements</a></li>
@@ -131,11 +111,35 @@ tags:
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../anto_jipa_reit_dill.2020.FCb/">Fast Complexity</a></li>
       <li><a href="../../../author/mohamed-shibly_ur-rahman_maahir"><b>Mohamed Shibly</b> Maahir</a>, <a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_soto.2020.TMiC/">Threat Modeling in Construction:<br/>An Example of a 3D Concrete Printing System</a></li>
-      <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../gebh_mata_anto_dill.2020.EIoRSfCE3PB/">Experimental Investigation of Reinforcement-Strategies for Concrete-Extrusion 3D Printed Beams</a></li>
-      <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
-      <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../gebh_mata_anto_burg.2020.AILFRaPTaaRSfDF/">Aligned Inter-Layer Fiber-Reinforcement and Post-Tensioning as a Reinforcement-Strategy for Digital Fabrication</a></li>
-      <li><a href="../../../author/pekuss_raitis"><b>Pekuss</b> Raitis</a>, <a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../peku_soto.2020.PPAoCPCa3PPTfCCwSG/">Preliminary Productivity-Analysis of Conventional, Pre-Cast and 3D Printing Production-Techniques for Concrete Columns with Simple Geometry</a></li>
-      <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../szab_reit_llor_wang.2020.A/">ACDC:<br/>The Admixture-Controlled Digital Casting and Its Application to Thin-Folded Concrete Structures</a></li>
-      <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{anto_beda_yoo_dill.2020.CC,
+      author            = "Ana-Maria Anton and Patrick Bedarf and Angela Yoo and Benjamin Dillenburger and Lex Reiter and Timothy Paul Wangler and Robert Johann Flatt",
+      title             = "Concrete Choreography: Prefabrication of 3D Printed Columns",
+      doi               = "10.2307/j.ctv13xpsvw.41",
+      year              = "2020",
+      pages             = "286--293",
+      booktitle         = "Fabricate 2020",
+      editor            = "Jane Burry and Jenny Sabin and Bob Sheil and Marilena Skavara",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A.-M. Anton, “Concrete Choreography: Prefabrication of 3D Printed Columns”, in <i>Fabricate 2020</i>,  2020, pp. 286–293. doi: 10.2307/j.ctv13xpsvw.41.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Anton, Ana-Maria, Patrick Bedarf, Angela Yoo, Benjamin Dillenburger, Lex Reiter, Timothy Paul Wangler, and Robert Johann Flatt. “Concrete Choreography: Prefabrication of 3D Printed Columns”. In <i>Fabricate 2020</i>, edited by Jane Burry, Jenny Sabin, Bob Sheil, and Marilena Skavara, 286–93, 2020. https://doi.org/10.2307/j.ctv13xpsvw.41.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

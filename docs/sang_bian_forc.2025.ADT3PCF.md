@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Valentino Sangiorgio, Iacopo Bianchi, Archimede Forcellese
+    - footer
+title: Sangiorgio Valentino, Bianchi Iacopo, Forcellese Archimede
 description:
 tags:
  - advance
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.enbuild.2025.115444) Advancing Decarbonization Through 3D Printed Concrete Formworks:<br/>:aca-blank: LIFE Cycle Analysis of Technologies, Materials, and Processes ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.enbuild.2025.115444" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.enbuild.2025.115444</a>
+#Advancing Decarbonization Through 3D Printed Concrete Formworks&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">LIFE Cycle Analysis of Technologies, Materials, and Processes</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.enbuild.2025.115444) <a href="https://doi.org/10.1016/j.enbuild.2025.115444" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.enbuild.2025.115444" target="_blank">10.1016/j.enbuild.2025.115444</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2556-4497" title="ORCID: 0000-0003-2556-4497" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bianchi_iacopo"><b>Bianchi</b>&nbsp;Iacopo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1380-4596" title="ORCID: 0000-0003-1380-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/forcellese_archimede"><b>Forcellese</b>&nbsp;Archimede</a></span><br>
+Journal Article - Energy and Buildings, No. 115444
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> <a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a> <a href="https://orcid.org/0000-0003-2556-4497" title="ORCID: 0000-0003-2556-4497" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> <a href="https://orcid.org/0000-0003-1380-4596" title="ORCID: 0000-0003-1380-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energy and Buildings, No. 115444
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#formwork`](keyword/formwork)
-    [`#life`](keyword/life)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Decarbonization%20Through%203D%20Printed%20Concrete%20Formworks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217279307&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407284234" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.enbuild.2025.115444" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.enbuild.2025.115444?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technologies are innovating several industrial fields for their ability to produce complex shapes, reduce material use and obtain high-performance structures. Among the possible applications of 3D printing in the civil construction sector, manufacturing formwork for concrete casting is a promising solution for producing thin-walled and complex structures. Given the increasing interest and numerous applications being developed, comprehensive studies on the sustainability of 3D-printed concrete formwork are required to improve the processes and drive low-carbon construction practices. In this context, the present study provides for the first time an evaluation of the environmental and economic sustainability of concrete structures achieved using 3D printed formwork. The research investigates the influence of various factors such as: i) geometry complexity, ii) printing technology (Fused Deposition Modelling and Material Jetting), iii) process parameters, iv) raw materials (PLA, ABS, PVA, Geopolymers, Cements, Clay) v) machines kinematic systems and vi) End of Life alternatives. To perform such an investigation, a parametric CAD model was developed to define structure geometry; furthermore, Life Cycle Assessment and Life Cycle Costing methodologies were applied to calculate the impacts and cost of the different alternatives. The results showed that a proper choice of the combination of geometry, technology, material, and process parameters is crucial for reducing the carbonization-related impacts associated with 3D-printed formwork production. In addition, reuse and recycling of the formworks cut overall impacts, making 3D printing a sustainable alternative to traditional production processes while allowing greater design freedom.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -106,10 +84,39 @@ tags:
       <li><a href="../../../author/zhao_yanhua"><b>Zhao</b> Yanhua</a>, <a href="../../../author/meng_wei"><b>Meng</b> Wei</a>, <a href="../../../author/wang_peifu"><b>Wang</b> Peifu</a>, <a href="../../../author/qian_dongqing"><b>Qian</b> Dongqing</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhao_meng_wang_qian.2022.RPoC3PTaIESMaMDC/">Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sang_bian_forc.2025.ADT3PCF,
+      author            = "Valentino Sangiorgio and Iacopo Bianchi and Archimede Forcellese",
+      title             = "Advancing Decarbonization Through 3D Printed Concrete Formworks: LIFE Cycle Analysis of Technologies, Materials, and Processes",
+      doi               = "10.1016/j.enbuild.2025.115444",
+      year              = "2025",
+      journal           = "Energy and Buildings",
+      pages             = "115444",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Sangiorgio, I. Bianchi and A. Forcellese, “Advancing Decarbonization Through 3D Printed Concrete Formworks: LIFE Cycle Analysis of Technologies, Materials, and Processes”, <i>Energy and Buildings</i>, p. 115444, 2025, doi: 10.1016/j.enbuild.2025.115444.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sangiorgio, Valentino, Iacopo Bianchi, and Archimede Forcellese. “Advancing Decarbonization Through 3D Printed Concrete Formworks: LIFE Cycle Analysis of Technologies, Materials, and Processes”. <i>Energy and Buildings</i>, 2025, 115444. https://doi.org/10.1016/j.enbuild.2025.115444.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

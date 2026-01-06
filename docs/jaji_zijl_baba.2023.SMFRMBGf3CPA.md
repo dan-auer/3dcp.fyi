@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mustapha Jaji, Gideon Zijl, Adewumi Babafemi
+    - footer
+title: Jaji Mustapha, Zijl Gideon, Babafemi Adewumi
 description:
 tags:
  - application
@@ -21,36 +22,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.clet.2023.100665) Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer for 3D Concrete Printing Application:<br/>:aca-blank: Evaluating Fresh and Hardened Properties ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.clet.2023.100665" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.clet.2023.100665</a>
+#Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer for 3D Concrete Printing Application&nbsp;([2023-08](date/2023/08))
+<div class="h1-like">Evaluating Fresh and Hardened Properties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.clet.2023.100665) <a href="https://doi.org/10.1016/j.clet.2023.100665" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clet.2023.100665" target="_blank">10.1016/j.clet.2023.100665</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b>&nbsp;Mustapha</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span><br>
+Journal Article - Cleaner Engineering and Technology, No. 100665
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> <a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cleaner Engineering and Technology, No. 100665
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#hardened`](keyword/hardened)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Slag-Modified%20Fiber-Reinforced%20Metakaolin-Based%20Geopolymer%20for%203D%20Concrete%20Printing%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162640422&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385483030" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.clet.2023.100665" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.clet.2023.100665?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D printing of a two-part metakaolin-based geopolymer concrete has a long setting time, which could lead to inadequate structural build-up. This research explores an experimental mix formulation for 3D concrete printing application with reasonable setting time by the inclusion of slag in a metakaolin-based geopolymer activated with sodium trisilicate solution and sodium hydroxide (NaOH). The formulation parameters of the mix are aggregate to binder ratio (A/B) of 1.6, alkaline activator to binder ratio (AA/B) of 0.73, 0.5% fibre content by volume of the mix, 1% superplasticiser by mass of binder, 0.5% viscosity modifying agent (VMA) by mass of binder, water to binder ratio of 0.3, and sodium trisilicate solution: NaOH of 2.0. Fresh and rheological properties of the 3D printed geopolymer concrete (3DPGPC) mixes were characterised, hardened mechanical properties of specimens were evaluated, efflorescence was observed, microstructural identification of reaction products and analytical buildability model performance was validated with 3D prints. The results show interesting fresh properties for printability with slag inclusion and hardened properties are enhanced with slag inclusion. Printability of the mixes is validated with 3DPGPC of 27 and 42 layers of 250 mm diameter columns with mixes 1 and 2 at 0% and 5% slag content, respectively. Also, 17 layers of a rectangular shape and a non-regular shape were printed. Slag inclusion enhanced initial and final setting times, improved hardened properties, reduced efflorescence because of the formation of calcite, and enhanced buildability of 3DPGPC. XRD shows the formation of quartz, muscovite, and calcite peak phases as the reaction product of the hardened 3DPGPC. Also, SEM-EDS show elemental peak height and quantification.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -113,8 +88,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
@@ -138,4 +113,33 @@ tags:
       <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC/">A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../jaji_zijl_baba.2023.SMMB3PG/">Slag-Modified Metakaolin-Based 3D Printed Geopolymer:<br/>Mechanical Characterisation, Microstructural Properties, and Nitrogen Physisorption Pore-Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jaji_zijl_baba.2023.SMFRMBGf3CPA,
+      author            = "Mustapha Bamidele Jaji and Gideon Pieter Adriaan Greeff van Zijl and Adewumi John Babafemi",
+      title             = "Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer for 3D Concrete Printing Application: Evaluating Fresh and Hardened Properties",
+      doi               = "10.1016/j.clet.2023.100665",
+      year              = "2023",
+      journal           = "Cleaner Engineering and Technology",
+      pages             = "100665",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. B. Jaji, G. P. A. G. van Zijl and A. J. Babafemi, “Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer for 3D Concrete Printing Application: Evaluating Fresh and Hardened Properties”, <i>Cleaner Engineering and Technology</i>, p. 100665, 2023, doi: 10.1016/j.clet.2023.100665.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jaji, Mustapha Bamidele, Gideon Pieter Adriaan Greeff van Zijl, and Adewumi John Babafemi. “Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer for 3D Concrete Printing Application: Evaluating Fresh and Hardened Properties”. <i>Cleaner Engineering and Technology</i>, 2023, 100665. https://doi.org/10.1016/j.clet.2023.100665.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

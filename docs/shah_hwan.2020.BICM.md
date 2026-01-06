@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rouzbeh Shahsavari, Sung Hwang
+    - footer
+title: Shahsavari Rouzbeh, Hwang Sung
 description:
 tags:
  - application
@@ -14,28 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.frontiersin.org/articles/10.3389/fmats.2020.00062/pdf) Bio-Iinspired Cementitious Materials:<br/>:aca-blank: Main Strategies, Progress, and Applications ([2020-03](date/2020/03))
-<a href="https://doi.org/10.3389/fmats.2020.00062" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fmats.2020.00062</a>
+#Bio-Iinspired Cementitious Materials&nbsp;([2020-03](date/2020/03))
+<div class="h1-like">Main Strategies, Progress, and Applications</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fmats.2020.00062/pdf) <a href="https://doi.org/10.3389/fmats.2020.00062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2020.00062" target="_blank">10.3389/fmats.2020.00062</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6897-881X" title="ORCID: 0000-0002-6897-881X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahsavari_rouzbeh"><b>Shahsavari</b>&nbsp;Rouzbeh</a></span>, <a href="../../../author/hwang_hoon_sung"><b>Hwang</b>&nbsp;Sung</a></span><br>
+Journal Article - Frontiers in Materials, Vol. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahsavari_rouzbeh"><b>Shahsavari</b> Rouzbeh</a> <a href="https://orcid.org/0000-0002-6897-881X" title="ORCID: 0000-0002-6897-881X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hwang_hoon_sung"><b>Hwang</b> Sung</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers in Materials, Vol. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#bio`](keyword/bio)
-    [`#cement`](keyword/cement)
-    [`#material`](keyword/material)
-    [`#progress`](keyword/progress)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bio-Iinspired%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85083108531&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3011472696" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3389/fmats.2020.00062" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3389/fmats.2020.00062?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nature-inspired ensemble of organic and inorganic constituents, such as that found in the microstructure of nacre and dactyl clubs of Mantis shrimp, has evolved into the model system for the structural design of industrial composites. This novel design concept, which helps attaining the balance between strength, toughness and ductility, has not only induced a paradigm shift in the synthesis of advanced materials such as graphene-based composites but also, in the development of more abundant, low-cost materials such as cement and concretes. The advance in synthetic techniques and the advent of new manufacturing technologies such as 3D printing has enabled effective integration of cementitious materials with soft materials across various length scales. Furthermore, novel functional properties such as self-healing have also been materialized based on a variety of strategies. This review will provide the comprehensive overview on the ongoing research efforts, encompassing 3D printing, self-healing strategies and integration of C-S-H with organic components, all of which are actively exploited in synthesizing bioinspired, multifunctional cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
@@ -77,9 +60,38 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/edmund_dineth"><b>Edmund</b> Dineth</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/asad_mohammad"><b>Asad</b> Mohammad</a>, <a href="../../../author/thamboo_julian"><b>Thamboo</b> Julian</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../edmu_zahr_asad_tham.2024.EIoTCo3PAECCaSBBtM/">Experimental Investigation on Tensile-Characteristics of 3D Printed Auxetic-Embedded Cementitious Composites and Shear-Bonding Behavior to Masonry</a></li>
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_hwan.2020.BICM,
+      author            = "Rouzbeh Shahsavari and Sung Hoon Hwang",
+      title             = "Bio-Iinspired Cementitious Materials: Main Strategies, Progress, and Applications",
+      doi               = "10.3389/fmats.2020.00062",
+      year              = "2020",
+      journal           = "Frontiers in Materials",
+      volume            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Shahsavari  and S. H. Hwang, “Bio-Iinspired Cementitious Materials: Main Strategies, Progress, and Applications”, <i>Frontiers in Materials</i>, vol. 7, 2020, doi: 10.3389/fmats.2020.00062.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahsavari, Rouzbeh, and Sung Hoon Hwang. “Bio-Iinspired Cementitious Materials: Main Strategies, Progress, and Applications”. <i>Frontiers in Materials</i> 7 (2020). https://doi.org/10.3389/fmats.2020.00062.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

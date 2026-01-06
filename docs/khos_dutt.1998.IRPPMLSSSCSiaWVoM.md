@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behrokh Khoshnevis, Rosanne Dutton
+    - footer
+title: Khoshnevis Behrokh, Dutton Rosanne
 description:
 tags:
  - complexity
@@ -21,35 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials ([1998-01](date/1998/01))
-<a href="https://doi.org/10.1080/10667857.1998.11752766" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/10667857.1998.11752766</a>
+#Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials ([1998-01](date/1998/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/10667857.1998.11752766" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10667857.1998.11752766" target="_blank">10.1080/10667857.1998.11752766</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/dutton_rosanne"><b>Dutton</b>&nbsp;Rosanne</a></span><br>
+Journal Article - Materials Technology, Vol. 13, Iss. 2, pp. 53-56
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Technology, Vol. 13, Iss. 2, pp. 53-56
-
-:aca-blank:{ .lg .middle}
-    [`#complexity`](keyword/complexity)
-    [`#innovation`](keyword/innovation)
-    [`#large`](keyword/large)
-    [`#material`](keyword/material)
-    [`#process`](keyword/process)
-    [`#prototype`](keyword/prototype)
-    [`#rapid`](keyword/rapid)
-    [`#shape`](keyword/shape)
-    [`#size`](keyword/size)
-    [`#smooth`](keyword/smooth)
-    [`#surface`](keyword/surface)
-    [`#variation`](keyword/variation)
-    [`#width`](keyword/width)
-
-
--------------------------
+<a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/smooth"><button class="btn">#smooth</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Innovative%20Rapid%20Prototyping%20Process%20Makes%20Large-Sized%2C%20Smooth-Surfaced%20Complex%20Shapes%20in%20a%20Wide%20Variety%20of%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-0032083513&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,20 +43,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2509138468" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/10667857.1998.11752766" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/10667857.1998.11752766?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Surface finish is a key issue that must be addressed in most rapid prototyping processes. The surface of the component is often rough because the component is created layer-by-layer, and in some techniques the layers are generated point-by-point. This roughness generally has a wavelength and amplitude that are proportional to the layer thickness. The approaches usually employed to reduce the roughness include reducing the layer thickness and/or using post-fabrication grinding. Modifications to existing processes that improve the surface finish would be desirable for reducing fabrication time and cost.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "136 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
@@ -214,4 +190,35 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bekey_george"><b>Bekey</b> George</a> <a href="../../../date/2002/09">(2002-09)</a><br><a href="../../../khos_beke.2002.ACUCC/">Automated Construction Using Contour Crafting:<br/>Applications on Earth and Beyond</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a>, <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="../../../date/2001/09">(2001-09)</a><br><a href="../../../khos_russ_kwon_bukk.2001.CLP/">Crafting Large Prototypes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khos_dutt.1998.IRPPMLSSSCSiaWVoM,
+      author            = "Behrokh Khoshnevis and Rosanne Dutton",
+      title             = "Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials",
+      doi               = "10.1080/10667857.1998.11752766",
+      year              = "1998",
+      journal           = "Materials Technology",
+      volume            = "13",
+      number            = "2",
+      pages             = "53--56",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Khoshnevis  and R. Dutton, “Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials”, <i>Materials Technology</i>, vol. 13, no. 2, pp. 53–56, 1998, doi: 10.1080/10667857.1998.11752766.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khoshnevis, Behrokh, and Rosanne Dutton. “Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials”. <i>Materials Technology</i> 13, no. 2 (1998): 53–56. https://doi.org/10.1080/10667857.1998.11752766.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

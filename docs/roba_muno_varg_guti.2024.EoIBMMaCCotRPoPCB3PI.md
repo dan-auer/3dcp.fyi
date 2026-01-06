@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rafael Robayo-Salazar, Miguel Muñoz, Armando Vargas, Ruby Gutiérrez
+    - footer
+title: Robayo-Salazar Rafael, Muñoz Miguel, Vargas Armando, Gutiérrez Ruby
 description:
 tags:
  - base
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2024.137857) Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137857" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137857</a>
+#Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.137857) <a href="https://doi.org/10.1016/j.conbuildmat.2024.137857" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137857" target="_blank">10.1016/j.conbuildmat.2024.137857</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b>&nbsp;Rafael</a></span>, <a href="../../../author/munoz_a_miguel"><b>Muñoz</b>&nbsp;Miguel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7719-1867" title="ORCID: 0000-0002-7719-1867" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vargas_armando"><b>Vargas</b>&nbsp;Armando</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gutierrez_mejia_ruby"><b>de&nbsp;Gutiérrez</b>&nbsp;Ruby</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 445, No. 137857
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> <a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/munoz_a_miguel"><b>Muñoz</b> Miguel</a>
-,     <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a> <a href="https://orcid.org/0000-0002-7719-1867" title="ORCID: 0000-0002-7719-1867" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> <a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 445, No. 137857
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#bentonite`](keyword/bentonite)
-    [`#carbonation`](keyword/carbonation)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#incorporation`](keyword/incorporation)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bentonite"><button class="btn">#bentonite</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Incorporating%20Bentonite%2C%20Metakaolin%2C%20Microsilica%2C%20and%20Calcium-Carbonate%20on%20the%20Rheological%20Properties%20of%20Portland-Cement-Based%203D%20Printing%20Inks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201485209&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401691762" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137857" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137857?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cementitious mixtures for 3D printing require specific rheological properties in the fresh state, which is why it is necessary to incorporate admixtures and/or mineral additions (modifiers) into such mixtures. The objectives of this article were to compare the effects of bentonite (Ben) (1 %–5 %) and mineral additions, such as metakaolin (MK) (5 % and 10 %), microsilica (MS) (5 % and 10 %) and calcium carbonate (Ca) (5 % and 10 %), on the rheological properties in the fresh state and to determine the printability of cementitious mixtures based on ordinary Portland cement (OPC). Among the rheological properties, the static yield stress (), flow behavior, viscosity () and thixotropic of the mixtures were evaluated. Complementarily, the properties of materials in the fresh state, such as the settlement (minislump), flow rate (flow table) and buildability, were determined. The printability was evaluated through laboratory-scale additive manufacturing tests by printing from a hollow cylinder (unfilled) 50.8 mm in diameter and 208 mm in height (≈52 layers). The results showed that the incorporation of Ben between 1 % and 5 % had a significant effect on the rheological properties of the mixtures in the fresh state, increasing to 203.8 % (5 % Ben) and structural regeneration (thixotropy) to 98.5 %. Ben decreased the fluidity of the mixtures while significantly increasing the buildability. Among the mineral additions used, MS and MK increased the rheological properties of the mixtures as a function of the amount incorporated (5 % and 10 %, respectively), while Ca had a fluidifying effect on the mixtures, thereby affecting the buildability during the 3D printing process. This phenomenon was corrected by simultaneous adding 3 % Ben. The results obtained were considered a starting point for the design of OPC-based 3D printing mixtures with these modifiers (Ben, MK, MS and Ca).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
@@ -92,12 +69,42 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{roba_muno_varg_guti.2024.EoIBMMaCCotRPoPCB3PI,
+      author            = "Rafael Robayo-Salazar and Miguel A. Muñoz and Armando Vargas and Ruby Mejía de Gutiérrez",
+      title             = "Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks",
+      doi               = "10.1016/j.conbuildmat.2024.137857",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "445",
+      pages             = "137857",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Robayo-Salazar, M. A. Muñoz, A. Vargas and R. M. de Gutiérrez, “Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks”, <i>Construction and Building Materials</i>, vol. 445, p. 137857, 2024, doi: 10.1016/j.conbuildmat.2024.137857.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Robayo-Salazar, Rafael, Miguel A. Muñoz, Armando Vargas, and Ruby Mejía de Gutiérrez. “Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks”. <i>Construction and Building Materials</i> 445 (2024): 137857. https://doi.org/10.1016/j.conbuildmat.2024.137857.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

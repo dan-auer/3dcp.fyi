@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harika Sesetti, Muthina Lalithya, Pala Kumar
+    - footer
+title: Sesetti Harika, Lalithya Muthina, Kumar Pala
 description:
 tags:
  - concrete
@@ -13,28 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing in Construction Industry:<br/>:aca-blank: A State of the Art ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1007/978-981-19-0189-8_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-19-0189-8_32</a>
+#3D Concrete Printing in Construction Industry&nbsp;([2021-10](date/2021/10))
+<div class="h1-like">A State of the Art</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-19-0189-8_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-0189-8_32" target="_blank">10.1007/978-981-19-0189-8_32</a>
 
--------------------------
+<a href="../../../author/sesetti_harika"><b>Sesetti</b>&nbsp;Harika</a></span>, <a href="../../../author/lalithya_venu_muthina"><b>Lalithya</b>&nbsp;Muthina</a></span>, <a href="../../../author/kumar_gireesh_pala"><b>Kumar</b>&nbsp;Pala</a></span><br>
+Contribution - Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering, pp. 385-396
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sesetti_harika"><b>Sesetti</b> Harika</a>
-,     <a href="../../../author/lalithya_venu_muthina"><b>Lalithya</b> Muthina</a>
-,     <a href="../../../author/kumar_gireesh_pala"><b>Kumar</b> Pala</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering, pp. 385-396
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20in%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131141656&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,23 +36,50 @@ tags:
 <a href="https://inciteful.xyz/p/W4285223377" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-19-0189-8_32" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-19-0189-8_32?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is likely to undergo considerable changes in order to enhance its productivity, optimize material usage, and improve workmanship. In the recent few decades, various automation technologies like 3D Concrete Printing (3DCP) have been introduced in the construction industry to automate the construction process. 3D Concrete Printing is an emerging method that can be used for fabricating the building and building components straight from a digital model into consecutive layers devoid of the use of any temporary supports or subsequent vibration. It is necessary to examine the existing processes, potentials, and limitations associated with 3DCP, and identify future research aspects to understand its applications in the construction industry. The primary goal of this study is to summarize the previous works of literature from both technical and non-technical aspects. Hence, this article provides a state-of-the-art analysis of recent accomplishments in the field of 3D printing of civil structures and construction components as well as recommendations for future research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../pand_tay_paul_tan.2018.CCaFPo3CP/">Current Challenges and Future Potential of 3D Concrete Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sese_lali_kuma.2022.3CPiCI,
+      author            = "Harika Sesetti and Muthina Venu Lalithya and Pala Gireesh Kumar",
+      title             = "3D Concrete Printing in Construction Industry: A State of the Art",
+      doi               = "10.1007/978-981-19-0189-8_32",
+      year              = "2022",
+      volume            = "233",
+      pages             = "385--396",
+      booktitle         = "Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering: Recent Advances in Civil Engineering",
+      editor            = "Pala Gireesh Kumar and Kolluru V. L. Subramaniam and S. Moses Santhakumar and Neelima Satyam D.",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Sesetti, M. V. Lalithya and P. G. Kumar, “3D Concrete Printing in Construction Industry: A State of the Art”, in <i>Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering: Recent Advances in Civil Engineering</i>,  2022, vol. 233, pp. 385–396. doi: 10.1007/978-981-19-0189-8_32.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sesetti, Harika, Muthina Venu Lalithya, and Pala Gireesh Kumar. “3D Concrete Printing in Construction Industry: A State of the Art”. In <i>Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering: Recent Advances in Civil Engineering</i>, edited by Pala Gireesh Kumar, Kolluru V. L. Subramaniam, S. Moses Santhakumar, and Neelima Satyam D., 233:385–96, 2022. https://doi.org/10.1007/978-981-19-0189-8_32.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yufei Wang, Junbo Sun, Xiangyu Wang, Bo Huang, Shuyuan Xu, Jiajie Shang, Shengping Li, Chengwei Song, Dong Wang
+    - footer
+title: Wang Yufei, Sun Junbo, Wang Xiangyu, Huang Bo, Xu Shuyuan, Shang Jiajie, Li Shengping, Song Chengwei, Wang Dong
 description:
 tags:
  - aggregate
@@ -21,42 +22,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste:<br/>:aca-blank: A Case Study in China ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.enbuild.2025.116405" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.enbuild.2025.116405</a>
+#Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">A Case Study in China</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.enbuild.2025.116405" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.enbuild.2025.116405" target="_blank">10.1016/j.enbuild.2025.116405</a>
 
--------------------------
+<a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2888-9326" title="ORCID: 0000-0003-2888-9326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_bo"><b>Huang</b>&nbsp;Bo</a></span>, <a href="../../../author/xu_shuyuan"><b>Xu</b>&nbsp;Shuyuan</a></span>, <a href="../../../author/shang_jiajie"><b>Shang</b>&nbsp;Jiajie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7428-1525" title="ORCID: 0000-0002-7428-1525" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shengping"><b>Li</b>&nbsp;Shengping</a></span>, <a href="../../../author/song_chengwei"><b>Song</b>&nbsp;Chengwei</a></span>, <a href="../../../author/wang_dong"><b>Wang</b>&nbsp;Dong</a></span><br>
+Journal Article - Energy and Buildings, Vol. 347, No. 116405
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> <a href="https://orcid.org/0000-0003-2888-9326" title="ORCID: 0000-0003-2888-9326" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_shuyuan"><b>Xu</b> Shuyuan</a>
-,     <a href="../../../author/shang_jiajie"><b>Shang</b> Jiajie</a>
-,     <a href="../../../author/li_shengping"><b>Li</b> Shengping</a> <a href="https://orcid.org/0000-0002-7428-1525" title="ORCID: 0000-0002-7428-1525" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/song_chengwei"><b>Song</b> Chengwei</a>
-,     <a href="../../../author/wang_dong"><b>Wang</b> Dong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energy and Buildings, Vol. 347, No. 116405
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#case`](keyword/case)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#economic`](keyword/economic)
-    [`#environment`](keyword/environment)
-    [`#evaluation`](keyword/evaluation)
-    [`#prefabrication`](keyword/prefabrication)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#structure`](keyword/structure)
-    [`#unit`](keyword/unit)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/unit"><button class="btn">#unit</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Environmental%20and%20Economic%20Evaluation%20of%20a%20Prefabricated%203D-Printed%20Structural%20Units%20Using%20Recycled%20Aggregates%20from%20Construction%20and%20Demolition%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414030871" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.enbuild.2025.116405" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.enbuild.2025.116405?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry contributes significantly to global resource depletion, energy consumption, and environmental impact. Although 3D concrete printing (3DCP) reduces labour and formwork waste, its high cement demand raises environmental concerns. Recycled aggregates (RA) offer a sustainable alternative, but their use in 3DCP is still limited, especially in real-world applications. To address this gap, this study develops an integrated framework that combines life cycle assessment (LCA) and economic evaluation, applied to a full-scale 3D-printed structural unit using RA in Jiangsu, China. The analysis covers key phases such as material acquisition, construction, transportation, and assembly. Our findings reveal that while 3D printing reduces labour and eliminates the need for formwork, its overall environmental benefits are offset by the high cement usage and transportation emissions associated with the RA material. Sensitivity analyses indicate that optimising RA proportions and reducing transportation distances could enhance the sustainability and cost-efficiency of 3DCP projects. Although 3D printing has the potential to transform construction practices, significant improvements in material composition and logistics are required to fully realise its environmental and economic advantages. By using comprehensive real-world data, this study bridges the gap between laboratory-scale investigations and practical implementation, offering a robust foundation for evaluating the sustainability of 3DCP with RA. This study provides critical insights into the practical application of 3DCP with RA, moving the field closer to achieving sustainable large-scale construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -108,7 +77,37 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_sun_wang_huan.2025.EaEEoaP3PSUURAfCaDW,
+      author            = "Yufei Wang and Junbo Sun and Xiangyu Wang and Bo Huang and Shuyuan Xu and Jiajie Shang and Shengping Li and Chengwei Song and Dong Wang",
+      title             = "Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste: A Case Study in China",
+      doi               = "10.1016/j.enbuild.2025.116405",
+      year              = "2025",
+      journal           = "Energy and Buildings",
+      volume            = "347",
+      pages             = "116405",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, “Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste: A Case Study in China”, <i>Energy and Buildings</i>, vol. 347, p. 116405, 2025, doi: 10.1016/j.enbuild.2025.116405.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yufei, Junbo Sun, Xiangyu Wang, Bo Huang, Shuyuan Xu, Jiajie Shang, Shengping Li, Chengwei Song, and Dong Wang. “Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste: A Case Study in China”. <i>Energy and Buildings</i> 347 (2025): 116405. https://doi.org/10.1016/j.enbuild.2025.116405.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

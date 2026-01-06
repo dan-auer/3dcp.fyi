@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Than Ngo, Shuai Li, Tien Huynh, Y. Zhang, Jonathan Tran
+    - footer
+title: Ngo Than, Li Shuai, Huynh Tien, Zhang Y., Tran Jonathan
 description:
 tags:
  - concrete
@@ -13,30 +14,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } 3D Printable Hemp Concrete:<br/>:aca-blank: Rheological, Mechanical, and Microstructural Properties ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jobe.2025.114467" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114467</a>
+#3D Printable Hemp Concrete&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">Rheological, Mechanical, and Microstructural Properties</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114467" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114467" target="_blank">10.1016/j.jobe.2025.114467</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-6850-8812" title="ORCID: 0009-0003-6850-8812" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ngo_ha_than"><b>Ngo</b>&nbsp;Than</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shuai"><b>Li</b>&nbsp;Shuai</a></span>, <a href="../../../author/huynh_tien"><b>Huynh</b>&nbsp;Tien</a></span>, <a href="../../../author/zhang_x_y"><b>Zhang</b>&nbsp;Y.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114467
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a> <a href="https://orcid.org/0009-0003-6850-8812" title="ORCID: 0009-0003-6850-8812" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_shuai"><b>Li</b> Shuai</a> <a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>
-,     <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114467
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#mechanics`](keyword/mechanics)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Hemp%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020253291&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415535125" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114467" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114467?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Hemp concrete, as one variety of vegetal concretes, has been extensively studied as it holds promise as a sustainable, high-performing, and eco-conscious building materials by its carbon-sequestering characteristics, yet its potential and early stages of development for 3D Concrete Printing (3DCP) remains largely unexplored. While previous studies on 3D printing of hemp concrete are limited and mostly focus on feasibility using cylinder pumping, this study is the first to systematically investigate 3D-printed hemp concrete using a robotic 3D printing system. This study demonstrates the feasibility of incorporating hemp shivs into printable sustainable concrete for 3DCP. The effect of hemp shivs on printability, buildability, compressive strength and flexural strength are examined experimentally. Experimental results show that the addition of hemp shivs of 1 – 4% by weight of sand improves the flowability by 16.7% without significantly reducing the buildability (±1.7% relative to control mix). Furthermore, in comparison with the control mixture, the flexural strength of 3D printable hemp concrete exhibits larger reduction (57 – 60.6%) stacked up against their compressive strength (45.9 – 54.8% depends on printing directions). Microstructural characterization indicates that pre-treatment of hemp and optimized particle grading can further improve interlayer bonding and pore distribution. Overall, the findings confirm that hemp-based mixtures can be adapted for 3DCP, offering a pathway to carbon-conscious construction materials while identifying key parameters for future optimization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/cai_jianguo"><b>Cai</b> Jianguo</a>, <a href="../../../author/wang_jingsong"><b>Wang</b> Jingsong</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a>, <a href="../../../author/du_caixia"><b>Du</b> Caixia</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cai_wang_zhan_du.2024.SotAoMPo3PC/">State of the Art of Mechanical Properties of 3D Printed Concrete</a></li>
@@ -94,7 +75,36 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ngo_li_huyn_zhan.2025.3PHC,
+      author            = "Than Ha Ngo and Shuai Li and Tien Huynh and Y. X. Zhang and Jonathan Phuong Tran",
+      title             = "3D Printable Hemp Concrete: Rheological, Mechanical, and Microstructural Properties",
+      doi               = "10.1016/j.jobe.2025.114467",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114467",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. H. Ngo, S. Li, T. Huynh, Y. X. Zhang and J. P. Tran, “3D Printable Hemp Concrete: Rheological, Mechanical, and Microstructural Properties”, <i>Journal of Building Engineering</i>, p. 114467, 2025, doi: 10.1016/j.jobe.2025.114467.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ngo, Than Ha, Shuai Li, Tien Huynh, Y. X. Zhang, and Jonathan Phuong Tran. “3D Printable Hemp Concrete: Rheological, Mechanical, and Microstructural Properties”. <i>Journal of Building Engineering</i>, 2025, 114467. https://doi.org/10.1016/j.jobe.2025.114467.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

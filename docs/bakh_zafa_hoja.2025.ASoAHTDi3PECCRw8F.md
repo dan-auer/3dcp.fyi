@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amir Bakhshi, Muhammad Zafar, Maryam Hojati
+    - footer
+title: Bakhshi Amir, Zafar Muhammad, Hojati Maryam
 description:
 tags:
  - achievement
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.jobe.2025.112196" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112196</a>
+#A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112196" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112196" target="_blank">10.1016/j.jobe.2025.112196</a>
 
--------------------------
+<a href="../../../author/bakhshi_amir"><b>Bakhshi</b>&nbsp;Amir</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112196
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>
-,     <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a> <a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112196
-
-:aca-blank:{ .lg .middle}
-    [`#achievement`](keyword/achievement)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#ductility`](keyword/ductility)
-    [`#engineered`](keyword/engineered)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#printability`](keyword/printability)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/achievement"><button class="btn">#achievement</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Study%20on%20Achieving%20High%20Tensile%20Ductility%20in%203D-Printable%20Engineered%20Cementitious%20Composites%20Reinforced%20with%208mm%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219083623&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407942376" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112196" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112196?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper delves into the design and formulation of 3D printable Engineered Cementitious Composites (ECC) mixes, featuring 8mm fibers, to tackle challenges like nozzle blockage and improve print quality. It explores the mechanical performance of four ECC mixes—S50, FA50, FA40-MK10, and FA40-SF10—by replacing 50% of cement with mineral admixtures such as slag (S), fly ash (FA), metakaolin (MK), and silica fume (SF), specifically tailored for mold-cast and extrusion-based 3D printing. PolyVinyl Alcohol (PVA) and Ultra-High Molecular Weight Polyethylene (PE) fibers were incorporated at different ratios (1.5% and 2%). Comprehensive mechanical testing, including compressive, direct tensile, and three-point bending tests, was conducted, considering various parameters' influence, such as different admixtures, fiber types and volumes. The S50 mix demonstrated superior strength and ductility, with 2% PVA and 2% PE fibers displaying significantly larger strain capacities than FA50 mixes. Substituting 10% of FA with MK improved mechanical performance, while SF substitution reduced strength and bending capacity. Ultra-ductile ECC with 8mm PE fibers, printed with high quality, achieved a strain capacity of up to 11.9% and a tensile strength of 5.85 MPa, with optimized mixing procedures and viscosity modifier admixture. Analysis of SEM images revealed that ECC mixes with 2% PE fibers predominantly exhibited pullout failures, whereas those containing 2% PVA fibers displayed rupture failures. These findings expand possibilities for developing high-quality 3D printable ECC with both high compressive strength and ductility, offering insights for advancing sustainable and resilient construction materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bakh_sedg_hoja.2021.APSotMDo3PECC/">A Preliminary Study on the Mix-Design of 3D Printable Engineered Cementitious Composite</a></li>
       <li><a href="../../../author/bhusal_shiva"><b>Bhusal</b> Shiva</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../bhus_sedg_hoja.2023.EtPaRaMPo3PEMfCNB/">Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings</a></li>
@@ -89,17 +66,45 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zafa_bakh_hoja.2022.T3PECC/">Toward 3D Printable Engineered Cementitious Composites:<br/>Mix-Design Proportioning, Flowability, and Mechanical Performance</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zafa_bakh_hoja.2023.PaSFEoSRECC/">Printability and Shape Fidelity Evaluation of Self-Reinforced Engineered Cementitious Composites</a></li>
-      <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/shahid_adnan"><b>Shahid</b> Adnan</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zafa_shah_sedg_hoja.2025.OoBAf3PCS/">Optimization of Biopolymer Additives for 3D Printable Cementitious Systems:<br/>A Design of Experiment Approach</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/jamifar_vahid"><b>Jamifar</b> Vahid</a>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b> Hamid</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jami_eska_dehe.2025.OEAFDUi3PRCPUDODoEaGWO/">Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization</a></li>
       <li><a href="../../../author/zafar_tayyab"><b>Zafar</b> Tayyab</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_zafa_hoja.2025.Et3PoECCwICfRCiAR/">Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_java_hoja.2025.ORPo3PCMvEML/">Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/junjie_zhang"><b>Junjie</b> Zhang</a>, <a href="../../../author/fan_jiahui"><b>Fan</b> Jiahui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI/">Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bakh_zafa_hoja.2025.ASoAHTDi3PECCRw8F,
+      author            = "Amir Bakhshi and Muhammad Saeed Zafar and Maryam Hojati",
+      title             = "A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers",
+      doi               = "10.1016/j.jobe.2025.112196",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112196",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Bakhshi, M. S. Zafar and M. Hojati, “A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers”, <i>Journal of Building Engineering</i>, p. 112196, 2025, doi: 10.1016/j.jobe.2025.112196.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bakhshi, Amir, Muhammad Saeed Zafar, and Maryam Hojati. “A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers”. <i>Journal of Building Engineering</i>, 2025, 112196. https://doi.org/10.1016/j.jobe.2025.112196.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

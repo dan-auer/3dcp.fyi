@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vitoldas Vaitkevičius, Evaldas Šerelis, Vidas Kerševičius
+    - footer
+title: Vaitkevičius Vitoldas, Šerelis Evaldas, Kerševičius Vidas
 description:
 tags:
  - activation
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology ([2018-03](date/2018/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2018.03.007" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2018.03.007</a>
+#Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology ([2018-03](date/2018/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2018.03.007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2018.03.007" target="_blank">10.1016/j.conbuildmat.2018.03.007</a>
 
--------------------------
+<a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b>&nbsp;Vitoldas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8059-0308" title="ORCID: 0000-0002-8059-0308" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/serelis_evaldas"><b>Šerelis</b>&nbsp;Evaldas</a></span>, <a href="../../../author/kersevicius_vidas"><b>Kerševičius</b>&nbsp;Vidas</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 169, pp. 354-363
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>
-,     <a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a> <a href="https://orcid.org/0000-0002-8059-0308" title="ORCID: 0000-0002-8059-0308" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kersevicius_vidas"><b>Kerševičius</b> Vidas</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 169, pp. 354-363
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#effect`](keyword/effect)
-    [`#hydration`](keyword/hydration)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Ultra-Sonic%20Activation%20on%20Early%20Hydration%20Process%20in%203D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85042883576&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,27 +38,22 @@ tags:
 <a href="https://inciteful.xyz/p/W2792519206" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2018.03.007" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2018.03.007?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this research created binder was adapted for 3D printer and developing process was analysed in detail. According to the research, early setting time and strength is gained due to ettringite crystal growth. Methods for controlling setting time and early hydration process were proposed. Final setting time of developed binders varied from 5 min up to more than 20 min. Density, flexural and compressive strengths were investigated and compared to ordinary Portland cement. Compressive strength of approx. 1 MPa at 20 min and approx. 50 MPa at 28 days can be expected of 3D concrete printed samples. Structure f dld bid ld ih d hd i i ld b of developed binders was analysed with XRD, SEM and EDX methods, setting time was analysed by semi-adiabatic calorimeter. Phase composition analysis confirmed previous statement (early setting and strength is the result of intensive growth of ettringite crystals). Purposed method allows easier control of printing technology process, thus individual houses and various civil engineer structures can be constructed easier and with less malfunctions
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
-      <li><a href="../../../author/raval_d_amitkumar"><b>Raval</b> Amitkumar</a>, <a href="../../../author/patel_g_c"><b>Patel</b> C.</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rava_pate.2024.TIoAoCSaSToCtAHESf3CPT/">The Influence of Accelerators on Compressive Strength and Setting-Time of Cement to Achieve High Early Strength for 3D Concrete Printing Technology</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "47 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shekhar_shashank"><b>Shekhar</b> Shashank</a>, <a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a>, <a href="../../../author/mathur_rishabh"><b>Mathur</b> Rishabh</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shek_kuma_math.2025.AMoCwLIYSTCHoPL/">Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers</a></li>
       <li><a href="../../../author/li_nan"><b>Li</b> Nan</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/li_lingyu"><b>Li</b> Lingyu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../li_deng_li_li.2025.PoAMBMPCaAoRS3PT/">Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology</a></li>
       <li><a href="../../../author/li_long"><b>Li</b> Long</a>, <a href="../../../author/ji_weiyi"><b>Ji</b> Weiyi</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/xiao_jie"><b>Xiao</b> Jie</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_ji_xiao_xiao.2025.SfIBo3PCUCMaCA/">Strategy for Improving Buildability of 3D Printing Concrete Using CO2 Mixing and Chemical Admixtures</a></li>
@@ -124,4 +102,34 @@ tags:
       <li><a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/duda_pedro"><b>Duda</b> Pedro</a>, <a href="../../../author/silva_ccm_emilio"><b>Silva</b> Emílio</a>, <a href="../../../author/paiva_dm_maria"><b>Paiva</b> Maria</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../mend_duda_silv_paiv.2019.NPaSBAf3PwPCP/">Nanosilica-Particles as Structural Buildup Agents for 3D Printing with Portland Cement-Pastes</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vait_sere_kers.2018.EoUSAoEHPi3CPT,
+      author            = "Vitoldas Vaitkevičius and Evaldas Šerelis and Vidas Kerševičius",
+      title             = "Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology",
+      doi               = "10.1016/j.conbuildmat.2018.03.007",
+      year              = "2018",
+      journal           = "Construction and Building Materials",
+      volume            = "169",
+      pages             = "354--363",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Vaitkevičius, E. Šerelis and V. Kerševičius, “Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology”, <i>Construction and Building Materials</i>, vol. 169, pp. 354–363, 2018, doi: 10.1016/j.conbuildmat.2018.03.007.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vaitkevičius, Vitoldas, Evaldas Šerelis, and Vidas Kerševičius. “Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology”. <i>Construction and Building Materials</i> 169 (2018): 354–63. https://doi.org/10.1016/j.conbuildmat.2018.03.007.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

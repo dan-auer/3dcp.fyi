@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ofer Asaf, Arnon Bentur, Pavel Larianovsky, Aaron Sprecher
+    - footer
+title: Asaf Ofer, Bentur Arnon, Larianovsky Pavel, Sprecher Aaron
 description:
 tags:
  - component
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Granular Materials for 3D Printing of Construction Components and Structures ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.autcon.2024.105544" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105544</a>
+#Granular Materials for 3D Printing of Construction Components and Structures ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105544" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105544" target="_blank">10.1016/j.autcon.2024.105544</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asaf_ofer"><b>Asaf</b>&nbsp;Ofer</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-0991-5471" title="ORCID: 0000-0001-0991-5471" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bentur_arnon"><b>Bentur</b>&nbsp;Arnon</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-3835-8386" title="ORCID: 0009-0009-3835-8386" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/larianovsky_pavel"><b>Larianovsky</b>&nbsp;Pavel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sprecher_aaron"><b>Sprecher</b>&nbsp;Aaron</a></span><br>
+Journal Article - Automation in Construction, Vol. 166, No. 105544
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a> <a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a> <a href="https://orcid.org/0000-0001-0991-5471" title="ORCID: 0000-0001-0991-5471" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a> <a href="https://orcid.org/0009-0009-3835-8386" title="ORCID: 0009-0009-3835-8386" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 166, No. 105544
-
-:aca-blank:{ .lg .middle}
-    [`#component`](keyword/component)
-    [`#construction`](keyword/construction)
-    [`#grain`](keyword/grain)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Granular%20Materials%20for%203D%20Printing%20of%20Construction%20Components%20and%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198002937&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400493812" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105544" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105544?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extensive research on 3D printing with granular materials has predominantly focused on discrete aspects of the process, such as material properties, printing technology, or component types. This paper advances the field by adopting an integrative approach, investigating a range of granular materials, and employing generic design procedures based on rheological concepts. The objective is to establish relationships between material properties, printing technology, and component types to optimize performance and minimize material usage. An experimental program was conducted, printing clay-based and cementitious materials to characterize their early-age and mature properties and develop generic design procedures. The findings demonstrate that rheological principles can underpin design strategies, harmonizing printing parameters, material properties, and component geometry, ensuring effective printing and material efficiency. These principles provide a foundation for further optimizing the printing process and materials design by investigating the effects of mix composition, especially the binder composition and fillers, to control thixotropy development.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
@@ -94,11 +74,41 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2015/08">(2015-08)</a><br><a href="../../../zhou_li.2015.MCBMaBPvE/">Manufacturing Cement-Based Materials and Building Products via Extrusion:<br/>From Laboratory to Factory</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/khoury_eliane"><b>Khoury</b> Eliane</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b> Bogdan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khou_chei_schu_caza.2025.UVMf3PoMMwRS/">Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../asaf_bent_amir_lari.2024.A3PPfDaMoMFCCCaIVfaPTB/">A 3D Printing Platform for Design and Manufacturing of Multi-Functional Cementitious Construction Components and Its Validation for a Post-Tensioned Beam</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{asaf_bent_lari_spre.2024.GMf3PoCCaS,
+      author            = "Ofer Asaf and Arnon Bentur and Pavel Larianovsky and Aaron Sprecher",
+      title             = "Granular Materials for 3D Printing of Construction Components and Structures",
+      doi               = "10.1016/j.autcon.2024.105544",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "166",
+      pages             = "105544",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Asaf, A. Bentur, P. Larianovsky and A. Sprecher, “Granular Materials for 3D Printing of Construction Components and Structures”, <i>Automation in Construction</i>, vol. 166, p. 105544, 2024, doi: 10.1016/j.autcon.2024.105544.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Asaf, Ofer, Arnon Bentur, Pavel Larianovsky, and Aaron Sprecher. “Granular Materials for 3D Printing of Construction Components and Structures”. <i>Automation in Construction</i> 166 (2024): 105544. https://doi.org/10.1016/j.autcon.2024.105544.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

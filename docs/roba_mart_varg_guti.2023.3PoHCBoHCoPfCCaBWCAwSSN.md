@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rafael Robayo-Salazar, Fabio Martínez, Armando Vargas, Ruby Gutiérrez
+    - footer
+title: Robayo-Salazar Rafael, Martínez Fabio, Vargas Armando, Gutiérrez Ruby
 description:
 tags:
  - activation
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/15/13/9900/pdf?version=1687767990) 3D Printing of Hybrid Cements Based on High Contents of Powders from Concrete, Ceramic and Brick Waste Chemically Activated with Sodium Sulphate (Na2SO4) ([2023-06](date/2023/06))
-<a href="https://doi.org/10.3390/su15139900" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su15139900</a>
+#3D Printing of Hybrid Cements Based on High Contents of Powders from Concrete, Ceramic and Brick Waste Chemically Activated with Sodium Sulphate (Na2SO4) ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/15/13/9900/pdf?version=1687767990) <a href="https://doi.org/10.3390/su15139900" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su15139900" target="_blank">10.3390/su15139900</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b>&nbsp;Rafael</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-2147-8941" title="ORCID: 0009-0000-2147-8941" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinez_fabio"><b>Martínez</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7719-1867" title="ORCID: 0000-0002-7719-1867" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vargas_armando"><b>Vargas</b>&nbsp;Armando</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gutierrez_mejia_ruby"><b>de&nbsp;Gutiérrez</b>&nbsp;Ruby</a></span><br>
+Journal Article - Sustainability, Vol. 15, Iss. 13, No. 9900
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> <a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martinez_fabio"><b>Martínez</b> Fabio</a> <a href="https://orcid.org/0009-0000-2147-8941" title="ORCID: 0009-0000-2147-8941" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a> <a href="https://orcid.org/0000-0002-7719-1867" title="ORCID: 0000-0002-7719-1867" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> <a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 15, Iss. 13, No. 9900
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#base`](keyword/base)
-    [`#brick`](keyword/brick)
-    [`#cement`](keyword/cement)
-    [`#ceramic`](keyword/ceramic)
-    [`#concrete`](keyword/concrete)
-    [`#content`](keyword/content)
-    [`#height`](keyword/height)
-    [`#hybrid`](keyword/hybrid)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Hybrid%20Cements%20Based%20on%20High%20Contents%20of%20Powders%20from%20Concrete%2C%20Ceramic%20and%20Brick%20Waste%20Chemically%20Activated%20with%20Sodium%20Sulphate%20%28Na2SO4%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165008812&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4381685501" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su15139900" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su15139900?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article evaluates the synthesis, characterization and 3D printing of hybrid cements based on high (70%) contents of powders from concrete waste (CoW), ceramic waste (CeW) and red clay brick waste (RCBW) from construction and demolition waste. For the synthesis of the hybrid cements, 30% (by weight) of ordinary Portland cement (OPC) was added. Sodium sulphate (Na2SO4) (4%) was used as a chemical activator. The effect of the liquid/solid ratio on the properties in the fresh state of the mixes was studied by means of minislump, flowability index, and buildability tests. The compressive strength was evaluated at 3, 7, 28 and 90 days of curing at room temperature (≈25°C), obtaining strengths of up to 30.7 MPa (CoW), 37.0 MPa (CeW) and 33.2 MPa (RCBW) with an L/S ratio of 0.30. The results obtained allowed selecting the CoW 0.30, CeW 0.33 and RCBW 0.38 mixes as optimal for carrying out 3D printing tests on a laboratory scale, successfully printing elements with good print quality, adequate buildability, and compressive strength (CoW 0.30 = 18.2 MPa, CeW 0.33 = 27.7 MPa and RCBW 0.38 = 21.7 MPa) higher than the structural limit (≥17.5 MPa) established for concrete by Colombian Regulations for Earthquake Resistant Construction (NSR-10).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../che_yang.2022.HPPSaCSoEB3PCPCNCC/">Hydration Products, Pore-Structure, and Compressive Strength of Extrusion-Based 3D Printed Cement-Pastes Containing Nano-Calcium-Carbonate</a></li>
@@ -95,8 +69,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
       <li><a href="../../../author/loaiza_velez_sebastian"><b>Loaiza</b> Sebastián</a>, <a href="../../../author/ortiz_albert"><b>Ortiz</b> Albert</a>, <a href="../../../author/gomez_daniel"><b>Gómez</b> Daniel</a>, <a href="../../../author/garcia-alvarez_jaime_jose"><b>García Alvarez</b> José</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../loai_orti_gome_garc.2023.3PAtBDAtW/">3D Printing Applied to Building Development Around the World:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../madr_orte_olss_teno.2024.3C/">3D Constructing:<br/>Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation</a></li>
@@ -105,4 +79,35 @@ tags:
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a>, <a href="../../../author/vornicu_nicoleta"><b>Vornicu</b> Nicoleta</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../ungu_onut_tara_vorn.2023.MaMPoCE3PCRwPF/">Microstructure and Mechanical Properties of Cost-Efficient 3D Printed Concrete Reinforced with Polypropylene Fibers</a></li>
       <li><a href="../../../author/zhou_yi"><b>Zhou</b> Yi</a>, <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhou_alth_alot_gami.2023.AOoRAiFR3PC/">An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{roba_mart_varg_guti.2023.3PoHCBoHCoPfCCaBWCAwSSN,
+      author            = "Rafael Robayo-Salazar and Fabio Martínez and Armando Vargas and Ruby Mejía de Gutiérrez",
+      title             = "3D Printing of Hybrid Cements Based on High Contents of Powders from Concrete, Ceramic and Brick Waste Chemically Activated with Sodium Sulphate (Na2SO4)",
+      doi               = "10.3390/su15139900",
+      year              = "2023",
+      journal           = "Sustainability",
+      volume            = "15",
+      number            = "13",
+      pages             = "9900",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Robayo-Salazar, F. Martínez, A. Vargas and R. M. de Gutiérrez, “3D Printing of Hybrid Cements Based on High Contents of Powders from Concrete, Ceramic and Brick Waste Chemically Activated with Sodium Sulphate (Na2SO4)”, <i>Sustainability</i>, vol. 15, no. 13, p. 9900, 2023, doi: 10.3390/su15139900.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Robayo-Salazar, Rafael, Fabio Martínez, Armando Vargas, and Ruby Mejía de Gutiérrez. “3D Printing of Hybrid Cements Based on High Contents of Powders from Concrete, Ceramic and Brick Waste Chemically Activated with Sodium Sulphate (Na2SO4)”. <i>Sustainability</i> 15, no. 13 (2023): 9900. https://doi.org/10.3390/su15139900.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

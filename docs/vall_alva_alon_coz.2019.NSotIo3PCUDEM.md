@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: P. Valle‐Pello, Felipe Álvarez‐Rabanal, M. Alonso‐Martínez, J. Coz Díaz
+    - footer
+title: Valle‐Pello P., Álvarez‐Rabanal Felipe, Alonso‐Martínez M., Coz Díaz J.
 description:
 tags:
  - concrete
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://digibuo.uniovi.es/dspace/bitstream/10651/52464/1/Numerical%20study.pdf) Numerical Study of the Interfaces of 3D Printed Concrete Using Discrete Element Method ([2019-05](date/2019/05))
-<a href="https://doi.org/10.1002/mawe.201800188" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/mawe.201800188</a>
+#Numerical Study of the Interfaces of 3D Printed Concrete Using Discrete Element Method ([2019-05](date/2019/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://digibuo.uniovi.es/dspace/bitstream/10651/52464/1/Numerical%20study.pdf) <a href="https://doi.org/10.1002/mawe.201800188" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/mawe.201800188" target="_blank">10.1002/mawe.201800188</a>
 
--------------------------
+<a href="../../../author/valle-pello_p"><b>Valle‐Pello</b>&nbsp;P.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8011-7246" title="ORCID: 0000-0002-8011-7246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alvarez-rabanal_pedro_felipe"><b>Álvarez‐Rabanal</b>&nbsp;Felipe</a></span>, <a href="../../../author/alonso-martinez_m"><b>Alonso‐Martínez</b>&nbsp;M.</a></span>, <a href="../../../author/coz-diaz_j_j"><b>del&nbsp;Coz Díaz</b>&nbsp;J.</a></span><br>
+Journal Article - Materials Today Communications, Vol. 50, Iss. 5, pp. 629-634
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/valle-pello_p"><b>Valle‐Pello</b> P.</a>
-,     <a href="../../../author/alvarez-rabanal_pedro_felipe"><b>Álvarez‐Rabanal</b> Felipe</a> <a href="https://orcid.org/0000-0002-8011-7246" title="ORCID: 0000-0002-8011-7246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alonso-martinez_m"><b>Alonso‐Martínez</b> M.</a>
-,     <a href="../../../author/coz-diaz_j_j"><b>del Coz Díaz</b> J.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today Communications, Vol. 50, Iss. 5, pp. 629-634
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#discrete`](keyword/discrete)
-    [`#element`](keyword/element)
-    [`#interface`](keyword/interface)
-    [`#method`](keyword/method)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Study%20of%20the%20Interfaces%20of%203D%20Printed%20Concrete%20Using%20Discrete%20Element%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85065503164&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,23 +37,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2944313823" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/mawe.201800188" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/mawe.201800188?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is an additive manufacturing method which reduces the time and improves the efficiency of the construction process. Structural behavior of printed elements is strongly influenced by the properties of the material and the interface surfaces. The printing process creates interface surfaces between layers in the horizontal and vertical directions. The bond strength between layers is the most critical property of printed elements. In this paper, the structural behavior of printed elements is studied using the discrete element method. The material is modelled using discrete particles with bonding between them. A new discrete model of a multilayer geometry is presented to study the behavior of the interfaces of printed concrete. The layers are made up of randomly placed particles to simulate the heterogeneous nature of concrete. The numerical model is developed to simulate the flexural behavior of multilayer specimens. A four-point flexural test is simulated considering the interface surfaces between layers. This numerical model provides relevant results to improve the behavior of this kind of structural elements. The aim of this work is to provide a discrete element model to predict the mechanical behavior of 3D concrete printed components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../most_krug.2025.NOFSTTMBSi3PC/">Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/keller_petr"><b>Keller</b> Petr</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kell_mend.2025.AoODPbAMfCMoT/">Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time</a></li>
@@ -86,4 +65,35 @@ tags:
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../heev_best_krug_zijl.2022.NMSfR3CPE/">Numerical Modelling-Strategies for Reinforced 3D Concrete Printed Elements</a></li>
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vall_alva_alon_coz.2019.NSotIo3PCUDEM,
+      author            = "P. Valle‐Pello and Felipe Pedro Álvarez‐Rabanal and M. Alonso‐Martínez and J. J. del Coz Díaz",
+      title             = "Numerical Study of the Interfaces of 3D Printed Concrete Using Discrete Element Method",
+      doi               = "10.1002/mawe.201800188",
+      year              = "2019",
+      journal           = "Materials Today Communications",
+      volume            = "50",
+      number            = "5",
+      pages             = "629--634",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Valle‐Pello, F. P. Álvarez‐Rabanal, M. Alonso‐Martínez and J. J. del Coz Díaz, “Numerical Study of the Interfaces of 3D Printed Concrete Using Discrete Element Method”, <i>Materials Today Communications</i>, vol. 50, no. 5, pp. 629–634, 2019, doi: 10.1002/mawe.201800188.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Valle‐Pello, P., Felipe Pedro Álvarez‐Rabanal, M. Alonso‐Martínez, and J. J. del Coz Díaz. “Numerical Study of the Interfaces of 3D Printed Concrete Using Discrete Element Method”. <i>Materials Today Communications</i> 50, no. 5 (2019): 629–34. https://doi.org/10.1002/mawe.201800188.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

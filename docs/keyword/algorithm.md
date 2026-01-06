@@ -8,7 +8,7 @@ search:
 
 # #algorithm
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/akter_usmi"><b>Akter</b> Usmi</a>, <a href="../../../author/rezvi_effti_syed"><b>Rezvi</b> Syed</a>, <a href="../../../author/ratul_jobayer-parvez_md"><b>Ratul</b> Md.</a>, <a href="../../../author/kishor_kaiyum_saad"><b>Kishor</b> Saad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../akte_rezv_ratu_kish.2025.OoDDEMUFAfE3PCSP/">Optimization of Data-Driven Ensemble Models Using Firefly Algorithm for Enhanced 3D Printed Concrete Strength Prediction</a></li>
   <li><a href="../../../author/wang_xiaoqi"><b>Wang</b> Xiaoqi</a>, <a href="../../../author/liu_xing"><b>Liu</b> Xing</a>, <a href="../../../author/xu_yanling"><b>Xu</b> Yanling</a>, <a href="../../../author/cao_jianfu"><b>Cao</b> Jianfu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_liu_xu_cao.2025.AGALHCPPAfC3PoCPSBoMOOaRL/">A General Adaptive Layer Height Continuous Path Planning Algorithm for Concrete 3D Printing of Complex Porous Structures Based on Multi-Objective Optimization and Reinforcement Learning</a></li>
   <li><a href="../../../author/khodadadi_nima"><b>Khodadadi</b> Nima</a>, <a href="../../../author/roghani_hossein"><b>Roghani</b> Hossein</a>, <a href="../../../author/caso_francisco"><b>Caso</b> Francisco</a>, <a href="../../../author/kenawy_m_el-sayed"><b>Kenawy</b> El‐Sayed</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../khod_rogh_caso_kena.2025.MLAftFSo3PFrCBotMhA/">Machine Learning Approach for the Flexural Strength of 3D‐Printed Fiber‐reinforced Concrete Based on the Meta‐heuristic Algorithm</a></li>

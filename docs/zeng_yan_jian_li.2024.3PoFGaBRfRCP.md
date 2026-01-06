@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jun-Jie Zeng, Zitong Yan, Yuan Jiang, Pei-Lin Li
+    - footer
+title: Zeng Jun-Jie, Yan Zitong, Jiang Yuan, Li Pei-Lin
 description:
 tags:
  - bar
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.compstruct.2024.117946) 3D Printing of FRP Grid and Bar Reinforcement for Reinforced Concrete Plates:<br/>:aca-blank: Development and Effectiveness ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.compstruct.2024.117946" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compstruct.2024.117946</a>
+#3D Printing of FRP Grid and Bar Reinforcement for Reinforced Concrete Plates&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">Development and Effectiveness</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.compstruct.2024.117946) <a href="https://doi.org/10.1016/j.compstruct.2024.117946" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2024.117946" target="_blank">10.1016/j.compstruct.2024.117946</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <a href="../../../author/yan_zitong"><b>Yan</b>&nbsp;Zitong</a></span>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b>&nbsp;Yuan</a></span>, <a href="../../../author/li_pei-lin"><b>Li</b>&nbsp;Pei-Lin</a></span><br>
+Journal Article - Composite Structures, No. 117946
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> <a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>
-,     <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>
-,     <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composite Structures, No. 117946
-
-:aca-blank:{ .lg .middle}
-    [`#bar`](keyword/bar)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#effect`](keyword/effect)
-    [`#plate`](keyword/plate)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/plate"><button class="btn">#plate</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20FRP%20Grid%20and%20Bar%20Reinforcement%20for%20Reinforced%20Concrete%20Plates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186768862&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391847785" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compstruct.2024.117946" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compstruct.2024.117946?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete has become increasing popular in research and industry communities, while it faces a lack of effective internal reinforcement. Fiber-reinforced polymer (FRP) reinforcement, which has been used widely as reinforcement for concrete structures, has also been adopted to enhance the performance of 3D printed concrete structures. However, conventional FRP manufacturing processes such as pultrusion does not allow on-site forming of the products, leading to difficulties in construction. This paper aims to solve the above issues by developing a novel form of 3D printed continuous fiber reinforced thermoplastic polymers (CFRTPs) reinforcement for 3D printed concrete structures. An experimental program on tensile behavior of 3D printed CFRTP bars and grids was conducted. Then the CFRTP reinforcement was used for 3D printed high-performance concrete to explore the effectiveness of the reinforcement. Twenty-two 3D printed concrete plates were tested to explore the effects of the loading direction and fabrication type on the flexural behavior of FRP reinforced high-performance concrete plates. Results show that the performance of the 3D printed HPC plates can be considerably enhanced owning to the FRP reinforcement and the CFRTP reinforcement are comparable to conventional FRP reinforcement with similar dimensions. This study identifies further research needs on CFRTP reinforcement for construction and will pave the way for studies on 3D printed reinforced concrete structures with both concrete and FRP reinforcement being printed simultaneously.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>
@@ -94,8 +74,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zeng_jian_yan_sun.2025.3PoCCFRPRfCC/">3D Printing of Continuous Carbon Fiber-Reinforced Polymer Reinforcement for Concrete Columns</a></li>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
@@ -111,4 +92,33 @@ tags:
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a>, <a href="../../../author/he_huanan"><b>He</b> Huanan</a>, <a href="../../../author/yang_hongyang"><b>Yang</b> Hongyang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sun_lin_he_yang.2024.SR3PCHBaIMAC/">Steel Reinforced 3D Printing Concrete Housing Building and Its Modular Assembly Construction</a></li>
       <li><a href="../../../author/li_xiaoteng"><b>Li</b> Xiaoteng</a>, <a href="../../../author/newlands_moray"><b>Newlands</b> Moray</a>, <a href="../../../author/jones_rod"><b>Jones</b> Rod</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../li_newl_jone.2024.PoaMLASFRCB/">Performance of a Multi-Layer Aligned Steel-Fiber-Reinforced Concrete Beam:<br/>A Preliminary Investigation Towards 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zeng_yan_jian_li.2024.3PoFGaBRfRCP,
+      author            = "Jun-Jie Zeng and Zitong Yan and Yuan Yuan Jiang and Pei-Lin Li",
+      title             = "3D Printing of FRP Grid and Bar Reinforcement for Reinforced Concrete Plates: Development and Effectiveness",
+      doi               = "10.1016/j.compstruct.2024.117946",
+      year              = "2024",
+      journal           = "Composite Structures",
+      pages             = "117946",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-J. Zeng, Z. Yan, Y. Y. Jiang and P.-L. Li, “3D Printing of FRP Grid and Bar Reinforcement for Reinforced Concrete Plates: Development and Effectiveness”, <i>Composite Structures</i>, p. 117946, 2024, doi: 10.1016/j.compstruct.2024.117946.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zeng, Jun-Jie, Zitong Yan, Yuan Yuan Jiang, and Pei-Lin Li. “3D Printing of FRP Grid and Bar Reinforcement for Reinforced Concrete Plates: Development and Effectiveness”. <i>Composite Structures</i>, 2024, 117946. https://doi.org/10.1016/j.compstruct.2024.117946.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

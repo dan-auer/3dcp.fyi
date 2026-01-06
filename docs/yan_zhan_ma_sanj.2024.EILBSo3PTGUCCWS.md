@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yufei Yan, Mo Zhang, Guowei Ma, Jay Sanjayan
+    - footer
+title: Yan Yufei, Zhang Mo, Ma Guowei, Sanjayan Jay
 description:
 tags:
  - bond
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing Inter-Layer Bonding Strength of 3D Printed Ternary Geopolymer Using Calcium-Carbonate-Whiskers Spray ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136725" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136725</a>
+#Enhancing Inter-Layer Bonding Strength of 3D Printed Ternary Geopolymer Using Calcium-Carbonate-Whiskers Spray ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136725" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136725" target="_blank">10.1016/j.conbuildmat.2024.136725</a>
 
--------------------------
+<a href="../../../author/yan_yufei"><b>Yan</b>&nbsp;Yufei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9680-4203" title="ORCID: 0000-0001-9680-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_mo"><b>Zhang</b>&nbsp;Mo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 435, No. 136725
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>
-,     <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="https://orcid.org/0000-0001-9680-4203" title="ORCID: 0000-0001-9680-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 435, No. 136725
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#carbonation`](keyword/carbonation)
-    [`#enhancement`](keyword/enhancement)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#spray`](keyword/spray)
-    [`#strength`](keyword/strength)
-    [`#ternary`](keyword/ternary)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/ternary"><button class="btn">#ternary</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Inter-Layer%20Bonding%20Strength%20of%203D%20Printed%20Ternary%20Geopolymer%20Using%20Calcium-Carbonate-Whiskers%20Spray" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194553180&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399200568" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136725" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136725?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Weak interlayer bonding, especially induced by a long period of printing interruption, is one of the major concerns for 3D printing concrete. The effect of CaCO3 whiskers suspension (CWS) spray and printing time interval on the interlayer bonding of 3D printing fly ash-granulated blast furnace slag-steel slag based geopolymer was investigated with splitting tensile strength and direct shear strength tests. The underlying mechanisms were explored based on the characterization of micromorphology, porosity, surface roughness and reaction kinetics of interlayer area. It was revealed that the CWS spray at appropriate concentrations can significantly improve the interlayer bonding of geopolymer printed at extended printing intervals, with 0.05 g/mL of CWS increasing the shear strength up to 71% at 60 min and 0.10 g/mL of CWS increasing the splitting tensile strength by 40% at 40 min. The CWS at proper concentrations could replenish the interlayer moisture, fill the interlayer voids and provide nucleation sites for geopolymerization and hydration products, i.e., N(C)-A-S-H and C-S-H gels. However, excessive CaCO3 whiskers or water content was harmful to the interlayer bonding. As the reaction process and microstructure of 3D printed ternary geopolymer were synergistically impacted by the printing time interval, residual water content, compensated moisture and CaCO3 whisker reinforcement, the mix of CWS spray should be carefully designed to optimize its effectiveness on the interlayer strengthening.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -105,8 +81,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
@@ -114,4 +91,34 @@ tags:
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zou_cunjun"><b>Zou</b> Cunjun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../luo_zhao_yao_zou.2025.3PCITBoPaCM/">3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yan_zhan_ma_sanj.2024.EILBSo3PTGUCCWS,
+      author            = "Yufei Yan and Mo Zhang and Guowei Ma and Jay Gnananandan Sanjayan",
+      title             = "Enhancing Inter-Layer Bonding Strength of 3D Printed Ternary Geopolymer Using Calcium-Carbonate-Whiskers Spray",
+      doi               = "10.1016/j.conbuildmat.2024.136725",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "435",
+      pages             = "136725",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yan, M. Zhang, G. Ma and J. G. Sanjayan, “Enhancing Inter-Layer Bonding Strength of 3D Printed Ternary Geopolymer Using Calcium-Carbonate-Whiskers Spray”, <i>Construction and Building Materials</i>, vol. 435, p. 136725, 2024, doi: 10.1016/j.conbuildmat.2024.136725.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yan, Yufei, Mo Zhang, Guowei Ma, and Jay Gnananandan Sanjayan. “Enhancing Inter-Layer Bonding Strength of 3D Printed Ternary Geopolymer Using Calcium-Carbonate-Whiskers Spray”. <i>Construction and Building Materials</i> 435 (2024): 136725. https://doi.org/10.1016/j.conbuildmat.2024.136725.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

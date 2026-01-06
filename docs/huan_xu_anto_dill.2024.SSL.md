@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shuyi Huang, Weiguo Xu, Ana-Maria Anton, Benjamin Dillenburger
+    - footer
+title: Huang Shuyi, Xu Weiguo, Anton Ana-Maria, Dillenburger Benjamin
 description:
 tags:
  - concrete
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Self-Supporting Lamellae:<br/>:aca-blank: Shape Variation Methods for the 3D Concrete Printing of Large Overhang Structures ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.addma.2024.104329" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104329</a>
+#Self-Supporting Lamellae&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">Shape Variation Methods for the 3D Concrete Printing of Large Overhang Structures</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104329" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104329" target="_blank">10.1016/j.addma.2024.104329</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5498-2730" title="ORCID: 0000-0001-5498-2730" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_shuyi"><b>Huang</b>&nbsp;Shuyi</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_weiguo"><b>Xu</b>&nbsp;Weiguo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Journal Article - Additive Manufacturing, No. 104329
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a> <a href="https://orcid.org/0000-0001-5498-2730" title="ORCID: 0000-0001-5498-2730" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104329
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#large`](keyword/large)
-    [`#method`](keyword/method)
-    [`#overhang`](keyword/overhang)
-    [`#print`](keyword/print)
-    [`#self`](keyword/self)
-    [`#shape`](keyword/shape)
-    [`#structure`](keyword/structure)
-    [`#support`](keyword/support)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/overhang"><button class="btn">#overhang</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Self-Supporting%20Lamellae" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200808893&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401305830" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104329" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104329?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is considered a solution to confront both labor shortages and material waste in the construction industry. However, to realize non-standard, large-scale buildings, substantial amounts of supporting material and manual assembly are still required to print structures with significant overhangs, including the inclined structure and the cantilever structure. In response, the study draws inspiration from mushroom lamellae and proposes a geometry-based approach to adjusting the large-overhang shape into a self-supported one. This approach imitates lamella morphology by creating folds on the given geometry based on constraints established through empirical studies, thereby reducing overhangs and improving printability. Specifically, the proposed approach includes two shape variation methods. The first method generates lamellae perpendicular to the inclined shape, thereby providing lateral support to the filament. The second method creates lamellae under the cantilever, facilitating a seamless horizontal-to-vertical transition. The effectiveness of these methods is demonstrated through the generation and printing of four column capital samples. Upon evaluating the overhang mechanisms of these geometries, an approachable optimization method is also presented to further minimize the amplitude of lamellae while maintaining self-supporting ability. Compared with control groups that focus on either maximizing printability or minimizing material usage, the optimal result for the inclined structure prototype showcases an over 75% overhang reduction on the critical layer with just about 15% use of additional material. As for the cantilever prototype, an over 75% overhang reduction is achieved on the critical layer with about 35% additional material usage. Various large-scale structure examples are presented at the end of the research, illustrating the applicability and scalability of the lamella-inspired method in a wider range of building types.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../anto_jipa_reit_dill.2020.FCb/">Fast Complexity</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/ladinig_johannes"><b>Ladinig</b> Johannes</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bhoo_ladi_mele_bloc.2019.FRfR3PC/">Function Representation for Robotic 3D Printed Concrete</a></li>
@@ -95,11 +72,40 @@ tags:
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../wan_yang_wang_ma.2023.GCPPf3CPMBS/">Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/gonsalves_a_nicolas"><b>Gonsalves</b> Nicolas</a>, <a href="../../../author/morgan_ashlei"><b>Morgan</b> Ashlei</a>, <a href="../../../author/thiele_heidi"><b>Thiele</b> Heidi</a>, <a href="../../../author/olarra_andre"><b>Olarra</b> Andre</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gons_morg_thie_olar.2025.3PoSIURSCCwBA/">3D Printing of Sustainable Infrastructure Using Rapid-Set Clay Concrete with Biobased Additives</a></li>
       <li><a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_wang_li_bai.2025.MSFaCi3PoSSCS/">Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{huan_xu_anto_dill.2024.SSL,
+      author            = "Shuyi Huang and Weiguo Xu and Ana-Maria Anton and Benjamin Dillenburger",
+      title             = "Self-Supporting Lamellae: Shape Variation Methods for the 3D Concrete Printing of Large Overhang Structures",
+      doi               = "10.1016/j.addma.2024.104329",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104329",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Huang, W. Xu, A.-M. Anton and B. Dillenburger, “Self-Supporting Lamellae: Shape Variation Methods for the 3D Concrete Printing of Large Overhang Structures”, <i>Additive Manufacturing</i>, p. 104329, 2024, doi: 10.1016/j.addma.2024.104329.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Huang, Shuyi, Weiguo Xu, Ana-Maria Anton, and Benjamin Dillenburger. “Self-Supporting Lamellae: Shape Variation Methods for the 3D Concrete Printing of Large Overhang Structures”. <i>Additive Manufacturing</i>, 2024, 104329. https://doi.org/10.1016/j.addma.2024.104329.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

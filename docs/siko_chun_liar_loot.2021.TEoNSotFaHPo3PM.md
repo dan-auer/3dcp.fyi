@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paweł Sikora, Sang-Yeop Chung, Maxime Liard, Didier Lootens, Tobias Dorn, Paul Kamm, Dietmar Stephan, Mohamed Elrahman
+    - footer
+title: Sikora Paweł, Chung Sang-Yeop, Liard Maxime, Lootens Didier, Dorn Tobias, Kamm Paul, Stephan Dietmar, Elrahman Mohamed
 description:
 tags:
  - effect
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2021.122574) The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.122574" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.122574</a>
+#The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars ([2021-02](date/2021/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2021.122574) <a href="https://doi.org/10.1016/j.conbuildmat.2021.122574" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.122574" target="_blank">10.1016/j.conbuildmat.2021.122574</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8295-8137" title="ORCID: 0000-0002-8295-8137" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chung_sang-yeop"><b>Chung</b>&nbsp;Sang-Yeop</a></span>, <a href="../../../author/liard_maxime"><b>Liard</b>&nbsp;Maxime</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3510-6847" title="ORCID: 0000-0002-3510-6847" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lootens_didier"><b>Lootens</b>&nbsp;Didier</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorn_tobias"><b>Dorn</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6353-768X" title="ORCID: 0000-0001-6353-768X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamm_hans_paul"><b>Kamm</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6993-2725" title="ORCID: 0000-0002-6993-2725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/elrahman_mohamed"><b>abd&nbsp;Elrahman</b>&nbsp;Mohamed</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 281
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> <a href="https://orcid.org/0000-0002-8295-8137" title="ORCID: 0000-0002-8295-8137" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liard_maxime"><b>Liard</b> Maxime</a>
-,     <a href="../../../author/lootens_didier"><b>Lootens</b> Didier</a> <a href="https://orcid.org/0000-0002-3510-6847" title="ORCID: 0000-0002-3510-6847" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a> <a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kamm_hans_paul"><b>Kamm</b> Paul</a> <a href="https://orcid.org/0000-0001-6353-768X" title="ORCID: 0000-0001-6353-768X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/elrahman_mohamed"><b>abd Elrahman</b> Mohamed</a> <a href="https://orcid.org/0000-0002-6993-2725" title="ORCID: 0000-0002-6993-2725" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 281, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#silica`](keyword/silica)
-
-
--------------------------
+<a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effects%20of%20Nano-Silica%20on%20the%20Fresh%20and%20Hardened%20Properties%20of%203D%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101146478&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3131118160" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.122574" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.122574?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study presents the experimental results of an investigation on the effects of nanosilica (NS) on the material characteristics of printable mortars used for additive manufacturing. Printable cement mortars based on Ordinary Portland Cement, limestone filler and silica sand were modified with different dosages of nanosilica (from 2% to 6% by weight of binder) and its influence on their hydration, rheological, mechanical and transport properties was assessed. The study showed that NS accelerates significantly the setting and hardening of printable mortar, while reducing its open time. Moreover, an increment of yield stress, together with an increment in NS dosage, was found to have occurred. The incorporation of an optimal NS dosage results in a noticeable increase in the compressive strength and alteration of the pore structure as determined by the MIP measurements. Moreover, transport properties of the produced mortar are significantly improved due to incorporation of NS. In addition to the microstructure refinement, Micro-CT and scanning electron microscopy (SEM) studies revealed that 3D printed mortars exhibit pore anisotropy in accordance with the printing direction. However, incorporation of NS in the mixture resulted in improved buildability, thus decreasing pore anisotropy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../cho_krug_rooy_zera.2019.Ro3PLFCINS/">Rheology of 3D Printable Lightweight Foam-Concrete Incorporating Nano-Silica</a></li>
@@ -97,8 +72,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "56 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a>, <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a>, <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME/">Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments</a></li>
       <li><a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a>, <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a>, <a href="../../../author/effting_carmeane"><b>Effting</b> Carmeane</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../safa_scha_efft_mato.2025.TEoCNotRHoCPaBo3PC/">The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete</a></li>
@@ -155,4 +131,33 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{siko_chun_liar_loot.2021.TEoNSotFaHPo3PM,
+      author            = "Paweł Sikora and Sang-Yeop Chung and Maxime Liard and Didier Lootens and Tobias Dorn and Paul Hans Kamm and Dietmar Stephan and Mohamed Abd Elrahman",
+      title             = "The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars",
+      doi               = "10.1016/j.conbuildmat.2021.122574",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "281",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Sikora, “The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars”, <i>Construction and Building Materials</i>, vol. 281, 2021, doi: 10.1016/j.conbuildmat.2021.122574.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sikora, Paweł, Sang-Yeop Chung, Maxime Liard, Didier Lootens, Tobias Dorn, Paul Hans Kamm, Dietmar Stephan, and Mohamed Abd Elrahman. “The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars”. <i>Construction and Building Materials</i> 281 (2021). https://doi.org/10.1016/j.conbuildmat.2021.122574.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

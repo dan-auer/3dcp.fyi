@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Kaya Yusuf 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>
   <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/orr_lachlan"><b>Orr</b> Lachlan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../dams_chen_kaya_orr.2024.FPaADoPCMfAAM/">Fresh Properties and Autonomous Deposition of Pseudoplastic Cementitious Mortars for Aerial Additive Manufacturing</a></li>
   <li><a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/orr_lachlan"><b>Orr</b> Lachlan</a>, <a href="../../../author/kocer_bahadir_basaran"><b>Kocer</b> Basaran</a>, <a href="../../../author/kovac_mirko"><b>Kovac</b> Mirko</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../kaya_orr_koce_kova.2024.ARaAAM/">Aerial Repair and Aerial Additive Manufacturing</a></li>

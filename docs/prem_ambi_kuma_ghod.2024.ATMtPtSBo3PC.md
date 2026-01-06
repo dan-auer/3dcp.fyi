@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Prabhat Prem, Parukutty Ambily, Shankar Kumar, Swapnil Ghodke
+    - footer
+title: Prem Prabhat, Ambily Parukutty, Kumar Shankar, Ghodke Swapnil
 description:
 tags:
  - buildability
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Theoretical Model to Predict the Structural Buildability of 3D Printable Concrete ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1007/s11043-024-09666-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11043-024-09666-8</a>
+#A Theoretical Model to Predict the Structural Buildability of 3D Printable Concrete ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11043-024-09666-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11043-024-09666-8" target="_blank">10.1007/s11043-024-09666-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prem_ranjan_prabhat"><b>Prem</b>&nbsp;Prabhat</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ambily_s_parukutty"><b>Ambily</b>&nbsp;Parukutty</a></span>, <a href="../../../author/kumar_shankar"><b>Kumar</b>&nbsp;Shankar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0796-2566" title="ORCID: 0000-0002-0796-2566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b>&nbsp;Swapnil</a></span><br>
+Journal Article - Mechanics of Time-Dependent Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> <a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a>
-,     <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="https://orcid.org/0000-0002-0796-2566" title="ORCID: 0000-0002-0796-2566" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Mechanics of Time-Dependent Materials, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#printability`](keyword/printability)
-    [`#structure`](keyword/structure)
-    [`#theory`](keyword/theory)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Theoretical%20Model%20to%20Predict%20the%20Structural%20Buildability%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183369645&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391323229" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11043-024-09666-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11043-024-09666-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing is a transformative technology ushering in revolutionary architectural design and construction automation changes. With recent advancements of this technology, a notable absence of theoretical models predicting structural buildability is required. This investigation aims to bridge this knowledge gap by introducing an innovative theoretical model for estimating the total number of layers printed by a concrete 3D printer. This proposed model considers material behavior, building rate, and failure criteria. The material properties are depicted by modeling structural buildability in two cases, (i) bilinear and (ii) exponential. The buildability is characterized by three subcases, namely (i) constant, (ii) increasing, and (iii) decreasing building rates. These subcases hinge on printing velocity, treated as a function of time. Furthermore, the failure modes of 3D printable concrete structures are delineated based on (i) the Mohr–Coulomb theory and (ii) elastic and plastic failure criteria. Additionally, a strength-correction factor is employed to consider the confinement effect of the printed layer. The ultimate expression of the proposed model embodies an exponential approach to gauging the structural buildability of the printed structures. The study encompasses model validation and extensive parametric analysis to scrutinize the impact of printing velocity, structuration rate, printing path, density, and yield stress.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/eugenin_claudia"><b>Eugenin</b> Claudia</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a>, <a href="../../../author/brevis_wernher"><b>Brevis</b> Wernher</a>, <a href="../../../author/lopez_mauricio"><b>Lopez</b> Mauricio</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../euge_nava_brev_lope.2022.ABaaAfPC/">Air-Bubbles as an Admixture for Printable Concrete:<br/>A Review of the Rheological Effect of Entrained Air</a></li>
       <li><a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../filh_chen_copu.2022.NMiDMoCC/">Nano-Modification in Digital Manufacturing of Cementitious Composites</a></li>
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../giri_prem_jiao.2023.EoVSRaDRTotRo3PC/">Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete</a></li>
@@ -89,8 +68,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ghod_sing_chow.2025.SIoRoWFTiRoCAB3PC/">Some Insights on Role of Water Film-Thickness in Rheology of Coarse Aggregate-Based 3D Printable Concrete</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
@@ -102,4 +81,32 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/araujo_m-o_olga"><b>Araújo</b> Olga</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../tino_cava_andr_arau.2025.MDSf3PBBCCURHPaMA/">Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yu_zhengxing"><b>Yu</b> Zhengxing</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_jiufu"><b>Zhang</b> Jiufu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP/">Study on the Predictive Model for Continuous Build-Height of 3D Printed Concrete Based on Printability and Early Mechanical Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{prem_ambi_kuma_ghod.2024.ATMtPtSBo3PC,
+      author            = "Prabhat Ranjan Prem and Parukutty S. Ambily and Shankar Kumar and Swapnil Balasaheb Ghodke",
+      title             = "A Theoretical Model to Predict the Structural Buildability of 3D Printable Concrete",
+      doi               = "10.1007/s11043-024-09666-8",
+      year              = "2024",
+      journal           = "Mechanics of Time-Dependent Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. R. Prem, P. S. Ambily, S. Kumar and S. B. Ghodke, “A Theoretical Model to Predict the Structural Buildability of 3D Printable Concrete”, <i>Mechanics of Time-Dependent Materials</i>, 2024, doi: 10.1007/s11043-024-09666-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Prem, Prabhat Ranjan, Parukutty S. Ambily, Shankar Kumar, and Swapnil Balasaheb Ghodke. “A Theoretical Model to Predict the Structural Buildability of 3D Printable Concrete”. <i>Mechanics of Time-Dependent Materials</i>, 2024. https://doi.org/10.1007/s11043-024-09666-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

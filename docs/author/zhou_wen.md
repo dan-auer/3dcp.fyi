@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zhou Wen 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gomez-jaramillo_sofia_laura"><b>Gomez Jaramillo</b> Laura</a>, <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gome_luko_savi_zhou.2025.RSf3PSHCC/">Recycled Sand for 3D-Printed Strain Hardening Cementitious Composite:<br/>A Review of Recent Developments</a></li>
   <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a>, <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhou_xu_meng_xie.2025.FS/">Filament Stitching:<br/>An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhou_xu_savi_mcge.2024.SECCE/">Stitching Engineered Cementitious Composites (ECC ):<br/>Unraveling Anisotropy Challenges Through Architectured 3D Printing Path Design</a></li>

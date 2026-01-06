@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zhang Lihai 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>
   <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../xiao_liu_ding_yu.2024.RFCC/">Rebar-Free Concrete Construction:<br/>Concept, Opportunities and Challenges</a></li>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/ding_faxing"><b>Ding</b> Faxing</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../xie_liu_ding_zhan.2023.CaMotPMSttSFoCFUP/">Characteristics and Mechanism of the Particle-Migration Subject to the Shear Flow of Concrete Flow Under Pressure</a></li>

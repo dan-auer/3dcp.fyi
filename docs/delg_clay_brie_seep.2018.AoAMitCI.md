@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Delgado Camacho, Patricia Clayton, William Brien, Carolyn Seepersad, Maria Juenger, Raissa Ferron, Salvatore Salamone
+    - footer
+title: Delgado Camacho Daniel, Clayton Patricia, Brien William, Seepersad Carolyn, Juenger Maria, Ferron Raissa, Salamone Salvatore
 description:
 tags:
  - additive
@@ -14,33 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Applications of Additive Manufacturing in the Construction Industry:<br/>:aca-blank: A Forward-Looking Review ([2018-02](date/2018/02))
-<a href="https://doi.org/10.1016/j.autcon.2017.12.031" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2017.12.031</a>
+#Applications of Additive Manufacturing in the Construction Industry&nbsp;([2018-02](date/2018/02))
+<div class="h1-like">A Forward-Looking Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2017.12.031" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2017.12.031" target="_blank">10.1016/j.autcon.2017.12.031</a>
 
--------------------------
+<a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b>&nbsp;Daniel</a></span>, <a href="../../../author/clayton_patricia"><b>Clayton</b>&nbsp;Patricia</a></span>, <a href="../../../author/brien_j_william"><b>o'&nbsp;Brien</b>&nbsp;William</a></span>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b>&nbsp;Carolyn</a></span>, <a href="../../../author/juenger_maria"><b>Juenger</b>&nbsp;Maria</a></span>, <a href="../../../author/ferron_raissa"><b>Ferron</b>&nbsp;Raissa</a></span>, <a href="../../../author/salamone_salvatore"><b>Salamone</b>&nbsp;Salvatore</a></span><br>
+Journal Article - Automation in Construction, Vol. 89, pp. 110-119
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>
-,     <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>
-,     <a href="../../../author/brien_j_william"><b>o' Brien</b> William</a>
-,     <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a>
-,     <a href="../../../author/juenger_maria"><b>Juenger</b> Maria</a>
-,     <a href="../../../author/ferron_raissa"><b>Ferron</b> Raissa</a>
-,     <a href="../../../author/salamone_salvatore"><b>Salamone</b> Salvatore</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 89, pp. 110-119
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Applications%20of%20Additive%20Manufacturing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85041464745&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2790506024" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2017.12.031" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2017.12.031?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM), also known as 3D printing, fabricates components in a layerwise fashion directly from a digital file. Many of the early applications of AM technologies have been in the aerospace, automotive, and healthcare industries. Building on the advances in AM in these industries, there are several experimental applications of AM in the construction sector. Early investigations suggest that use of AM technologies for construction have the potential to decrease labor costs, reduce material waste, and create customized complex geometries that are difficult to achieve using conventional construction techniques. However, these initial investigations do not cover the full range of potential applications for construction or exploit the rapidly maturing AM technologies for a variety of material types. This paper provides an up-to-date review of AM as it relates to the construction industry, identifies the trend of AM processes and materials being used, and discusses related methods of implementing AM and potential advancements in applications of AM. Examples of potential advancements include use of multi-materials (e.g., use of high-performance materials only in areas where they are needed), in-situ repair in locations that are difficult or dangerous for humans to access, disaster relief construction in areas with limited construction workforce and material resources, structural and non-structural elements with optimized topologies, and customized parts of high value. AM's future in the construction industry is promising, but interdisciplinary research is still needed to provide new materials, new processes, faster printing, quality assurance, and data on mechanical properties before AM can realize its full potential in infrastructure construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/biswas_kaushik"><b>Biswas</b> Kaushik</a>, <a href="../../../author/rose_james"><b>Rose</b> James</a>, <a href="../../../author/eikevik_leif"><b>Eikevik</b> Leif</a>, <a href="../../../author/guerguis_maged"><b>Guerguis</b> Maged</a> et al. <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../bisw_rose_eike_guer.2017.AMIE/">Additive Manufacturing Integrated Energy:<br/>Enabling Innovative Solutions for Buildings of the Future</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
@@ -89,8 +67,8 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "151 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aden_rashid_abdishukri"><b>Aden</b> Abdishukri</a>, <a href="../../../author/nunez-montoya_paola_alejandra"><b>Nuñez Montoya</b> Alejandra</a>, <a href="../../../author/ponce_mari_josef"><b>Ponce</b> Josef</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aden_nune_ponc_rang.2026.FB/">FAB-BIO:<br/>A Review of Bio-Based Materials Applied on 3D-Printed Living Walls</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
@@ -243,4 +221,34 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
       <li><a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yu_leun.2019.Io3PDoMPoSHCCS/">Impact of 3D Printing-Direction on Mechanical Performance of Strain-Hardening Cementitious Composite (SHCC)</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{delg_clay_brie_seep.2018.AoAMitCI,
+      author            = "Daniel Delgado Camacho and Patricia Clayton and William J. O' Brien and Carolyn Seepersad and Maria Juenger and Raissa Ferron and Salvatore Salamone",
+      title             = "Applications of Additive Manufacturing in the Construction Industry: A Forward-Looking Review",
+      doi               = "10.1016/j.autcon.2017.12.031",
+      year              = "2018",
+      journal           = "Automation in Construction",
+      volume            = "89",
+      pages             = "110--119",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. D. Camacho, “Applications of Additive Manufacturing in the Construction Industry: A Forward-Looking Review”, <i>Automation in Construction</i>, vol. 89, pp. 110–119, 2018, doi: 10.1016/j.autcon.2017.12.031.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Camacho, Daniel Delgado, Patricia Clayton, William J. O' Brien, Carolyn Seepersad, Maria Juenger, Raissa Ferron, and Salvatore Salamone. “Applications of Additive Manufacturing in the Construction Industry: A Forward-Looking Review”. <i>Automation in Construction</i> 89 (2018): 110–19. https://doi.org/10.1016/j.autcon.2017.12.031.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

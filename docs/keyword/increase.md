@@ -8,7 +8,7 @@ search:
 
 # #increase
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/karamara_merve"><b>Karamara</b> Merve</a>, <a href="../../../author/bogdanski_moritz-ole"><b>Bogdanski</b> Moritz-Ole</a>, <a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kara_bogd_zoll_albr.2025.IEaS/">Increasing Efficiency and Sustainability:<br/>A Comparative Analysis of Concrete 3D Printing and Traditional Methods Based on Case Studies</a></li>
   <li><a href="../../../author/hagle_marius"><b>Hägle</b> Marius</a>, <a href="../../../author/stohr_ben"><b>Stöhr</b> Ben</a>, <a href="../../../author/stark_alexander"><b>Stark</b> Alexander</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../hagl_stoh_star.2025.ItAoCSTRM/">Increasing the Accuracy of Concrete Surfaces Through Robotic Milling</a></li>
   <li><a href="../../../author/dorresteijn_evelien"><b>Dorresteijn</b> Evelien</a>, <a href="../../../author/tsiotou_sofia"><b>Tsiotou</b> Sofia</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../dorr_tsio_lowk.2024.KtPoaCMfE3PWDSaItGS/">Keeping the Processability of a Clay Mortar for Extrusion 3D Printing While Decreasing Shrinkage and Increasing the Green Strength</a></li>

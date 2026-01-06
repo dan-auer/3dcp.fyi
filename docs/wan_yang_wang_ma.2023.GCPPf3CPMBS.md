@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qian Wan, Wenwei Yang, Li Wang, Guowei Ma
+    - footer
+title: Wan Qian, Yang Wenwei, Wang Li, Ma Guowei
 description:
 tags:
  - branch
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.addma.2023.103581" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2023.103581</a>
+#Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2023.103581" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103581" target="_blank">10.1016/j.addma.2023.103581</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan_qian"><b>Wan</b>&nbsp;Qian</a></span>, <a href="../../../author/yang_wenwei"><b>Yang</b>&nbsp;Wenwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wan_qian"><b>Wan</b> Qian</a> <a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#branch`](keyword/branch)
-    [`#concrete`](keyword/concrete)
-    [`#continuous`](keyword/continuous)
-    [`#global`](keyword/global)
-    [`#multi`](keyword/multi)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/branch"><button class="btn">#branch</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/global"><button class="btn">#global</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Global%20Continuous%20Path-Planning%20for%203D%20Concrete%20Printing%20Multi-Branched%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85154621069&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4367172112" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2023.103581" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2023.103581?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing as a promising construction technology is of high manufacturing freedom for various freeform civil structures. Appropriate path planning is crucial for the implementation, efficiency, and quality control of 3D concrete printing. While the widely adopted path planning methods of zigzag and contour-parallel paths for structures with multiple branches, such as lightweight-truss and wall structures, are liable to defects, sharp turns, and discontinuities. To address this issue, this study proposes an adaptive path-planning method based on medial-axis decomposition and the transfinite mapping method for multi-branched regions. Medial-axis method aided to parameterize and decompose the model by morphology is employed in this work. The printing paths are generated by template-path based transfinite mapping and automatically connected to derive a continuous global-printing path. Considering the practical 3D printing construction, printing path of solid- and grid-filling are detailed in this research and verified by several case studies. The printing results show that: for solid filling, the proposed method can eliminate discontinuity, minimize sharp turns, and avoid defects; for grid filling, the proposed method can support several types of grid generation with desired global continuity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
@@ -114,8 +92,8 @@ tags:
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>
       <li><a href="../../../author/du_shizhao"><b>Du</b> Shizhao</a>, <a href="../../../author/kang_chunxia"><b>Kang</b> Chunxia</a>, <a href="../../../author/du_xiuli"><b>Du</b> Xiuli</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../du_kang_du.2025.FPo3PRCSfTP/">Fatigue Performance of 3D Printed Reusable Concrete Slabs for Temporary Pavements</a></li>
@@ -133,4 +111,32 @@ tags:
       <li><a href="../../../author/li_yu"><b>Li</b> Yu</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/xie_xinjie"><b>Xie</b> Xinjie</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../li_wu_xie_zhan.2024.F/">FloatArch:<br/>A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wan_yang_wang_ma.2023.GCPPf3CPMBS,
+      author            = "Qian Wan and Wenwei Yang and Li Wang and Guowei Ma",
+      title             = "Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure",
+      doi               = "10.1016/j.addma.2023.103581",
+      year              = "2023",
+      journal           = "Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Wan, W. Yang, L. Wang and G. Ma, “Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure”, <i>Additive Manufacturing</i>, 2023, doi: 10.1016/j.addma.2023.103581.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wan, Qian, Wenwei Yang, Li Wang, and Guowei Ma. “Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure”. <i>Additive Manufacturing</i>, 2023. https://doi.org/10.1016/j.addma.2023.103581.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

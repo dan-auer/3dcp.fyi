@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eunsan Cho, Seongwoo Gwon, Soowon Cha, Myoungsu Shin
+    - footer
+title: Cho Eunsan, Gwon Seongwoo, Cha Soowon, Shin Myoungsu
 description:
 tags:
  - accelerator
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Impact of Accelerator on Rheological Properties of Cement Composites with Cellulose Microfibers:<br/>:aca-blank: 3D Printing Perspective ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112538" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112538</a>
+#Impact of Accelerator on Rheological Properties of Cement Composites with Cellulose Microfibers&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">3D Printing Perspective</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112538" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112538" target="_blank">10.1016/j.jobe.2025.112538</a>
 
--------------------------
+<a href="../../../author/cho_eunsan"><b>Cho</b>&nbsp;Eunsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3048-7265" title="ORCID: 0000-0002-3048-7265" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gwon_seongwoo"><b>Gwon</b>&nbsp;Seongwoo</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-8111-8509" title="ORCID: 0009-0004-8111-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cha_soowon"><b>Cha</b>&nbsp;Soowon</a></span>, <a href="../../../author/shin_myoungsu"><b>Shin</b>&nbsp;Myoungsu</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112538
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cho_eunsan"><b>Cho</b> Eunsan</a>
-,     <a href="../../../author/gwon_seongwoo"><b>Gwon</b> Seongwoo</a> <a href="https://orcid.org/0000-0002-3048-7265" title="ORCID: 0000-0002-3048-7265" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cha_soowon"><b>Cha</b> Soowon</a> <a href="https://orcid.org/0009-0004-8111-8509" title="ORCID: 0009-0004-8111-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112538
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#cellulose`](keyword/cellulose)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Accelerator%20on%20Rheological%20Properties%20of%20Cement%20Composites%20with%20Cellulose%20Microfibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002335325&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409222675" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112538" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112538?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aimed to investigate the impact of accelerator on the rheological properties of 3D printed concrete (3DPC) containing cellulose microfibers (CMFs). While saturated CMFs can mitigate shrinkage and associated damage through internal curing, they tend to delay the setting time of concrete, potentially reducing the structuration rate and consequently the buildability of 3DPC. As a potential solution, accelerators may expedite the setting process and improve the buildability. In this study, we examined the dynamic yield stress, plastic viscosity, static yield stress, and structuration rate of 16 cement composites with varying amounts of CMFs (0-1.0 wt.%) and accelerator (0-1.0 wt.%) through two rheological tests. Test results showed that increasing the CMFs content led to an 18% rise in dynamic yield stress and a 12% increase in plastic viscosity, while its effect on static yield stress remained negligible.. Notably, the influence of accelerator was more pronounced, as it significantly increased static yield stress by up to 290% and structuration rate by 400%. Stress growth test results reveal that both the static yield stress at a given rest time and the structuration rate were proportional to the accelerator ratio, but the structuration rate had a marginal inverse relationship with the CMF ratio. Therefore, the addition of accelerator is deemed an effective solution to enhance the buildability of 3DPC and fully counteract the buildability degradation caused by CMFs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/barve_prasad"><b>Barve</b> Prasad</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/shah_santosh"><b>Shah</b> Santosh</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC/">A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
@@ -91,10 +71,39 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_core_tran_fan.2025.3PCC/">3D Printable Cellulose Concrete:<br/>A Review and Pathway to Future Research</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/cuesta-astorga_eva"><b>Cuesta-Astorga</b> Eva</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../alon_blan_cues_inda.2025.SotB3PHPMUMCA/">Selection of the Best 3D Printing High-Performance Mortars Using Multi-Criteria Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cho_gwon_cha_shin.2025.IoAoRPoCCwCM,
+      author            = "Eunsan Cho and Seongwoo Gwon and Soowon Cha and Myoungsu Shin",
+      title             = "Impact of Accelerator on Rheological Properties of Cement Composites with Cellulose Microfibers: 3D Printing Perspective",
+      doi               = "10.1016/j.jobe.2025.112538",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112538",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Cho, S. Gwon, S. Cha and M. Shin, “Impact of Accelerator on Rheological Properties of Cement Composites with Cellulose Microfibers: 3D Printing Perspective”, <i>Journal of Building Engineering</i>, p. 112538, 2025, doi: 10.1016/j.jobe.2025.112538.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cho, Eunsan, Seongwoo Gwon, Soowon Cha, and Myoungsu Shin. “Impact of Accelerator on Rheological Properties of Cement Composites with Cellulose Microfibers: 3D Printing Perspective”. <i>Journal of Building Engineering</i>, 2025, 112538. https://doi.org/10.1016/j.jobe.2025.112538.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

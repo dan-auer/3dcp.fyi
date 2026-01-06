@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Renny Varghese, Bárbara Rangel, Lino Maia
+    - footer
+title: Varghese Renny, Rangel Bárbara, Maia Lino
 description:
 tags:
  - concrete
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://journalengineering.fe.up.pt/index.php/upjeng/article/download/2183-6493_011-002_003270/984) Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements ([2025-10](date/2025/10))
-<a href="https://doi.org/10.24840/2183-6493_011-002_003270" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24840/2183-6493_011-002_003270</a>
+#Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements ([2025-10](date/2025/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://journalengineering.fe.up.pt/index.php/upjeng/article/download/2183-6493_011-002_003270/984) <a href="https://doi.org/10.24840/2183-6493_011-002_003270" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24840/2183-6493_011-002_003270" target="_blank">10.24840/2183-6493_011-002_003270</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-6393-7564" title="ORCID: 0009-0006-6393-7564" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varghese_renny"><b>Varghese</b>&nbsp;Renny</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maia_lino"><b>Maia</b>&nbsp;Lino</a></span><br>
+Journal Article - UPorto Journal of Engineering, Vol. 11, Iss. 2, pp. 120-140
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a> <a href="https://orcid.org/0009-0006-6393-7564" title="ORCID: 0009-0006-6393-7564" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - UPorto Journal of Engineering, Vol. 11, Iss. 2, pp. 120-140
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-    [`#sustainability`](keyword/sustainability)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strength%2C%20Structure%2C%20and%20Sustainability%20in%203D-Printed%20Concrete%20Using%20Different%20Types%20of%20Fiber%20Reinforcements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415264027" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24840/2183-6493_011-002_003270" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24840/2183-6493_011-002_003270?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article comprehensively reviews 3D printed fibre reinforced concrete (3DPFRC), examining the influence of fibre type, content, and orientation on mechanical, structural, durability, and sustainability results. Based on experimental results from the literature, the review emphasises that glass and synthetic fibres help with interlayer bonding, ductility, and fracture management. In contrast, steel fibres improve compressive and flexural strength. Face mask fibres and wind turbine blade debris are examples of recycled and developing fibres that can increase mechanical performance while lowering carbon emissions associated with production. Comparative data indicate that by reducing the need for cement, minimising waste, and improving durability, fibre integration can lessen the environmental impact of 3D printed concrete (3DPC). However, because of variations in mix design, testing procedures, and printing parameters, results from different research cannot be directly compared. This review comprehensively evaluates 3DPFRC by combining mechanical performance with durability and environmental viewpoints. The goal is to direct future studies toward optimising fibre utilisation in digital construction for sustainability and structural efficiency.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../alon_blan_cast_yori.2024.CoRFi3PMUMCA/">Comparison of Reinforcement-Fibers in 3D Printing Mortars Using Multi-Criteria Analysis</a></li>
@@ -115,7 +93,38 @@ tags:
       <li><a href="../../../author/zhou_boyu"><b>Zhou</b> Boyu</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zhou_zhan_ma.2024.AESo3PCRwFRfWTB/">An Experimental Study on 3D Printed Concrete Reinforced with Fibers Recycled from Wind Turbine Blades</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{varg_rang_maia.2025.SSaSi3PCUDToFR,
+      author            = "Renny Varghese and Bárbara Rangel and Lino Maia",
+      title             = "Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements",
+      doi               = "10.24840/2183-6493_011-002_003270",
+      year              = "2025",
+      journal           = "UPorto Journal of Engineering",
+      volume            = "11",
+      number            = "2",
+      pages             = "120--140",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Varghese, B. Rangel and L. Maia, “Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements”, <i>UPorto Journal of Engineering</i>, vol. 11, no. 2, pp. 120–140, 2025, doi: 10.24840/2183-6493_011-002_003270.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Varghese, Renny, Bárbara Rangel, and Lino Maia. “Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements”. <i>UPorto Journal of Engineering</i> 11, no. 2 (2025): 120–40. https://doi.org/10.24840/2183-6493_011-002_003270.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

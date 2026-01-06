@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ruizhen Yan, Fangqi Meng, Guoju Ke, Kerui Jia
+    - footer
+title: Yan Ruizhen, Meng Fangqi, Ke Guoju, Jia Kerui
 description:
 tags:
  - application
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comparative Evaluation of the Applicability of 3D Printing Mortar with Different Waste-Powders ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137825" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137825</a>
+#Comparative Evaluation of the Applicability of 3D Printing Mortar with Different Waste-Powders ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137825" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137825" target="_blank">10.1016/j.conbuildmat.2024.137825</a>
 
--------------------------
+<a href="../../../author/yan_ruizhen"><b>Yan</b>&nbsp;Ruizhen</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-9294-7394" title="ORCID: 0009-0001-9294-7394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meng_fangqi"><b>Meng</b>&nbsp;Fangqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8585-1220" title="ORCID: 0000-0002-8585-1220" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ke_guoju"><b>Ke</b>&nbsp;Guoju</a></span>, <a href="../../../author/jia_kerui"><b>Jia</b>&nbsp;Kerui</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 443, No. 137825
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yan_ruizhen"><b>Yan</b> Ruizhen</a>
-,     <a href="../../../author/meng_fangqi"><b>Meng</b> Fangqi</a> <a href="https://orcid.org/0009-0001-9294-7394" title="ORCID: 0009-0001-9294-7394" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ke_guoju"><b>Ke</b> Guoju</a> <a href="https://orcid.org/0000-0002-8585-1220" title="ORCID: 0000-0002-8585-1220" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_kerui"><b>Jia</b> Kerui</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 443, No. 137825
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#comparision`](keyword/comparision)
-    [`#difference`](keyword/difference)
-    [`#evaluation`](keyword/evaluation)
-    [`#mortar`](keyword/mortar)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Evaluation%20of%20the%20Applicability%20of%203D%20Printing%20Mortar%20with%20Different%20Waste-Powders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200640978&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401409103" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137825" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137825?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Compared to traditional concrete, 3D printing concrete requires a larger amount of cement, which has a negative impact on environment. Therefore, it is necessary to expand the types of supplementary cementitious materials (SCM) available for 3D printing concrete and to compare the effects of different SCMs on the same type of concrete. The aim of this study is to gain a better insight into the effects of recycled powder (RP) and dolomite powder (DP) on 3D printing mortar (3DPM). In order to assess the feasibility of incorporating waste powders into 3DPM, DP and RP were used to replace cement by mass at 0 wt%, 2.5 wt%, 5 wt%, 7.5 wt% and 10 wt%, respectively, to investigate printability (fluidity, open time, buildability), mechanical properties (compressive & flexural strength, interlayer bond strength) and environmental performance (CO2 emissions, energy consumption). The results showed that both DP and RP improved fluidity and prolonged open time, albeit with reduced mechanical strength. In particular, DP at dosages (0–5 wt%) can improve buildability and interlayer bond strength, while its dedolomitisation reaction increases later-stage strengths. Both powders reduce energy consumption and CO2 emissions, but RP's contribution dosages not fully compensate for the loss in compressive strength. In addition, the study recommends 5 wt% DP as the optimum dosage, while RP should be limited to ≤ 5 wt% to balance mechanical performance and environmental benefits.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/danish_aamar"><b>Danish</b> Aamar</a>, <a href="../../../author/khurshid_kiran"><b>Khurshid</b> Kiran</a>, <a href="../../../author/mosaberpanah_ali_mohammad"><b>Mosaberpanah</b> Mohammad</a>, <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dani_khur_mosa_ozba.2022.MSCDMaISfILBSoAMCC/">Micro-Structural Characterization, Driving Mechanisms, and Improvement-Strategies for Inter-Layer Bond Strength of Additive Manufactured Cementitious Composites:<br/>A Review</a></li>
@@ -88,12 +66,42 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aden_rashid_abdishukri"><b>Aden</b> Abdishukri</a>, <a href="../../../author/nunez-montoya_paola_alejandra"><b>Nuñez Montoya</b> Alejandra</a>, <a href="../../../author/ponce_mari_josef"><b>Ponce</b> Josef</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aden_nune_ponc_rang.2026.FB/">FAB-BIO:<br/>A Review of Bio-Based Materials Applied on 3D-Printed Living Walls</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../abed_wari_alaw_jabr.2025.NGNZCfU3PC/">Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>Hybrid Machine Learning Optimized LC3 with Recycled Rubber</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abed_wari_alaw_jabr.2025.TLC3PI/">Transformative Low-Carbon 3D-Printed Infrastructure:<br/>Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yan_meng_ke_jia.2024.CEotAo3PMwDWP,
+      author            = "Ruizhen Yan and Fangqi Meng and Guoju Ke and Kerui Jia",
+      title             = "Comparative Evaluation of the Applicability of 3D Printing Mortar with Different Waste-Powders",
+      doi               = "10.1016/j.conbuildmat.2024.137825",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "443",
+      pages             = "137825",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Yan, F. Meng, G. Ke and K. Jia, “Comparative Evaluation of the Applicability of 3D Printing Mortar with Different Waste-Powders”, <i>Construction and Building Materials</i>, vol. 443, p. 137825, 2024, doi: 10.1016/j.conbuildmat.2024.137825.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yan, Ruizhen, Fangqi Meng, Guoju Ke, and Kerui Jia. “Comparative Evaluation of the Applicability of 3D Printing Mortar with Different Waste-Powders”. <i>Construction and Building Materials</i> 443 (2024): 137825. https://doi.org/10.1016/j.conbuildmat.2024.137825.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

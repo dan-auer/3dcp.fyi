@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yazhi Wei, Hui Zhang
+    - footer
+title: Wei Yazhi, Zhang Hui
 description:
 tags:
  - concrete
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1021/acsomega.4c06129) Influence of Temperature and Humidity on Mechanical Properties of Calcined-Oyster-Shell-Powder-Modified 3D Printed Concrete ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1021/acsomega.4c06129" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1021/acsomega.4c06129</a>
+#Influence of Temperature and Humidity on Mechanical Properties of Calcined-Oyster-Shell-Powder-Modified 3D Printed Concrete ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1021/acsomega.4c06129) <a href="https://doi.org/10.1021/acsomega.4c06129" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1021/acsomega.4c06129" target="_blank">10.1021/acsomega.4c06129</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-5467-6069" title="ORCID: 0009-0009-5467-6069" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wei_yazhi"><b>Wei</b>&nbsp;Yazhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0680-6916" title="ORCID: 0000-0002-0680-6916" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hui"><b>Zhang</b>&nbsp;Hui</a></span><br>
+Journal Article - ACS omega, Vol. 9, Iss. 37, pp. 39180-39187
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wei_yazhi"><b>Wei</b> Yazhi</a> <a href="https://orcid.org/0009-0009-5467-6069" title="ORCID: 0009-0009-5467-6069" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> <a href="https://orcid.org/0000-0002-0680-6916" title="ORCID: 0000-0002-0680-6916" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACS omega, Vol. 9, Iss. 37, pp. 39180-39187
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#humidity`](keyword/humidity)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#modification`](keyword/modification)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#shell`](keyword/shell)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/humidity"><button class="btn">#humidity</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Temperature%20and%20Humidity%20on%20Mechanical%20Properties%20of%20Calcined-Oyster-Shell-Powder-Modified%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203270199&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402266825" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1021/acsomega.4c06129" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1021/acsomega.4c06129?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Calcined oyster-shell-powder-modified concrete (CS), developed by our research group, is an ecological quick-setting concrete suitable for 3D printing technology. It has been discovered that the material's formability is obviously affected by ambient temperature and humidity after the 3D printing process, and this phenomenon also occurs in other 3D-printed concrete materials. To figure out the influence laws of temperature and humidity on the mechanical properties of CS-modified 3D-printed concrete during the curing time, the methods of both microanalysis and macro testing are applied. The molecular dynamics method is used to reveal the effects of temperature and humidity on the material's mechanical parameters, including elastic modulus, bulk modulus, and shear modulus. The macroscopic compressive strength and flexural strength of the 3D-printed concrete are measured to validate microanalysis findings. Results show the most suitable curing conditions for improving the mechanical properties of CS-modified 3D-printed concrete are the ambient temperature of 20 ± 1 °C and the relative humidity of 80-95%. Under this curing condition, the 28 day flexural strength of CS-modified 3D-printed concrete can reach 14 MPa, and the compressive strength can reach 44 MPa, which significantly improves the strength of printed samples.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/colyn_markus"><b>Colyn</b> Markus</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../coly_zijl_baba.2024.FaSPo3PCMUaHVoSAB/">Fresh and Strength Properties of 3D Printable Concrete Mixtures Utilising a High Volume of Sustainable Alternative Binders</a></li>
       <li><a href="../../../author/du_jiashuai"><b>Du</b> Jiashuai</a>, <a href="../../../author/wei_yazhi"><b>Wei</b> Yazhi</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/idriss_i-b_aboubaker"><b>Idriss</b> Aboubaker</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../du_wei_zhan_idri.2024.EoOSDoPEoBB3PC/">Effects of Oyster-Shell-Derivatives on Performance Enhancement of Biomass-Based 3D Printed Concrete</a></li>
@@ -82,10 +60,41 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../xiao_han_zhan_zou.2021.MaMEo3PCwPFaRSaET/">Mechanical and Microstructural Evolution of 3D Printed Concrete with Polyethylene-Fiber and Recycled Sand at Elevated Temperatures</a></li>
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
       <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wei_zhan.2024.IoTaHoMPoCOSPM3PC,
+      author            = "Yazhi Wei and Hui Zhang",
+      title             = "Influence of Temperature and Humidity on Mechanical Properties of Calcined-Oyster-Shell-Powder-Modified 3D Printed Concrete",
+      doi               = "10.1021/acsomega.4c06129",
+      year              = "2024",
+      journal           = "ACS omega",
+      volume            = "9",
+      number            = "37",
+      pages             = "39180--39187",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wei  and H. Zhang, “Influence of Temperature and Humidity on Mechanical Properties of Calcined-Oyster-Shell-Powder-Modified 3D Printed Concrete”, <i>ACS omega</i>, vol. 9, no. 37, pp. 39180–39187, 2024, doi: 10.1021/acsomega.4c06129.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wei, Yazhi, and Hui Zhang. “Influence of Temperature and Humidity on Mechanical Properties of Calcined-Oyster-Shell-Powder-Modified 3D Printed Concrete”. <i>ACS Omega</i> 9, no. 37 (2024): 39180–87. https://doi.org/10.1021/acsomega.4c06129.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

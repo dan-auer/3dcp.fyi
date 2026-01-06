@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hannelie Marais, Heidi Christen, Seung Cho, Wibke Villiers, Gideon Zijl
+    - footer
+title: Marais Hannelie, Christen Heidi, Cho Seung, Villiers Wibke, Zijl Gideon
 description:
 tags:
  - assessment
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Computational Assessment of Thermal Performance of 3D Printed Concrete Wall Structures with Cavities ([2021-03](date/2021/03))
-<a href="https://doi.org/10.1016/j.jobe.2021.102431" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.102431</a>
+#Computational Assessment of Thermal Performance of 3D Printed Concrete Wall Structures with Cavities ([2021-03](date/2021/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.102431" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.102431" target="_blank">10.1016/j.jobe.2021.102431</a>
 
--------------------------
+<a href="../../../author/marais_hannelie"><b>Marais</b>&nbsp;Hannelie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3956-2871" title="ORCID: 0000-0003-3956-2871" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/christen_heidi"><b>Christen</b>&nbsp;Heidi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cho_seung"><b>Cho</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0775-5305" title="ORCID: 0000-0002-0775-5305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/villiers_wibke"><b>de&nbsp;Villiers</b>&nbsp;Wibke</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 41
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/marais_hannelie"><b>Marais</b> Hannelie</a>
-,     <a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a> <a href="https://orcid.org/0000-0003-3956-2871" title="ORCID: 0000-0003-3956-2871" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/villiers_wibke"><b>de Villiers</b> Wibke</a> <a href="https://orcid.org/0000-0002-0775-5305" title="ORCID: 0000-0002-0775-5305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 41, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#cavity`](keyword/cavity)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cavity"><button class="btn">#cavity</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Computational%20Assessment%20of%20Thermal%20Performance%20of%203D%20Printed%20Concrete%20Wall%20Structures%20with%20Cavities" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85103650806&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,25 +39,22 @@ tags:
 <a href="https://inciteful.xyz/p/W3149737068" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.102431" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.102431?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the thermal performance of two candidate 3D printed cement-based façade construction materials, i.e. lightweight foam concrete and high-performance concrete, distinguished by density (1400 versus 2100 kg/m3) and thermal conductivity (0.37 versus 1.1 W/mK). Strategies toward the thermal improvement of 3D concrete printed façade element cavity arrangements are presented and demonstrated computationally. Four cases of a 3D printed lightweight foam concrete element with cavities, including conduction and/or radiation and/or convection, are analysed numerically and compared. For the element considered here, a 6.6% lower internal temperature is calculated when cavity radiation and convection are not considered. Neglecting cavity radiation and to a lesser extent cavity convection may significantly under-estimate heat transfer through a 3D concrete printed walling system. Investigation of the number and size of cavities in the lightweight foam concrete element reveals that a solid lightweight foam concrete wall performs better thermally than a 3D printed lightweight foam wall section with large, wide cavities for economic material use, however, the introduction of reduced cavity widths leads to improved thermal insulation. A lightweight foam concrete wall section with four cavities (of 20 mm in width) has a better thermal performance than a solid lightweight foam wall with the same outer wall section dimensions. More cavities of smaller width further improve the thermal performance and an overall void to footprint ratio exceeding 50% is shown to yield better thermal performance. A comparison between the thermal performance of lightweight foam concrete and fibre reinforced high-performance concrete as solid and 3D printed cavity walls is also carried out. The inclusion of cavities in the high-performance concrete wall, with higher thermal conductivity, improves its thermal performance in summer (by nearly 1 °C) whilst the inclusion of cavities in the lightweight foam concrete wall, with lower thermal conductivity, worsens its thermal performance (by nearly 1 °C). The thermal performance, and thus choice of wall geometry, is found to be material dependent. The finite element computational strategy is validated by reasonably accurate simulation of published heat flow experimental results, incorporating potentially dominating cavity radiation and convection. Furthermore, an analytical thermal resistance model is presented, and demonstrated to capture the heat transfer in reasonable agreement with a detailed, but complex finite element computational approach.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "62 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/latorraca_f_tassia"><b>Latorraca</b> Tássia</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lato_rang_guim.2026.O3PCPTPwMMaGD/">Optimizing 3D-Printed Concrete Panels’ Thermal Performance with Materials, Metrics, and Generative Design</a></li>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
+      <li><a href="../../../author/sifan_mohamed"><b>Sifan</b> Mohamed</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/popo-ola_sunday"><b>Popo-Ola</b> Sunday</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sifa_upas_pool_popo.2025.FPaDoLWPw3PCaSLCS/">Fire Performance and Design of LSF Wall Panels with 3D Printed Concrete and Steel Lipped Channel Sections</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
       <li><a href="../../../author/liu_ruiqing"><b>Liu</b> Ruiqing</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_du.2025.OTITGD/">Optimizing Thermal Insulation Through Geometric Design:<br/>Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns</a></li>
@@ -138,4 +115,33 @@ tags:
       <li><a href="../../../author/wu_zixia"><b>Wu</b> Zixia</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../wu_xu_savi.2021.MPoLCCCIMEPCM/">Mechanical Properties of Lightweight Cementitious Cellular Composites Incorporating Micro-Encapsulated Phase-Change-Material</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mara_chri_cho_vill.2021.CAoTPo3PCWSwC,
+      author            = "Hannelie Marais and Heidi Christen and Seung Cho and Wibke de Villiers and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Computational Assessment of Thermal Performance of 3D Printed Concrete Wall Structures with Cavities",
+      doi               = "10.1016/j.jobe.2021.102431",
+      year              = "2021",
+      journal           = "Journal of Building Engineering",
+      volume            = "41",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Marais, H. Christen, S. Cho, W. de Villiers and G. P. A. G. van Zijl, “Computational Assessment of Thermal Performance of 3D Printed Concrete Wall Structures with Cavities”, <i>Journal of Building Engineering</i>, vol. 41, 2021, doi: 10.1016/j.jobe.2021.102431.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Marais, Hannelie, Heidi Christen, Seung Cho, Wibke de Villiers, and Gideon Pieter Adriaan Greeff van Zijl. “Computational Assessment of Thermal Performance of 3D Printed Concrete Wall Structures with Cavities”. <i>Journal of Building Engineering</i> 41 (2021). https://doi.org/10.1016/j.jobe.2021.102431.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

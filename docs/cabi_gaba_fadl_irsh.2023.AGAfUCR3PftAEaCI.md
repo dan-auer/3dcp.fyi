@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: John-John Cabibihan, Aya Gaballa, Fodil Fadli, Mohammad Irshidat, Nimish Biloria, Zeyad Mansour, Housaam Abdulrazak
+    - footer
+title: Cabibihan John-John, Gaballa Aya, Fadli Fodil, Irshidat Mohammad, Biloria Nimish, Mansour Zeyad, Abdulrazak Housaam
 description:
 tags:
  - approach
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s41693-023-00103-9.pdf) A Guided Approach for Utilizing Concrete Robotic 3D Printing for the Architecture, Engineering, and Construction Industry ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1007/s41693-023-00103-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41693-023-00103-9</a>
+#A Guided Approach for Utilizing Concrete Robotic 3D Printing for the Architecture, Engineering, and Construction Industry ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41693-023-00103-9.pdf) <a href="https://doi.org/10.1007/s41693-023-00103-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-023-00103-9" target="_blank">10.1007/s41693-023-00103-9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5892-743X" title="ORCID: 0000-0001-5892-743X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cabibihan_john-john"><b>Cabibihan</b>&nbsp;John-John</a></span>, <a href="../../../author/gaballa_aya"><b>Gaballa</b>&nbsp;Aya</a></span>, <a href="../../../author/fadli_fodil"><b>Fadli</b>&nbsp;Fodil</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9631-5485" title="ORCID: 0000-0001-9631-5485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b>&nbsp;Mohammad</a></span>, <a href="../../../author/biloria_nimish"><b>Biloria</b>&nbsp;Nimish</a></span>, <a href="../../../author/mansour_zeyad"><b>Mansour</b>&nbsp;Zeyad</a></span>, <a href="../../../author/abdulrazak_housaam"><b>Abdulrazak</b>&nbsp;Housaam</a></span><br>
+Journal Article - Construction Robotics
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a> <a href="https://orcid.org/0000-0001-5892-743X" title="ORCID: 0000-0001-5892-743X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gaballa_aya"><b>Gaballa</b> Aya</a>
-,     <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>
-,     <a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a> <a href="https://orcid.org/0000-0001-9631-5485" title="ORCID: 0000-0001-9631-5485" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/biloria_nimish"><b>Biloria</b> Nimish</a>
-,     <a href="../../../author/mansour_zeyad"><b>Mansour</b> Zeyad</a>
-,     <a href="../../../author/abdulrazak_housaam"><b>Abdulrazak</b> Housaam</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Robotics, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#architecture`](keyword/architecture)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#engineered`](keyword/engineered)
-    [`#guidance`](keyword/guidance)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/guidance"><button class="btn">#guidance</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Guided%20Approach%20for%20Utilizing%20Concrete%20Robotic%203D%20Printing%20for%20the%20Architecture%2C%20Engineering%2C%20and%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382138019" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41693-023-00103-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41693-023-00103-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The emerging field of robotic 3D printing offers practical alternatives to conventional building methods that are currently used in the Architecture, Engineering, and Construction (AEC) industry. Robotic 3D printing has many advantages over the conventional construction as it reduces human error, is relatively inexpensive, and opens the door to the creative complex designs while reducing the amount of expertise required to complete the construction process. At present, there is a shortage of resources offering guidance on how to utilize the available technology. Thus, it is often difficult for researchers and practitioners alike to find the right information and make informed decisions relative to their specific applications. In this paper, we provide such a resource by gathering data from previously constructed projects in the form of a categorical study, which paves the way for accessing the most recent information regarding the robotic 3D printing technology of interest. We illustrate the latest methods and techniques used in the field and describe the hardware used. We also use the resulting classification methods to present a decision-making workflow to streamline the process of selecting the most appropriate approach. We also examined and performed a detailed analysis on three case studies of prominent buildings that have been constructed using 3D printing technology. The categorical parameters were selected carefully to form a clear, informative distinction between the buildings. Printing method and motion type were the most important parameters when it comes to robotic 3D printing. A new database was created and demonstrated to elucidate the types of the additive manufacturing that can be used. By analyzing the data, we hope to facilitate the development of new structures as they relate to 3D printing in the AEC industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -112,12 +85,40 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/albeitjali_naeem"><b>Albeitjali</b> Naeem</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../irsh_albe_amja_alnu.2025.FWtS/">From Waste to Strength:<br/>Recycled Steel Fibers for Sustainable 3D Printing of Cementitious Composites</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>
       <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/kulak_yilmaz_adnan"><b>Külak</b> Adnan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ilca_kula_sahi_alde.2025.RaMSf3GSUCaDW/">Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/pancho_paolo"><b>Pancho</b> Paolo</a>, <a href="../../../author/sanchez_daniela"><b>Sanchez</b> Daniela</a>, <a href="../../../author/poudel_suman"><b>Poudel</b> Suman</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../rami_panc_sanc_poud.2025.DaDoaLRCfC3P/">Design and Development of a Lean Robotic Cell for Concrete 3D Printing</a></li>
       <li><a href="../../../author/mantha_r-k_bharadwaj"><b>Mantha</b> Bharadwaj</a>, <a href="../../../author/sati_ala"><b>Sati</b> Ala</a>, <a href="../../../author/hosny_fatma"><b>Hosny</b> Fatma</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../mant_sati_hosn_abda.2024.AG3PLCALFfAA/">A Generic 3D Printing Life Cycle Assessment (LCA) Framework for AEC Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cabi_gaba_fadl_irsh.2023.AGAfUCR3PftAEaCI,
+      author            = "John-John Cabibihan and Aya Gaballa and Fodil Fadli and Mohammad R. Irshidat and Nimish Biloria and Zeyad Mansour and Housaam Abdulrazak",
+      title             = "A Guided Approach for Utilizing Concrete Robotic 3D Printing for the Architecture, Engineering, and Construction Industry",
+      doi               = "10.1007/s41693-023-00103-9",
+      year              = "2023",
+      journal           = "Construction Robotics",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-J. Cabibihan, “A Guided Approach for Utilizing Concrete Robotic 3D Printing for the Architecture, Engineering, and Construction Industry”, <i>Construction Robotics</i>, 2023, doi: 10.1007/s41693-023-00103-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cabibihan, John-John, Aya Gaballa, Fodil Fadli, Mohammad R. Irshidat, Nimish Biloria, Zeyad Mansour, and Housaam Abdulrazak. “A Guided Approach for Utilizing Concrete Robotic 3D Printing for the Architecture, Engineering, and Construction Industry”. <i>Construction Robotics</i>, 2023. https://doi.org/10.1007/s41693-023-00103-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

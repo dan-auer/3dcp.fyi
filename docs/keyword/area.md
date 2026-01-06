@@ -8,7 +8,7 @@ search:
 
 # #area
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/arash_motalebi"><b>Arash</b> Motalebi</a>, <a href="../../../author/mohammad_hasan-khondoker_aba"><b>Mohammad</b> Aba</a>, <a href="../../../author/golam_kabir"><b>Golam</b> Kabir</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../aras_moha_gola.2025.AtEIoBHiRA/">Assessing the Environmental Impact of Building Houses in Remote Areas:<br/>3D Printing vs. Traditional Construction Techniques</a></li>
   <li><a href="../../../author/wang_qiang-chen"><b>Wang</b> Qiang-Chen</a>, <a href="../../../author/yu_si-nan"><b>Yu</b> Si-Nan</a>, <a href="../../../author/chen_zi-xiao"><b>Chen</b> Zi-Xiao</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_yu_chen_weng.2023.PACiFDA/">Promoting Additive Construction in Fast-Developing Areas:<br/>A Q-Methodology-Analysis of Stakeholder-Perspectives on Policy-Mixes</a></li>
   <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/hu_hanyang"><b>Hu</b> Hanyang</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../huan_xu_hu.2023.SFaPPGMfLA3CPP/">Space-Filling and Print-Path-Generation-Methods for Large-Area 3D Concrete Printing Pavements</a></li>

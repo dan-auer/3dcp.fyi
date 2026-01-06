@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ammar Mirjan, Jaime Mata-Falcón, Carsten Rieger, Janin Herkrath, Walter Kaufmann, Fabio Gramazio, Matthias Kohler
+    - footer
+title: Mirjan Ammar, Mata-Falcón Jaime, Rieger Carsten, Herkrath Janin, Kaufmann Walter, Gramazio Fabio, Kohler Matthias
 description:
 tags:
  - mesh
@@ -11,30 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mesh Mould Prefabrication ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1007/978-3-031-06116-5_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-06116-5_5</a>
+#Mesh Mould Prefabrication ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_5" target="_blank">10.1007/978-3-031-06116-5_5</a>
 
--------------------------
+<a href="../../../author/mirjan_ammar"><b>Mirjan</b>&nbsp;Ammar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <a href="../../../author/rieger_carsten"><b>Rieger</b>&nbsp;Carsten</a></span>, <a href="../../../author/herkrath_janin"><b>Herkrath</b>&nbsp;Janin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaufmann_walter"><b>Kaufmann</b>&nbsp;Walter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
+Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 31-36
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mirjan_ammar"><b>Mirjan</b> Ammar</a>
-,     <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rieger_carsten"><b>Rieger</b> Carsten</a>
-,     <a href="../../../author/herkrath_janin"><b>Herkrath</b> Janin</a>
-,     <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 31-36
-
-:aca-blank:{ .lg .middle}
-    [`#mesh`](keyword/mesh)
-    [`#mould`](keyword/mould)
-    [`#prefabrication`](keyword/prefabrication)
-
-
--------------------------
+<a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mesh%20Mould%20Prefabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133176131&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,22 +33,18 @@ tags:
 <a href="https://inciteful.xyz/p/W4285217181" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-06116-5_5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-06116-5_5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The Mesh Mould technology combines formwork and structural reinforcement into a robotically fabricated construction system. This method allows for the industrial and full-scale realisation ofcomplex curved, steel-reinforced concrete structures without the need for conventional formwork. The paper presents a newmaterial and cost efficient industrial robotic prefabrication process of3D reinforcement cages (mesh elements). A novel robotic wire application process makes it possible to now fabricate mesh elements with continuous reinforcement in two commonly orthogonal directions. Thanks to the implementation of an automated structural design approach, complex structures can be dimensioned and optimised following international standards for steel-reinforced concrete structures. Furthermore, the paper presents the development of a new, appropriate concrete mixture that is stable to fill the permeable meshes with.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/pressmair_nadine"><b>Pressmair</b> Nadine</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../gebh_mata_amma_pres.2024.ESEwDC/">Enhancing Structural Efficiency with Digital Concrete:<br/>Principles, Opportunities and Case Studies</a></li>
       <li><a href="../../../author/wang_shih-yuan"><b>Wang</b> Shih-Yuan</a>, <a href="../../../author/liong_sze-teng"><b>Liong</b> Sze-Teng</a>, <a href="../../../author/gan_s_y"><b>Gan</b> Y.</a>, <a href="../../../author/sheng_yu-ting"><b>Sheng</b> Yu-Ting</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../wang_lion_gan_shen.2023.CECFfLISAS/">Cost-Effective Concrete Fabrication for Large Irregularly Shaped Architectural Structures</a></li>
@@ -74,4 +54,35 @@ tags:
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/choma_joseph"><b>Choma</b> Joseph</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../llor_chom_scot_szab.2022.IC/">In-Crease:<br/>Less Concrete More Paper</a></li>
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mirj_mata_rieg_herk.2022.MMP,
+      author            = "Ammar Mirjan and Jaime Mata-Falcón and Carsten Rieger and Janin Herkrath and Walter Kaufmann and Fabio Gramazio and Matthias Daniel Kohler",
+      title             = "Mesh Mould Prefabrication",
+      doi               = "10.1007/978-3-031-06116-5_5",
+      year              = "2022",
+      volume            = "37",
+      pages             = "31--36",
+      booktitle         = "Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022",
+      editor            = "Richard A. Buswell and Ana Blanco and Sergio Cavalaro and Peter Kinnell",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Mirjan, “Mesh Mould Prefabrication”, in <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>,  2022, vol. 37, pp. 31–36. doi: 10.1007/978-3-031-06116-5_5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mirjan, Ammar, Jaime Mata-Falcón, Carsten Rieger, Janin Herkrath, Walter Kaufmann, Fabio Gramazio, and Matthias Daniel Kohler. “Mesh Mould Prefabrication”. In <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>, edited by Richard A. Buswell, Ana Blanco, Sergio Cavalaro, and Peter Kinnell, 37:31–36, 2022. https://doi.org/10.1007/978-3-031-06116-5_5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

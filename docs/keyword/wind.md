@@ -8,7 +8,7 @@ search:
 
 # #wind
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../lyu_wang_doyl_lafl.2025.G3PCCBaWWTBP/">Green 3D Printing Concrete Containing Biochar and Waste Wind Turbine Blade Powder</a></li>
   <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/cardinali_amelia"><b>Cardinali</b> Amelia</a>, <a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lafl_card_lyu.2025.E3PCCwRCFfWTB/">Enhancing 3D-Printed Cementitious Composites with Recycled Carbon Fibers from Wind Turbine Blades</a></li>
   <li><a href="../../../author/zhang_yonghong"><b>Zhang</b> Yonghong</a>, <a href="../../../author/cui_suping"><b>Cui</b> Suping</a>, <a href="../../../author/wang_xinxin"><b>Wang</b> Xinxin</a>, <a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhan_cui_wang_yang.2025.MaPoRWTBB3PC/">Microstructure and Performance of Recycled Wind Turbine Blade-Based 3D Printed Concrete</a></li>

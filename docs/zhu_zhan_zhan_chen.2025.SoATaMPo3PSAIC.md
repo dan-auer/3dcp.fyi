@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaowei Zhu, Xudong Zhang, Jicheng Zhang, Miao Chen, Shuofan Zhu, Hongxia Yang, Wenxin Wang, Pei Zhao
+    - footer
+title: Zhu Xiaowei, Zhang Xudong, Zhang Jicheng, Chen Miao, Zhu Shuofan, Yang Hongxia, Wang Wenxin, Zhao Pei
 description:
 tags:
  - anisotropy
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/22/4031/pdf?version=1762596212) Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete ([2025-11](date/2025/11))
-<a href="https://doi.org/10.3390/buildings15224031" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15224031</a>
+#Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete ([2025-11](date/2025/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/22/4031/pdf?version=1762596212) <a href="https://doi.org/10.3390/buildings15224031" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15224031" target="_blank">10.3390/buildings15224031</a>
 
--------------------------
+<a href="../../../author/zhu_xiaowei"><b>Zhu</b>&nbsp;Xiaowei</a></span>, <a href="../../../author/zhang_xudong"><b>Zhang</b>&nbsp;Xudong</a></span>, <a href="../../../author/zhang_jicheng"><b>Zhang</b>&nbsp;Jicheng</a></span>, <a href="../../../author/chen_miao"><b>Chen</b>&nbsp;Miao</a></span>, <a href="../../../author/zhu_shuofan"><b>Zhu</b>&nbsp;Shuofan</a></span>, <a href="../../../author/yang_hongxia"><b>Yang</b>&nbsp;Hongxia</a></span>, <a href="../../../author/wang_wenxin"><b>Wang</b>&nbsp;Wenxin</a></span>, <a href="../../../author/zhao_pei"><b>Zhao</b>&nbsp;Pei</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 22, No. 4031
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>
-,     <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>
-,     <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>
-,     <a href="../../../author/chen_miao"><b>Chen</b> Miao</a>
-,     <a href="../../../author/zhu_shuofan"><b>Zhu</b> Shuofan</a>
-,     <a href="../../../author/yang_hongxia"><b>Yang</b> Hongxia</a>
-,     <a href="../../../author/wang_wenxin"><b>Wang</b> Wenxin</a>
-,     <a href="../../../author/zhao_pei"><b>Zhao</b> Pei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 22, No. 4031
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#incorporation`](keyword/incorporation)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20Anisotropic%20Thermal%20and%20Mechanical%20Properties%20of%203D-Printed%20Scrap-Aerogel-Incorporated%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023096596&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7104526867" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15224031" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15224031?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the feasibility of using scrap aerogel (SAG) generated during silica aerogel production as a partial substitute for sand in 3D concrete printing. Through comprehensive experiments and finite element analysis, the printability, thermal insulation properties, and mechanical characteristics (compressive strength and flexural strength) of 3D-printed scrap-aerogel-incorporated concrete (3DP-SAIC) were evaluated at different SAG replacement ratios. The results indicate that the thermal conductivity of the concrete decreases with increasing SAG content. When 30% of the sand is replaced by aerogel, the thermal conductivity perpendicular to the printed layer direction is reduced by 40.90%. The thermal properties of SAIC closely resemble those of aerogel concrete (AIC) while significantly reducing manufacturing costs. Compared to existing 3D-printed aerogel concrete, this study achieves a 73.1% cost reduction. Compared to standard cast specimens (SC-SAIC), 3DP-SAIC exhibits pronounced anisotropic thermal behavior. The study also evaluated the reinforcement effects of four basalt fibers (BF) with different aspect ratios on the mechanical properties of 3DP-SAIC. Although BF provides limited enhancement to compressive strength, it significantly boosts flexural strength. Specifically, BF with a length of 12 mm and a diameter of 17 μm increases flexural strength by 26.97%. These findings highlight the application potential of recycled aerogel in 3D-printed concrete, offering a sustainable thermal insulation solution with suitable mechanical properties for green building technologies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/ferron_raissa"><b>Ferron</b> Raissa</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../delg_clay_brie_ferr.2017.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Prospective Review</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
@@ -86,7 +61,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC,
+      author            = "Xiaowei Zhu and Xudong Zhang and Jicheng Zhang and Miao Chen and Shuofan Zhu and Hongxia Yang and Wenxin Wang and Pei Zhao",
+      title             = "Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete",
+      doi               = "10.3390/buildings15224031",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "22",
+      pages             = "4031",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Zhu, “Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete”, <i>Buildings</i>, vol. 15, no. 22, p. 4031, 2025, doi: 10.3390/buildings15224031.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Xiaowei, Xudong Zhang, Jicheng Zhang, Miao Chen, Shuofan Zhu, Hongxia Yang, Wenxin Wang, and Pei Zhao. “Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete”. <i>Buildings</i> 15, no. 22 (2025): 4031. https://doi.org/10.3390/buildings15224031.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

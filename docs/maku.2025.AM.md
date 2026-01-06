@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Natt Makul
+    - footer
+title: Makul Natt
 description:
 tags:
  - additive
@@ -10,23 +11,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1007/978-981-97-2998-2_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-97-2998-2_19</a>
+#Additive Manufacturing ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-2998-2_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-2998-2_19" target="_blank">10.1007/978-981-97-2998-2_19</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7197-4115" title="ORCID: 0000-0002-7197-4115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/makul_natt"><b>Makul</b>&nbsp;Natt</a></span><br>
+Contribution - Dictionary of Concrete Technology, pp. 30-31
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/makul_natt"><b>Makul</b> Natt</a> <a href="https://orcid.org/0000-0002-7197-4115" title="ORCID: 0000-0002-7197-4115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Dictionary of Concrete Technology, pp. 30-31
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -41,17 +32,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411031704" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-97-2998-2_19" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-97-2998-2_19?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive Manufacturing (AM), often referred to as 3D printing, is a revolutionary technology that constructs three-dimensional objects from digital models by layering materials. In the construction industry, AM has transformed traditional building methods, allowing for the precise deposition of building materials, including concrete, to create complex geometrical structures that were previously unfeasible or too costly. The key advantages of AM in construction are its ability to reduce waste, optimize material usage, and accelerate construction processes while potentially increasing the structural integrity and aesthetic possibilities of architectural designs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/tang_shengwen"><b>Tang</b> Shengwen</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../che_tang_yang_li.2021.IoAVotPo3PCM/">Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials</a></li>
@@ -60,7 +47,37 @@ tags:
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/gudzulic_vladislav"><b>Gudžulić</b> Vladislav</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../rein_gudz_mesc.2023.CMoFOD3CP/">Computational Modeling of Fiber Orientation During 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{maku.2025.AM,
+      author            = "Natt Makul",
+      title             = "Additive Manufacturing",
+      doi               = "10.1007/978-981-97-2998-2_19",
+      year              = "2025",
+      pages             = "30--31",
+      booktitle         = "Dictionary of Concrete Technology",
+      editor            = "Natt Makul",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Makul, “Additive Manufacturing”, in <i>Dictionary of Concrete Technology</i>,  2025, pp. 30–31. doi: 10.1007/978-981-97-2998-2_19.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Makul, Natt. “Additive Manufacturing”. In <i>Dictionary of Concrete Technology</i>, edited by Natt Makul, 30–31, 2025. https://doi.org/10.1007/978-981-97-2998-2_19.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

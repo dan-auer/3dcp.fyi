@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qian Wan, Li Wang, Xiaodong Huang, Hao Wu, Jay Sanjayan, Javad Hashemi, Guowei Ma
+    - footer
+title: Wan Qian, Wang Li, Huang Xiaodong, Wu Hao, Sanjayan Jay, Hashemi Javad, Ma Guowei
 description:
 tags:
  - analysis
@@ -18,37 +19,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>:aca-blank: A Design Method for Printing-Friendly Structure ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.engstruct.2025.121501" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.121501</a>
+#Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">A Design Method for Printing-Friendly Structure</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.engstruct.2025.121501" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121501" target="_blank">10.1016/j.engstruct.2025.121501</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan_qian"><b>Wan</b>&nbsp;Qian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/huang_xiaodong"><b>Huang</b>&nbsp;Xiaodong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_hao"><b>Wu</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <a href="../../../author/hashemi_javad"><b>Hashemi</b>&nbsp;Javad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Engineering Structures, Vol. 345, No. 121501
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wan_qian"><b>Wan</b> Qian</a> <a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>
-,     <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> <a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hashemi_javad"><b>Hashemi</b> Javad</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 345, No. 121501
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#isogeometric`](keyword/isogeometric)
-    [`#method`](keyword/method)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#shape`](keyword/shape)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/isogeometric"><button class="btn">#isogeometric</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Shape%20Optimization%20Based%20on%20Isogeometric%20Analysis%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017858041&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414851406" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.121501" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.121501?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the advancement of 3D concrete printing (3DCP), the design of printing-friendly structures remains a key challenge, limiting its broader application. Traditional design methods fail to balance structural performance and manufacturing constraints. To address this problem, we propose a novel printing-friendly structural design approach based on NURBS surfaces and Reissner-Mindlin shell elements, seamlessly integrating geometric modeling and analysis. A shape optimization strategy is incorporated to enhance material efficiency while considering 3DCP-specific manufacturing constraints. Case studies demonstrate the effectiveness of this method in optimizing control points, prestressing strategies, and internal structures, leading to improved mechanical performance and buildability. This approach streamlines the design process, minimizes post-processing, and facilitates direct integration with CAD/CAM workflows, advancing automation in 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../anto_yoo_beda_reit.2019.VM/">Vertical Modulations</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
@@ -96,7 +70,37 @@ tags:
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wan_wang_ma.2022.CaAPPBoTMf3CP/">Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing</a></li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wan_wang_huan_wu.2025.SOBoIAf3CP,
+      author            = "Qian Wan and Li Wang and Xiaodong Huang and Hao Wu and Jay Gnananandan Sanjayan and Javad Hashemi and Guowei Ma",
+      title             = "Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing: A Design Method for Printing-Friendly Structure",
+      doi               = "10.1016/j.engstruct.2025.121501",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "345",
+      pages             = "121501",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Wan, “Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing: A Design Method for Printing-Friendly Structure”, <i>Engineering Structures</i>, vol. 345, p. 121501, 2025, doi: 10.1016/j.engstruct.2025.121501.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wan, Qian, Li Wang, Xiaodong Huang, Hao Wu, Jay Gnananandan Sanjayan, Javad Hashemi, and Guowei Ma. “Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing: A Design Method for Printing-Friendly Structure”. <i>Engineering Structures</i> 345 (2025): 121501. https://doi.org/10.1016/j.engstruct.2025.121501.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

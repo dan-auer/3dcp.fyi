@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Borrmann André 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bettermann_luca"><b>Bettermann</b> Luca</a>, <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/esser_sebastian"><b>Esser</b> Sebastian</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bett_slep_esse_borr.2025.DDPCiAMfC/">Data-Driven Parameter Calibration in Additive Manufacturing for Construction:<br/>An Introduction to Learning by Printing</a></li>
   <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../slep_borr.2024.FIMfCLDaQIiAMfC/">Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction</a></li>
   <li><a href="../../../author/espinosa_simon"><b>Espinosa</b> Simon</a>, <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../espi_slep_borr.2024.IoLPFiFfAMiC/">Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction</a></li>

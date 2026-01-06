@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Nguyen Anh 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tran_nhi"><b>Tran</b> Nhi</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tran_tran_tran_nguy.2024.EF3PCUSSA/">Eco-Friendly 3D Printed Concrete Using Steel-Slag-Aggregate:<br/>Buildability, Printability and Mechanical Properties</a></li>
   <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/nguyen_thu"><b>Nguyen</b> Thu</a>, <a href="../../../author/trinh_thanh"><b>Trinh</b> Thanh</a>, <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../pham_nguy_trin_nguy.2022.Do3PfCS/">Development of 3D Printers for Concrete Structures:<br/>Mix Proportion Design Approach and Laboratory Testing</a></li>
 </ol>

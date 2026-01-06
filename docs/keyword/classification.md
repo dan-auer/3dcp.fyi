@@ -8,7 +8,7 @@ search:
 
 # #classification
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
   <li><a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/maiwald_patrick"><b>Maiwald</b> Patrick</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../otto_maiw.2024.CaAQAo3CPS/">Classification and Automated Quality Assurance of 3D Concrete Printed Surfaces</a></li>
   <li><a href="../../../author/ranjan_rajeev"><b>Ranjan</b> Rajeev</a>, <a href="../../../author/kumar_deepak"><b>Kumar</b> Deepak</a>, <a href="../../../author/kundu_manoj"><b>Kundu</b> Manoj</a>, <a href="../../../author/chandra-moi_subhash"><b>Chandra Moi</b> Subhash</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ranj_kuma_kund_chan.2022.ACRoCoMUi3PP/">A Critical Review on Classification of Materials Used in 3D Printing Process</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Silvia Reißig, Venkatesh Nerella, Viktor Mechtcherine
+    - footer
+title: Reißig Silvia, Nerella Venkatesh, Mechtcherine Viktor
 description:
 tags:
  - base
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Material-Design and Rheological Behavior of Sustainable Cement-Based Materials in the Context of 3D Printing ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1007/978-3-031-06116-5_65" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-06116-5_65</a>
+#Material-Design and Rheological Behavior of Sustainable Cement-Based Materials in the Context of 3D Printing ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_65" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_65" target="_blank">10.1007/978-3-031-06116-5_65</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6763-3633" title="ORCID: 0000-0002-6763-3633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reissig_silvia"><b>Reißig</b>&nbsp;Silvia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 439-445
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> <a href="https://orcid.org/0000-0002-6763-3633" title="ORCID: 0000-0002-6763-3633" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 439-445
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Material-Design%20and%20Rheological%20Behavior%20of%20Sustainable%20Cement-Based%20Materials%20in%20the%20Context%20of%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133212305&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,25 +38,21 @@ tags:
 <a href="https://inciteful.xyz/p/W4285198045" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-06116-5_65" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-06116-5_65?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, the development of digital construction methods such as 3D concrete printing (3DCP) has attracted increasing interest by the construction industry. 3DCP has a potential to solving many problems currently encountered in this business sector. At the same time, the urgent need in introducing sustainable binders such as limestone calcined clay cement into the practice of construction has been increasingly understood. It seems logical and very promising to merge both concepts in order to achieve a considerable progress in the field. From a technical perspective, however, the implementation of such sustainable approaches can only succeed if fresh 3D printable materials yield rheological properties in accordance with the high requirements posed by the complex process chain of 3DCP. This article presents a methodological approach for the development of 3D printable concretes (3DPC). Rheometer tests and penetration tests were conducted to systematically investigate the time-dependent increase in the static yield stress. The extrudability and buildability of the mixtures were verified by printing wall elements. Due to the low cement content of the mixtures (<270 kg/m3), strength tests were performed as well. Despite the low clinker content, compressive strength values of approximately 30 MPa could be reached. The results attained in this work show that the use of supplementary cementitious materials enables establishing low-clinker concretes in the context of 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gajjar_parth"><b>Gajjar</b> Parth</a>, <a href="../../../author/gajjar_t"><b>Gajjar</b> T.</a>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b> Aniruddha</a>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gajj_gajj_tang_shre.2025.A3PiC/">Advancing 3D Printing in Construction:<br/>Rheological Behaviors of Cementitious Composites with Supplementary Materials</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../neef_mech.2024.CFRfEB3CP/">Continuous Fiber-Reinforcement for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/huseien_fahim_ghasan"><b>Huseien</b> Ghasan</a>, <a href="../../../author/tan_qin_shea"><b>Tan</b> Shea</a>, <a href="../../../author/saleh_taha_ali"><b>Saleh</b> Ali</a>, <a href="../../../author/lim_hasanah-abdul-shukor_nor"><b>Lim</b> Nor</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huse_tan_sale_lim.2024.TPaMPoTDPCEDMP/">Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions:<br/>A Review and Bibliometric Analysis</a></li>
@@ -82,4 +61,35 @@ tags:
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../ibra_jaji_zijl_baba.2023.HPo3PLCCCC/">Hardened Properties of 3D Printed Limestone-Calcined-Clay-Cement Concrete</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{rei_nere_mech.2022.MDaRBoSCBMitCo3P,
+      author            = "Silvia Reißig and Venkatesh Naidu Nerella and Viktor Mechtcherine",
+      title             = "Material-Design and Rheological Behavior of Sustainable Cement-Based Materials in the Context of 3D Printing",
+      doi               = "10.1007/978-3-031-06116-5_65",
+      year              = "2022",
+      volume            = "37",
+      pages             = "439--445",
+      booktitle         = "Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022",
+      editor            = "Richard A. Buswell and Ana Blanco and Sergio Cavalaro and Peter Kinnell",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Reißig, V. N. Nerella and V. Mechtcherine, “Material-Design and Rheological Behavior of Sustainable Cement-Based Materials in the Context of 3D Printing”, in <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>,  2022, vol. 37, pp. 439–445. doi: 10.1007/978-3-031-06116-5_65.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Reißig, Silvia, Venkatesh Naidu Nerella, and Viktor Mechtcherine. “Material-Design and Rheological Behavior of Sustainable Cement-Based Materials in the Context of 3D Printing”. In <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>, edited by Richard A. Buswell, Ana Blanco, Sergio Cavalaro, and Peter Kinnell, 37:439–45, 2022. https://doi.org/10.1007/978-3-031-06116-5_65.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

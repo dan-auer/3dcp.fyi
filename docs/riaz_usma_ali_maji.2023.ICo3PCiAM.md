@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Raja Riaz, Muhammad Usman, Ammar Ali, Usama Majid, Muhammad Faizan, Umair Malik
+    - footer
+title: Riaz Raja, Usman Muhammad, Ali Ammar, Majid Usama, Faizan Muhammad, Malik Umair
 description:
 tags:
  - additive
@@ -16,34 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>:aca-blank: A Detailed Review ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132229" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132229</a>
+#Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing&nbsp;([2023-06](date/2023/06))
+<div class="h1-like">A Detailed Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132229" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132229" target="_blank">10.1016/j.conbuildmat.2023.132229</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9017-6397" title="ORCID: 0000-0002-9017-6397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/riaz_dilawar_raja"><b>Riaz</b>&nbsp;Raja</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2262-6429" title="ORCID: 0000-0003-2262-6429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/usman_muhammad"><b>Usman</b>&nbsp;Muhammad</a></span>, <a href="../../../author/ali_ammar"><b>Ali</b>&nbsp;Ammar</a></span>, <a href="../../../author/majid_usama"><b>Majid</b>&nbsp;Usama</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8573-9570" title="ORCID: 0000-0002-8573-9570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/faizan_muhammad"><b>Faizan</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-8447-1072" title="ORCID: 0009-0009-8447-1072" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/malik_jalil_umair"><b>Malik</b>&nbsp;Umair</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 394, No. 132229
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a> <a href="https://orcid.org/0000-0002-9017-6397" title="ORCID: 0000-0002-9017-6397" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a> <a href="https://orcid.org/0000-0003-2262-6429" title="ORCID: 0000-0003-2262-6429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>
-,     <a href="../../../author/majid_usama"><b>Majid</b> Usama</a>
-,     <a href="../../../author/faizan_muhammad"><b>Faizan</b> Muhammad</a> <a href="https://orcid.org/0000-0002-8573-9570" title="ORCID: 0000-0002-8573-9570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a> <a href="https://orcid.org/0009-0009-8447-1072" title="ORCID: 0009-0009-8447-1072" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 394, No. 132229
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#detail`](keyword/detail)
-    [`#inclusion`](keyword/inclusion)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/detail"><button class="btn">#detail</button></a> <a href="../../keyword/inclusion"><button class="btn">#inclusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inclusive%20Characterization%20of%203D%20Printed%20Concrete%20in%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163497020&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382361372" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132229" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132229?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This review paper aims to provide an inclusive characterization of the use of concrete in additive manufacturing by exploring the various parameters that affect the extrudability, pumpability, buildability, thixotropy, interlayer bonding, and anisotropy of concrete in 3D printing. The effects of using different materials, such as cement, supplementary cementitious materials (SCMS), fiber, superplasticizers, accelerators, aggregate, and nano clay, were examined in the concrete mix design. Results show that using cement, SCMS, and fibers in the concrete mix design can significantly affect the concrete's extrudability, pumpability, and buildability. Evaluating the properties of the concrete mixture, both in its fresh and hardened state, is crucial in determining the optimal mix design for 3D concrete printing. This assessment helps ensure that the resulting structure will have the desired performance. However, the long-term durability and sustainability of 3D-printed concrete structures are still uncertain. The paper concludes with a call for further research and development in the field of concrete in additive manufacturing, with a focus on developing a suitable concrete mix design and investigating the long-term durability and sustainability of 3D-printed concrete structures. Additionally, universally accepted standards for 3D-printed concrete structures should be established and implemented to ensure safety and longevity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "185 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -255,8 +232,11 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "56 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
@@ -311,4 +291,34 @@ tags:
       <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
       <li><a href="../../../author/tong_jiaqi"><b>Tong</b> Jiaqi</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a>, <a href="../../../author/lv_xiuwen"><b>Lv</b> Xiuwen</a>, <a href="../../../author/ning_wei"><b>Ning</b> Wei</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../tong_ding_lv_ning.2023.EoCRCAotMPo3PRC/">Effect of Carbonated Recycled Coarse Aggregates on the Mechanical Properties of 3D Printed Recycled Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{riaz_usma_ali_maji.2023.ICo3PCiAM,
+      author            = "Raja Dilawar Riaz and Muhammad Usman and Ammar Ali and Usama Majid and Muhammad Faizan and Umair Jalil Malik",
+      title             = "Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing: A Detailed Review",
+      doi               = "10.1016/j.conbuildmat.2023.132229",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "394",
+      pages             = "132229",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. D. Riaz, M. Usman, A. Ali, U. Majid, M. Faizan and U. J. Malik, “Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing: A Detailed Review”, <i>Construction and Building Materials</i>, vol. 394, p. 132229, 2023, doi: 10.1016/j.conbuildmat.2023.132229.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Riaz, Raja Dilawar, Muhammad Usman, Ammar Ali, Usama Majid, Muhammad Faizan, and Umair Jalil Malik. “Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing: A Detailed Review”. <i>Construction and Building Materials</i> 394 (2023): 132229. https://doi.org/10.1016/j.conbuildmat.2023.132229.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

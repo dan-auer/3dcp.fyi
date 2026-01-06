@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ticho Ooms, Gieljan Vantyghem, Yaxin Tao, Michiel Bekaert, Geert Schutter, Kim Tittelboom, Wouter Corte
+    - footer
+title: Ooms Ticho, Vantyghem Gieljan, Tao Yaxin, Bekaert Michiel, Schutter Geert, Tittelboom Kim, Corte Wouter
 description:
 tags:
  - bridge
@@ -14,33 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Production of a Topology-Optimized 3D Printed Concrete Bridge ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1007/978-3-031-06116-5_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-06116-5_6</a>
+#The Production of a Topology-Optimized 3D Printed Concrete Bridge ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_6" target="_blank">10.1007/978-3-031-06116-5_6</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5140-6113" title="ORCID: 0000-0001-5140-6113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ooms_ticho"><b>Ooms</b>&nbsp;Ticho</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b>&nbsp;Gieljan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0759-2873" title="ORCID: 0000-0003-0759-2873" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bekaert_michiel"><b>Bekaert</b>&nbsp;Michiel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span><br>
+Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 37-42
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a> <a href="https://orcid.org/0000-0001-5140-6113" title="ORCID: 0000-0001-5140-6113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> <a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a> <a href="https://orcid.org/0000-0003-0759-2873" title="ORCID: 0000-0003-0759-2873" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 37-42
-
-:aca-blank:{ .lg .middle}
-    [`#bridge`](keyword/bridge)
-    [`#concrete`](keyword/concrete)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Production%20of%20a%20Topology-Optimized%203D%20Printed%20Concrete%20Bridge" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133187553&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285163714" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-06116-5_6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-06116-5_6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the last few years, the development of 3D concrete printing (3DCP) technology has flourished exponentially both in academics and the construction industry. Many problems inherent to 3DCP are already being tackled on a material level. However, in the practical realization of large-scale components there are still a lot of questions to be answered. In this study, we discuss the production process of a topology-optimized 3D-printed concrete bridge structure. As the entire process is largely different compared to the manufacturing of traditional concrete structures, the problems, workarounds, and insights gathered from this project are valuable for future constructions using 3DCP. The geometry of the bridge was based on topology optimization results and further developed through the use of parametric modelling. After careful considerations, the bridge geometry was discretized into four segments and printed as integrated formwork. Several measures were taken during the printing process in order to produce the separate sections. The assembly process entailed the handling of the printed components, the placement of reinforcement and prestressing tendons, the production of the end blocks, and the handling and joining of the printed sections. For the latter, also the process of pouring self-compacting concrete in the printed formwork is discussed and more details about the post-tensioning procedure are provided.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tao_rahu_lesa_titt.2022.MaMPo3PCitCotTPPS/">Mechanical and Microstructural Properties of 3D Printable Concrete in the Context of the Twin-Pipe Pumping-Strategy</a></li>
@@ -73,8 +50,9 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vant_ooms_cort.2021.V/">VoxelPrint:<br/>A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
       <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../miri_baaj_pola.2025.3PCB/">3D-Printed Concrete Bridges:<br/>Material, Design, Construction, and Reinforcement</a></li>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhi_chai_teng_akba.2025.ATDo3CPSC/">Automated Toolpath Design of 3D Concrete Printing Structural Components</a></li>
       <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_yimiao"><b>Huang</b> Yimiao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../guan_wang_huan_ma.2025.3PCCSFbPSRPF/">3D Printed Concrete Composite Slabs Fabricated by Pre-Stressed Reinforced Permanent Formwork:<br/>Design, Manufacturing, and Performance</a></li>
@@ -95,4 +73,35 @@ tags:
       <li><a href="../../../author/pons-valladares_oriol"><b>Pons-Valladares</b> Oriol</a>, <a href="../../../author/casanovas-rubio_mar_maria"><b>Casanovas-Rubio</b> Maria</a>, <a href="../../../author/armengou_jaume"><b>Armengou</b> Jaume</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../pons_casa_arme_fuen.2023.AfSAfFCT/">Approach for Sustainability-Assessment for Footbridge Construction Technologies:<br/>Application to the First World D-Shape 3D Printed Fiber-Reinforced Mortar Footbridge in Madrid</a></li>
       <li><a href="../../../author/kamel_ehsan"><b>Kamel</b> Ehsan</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kame_kaze.2022.BITAaBEMi3PRB/">BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ooms_vant_tao_beka.2022.TPoaTO3PCB,
+      author            = "Ticho Ooms and Gieljan Vantyghem and Yaxin Tao and Michiel Bekaert and Geert de Schutter and Kim van Tittelboom and Wouter de Corte",
+      title             = "The Production of a Topology-Optimized 3D Printed Concrete Bridge",
+      doi               = "10.1007/978-3-031-06116-5_6",
+      year              = "2022",
+      volume            = "37",
+      pages             = "37--42",
+      booktitle         = "Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022",
+      editor            = "Richard A. Buswell and Ana Blanco and Sergio Cavalaro and Peter Kinnell",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Ooms, “The Production of a Topology-Optimized 3D Printed Concrete Bridge”, in <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>,  2022, vol. 37, pp. 37–42. doi: 10.1007/978-3-031-06116-5_6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ooms, Ticho, Gieljan Vantyghem, Yaxin Tao, Michiel Bekaert, Geert de Schutter, Kim van Tittelboom, and Wouter de Corte. “The Production of a Topology-Optimized 3D Printed Concrete Bridge”. In <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>, edited by Richard A. Buswell, Ana Blanco, Sergio Cavalaro, and Peter Kinnell, 37:37–42, 2022. https://doi.org/10.1007/978-3-031-06116-5_6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

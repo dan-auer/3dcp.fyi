@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joseph Assaad, Farook Hamzeh, Bilal Hamad
+    - footer
+title: Assaad Joseph, Hamzeh Farook, Hamad Bilal
 description:
 tags:
  - assessment
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2020.e00357) Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack ([2020-05](date/2020/05))
-<a href="https://doi.org/10.1016/j.cscm.2020.e00357" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2020.e00357</a>
+#Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack ([2020-05](date/2020/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2020.e00357) <a href="https://doi.org/10.1016/j.cscm.2020.e00357" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2020.e00357" target="_blank">10.1016/j.cscm.2020.e00357</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2423-451X" title="ORCID: 0000-0002-2423-451X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/assaad_j_joseph"><b>Assaad</b>&nbsp;Joseph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b>&nbsp;Farook</a></span>, <a href="../../../author/hamad_bilal"><b>Hamad</b>&nbsp;Bilal</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 13
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a> <a href="https://orcid.org/0000-0002-2423-451X" title="ORCID: 0000-0002-2423-451X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 13
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#attack`](keyword/attack)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#exposure`](keyword/exposure)
-    [`#frost`](keyword/frost)
-    [`#interface`](keyword/interface)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/attack"><button class="btn">#attack</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/frost"><button class="btn">#frost</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Qualitative%20Assessment%20of%20Interfacial%20Bonding%20in%203D%20Printing%20Concrete%20Exposed%20to%20Frost-Attack" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85084527915&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3029929123" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2020.e00357" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2020.e00357?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D printing technology is a novel construction process to build concrete structures layer-by-layer based on computer digital programs. The main objective of this research program is to develop a testing protocol that replicates the successive placement ofmortar layers and satisfactorily measures the effect of repeated freeze/thaw (F/T) cycles on durability and interfacial bond strengths. Three mortar series made with different binder and mixing water contents are tested; the consistency of mixtures was adjusted to allow proper extrusion using a laboratory 3D printer. Particular emphasis was placed to compare the efficiency of air-entraining agent (AEA) and styrene-butadiene rubber (SBR) latexes to protect mortars against deterioration due to frost attack. The incorporation of SBR was found more efficient than AEA to mitigate the drop in bond strength due to F/Tcycles, given the enhanced flexibility of the polymer-modified mortars that accommodate the deformations and stresses created along the interfaces. The pull-off test results obtained were successfully validated using specimens generated from the laboratory 3D printer.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
@@ -75,8 +53,8 @@ tags:
       <li><a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/nakhoul_charbel"><b>Nakhoul</b> Charbel</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../sakk_assa_hamz_nakh.2019.TaIBSoPMPM/">Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "55 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
@@ -133,4 +111,33 @@ tags:
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_yass_sakk_hamz.2020.AMAfSRo3PC/">A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>Preliminary Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{assa_hamz_hama.2020.QAoIBi3PCEtFA,
+      author            = "Joseph J. Assaad and Farook R. Hamzeh and Bilal Hamad",
+      title             = "Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack",
+      doi               = "10.1016/j.cscm.2020.e00357",
+      year              = "2020",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "13",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. J. Assaad, F. R. Hamzeh and B. Hamad, “Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack”, <i>Case Studies in Construction Materials</i>, vol. 13, 2020, doi: 10.1016/j.cscm.2020.e00357.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Assaad, Joseph J., Farook R. Hamzeh, and Bilal Hamad. “Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack”. <i>Case Studies in Construction Materials</i> 13 (2020). https://doi.org/10.1016/j.cscm.2020.e00357.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

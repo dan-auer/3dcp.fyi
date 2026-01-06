@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Kaszyńska Maria 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../kasz_skib.2025.SDAf3CP/">Sustainable Development Approach for 3D Concrete Printing</a></li>
   <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pultorak_monika"><b>Pułtorak</b> Monika</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../skib_put_kasz_hoff.2022.TEoURPAoMaDPo3PM/">The Effect of Using Recycled PET-Aggregates on Mechanical and Durability Properties of 3D Printed Mortar</a></li>
   <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/jakubowska_patrycja"><b>Jakubowska</b> Patrycja</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../skib_jaku_kasz_sibe.2021.EAMPo3PMwSG/">Early-Age Mechanical Properties of 3D Printed Mortar with Spent Garnet</a></li>

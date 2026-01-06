@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Salmabanu Luhar, Thadshajini Suntharalingam, Satheeskumar Navaratnam, Ismail Luhar, Julian Thamboo, Keerthan Poologanathan, Perampalam Gatheeshgar
+    - footer
+title: Luhar Salmabanu, Suntharalingam Thadshajini, Navaratnam Satheeskumar, Luhar Ismail, Thamboo Julian, Poologanathan Keerthan, Gatheeshgar Perampalam
 description:
 tags:
  - application
@@ -17,36 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/12/24/10485/pdf?version=1608284524) Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete:<br/>:aca-blank: A Review ([2020-12](date/2020/12))
-<a href="https://doi.org/10.3390/su122410485" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su122410485</a>
+#Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete&nbsp;([2020-12](date/2020/12))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/12/24/10485/pdf?version=1608284524) <a href="https://doi.org/10.3390/su122410485" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su122410485" target="_blank">10.3390/su122410485</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1129-2825" title="ORCID: 0000-0002-1129-2825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/luhar_salmabanu"><b>Luhar</b>&nbsp;Salmabanu</a></span>, <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b>&nbsp;Thadshajini</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7772-4531" title="ORCID: 0000-0001-7772-4531" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b>&nbsp;Satheeskumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9032-0483" title="ORCID: 0000-0002-9032-0483" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/luhar_ismail"><b>Luhar</b>&nbsp;Ismail</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0207-8808" title="ORCID: 0000-0003-0207-8808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thamboo_julian"><b>Thamboo</b>&nbsp;Julian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b>&nbsp;Keerthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b>&nbsp;Perampalam</a></span><br>
+Journal Article - Sustainability, Vol. 12, Iss. 24
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/luhar_salmabanu"><b>Luhar</b> Salmabanu</a> <a href="https://orcid.org/0000-0002-1129-2825" title="ORCID: 0000-0002-1129-2825" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>
-,     <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a> <a href="https://orcid.org/0000-0001-7772-4531" title="ORCID: 0000-0001-7772-4531" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/luhar_ismail"><b>Luhar</b> Ismail</a> <a href="https://orcid.org/0000-0002-9032-0483" title="ORCID: 0000-0002-9032-0483" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/thamboo_julian"><b>Thamboo</b> Julian</a> <a href="https://orcid.org/0000-0003-0207-8808" title="ORCID: 0000-0003-0207-8808" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> <a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a> <a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 12, Iss. 24, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#bio`](keyword/bio)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#natural`](keyword/natural)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20and%20Renewable%20Bio-Based%20Natural%20Fibers%20and%20Its%20Application%20for%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85098187385&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3113215898" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su122410485" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su122410485?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The concept of sustainability and the utilization of renewable bio-based sources have gained prominent attention in the construction industry. Material selection in construction plays a significant role in design and manufacturing process of sustainable building construction. Several studies are being carried out worldwide to investigate the potential use of natural fibres as reinforcement in concrete with its noticeable environmental benefits and mechanical properties. 3D printed concrete (3DPC) is another emerging technology, which has been under-developed for the past decade. The integration of reinforcement is one of the major challenges in the application of this new technology in real-life scenario. Presently, artificial fibres have been used as a reinforcement material for this special printable concrete mixture. However, natural fibre composites have received significant attention by many 3DPC constructions due to their lightweight energy conservation and environmentally friendly nature. These benchmarking characteristics unlock the wider area of natural fibres into the composite sector and challenge the substitution of artificial fibres. Hence, this paper presents a comprehensive review on the current practice and advantages of natural fibres in conventional concrete construction. Subsequently, with a view to the future efficient 3DPC construction, the potentials of natural fibres such as eco-friendly, higher impact, thermal, structural, and fire performance over the artificial fibres were highlighted, and their applicability in 3DPC as composites was recommended.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -104,8 +79,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yu_leun.2019.Io3PDoMPoSHCCS/">Impact of 3D Printing-Direction on Mechanical Performance of Strain-Hardening Cementitious Composite (SHCC)</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "40 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
@@ -147,4 +122,34 @@ tags:
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{luha_sunt_nava_luha.2020.SaRBBNFaIAf3PC,
+      author            = "Salmabanu Luhar and Thadshajini Suntharalingam and Satheeskumar Navaratnam and Ismail Luhar and Julian Thamboo and Keerthan Poologanathan and Perampalam Gatheeshgar",
+      title             = "Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete: A Review",
+      doi               = "10.3390/su122410485",
+      year              = "2020",
+      journal           = "Sustainability",
+      volume            = "12",
+      number            = "24",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Luhar, “Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete: A Review”, <i>Sustainability</i>, vol. 12, no. 24, 2020, doi: 10.3390/su122410485.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Luhar, Salmabanu, Thadshajini Suntharalingam, Satheeskumar Navaratnam, Ismail Luhar, Julian Thamboo, Keerthan Poologanathan, and Perampalam Gatheeshgar. “Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete: A Review”. <i>Sustainability</i> 12, no. 24 (2020). https://doi.org/10.3390/su122410485.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

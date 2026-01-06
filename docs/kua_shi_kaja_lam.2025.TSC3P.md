@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harn Kua, A. Shi, V. Kajandran, T. Lam, Abhimanyu Goel, D. Wong, P. Lim, L. Kasee, X. Ong, G. Hussein, A. Lin
+    - footer
+title: Kua Harn, Shi A., Kajandran V., Lam T., Goel Abhimanyu, Wong D., Lim P., Kasee L., Ong X., Hussein G., Lin A.
 description:
 tags:
  - cement
@@ -17,40 +18,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Toward Sustainable Construction 3D Printing:<br/>:aca-blank: Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.clet.2025.101074" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.clet.2025.101074</a>
+#Toward Sustainable Construction 3D Printing&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.clet.2025.101074" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clet.2025.101074" target="_blank">10.1016/j.clet.2025.101074</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6263-5974" title="ORCID: 0000-0001-6263-5974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kua_wei_harn"><b>Kua</b>&nbsp;Harn</a></span>, <a href="../../../author/shi_a"><b>Shi</b>&nbsp;A.</a></span>, <a href="../../../author/kajandran_v"><b>Kajandran</b>&nbsp;V.</a></span>, <a href="../../../author/lam_w-m_t"><b>Lam</b>&nbsp;T.</a></span>, <a href="../../../author/goel_abhimanyu"><b>Goel</b>&nbsp;Abhimanyu</a></span>, <a href="../../../author/wong_h-a_d"><b>Wong</b>&nbsp;D.</a></span>, <a href="../../../author/lim_k_p"><b>Lim</b>&nbsp;P.</a></span>, <a href="../../../author/kasee_h_l"><b>Kasee</b>&nbsp;L.</a></span>, <a href="../../../author/ong_w_x"><b>Ong</b>&nbsp;X.</a></span>, <a href="../../../author/hussein_f_g"><b>Hussein</b>&nbsp;G.</a></span>, <a href="../../../author/lin_a"><b>Lin</b>&nbsp;A.</a></span><br>
+Journal Article - Cleaner Engineering and Technology, No. 101074
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a> <a href="https://orcid.org/0000-0001-6263-5974" title="ORCID: 0000-0001-6263-5974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_a"><b>Shi</b> A.</a>
-,     <a href="../../../author/kajandran_v"><b>Kajandran</b> V.</a>
-,     <a href="../../../author/lam_w-m_t"><b>Lam</b> T.</a>
-,     <a href="../../../author/goel_abhimanyu"><b>Goel</b> Abhimanyu</a>
-,     <a href="../../../author/wong_h-a_d"><b>Wong</b> D.</a>
-,     <a href="../../../author/lim_k_p"><b>Lim</b> P.</a>
-,     <a href="../../../author/kasee_h_l"><b>Kasee</b> L.</a>
-,     <a href="../../../author/ong_w_x"><b>Ong</b> X.</a>
-,     <a href="../../../author/hussein_f_g"><b>Hussein</b> G.</a>
-,     <a href="../../../author/lin_a"><b>Lin</b> A.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cleaner Engineering and Technology, No. 101074
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#construction`](keyword/construction)
-    [`#limestone`](keyword/limestone)
-    [`#marine`](keyword/marine)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#replacement`](keyword/replacement)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Toward%20Sustainable%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017632252&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7081933791" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.clet.2025.101074" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.clet.2025.101074?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the effects of partial substitution of Ordinary Portland Cement with different proportions of non-calcined marine clay and different grades (by particle size) of Ground Limestone to formulate 3D-printable concrete. Non-calcined clay was used because of its lower energy requirement than calcined clay. The rheology of the mixes was evaluated by extrudability, tack, Large Amplitude Oscillatory shear, and Logarithmic Stress Ramp tests. Their mechanical performance was evaluated with respect to compressive, splitting, shear, and three-point bending (flexural) strengths. Results show that adding only about 1% of oven-dried (low temperature) marine clay and 19% of limestone improve cohesion and build-up of static yield strength while ensuring extrudability. This study hopes to pave the way for more studies on using non-calcined marine clay as a more sustainable option for construction 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
       <li><a href="../../../author/hua_tianran"><b>Hua</b> Tianran</a>, <a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a>, <a href="../../../author/poh_jun-desmond_wen"><b>Poh</b> Wen</a>, <a href="../../../author/wong_hui-alwin_de"><b>Wong</b> De</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../hua_lin_poh_wong.2023.3PCSK/">3D Printed Concrete Shear Keys:<br/>Design and Experimental Study</a></li>
@@ -92,7 +63,36 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kua_shi_kaja_lam.2025.TSC3P,
+      author            = "Harn Wei Kua and A. Shi and V. Kajandran and T. W. M. Lam and Abhimanyu Goel and D. H. A. Wong and P. K. Lim and L. H. Kasee and X. W. Ong and G. F. Hussein and A. Lin",
+      title             = "Toward Sustainable Construction 3D Printing: Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement",
+      doi               = "10.1016/j.clet.2025.101074",
+      year              = "2025",
+      journal           = "Cleaner Engineering and Technology",
+      pages             = "101074",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. W. Kua, “Toward Sustainable Construction 3D Printing: Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement”, <i>Cleaner Engineering and Technology</i>, p. 101074, 2025, doi: 10.1016/j.clet.2025.101074.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kua, Harn Wei, A. Shi, V. Kajandran, T. W. M. Lam, Abhimanyu Goel, D. H. A. Wong, P. K. Lim, et al.. “Toward Sustainable Construction 3D Printing: Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement”. <i>Cleaner Engineering and Technology</i>, 2025, 101074. https://doi.org/10.1016/j.clet.2025.101074.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

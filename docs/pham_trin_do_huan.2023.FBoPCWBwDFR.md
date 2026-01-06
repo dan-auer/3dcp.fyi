@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Thi Pham, Duy Trinh, Trong Do, Jie Huang
+    - footer
+title: Pham Thi, Trinh Duy, Do Trong, Huang Jie
 description:
 tags:
  - beam
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://jresm.org/archive/resm2023.19me0925rs.pdf) Flexural Behavior of Printed Concrete Wide Beams with Dispersed Fibers-Reinforced ([2023-12](date/2023/12))
-<a href="https://doi.org/10.17515/resm2023.19me0925rs" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.17515/resm2023.19me0925rs</a>
+#Flexural Behavior of Printed Concrete Wide Beams with Dispersed Fibers-Reinforced ([2023-12](date/2023/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://jresm.org/archive/resm2023.19me0925rs.pdf) <a href="https://doi.org/10.17515/resm2023.19me0925rs" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.17515/resm2023.19me0925rs" target="_blank">10.17515/resm2023.19me0925rs</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7081-0285" title="ORCID: 0000-0001-7081-0285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pham_loan_thi"><b>Pham</b>&nbsp;Thi</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-7575-1265" title="ORCID: 0009-0006-7575-1265" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/trinh_thanh_duy"><b>Trinh</b>&nbsp;Duy</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-5148-7866" title="ORCID: 0009-0007-5148-7866" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/do_quang_trong"><b>Do</b>&nbsp;Trong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8377-214X" title="ORCID: 0000-0002-8377-214X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_yi_jie"><b>Huang</b>&nbsp;Jie</a></span><br>
+Journal Article - Research on Engineering Structures and Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a> <a href="https://orcid.org/0000-0001-7081-0285" title="ORCID: 0000-0001-7081-0285" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/trinh_thanh_duy"><b>Trinh</b> Duy</a> <a href="https://orcid.org/0009-0006-7575-1265" title="ORCID: 0009-0006-7575-1265" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/do_quang_trong"><b>Do</b> Trong</a> <a href="https://orcid.org/0009-0007-5148-7866" title="ORCID: 0009-0007-5148-7866" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> <a href="https://orcid.org/0000-0002-8377-214X" title="ORCID: 0000-0002-8377-214X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Research on Engineering Structures and Materials, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#width`](keyword/width)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Behavior%20of%20Printed%20Concrete%20Wide%20Beams%20with%20Dispersed%20Fibers-Reinforced" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197309558&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390120260" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.17515/resm2023.19me0925rs" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.17515/resm2023.19me0925rs?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Thanks to the highlighted advantages of the construction method, including digitalization and automation, sustainable materials, and environmental protection, 3D concrete printing technology has been a hot topic for a few decades. This construction method was initially used in small and non-structural applications and is now being adopted for large-scale structures. This transition requires a lot of research on the structural behavior of structures. Therefore, the study focuses on the behavior of wide beams, which is the primary element in the structure system. Nine wide beams with different glass/steel fiber amounts were printed, and 3-point loading tests were conducted. The failure mode, flexural strength, deflection, and ductility were reported in this study. In this study, the girder web was designed in the style of truss beams, and glass/steel fibers were used. The fibers, including glass and steel fiber, will enhance the beams' flexural strength and ductility. The results showed that (1) The adhesion force between the printed layers ensures the overall working of the wide beams; (2) The failure patterns of glass fiber beams were brittle; glass fibers show insignificant improvement in compressive strength; the flexural capacity was significantly enhanced, and the optimal steel fiber amount is 1.0%. (3) The failure patterns of steel fiber beams were ductile; steel fibers showed light improvement in compressive strength. The steel fiber significantly impacted the flexural strength. The optimum amount of steel fibers was determined to be ranged from 1.0% to 1.5%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../ding_xiao_zou_yu.2021.FPo3PFRCwRS/">Flexural Properties of 3D Printed Fiber-Reinforced Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
@@ -90,7 +68,35 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pham_trin_do_huan.2023.FBoPCWBwDFR,
+      author            = "Thi Loan Pham and Duy Thanh Trinh and Trong Quang Do and Jie Yi Huang",
+      title             = "Flexural Behavior of Printed Concrete Wide Beams with Dispersed Fibers-Reinforced",
+      doi               = "10.17515/resm2023.19me0925rs",
+      year              = "2023",
+      journal           = "Research on Engineering Structures and Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. L. Pham, D. T. Trinh, T. Q. Do and J. Y. Huang, “Flexural Behavior of Printed Concrete Wide Beams with Dispersed Fibers-Reinforced”, <i>Research on Engineering Structures and Materials</i>, 2023, doi: 10.17515/resm2023.19me0925rs.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pham, Thi Loan, Duy Thanh Trinh, Trong Quang Do, and Jie Yi Huang. “Flexural Behavior of Printed Concrete Wide Beams with Dispersed Fibers-Reinforced”. <i>Research on Engineering Structures and Materials</i>, 2023. https://doi.org/10.17515/resm2023.19me0925rs.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

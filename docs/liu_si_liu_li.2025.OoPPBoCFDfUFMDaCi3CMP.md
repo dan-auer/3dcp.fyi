@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhixin Liu, Liang Si, Yebao Liu, Mingyang Li, Teck Wong
+    - footer
+title: Liu Zhixin, Si Liang, Liu Yebao, Li Mingyang, Wong Teck
 description:
 tags:
  - base
@@ -22,39 +23,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2073-4352/15/8/725/pdf?version=1755516894) Optimization of Printing Parameters Based on Computational Fluid Dynamics for Uniform Filament Mass Distribution at Corners in 3D Cementitious Material Printing ([2025-08](date/2025/08))
-<a href="https://doi.org/10.3390/cryst15080725" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/cryst15080725</a>
+#Optimization of Printing Parameters Based on Computational Fluid Dynamics for Uniform Filament Mass Distribution at Corners in 3D Cementitious Material Printing ([2025-08](date/2025/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2073-4352/15/8/725/pdf?version=1755516894) <a href="https://doi.org/10.3390/cryst15080725" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/cryst15080725" target="_blank">10.3390/cryst15080725</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9868-6116" title="ORCID: 0000-0001-9868-6116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhixin"><b>Liu</b>&nbsp;Zhixin</a></span>, <a href="../../../author/si_liang"><b>Si</b>&nbsp;Liang</a></span>, <a href="../../../author/liu_yebao"><b>Liu</b>&nbsp;Yebao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span><br>
+Journal Article - Crystals, Vol. 15, Iss. 8, No. 725
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> <a href="https://orcid.org/0000-0001-9868-6116" title="ORCID: 0000-0001-9868-6116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/si_liang"><b>Si</b> Liang</a>
-,     <a href="../../../author/liu_yebao"><b>Liu</b> Yebao</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Crystals, Vol. 15, Iss. 8, No. 725
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#computer`](keyword/computer)
-    [`#corner`](keyword/corner)
-    [`#distribution`](keyword/distribution)
-    [`#dynamic`](keyword/dynamic)
-    [`#filament`](keyword/filament)
-    [`#fluid`](keyword/fluid)
-    [`#mass`](keyword/mass)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#uniform`](keyword/uniform)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/corner"><button class="btn">#corner</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/mass"><button class="btn">#mass</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/uniform"><button class="btn">#uniform</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Printing%20Parameters%20Based%20on%20Computational%20Fluid%20Dynamics%20for%20Uniform%20Filament%20Mass%20Distribution%20at%20Corners%20in%203D%20Cementitious%20Material%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014498744&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413301517" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/cryst15080725" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/cryst15080725?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional cementitious material printing (3DCMP) enables structures with complex geometry to be fabricated. Printed filament quality is significantly affected by the mass distribution at its corners. Although fruitful results have been obtained, a significant gap exists in systematically investigating the impact of comprehensive parameters on this mass distribution. Therefore, the cross-section ratio Φ (Φ = So/Su) of the filament is proposed as a measurement to evaluate the mass distribution at corners. Then, the impacts of printing process parameters, including the tool path radius R, nozzle aspect ratio φ, and relative nozzle travel speed ζ, on the filament mass distribution are investigated using computational fluid dynamics (CFD). The flow mechanism is elaborated using CFD for cementitious material printing at corners. It was found that the material flow mechanism caused by the combined effects of the printing process parameters affects the filament mass distribution significantly. Some material spills out from the overfilled zone to the underfilled zone during the deposition process. Additionally, printing process windows were identified to ensure acceptable printing quality using a support vector machine (SVM). A new printing window is identified using transfer learning, which can save data resources compared to the SVM method. Finally, the experimental results show the feasibility and effectiveness of the proposed methods in printing process window determination.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../comm_serd_pede_span.2019.MPaNSoMDaCiEAM/">Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing</a></li>
@@ -106,7 +77,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_si_liu_li.2025.OoPPBoCFDfUFMDaCi3CMP,
+      author            = "Zhixin Liu and Liang Si and Yebao Liu and Mingyang Li and Teck Neng Wong",
+      title             = "Optimization of Printing Parameters Based on Computational Fluid Dynamics for Uniform Filament Mass Distribution at Corners in 3D Cementitious Material Printing",
+      doi               = "10.3390/cryst15080725",
+      year              = "2025",
+      journal           = "Crystals",
+      volume            = "15",
+      number            = "8",
+      pages             = "725",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Liu, L. Si, Y. Liu, M. Li and T. N. Wong, “Optimization of Printing Parameters Based on Computational Fluid Dynamics for Uniform Filament Mass Distribution at Corners in 3D Cementitious Material Printing”, <i>Crystals</i>, vol. 15, no. 8, p. 725, 2025, doi: 10.3390/cryst15080725.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Zhixin, Liang Si, Yebao Liu, Mingyang Li, and Teck Neng Wong. “Optimization of Printing Parameters Based on Computational Fluid Dynamics for Uniform Filament Mass Distribution at Corners in 3D Cementitious Material Printing”. <i>Crystals</i> 15, no. 8 (2025): 725. https://doi.org/10.3390/cryst15080725.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhuoyue Xu, Dawang Zhang, Hui Li, Haoyu Jin, Xieyinzi Cai, Zhixuan Tian
+    - footer
+title: Xu Zhuoyue, Zhang Dawang, Li Hui, Jin Haoyu, Cai Xieyinzi, Tian Zhixuan
 description:
 tags:
  - base
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mix-Design and 3D Printing Correlation-Performance of PCC-Based 3DPM ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.compstruct.2023.117229" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compstruct.2023.117229</a>
+#Mix-Design and 3D Printing Correlation-Performance of PCC-Based 3DPM ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compstruct.2023.117229" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2023.117229" target="_blank">10.1016/j.compstruct.2023.117229</a>
 
--------------------------
+<a href="../../../author/xu_zhuoyue"><b>Xu</b>&nbsp;Zhuoyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_dawang"><b>Zhang</b>&nbsp;Dawang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span>, <a href="../../../author/jin_haoyu"><b>Jin</b>&nbsp;Haoyu</a></span>, <a href="../../../author/cai_xieyinzi"><b>Cai</b>&nbsp;Xieyinzi</a></span>, <a href="../../../author/tian_zhixuan"><b>Tian</b>&nbsp;Zhixuan</a></span><br>
+Journal Article - Composite Structures, No. 117229
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>
-,     <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a> <a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_hui"><b>Li</b> Hui</a> <a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jin_haoyu"><b>Jin</b> Haoyu</a>
-,     <a href="../../../author/cai_xieyinzi"><b>Cai</b> Xieyinzi</a>
-,     <a href="../../../author/tian_zhixuan"><b>Tian</b> Zhixuan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composite Structures, No. 117229
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#correlation`](keyword/correlation)
-    [`#design`](keyword/design)
-    [`#mixing`](keyword/mixing)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mix-Design%20and%203D%20Printing%20Correlation-Performance%20of%20PCC-Based%203DPM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162862839&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4379929713" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compstruct.2023.117229" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compstruct.2023.117229?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the experimental results concerning the mix design and 3D printing correlation performance of a completely new printing material, Portland cement clinker (Pcc). According to the results, the cement-sand ratio is 0.6–1.0, the water-cement ratio is 0.34–0.4, and the setting time of Pcc paste is approximately 5 min. When it increases, the rheology (G', G″, |η*|, torque) of Pcc paste also increases. Furthermore, when the cement-sand ratio and water-cement ratio increase, the maximum flexural strength and compressive strength of the mortar at 28 days are 7.93 MPa and 44.76 MPa, respectively. The ultimate swelling degree of the mortar increases from 18 cm to 22 cm, the final slump increases from 4.0 cm to 4.5 cm. When the ratio is D-2, the extrusion length is 70 mm, and the maximum number of printing layers is 17 layers. According to the SEM image analysis of the sample, the hydration products primarily include hydrated calcium silicate, calcium hydroxide, and others, which is supported by the XRD test results. In addition, the reaction model of Pcc is proposed. The results of Pcc hydration reaction analysis indicate that adding a water-lowering agent can slow the cement hydration reaction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
@@ -87,9 +65,38 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../shah_li.2025.IoCIotMPo3PCS/">Impact of Concrete Interfaces on the Mechanical Performance of 3D Printed Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_zhan_li_jin.2023.MDa3PCPoPB3,
+      author            = "Zhuoyue Xu and Dawang Zhang and Hui Li and Haoyu Jin and Xieyinzi Cai and Zhixuan Tian",
+      title             = "Mix-Design and 3D Printing Correlation-Performance of PCC-Based 3DPM",
+      doi               = "10.1016/j.compstruct.2023.117229",
+      year              = "2023",
+      journal           = "Composite Structures",
+      pages             = "117229",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Xu, D. Zhang, H. Li, H. Jin, X. Cai and Z. Tian, “Mix-Design and 3D Printing Correlation-Performance of PCC-Based 3DPM”, <i>Composite Structures</i>, p. 117229, 2023, doi: 10.1016/j.compstruct.2023.117229.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Zhuoyue, Dawang Zhang, Hui Li, Haoyu Jin, Xieyinzi Cai, and Zhixuan Tian. “Mix-Design and 3D Printing Correlation-Performance of PCC-Based 3DPM”. <i>Composite Structures</i>, 2023, 117229. https://doi.org/10.1016/j.compstruct.2023.117229.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

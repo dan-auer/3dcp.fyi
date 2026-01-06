@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Siti Nur Natasha Abdul Jalil, Ahmad Rizal Alias, Aizat Alias
+    - footer
+title: Jalil Siti Nur Natasha Abdul, Rizal Alias Ahmad, Alias Aizat
 description:
 tags:
  - 3dcp
@@ -17,32 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://iopscience.iop.org/article/10.1088/1755-1315/1509/1/012008/pdf) Challenges and Strategies in Implementing 3D Concrete Printing (3DCP) Technology in Malaysia:<br/>:aca-blank: Materials and Design Codes ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1088/1755-1315/1509/1/012008" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1755-1315/1509/1/012008</a>
+#Challenges and Strategies in Implementing 3D Concrete Printing (3DCP) Technology in Malaysia&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Materials and Design Codes</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1755-1315/1509/1/012008/pdf) <a href="https://doi.org/10.1088/1755-1315/1509/1/012008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/1509/1/012008" target="_blank">10.1088/1755-1315/1509/1/012008</a>
 
--------------------------
+<a href="../../../author/jalil_siti-nur-natasha-abdul"><b>Jalil</b>&nbsp;Siti Nur Natasha Abdul</a></span>, <a href="../../../author/rizal-alias_ahmad"><b>Rizal Alias</b>&nbsp;Ahmad</a></span>, <a href="../../../author/alias_aizat"><b>Alias</b>&nbsp;Aizat</a></span><br>
+Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 1509, Iss. 1, No. 012008
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jalil_siti-nur-natasha-abdul"><b>Jalil</b> Siti Nur Natasha Abdul</a>
-,     <a href="../../../author/rizal-alias_ahmad"><b>Rizal Alias</b> Ahmad</a>
-,     <a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 1509, Iss. 1, No. 012008
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#implementation`](keyword/implementation)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#strategy`](keyword/strategy)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Challenges%20and%20Strategies%20in%20Implementing%203D%20Concrete%20Printing%20%283DCP%29%20Technology%20in%20Malaysia" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011090554&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411284608" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1755-1315/1509/1/012008" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1755-1315/1509/1/012008?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid evolution of Malaysia's construction industry necessitates innovative solutions, and 3D Concrete Printing (3DCP) technology emerges as a transformative prospect. However, the successful integration of 3DCP faces numerous challenges, especially in the domains of materials and design codes. Thus, this research objective is to identify the challenges in implementing 3DCP technology in Malaysia construction industry from the perspective of materials and design codes and propose strategies for overcoming the identified challenges. The data collection involved individual interviews with expert industry practitioners involved with 3CDP technology in Malaysia. Then, the data is analyzed using the thematic analysis approach. The findings show that challenges identified were classified into three themes which are Input, Process and Output where some major challenges identified are high cost, lack of design standard and codes, unprepared industry and structural integrity. Meanwhile, internal and external strategies are proposed to overcome these challenges such as research and development, demonstration and promotions, industry engagement and expansion, collaboration and partnerships. The presented strategies aim to guide stakeholders in overcoming current challenges, facilitating a smoother integration of 3DCP technology and encouraging long-term advancements in the field.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chung_jihoon"><b>Chung</b> Jihoon</a>, <a href="../../../author/lee_ghang"><b>Lee</b> Ghang</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../chun_lee_kim.2021.FfTSo3CP/">Framework for Technical Specifications of 3D Concrete Printers</a></li>
       <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../du_zhou_lai_wu.2023.EoPSoDaMPo3PC/">Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
@@ -104,7 +83,38 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jali_riza_alia.2025.CaSiI3CP3TiM,
+      author            = "Siti Nur Natasha Abdul Jalil and Ahmad Rizal Alias and Aizat Alias",
+      title             = "Challenges and Strategies in Implementing 3D Concrete Printing (3DCP) Technology in Malaysia: Materials and Design Codes",
+      doi               = "10.1088/1755-1315/1509/1/012008",
+      year              = "2025",
+      journal           = "IOP Conference Series: Earth and Environmental Science",
+      volume            = "1509",
+      number            = "1",
+      pages             = "012008",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. N. N. A. Jalil, A. R. Alias and A. Alias, “Challenges and Strategies in Implementing 3D Concrete Printing (3DCP) Technology in Malaysia: Materials and Design Codes”, <i>IOP Conference Series: Earth and Environmental Science</i>, vol. 1509, no. 1, p. 012008, 2025, doi: 10.1088/1755-1315/1509/1/012008.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jalil, Siti Nur Natasha Abdul, Ahmad Rizal Alias, and Aizat Alias. “Challenges and Strategies in Implementing 3D Concrete Printing (3DCP) Technology in Malaysia: Materials and Design Codes”. <i>IOP Conference Series: Earth and Environmental Science</i> 1509, no. 1 (2025): 012008. https://doi.org/10.1088/1755-1315/1509/1/012008.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

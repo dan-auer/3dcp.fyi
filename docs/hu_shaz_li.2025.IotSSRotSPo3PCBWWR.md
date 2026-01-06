@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangcheng Hu, Qamar Shazad, Fangyuan Li
+    - footer
+title: Hu Xiangcheng, Shazad Qamar, Li Fangyuan
 description:
 tags:
  - beam
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of the Shear Span Ratio on the Shear Performance of 3D-Printed Concrete Beams Without Web Reinforcement ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.istruc.2025.109023" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.109023</a>
+#Influence of the Shear Span Ratio on the Shear Performance of 3D-Printed Concrete Beams Without Web Reinforcement ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.109023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109023" target="_blank">10.1016/j.istruc.2025.109023</a>
 
--------------------------
+<a href="../../../author/hu_xiangcheng"><b>Hu</b>&nbsp;Xiangcheng</a></span>, <a href="../../../author/shazad_qamar"><b>Shazad</b>&nbsp;Qamar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2815-3602" title="ORCID: 0000-0002-2815-3602" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_fangyuan"><b>Li</b>&nbsp;Fangyuan</a></span><br>
+Journal Article - Structures, Vol. 76, No. 109023
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hu_xiangcheng"><b>Hu</b> Xiangcheng</a>
-,     <a href="../../../author/shazad_qamar"><b>Shazad</b> Qamar</a>
-,     <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="https://orcid.org/0000-0002-2815-3602" title="ORCID: 0000-0002-2815-3602" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 76, No. 109023
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#influence`](keyword/influence)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#ratio`](keyword/ratio)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shear`](keyword/shear)
-    [`#web`](keyword/web)
-    [`#without`](keyword/without)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/web"><button class="btn">#web</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20the%20Shear%20Span%20Ratio%20on%20the%20Shear%20Performance%20of%203D-Printed%20Concrete%20Beams%20Without%20Web%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003453332&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409787892" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.109023" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.109023?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Owing to the current limitations of 3D concrete printing technology, it is possible to manually add flexural steel bars, but incorporating web reinforcement into 3D printed flexural components is still not feasible. Therefore, quantitative research is needed to evaluate the shear performance of 3D-printed components without web reinforcement. In this study, the shear strength of 3D-printed beams without web reinforcement under shear span ratios of 2.78, 2.22, and 1.67 was experimentally studied and compared with that of cast concrete beams with the same material, size, and shear span ratio. The experimental results revealed that compressionsingle bondshear failure occurred in all three groups of beams without web reinforcement. Under different shear span ratios, the shear strength of the 3D-printed beams decreased by 18.7 %, 12.1 %, and −1.3 % compared with that of the cast beams. On the basis of the experiments and analysis, a simplified calculation method for the shear strength of 3D-printed concrete beams is proposed. The simplified method considers the decrease in shear strength of printed concrete beams as the strength of the concrete materials decreases, and the magnitude of this decrease is related to the stress transfer path. When the shear span ratio increases, the angle between the main stress and the 3D printed concrete layer decreases, and the tensile strength of the concrete is close to the interlayer strength. In contrast, when the shear span ratio decreases, the strength of the printed concrete approaches the strength of the matrix concrete. By using this simplified method, the deviations between the calculated shear strength of the beam and the experimental results were 2.8 %, 0.6 %, and 7.2 %, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -89,8 +66,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_luo_anan_sing.2024.SUoURGiAMRPC/">Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/qu_yao"><b>Qu</b> Yao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_wang_li_qu.2025.IPi3PUHPCCBfSFP/">Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hu_shaz_li.2025.IotSSRotSPo3PCBWWR,
+      author            = "Xiangcheng Hu and Qamar Shazad and Fangyuan Li",
+      title             = "Influence of the Shear Span Ratio on the Shear Performance of 3D-Printed Concrete Beams Without Web Reinforcement",
+      doi               = "10.1016/j.istruc.2025.109023",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "76",
+      pages             = "109023",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Hu, Q. Shazad and F. Li, “Influence of the Shear Span Ratio on the Shear Performance of 3D-Printed Concrete Beams Without Web Reinforcement”, <i>Structures</i>, vol. 76, p. 109023, 2025, doi: 10.1016/j.istruc.2025.109023.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hu, Xiangcheng, Qamar Shazad, and Fangyuan Li. “Influence of the Shear Span Ratio on the Shear Performance of 3D-Printed Concrete Beams Without Web Reinforcement”. <i>Structures</i> 76 (2025): 109023. https://doi.org/10.1016/j.istruc.2025.109023.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

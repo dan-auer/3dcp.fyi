@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amaia Aramburu, Iñigo Calderon-Uriszar-Aldaca, Iñigo Puente
+    - footer
+title: Aramburu Amaia, Calderon-Uriszar-Aldaca Iñigo, Puente Iñigo
 description:
 tags:
  - beam
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e01910) Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.cscm.2023.e01910" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e01910</a>
+#Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments ([2023-02](date/2023/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e01910) <a href="https://doi.org/10.1016/j.cscm.2023.e01910" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01910" target="_blank">10.1016/j.cscm.2023.e01910</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3804-8478" title="ORCID: 0000-0002-3804-8478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aramburu_amaia"><b>Aramburu</b>&nbsp;Amaia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6911-161X" title="ORCID: 0000-0002-6911-161X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b>&nbsp;Iñigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2633-1783" title="ORCID: 0000-0003-2633-1783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/puente_inigo"><b>Puente</b>&nbsp;Iñigo</a></span><br>
+Journal Article - Case Studies in Construction Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a> <a href="https://orcid.org/0000-0002-3804-8478" title="ORCID: 0000-0002-3804-8478" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a> <a href="https://orcid.org/0000-0002-6911-161X" title="ORCID: 0000-0002-6911-161X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="https://orcid.org/0000-0003-2633-1783" title="ORCID: 0000-0003-2633-1783" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#bending`](keyword/bending)
-    [`#concrete`](keyword/concrete)
-    [`#model`](keyword/model)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#rebar`](keyword/rebar)
-    [`#segment`](keyword/segment)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Parametric%20Modelling%20of%203D%20Printed%20Concrete%20Segmented%20Beams%20with%20Rebars%20Under%20Bending%20Moments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147605173&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319072167" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e01910" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e01910?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is gaining relevance as a technology for the manufacture of lightweight components and complex freeform shells. Nevertheless, the insertion of reinforcing elements to withstand tensile stress, the fabrication of large structures, and the insertion of joints between different segments are some targets that are still to be addressed for its full development. A new method which also includes a novel parametric model is presented in this study to simulate the performance of 3DPC reinforced segmented beams subjected to 3-point bending tests. In addition to the geometry of the complete beam, the beam segments, different materials, and the rebar, which were considered in previous works, the material age and the interface between segments and rebar-concrete adhesion are also considered in the new method. The method is complemented by a new set of programmed routines that connect commercial design and finite element calculation programs, requiring only one user interaction with an initial routine to generate the estimated performance of a component in a 3-point flexural test in a given set of cases. Finally, the method was validated through direct comparisons with experimental tests.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../aram_cald_puen.2022.3PEotCSoCS/">3D Printing Effect on the Compressive Strength of Concrete Structures</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../aram_cald_puen.2022.BSoSRPttH3PCL/">Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers</a></li>
       <li><a href="../../../author/bekkering_juliette"><b>Bekkering</b> Juliette</a>, <a href="../../../author/kuit_barbara"><b>Kuit</b> Barbara</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bekk_kuit_biff_ahme.2020.AEotPo3CP/">Architectonic Explorations of the Possibilities of 3D Concrete Printing:<br/>The Historic Building Fragment as Inspiration for New Applications with 3D Concrete Printing in Architecture</a></li>
@@ -79,8 +58,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../vant_stee_cort_boel.2020.DOf3CP/">Design-Optimization for 3D Concrete Printing:<br/>Improving Structural and Thermal Performances</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
@@ -96,4 +75,32 @@ tags:
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a>, <a href="../../../author/castano-alvarez_ruben"><b>Castano-Alvarez</b> Ruben</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../aram_cald_puen_cast.2024.Eo3PotTSSoCS/">Effects of 3D Printing on the Tensile Splitting Strength of Concrete Structures</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../aram_cald_puen.2023.WJPo3PCBSUFL/">Wet Joint Performance of 3D Printed Concrete Beam Segments Under Flexural Loading</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aram_cald_puen.2023.PMo3PCSBwRUBM,
+      author            = "Amaia Aramburu and Iñigo Calderon-Uriszar-Aldaca and Iñigo Puente",
+      title             = "Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments",
+      doi               = "10.1016/j.cscm.2023.e01910",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Aramburu, I. Calderon-Uriszar-Aldaca and I. Puente, “Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments”, <i>Case Studies in Construction Materials</i>, 2023, doi: 10.1016/j.cscm.2023.e01910.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aramburu, Amaia, Iñigo Calderon-Uriszar-Aldaca, and Iñigo Puente. “Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments”. <i>Case Studies in Construction Materials</i>, 2023. https://doi.org/10.1016/j.cscm.2023.e01910.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

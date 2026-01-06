@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junhong Ye, Minxin Yang, Jiangtao Yu, Yecheng Dai, B. Yin, Yiwei Weng
+    - footer
+title: Ye Junhong, Yang Minxin, Yu Jiangtao, Dai Yecheng, Yin B., Weng Yiwei
 description:
 tags:
  - behavior
@@ -19,37 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Size-Effect on Flexural and Fracture Behaviors of 3D Printed Engineered Cementitious Composites:<br/>:aca-blank: Experimental and Numerical Studies ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.engstruct.2023.117062" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.117062</a>
+#Size-Effect on Flexural and Fracture Behaviors of 3D Printed Engineered Cementitious Composites&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">Experimental and Numerical Studies</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2023.117062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.117062" target="_blank">10.1016/j.engstruct.2023.117062</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-0490-0796" title="ORCID: 0009-0006-0490-0796" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_minxin"><b>Yang</b>&nbsp;Minxin</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span>, <a href="../../../author/dai_yecheng"><b>Dai</b>&nbsp;Yecheng</a></span>, <a href="../../../author/yin_b_b"><b>Yin</b>&nbsp;B.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
+Journal Article - Engineering Structures, Vol. 298, No. 117062
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a> <a href="https://orcid.org/0009-0006-0490-0796" title="ORCID: 0009-0006-0490-0796" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>
-,     <a href="../../../author/dai_yecheng"><b>Dai</b> Yecheng</a>
-,     <a href="../../../author/yin_b_b"><b>Yin</b> B.</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 298, No. 117062
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#engineered`](keyword/engineered)
-    [`#experiment`](keyword/experiment)
-    [`#flexural`](keyword/flexural)
-    [`#fracture`](keyword/fracture)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#size`](keyword/size)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Size-Effect%20on%20Flexural%20and%20Fracture%20Behaviors%20of%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174738556&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387889264" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.117062" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.117062?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of major problems in 3D concrete printing (3DCP) is the integration of steel reinforcement. Engineered cementitious composites (ECC) with superior tensile properties have the potential to remove steel reinforcement in 3DCP. Interlayer interfaces may affect the size effect and fracture behaviors of printed ECC, which are important for structural design. Nevertheless, the related study is lacking. To fill the research gap, three-point bending test and finite element modeling (FEM) were conducted on printed ECC notched beams with depths from 60 mm to 500 mm. Results reveal that the printed ECC beams exhibit multiple fine cracks and display a branched critical crack. Size effect behavior is found in flexural strength, which decreases from 16.92 MPa to 10.89 MPa with the increase of depth from 60 mm to 500 mm. The fracture toughness ranges from 3.71 MPa·m1/2 to 6.38 MPa·m1/2, comparable to natural timber materials. Parametric analysis reveals that the flexural strength and fracture toughness of FEM model with a depth of 100 mm and bond strength higher than 2.5 MPa are similar to that of mold-cast ECC. The fracture toughness indicates the possibility to construct structural components with ECC in 3DCP, and the findings on size effect can facilitate the structural design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
@@ -94,8 +68,8 @@ tags:
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
@@ -116,4 +90,34 @@ tags:
       <li><a href="../../../author/yan_kang-tai"><b>Yan</b> Kang-Tai</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/bazarov_dilshod"><b>Bazarov</b> Dilshod</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yan_li_ye_baza.2024.ASEo3PLBECC/">Anisotropic Size-Effect of 3D Printed LC3-Based Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/szewczyk_piotr"><b>Szewczyk</b> Piotr</a>, <a href="../../../author/majewska_julia"><b>Majewska</b> Julia</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../skib_szew_maje_sibe.2024.TEoILAoSDi3PBE/">The Effect of Inter-Layer Adhesion on Stress-Distribution in 3D Printed Beam Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ye_yang_yu_dai.2024.SEoFaFBo3PECC,
+      author            = "Junhong Ye and Minxin Yang and Jiangtao Yu and Yecheng Dai and B. B. Yin and Yiwei Weng",
+      title             = "Size-Effect on Flexural and Fracture Behaviors of 3D Printed Engineered Cementitious Composites: Experimental and Numerical Studies",
+      doi               = "10.1016/j.engstruct.2023.117062",
+      year              = "2024",
+      journal           = "Engineering Structures",
+      volume            = "298",
+      pages             = "117062",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Ye, M. Yang, J. Yu, Y. Dai, B. B. Yin and Y. Weng, “Size-Effect on Flexural and Fracture Behaviors of 3D Printed Engineered Cementitious Composites: Experimental and Numerical Studies”, <i>Engineering Structures</i>, vol. 298, p. 117062, 2024, doi: 10.1016/j.engstruct.2023.117062.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ye, Junhong, Minxin Yang, Jiangtao Yu, Yecheng Dai, B. B. Yin, and Yiwei Weng. “Size-Effect on Flexural and Fracture Behaviors of 3D Printed Engineered Cementitious Composites: Experimental and Numerical Studies”. <i>Engineering Structures</i> 298 (2024): 117062. https://doi.org/10.1016/j.engstruct.2023.117062.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

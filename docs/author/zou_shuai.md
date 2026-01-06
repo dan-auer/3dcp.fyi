@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zou Shuai 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../nasr_duan_sing_yang.2024.EMPo3PCCUHRPaPF/">Enhancing Mechanical Properties of 3D Printed Cementitious Composites Utilizing Hybrid Recycled PP and PET-Fibers</a></li>
   <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../hou_duan_ye_zou.2023.MPaPSo3PMwRP/">Mechanical Properties and Pore-Structure of 3D Printed Mortar with Recycled Powder</a></li>
   <li><a href="../../../author/deng_qi"><b>Deng</b> Qi</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xi_yonghui"><b>Xi</b> Yonghui</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../deng_zou_xi_sing.2023.DaCo3PMwWGP/">Development and Characteristic of 3D Printable Mortar with Waste-Glass-Powder</a></li>

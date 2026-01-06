@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anushree Diwan, Shiv Patel, Ankit Pal, Ashutosh Dwivedi, J. Shukla, S. Panthi, Ramakant Agrawal
+    - footer
+title: Diwan Anushree, Patel Shiv, Pal Ankit, Dwivedi Ashutosh, Shukla J., Panthi S., Agrawal Ramakant
 description:
 tags:
  - additive
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Flow Characteristics of Cement Mortar with Varied Silica-Fume for Additive Construction ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1007/978-981-99-2676-3_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-99-2676-3_16</a>
+#Flow Characteristics of Cement Mortar with Varied Silica-Fume for Additive Construction ([2022-10](date/2022/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-2676-3_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-2676-3_16" target="_blank">10.1007/978-981-99-2676-3_16</a>
 
--------------------------
+<a href="../../../author/diwan_anushree"><b>Diwan</b>&nbsp;Anushree</a></span>, <a href="../../../author/patel_singh_shiv"><b>Patel</b>&nbsp;Shiv</a></span>, <a href="../../../author/pal_ankit"><b>Pal</b>&nbsp;Ankit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1159-898X" title="ORCID: 0000-0002-1159-898X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b>&nbsp;Ashutosh</a></span>, <a href="../../../author/shukla_p_j"><b>Shukla</b>&nbsp;J.</a></span>, <a href="../../../author/panthi_k_s"><b>Panthi</b>&nbsp;S.</a></span>, <a href="../../../author/agrawal_ramakant"><b>Agrawal</b>&nbsp;Ramakant</a></span><br>
+Contribution - Proceedings from the International Conference on Recent Advances in Civil Engineering, pp. 191-201
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/diwan_anushree"><b>Diwan</b> Anushree</a>
-,     <a href="../../../author/patel_singh_shiv"><b>Patel</b> Shiv</a>
-,     <a href="../../../author/pal_ankit"><b>Pal</b> Ankit</a>
-,     <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> <a href="https://orcid.org/0000-0002-1159-898X" title="ORCID: 0000-0002-1159-898X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shukla_p_j"><b>Shukla</b> J.</a>
-,     <a href="../../../author/panthi_k_s"><b>Panthi</b> S.</a>
-,     <a href="../../../author/agrawal_ramakant"><b>Agrawal</b> Ramakant</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings from the International Conference on Recent Advances in Civil Engineering, pp. 191-201
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#construction`](keyword/construction)
-    [`#flow`](keyword/flow)
-    [`#fume`](keyword/fume)
-    [`#mortar`](keyword/mortar)
-    [`#silica`](keyword/silica)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flow%20Characteristics%20of%20Cement%20Mortar%20with%20Varied%20Silica-Fume%20for%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174440481&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387259612" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-99-2676-3_16" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-99-2676-3_16?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) technology is a new age construction technique using a novel cementitious mix to construct an object by depositing the material in layers without the presence of any formwork, unlike the conventional construction technique. It is a novel concept in the construction field which reduces the wastage of material, saves precious project time and also reduces the overall construction cost, making it of greater importance from a research point of view. Cement mortar for 3D concrete printing also called additive construction, must possess the optimum flowability, extrudability, open time, and buildability characteristics to pass through the batch mixer hose into the pump hopper and then extrude through the hose, and lastly the printer nozzle to print the structural component in pre-defined computer programmed structure. Characteristics of the cement mortar are influenced by the inclusion of additives in the mix. This paper focuses on the flowability characteristic of the design mix, particularly the effect of variation of silica fume and polycarboxylate superplasticizer in the mix.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/pal_ankit"><b>Pal</b> Ankit</a>, <a href="../../../author/patel_singh_shiv"><b>Patel</b> Shiv</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../dwiv_pal_pate_chou.2022.EoM3PaDMf3CP/">Evaluation of Model 3D Printer and Design Mix for 3D Concrete Printing</a></li>
@@ -85,7 +59,38 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{diwa_pate_pal_dwiv.2024.FCoCMwVSFfAC,
+      author            = "Anushree Diwan and Shiv Singh Patel and Ankit Pal and Ashutosh Dwivedi and J. P. Shukla and S. K. Panthi and Ramakant Agrawal",
+      title             = "Flow Characteristics of Cement Mortar with Varied Silica-Fume for Additive Construction",
+      doi               = "10.1007/978-981-99-2676-3_16",
+      year              = "2024",
+      volume            = "352",
+      pages             = "191--201",
+      booktitle         = "Proceedings from the International Conference on Recent Advances in Civil Engineering: Latest Developments in Civil Engineering",
+      editor            = "Krishna Kant Pathak and Bandara, J. M. S. J. and Ramakant Agrawal",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Diwan, “Flow Characteristics of Cement Mortar with Varied Silica-Fume for Additive Construction”, in <i>Proceedings from the International Conference on Recent Advances in Civil Engineering: Latest Developments in Civil Engineering</i>,  2024, vol. 352, pp. 191–201. doi: 10.1007/978-981-99-2676-3_16.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Diwan, Anushree, Shiv Singh Patel, Ankit Pal, Ashutosh Dwivedi, J. P. Shukla, S. K. Panthi, and Ramakant Agrawal. “Flow Characteristics of Cement Mortar with Varied Silica-Fume for Additive Construction”. In <i>Proceedings from the International Conference on Recent Advances in Civil Engineering: Latest Developments in Civil Engineering</i>, edited by Krishna Kant Pathak, J. M. S. J. Bandara, and Ramakant Agrawal, 352:191–201, 2024. https://doi.org/10.1007/978-981-99-2676-3_16.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcin Hoffmann, Krzysztof Żarkiewicz, Adam Zieliński, Szymon Skibicki, Łukasz Marchewka
+    - footer
+title: Hoffmann Marcin, Żarkiewicz Krzysztof, Zieliński Adam, Skibicki Szymon, Marchewka Łukasz
 description:
 tags:
  - concrete
@@ -11,28 +12,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/10/2545/pdf?version=1621236743) Foundation Piles:<br/>:aca-blank: A New Feature for Concrete 3D Printers ([2021-05](date/2021/05))
-<a href="https://doi.org/10.3390/ma14102545" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14102545</a>
+#Foundation Piles&nbsp;([2021-05](date/2021/05))
+<div class="h1-like">A New Feature for Concrete 3D Printers</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/10/2545/pdf?version=1621236743) <a href="https://doi.org/10.3390/ma14102545" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14102545" target="_blank">10.3390/ma14102545</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-2569" title="ORCID: 0000-0003-0084-2569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zarkiewicz_krzysztof"><b>Żarkiewicz</b>&nbsp;Krzysztof</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7949-1831" title="ORCID: 0000-0001-7949-1831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zielinski_adam"><b>Zieliński</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5946-5270" title="ORCID: 0000-0002-5946-5270" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchewka_lukasz"><b>Marchewka</b>&nbsp;Łukasz</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zarkiewicz_krzysztof"><b>Żarkiewicz</b> Krzysztof</a> <a href="https://orcid.org/0000-0003-0084-2569" title="ORCID: 0000-0003-0084-2569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> <a href="https://orcid.org/0000-0001-7949-1831" title="ORCID: 0000-0001-7949-1831" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marchewka_lukasz"><b>Marchewka</b> Łukasz</a> <a href="https://orcid.org/0000-0002-5946-5270" title="ORCID: 0000-0002-5946-5270" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#foundation`](keyword/foundation)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foundation"><button class="btn">#foundation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Foundation%20Piles" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85106647520&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3163427315" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14102545" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14102545?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Foundation piles that are made by concrete 3D printers constitute a new alternative way of founding buildings constructed using incremental technology. We are currently observing very rapid development of incremental technology for the construction industry. The systems that are used for 3D printing with the application of construction materials make it possible to form permanent formwork for strip foundations, construct load-bearing walls and partition walls, and prefabricate elements, such as stairs, lintels, and ceilings. 3D printing systems do not offer soil reinforcement by making piles. The paper presents the possibility of making concrete foundation piles in laboratory conditions using a concrete 3D printer. The paper shows the tools and procedure for pile pumping. An experiment for measuring pile bearing capacity is described and an example of a pile deployment model under a foundation is described. The results of the tests and analytical calculations have shown that the displacement piles demonstrate less settlement when compared to the analysed shallow foundation. The authors indicate that it is possible to replace the shallow foundation with a series of piles combined with a printed wall without locally widening it. This type of foundation can be used for the foundation of low-rise buildings, such as detached houses. Estimated calculations have shown that the possibility of making foundation piles by a 3D printer will reduce the cost of making foundations by shortening the time of execution of works and reducing the consumption of construction materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
       <li><a href="../../../author/benamara_abdeslam"><b>Benamara</b> Abdeslam</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/kaci_abdelhak"><b>Kaci</b> Abdelhak</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bena_pier_kaci_meli.2020.3PoaCBMiaCFS/">3D Printing of a Cement-Based Mortar in a Complex Fluid Suspension:<br/>Analytical Modeling and Experimental Tests</a></li>
@@ -101,8 +84,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../wang_yang_wang_bai.2025.RDaSPftTO3PCTB/">Reinforcement Design and Structural Performance for the Topology Optimized 3D Printed Concrete Truss Beams</a></li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../kasz_skib.2025.SDAf3CP/">Sustainable Development Approach for 3D Concrete Printing</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/dvorak_richard"><b>Dvořák</b> Richard</a>, <a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a>, <a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../skib_dvor_pazd_topo.2024.AMPo3PMDbSFaCTaAE/">Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission</a></li>
@@ -113,4 +96,34 @@ tags:
       <li><a href="../../../author/cruz_gil"><b>Cruz</b> Gil</a>, <a href="../../../author/dizon_ryan-c_john"><b>Dizon</b> John</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../cruz_dizo_farz_zhou.2023.PAaSo3PCaOG/">Performance, Applications, and Sustainability of 3D Printed Cement and Other Geomaterials</a></li>
       <li><a href="../../../author/waqar_ahsan"><b>Waqar</b> Ahsan</a>, <a href="../../../author/othman_idris"><b>Othman</b> Idris</a>, <a href="../../../author/pomares_carlos_juan"><b>Pomares</b> Juan</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../waqa_othm_poma.2023.Io3PotOPSoRCPUSEM/">Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hoff_zark_ziel_skib.2021.FP,
+      author            = "Marcin Hoffmann and Krzysztof Żarkiewicz and Adam Zieliński and Szymon Skibicki and Łukasz Marchewka",
+      title             = "Foundation Piles: A New Feature for Concrete 3D Printers",
+      doi               = "10.3390/ma14102545",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Hoffmann, K. Żarkiewicz, A. Zieliński, S. Skibicki and Ł. Marchewka, “Foundation Piles: A New Feature for Concrete 3D Printers”, <i>Materials</i>, vol. 14, no. 10, 2021, doi: 10.3390/ma14102545.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hoffmann, Marcin, Krzysztof Żarkiewicz, Adam Zieliński, Szymon Skibicki, and Łukasz Marchewka. “Foundation Piles: A New Feature for Concrete 3D Printers”. <i>Materials</i> 14, no. 10 (2021). https://doi.org/10.3390/ma14102545.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

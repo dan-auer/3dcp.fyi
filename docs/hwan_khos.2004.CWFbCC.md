@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dooil Hwang, Behrokh Khoshnevis
+    - footer
+title: Hwang Dooil, Khoshnevis Behrokh
 description:
 tags:
  - concrete
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.iaarc.org/publications/fulltext/isarc2004-S09-05.pdf) Concrete Wall Fabrication by Contour Crafting ([2004-09](date/2004/09))
-<a href="https://doi.org/10.22260/isarc2004/0057" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2004/0057</a>
+#Concrete Wall Fabrication by Contour Crafting ([2004-09](date/2004/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/publications/fulltext/isarc2004-S09-05.pdf) <a href="https://doi.org/10.22260/isarc2004/0057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2004/0057" target="_blank">10.22260/isarc2004/0057</a>
 
--------------------------
+<a href="../../../author/hwang_dooil"><b>Hwang</b>&nbsp;Dooil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Contribution - Proceedings of the 21st International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 21st International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#fabrication`](keyword/fabrication)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%20Wall%20Fabrication%20by%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,22 +35,18 @@ tags:
 <a href="https://inciteful.xyz/p/W14211862" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2004/0057" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2004/0057?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The feasibility of CC along with its unique capabilities and key performance characteristics (speed, surface quality, material variety, possibility of embedding reinforcement, etc…) have been demonstrated in the construction of relatively large geometrical shapes and structural components using a variety of construction materials. Construction and testing of full-scale concrete wall sections has been the goal of our recent project which this article reports.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a>, <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="../../../date/2001/09">(2001-09)</a><br><a href="../../../khos_russ_kwon_bukk.2001.CLP/">Crafting Large Prototypes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "59 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_cort_ooms_wan.2025.MPoPB3PCIP/">Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns</a></li>
       <li><a href="../../../author/loaiza_velez_sebastian"><b>Loaiza</b> Sebastián</a>, <a href="../../../author/ortiz_albert"><b>Ortiz</b> Albert</a>, <a href="../../../author/gomez_daniel"><b>Gómez</b> Daniel</a>, <a href="../../../author/garcia-alvarez_jaime_jose"><b>García Alvarez</b> José</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../loai_orti_gome_garc.2023.3PAtBDAtW/">3D Printing Applied to Building Development Around the World:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/wissemann_emily"><b>Wissemann</b> Emily</a>, <a href="../../../author/cousin_tim"><b>Cousin</b> Tim</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../curt_pear_wiss_cous.2024.E/">EarthWorks:<br/>Zero-Waste 3D Printed Earthen Formwork for Shape-Optimized, Reinforced Concrete Construction</a></li>
@@ -124,4 +107,32 @@ tags:
       <li><a href="../../../author/jeon_kwang-hyun"><b>Jeon</b> Kwang-Hyun</a>, <a href="../../../author/park_min-beom"><b>Park</b> Min-Beom</a>, <a href="../../../author/kang_min-kyung"><b>Kang</b> Min-Kyung</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../jeon_park_kang_kim.2013.DoaAFCSaICM/">Development of an Automated Freeform Construction System and Its Construction Materials</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{hwan_khos.2004.CWFbCC,
+      author            = "Dooil Hwang and Behrokh Khoshnevis",
+      title             = "Concrete Wall Fabrication by Contour Crafting",
+      doi               = "10.22260/isarc2004/0057",
+      year              = "2004",
+      booktitle         = "Proceedings of the 21st International Symposium on Automation and Robotics in Construction",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Hwang  and B. Khoshnevis, “Concrete Wall Fabrication by Contour Crafting”,  2004. doi: 10.22260/isarc2004/0057.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hwang, Dooil, and Behrokh Khoshnevis. “Concrete Wall Fabrication by Contour Crafting”. In <i>Proceedings of the 21st International Symposium on Automation and Robotics in Construction</i>, 2004. https://doi.org/10.22260/isarc2004/0057.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

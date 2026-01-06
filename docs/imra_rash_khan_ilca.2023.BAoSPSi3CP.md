@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ramsha Imram, Ans Rashid, Shoukat Khan, Hüseyin İlcan, Oğuzhan Şahin, Mustafa Şahmaran, Muammer Koç
+    - footer
+title: Imram Ramsha, Rashid Ans, Khan Shoukat, İlcan Hüseyin, Şahin Oğuzhan, Şahmaran Mustafa, Koç Muammer
 description:
 tags:
  - analysis
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1080/26889277.2023.2276443) Buildability-Analysis on Squared Profile Structure in 3D Concrete Printing ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1080/26889277.2023.2276443" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/26889277.2023.2276443</a>
+#Buildability-Analysis on Squared Profile Structure in 3D Concrete Printing ([2023-10](date/2023/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/26889277.2023.2276443) <a href="https://doi.org/10.1080/26889277.2023.2276443" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/26889277.2023.2276443" target="_blank">10.1080/26889277.2023.2276443</a>
 
--------------------------
+<a href="../../../author/imram_ramsha"><b>Imram</b>&nbsp;Ramsha</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rashid_ans"><b>al&nbsp;Rashid</b>&nbsp;Ans</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_alim_shoukat"><b>Khan</b>&nbsp;Shoukat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
+Journal Article - European Journal of Materials, pp. 1-13
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>
-,     <a href="../../../author/rashid_ans"><b>al Rashid</b> Ans</a> <a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> <a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - European Journal of Materials, pp. 1-13
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#profile`](keyword/profile)
-    [`#square`](keyword/square)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/profile"><button class="btn">#profile</button></a> <a href="../../keyword/square"><button class="btn">#square</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Buildability-Analysis%20on%20Squared%20Profile%20Structure%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182300034&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388206026" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/26889277.2023.2276443" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/26889277.2023.2276443?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Numerical modeling and simulation approaches can be used to optimize material combinations, structural design, and process parameters to achieve the desired structural performance of 3D-printed structures. In this study, a novel CDW-based mortar mixture was prepared for the 3D concrete printing (3DCP) process. A square cross-sectional structure was designed and 3D-printed using a lab-scale gantry-type 3D printer for buildability analysis. The geopolymer material was also characterized to obtain time-dependent properties for use in a numerical model capable of predicting the buildability of concrete structures. In the numerical modeling and simulation phase, predictive simulations were performed for experimentally 3D-printed structures to validate the predictability of the numerical model. The numerical model revealed a sound approximation of buildability with an error of 6.3% only. Furthermore, using numerical simulations, sensitivity analyses were performed to evaluate the impact of designed height and 3DCP process parameters (i.e., printing speed and layer width) on the buildability of structures. The numerical modeling and simulation results revealed a strong impact of both process parameters (i.e., printing speed and layer width) on the buildability of 3D-printed structures. A maximum buildability of 410.6mm was achieved for structure 3D-printed at a printing speed of 20mm/s and layer width of 45mm. Overall, an improved buildability was observed for lower printing speeds and higher layer widths; however, the buildability performance was more sensitive to the layer width.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bong_nema_xia_ghaf.2022.PoAMGIMWMF/">Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -94,12 +70,41 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mahmoodi_obaid"><b>Mahmoodi</b> Obaid</a>, <a href="../../../author/siad_hocine"><b>Siad</b> Hocine</a>, <a href="../../../author/lachemi_mohamed"><b>Lachemi</b> Mohamed</a>, <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mahm_siad_lach_sahm.2025.RAiCBG/">Recent Advances in CDW-Based Geopolymers:<br/>A Review of Mechanical Performance, Structural Application, 3D Printing, Durability and Sustainability</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jaji_baba_zijl.2025.MPoEBTP3PGC/">Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>A Review of Advances in Laboratory and Real-Scale Construction Projects</a></li>
       <li><a href="../../../author/osta_omar_mohammad"><b>Osta</b> Mohammad</a>, <a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../osta_mukh.2024.BAo3CPUFEM/">Buildability-Analysis of 3D Concrete Printing Using Finite-Element-Method</a></li>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yous_rash_koc.2024.PTfS3PoCS/">Parameter-Tuning for Sustainable 3D Printing of Clay Structures</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../khan_ilca_imra_amin.2024.TIoNDaPSoGB3PCS/">The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures:<br/>Numerical Modeling and Experimental Validation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{imra_rash_khan_ilca.2023.BAoSPSi3CP,
+      author            = "Ramsha Imram and Ans Al Rashid and Shoukat Alim Khan and Hüseyin İlcan and Oğuzhan Şahin and Mustafa Şahmaran and Muammer Koç",
+      title             = "Buildability-Analysis on Squared Profile Structure in 3D Concrete Printing",
+      doi               = "10.1080/26889277.2023.2276443",
+      year              = "2023",
+      journal           = "European Journal of Materials",
+      pages             = "1--13",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Imram, “Buildability-Analysis on Squared Profile Structure in 3D Concrete Printing”, <i>European Journal of Materials</i>, pp. 1–13, 2023, doi: 10.1080/26889277.2023.2276443.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Imram, Ramsha, Ans Al Rashid, Shoukat Alim Khan, Hüseyin İlcan, Oğuzhan Şahin, Mustafa Şahmaran, and Muammer Koç. “Buildability-Analysis on Squared Profile Structure in 3D Concrete Printing”. <i>European Journal of Materials</i>, 2023, 1–13. https://doi.org/10.1080/26889277.2023.2276443.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

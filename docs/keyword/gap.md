@@ -8,7 +8,7 @@ search:
 
 # #gap
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/luo_rui"><b>Luo</b> Rui</a>, <a href="../../../author/sun_bin"><b>Sun</b> Bin</a>, <a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../luo_sun_fei_du.2025.ISLi3PCDtTGIM/">Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity</a></li>
   <li><a href="../../../author/dabbaghisouraki_farshad"><b>Dabbaghisouraki</b> Farshad</a>, <a href="../../../author/tanhadoust_amin"><b>Tanhadoust</b> Amin</a>, <a href="../../../author/nehdi_l_moncef"><b>Nehdi</b> Moncef</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dabb_tanh_nehd.2025.FRSi3CP/">Fiber Reinforcement Strategies in 3D Concrete Printing:<br/>Addressing Challenges and Identifying Research Gaps</a></li>
   <li><a href="../../../author/silveira-junior_gomes_jairon"><b>Silveira Júnior</b> Jairon</a>, <a href="../../../author/moura-cerqueira_kevin"><b>Moura Cerqueira</b> Kevin</a>, <a href="../../../author/moura_carlos-araujo_ruan"><b>Moura</b> Ruan</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../silv_mour_mour_mato.2024.IoTGotBoCMDf3P/">Influence of Time-Gap on the Buildability of Cement Mixtures Designed for 3D Printing</a></li>

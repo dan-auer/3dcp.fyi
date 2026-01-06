@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Kashani Alireza 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/karimpouli_sagegh"><b>Karimpouli</b> Sagegh</a>, <a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/ramandi_lamei_hamed"><b>Ramandi</b> Hamed</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../baya_kari_yang_rama.2025.IoIBaPCi3PHSMIRLA/">Investigation of Interlayer Bonding and Pore Characteristics in 3D-Printed High-Strength Mortar Incorporating Recycled Lightweight Aggregates</a></li>
   <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../baya_kash.2025.RMaECiSSBT3PWD/">Reducing Material and Energy Consumption in Single-Story Buildings Through 3D-Printed Wall Designs</a></li>
   <li><a href="../../../author/you_dengyu"><b>You</b> Dengyu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../you_kash.2024.EoECoSICo3PM/">Effect of Environmental Conditions on Shrinkage-Induced Cracking of 3D Printed Mortar</a></li>

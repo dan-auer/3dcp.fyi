@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Hoffmann Marcin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
   <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/dvorak_richard"><b>Dvořák</b> Richard</a>, <a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a>, <a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../skib_dvor_pazd_topo.2024.AMPo3PMDbSFaCTaAE/">Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission</a></li>
   <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chou_skib_noai_fede.2024.CAoTBCwCaEBAfHP3P/">Comparative Analysis of Ternary Blended Cement with Clay and Engineering-Brick-Aggregate for High-Performance 3D Printing</a></li>

@@ -8,7 +8,7 @@ search:
 
 # #advance
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bugarin_gilberto_juan"><b>Bugarin</b> Juan</a>, <a href="../../../author/hajjar_pedron_ayla"><b>Hajjar</b> Ayla</a>, <a href="../../../author/ssengooba_aloysious"><b>Ssengooba</b> Aloysious</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../buga_hajj_ssen_rang.2026.ACBaSCitIP/">Advancing Circular Bioeconomy and Sustainable Construction in the Iberian Peninsula:<br/>Addressing the Potential of Timber Residues for 3D Printing</a></li>
   <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
   <li><a href="../../../author/manickavasakam_karnan"><b>Manickavasakam</b> Karnan</a>, <a href="../../../author/huri_a-al_mohammed"><b>Huri</b> Mohammed</a>, <a href="../../../author/kharma_m_khaled"><b>Kharma</b> Khaled</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_huri_khar_hosa.2025.S3PC/">Smart 3D-Printed Concrete:<br/>Recent Advances in Self-Sensing Mix Design and Functional Reinforcements</a></li>

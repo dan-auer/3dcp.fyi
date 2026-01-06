@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Juhi Kamra, Ambica Mani, V. Tripathi
+    - footer
+title: Kamra Juhi, Mani Ambica, Tripathi V.
 description:
 tags:
  - construction
@@ -11,26 +12,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing:<br/>:aca-blank: A Boon or a Bane for Sustainable Construction ([2024-06](date/2024/06))
-<a href="https://doi.org/10.23919/splitech61897.2024.10612438" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.23919/splitech61897.2024.10612438</a>
+#3D Printing&nbsp;([2024-06](date/2024/06))
+<div class="h1-like">A Boon or a Bane for Sustainable Construction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.23919/splitech61897.2024.10612438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.23919/splitech61897.2024.10612438" target="_blank">10.23919/splitech61897.2024.10612438</a>
 
--------------------------
+<a href="../../../author/kamra_juhi"><b>Kamra</b>&nbsp;Juhi</a></span>, <a href="../../../author/mani_prakash_ambica"><b>Mani</b>&nbsp;Ambica</a></span>, <a href="../../../author/tripathi_m_v"><b>Tripathi</b>&nbsp;V.</a></span><br>
+Contribution - 2024 9th International Conference on Smart and Sustainable Technologies (SpliTech), pp. 1-10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kamra_juhi"><b>Kamra</b> Juhi</a>
-,     <a href="../../../author/mani_prakash_ambica"><b>Mani</b> Ambica</a>
-,     <a href="../../../author/tripathi_m_v"><b>Tripathi</b> V.</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 2024 9th International Conference on Smart and Sustainable Technologies (SpliTech), pp. 1-10
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202450275&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401336472" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.23919/splitech61897.2024.10612438" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.23919/splitech61897.2024.10612438?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is held liable for around 39% of worldwide energy-related carbon emissions. Therefore, it becomes imperative to decarbonize it. There are several decarbonization measures available for it like using timber in place of concrete or replacing cement with alternative materials like blast furnace slag, coal ash, etc. 3D printing (3DP) is one of the proposed decarbonization measures available for this industry which is gaining momentum but is yet to be tested for its role in throwing its impact on people, planet, and profit. So, this paper attempts to probe into the pros and cons of using state-of-the-art 3D printing on the Environment, Economy, and Society through a Systematic Literature Review (SLR) of 18 articles from Scopus and Google Scholar. Besides, the paper analyzed the frequency of occurrence of these pros and cons across literature and found the statistical difference between them using the Wilcoxon Signed Rank Test, a non-parametric test. Results showed that 3DP has a more positive than negative impact on overall sustainability. Moreover, this research also provides recommendations vide research, industry, and policy aspects to overcome the loopholes in this technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -68,7 +53,36 @@ tags:
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kamr_mani_trip.2024.3P,
+      author            = "Juhi Kamra and Ambica Prakash Mani and V. M. Tripathi",
+      title             = "3D Printing: A Boon or a Bane for Sustainable Construction",
+      doi               = "10.23919/splitech61897.2024.10612438",
+      year              = "2024",
+      pages             = "1--10",
+      booktitle         = "2024 9th International Conference on Smart and Sustainable Technologies (SpliTech)",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Kamra, A. P. Mani and V. M. Tripathi, “3D Printing: A Boon or a Bane for Sustainable Construction”, in <i>2024 9th International Conference on Smart and Sustainable Technologies (SpliTech)</i>,  2024, pp. 1–10. doi: 10.23919/splitech61897.2024.10612438.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kamra, Juhi, Ambica Prakash Mani, and V. M. Tripathi. “3D Printing: A Boon or a Bane for Sustainable Construction”. In <i>2024 9th International Conference on Smart and Sustainable Technologies (SpliTech)</i>, 1–10, 2024. https://doi.org/10.23919/splitech61897.2024.10612438.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

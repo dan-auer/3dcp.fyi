@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Zhang, Juanjuan Ren, Shihao Zhang, Yipu Guo, Ning Li, Wengui Li, Fulin Qu
+    - footer
+title: Zhang Chao, Ren Juanjuan, Zhang Shihao, Guo Yipu, Li Ning, Li Wengui, Qu Fulin
 description:
 tags:
  - additive
@@ -18,37 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2025.113533) Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>:aca-blank: Unleashing the Potential of Additive Manufacturing for Protective Structures ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.jobe.2025.113533" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113533</a>
+#Advanced Impact Resistance Design Through 3D-Printed Concrete Technology&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">Unleashing the Potential of Additive Manufacturing for Protective Structures</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.113533) <a href="https://doi.org/10.1016/j.jobe.2025.113533" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113533" target="_blank">10.1016/j.jobe.2025.113533</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chao"><b>Zhang</b>&nbsp;Chao</a></span>, <a href="../../../author/ren_juanjuan"><b>Ren</b>&nbsp;Juanjuan</a></span>, <a href="../../../author/zhang_shihao"><b>Zhang</b>&nbsp;Shihao</a></span>, <a href="../../../author/guo_yipu"><b>Guo</b>&nbsp;Yipu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7994-9504" title="ORCID: 0000-0002-7994-9504" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_ning"><b>Li</b>&nbsp;Ning</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4651-1215" title="ORCID: 0000-0002-4651-1215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_wengui"><b>Li</b>&nbsp;Wengui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5301-5850" title="ORCID: 0000-0002-5301-5850" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qu_fulin"><b>Qu</b>&nbsp;Fulin</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113533
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> <a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>
-,     <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>
-,     <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>
-,     <a href="../../../author/li_ning"><b>Li</b> Ning</a> <a href="https://orcid.org/0000-0002-7994-9504" title="ORCID: 0000-0002-7994-9504" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_wengui"><b>Li</b> Wengui</a> <a href="https://orcid.org/0000-0002-4651-1215" title="ORCID: 0000-0002-4651-1215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qu_fulin"><b>Qu</b> Fulin</a> <a href="https://orcid.org/0000-0002-5301-5850" title="ORCID: 0000-0002-5301-5850" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113533
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#advance`](keyword/advance)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#structure`](keyword/structure)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advanced%20Impact%20Resistance%20Design%20Through%203D-Printed%20Concrete%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011600012&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412538338" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113533" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113533?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The emerging technology of 3D-printed concrete (3DPC) is driving a revolution in the construction industry. This paper provides a comprehensive review of how 3DPC technology can be harnessed to enhance the impact resistance of concrete structures. The typical composition of 3DPC, which includes a high binder content blended with supplementary cementitious materials (SCMs) of high pozzolanic activity, limited coarse aggregate size, and various types of fibers, combined with a low water-to-binder ratio, forms the foundation for developing impact-resistant concrete structures. Novel design concepts such as bio-inspired structures, topology optimization, and functional gradients, grounded in a new theoretical framework, offer fresh insights into achieving superior impact resistance. The inherent flexibility of 3DPC technology shows promising potential for constructing a new generation of impact-resistant structures, characterized by complex and uniquely designed internal architectures based on these innovative concepts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "92 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
@@ -167,7 +141,36 @@ tags:
       <li><a href="../../../author/zhou_biao"><b>Zhou</b> Biao</a>, <a href="../../../author/zhou_hongru"><b>Zhou</b> Hongru</a>, <a href="../../../author/yoshioka_hideki"><b>Yoshioka</b> Hideki</a>, <a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET/">Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_ren_zhan_guo.2025.AIRDT3PCT,
+      author            = "Chao Zhang and Juanjuan Ren and Shihao Zhang and Yipu Guo and Ning Li and Wengui Li and Fulin Qu",
+      title             = "Advanced Impact Resistance Design Through 3D-Printed Concrete Technology: Unleashing the Potential of Additive Manufacturing for Protective Structures",
+      doi               = "10.1016/j.jobe.2025.113533",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113533",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Zhang, “Advanced Impact Resistance Design Through 3D-Printed Concrete Technology: Unleashing the Potential of Additive Manufacturing for Protective Structures”, <i>Journal of Building Engineering</i>, p. 113533, 2025, doi: 10.1016/j.jobe.2025.113533.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Chao, Juanjuan Ren, Shihao Zhang, Yipu Guo, Ning Li, Wengui Li, and Fulin Qu. “Advanced Impact Resistance Design Through 3D-Printed Concrete Technology: Unleashing the Potential of Additive Manufacturing for Protective Structures”. <i>Journal of Building Engineering</i>, 2025, 113533. https://doi.org/10.1016/j.jobe.2025.113533.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

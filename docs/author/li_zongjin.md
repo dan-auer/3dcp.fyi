@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Li Zongjin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/zhao_yuyang"><b>Zhao</b> Yuyang</a>, <a href="../../../author/hou_dongshuai"><b>Hou</b> Dongshuai</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sun_zhao_hou_li.2025.RCoCPbISPf3PA/">Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications</a></li>
   <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../cao_yu_cui_li.2023.ISCTfRIf3PRC/">In-Situ Coating Technique for Rebar Installation for 3D Printed Reinforced Concrete</a></li>
   <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>

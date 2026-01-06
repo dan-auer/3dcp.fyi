@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sandipan Kaushik, Mohammed Sonebi, Giuseppina Amato, Utpal Das, Arnaud Perrot
+    - footer
+title: Kaushik Sandipan, Sonebi Mohammed, Amato Giuseppina, Das Utpal, Perrot Arnaud
 description:
 tags:
  - base
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/4/1748/pdf?version=1676956477) Optimization of Mix Proportion of 3D Printable Mortar Based on Rheological Properties and Material-Strength Using Factorial Design of Experiment ([2023-02](date/2023/02))
-<a href="https://doi.org/10.3390/ma16041748" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16041748</a>
+#Optimization of Mix Proportion of 3D Printable Mortar Based on Rheological Properties and Material-Strength Using Factorial Design of Experiment ([2023-02](date/2023/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/4/1748/pdf?version=1676956477) <a href="https://doi.org/10.3390/ma16041748" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16041748" target="_blank">10.3390/ma16041748</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6989-1660" title="ORCID: 0000-0002-6989-1660" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaushik_sandipan"><b>Kaushik</b>&nbsp;Sandipan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7237-6512" title="ORCID: 0000-0002-7237-6512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amato_giuseppina"><b>Amato</b>&nbsp;Giuseppina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6400-1083" title="ORCID: 0000-0002-6400-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_kumar_utpal"><b>Das</b>&nbsp;Utpal</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a> <a href="https://orcid.org/0000-0002-6989-1660" title="ORCID: 0000-0002-6989-1660" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a> <a href="https://orcid.org/0000-0002-7237-6512" title="ORCID: 0000-0002-7237-6512" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/das_kumar_utpal"><b>Das</b> Utpal</a> <a href="https://orcid.org/0000-0002-6400-1083" title="ORCID: 0000-0002-6400-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#design`](keyword/design)
-    [`#experiment`](keyword/experiment)
-    [`#factor`](keyword/factor)
-    [`#material`](keyword/material)
-    [`#mixing`](keyword/mixing)
-    [`#mortar`](keyword/mortar)
-    [`#optimization`](keyword/optimization)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#proportion`](keyword/proportion)
-    [`#rheology`](keyword/rheology)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/proportion"><button class="btn">#proportion</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Mix%20Proportion%20of%203D%20Printable%20Mortar%20Based%20on%20Rheological%20Properties%20and%20Material-Strength%20Using%20Factorial%20Design%20of%20Experiment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149276378&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4321457782" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16041748" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16041748?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the production of 3D printable mortar (3DPM), numerous efforts have been made globally to effectively utilise various cementitious materials, admixtures, and fibres. The determination of rheological and material strength properties is crucial for successful 3D concrete printing because the materials used in 3DPM must possess the unique characteristic of making mortar flowable while being strong enough to support the weight of subsequent layers in both fresh and hardened states. The complexity of the required characteristics makes it challenging to develop an optimised mix composition that satisfies both the rheological and material strength requirements, given the wide range of available admixtures, supplementary cementitious materials, and fibres. Fly ash, basalt fibre and superplasticiser when blended with cement can help to improve the overall performance of 3DPM. The objective of this research is to optimise the rheological properties and material strength of 3D printable mortars (3DPM) containing cement, fly ash, basalt fibre, and superplasticiser. This study aims to produce 3DPM with an optimised mix composition to meet the requirements of both rheological and material strength characteristics using the factorial design approach and desirability function. Different dosages of cement, fly ash, basalt fibre, and superplasticiser are chosen as the primary design parameters to develop statistical models for the responses of rheological and material strength properties at 7 and 28 days. The results expressed in terms of the measured properties are valid for mortars made with cement ranging from 550 to 650 kg/m3, fly ash from 5% to 20% (of cement), superplasticiser from 2 to 4 kg/m3, and basalt fibre from 1 to 3 kg/m3. The rheological properties are evaluated using slump flow, cone penetrometer, and cylindrical slump tests, while the mechanical strength is evaluated using a three-point bending test and compressive test. A full factorial design experiment (FoE) is used to determine the significant parameters effecting the measured properties. Prediction models are developed to express the measured properties in terms of the primary parameters. The influence of cement, fly ash, basalt fibre, and superplasticiser is analysed using polynomial regression to determine the main effects and interactions of these primary parameters on the measured properties. The results show that the regression models established by the factorial design approach are effective and can accurately predict the performance of 3DPM. Cement, fly ash, and superplasticiser dosages have significant effects on the rheological and mechanical properties of mortar, while basalt fibre is able to influence the static yield stress and flexural strength of 3DPM. The utilisation of regression models and isoresponse curves allows for the identification of significant trends and provides valuable insight into the behaviour of the material, while desirability function is useful to optimise overall performance of mix proportions to meet the desired performance objective at fresh and hardened states.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
@@ -121,8 +93,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/yang_shuai"><b>Yang</b> Shuai</a>, <a href="../../../author/li_fei"><b>Li</b> Fei</a>, <a href="../../../author/lu_ya"><b>Lu</b> Ya</a>, <a href="../../../author/xu_xiaoming"><b>Xu</b> Xiaoming</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yang_li_lu_xu.2025.SotPCoa3PSftPoPO/">Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization</a></li>
@@ -133,4 +105,34 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/araujo_m-o_olga"><b>Araújo</b> Olga</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../tino_cava_andr_arau.2025.MDSf3PBBCCURHPaMA/">Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates</a></li>
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vare_barl_sone.2024.EoBFaNCtEEaBo3PM/">Evaluation of Basalt-Fibers and Nano-Clays to Enhance Extrudability and Buildability of 3D Printing Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kaus_sone_amat_das.2023.OoMPo3PMBoRPaMSUFDoE,
+      author            = "Sandipan Kaushik and Mohammed Sonebi and Giuseppina Amato and Utpal Kumar Das and Arnaud Perrot",
+      title             = "Optimization of Mix Proportion of 3D Printable Mortar Based on Rheological Properties and Material-Strength Using Factorial Design of Experiment",
+      doi               = "10.3390/ma16041748",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Kaushik, M. Sonebi, G. Amato, U. K. Das and A. Perrot, “Optimization of Mix Proportion of 3D Printable Mortar Based on Rheological Properties and Material-Strength Using Factorial Design of Experiment”, <i>Materials</i>, vol. 16, no. 4, 2023, doi: 10.3390/ma16041748.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kaushik, Sandipan, Mohammed Sonebi, Giuseppina Amato, Utpal Kumar Das, and Arnaud Perrot. “Optimization of Mix Proportion of 3D Printable Mortar Based on Rheological Properties and Material-Strength Using Factorial Design of Experiment”. <i>Materials</i> 16, no. 4 (2023). https://doi.org/10.3390/ma16041748.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

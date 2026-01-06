@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Pierre Alexandre 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../pier_perr.2025.APMfCM/">Alternative Printing-Methods for Cementitious Materials</a></li>
   <li><a href="../../../author/danche_valentine"><b>Danché</b> Valentine</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/ndiaye_k"><b>Ndiaye</b> K.</a>, <a href="../../../author/ngo_tung_tien"><b>Ngo</b> Tien</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../danc_pier_ndia_ngo.2022.PBTfH/">Particle-Bed Technique for Hempcrete</a></li>
   <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/thomas_amaury"><b>Thomas</b> Amaury</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../lowk_vand_pier_thom.2021.I3CPiaCL/">Injection 3D Concrete Printing in a Carrier Liquid:<br/>Underlying Physics and Applications to Lightweight Space Frame Structures</a></li>

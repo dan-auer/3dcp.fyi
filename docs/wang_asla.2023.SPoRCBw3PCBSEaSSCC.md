@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lining Wang, Farhad Aslani
+    - footer
+title: Wang Lining, Aslani Farhad
 description:
 tags:
  - base
@@ -20,34 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Structural Performance of Reinforced Concrete Beams with 3D Printed Cement-Based Sensor Embedded and Self-Sensing Cementitious Composites ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.engstruct.2022.115266" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2022.115266</a>
+#Structural Performance of Reinforced Concrete Beams with 3D Printed Cement-Based Sensor Embedded and Self-Sensing Cementitious Composites ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2022.115266" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2022.115266" target="_blank">10.1016/j.engstruct.2022.115266</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4453-0516" title="ORCID: 0000-0003-4453-0516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_lining"><b>Wang</b>&nbsp;Lining</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span><br>
+Journal Article - Engineering Structures, Vol. 275
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> <a href="https://orcid.org/0000-0003-4453-0516" title="ORCID: 0000-0003-4453-0516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 275, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#beam`](keyword/beam)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#embedded`](keyword/embedded)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#self`](keyword/self)
-    [`#sensor`](keyword/sensor)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Performance%20of%20Reinforced%20Concrete%20Beams%20with%203D%20Printed%20Cement-Based%20Sensor%20Embedded%20and%20Self-Sensing%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85142184940&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4309552896" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2022.115266" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2022.115266?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cementitious composites containing conductive functional fillers can achieve self-sensing and continuous monitoring of the damages and cracks through piezoresistive characteristics defined as the electrical resistivity change under external deformation. Previous studies developed two types of self-sensing cementitious composites expressing superior piezoresistive characteristics, as well as good linearity, repeatability, and sensitivity. This research further investigates the flexural damage sensing capability of the developed self-sensing cementitious composites by applying them to reinforced concrete beams. The 3D printed self-sensing cementitious composites containing carbon fibre (CF) at 0.7 wt% and activated carbon powder (ACP) at 0.25 wt% were tested as the embedded sensors in this study. Mould cast self-sensing cementitious composites developed by 100 wt% of magnetite aggregate (MA), 0.3 wt% of CF, and 0.05 wt% of carbon nanotube (CNT) were examined in bulk form. The corresponding fractional change in resistivity (FCR) was attained on the tension face of the reinforced concrete beams when subjected to flexural loading. Experimental findings suggest that the embedded 3D printed cement-based sensors in beam elements can contribute to the load-carrying capacity of the reinforced concrete beam, achieving an average load of yielding at 88.65 kN and a maximum loading capacity of 111.09 kN, which is 10% and 12% higher compared with the controlled reinforced concrete beam, respectively. In terms of sensing performance, both 3D printed self-sensing cementitious composites in sensor form and mould cast self-sensing cementitious composites in bulk form could reflect stress and strain changes and detect crack formation in reinforced concrete beams, which demonstrate gage factors at 318 and 527, respectively. However, 3D printed cementitious sensors are more effective when reinforced concrete beams are severely damaged. In terms of selfsensing cementitious composites in bulk form, the randomly distributed CF and CNT could provide a more pronounced crack and damage sensing capability, with fluctuations that can be observed at both low and high levels of damage.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
@@ -85,8 +61,8 @@ tags:
       <li><a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b> Abhijit</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../wang_asla_mukh.2022.Do3PSSCC/">Development of 3D Printable Self-Sensing Cementitious Composites</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/manickavasakam_karnan"><b>Manickavasakam</b> Karnan</a>, <a href="../../../author/huri_a-al_mohammed"><b>Huri</b> Mohammed</a>, <a href="../../../author/kharma_m_khaled"><b>Kharma</b> Khaled</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_huri_khar_hosa.2025.S3PC/">Smart 3D-Printed Concrete:<br/>Recent Advances in Self-Sensing Mix Design and Functional Reinforcements</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>
@@ -106,4 +82,33 @@ tags:
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../liu_tran_nguy_guna.2023.3PoCMwMRCF/">3D Printing of Cementitious Mortar with Milled Recycled Carbon-Fibers:<br/>Influences of Filament Offset on Mechanical Properties</a></li>
       <li><a href="../../../author/atkinson_d_cynthia"><b>Atkinson</b> Cynthia</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../atki_asla.2023.Po3PCUSSCC/">Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_asla.2023.SPoRCBw3PCBSEaSSCC,
+      author            = "Lining Wang and Farhad Aslani",
+      title             = "Structural Performance of Reinforced Concrete Beams with 3D Printed Cement-Based Sensor Embedded and Self-Sensing Cementitious Composites",
+      doi               = "10.1016/j.engstruct.2022.115266",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "275",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang  and F. Aslani, “Structural Performance of Reinforced Concrete Beams with 3D Printed Cement-Based Sensor Embedded and Self-Sensing Cementitious Composites”, <i>Engineering Structures</i>, vol. 275, 2023, doi: 10.1016/j.engstruct.2022.115266.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Lining, and Farhad Aslani. “Structural Performance of Reinforced Concrete Beams with 3D Printed Cement-Based Sensor Embedded and Self-Sensing Cementitious Composites”. <i>Engineering Structures</i> 275 (2023). https://doi.org/10.1016/j.engstruct.2022.115266.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

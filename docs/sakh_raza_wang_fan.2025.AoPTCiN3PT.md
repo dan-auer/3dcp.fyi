@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mahsa Sakha, Saim Raza, Xiaomeng Wang, Haifeng Fan, Nils Pichler, Moslem Shahverdi
+    - footer
+title: Sakha Mahsa, Raza Saim, Wang Xiaomeng, Fan Haifeng, Pichler Nils, Shahverdi Moslem
 description:
 tags:
  - assessment
@@ -18,34 +19,12 @@ tags:
 
 ---
 
-# Assessment of Post-Tension Capacity in Novel 3D-Printed Topology:<br/>:aca-blank: Optimized Formwork via Load Transfer Testing ([2025-06](date/2025/06))
--------------------------
+#Assessment of Post-Tension Capacity in Novel 3D-Printed Topology&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Optimized Formwork via Load Transfer Testing</div>
+<span class="author"><a href="https://orcid.org/0000-0001-6618-5456" title="ORCID: 0000-0001-6618-5456" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sakha_mahsa"><b>Sakha</b>&nbsp;Mahsa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_saim"><b>Raza</b>&nbsp;Saim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8136-0731" title="ORCID: 0000-0002-8136-0731" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiaomeng"><b>Wang</b>&nbsp;Xiaomeng</a></span>, <a href="../../../author/fan_haifeng"><b>Fan</b>&nbsp;Haifeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8602-3291" title="ORCID: 0000-0002-8602-3291" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pichler_nils"><b>Pichler</b>&nbsp;Nils</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahverdi_moslem"><b>Shahverdi</b>&nbsp;Moslem</a></span><br>
+Contribution - Proceedings of the fib Symposium 2025
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a> <a href="https://orcid.org/0000-0001-6618-5456" title="ORCID: 0000-0001-6618-5456" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raza_saim"><b>Raza</b> Saim</a> <a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a> <a href="https://orcid.org/0000-0002-8136-0731" title="ORCID: 0000-0002-8136-0731" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a>
-,     <a href="../../../author/pichler_nils"><b>Pichler</b> Nils</a> <a href="https://orcid.org/0000-0002-8602-3291" title="ORCID: 0000-0002-8602-3291" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> <a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#capacity`](keyword/capacity)
-    [`#formwork`](keyword/formwork)
-    [`#load`](keyword/load)
-    [`#optimization`](keyword/optimization)
-    [`#post`](keyword/post)
-    [`#print`](keyword/print)
-    [`#tension`](keyword/tension)
-    [`#test`](keyword/test)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessment%20of%20Post-Tension%20Capacity%20in%20Novel%203D-Printed%20Topology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -60,17 +39,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent advancements in 3D printing concrete (3DPC) enable the fabrication of complex structural components with enhanced structural performance and optimized material distribution. In this regard, we studied a permanent 3DPC formwork designed to support all loads for ribbed slab construction without temporary shoring, leveraging 3D printing’s geometric freedom and topology optimization alongside post-tensioning technology. While our previous study introduced a topology-optimized formwork with demonstrated improvements in structural performance and material efficiency, its post-tension capacity, particularly at overlap regions, remained uncertain. This paper presents load transfer test results assessing the structural behavior of the topology-optimized 3DPC formwork under the desired PT force, ensuring it can withstand loading without premature failure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../burg_hube_llor_mata.2022.DaFoORCFSULS3PF/">Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork</a></li>
@@ -84,7 +59,35 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sakh_raza_wang_fan.2025.AoPTCiN3PT,
+      author            = "Mahsa Sakha and Saim Raza and Xiaomeng Wang and Haifeng Fan and Nils Pichler and Moslem Shahverdi",
+      title             = "Assessment of Post-Tension Capacity in Novel 3D-Printed Topology: Optimized Formwork via Load Transfer Testing",
+      year              = "2025",
+      booktitle         = "Proceedings of the fib Symposium 2025: Concrete Structures",
+      editor            = "fédération internationale du béton",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sakha, S. Raza, X. Wang, H. Fan, N. Pichler and M. Shahverdi, “Assessment of Post-Tension Capacity in Novel 3D-Printed Topology: Optimized Formwork via Load Transfer Testing”, in <i>Proceedings of the fib Symposium 2025: Concrete Structures</i>,  2025.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sakha, Mahsa, Saim Raza, Xiaomeng Wang, Haifeng Fan, Nils Pichler, and Moslem Shahverdi. “Assessment of Post-Tension Capacity in Novel 3D-Printed Topology: Optimized Formwork via Load Transfer Testing”. In <i>Proceedings of the Fib Symposium 2025: Concrete Structures</i>, edited by fédération internationale du béton, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

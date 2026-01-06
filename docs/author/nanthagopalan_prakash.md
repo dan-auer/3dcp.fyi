@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Nanthagopalan Prakash 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b> Revanth</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bodd_kand_nant.2025.EoAALCCMf3CPA/">Evaluation of Alkali-Activated Limestone Calcined Clay Mortars for 3D Concrete Printing Applications</a></li>
   <li><a href="../../../author/kumar_rohan"><b>Kumar</b> Rohan</a>, <a href="../../../author/das_nabodyuti"><b>Das</b> Nabodyuti</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kuma_das_nant.2025.NINGfEISi3CP/">Novel Interlocking Nozzle Geometry for Enhanced Interlayer Strengthening in 3D Concrete Printing</a></li>
   <li><a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b> Revanth</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kand_bodd_nant.2025.NRTPfPCo3PM/">Novel Rheological Test Procedure for Printability Characterization of 3D Printable Mortar</a></li>

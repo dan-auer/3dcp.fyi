@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zhang Mingzhong 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a>, <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhu_zhan_ye_wei.2025.LVIPoB3PECCB/">Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams</a></li>
   <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/li_jiahui"><b>Li</b> Jiahui</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_li_zhan_zhan.2025.3PoRSFRUHPC/">3D Printability of Recycled Steel-Fiber-Reinforced Ultra-High-Performance Concrete</a></li>

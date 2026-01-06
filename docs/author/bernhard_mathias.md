@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Bernhard Mathias 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/vakhshouri_pouria"><b>Vakhshouri</b> Pouria</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../oror_chai_zhi_vakh.2024.ESoaFCBP/">Experimental Study of a Funicular Concrete Beam Prototype</a></li>
   <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a></li>
   <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/shammas_demetris"><b>Shammas</b> Demetris</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../jipa_meib_gies_sham.2018.3PFfPCS/">3D Printed Formwork for Prefabricated Concrete Slabs</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Leo Li, Guang-Hu Zhang
+    - footer
+title: Li Leo, Zhang Guang-Hu
 description:
 tags:
  - admixture
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Feasibility of Underwater 3D Printing:<br/>:aca-blank: Effects of Anti-Washout-Admixtures on Printability and Strength of Mortar ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.jobe.2024.110434" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110434</a>
+#Feasibility of Underwater 3D Printing&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">Effects of Anti-Washout-Admixtures on Printability and Strength of Mortar</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110434" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110434" target="_blank">10.1016/j.jobe.2024.110434</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_gu_leo"><b>Li</b>&nbsp;Leo</a></span>, <a href="../../../author/zhang_guang-hu"><b>Zhang</b>&nbsp;Guang-Hu</a></span><br>
+Journal Article - Journal of Building Engineering, No. 110434
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> <a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 110434
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#effect`](keyword/effect)
-    [`#feasibility`](keyword/feasibility)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#strength`](keyword/strength)
-    [`#underwater`](keyword/underwater)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20of%20Underwater%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201124365&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401495952" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110434" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110434?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The dispersion and reduction in strength of concrete underwater pose significant challenges to advancing underwater 3D concrete printing technology. While employing anti-washout admixtures holds promise, there is a dearth of relevant research. Herein, a study using various potential anti-washout admixtures, such as micro silica (MS), nano silica (NS), glass fibers (GF), and hydroxypropyl methyl cellulose (HPMC), in mortar mixes was conducted. These mortar mixes were then printed underwater, and their performance in both fresh and hardened states was evaluated to develop underwater 3D printable mortars. The findings revealed that both MS and NS enhance the washout resistance, extrudability, and buildability of fresh mortar, while also improving the flexural, compressive, and bond strengths of hardened mortar. HPMC enhances underwater printability and bond strength, although it may negatively impact flexural and compressive strengths. GF exhibits adverse effects on underwater printability and mechanical properties and is incompatible with HPMC. Noticeably, the combination of MS, NS, and HPMC greatly enhances underwater printability (no dispersion and lowest extrudability/buildability variation coefficients) and mechanical properties (increasing flexural strength and bond strength by 21% and 151%, respectively). These findings led to the proposal of several mortar mixes deemed suitable for underwater 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -84,8 +65,9 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
@@ -94,4 +76,33 @@ tags:
       <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/chen_song-gui"><b>Chen</b> Song-Gui</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../wang_qiu_chen_liu.2025.NSfERPaIBiU3CP/">Novel Strategy for Enhancing Rheological Properties and Interlayer Bonding in Underwater 3D Concrete Printing</a></li>
       <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/ge_yutian"><b>Ge</b> Yutian</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../huan_ge_wang_wang.2024.RCBPUiFR3PC/">Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete:<br/>An Eco-Friendly Substitute to Conventional Fine Aggregates</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_zhan.2024.FoU3P,
+      author            = "Leo Gu Li and Guang-Hu Zhang",
+      title             = "Feasibility of Underwater 3D Printing: Effects of Anti-Washout-Admixtures on Printability and Strength of Mortar",
+      doi               = "10.1016/j.jobe.2024.110434",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "110434",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. G. Li  and G.-H. Zhang, “Feasibility of Underwater 3D Printing: Effects of Anti-Washout-Admixtures on Printability and Strength of Mortar”, <i>Journal of Building Engineering</i>, p. 110434, 2024, doi: 10.1016/j.jobe.2024.110434.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Leo Gu, and Guang-Hu Zhang. “Feasibility of Underwater 3D Printing: Effects of Anti-Washout-Admixtures on Printability and Strength of Mortar”. <i>Journal of Building Engineering</i>, 2024, 110434. https://doi.org/10.1016/j.jobe.2024.110434.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arjen Deetman, Derk Bos, Jan Blaakmeer, Theo Salet, Sandra Lucas
+    - footer
+title: Deetman Arjen, Bos Derk, Blaakmeer Jan, Salet Theo, Lucas Sandra
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1617/s11527-024-02378-y.pdf) An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1617/s11527-024-02378-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-024-02378-y</a>
+#An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing ([2024-05](date/2024/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-024-02378-y.pdf) <a href="https://doi.org/10.1617/s11527-024-02378-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-024-02378-y" target="_blank">10.1617/s11527-024-02378-y</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6756-5151" title="ORCID: 0000-0001-6756-5151" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deetman_h_arjen"><b>Deetman</b>&nbsp;Arjen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1668-2638" title="ORCID: 0000-0002-1668-2638" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_h_derk"><b>Bos</b>&nbsp;Derk</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9351-7889" title="ORCID: 0009-0005-9351-7889" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
+Journal Article - Materials and Structures, Vol. 57, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a> <a href="https://orcid.org/0000-0001-6756-5151" title="ORCID: 0000-0001-6756-5151" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> <a href="https://orcid.org/0000-0002-1668-2638" title="ORCID: 0000-0002-1668-2638" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a> <a href="https://orcid.org/0009-0005-9351-7889" title="ORCID: 0009-0005-9351-7889" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 57, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#continuous`](keyword/continuous)
-    [`#experiment`](keyword/experiment)
-    [`#line`](keyword/line)
-    [`#process`](keyword/process)
-    [`#time`](keyword/time)
-    [`#tracer`](keyword/tracer)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/tracer"><button class="btn">#tracer</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20In-Line%20Dye%20Tracer%20Experiment%20to%20Measure%20the%20Residence%20Time%20in%20Continuous%20Concrete%20Processing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193484920&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4397014279" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-024-02378-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-024-02378-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper introduces an in-line dye tracer experiment to measure the residence time functions in continuous concrete processing. These functions quantify the material-system interdependency and can be used to compare different material-system combinations and for quality and process control. A Rhodamine B solution was used as the tracer material and detected by measuring the color intensity using a digital image processing technique. The experiment was validated on a 3D concrete printing system by comparing the results of impulse, step-up and step-down inputs with different tracer quantities. The results show that a high signal-to-noise ratio can be obtained with low tracer concentrations. For the examined combination of material and system, an impact on the original process was only observed for the step-up inputs at high tracer quantities. It is concluded that the presented method is cost-effective and non-labor-intensive and, therefore, has the potential for wide adoption and integration in automated workflows.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bos_wolf.2023.AQCFfDFwC/">A Quality-Control Framework for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
@@ -80,9 +58,38 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../wang_scot_llor_flat.2019.RTDiCPoC/">Residence-Time-Distributions in Continuous Processing of Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bos_wolf.2023.AQCFfDFwC/">A Quality-Control Framework for Digital Fabrication with Concrete</a></li>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP,
+      author            = "Arjen H. Deetman and Derk H. Bos and Jan Blaakmeer and Theo A. M. Salet and Sandra Simaria de Oliveira Lucas",
+      title             = "An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing",
+      doi               = "10.1617/s11527-024-02378-y",
+      year              = "2024",
+      journal           = "Materials and Structures",
+      volume            = "57",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. H. Deetman, D. H. Bos, J. Blaakmeer, T. A. M. Salet and S. S. de Oliveira Lucas, “An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing”, <i>Materials and Structures</i>, vol. 57, no. 5, 2024, doi: 10.1617/s11527-024-02378-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Deetman, Arjen H., Derk H. Bos, Jan Blaakmeer, Theo A. M. Salet, and Sandra Simaria de Oliveira Lucas. “An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing”. <i>Materials and Structures</i> 57, no. 5 (2024). https://doi.org/10.1617/s11527-024-02378-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

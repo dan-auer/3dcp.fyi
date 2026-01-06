@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mukhagali Sagyntay, Florian Storch, Azamat Mustafa, Paul Plaschnick, Frank Will, Zhumadil Baigunchekov
+    - footer
+title: Sagyntay Mukhagali, Storch Florian, Mustafa Azamat, Plaschnick Paul, Will Frank, Baigunchekov Zhumadil
 description:
 tags:
  - automation
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.espublisher.com/uploads/article_pdf/es1589_JustAccepted.pdf) Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars ([2025-06](date/2025/06))
-<a href="https://doi.org/10.30919/es1589" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.30919/es1589</a>
+#Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.espublisher.com/uploads/article_pdf/es1589_JustAccepted.pdf) <a href="https://doi.org/10.30919/es1589" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.30919/es1589" target="_blank">10.30919/es1589</a>
 
--------------------------
+<a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b>&nbsp;Mukhagali</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2559-908X" title="ORCID: 0009-0007-2559-908X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/storch_florian"><b>Storch</b>&nbsp;Florian</a></span>, <a href="../../../author/mustafa_azamat"><b>Mustafa</b>&nbsp;Azamat</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-1395-6569" title="ORCID: 0009-0008-1395-6569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/plaschnick_paul"><b>Plaschnick</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9168-0835" title="ORCID: 0000-0002-9168-0835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/will_frank"><b>Will</b>&nbsp;Frank</a></span>, <a href="../../../author/baigunchekov_zhumadil"><b>Baigunchekov</b>&nbsp;Zhumadil</a></span><br>
+Journal Article - Engineered Science
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b> Mukhagali</a>
-,     <a href="../../../author/storch_florian"><b>Storch</b> Florian</a> <a href="https://orcid.org/0009-0007-2559-908X" title="ORCID: 0009-0007-2559-908X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>
-,     <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> <a href="https://orcid.org/0009-0008-1395-6569" title="ORCID: 0009-0008-1395-6569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/will_frank"><b>Will</b> Frank</a> <a href="https://orcid.org/0000-0002-9168-0835" title="ORCID: 0000-0002-9168-0835" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baigunchekov_zhumadil"><b>Baigunchekov</b> Zhumadil</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineered Science, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#bar`](keyword/bar)
-    [`#base`](keyword/base)
-    [`#integration`](keyword/integration)
-    [`#mesh`](keyword/mesh)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#standard`](keyword/standard)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Production%20of%203D%20Printed%20%D0%A1oncrete%20Structures%20with%20Integrated%20Reinforcement%20Mesh%20Based%20on%20Standard%20Reinforcement%20Bars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015653047&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411448163" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.30919/es1589" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.30919/es1589?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is developing rapidly and is seen as an alternative to traditional construction methods. But today, the use of standard steel reinforcements and their integration into the concrete is very relevant for 3D concrete printing. The currently available measures provide the automated production of the reinforcement mesh but the concreting is manual, or automates both the creation of the reinforcement mesh and concreting but the integration of the reinforcement into the concrete is not sufficient to meet the requirements regarding strength and durability. To fill this gap, this study proposes a novel concept that automates the creation of reinforcement mesh and its integration into concrete during the 3D printing process. To verify the feasibility of the concept, tests were carried out: a mesh strength test according to DIN 488-4, an X-ray scanning test for the integration of the reinforcement mesh into concrete, and a cross-section cut test perpendicular to the printing direction and in line with the printing direction. The results show that the proposed concept is viable.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "56 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../aram_cald_puen.2022.BSoSRPttH3PCL/">Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers</a></li>
@@ -130,7 +104,35 @@ tags:
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xiao_chen_ding_zou.2022.BBoSCR3PCitDPttI/">Bending Behavior of Steel-Cable-Reinforced 3D Printed Concrete in the Direction Perpendicular to the Interfaces</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sagy_stor_must_plas.2025.APo3PSwIRMBoSRB,
+      author            = "Mukhagali Sagyntay and Florian Storch and Azamat Mustafa and Paul Plaschnick and Frank Will and Zhumadil Baigunchekov",
+      title             = "Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars",
+      doi               = "10.30919/es1589",
+      year              = "2025",
+      journal           = "Engineered Science",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sagyntay, F. Storch, A. Mustafa, P. Plaschnick, F. Will and Z. Baigunchekov, “Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars”, <i>Engineered Science</i>, 2025, doi: 10.30919/es1589.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sagyntay, Mukhagali, Florian Storch, Azamat Mustafa, Paul Plaschnick, Frank Will, and Zhumadil Baigunchekov. “Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars”. <i>Engineered Science</i>, 2025. https://doi.org/10.30919/es1589.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #tool
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
   <li><a href="../../../author/ozalp_abdulkadir"><b>Özalp</b> Abdulkadir</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../ozal_alde.2025.AIBDCPTfTDPCW/">Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls</a></li>
   <li><a href="../../../author/do_phi_duc"><b>Do</b> Duc</a>, <a href="../../../author/diab_zeinab"><b>Diab</b> Zeinab</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../do_diab_remo_hoxh.2025.NSTf3P/">Numerical Simulation-Tools for 3D Printing</a></li>

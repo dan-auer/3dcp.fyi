@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sara Alonso-Cañon, Elena Blanco-Fernandez, Daniel Castro-Fresno, Adrian Yoris-Nobile, Laura Castañon-Jano
+    - footer
+title: Alonso-Cañon Sara, Blanco-Fernandez Elena, Castro-Fresno Daniel, Yoris-Nobile Adrian, Castañon-Jano Laura
 description:
 tags:
  - concrete
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://repositorio.unican.es/xmlui/bitstream/10902/26990/2/Reinforcements3DPrinting.pdf) Reinforcements in 3D Printing Concrete Structures ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1007/s43452-022-00552-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s43452-022-00552-z</a>
+#Reinforcements in 3D Printing Concrete Structures ([2022-11](date/2022/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://repositorio.unican.es/xmlui/bitstream/10902/26990/2/Reinforcements3DPrinting.pdf) <a href="https://doi.org/10.1007/s43452-022-00552-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-022-00552-z" target="_blank">10.1007/s43452-022-00552-z</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0080-4888" title="ORCID: 0000-0003-0080-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5658-3901" title="ORCID: 0000-0001-5658-3901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9332-2372" title="ORCID: 0000-0001-9332-2372" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b>&nbsp;Adrian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5968-2726" title="ORCID: 0000-0002-5968-2726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castanon-jano_laura"><b>Castañon-Jano</b>&nbsp;Laura</a></span><br>
+Journal Article - Archives of Civil and Mechanical Engineering, Vol. 23, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a> <a href="https://orcid.org/0000-0003-0080-4888" title="ORCID: 0000-0003-0080-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> <a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a> <a href="https://orcid.org/0000-0001-5658-3901" title="ORCID: 0000-0001-5658-3901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> <a href="https://orcid.org/0000-0001-9332-2372" title="ORCID: 0000-0001-9332-2372" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/castanon-jano_laura"><b>Castañon-Jano</b> Laura</a> <a href="https://orcid.org/0000-0002-5968-2726" title="ORCID: 0000-0002-5968-2726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Archives of Civil and Mechanical Engineering, Vol. 23, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reinforcements%20in%203D%20Printing%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141821010&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4308793184" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s43452-022-00552-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s43452-022-00552-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of concrete structures has had a strong development in recent years, enhanced by the advantages it presents over traditional construction. However, it currently still has some limitations. One of those limitations is to incorporate the reinforcements into the automated 3D printing process. The objective of this work is to present a review of the methods that have been used so far to reinforce the structures. The different methods used will be presented focusing on the reinforcement by the use of fibers. The properties of the fibers, lengths, and percentages of the same used in the mixtures will be analyzed. The results of the different tests will be shown making a comparison between the values obtained from the tests carried out with the printed and molded materials. Finally, the increases in the results of the tests that these fibers provide with respect to the samples without them will be analyzed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -106,8 +87,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_yang_sun.2025.SCoSB3PRCS/">Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure:<br/>Effect of 2.5D Rebar Structure on the Flexural Performance of Slab</a></li>
       <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>
@@ -125,4 +106,34 @@ tags:
       <li><a href="../../../author/shenawa_amaal"><b>Shenawa</b> Amaal</a>, <a href="../../../author/karoti_mahadev_poonam"><b>Karoti</b> Poonam</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../shen_karo.2023.3PiCMCSaTPR/">3D Printing in Construction, Mixture Characteristics, Strength, and Thermal Performance-Review</a></li>
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../yori_sleb_liza_inda.2023.ARBb3P/">Artificial Reefs Built by 3D Printing:<br/>Systematisation in the Design, Material-Selection and Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alon_blan_cast_yori.2023.Ri3PCS,
+      author            = "Sara Alonso-Cañon and Elena Blanco-Fernandez and Daniel Castro-Fresno and Adrian Isidro Yoris-Nobile and Laura Castañon-Jano",
+      title             = "Reinforcements in 3D Printing Concrete Structures",
+      doi               = "10.1007/s43452-022-00552-z",
+      year              = "2023",
+      journal           = "Archives of Civil and Mechanical Engineering",
+      volume            = "23",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Alonso-Cañon, E. Blanco-Fernandez, D. Castro-Fresno, A. I. Yoris-Nobile and L. Castañon-Jano, “Reinforcements in 3D Printing Concrete Structures”, <i>Archives of Civil and Mechanical Engineering</i>, vol. 23, no. 1, 2023, doi: 10.1007/s43452-022-00552-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alonso-Cañon, Sara, Elena Blanco-Fernandez, Daniel Castro-Fresno, Adrian Isidro Yoris-Nobile, and Laura Castañon-Jano. “Reinforcements in 3D Printing Concrete Structures”. <i>Archives of Civil and Mechanical Engineering</i> 23, no. 1 (2023). https://doi.org/10.1007/s43452-022-00552-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

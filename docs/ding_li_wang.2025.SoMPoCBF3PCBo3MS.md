@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shengxuan Ding, Jiren Li, Mingqiang Wang
+    - footer
+title: Ding Shengxuan, Li Jiren, Wang Mingqiang
 description:
 tags:
  - basalt
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure ([2025-07](date/2025/07))
-<a href="https://doi.org/10.3390/ma18143379" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18143379</a>
+#Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure ([2025-07](date/2025/07))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/ma18143379" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18143379" target="_blank">10.3390/ma18143379</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-2044-4390" title="ORCID: 0009-0009-2044-4390" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_shengxuan"><b>Ding</b>&nbsp;Shengxuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4583-1820" title="ORCID: 0000-0003-4583-1820" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_jiren"><b>Li</b>&nbsp;Jiren</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-0037-9243" title="ORCID: 0009-0006-0037-9243" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_mingqiang"><b>Wang</b>&nbsp;Mingqiang</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 14, No. 3379
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a> <a href="https://orcid.org/0009-0009-2044-4390" title="ORCID: 0009-0009-2044-4390" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jiren"><b>Li</b> Jiren</a> <a href="https://orcid.org/0000-0003-4583-1820" title="ORCID: 0000-0003-4583-1820" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="https://orcid.org/0009-0006-0037-9243" title="ORCID: 0009-0006-0037-9243" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 14, No. 3379
-
-:aca-blank:{ .lg .middle}
-    [`#basalt`](keyword/basalt)
-    [`#base`](keyword/base)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20Mechanical%20Properties%20of%20Composite%20Basalt%20Fiber%203D-Printed%20Concrete%20Based%20on%203D%20Meso-Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011666720&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412785063" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18143379" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18143379?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As 3D concrete printing emerges as a transformative construction method, its structural safety remains hindered by unresolved issues of mechanical anisotropy and interlayer defects. To address this, we systematically investigate the failure mechanisms and mechanical performance of basalt fiber-reinforced 3D-printed magnesite concrete. A total of 30 cube specimens (50 mm × 50 mm × 50 mm)—comprising three types (Corner, Stripe, and R-a-p)—were fabricated and tested under compressive and splitting tensile loading along three orthogonal directions using a 2000 kN electro-hydraulic testing machine. The results indicate that 3D-printed concrete exhibits significantly lower strength than cast-in-place concrete, which is attributed to weak interfacial bonds and interlayer pores. Notably, the R-a-p specimen’s Z-direction compressive strength is 38.7% lower than its Y-direction counterpart. To complement the mechanical tests, DIC, CT scanning, and SEM analyses were conducted to explore crack development, internal defect morphology, and microstructure. A finite element model based on the experimental data successfully reproduced the observed failure processes. This study not only enhances our understanding of anisotropic behavior in 3D-printed concrete but also offers practical insights for print-path optimization and sustainable structural design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a>, <a href="../../../author/kuva_jukka"><b>Kuva</b> Jukka</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/li_zhongsen"><b>Li</b> Zhongsen</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_kuva_mohi_li.2023.IotISoH3PCbXCSaIIotMP/">Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance</a></li>
       <li><a href="../../../author/garces_gonzalo"><b>Garcés</b> Gonzalo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../garc_garc_buns_muno.2025.AC40/">Additive Construction 4.0:<br/>A Systematic Review of 3D Concrete Printing for Construction 4.0</a></li>
@@ -98,8 +76,38 @@ tags:
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhao_wang_sun_wu.2025.AASfMDi3PC/">Automated Analysis System for Micro-Defects in 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/manny_agemar"><b>Manny</b> Agemar</a>, <a href="../../../author/dehn_frank"><b>Dehn</b> Frank</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../mann_dehn.2025.Bo3PiCC/">Basics of 3D Printing in Concrete Construction:<br/>Recommendations for Practice</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_li_wang.2025.SoMPoCBF3PCBo3MS,
+      author            = "Shengxuan Ding and Jiren Li and Mingqiang Wang",
+      title             = "Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure",
+      doi               = "10.3390/ma18143379",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "14",
+      pages             = "3379",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Ding, J. Li and M. Wang, “Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure”, <i>Materials</i>, vol. 18, no. 14, p. 3379, 2025, doi: 10.3390/ma18143379.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Shengxuan, Jiren Li, and Mingqiang Wang. “Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure”. <i>Materials</i> 18, no. 14 (2025): 3379. https://doi.org/10.3390/ma18143379.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

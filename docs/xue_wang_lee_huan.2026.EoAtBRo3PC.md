@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jia-Chen Xue, Wei-Chien Wang, Ming-Gin Lee, Chia-Yun Huang, Ciao-Yin Liang
+    - footer
+title: Xue Jia-Chen, Wang Wei-Chien, Lee Ming-Gin, Huang Chia-Yun, Liang Ciao-Yin
 description:
 tags:
  - aggregate
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>:aca-blank: Printability, Mechanics, and Shrinkage ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1617/s11527-025-02866-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02866-9</a>
+#Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete&nbsp;([2025-12](date/2025/12))
+<div class="h1-like">Printability, Mechanics, and Shrinkage</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-025-02866-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02866-9" target="_blank">10.1617/s11527-025-02866-9</a>
 
--------------------------
+<a href="../../../author/xue_jia-chen"><b>Xue</b>&nbsp;Jia-Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2400-1644" title="ORCID: 0000-0002-2400-1644" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_wei-chien"><b>Wang</b>&nbsp;Wei-Chien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0209-4226" title="ORCID: 0000-0003-0209-4226" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_ming-gin"><b>Lee</b>&nbsp;Ming-Gin</a></span>, <a href="../../../author/huang_chia-yun"><b>Huang</b>&nbsp;Chia-Yun</a></span>, <a href="../../../author/liang_ciao-yin"><b>Liang</b>&nbsp;Ciao-Yin</a></span><br>
+Journal Article - Materials and Structures, Vol. 59, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>
-,     <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a> <a href="https://orcid.org/0000-0002-2400-1644" title="ORCID: 0000-0002-2400-1644" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a> <a href="https://orcid.org/0000-0003-0209-4226" title="ORCID: 0000-0003-0209-4226" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a>
-,     <a href="../../../author/liang_ciao-yin"><b>Liang</b> Ciao-Yin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 59, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#binder`](keyword/binder)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#ratio`](keyword/ratio)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Aggregate-to-Binder%20Ratio%20on%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417362851" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02866-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02866-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Aggregate content plays a critical role in governing both the rheological behavior and mechanical performance of 3D printed concrete (3DPC). This study investigates the impact of varying the aggregate-to-binder (A/B) ratio from 0.5 to 1.5, while maintaining a constant water-to-binder ratio, on the printability, mechanical behavior, and volumetric stability of 3DPC. A dual-parameter framework based on flowability and shape retention is proposed to define printability across different A/B ratios, offering a practical and generalizable alternative to rheometer-based evaluation. The experimental results demonstrate that the proposed dual-parameter framework effectively enables rapid evaluation of 3DPC printability. When both flowability and shape retention are maintained within appropriate ranges, 3DPC exhibits good printing performance. Mechanical testing reveals that increasing the A/B ratio above 1.25 reduces both compressive and flexural strength due to weakened matrix–aggregate bonding and interfacial failure. Furthermore, anisotropy in strength distribution emerges at extreme A/B values due to variable interlayer cohesion. Drying shrinkage is significantly reduced at higher A/B ratios, with a threshold of A/B ≥ 1.0 ensuring compliance with ACI volumetric stability standards. Notably, the binder contributes approximately 89% of the total CO2 emissions associated with 3DPC. Consequently, the overall carbon emissions decrease markedly as the A/B ratio increases. An optimal A/B ratio of 1.25 is recommended for designing 3DPC, as it provides a well-balanced performance across mechanical strength, volumetric stability, and environmental sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -117,7 +94,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xue_wang_lee_huan.2026.EoAtBRo3PC,
+      author            = "Jia-Chen Xue and Wei-Chien Wang and Ming-Gin Lee and Chia-Yun Huang and Ciao-Yin Liang",
+      title             = "Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete: Printability, Mechanics, and Shrinkage",
+      doi               = "10.1617/s11527-025-02866-9",
+      year              = "2026",
+      journal           = "Materials and Structures",
+      volume            = "59",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-C. Xue, W.-C. Wang, M.-G. Lee, C.-Y. Huang and C.-Y. Liang, “Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete: Printability, Mechanics, and Shrinkage”, <i>Materials and Structures</i>, vol. 59, no. 1, 2026, doi: 10.1617/s11527-025-02866-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xue, Jia-Chen, Wei-Chien Wang, Ming-Gin Lee, Chia-Yun Huang, and Ciao-Yin Liang. “Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete: Printability, Mechanics, and Shrinkage”. <i>Materials and Structures</i> 59, no. 1 (2026). https://doi.org/10.1617/s11527-025-02866-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

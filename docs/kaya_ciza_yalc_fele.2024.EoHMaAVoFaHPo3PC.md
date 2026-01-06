@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ebru Kaya, Baraka Ciza, Çağlar Yalçınkaya, Burak Felekoğlu, Halit Yazıcı, Oğuzhan Çopuroğlu
+    - footer
+title: Kaya Ebru, Ciza Baraka, Yalçınkaya Çağlar, Felekoğlu Burak, Yazıcı Halit, Çopuroğlu Oğuzhan
 description:
 tags:
  - aggregate
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Hydroxypropyl-Methylcellulose and Aggregate Volume on Fresh and Hardened Properties of 3D Printable Concrete ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.139253" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.139253</a>
+#Effect of Hydroxypropyl-Methylcellulose and Aggregate Volume on Fresh and Hardened Properties of 3D Printable Concrete ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.139253" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139253" target="_blank">10.1016/j.conbuildmat.2024.139253</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5020-2247" title="ORCID: 0000-0002-5020-2247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaya_ebru"><b>Kaya</b>&nbsp;Ebru</a></span>, <a href="../../../author/ciza_baraka"><b>Ciza</b>&nbsp;Baraka</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4688-6164" title="ORCID: 0000-0002-4688-6164" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b>&nbsp;Çağlar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7426-1698" title="ORCID: 0000-0002-7426-1698" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/felekoglu_burak"><b>Felekoğlu</b>&nbsp;Burak</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0921-9709" title="ORCID: 0000-0002-0921-9709" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yazici_halit"><b>Yazıcı</b>&nbsp;Halit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 456, No. 139253
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a> <a href="https://orcid.org/0000-0002-5020-2247" title="ORCID: 0000-0002-5020-2247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>
-,     <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="https://orcid.org/0000-0002-4688-6164" title="ORCID: 0000-0002-4688-6164" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> <a href="https://orcid.org/0000-0002-7426-1698" title="ORCID: 0000-0002-7426-1698" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yazici_halit"><b>Yazıcı</b> Halit</a> <a href="https://orcid.org/0000-0002-0921-9709" title="ORCID: 0000-0002-0921-9709" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 456, No. 139253
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#volume`](keyword/volume)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Hydroxypropyl-Methylcellulose%20and%20Aggregate%20Volume%20on%20Fresh%20and%20Hardened%20Properties%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209914774&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404644001" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.139253" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.139253?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) concrete printing necessitates a balance between various ingredients of the mix composition. This study investigated the effect of hydroxypropyl methylcellulose (HPMC) dosage at various aggregate volumes on fresh, rheological, and mechanical properties of 3D printable concrete (3DPC). Accordingly, 3DPC mixtures having three aggregate volumes, namely 44, 41, and 38 %, were produced at a constant water-to-binder ratio. For each aggregate volume, three HPMC dosages, namely 0, 0.14, and 0.28 % by weight of cement, were studied. A mini-slump flow table and a manual printing gun were used to assess the flow diameter and printability. Rheological properties were determined using a rotational rheometer and extrusion device. The buildability was assessed through green strength testing. Results showed a directly proportional relationship between HPMC dosage and fresh and rheological properties of these mixtures. At a constant w/c ratio, increasing the aggregate volume led to higher green strength and extrusion pressure at all piston-moving velocities. Overall, at an early age, the effect of HPMC dosage was more significant on the static yield stress of mixtures with lower paste volume while being more accentuated on the green strength for mixes with higher paste volume. The positive impact of increasing HPMC dosage on the green strength becomes insignificant at later ages. The effect of increasing HPMC dosage, however, was more pronounced on the extrudability of mixtures with higher paste volume by preserving their extrudability at later ages. Finally, HPMC addition led to strength losses of up to 28.63 and 32.7 % for flexural and compressive strength, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -107,10 +83,40 @@ tags:
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a>, <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kaya_ciza_yalc_fele.2025.ACSotEoFAaBFSaPCSi3PC/">A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete</a></li>
       <li><a href="../../../author/li_yifan"><b>Li</b> Yifan</a>, <a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a>, <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../li_chen_yang_guo.2025.IotIoMRotIBPoSW3PC/">Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kaya_ciza_yalc_fele.2024.EoHMaAVoFaHPo3PC,
+      author            = "Ebru Kaya and Baraka Ciza and Çağlar Yalçınkaya and Burak Felekoğlu and Halit Yazıcı and Oğuzhan Çopuroğlu",
+      title             = "Effect of Hydroxypropyl-Methylcellulose and Aggregate Volume on Fresh and Hardened Properties of 3D Printable Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.139253",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "456",
+      pages             = "139253",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Kaya, B. Ciza, Ç. Yalçınkaya, B. Felekoğlu, H. Yazıcı and O. Çopuroğlu, “Effect of Hydroxypropyl-Methylcellulose and Aggregate Volume on Fresh and Hardened Properties of 3D Printable Concrete”, <i>Construction and Building Materials</i>, vol. 456, p. 139253, 2024, doi: 10.1016/j.conbuildmat.2024.139253.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kaya, Ebru, Baraka Ciza, Çağlar Yalçınkaya, Burak Felekoğlu, Halit Yazıcı, and Oğuzhan Çopuroğlu. “Effect of Hydroxypropyl-Methylcellulose and Aggregate Volume on Fresh and Hardened Properties of 3D Printable Concrete”. <i>Construction and Building Materials</i> 456 (2024): 139253. https://doi.org/10.1016/j.conbuildmat.2024.139253.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

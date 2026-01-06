@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jairon Silveira Júnior, Kevin Moura Cerqueira, Ruan Moura, Paulo Matos, Erich Rodríguez, José Castro Pessôa, Marcelo Souza
+    - footer
+title: Silveira Júnior Jairon, Moura Cerqueira Kevin, Moura Ruan, Matos Paulo, Rodríguez Erich, Castro Pessôa José, Souza Marcelo
 description:
 tags:
  - buildability
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/4/1070/pdf?version=1712886701) Influence of Time-Gap on the Buildability of Cement Mixtures Designed for 3D Printing ([2024-04](date/2024/04))
-<a href="https://doi.org/10.3390/buildings14041070" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14041070</a>
+#Influence of Time-Gap on the Buildability of Cement Mixtures Designed for 3D Printing ([2024-04](date/2024/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/4/1070/pdf?version=1712886701) <a href="https://doi.org/10.3390/buildings14041070" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14041070" target="_blank">10.3390/buildings14041070</a>
 
--------------------------
+<a href="../../../author/silveira-junior_gomes_jairon"><b>da&nbsp;Silveira Júnior</b>&nbsp;Jairon</a></span>, <a href="../../../author/moura-cerqueira_kevin"><b>de&nbsp;Moura Cerqueira</b>&nbsp;Kevin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5394-0504" title="ORCID: 0000-0001-5394-0504" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moura_carlos-araujo_ruan"><b>de&nbsp;Moura</b>&nbsp;Ruan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3695-1356" title="ORCID: 0000-0002-3695-1356" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matos_ricardo_paulo"><b>de&nbsp;Matos</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1914-4541" title="ORCID: 0000-0003-1914-4541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_davi_erich"><b>Rodríguez</b>&nbsp;Erich</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7641-4400" title="ORCID: 0000-0001-7641-4400" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castro-pessoa_renato_jose"><b>de&nbsp;Castro Pessôa</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza_tramontin_marcelo"><b>Souza</b>&nbsp;Marcelo</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 4, No. 1070
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/silveira-junior_gomes_jairon"><b>da Silveira Júnior</b> Jairon</a>
-,     <a href="../../../author/moura-cerqueira_kevin"><b>de Moura Cerqueira</b> Kevin</a>
-,     <a href="../../../author/moura_carlos-araujo_ruan"><b>de Moura</b> Ruan</a> <a href="https://orcid.org/0000-0001-5394-0504" title="ORCID: 0000-0001-5394-0504" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/matos_ricardo_paulo"><b>de Matos</b> Paulo</a> <a href="https://orcid.org/0000-0002-3695-1356" title="ORCID: 0000-0002-3695-1356" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rodriguez_davi_erich"><b>Rodríguez</b> Erich</a> <a href="https://orcid.org/0000-0003-1914-4541" title="ORCID: 0000-0003-1914-4541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/castro-pessoa_renato_jose"><b>de Castro Pessôa</b> José</a> <a href="https://orcid.org/0000-0001-7641-4400" title="ORCID: 0000-0001-7641-4400" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a> <a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 4, No. 1070
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#design`](keyword/design)
-    [`#gap`](keyword/gap)
-    [`#influence`](keyword/influence)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/gap"><button class="btn">#gap</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Time-Gap%20on%20the%20Buildability%20of%20Cement%20Mixtures%20Designed%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191363241&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394754330" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14041070" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14041070?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study provides novel insights into the nuanced impact of time gaps on the buildability of cement mixtures within the 3D printing process. In contrast to studies predominantly focused on rheological properties, this research addresses essential factors such as printed structure size, which inevitably affect the temporal intervals between layer depositions and consequently shape the buildability outcome. The investigation encompasses cement mixtures with diverse water-to-cement ratios (ranging from 0.26 to 0.36), varied setting accelerator concentrations (1.0 to 2.0 wt.%), and superplasticizer contents (0.25 and 0.5 wt.%), all explored across different time gaps (ranging from 5 to 25 min). The evaluation of buildability involves a meticulous assessment of the deformation of the bottom layer induced by adjacent layers. The findings underscore the substantial role played by chemical admixtures in fine-tuning rheological properties specific to each time gap, thereby influencing the size of the printed structure. The impact of the accelerator admixture is evident in its ability to reduce the minimum time gap required for optimal buildability while the superplasticizer emerges as a key player in enhancing fluidity without compromising the load-bearing capacity of the printed structures. To predict buildability for a given time gap, the study leverages the results of spreading diameter from the flow table test and the setting time from the Vicat test. Lastly, this study extends its scope to unveil insights into the intricate interplay between time gap and printing speed for 3D printed real-scale constructions by examining the relationship among these parameters across constructions with diverse built areas.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a>, <a href="../../../author/fabbrocino_f"><b>Fabbrocino</b> F.</a>, <a href="../../../author/carpentieri_g"><b>Carpentieri</b> G.</a>, <a href="../../../author/modano_m"><b>Modano</b> M.</a> et al. <a href="../../../date/2015/12">(2015-12)</a><br><a href="../../../fari_fabb_carp_moda.2016.OtRoCMt3PPaMF/">On the Reinforcement of Cement Mortars through 3D Printed Polymeric- and Metallic-Fibers</a></li>
@@ -91,7 +66,6 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pongpaisanseree_kittisak"><b>Pongpaisanseree</b> Kittisak</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../pras_pong_jira_sngu.2020.TaSIoLS3EPWP/">Thermal- and Sound-Insulation of Large-Scale 3D Extrusion-Printing Wall-Panel</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../putt_schu_titt.2019.SMaaTtIILBSi3PCM/">Surface-Modification as a Technique to Improve Inter-Layer Bonding Strength in 3D Printed Cementitious Materials</a></li>
-      <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/akarsu-ozenc_aliye"><b>Akarsu Özenç</b> Aliye</a>, <a href="../../../author/saka-dinc_zaide"><b>Saka Dinç</b> Zaide</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sahi_akar_saka_mard.2024.IoFaHPo3PCCOMCF/">Investigation of Fresh and Hardened Properties of 3D Printable Concrete Containing Ozone-Modified Carbon-Fiber</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../souz_ferr_mora_senf.2022.RoCAo3PPC/">Role of Chemical Admixtures on 3D Printed Portland Cement:<br/>Assessing Rheology and Buildability</a></li>
@@ -106,8 +80,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kul_koca.2025.PAoDaOPi3CPoWE/">Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements</a></li>
       <li><a href="../../../author/keller_petr"><b>Keller</b> Petr</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kell_mend.2025.AoODPbAMfCMoT/">Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time</a></li>
@@ -120,4 +94,35 @@ tags:
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/mousavi_fateme"><b>Mousavi</b> Fateme</a>, <a href="../../../author/mahdavinia_pooneh"><b>Mahdavinia</b> Pooneh</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../mous_beng_mous_mahd.2025.ILBSPo3PCUANN/">Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network:<br/>Experimental and Modeling Study</a></li>
       <li><a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a>, <a href="../../../author/prigol_hellen"><b>Prigol</b> Hellen</a>, <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a>, <a href="../../../author/silva-nazario_samara"><b>Silva Nazário</b> Samara</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../mato_prig_scha_silv.2024.QCToF3PCBM/">Quality-Control-Tests of Fresh 3D Printable Cement-Based Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{silv_mour_mour_mato.2024.IoTGotBoCMDf3P,
+      author            = "Jairon Gomes da Silveira Júnior and Kevin de Moura Cerqueira and Ruan Carlos Araújo de Moura and Paulo Ricardo de Matos and Erich Davi Rodríguez and José Renato de Castro Pessôa and Marcelo Tramontin Souza",
+      title             = "Influence of Time-Gap on the Buildability of Cement Mixtures Designed for 3D Printing",
+      doi               = "10.3390/buildings14041070",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "4",
+      pages             = "1070",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. G. da Silveira Júnior, “Influence of Time-Gap on the Buildability of Cement Mixtures Designed for 3D Printing”, <i>Buildings</i>, vol. 14, no. 4, p. 1070, 2024, doi: 10.3390/buildings14041070.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Silveira Júnior, Jairon Gomes da, Kevin de Moura Cerqueira, Ruan Carlos Araújo de Moura, Paulo Ricardo de Matos, Erich Davi Rodríguez, José Renato de Castro Pessôa, and Marcelo Tramontin Souza. “Influence of Time-Gap on the Buildability of Cement Mixtures Designed for 3D Printing”. <i>Buildings</i> 14, no. 4 (2024): 1070. https://doi.org/10.3390/buildings14041070.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

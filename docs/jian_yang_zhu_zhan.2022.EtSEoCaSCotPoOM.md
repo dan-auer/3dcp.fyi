@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhengwu Jiang, Qian Yang, Yanmei Zhu, Yi Zhang, Qiang Ren
+    - footer
+title: Jiang Zhengwu, Yang Qian, Zhu Yanmei, Zhang Yi, Ren Qiang
 description:
 tags:
  - carbonation
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluating the Stiffening Effect of CSA and Sodium Carbonate on the Printability of OPC Mortar ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127088" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127088</a>
+#Evaluating the Stiffening Effect of CSA and Sodium Carbonate on the Printability of OPC Mortar ([2022-03](date/2022/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127088" target="_blank">10.1016/j.conbuildmat.2022.127088</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_zhengwu"><b>Jiang</b>&nbsp;Zhengwu</a></span>, <a href="../../../author/yang_qian"><b>Yang</b>&nbsp;Qian</a></span>, <a href="../../../author/zhu_yanmei"><b>Zhu</b>&nbsp;Yanmei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_qiang"><b>Ren</b>&nbsp;Qiang</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 328
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a> <a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_qian"><b>Yang</b> Qian</a>
-,     <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>
-,     <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> <a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 328, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbonation`](keyword/carbonation)
-    [`#effect`](keyword/effect)
-    [`#evaluation`](keyword/evaluation)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#stiffness`](keyword/stiffness)
-
-
--------------------------
+<a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20the%20Stiffening%20Effect%20of%20CSA%20and%20Sodium%20Carbonate%20on%20the%20Printability%20of%20OPC%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125933502&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220903328" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127088" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127088?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The printability of a material is the prerequisite of extrusion-based 3D concrete printing. This paper exams the printability of ordinary Portland cement (OPC) mortar with calcium sulphoaluminate cement (CSA) as the stiffening control agent. The flowability, shape stability, penetration resistance and real printing performance over time were measured to represent the printability of mixtures. Results indicate that CSA slightly decreases the initial flowability of mixtures and significantly increases the flowability loss with rest time. Besides, CSA improves the shape stability of mixtures and this improvement is increasingly prominent with rest time. In addition, CSA hardly influence the initial penetration resistance while it has a significant promotion on the growth of penetration resistance with time. Above results demonstrate that CSA has a moderate influence on the extrudability of OPC mortar mixtures and a prominent stiffening effect on mixtures, as a result providing a timely buildability for the printed layers. This influence is validated by the rheological properties and the kinetic analysis of cement hydration. Thus CSA acts as a favorable stiffening control agent for OPC mortar, which improves the printability of mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/carroll_william"><b>Carroll</b> William</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../afar_carr_garb_bier.2021.D3PCMwGFP/">Designing 3D Printable Cementitious Materials with Gel-Forming Polymers</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -97,11 +76,40 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/jiang_chengzhi"><b>Jiang</b> Chengzhi</a>, <a href="../../../author/gan_xingyu"><b>Gan</b> Xingyu</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../jin_jian_gan_sun.2025.EtPo3PWCMwA/">Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators:<br/>Evolution of Early-Age Hydration and Rheology</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_titt_schu_jian.2024.ARCf3PCBMbT/">Active Rheology-Control for 3D Printable Cement-Based Materials by Temperature:<br/>An Exploratory Study</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jian_yang_zhu_zhan.2022.EtSEoCaSCotPoOM,
+      author            = "Zhengwu Jiang and Qian Yang and Yanmei Zhu and Yi Zhang and Qiang Ren",
+      title             = "Evaluating the Stiffening Effect of CSA and Sodium Carbonate on the Printability of OPC Mortar",
+      doi               = "10.1016/j.conbuildmat.2022.127088",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "328",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Jiang, Q. Yang, Y. Zhu, Y. Zhang and Q. Ren, “Evaluating the Stiffening Effect of CSA and Sodium Carbonate on the Printability of OPC Mortar”, <i>Construction and Building Materials</i>, vol. 328, 2022, doi: 10.1016/j.conbuildmat.2022.127088.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiang, Zhengwu, Qian Yang, Yanmei Zhu, Yi Zhang, and Qiang Ren. “Evaluating the Stiffening Effect of CSA and Sodium Carbonate on the Printability of OPC Mortar”. <i>Construction and Building Materials</i> 328 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127088.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zihan Li, Huanbao Liu, Ping Nie, Xiang Cheng, Guangming Zheng, Wenyu Jin, Baocheng Xiong
+    - footer
+title: Li Zihan, Liu Huanbao, Nie Ping, Cheng Xiang, Zheng Guangming, Jin Wenyu, Xiong Baocheng
 description:
 tags:
  - concrete
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties of Concrete Reinforced with High-Performance Micro-Particles for 3D Concrete Printing ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.134676" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.134676</a>
+#Mechanical Properties of Concrete Reinforced with High-Performance Micro-Particles for 3D Concrete Printing ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.134676" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134676" target="_blank">10.1016/j.conbuildmat.2023.134676</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5936-8422" title="ORCID: 0000-0001-5936-8422" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zihan"><b>Li</b>&nbsp;Zihan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3211-7954" title="ORCID: 0000-0002-3211-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huanbao"><b>Liu</b>&nbsp;Huanbao</a></span>, <a href="../../../author/nie_ping"><b>Nie</b>&nbsp;Ping</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3002-7699" title="ORCID: 0000-0002-3002-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_xiang"><b>Cheng</b>&nbsp;Xiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7586-970X" title="ORCID: 0000-0002-7586-970X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zheng_guangming"><b>Zheng</b>&nbsp;Guangming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7808-7121" title="ORCID: 0000-0002-7808-7121" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jin_wenyu"><b>Jin</b>&nbsp;Wenyu</a></span>, <a href="../../../author/xiong_baocheng"><b>Xiong</b>&nbsp;Baocheng</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 411, No. 134676
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_zihan"><b>Li</b> Zihan</a> <a href="https://orcid.org/0000-0001-5936-8422" title="ORCID: 0000-0001-5936-8422" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a> <a href="https://orcid.org/0000-0002-3211-7954" title="ORCID: 0000-0002-3211-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>
-,     <a href="../../../author/cheng_xiang"><b>Cheng</b> Xiang</a> <a href="https://orcid.org/0000-0002-3002-7699" title="ORCID: 0000-0002-3002-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zheng_guangming"><b>Zheng</b> Guangming</a> <a href="https://orcid.org/0000-0002-7586-970X" title="ORCID: 0000-0002-7586-970X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jin_wenyu"><b>Jin</b> Wenyu</a> <a href="https://orcid.org/0000-0002-7808-7121" title="ORCID: 0000-0002-7808-7121" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 411, No. 134676
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#mechanics`](keyword/mechanics)
-    [`#micro`](keyword/micro)
-    [`#particle`](keyword/particle)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Concrete%20Reinforced%20with%20High-Performance%20Micro-Particles%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180538630&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390097123" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.134676" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.134676?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Given its exceptional mechanical properties, ductility, and durability, high-performance concrete (HPC) has become a focal point of research in the field of 3D concrete printing (3DCP) in recent years. To further enhance material properties, particularly compressive capability, flexural capacity, and interlayer bond strength, HPC that incorporates micron materials based on fiber reinforcement is presented in this study. Mechanical properties and microstructure are analyzed to explore the microparticle enhancement mechanism. Then, a self-developed 3DCP system is utilized to verify the printability of materials and achieve the regularity of print parameters and interlayer bond strength. Furthermore, the effects of micron materials on the properties of HPC are evaluated though group comparison. The optimal material and dosage of HPC under different properties are obtained by conducting a comparative analysis of the test results for various properties of three different materials. The current work not only creates HPC that enhances material properties, but also restores confidence in the development of 3D printing for the utilization of construction waste resources.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
@@ -87,8 +61,8 @@ tags:
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
       <li><a href="../../../author/altehaini_zakiah"><b>Altehaini</b> Zakiah</a>, <a href="../../../author/dayili_mohammed"><b>Dayili</b> Mohammed</a>, <a href="../../../author/alrajab_meshari"><b>Alrajab</b> Meshari</a>, <a href="../../../author/harbi_al_adel"><b>Harbi</b> Adel</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../alte_dayi_alra_harb.2025.D3CPfLSBCiSA/">Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia:<br/>A Case Study</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
@@ -100,4 +74,34 @@ tags:
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/qiu_yue"><b>Qiu</b> Yue</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yang_xu_lan_qiu.2024.NPLCoMFi3PCCaMMUaNIM/">Near Pixel-Level Characterisation of Micro-Fibers in 3D Printed Cementitious Composites and Migration Mechanisms Using a Novel Iterative Method</a></li>
       <li><a href="../../../author/jiang_xiongzhi"><b>Jiang</b> Xiongzhi</a>, <a href="../../../author/li_yujia"><b>Li</b> Yujia</a>, <a href="../../../author/yang_zhe"><b>Yang</b> Zhe</a>, <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../jian_li_yang_li.2024.HPOtEtSoTDPC/">Harnessing Path-Optimization to Enhance the Strength of Three-Dimensional Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_liu_nie_chen.2024.MPoCRwHPMPf3CP,
+      author            = "Zihan Li and Huanbao Liu and Ping Nie and Xiang Cheng and Guangming Zheng and Wenyu Jin and Baocheng Xiong",
+      title             = "Mechanical Properties of Concrete Reinforced with High-Performance Micro-Particles for 3D Concrete Printing",
+      doi               = "10.1016/j.conbuildmat.2023.134676",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "411",
+      pages             = "134676",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Li, “Mechanical Properties of Concrete Reinforced with High-Performance Micro-Particles for 3D Concrete Printing”, <i>Construction and Building Materials</i>, vol. 411, p. 134676, 2024, doi: 10.1016/j.conbuildmat.2023.134676.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Zihan, Huanbao Liu, Ping Nie, Xiang Cheng, Guangming Zheng, Wenyu Jin, and Baocheng Xiong. “Mechanical Properties of Concrete Reinforced with High-Performance Micro-Particles for 3D Concrete Printing”. <i>Construction and Building Materials</i> 411 (2024): 134676. https://doi.org/10.1016/j.conbuildmat.2023.134676.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

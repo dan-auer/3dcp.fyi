@@ -8,7 +8,7 @@ search:
 
 # #fluid
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_crem.2025.APFDMAtD3CPMaP/">A Particle Fluid Dynamics Modelling Approach to Design 3D Concrete Printing Materials and Processes</a></li>
   <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
   <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/si_liang"><b>Si</b> Liang</a>, <a href="../../../author/liu_yebao"><b>Liu</b> Yebao</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liu_si_liu_li.2025.OoPPBoCFDfUFMDaCi3CMP/">Optimization of Printing Parameters Based on Computational Fluid Dynamics for Uniform Filament Mass Distribution at Corners in 3D Cementitious Material Printing</a></li>

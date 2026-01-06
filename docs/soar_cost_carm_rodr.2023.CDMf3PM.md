@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Augusto Soares, Hugo Costa, Ricardo Carmo, Ana Rodrigues, Florindo Gaspar, Eduardo Júlio
+    - footer
+title: Soares Augusto, Costa Hugo, Carmo Ricardo, Rodrigues Ana, Gaspar Florindo, Júlio Eduardo
 description:
 tags:
  - comprehension
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comprehensive Design Methodology for 3D Printing Mortars ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132804" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132804</a>
+#Comprehensive Design Methodology for 3D Printing Mortars ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132804" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132804" target="_blank">10.1016/j.conbuildmat.2023.132804</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5772-3600" title="ORCID: 0000-0002-5772-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soares_cezar-maciel_augusto"><b>Soares</b>&nbsp;Augusto</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3445-0694" title="ORCID: 0000-0003-3445-0694" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costa_hugo"><b>Costa</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3254-2221" title="ORCID: 0000-0002-3254-2221" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carmo_ricardo"><b>do&nbsp;Carmo</b>&nbsp;Ricardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7133-7159" title="ORCID: 0000-0002-7133-7159" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodrigues_ana"><b>Rodrigues</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1690-9887" title="ORCID: 0000-0003-1690-9887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/julio_eduardo"><b>Júlio</b>&nbsp;Eduardo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 401, No. 132804
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/soares_cezar-maciel_augusto"><b>Soares</b> Augusto</a> <a href="https://orcid.org/0000-0002-5772-3600" title="ORCID: 0000-0002-5772-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/costa_hugo"><b>Costa</b> Hugo</a> <a href="https://orcid.org/0000-0003-3445-0694" title="ORCID: 0000-0003-3445-0694" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/carmo_ricardo"><b>do Carmo</b> Ricardo</a> <a href="https://orcid.org/0000-0002-3254-2221" title="ORCID: 0000-0002-3254-2221" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rodrigues_ana"><b>Rodrigues</b> Ana</a> <a href="https://orcid.org/0000-0002-7133-7159" title="ORCID: 0000-0002-7133-7159" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/julio_eduardo"><b>Júlio</b> Eduardo</a> <a href="https://orcid.org/0000-0003-1690-9887" title="ORCID: 0000-0003-1690-9887" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 401, No. 132804
-
-:aca-blank:{ .lg .middle}
-    [`#comprehension`](keyword/comprehension)
-    [`#design`](keyword/design)
-    [`#method`](keyword/method)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comprehensive%20Design%20Methodology%20for%203D%20Printing%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85167780314&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385757298" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132804" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132804?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital technologies and automation processes are boosting additive manufacturing of cementitious materials, known as 3D printing of mortars and concretes, to build prefabricated and on-site concrete structures, taking advantage of increasing productivity and geometric freedom and of reducing manpower, waste and formwork. However, in additional to the mechanical and time-dependent performance, the following requirements must be assured in fresh state to allow the 3D printing process: extrudability, shape retention, constructability and open time. The global interest by this technology justifies the large number of works that are being nowadays developed. However, despite the successive progress, the published researches are mainly based on empiric material formulation, with high cement/aggregate ratios and consequently with high content of Portland cement, which contributes to prejudice the carbon footprint and the sustainability of the solution. The present research aimed to develop a design methodology for eco-efficient 3D printing mixtures, with reduced cement content and consequently lower cost effective. An experimental program was firstly developed to quantify the influence of the variation of the following parameters on the abovementioned fresh requirements: grade of cement strength; binder/aggregate ratio; aggregate size proportioning, including filler; w/c ratio and; superplasticizer type and proportion. The results analysis allowed to achieve high correlations between those parameters and the properties that affect the 3D printing requirements. The comprehensive developed methodology, based on those correlations, was proven to reliably allow designing eco-efficient mixtures, with binder/aggregate ratio of 1/2 to 1/2.5 that fulfil the necessary requirements, being tested and also validated in 3D printing equipment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -89,8 +68,8 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
       <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/emiroglu_mehmet"><b>Emiroğlu</b> Mehmet</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mato_emir_milh.2025.PSSMPf3P/">Predicting Stabilized Soil Mixture Proportions for 3D Printing:<br/>Preliminary Study Using the Design of Experiments Approach</a></li>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
@@ -99,4 +78,34 @@ tags:
       <li><a href="../../../author/jiang_yu"><b>Jiang</b> Yu</a>, <a href="../../../author/zhang_qingxin"><b>Zhang</b> Qingxin</a>, <a href="../../../author/tabbaa_abir"><b>Tabbaa</b> Abir</a>, <a href="../../../author/daly_ronan"><b>Daly</b> Ronan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../jian_zhan_tabb_daly.2025.TCRoTDRfIQCo3PCS/">The Critical Role of Time-Dependent Rheology for Improved Quality Control of 3D Printed Cementitious Structures</a></li>
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/yang_xin"><b>Yang</b> Xin</a>, <a href="../../../author/wang_haihong"><b>Wang</b> Haihong</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../sun_wang_yang_wang.2025.RMUiFR3PC/">Red Mud Utilization in Fiber-Reinforced 3D Printed Concrete:<br/>Mechanical Properties and Environmental Impact Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{soar_cost_carm_rodr.2023.CDMf3PM,
+      author            = "Augusto Cezar Maciel Soares and Hugo Costa and Ricardo do Carmo and Ana Rodrigues and Florindo Gaspar and Eduardo Júlio",
+      title             = "Comprehensive Design Methodology for 3D Printing Mortars",
+      doi               = "10.1016/j.conbuildmat.2023.132804",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "401",
+      pages             = "132804",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. C. M. Soares, H. Costa, R. do Carmo, A. Rodrigues, F. Gaspar and E. Júlio, “Comprehensive Design Methodology for 3D Printing Mortars”, <i>Construction and Building Materials</i>, vol. 401, p. 132804, 2023, doi: 10.1016/j.conbuildmat.2023.132804.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Soares, Augusto Cezar Maciel, Hugo Costa, Ricardo do Carmo, Ana Rodrigues, Florindo Gaspar, and Eduardo Júlio. “Comprehensive Design Methodology for 3D Printing Mortars”. <i>Construction and Building Materials</i> 401 (2023): 132804. https://doi.org/10.1016/j.conbuildmat.2023.132804.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

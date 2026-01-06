@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Butler Marko 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mech_taub_mull_butl.2024.IoSRiEB3CPoMCE/">Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements</a></li>
   <li><a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../will_stor_plas_taub.2024.LSMPwRMC/">Large-Scale Monolithic Printing with Ready-Mixed Concrete:<br/>Challenges and Solutions</a></li>
   <li><a href="../../../author/gleiser_leonie"><b>Gleiser</b> Leonie</a>, <a href="../../../author/pierer_robin"><b>Pierer</b> Robin</a>, <a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../glei_pier_mark_butl.2024.AMwEBM/">Additive Manufacturing with Earth-Based Materials:<br/>Minimization of Shrinkage Deformation</a></li>

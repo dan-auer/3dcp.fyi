@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: İffet Mütevelli Özkan, Alper Aldemir
+    - footer
+title: Mütevelli Özkan İffet, Aldemir Alper
 description:
 tags:
  - axis
@@ -23,37 +24,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Machine-Learning Networks to Predict the Ultimate Axial Load and Displacement Capacity of 3D Printed Concrete Walls with Different Section Geometries ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.istruc.2024.106879" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2024.106879</a>
+#Machine-Learning Networks to Predict the Ultimate Axial Load and Displacement Capacity of 3D Printed Concrete Walls with Different Section Geometries ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2024.106879" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.106879" target="_blank">10.1016/j.istruc.2024.106879</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0239-4280" title="ORCID: 0000-0002-0239-4280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mutevelli-ozkan_gamze_iffet"><b>Mütevelli Özkan</b>&nbsp;İffet</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aldemir_alper"><b>Aldemir</b>&nbsp;Alper</a></span><br>
+Journal Article - Structures, Vol. 66, No. 106879
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mutevelli-ozkan_gamze_iffet"><b>Mütevelli Özkan</b> İffet</a> <a href="https://orcid.org/0000-0002-0239-4280" title="ORCID: 0000-0002-0239-4280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 66, No. 106879
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#capacity`](keyword/capacity)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#displacement`](keyword/displacement)
-    [`#geometry`](keyword/geometry)
-    [`#learn`](keyword/learn)
-    [`#load`](keyword/load)
-    [`#machine`](keyword/machine)
-    [`#network`](keyword/network)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#section`](keyword/section)
-    [`#ultimate`](keyword/ultimate)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/displacement"><button class="btn">#displacement</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/ultimate"><button class="btn">#ultimate</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Machine-Learning%20Networks%20to%20Predict%20the%20Ultimate%20Axial%20Load%20and%20Displacement%20Capacity%20of%203D%20Printed%20Concrete%20Walls%20with%20Different%20Section%20Geometries" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198264074&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400573802" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2024.106879" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2024.106879?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents details on the machine learning (ML) models for predicting the ultimate axial load capacity and ultimate displacement capacity of 3D printed concrete (3DPC) walls. The large database required for training and testing procedures of ML models is generated using a validated finite element (FE) model, verified using experimental specimens from the literature. Then, a wide range of physical and mechanical properties is selected to form a large database of 3DPC walls. To this end, 61800 3DPC walls with five different cross-sections and with various geometries were analyzed. The ultimate axial load capacity and ultimate displacement capacity of each wall are determined using explicit dynamic analysis. In conclusion, ML algorithms provide accurate predictions with coefficient of determination values of 0.95 and above. It should be noted that the prediction of the maximum axial load capacities was better than that of the ultimate displacement capacities.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../aram_cald_puen.2023.PMo3PCSBwRUBM/">Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments</a></li>
       <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a></li>
@@ -94,12 +67,42 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/chen_jianhua"><b>Chen</b> Jianhua</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bani_demp_chen_kaze.2025.MLAtPtEAFSoSE3PS/">Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures</a></li>
       <li><a href="../../../author/zhang_yonghong"><b>Zhang</b> Yonghong</a>, <a href="../../../author/cui_suping"><b>Cui</b> Suping</a>, <a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a>, <a href="../../../author/wang_xinxin"><b>Wang</b> Xinxin</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhan_cui_yang_wang.2025.Ro3PCMPPMBoML/">Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mute_alde.2024.MLNtPtUALaDCo3PCWwDSG,
+      author            = "İffet Gamze Mütevelli Özkan and Alper Aldemir",
+      title             = "Machine-Learning Networks to Predict the Ultimate Axial Load and Displacement Capacity of 3D Printed Concrete Walls with Different Section Geometries",
+      doi               = "10.1016/j.istruc.2024.106879",
+      year              = "2024",
+      journal           = "Structures",
+      volume            = "66",
+      pages             = "106879",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">İ. G. M. Özkan  and A. Aldemir, “Machine-Learning Networks to Predict the Ultimate Axial Load and Displacement Capacity of 3D Printed Concrete Walls with Different Section Geometries”, <i>Structures</i>, vol. 66, p. 106879, 2024, doi: 10.1016/j.istruc.2024.106879.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Özkan, İffet Gamze Mütevelli, and Alper Aldemir. “Machine-Learning Networks to Predict the Ultimate Axial Load and Displacement Capacity of 3D Printed Concrete Walls with Different Section Geometries”. <i>Structures</i> 66 (2024): 106879. https://doi.org/10.1016/j.istruc.2024.106879.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

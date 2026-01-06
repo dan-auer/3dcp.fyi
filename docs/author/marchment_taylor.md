@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Marchment Taylor 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../marc.2024.C3PMWSaESSS/">Concrete 3D Printed Marine Wind, Solar and Energy Storage Support Structures</a></li>
   <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../marc_sanj.2022.LJRf3CP/">Lap Joint Reinforcement for 3D Concrete Printing</a></li>
   <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>

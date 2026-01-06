@@ -8,7 +8,7 @@ search:
 
 # #graphene
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
   <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/venkatachalam_akshay"><b>Venkatachalam</b> Akshay</a>, <a href="../../../author/divigalpitiya_ranjith"><b>Divigalpitiya</b> Ranjith</a>, <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sure_venk_divi_kuma.2025.ULDoNGTEtRPaBo3PB/">Ultra-Low Dosages of Novel Graphene Types Enhance the Rheological Properties and Buildability of 3D Printed Binders</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mushuang Wu, Zixiao Wang, Yuxuan Chen, Mengyu Zhu, Qingliang Yu
+    - footer
+title: Wu Mushuang, Wang Zixiao, Chen Yuxuan, Zhu Mengyu, Yu Qingliang
 description:
 tags:
  - base
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.111345) Effect of Steel-Slag on Rheological and Mechanical Properties of Sulfoaluminate-Cement-Based Sustainable 3D Printing Concrete ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.jobe.2024.111345" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111345</a>
+#Effect of Steel-Slag on Rheological and Mechanical Properties of Sulfoaluminate-Cement-Based Sustainable 3D Printing Concrete ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.111345) <a href="https://doi.org/10.1016/j.jobe.2024.111345" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111345" target="_blank">10.1016/j.jobe.2024.111345</a>
 
--------------------------
+<a href="../../../author/wu_mushuang"><b>Wu</b>&nbsp;Mushuang</a></span>, <a href="../../../author/wang_zixiao"><b>Wang</b>&nbsp;Zixiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1284-7933" title="ORCID: 0000-0002-1284-7933" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuxuan"><b>Chen</b>&nbsp;Yuxuan</a></span>, <a href="../../../author/zhu_mengyu"><b>Zhu</b>&nbsp;Mengyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8578-3945" title="ORCID: 0000-0001-8578-3945" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_qingliang"><b>Yu</b>&nbsp;Qingliang</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 98, No. 111345
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_mushuang"><b>Wu</b> Mushuang</a>
-,     <a href="../../../author/wang_zixiao"><b>Wang</b> Zixiao</a>
-,     <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a> <a href="https://orcid.org/0000-0002-1284-7933" title="ORCID: 0000-0002-1284-7933" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_mengyu"><b>Zhu</b> Mengyu</a>
-,     <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a> <a href="https://orcid.org/0000-0001-8578-3945" title="ORCID: 0000-0001-8578-3945" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 98, No. 111345
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#slag`](keyword/slag)
-    [`#steel`](keyword/steel)
-    [`#sulfoaluminate`](keyword/sulfoaluminate)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/sulfoaluminate"><button class="btn">#sulfoaluminate</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Steel-Slag%20on%20Rheological%20and%20Mechanical%20Properties%20of%20Sulfoaluminate-Cement-Based%20Sustainable%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209563932&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404317624" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111345" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111345?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The low utilisation of steel slag has led to a worsening of environmental problems. This study aims to use tri-potassium citrate (TPC) to activate the cementitious properties of steel slag and further apply sulfoaluminate cement (SAC) as supplement to design low-carbon composites. 3D printing technology can help to reduce materials consumption as well as labour cost; therefore, the advent of SS-SAC-3D printing concrete has the potential to enhance the utilisation of lowcarbon composites and reduce process emissions. This study investigates the effects of steel slag and its activation on the properties of 3D-printed concrete. Workability, rheology, setting time and buildability tests were conducted. The strength differences and anisotropy between the printed and molded specimens were compared. The results demonstrate that adding aluminiumrich steel slag altered the ratios between aluminate and sulfate phases, shortened the setting time, and improved the fluidity and rheological properties of the mixture. The addition of 25 %–50 % steel slag can effectively promote the occurrence of composite hydration reactions, improve the strength to reach over 42.5 MPa (standard strength of SAC) at late ages, and significantly reduce carbon emissions. In conclusion, the SS-SAC-3DPC has the potential to become a significant building material owing to its cost-effectiveness and printability, which can meet the requirements of general building structures. More importantly, its application could contribute to a reduction in the carbon footprint of the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
@@ -115,9 +88,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/li_yifan"><b>Li</b> Yifan</a>, <a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a>, <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../li_chen_yang_guo.2025.IotIoMRotIBPoSW3PC/">Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wu_wang_chen_zhu.2024.EoSSoRaMPoSCBS3PC,
+      author            = "Mushuang Wu and Zixiao Wang and Yuxuan Chen and Mengyu Zhu and Qingliang Yu",
+      title             = "Effect of Steel-Slag on Rheological and Mechanical Properties of Sulfoaluminate-Cement-Based Sustainable 3D Printing Concrete",
+      doi               = "10.1016/j.jobe.2024.111345",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "98",
+      pages             = "111345",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Wu, Z. Wang, Y. Chen, M. Zhu and Q. Yu, “Effect of Steel-Slag on Rheological and Mechanical Properties of Sulfoaluminate-Cement-Based Sustainable 3D Printing Concrete”, <i>Journal of Building Engineering</i>, vol. 98, p. 111345, 2024, doi: 10.1016/j.jobe.2024.111345.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Mushuang, Zixiao Wang, Yuxuan Chen, Mengyu Zhu, and Qingliang Yu. “Effect of Steel-Slag on Rheological and Mechanical Properties of Sulfoaluminate-Cement-Based Sustainable 3D Printing Concrete”. <i>Journal of Building Engineering</i> 98 (2024): 111345. https://doi.org/10.1016/j.jobe.2024.111345.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

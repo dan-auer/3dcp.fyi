@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Oldřich Sucharda, Radoslav Gandel, Petr Cmiel, Jan Jeřábek, Vlastimil Bilek
+    - footer
+title: Sucharda Oldřich, Gandel Radoslav, Cmiel Petr, Jeřábek Jan, Bilek Vlastimil
 description:
 tags:
  - advance
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/buildings14082269) Utilization of High-Performance Concrete Mixtures for Advanced Manufacturing Technologies ([2024-07](date/2024/07))
-<a href="https://doi.org/10.3390/buildings14082269" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14082269</a>
+#Utilization of High-Performance Concrete Mixtures for Advanced Manufacturing Technologies ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings14082269) <a href="https://doi.org/10.3390/buildings14082269" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14082269" target="_blank">10.3390/buildings14082269</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3964-8643" title="ORCID: 0000-0002-3964-8643" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sucharda_oldrich"><b>Sucharda</b>&nbsp;Oldřich</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-0931-5985" title="ORCID: 0009-0009-0931-5985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gandel_radoslav"><b>Gandel</b>&nbsp;Radoslav</a></span>, <a href="../../../author/cmiel_petr"><b>Cmiel</b>&nbsp;Petr</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-5414-695X" title="ORCID: 0009-0008-5414-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jerabek_jan"><b>Jeřábek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6433-4892" title="ORCID: 0000-0001-6433-4892" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bilek_vlastimil"><b>Bilek</b>&nbsp;Vlastimil</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 8, No. 2269
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sucharda_oldrich"><b>Sucharda</b> Oldřich</a> <a href="https://orcid.org/0000-0002-3964-8643" title="ORCID: 0000-0002-3964-8643" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gandel_radoslav"><b>Gandel</b> Radoslav</a> <a href="https://orcid.org/0009-0009-0931-5985" title="ORCID: 0009-0009-0931-5985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cmiel_petr"><b>Cmiel</b> Petr</a>
-,     <a href="../../../author/jerabek_jan"><b>Jeřábek</b> Jan</a> <a href="https://orcid.org/0009-0008-5414-695X" title="ORCID: 0009-0008-5414-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bilek_vlastimil"><b>Bilek</b> Vlastimil</a> <a href="https://orcid.org/0000-0001-6433-4892" title="ORCID: 0000-0001-6433-4892" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 8, No. 2269
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mixture`](keyword/mixture)
-    [`#performance`](keyword/performance)
-    [`#technology`](keyword/technology)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Utilization%20of%20High-Performance%20Concrete%20Mixtures%20for%20Advanced%20Manufacturing%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202437286&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400905374" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14082269" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14082269?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The presented experimental program focuses on the design of high-performance dry concrete mixtures, which could find application in advanced manufacturing technologies, for example, additive solutions. The combination of high-performance concrete (HPC) with advanced or additive technologies provides new possibilities for constructing architecturally attractive buildings with high material requirements. The purpose of this study was to develop a dry mixture made from high-performance concrete that could be distributed directly in advanced or additive technologies of solutions in pre-prepared condition with all input materials (except for water) in order to reduce both financial and labor costs. This research specifically aimed to improve the basic strength characteristics—including mechanical (assessed using compressive strength, tensile splitting strength, and flexural strength tests) and durability properties (assessed using tests of resistance to frost, water, and defrosting chemicals)—of hardened mixtures, with partial insight into the rheology of fresh mixtures (consistency as assessed using the slump-flow test). Additionally, the load-bearing capacity of the selected mixtures in the form of specimens with concrete reinforcement was tested using a three-point bending test. A reference mixture with two liquid plasticizers—the first based on polycarboxylate and polyphosphonate and the second based on polyether carboxylate—was modified using a powdered plasticizer based on the polymerization product Glycol to create a dry mixture; the reference mixture was compared with the developed mixtures with respect to the above-mentioned properties. In general, the results show that the replacement of the aforementioned liquid plasticizers by a powdered plasticizer based on the polymerization product Glycol in the given mixtures is effective up to 5% (of the cement content) with regard to the mechanical and durability properties. The presented work provides an overview of the compared characteristics, which will serve as a basis for future research into the development of additive manufacturing technologies in the conditions of the Czech Republic while respecting the principles of sustainable construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/chen_g"><b>Chen</b> G.</a>, <a href="../../../author/li_rong"><b>Li</b> Rong</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bai_chen_li_wang.2023.3PUHPC/">3D Printed Ultra-High-Performance Concrete:<br/>Preparation, Application, and Challenges</a></li>
@@ -85,7 +62,6 @@ tags:
       <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../quah_tay_lim_tan.2023.C3P/">Concrete 3D Printing:<br/>Process-Parameters for Process-Control, Monitoring and Diagnosis in Automation and Construction</a></li>
       <li><a href="../../../author/salandin_andrea"><b>Salandin</b> Andrea</a>, <a href="../../../author/quintana-gallardo_alberto"><b>Quintana-Gallardo</b> Alberto</a>, <a href="../../../author/gomez-lozano_vicente"><b>Gómez-Lozano</b> Vicente</a>, <a href="../../../author/guillen-guillamon_ignacio"><b>Guillén-Guillamón</b> Ignacio</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sala_quin_gome_guil.2022.TF3PBiS/">The First 3D Printed Building in Spain:<br/>A Study on Its Acoustic, Thermal and Environmental Performance</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sucharda_oldrich"><b>Sucharda</b> Oldřich</a>, <a href="../../../author/gandel_radoslav"><b>Gandel</b> Radoslav</a>, <a href="../../../author/cmiel_petr"><b>Cmiel</b> Petr</a>, <a href="../../../author/jerabek_jan"><b>Jeřábek</b> Jan</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../such_gand_cmie_jera.2024.UoHPCMfAMT/">Utilization of High-Performance Concrete Mixtures for Advanced Manufacturing Technologies</a></li>
       <li><a href="../../../author/tabassum_toiba"><b>Tabassum</b> Toiba</a>, <a href="../../../author/ahmad-mir_ajaz"><b>Ahmad Mir</b> Ajaz</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../taba_ahma.2023.ARo3PT/">A Review of 3D Printing Technology:<br/>The Future of Sustainable Construction</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/ahamed_mn_n"><b>Ahamed</b> N.</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../tay_pand_ting_aham.2020.3PfSC/">3D Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/isopescu_nicolina_dorina"><b>Isopescu</b> Dorina</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ungu_onut_isop_tara.2023.ANAf3PFRM/">A Novel Approach for 3D Printing Fiber-Reinforced Mortars</a></li>
@@ -97,9 +73,39 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
-      <li><a href="../../../author/sucharda_oldrich"><b>Sucharda</b> Oldřich</a>, <a href="../../../author/gandel_radoslav"><b>Gandel</b> Radoslav</a>, <a href="../../../author/cmiel_petr"><b>Cmiel</b> Petr</a>, <a href="../../../author/jerabek_jan"><b>Jeřábek</b> Jan</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../such_gand_cmie_jera.2024.UoHPCMfAMT/">Utilization of High-Performance Concrete Mixtures for Advanced Manufacturing Technologies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{such_gand_cmie_jera.2024.UoHPCMfAMT,
+      author            = "Oldřich Sucharda and Radoslav Gandel and Petr Cmiel and Jan Jeřábek and Vlastimil Bilek",
+      title             = "Utilization of High-Performance Concrete Mixtures for Advanced Manufacturing Technologies",
+      doi               = "10.3390/buildings14082269",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "8",
+      pages             = "2269",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Sucharda, R. Gandel, P. Cmiel, J. Jeřábek and V. Bilek, “Utilization of High-Performance Concrete Mixtures for Advanced Manufacturing Technologies”, <i>Buildings</i>, vol. 14, no. 8, p. 2269, 2024, doi: 10.3390/buildings14082269.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sucharda, Oldřich, Radoslav Gandel, Petr Cmiel, Jan Jeřábek, and Vlastimil Bilek. “Utilization of High-Performance Concrete Mixtures for Advanced Manufacturing Technologies”. <i>Buildings</i> 14, no. 8 (2024): 2269. https://doi.org/10.3390/buildings14082269.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

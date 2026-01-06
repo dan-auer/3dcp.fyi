@@ -8,7 +8,7 @@ search:
 
 # #flexibility
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wagner_gabriel"><b>Wagner</b> Gabriel</a>, <a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wagn_silv_ribe_figu.2025.ANaFAtMtAMEoCM/">A Novel and Flexible Approach to Modeling the Additive Manufacturing Extrusion of Cementitious Materials</a></li>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_dong_siko_lin.2025.3PCRwFFRPSoG/">3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids:<br/>Concept and Bond Tests</a></li>
   <li><a href="../../../author/kariouh_anass"><b>Kariouh</b> Anass</a>, <a href="../../../author/popescu_mariana"><b>Popescu</b> Mariana</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kari_pope.2024.RFFfCCCS/">Reusable Flexible Formworks for Constructing Complex Concrete Structures</a></li>

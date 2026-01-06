@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Antoni Antoni, N. Adi, M. Kurniawan, A. Agraputra, D. Teopilus, Pamuda Pudjisuryadi, Jimmy Chandra, Djwantoro Hardjito
+    - footer
+title: Antoni Antoni, Adi N., Kurniawan M., Agraputra A., Teopilus D., Pudjisuryadi Pamuda, Chandra Jimmy, Hardjito Djwantoro
 description:
 tags:
  - agent
@@ -16,36 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://iopscience.iop.org/article/10.1088/1755-1315/1195/1/012021/pdf) The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1088/1755-1315/1195/1/012021" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1755-1315/1195/1/012021</a>
+#The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1755-1315/1195/1/012021/pdf) <a href="https://doi.org/10.1088/1755-1315/1195/1/012021" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/1195/1/012021" target="_blank">10.1088/1755-1315/1195/1/012021</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6168-7094" title="ORCID: 0000-0001-6168-7094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/antoni_antoni"><b>Antoni</b>&nbsp;Antoni</a></span>, <a href="../../../author/adi_n"><b>Adi</b>&nbsp;N.</a></span>, <a href="../../../author/kurniawan_e_m"><b>Kurniawan</b>&nbsp;M.</a></span>, <a href="../../../author/agraputra_a"><b>Agraputra</b>&nbsp;A.</a></span>, <a href="../../../author/teopilus_d"><b>Teopilus</b>&nbsp;D.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2508-5608" title="ORCID: 0000-0002-2508-5608" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b>&nbsp;Pamuda</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1533-7717" title="ORCID: 0000-0003-1533-7717" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chandra_jimmy"><b>Chandra</b>&nbsp;Jimmy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0262-9166" title="ORCID: 0000-0002-0262-9166" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hardjito_djwantoro"><b>Hardjito</b>&nbsp;Djwantoro</a></span><br>
+Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 1195, Iss. 1, No. 012021
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a> <a href="https://orcid.org/0000-0001-6168-7094" title="ORCID: 0000-0001-6168-7094" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/adi_n"><b>Adi</b> N.</a>
-,     <a href="../../../author/kurniawan_e_m"><b>Kurniawan</b> M.</a>
-,     <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a>
-,     <a href="../../../author/teopilus_d"><b>Teopilus</b> D.</a>
-,     <a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b> Pamuda</a> <a href="https://orcid.org/0000-0002-2508-5608" title="ORCID: 0000-0002-2508-5608" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> <a href="https://orcid.org/0000-0003-1533-7717" title="ORCID: 0000-0003-1533-7717" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hardjito_djwantoro"><b>Hardjito</b> Djwantoro</a> <a href="https://orcid.org/0000-0002-0262-9166" title="ORCID: 0000-0002-0262-9166" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 1195, Iss. 1, No. 012021
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#carbonation`](keyword/carbonation)
-    [`#characteristic`](keyword/characteristic)
-    [`#influence`](keyword/influence)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Influence%20of%20Viscosity-Modifying%20Agent%20and%20Calcium-Carbonate%20on%203D%20Printing%20Mortar%20Characteristics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166547000&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,18 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4380991676" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1755-1315/1195/1/012021" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1755-1315/1195/1/012021?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing or additive manufacturing is an example of technology development in the construction sector. In 3D printing mortar, many things need to be considered regarding the characteristics of the mortar, such as workability, initial setting time, compressive strength, extrudability, and buildability. In previous studies, there were problems in the printing process, such as a lousy extrusion process and cracks in the 3D printing mortar sample. This study used calcium carbonate and a viscosity-modifying agent (VMA) to modify the mixture to achieve the desired characteristics. The extrudability and buildability were tested by observing the extrusion process and measuring the thickness and width of each layer printed. Based on the research, adding calcium carbonate and VMA can reduce workability and accelerate the initial setting time of the mixture. The use of VMA can reduce the compressive strength of the mixture. Using calcium carbonate and VMA can also increase the buildability of the mixture. From the compressive strength test, there was a decrease of 39.26% in the 3D printing mortar sample compared to the mortar cube sample. In addition, it was found that the 3D printing mortar is anisotropic, so the compressive force's direction affects the compressive strength produced.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/adi_n"><b>Adi</b> N.</a>, <a href="../../../author/kurniawan_e_m"><b>Kurniawan</b> M.</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../anto_adi_kurn_agra.2023.TIoVMAaCCo3PMC/">The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics</a></li>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a>, <a href="../../../author/teopilus_d"><b>Teopilus</b> D.</a>, <a href="../../../author/sunaryo_h_a"><b>Sunaryo</b> A.</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../anto_agra_teop_suna.2021.IotMMaFAf3CP/">Investigation of the Material-Mixtures and Fiber-Addition for 3D Concrete Printing</a></li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/widjaya_christian_david"><b>Widjaya</b> David</a>, <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b> Alexander</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_widj_wibo_chan.2022.UCOaAtCtISToMi3CP/">Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -88,12 +61,42 @@ tags:
       <li><a href="../../../author/vergara_adolfo_luis"><b>Vergara</b> Luis</a>, <a href="../../../author/colorado_a_henry"><b>Colorado</b> Henry</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../verg_colo.2020.AMoPCPwAoKSaCC/">Additive Manufacturing of Portland Cement-Pastes with Additions of Kaolin, Superplastificant and Calcium-Carbonate</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
       <li><a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/li_xiaoxi"><b>Li</b> Xiaoxi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../xion_nie_liu_li.2024.EaOoMCCM3PRCC/">Evaluation and Optimization of Micro-Calcium-Carbonate-Modified 3D Printed Rubber-Crumb Concrete</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sahi_mard_mard.2024.PRaOMPoHVFA3PC/">Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete</a></li>
       <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
-      <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/adi_n"><b>Adi</b> N.</a>, <a href="../../../author/kurniawan_e_m"><b>Kurniawan</b> M.</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../anto_adi_kurn_agra.2023.TIoVMAaCCo3PMC/">The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{anto_adi_kurn_agra.2023.TIoVMAaCCo3PMC,
+      author            = "Antoni Antoni and N. Adi and M. E. Kurniawan and A. Agraputra and D. Teopilus and Pamuda Pudjisuryadi and Jimmy Chandra and Djwantoro Hardjito",
+      title             = "The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics",
+      doi               = "10.1088/1755-1315/1195/1/012021",
+      year              = "2023",
+      journal           = "IOP Conference Series: Earth and Environmental Science",
+      volume            = "1195",
+      number            = "1",
+      pages             = "012021",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Antoni, “The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics”, <i>IOP Conference Series: Earth and Environmental Science</i>, vol. 1195, no. 1, p. 012021, 2023, doi: 10.1088/1755-1315/1195/1/012021.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Antoni, Antoni, N. Adi, M. E. Kurniawan, A. Agraputra, D. Teopilus, Pamuda Pudjisuryadi, Jimmy Chandra, and Djwantoro Hardjito. “The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics”. <i>IOP Conference Series: Earth and Environmental Science</i> 1195, no. 1 (2023): 012021. https://doi.org/10.1088/1755-1315/1195/1/012021.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

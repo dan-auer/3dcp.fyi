@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jolien Putten, Melissa Volder, Philip Heede, Maxim Deprez, Veerle Cnudde, Geert Schutter, Kim Tittelboom
+    - footer
+title: Putten Jolien, Volder Melissa, Heede Philip, Deprez Maxim, Cnudde Veerle, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - cement
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap Between Successive Layers ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106777" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106777</a>
+#Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap Between Successive Layers ([2022-03](date/2022/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2022.106777" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106777" target="_blank">10.1016/j.cemconres.2022.106777</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/putten_jolien"><b>van der&nbsp;Putten</b>&nbsp;Jolien</a></span>, <a href="../../../author/volder_melissa"><b>de&nbsp;Volder</b>&nbsp;Melissa</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1307-2831" title="ORCID: 0000-0003-1307-2831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heede_philip"><b>van den&nbsp;Heede</b>&nbsp;Philip</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6356-5293" title="ORCID: 0000-0001-6356-5293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deprez_maxim"><b>Deprez</b>&nbsp;Maxim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3269-5914" title="ORCID: 0000-0002-3269-5914" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cnudde_veerle"><b>Cnudde</b>&nbsp;Veerle</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 155
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/putten_jolien"><b>van der Putten</b> Jolien</a> <a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/volder_melissa"><b>de Volder</b> Melissa</a>
-,     <a href="../../../author/heede_philip"><b>van den Heede</b> Philip</a> <a href="https://orcid.org/0000-0003-1307-2831" title="ORCID: 0000-0003-1307-2831" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a> <a href="https://orcid.org/0000-0001-6356-5293" title="ORCID: 0000-0001-6356-5293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a> <a href="https://orcid.org/0000-0002-3269-5914" title="ORCID: 0000-0002-3269-5914" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 155, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#gap`](keyword/gap)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#time`](keyword/time)
-    [`#transport`](keyword/transport)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/gap"><button class="btn">#gap</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Transport%20Properties%20of%203D%20Printed%20Cementitious%20Materials%20with%20Prolonged%20Time-Gap%20Between%20Successive%20Layers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126546468&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4221104174" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106777" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106777?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is a promising additive manufacturing technique, integrated in construction industry to improve the geometrical complexity without expensive formworks. Due to the layered extrusion of the material, the porosity increases. This makes the component more prone to shrinkage and crack formation and increases the preferential ingress paths for aggressive substances. This can affect the durability and microstructure of the printed elements in a negative way. To assess the durability of 3D printed materials, three deterioration mechanisms (i.e. chloride ingress, carbonation and freeze/thaw) are investigated, considering different time gaps (i.e. 0 and 30 min) in between the layers and a comparison with traditional cast specimens was made. It was found that the resistance of 3D printed specimens against the penetration of chemical substances decreases with an increasing time gap. Compared with cast specimens, a higher saturated mass after frost attack could be observed in case of printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
@@ -80,8 +55,8 @@ tags:
       <li><a href="../../../author/tian_wei"><b>Tian</b> Wei</a>, <a href="../../../author/han_nv"><b>Han</b> Nv</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../tian_han.2018.PC01ONAECDbFTCBoCSa3P/">Pore Characteristics (>0.1mm) Of Non-Air-Entrained Concrete Destroyed by Freeze-Thaw-Cycles Based on CT Scanning and 3D Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "40 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
@@ -123,4 +98,33 @@ tags:
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{putt_vold_heed_depr.2022.TPo3PCMwPTGBSL,
+      author            = "Jolien van der Putten and Melissa de Volder and Philip van den Heede and Maxim Deprez and Veerle Cnudde and Geert de Schutter and Kim van Tittelboom",
+      title             = "Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap Between Successive Layers",
+      doi               = "10.1016/j.cemconres.2022.106777",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "155",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. van der Putten, “Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap Between Successive Layers”, <i>Cement and Concrete Research</i>, vol. 155, 2022, doi: 10.1016/j.cemconres.2022.106777.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Putten, Jolien van der, Melissa de Volder, Philip van den Heede, Maxim Deprez, Veerle Cnudde, Geert de Schutter, and Kim van Tittelboom. “Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap Between Successive Layers”. <i>Cement and Concrete Research</i> 155 (2022). https://doi.org/10.1016/j.cemconres.2022.106777.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fernando Fernández, Rocío Jarabo, Eloy Asensio, Ana Guerrero
+    - footer
+title: Fernández Fernando, Jarabo Rocío, Asensio Eloy, Guerrero Ana
 description:
 tags:
  - capacity
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Non-Destructive Tests to Evaluate the Self-Healing Capacity for a 3D Printing ECC Material ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.matpr.2023.08.311" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.08.311</a>
+#Non-Destructive Tests to Evaluate the Self-Healing Capacity for a 3D Printing ECC Material ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.08.311" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.08.311" target="_blank">10.1016/j.matpr.2023.08.311</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6931-3345" title="ORCID: 0000-0001-6931-3345" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernandez_fernando"><b>Fernández</b>&nbsp;Fernando</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5930-3415" title="ORCID: 0000-0002-5930-3415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jarabo_rocio"><b>Jarabo</b>&nbsp;Rocío</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9795-8677" title="ORCID: 0000-0001-9795-8677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asensio_eloy"><b>Asensio</b>&nbsp;Eloy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4130-1032" title="ORCID: 0000-0002-4130-1032" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guerrero_m_ana"><b>Guerrero</b>&nbsp;Ana</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fernandez_fernando"><b>Fernández</b> Fernando</a> <a href="https://orcid.org/0000-0001-6931-3345" title="ORCID: 0000-0001-6931-3345" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jarabo_rocio"><b>Jarabo</b> Rocío</a> <a href="https://orcid.org/0000-0002-5930-3415" title="ORCID: 0000-0002-5930-3415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a> <a href="https://orcid.org/0000-0001-9795-8677" title="ORCID: 0000-0001-9795-8677" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> <a href="https://orcid.org/0000-0002-4130-1032" title="ORCID: 0000-0002-4130-1032" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#capacity`](keyword/capacity)
-    [`#destructive`](keyword/destructive)
-    [`#ecc`](keyword/ecc)
-    [`#evaluation`](keyword/evaluation)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#self`](keyword/self)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Non-Destructive%20Tests%20to%20Evaluate%20the%20Self-Healing%20Capacity%20for%20a%203D%20Printing%20ECC%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386516013" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.08.311" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.08.311?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The conventional construction sector is the one that generates CO2 emissions, as well as waste generation. Faced with this problem, 3D printing has positioned itself as an alternative. Therefore, in recent years, interest in cement-based material for 3D printing has increased in the construction sector as a partial or total replacement for conventional construction methods. However, 3D printing, despite being a novel technique, has some drawbacks, one of the biggest threats being the generation of cracks or microcraks that appears by the transport or the design of the 3D printed figures. These cracks can cause major structural and durability problems in the final application. Numerous materials have been developed to meet the requirements of 3D printing. Nevertheless, there are few publications on materials that are able to be printed in 3D and have an autogenous self-healing capacity. Therefore, in this study, we are working on the development of an Engineered Cementitious Composites (ECC) material, also known as Strain Hardening Cementitious Composites (SHCC) that has the characteristics to achieve structural integrity, durability, reliability, and robustness of 3D printing (ECC-A3D). This paper describes the experimental procedure of an ECC material in two different environments (at room temperature, 34 ± 2% RH and 20 ± 2 °C, and curing chamber 98 ± 2% RH and 20 ± 2 °C). The characterization of the ECC-A3D material is studied by fresh properties, consistency, open time, extrudability and buildability and hardened properties, compressive and flexural strength up to 90 days. A 3D printing material has been achieved that reaches a value of 16.54 MPa and 50.82 MPa in flexural and compression at the hydration age of 28 days at room temperature, and 17.13 MPa and 58.26 MPa in curing chamber. The self-healing behavior of ECC is evaluated by three non-destructive methods: absorption and sorptivity tests, optical microscopy, and micro-computed tomography, confirming a reduction in absorption and crack healing during hydration time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/fernandez_fernando"><b>Fernández</b> Fernando</a>, <a href="../../../author/jarabo_rocio"><b>Jarabo</b> Rocío</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../fern_jara_asen_guer.2023.NFfa3PEEM/">Natural Fibers for a 3D Printable Eco-ECC Material</a></li>
@@ -79,12 +57,40 @@ tags:
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/lu_jenny"><b>Lu</b> Jenny</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sun_asla_lu_wang.2021.FRLECCf3CP/">Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zaha_pere_pere_cunh.2025.SHAoFRCMDf3CP/">Self-Healing Assessment of Fiber Reinforced Cementitious Mortars Developed for 3D Concrete Printing:<br/>Recovery of Mechanical Performance and Self-Sealing Capability</a></li>
       <li><a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/fenandez_f"><b>Fenàndez</b> F.</a>, <a href="../../../author/cabello_z"><b>Cabello</b> Z.</a>, <a href="../../../author/alvarez_o"><b>Álvarez</b> O.</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../asen_fena_cabe_alva.2024.LCEMUBAf3P/">Low-Clinker ECC Materials Using Biomass Ash for 3D Printing</a></li>
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
       <li><a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../wan_xu_he_schl.2024.TUoAMiSHCM/">The Use of Additive Manufacturing in Self-Healing Cementitious Materials:<br/>A State of the Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fern_jara_asen_guer.2023.NDTtEtSHCfa3PEM,
+      author            = "Fernando Fernández and Rocío Jarabo and Eloy Asensio and Ana M. Guerrero",
+      title             = "Non-Destructive Tests to Evaluate the Self-Healing Capacity for a 3D Printing ECC Material",
+      doi               = "10.1016/j.matpr.2023.08.311",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Fernández, R. Jarabo, E. Asensio and A. M. Guerrero, “Non-Destructive Tests to Evaluate the Self-Healing Capacity for a 3D Printing ECC Material”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.08.311.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fernández, Fernando, Rocío Jarabo, Eloy Asensio, and Ana M. Guerrero. “Non-Destructive Tests to Evaluate the Self-Healing Capacity for a 3D Printing ECC Material”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.08.311.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

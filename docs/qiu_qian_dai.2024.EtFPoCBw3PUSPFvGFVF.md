@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Minghong Qiu, Ye Qian, Jian-Guo Dai
+    - footer
+title: Qiu Minghong, Qian Ye, Dai Jian-Guo
 description:
 tags:
  - beam
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing the Flexural Performance of Concrete Beams with 3D Printed UHP-SHCC Permanent Formwork via Graded Fiber Volume Fraction ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.compstruct.2024.118211" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compstruct.2024.118211</a>
+#Enhancing the Flexural Performance of Concrete Beams with 3D Printed UHP-SHCC Permanent Formwork via Graded Fiber Volume Fraction ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compstruct.2024.118211" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2024.118211" target="_blank">10.1016/j.compstruct.2024.118211</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7803-7124" title="ORCID: 0000-0002-7803-7124" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qiu_minghong"><b>Qiu</b>&nbsp;Minghong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9904-7914" title="ORCID: 0000-0001-9904-7914" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_jian-guo"><b>Dai</b>&nbsp;Jian-Guo</a></span><br>
+Journal Article - Composite Structures, No. 118211
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a> <a href="https://orcid.org/0000-0002-7803-7124" title="ORCID: 0000-0002-7803-7124" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_jian-guo"><b>Dai</b> Jian-Guo</a> <a href="https://orcid.org/0000-0001-9904-7914" title="ORCID: 0000-0001-9904-7914" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composite Structures, No. 118211
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#formwork`](keyword/formwork)
-    [`#fraction`](keyword/fraction)
-    [`#grade`](keyword/grade)
-    [`#performance`](keyword/performance)
-    [`#permanent`](keyword/permanent)
-    [`#print`](keyword/print)
-    [`#volume`](keyword/volume)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/fraction"><button class="btn">#fraction</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20the%20Flexural%20Performance%20of%20Concrete%20Beams%20with%203D%20Printed%20UHP-SHCC%20Permanent%20Formwork%20via%20Graded%20Fiber%20Volume%20Fraction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193600760&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4397007774" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compstruct.2024.118211" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compstruct.2024.118211?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Conventional concrete structures often rely on labor-intensive and wasteful formwork systems. In contrast, 3D concrete printing (3DCP) technology offers a more efficient alternative for fabricating complex-shaped permanent formwork. This study fabricates innovative composite beams using 3D-printed ultra-high-performance strain-hardening cementitious composites (UHP-SHCC) as permanent formwork, followed by casting infill materials. The spatially tailored fiber dosage distribution in the 3D-printed UHP-SHCC permanent formwork enables the performance optimization of the composite beam. The flexural behavior of three such formed composite beams is evaluated using four-point bending tests. A reference beam with homogeneous fiber distribution in the UHP-SHCC formwork is also tested for comparison. The failure mode, overall load–displacement response, and cracking performance of four beams are comprehensively characterized and compared. The results reveal that employing graded fiber dosages in UHP-SHCC formwork enhances fiber efficiency and structural performance while reducing fiber usage and material costs. The use of 3D-printed UHP-SHCC formwork with graded fiber distribution, despite using 25% less fibers and reducing the material cost by 12.8%, leads to a 65.6% increase in strength and over 50% increase in energy absorption, or a 77.4% increase in ultimate displacement with comparable peak load to the reference beam with homogeneous fiber distribution.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
@@ -83,7 +58,6 @@ tags:
       <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a>, <a href="../../../author/zhou_junhui"><b>Zhou</b> Junhui</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../pi_lu_li_zhou.2023.CPaFMo3PECC3EUBL/">Crack Propagation and Failure Mechanism of 3D Printing Engineered Cementitious Composites (3DP-ECC) Under Bending Loads</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../qian_kawa.2016.UoCRPtMSYSaSRoFCP/">Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../qian_schu.2018.EToFCPwNCiPoPESP/">Enhancing Thixotropy of Fresh Cement-Pastes with Nano-Clay in Presence of Polycarboxylate-Ether Superplasticizer (PCE)</a></li>
-      <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../qiu_qian_sun_leun.2024.FPoCBv3PSiPFFbCoNC/">Flexural Performance of Concrete Beams via 3D Printing Stay-in-Place Formwork Followed by Casting of Normal Concrete</a></li>
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../qiu_sun_qian.2024.IBPo3PUHPSHCCaCNC/">Interfacial Bonding Performance of 3D Printed Ultra-High-Performance Strain-Hardening Cementitious Composites and Cast Normal Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
@@ -100,8 +74,9 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/liang_xiangzhou"><b>Liang</b> Xiangzhou</a>, <a href="../../../author/li_jinqian"><b>Li</b> Jinqian</a>, <a href="../../../author/li_ziwei"><b>Li</b> Ziwei</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lian_li_li_wang.2026.EaAIotSBotDBR3PCBwUSSSSEF/">Experimental and Analytical Investigation of the Shear Behavior of the Developed BFRP Reinforced 3D Printed Composite Beams with U-Shaped Seawater Sea-Sand ECC Formwork</a></li>
       <li><a href="../../../author/biswas_kumar_rajib"><b>Biswas</b> Rajib</a>, <a href="../../../author/saito_takahiro"><b>Saito</b> Takahiro</a>, <a href="../../../author/ito_atsushi"><b>Ito</b> Atsushi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bisw_sait_ito.2025.EEoaN3PPCF/">Experimental Evaluation of a Novel 3D-Printed Permanent Concrete Formwork</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
@@ -118,4 +93,33 @@ tags:
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../qiu_sun_qian.2024.IoGaTPotBBB3PUSaCNC/">Impact of Groove-and-Tongue Parameters on the Bonding Behavior Between 3D Printed UHP-SHCC and Cast Normal Concrete</a></li>
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../qiu_qian_sun_leun.2024.FPoCBv3PSiPFFbCoNC/">Flexural Performance of Concrete Beams via 3D Printing Stay-in-Place Formwork Followed by Casting of Normal Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qiu_qian_dai.2024.EtFPoCBw3PUSPFvGFVF,
+      author            = "Minghong Qiu and Ye Qian and Jian-Guo Dai",
+      title             = "Enhancing the Flexural Performance of Concrete Beams with 3D Printed UHP-SHCC Permanent Formwork via Graded Fiber Volume Fraction",
+      doi               = "10.1016/j.compstruct.2024.118211",
+      year              = "2024",
+      journal           = "Composite Structures",
+      pages             = "118211",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Qiu, Y. Qian and J.-G. Dai, “Enhancing the Flexural Performance of Concrete Beams with 3D Printed UHP-SHCC Permanent Formwork via Graded Fiber Volume Fraction”, <i>Composite Structures</i>, p. 118211, 2024, doi: 10.1016/j.compstruct.2024.118211.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qiu, Minghong, Ye Qian, and Jian-Guo Dai. “Enhancing the Flexural Performance of Concrete Beams with 3D Printed UHP-SHCC Permanent Formwork via Graded Fiber Volume Fraction”. <i>Composite Structures</i>, 2024, 118211. https://doi.org/10.1016/j.compstruct.2024.118211.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

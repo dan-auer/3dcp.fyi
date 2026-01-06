@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhengyu Wu, Ali Memari, José Duarte
+    - footer
+title: Wu Zhengyu, Memari Ali, Duarte José
 description:
 tags:
  - concrete
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1073/15/1/360/pdf?version=1641357431) State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete ([2022-01](date/2022/01))
-<a href="https://doi.org/10.3390/en15010360" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/en15010360</a>
+#State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete ([2022-01](date/2022/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/15/1/360/pdf?version=1641357431) <a href="https://doi.org/10.3390/en15010360" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en15010360" target="_blank">10.3390/en15010360</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6321-3420" title="ORCID: 0000-0002-6321-3420" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_zhengyu"><b>Wu</b>&nbsp;Zhengyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
+Journal Article - Energies, Vol. 15, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a> <a href="https://orcid.org/0000-0002-6321-3420" title="ORCID: 0000-0002-6321-3420" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energies, Vol. 15, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#review`](keyword/review)
-    [`#state`](keyword/state)
-    [`#strategy`](keyword/strategy)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=State%20of%20the%20Art%20Review%20of%20Reinforcement-Strategies%20and%20Technologies%20for%203D%20Printing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122221763&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4206142467" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/en15010360" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/en15010360?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This state of the art review paper aims to discuss the results of a literature survey on possible ways to reinforce printed concrete based on existing reinforcement strategies. Just as conventional concrete, for 3D printed concrete to be suitable for large-scale construction, reinforcement is needed to increase the tensile capacity of concrete members and reduce temperature and shrinkage cracking. Despite efforts that are currently underway, the development of proper reinforcement suitable for printed concrete is still very active on the research agenda. As an initial step for designing suitable reinforcement for printed concrete, the existing reinforcement methods for printed concrete as well as conventional cast concrete from the literature are reviewed and summarized. Through the preliminary evaluation of the suitability and effectiveness of various reinforcement methods, guidelines are proposed to better understand possible solutions to reinforce printed concrete and inspire new practical ideas to fill the current technology void. The conclusions also include the possible improvements of the existing reinforcement methods to be considered in future applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -85,8 +65,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "42 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bran_dias_aros_reis.2026.UoWF/">Upcycling of Waste Fibers:<br/>Enhancing Structural Integrity in 3DCP Through Fiber Reinforcement</a></li>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a>, <a href="../../../author/kumar_vijay"><b>Kumar</b> Vijay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/borsaikia_c_arun"><b>Borsaikia</b> Arun</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maur_kuma_pand_bors.2025.IPCRi3CPwaSN/">Inline Polymer Cable Reinforcement in 3D Concrete Printing with a Special Nozzle</a></li>
@@ -130,4 +110,34 @@ tags:
       <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a>, <a href="../../../author/margerit_pierre"><b>Margerit</b> Pierre</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../demo_char_marg_duco.2022.FBPoAC/">Flow-Based Pultrusion of Anisotropic Concrete:<br/>Mechanical Properties at Hardened State</a></li>
       <li><a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/lv_chun"><b>Lv</b> Chun</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lv.2022.Po3PPFRM/">Properties of 3D Printed Polymer Fiber-Reinforced Mortars:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wu_mema_duar.2022.SotARoRSaTf3PoC,
+      author            = "Zhengyu Wu and Ali M. Memari and José Pinto Duarte",
+      title             = "State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete",
+      doi               = "10.3390/en15010360",
+      year              = "2022",
+      journal           = "Energies",
+      volume            = "15",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Wu, A. M. Memari and J. P. Duarte, “State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete”, <i>Energies</i>, vol. 15, no. 1, 2022, doi: 10.3390/en15010360.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Zhengyu, Ali M. Memari, and José Pinto Duarte. “State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete”. <i>Energies</i> 15, no. 1 (2022). https://doi.org/10.3390/en15010360.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

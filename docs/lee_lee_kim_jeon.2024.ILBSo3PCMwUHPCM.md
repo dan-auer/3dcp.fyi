@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yoon Lee, Sang Lee, Jae Kim, Hoseong Jeong, Sun-Jin Han, Kang Kim
+    - footer
+title: Lee Yoon, Lee Sang, Kim Jae, Jeong Hoseong, Han Sun-Jin, Kim Kang
 description:
 tags:
  - bond
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/7/2060/pdf?version=1720778964) Inter-Layer Bond Strength of 3D Printed Concrete Members with Ultra-High-Performance Concrete Mix ([2024-07](date/2024/07))
-<a href="https://doi.org/10.3390/buildings14072060" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14072060</a>
+#Inter-Layer Bond Strength of 3D Printed Concrete Members with Ultra-High-Performance Concrete Mix ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/7/2060/pdf?version=1720778964) <a href="https://doi.org/10.3390/buildings14072060" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14072060" target="_blank">10.3390/buildings14072060</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1158-6126" title="ORCID: 0000-0003-1158-6126" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_jung_yoon"><b>Lee</b>&nbsp;Yoon</a></span>, <a href="../../../author/lee_hoon_sang"><b>Lee</b>&nbsp;Sang</a></span>, <a href="../../../author/kim_hyun_jae"><b>Kim</b>&nbsp;Jae</a></span>, <a href="../../../author/jeong_hoseong"><b>Jeong</b>&nbsp;Hoseong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3306-8645" title="ORCID: 0000-0003-3306-8645" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_sun-jin"><b>Han</b>&nbsp;Sun-Jin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4666-6057" title="ORCID: 0000-0002-4666-6057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_su_kang"><b>Kim</b>&nbsp;Kang</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 7, No. 2060
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lee_jung_yoon"><b>Lee</b> Yoon</a> <a href="https://orcid.org/0000-0003-1158-6126" title="ORCID: 0000-0003-1158-6126" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_hoon_sang"><b>Lee</b> Sang</a>
-,     <a href="../../../author/kim_hyun_jae"><b>Kim</b> Jae</a>
-,     <a href="../../../author/jeong_hoseong"><b>Jeong</b> Hoseong</a>
-,     <a href="../../../author/han_sun-jin"><b>Han</b> Sun-Jin</a> <a href="https://orcid.org/0000-0003-3306-8645" title="ORCID: 0000-0003-3306-8645" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_su_kang"><b>Kim</b> Kang</a> <a href="https://orcid.org/0000-0002-4666-6057" title="ORCID: 0000-0002-4666-6057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 7, No. 2060
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#mixing`](keyword/mixing)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Bond%20Strength%20of%203D%20Printed%20Concrete%20Members%20with%20Ultra-High-Performance%20Concrete%20Mix" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199624386&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400351982" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14072060" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14072060?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In structures manufactured using 3D concrete printing, cracks can easily propagate along the interface between printed layers. Therefore, it was necessary to determine the interlayer bond strength. In this study, direct shear and tensile tests were performed to determine the interlayer bond stability of the 3DCP members. To confirm the appropriateness of the mix proportion used to fabricate the specimens, the open time available for printing was identified via a mixing test, and the extrudability and buildability were verified via a printing test. In addition, direct shear and tensile tests were performed using the specimen manufacturing method (i.e., mold casting and 3D printing) and printing time gap (PTG) between the laminated layers as key test variables. The interlayer bond strengths of the specimens, according to the variables obtained from the test results, were compared and analyzed based on the interfacial shear strength standards presented in the current structural codes. In the direct shear test, failure occurred at the interlayers of all the specimens, and the interlayer bond strength tended to decrease with increasing PTG. In addition, the interlayer bond strength of the direct shear specimens exceeded the interfacial shear strength suggested by current structural codes. In contrast, in the direct tensile test, interlayer surface failure occurred only in some specimens, and there was no distinct change in the interlayer bond strength owing to PTG.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "50 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -122,8 +97,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
       <li><a href="../../../author/luo_rui"><b>Luo</b> Rui</a>, <a href="../../../author/sun_bin"><b>Sun</b> Bin</a>, <a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../luo_sun_fei_du.2025.ISLi3PCDtTGIM/">Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
@@ -131,4 +106,35 @@ tags:
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/yang_tiange"><b>Yang</b> Tiange</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_chen_lan_yang.2025.QEfFPo3PUHPCLiDD/">Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lee_lee_kim_jeon.2024.ILBSo3PCMwUHPCM,
+      author            = "Yoon Jung Lee and Sang Hoon Lee and Jae Hyun Kim and Hoseong Jeong and Sun-Jin Han and Kang Su Kim",
+      title             = "Inter-Layer Bond Strength of 3D Printed Concrete Members with Ultra-High-Performance Concrete Mix",
+      doi               = "10.3390/buildings14072060",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "7",
+      pages             = "2060",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. J. Lee, S. H. Lee, J. H. Kim, H. Jeong, S.-J. Han and K. S. Kim, “Inter-Layer Bond Strength of 3D Printed Concrete Members with Ultra-High-Performance Concrete Mix”, <i>Buildings</i>, vol. 14, no. 7, p. 2060, 2024, doi: 10.3390/buildings14072060.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lee, Yoon Jung, Sang Hoon Lee, Jae Hyun Kim, Hoseong Jeong, Sun-Jin Han, and Kang Su Kim. “Inter-Layer Bond Strength of 3D Printed Concrete Members with Ultra-High-Performance Concrete Mix”. <i>Buildings</i> 14, no. 7 (2024): 2060. https://doi.org/10.3390/buildings14072060.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

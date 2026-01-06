@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alise Sapata, Māris Šinka, Genādijs Šahmenko, Lidija Korat Bensa, Lucija Hanžič, Katarina Šter, Sandris Ručevskis, Diāna Bajāre, Freek Bos
+    - footer
+title: Sapata Alise, Šinka Māris, Šahmenko Genādijs, Korat Bensa Lidija, Hanžič Lucija, Šter Katarina, Ručevskis Sandris, Bajāre Diāna, Bos Freek
 description:
 tags:
  - benchmark
@@ -15,36 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/jcs9020074) Establishing Benchmark Properties for 3D-Printed Concrete:<br/>:aca-blank: A Study of Printability, Strength, and Durability ([2025-02](date/2025/02))
-<a href="https://doi.org/10.3390/jcs9020074" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/jcs9020074</a>
+#Establishing Benchmark Properties for 3D-Printed Concrete&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">A Study of Printability, Strength, and Durability</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/jcs9020074) <a href="https://doi.org/10.3390/jcs9020074" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jcs9020074" target="_blank">10.3390/jcs9020074</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-1221-2026" title="ORCID: 0009-0007-1221-2026" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sapata_alise"><b>Sapata</b>&nbsp;Alise</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2332-1347" title="ORCID: 0000-0002-2332-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sinka_maris"><b>Šinka</b>&nbsp;Māris</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9700-2018" title="ORCID: 0000-0001-9700-2018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b>&nbsp;Genādijs</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3412-981X" title="ORCID: 0000-0002-3412-981X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korat-bensa_lidija"><b>Korat Bensa</b>&nbsp;Lidija</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8209-4308" title="ORCID: 0000-0002-8209-4308" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hanzic_lucija"><b>Hanžič</b>&nbsp;Lucija</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7923-5261" title="ORCID: 0000-0002-7923-5261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ster_katarina"><b>Šter</b>&nbsp;Katarina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0646-8064" title="ORCID: 0000-0002-0646-8064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rucevskis_sandris"><b>Ručevskis</b>&nbsp;Sandris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3250-5594" title="ORCID: 0000-0002-3250-5594" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bajare_diana"><b>Bajāre</b>&nbsp;Diāna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span><br>
+Journal Article - Journal of Composites Science, Vol. 9, Iss. 2, No. 74
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a> <a href="https://orcid.org/0009-0007-1221-2026" title="ORCID: 0009-0007-1221-2026" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> <a href="https://orcid.org/0000-0002-2332-1347" title="ORCID: 0000-0002-2332-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a> <a href="https://orcid.org/0000-0001-9700-2018" title="ORCID: 0000-0001-9700-2018" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korat-bensa_lidija"><b>Korat Bensa</b> Lidija</a> <a href="https://orcid.org/0000-0002-3412-981X" title="ORCID: 0000-0002-3412-981X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hanzic_lucija"><b>Hanžič</b> Lucija</a> <a href="https://orcid.org/0000-0002-8209-4308" title="ORCID: 0000-0002-8209-4308" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ster_katarina"><b>Šter</b> Katarina</a> <a href="https://orcid.org/0000-0002-7923-5261" title="ORCID: 0000-0002-7923-5261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rucevskis_sandris"><b>Ručevskis</b> Sandris</a> <a href="https://orcid.org/0000-0002-0646-8064" title="ORCID: 0000-0002-0646-8064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bajare_diana"><b>Bajāre</b> Diāna</a> <a href="https://orcid.org/0000-0002-3250-5594" title="ORCID: 0000-0002-3250-5594" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Composites Science, Vol. 9, Iss. 2, No. 74
-
-:aca-blank:{ .lg .middle}
-    [`#benchmark`](keyword/benchmark)
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/benchmark"><button class="btn">#benchmark</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Establishing%20Benchmark%20Properties%20for%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218691626&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407240827" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/jcs9020074" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/jcs9020074?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the fresh state and hardened state mechanical and durability properties of 3D-printed concrete. The mechanical tests focused on its anisotropic behavior in response to different load orientations. Compressive, flexural, and splitting tensile strengths were evaluated relative to the print layers orientation. Results showed that compressive strength varied significantly, achieving 85% of cast sample strength when the load was applied parallel to the print layers ([u] direction), 71% when the load was applied perpendicular to the print object’s side plane ([v] direction), while only reaching 59% when applied perpendicular to the top plane ([w] direction). Similar trends were observed for flexural strength, with average values reaching 75% of cast sample strength when the load was applied perpendicular to the print layers ([v.u] and [w.u] directions), but decreasing to 53% when the load was applied parallel to print layers ([u.w] direction), underscoring the weaknesses at interlayer interfaces. The splitting tensile strength remained relatively consistent across print orientations, reaching 90% of the cast sample strength. Durability assessment tests revealed that 3D-printed concrete exhibits reduced resistance to environmental factors, particularly at the layer interfaces where the cold joint was formed, which are prone to moisture penetration and crack formation. These findings contribute valuable insights into the mechanical and durability properties of 3D-printed concrete, emphasizing the importance of print orientation and interlayer bonding in its performance. This understanding helps guide the optimal use of 3D-printed elements in real-life applications by aligning load or exposure to environmental factors with the material’s strength and durability characteristics.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../duco_carn_mesn_demo.2020.TST/">The Slug-Test:<br/>In-Line-Assessment of Yield-Stress for Extrusion-Based Additive Manufacturing</a></li>
       <li><a href="../../../author/elistratkin_yu_michail"><b>Elistratkin</b> Michail</a>, <a href="../../../author/alfimova_i_nataliya"><b>Alfimova</b> Nataliya</a>, <a href="../../../author/podgorniy_s_daniil"><b>Podgorniy</b> Daniil</a>, <a href="../../../author/olisov_vitalievich_andrey"><b>Olisov</b> Andrey</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../elis_alfi_podg_olis.2022.IoEOPotCoaTPwC3P/">Influence of Equipment Operation Parameters on the Characteristics of a Track Produced with Construction 3D Printing</a></li>
@@ -102,8 +77,8 @@ tags:
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zhou_jie-kai"><b>Zhou</b> Jie-Kai</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zeng_li_yan_zhou.2023.Bo3PHPwFGRUB/">Behavior of 3D Printed HPC Plates with FRP-Grid-Reinforcement Under Bending</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/raj_shubham"><b>Raj</b> Shubham</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../pari_raj_sing_subr.2025.D3PCbItIoAC/">Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics</a></li>
@@ -111,6 +86,36 @@ tags:
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/balina_karina"><b>Balina</b> Karina</a>, <a href="../../../author/gailitis_rihards"><b>Gailitis</b> Rihards</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/argalis_pavils_pauls"><b>Argalis</b> Pauls</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bali_gail_sink_arga.2025.PLf3PFGCUCWaA/">Prospective LCA for 3D-Printed Foamed Geopolymer Composites Using Construction Waste as Additives</a></li>
-      <li><a href="../../../author/hanzic_lucija"><b>Hanžič</b> Lucija</a>, <a href="../../../author/stefancic_mateja"><b>Štefančič</b> Mateja</a>, <a href="../../../author/ster_katarina"><b>Šter</b> Katarina</a>, <a href="../../../author/zalar-serjun_vesna"><b>Zalar Serjun</b> Vesna</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../hanz_stef_ster_zala.2025.CMoOSAaCPiC3P/">Collision Milling of Oil Shale Ash as Constituent Pretreatment in Concrete 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sapa_sink_sahm_kora.2025.EBPf3PC,
+      author            = "Alise Sapata and Māris Šinka and Genādijs Šahmenko and Lidija Korat Bensa and Lucija Hanžič and Katarina Šter and Sandris Ručevskis and Diāna Bajāre and Freek Paul Bos",
+      title             = "Establishing Benchmark Properties for 3D-Printed Concrete: A Study of Printability, Strength, and Durability",
+      doi               = "10.3390/jcs9020074",
+      year              = "2025",
+      journal           = "Journal of Composites Science",
+      volume            = "9",
+      number            = "2",
+      pages             = "74",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Sapata, “Establishing Benchmark Properties for 3D-Printed Concrete: A Study of Printability, Strength, and Durability”, <i>Journal of Composites Science</i>, vol. 9, no. 2, p. 74, 2025, doi: 10.3390/jcs9020074.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sapata, Alise, Māris Šinka, Genādijs Šahmenko, Lidija Korat Bensa, Lucija Hanžič, Katarina Šter, Sandris Ručevskis, Diāna Bajāre, and Freek Paul Bos. “Establishing Benchmark Properties for 3D-Printed Concrete: A Study of Printability, Strength, and Durability”. <i>Journal of Composites Science</i> 9, no. 2 (2025): 74. https://doi.org/10.3390/jcs9020074.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

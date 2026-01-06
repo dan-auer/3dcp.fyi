@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Stelladriana Volpe, Valentino Sangiorgio, Francesco Fiorito, Humberto Varum
+    - footer
+title: Volpe Stelladriana, Sangiorgio Valentino, Fiorito Francesco, Varum Humberto
 description:
 tags:
  - construction
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Overview of 3D Construction Printing and Future Perspectives:<br/>:aca-blank: A Review of Technology, Companies and Research Progression ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1080/00038628.2022.2154740" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/00038628.2022.2154740</a>
+#Overview of 3D Construction Printing and Future Perspectives&nbsp;([2022-12](date/2022/12))
+<div class="h1-like">A Review of Technology, Companies and Research Progression</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/00038628.2022.2154740" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2022.2154740" target="_blank">10.1080/00038628.2022.2154740</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6414-5562" title="ORCID: 0000-0002-6414-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volpe_stelladriana"><b>Volpe</b>&nbsp;Stelladriana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4554-738X" title="ORCID: 0000-0002-4554-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fiorito_francesco"><b>Fiorito</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varum_humberto"><b>Varum</b>&nbsp;Humberto</a></span><br>
+Journal Article - Architectural Science Review, pp. 1-22
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a> <a href="https://orcid.org/0000-0002-6414-5562" title="ORCID: 0000-0002-6414-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> <a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a> <a href="https://orcid.org/0000-0002-4554-738X" title="ORCID: 0000-0002-4554-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a> <a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architectural Science Review, pp. 1-22
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#future`](keyword/future)
-    [`#overview`](keyword/overview)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#review`](keyword/review)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Overview%20of%203D%20Construction%20Printing%20and%20Future%20Perspectives" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144154989&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4311455411" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/00038628.2022.2154740" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/00038628.2022.2154740?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing and additive manufacturing have been established in several industrial fields with an unprecedented increase in the building sector during the last decade. Several companies’ applications of 3D construction printing and numerous scientific works demonstrate the potential of this technology. Recently, researchers are investigating both the specific 3D printing performances and the global trend of additive manufacturing production. However, the existing applications and literature reviews focused on specific issues. The present work proposes an in-depth review on the current progress of 3D construction printing by emphasizing for the first time the similarities and differences between advancements in research and in industrial applications. This comparison allows reaching a comprehensive overview of how academic and technical worlds are working differently, including a broad-spectrum vision from an environmental, structural and functional point of view. As a result, the investigation highlights the existing gap and future interest of academic world and companies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -112,8 +92,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/valeri_manuela"><b>Valeri</b> Manuela</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/cantagallo_christina"><b>Cantagallo</b> Christina</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../vale_sang_cant.2025.FTMtG/">From Traditional Materials to Geopolymers:<br/>History, Performance, Sustainability and 3D Printing Applications</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
@@ -130,4 +110,33 @@ tags:
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../plac_schw.2023.CAMiC/">Concrete Additive Manufacturing in Construction:<br/>Integration Based on Component-Related Fabrication-Strategies</a></li>
       <li><a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a>, <a href="../../../author/mangini_m_agostino"><b>Mangini</b> Agostino</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../pari_sang_pari_mang.2023.ANCfLAMiC/">A New Concept for Large Additive Manufacturing in Construction:<br/>Tower-Crane-Based 3D Printing Controlled by Deep-Reinforcement-Learning</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{volp_sang_fior_varu.2022.Oo3CPaFP,
+      author            = "Stelladriana Volpe and Valentino Sangiorgio and Francesco Fiorito and Humberto Varum",
+      title             = "Overview of 3D Construction Printing and Future Perspectives: A Review of Technology, Companies and Research Progression",
+      doi               = "10.1080/00038628.2022.2154740",
+      year              = "2022",
+      journal           = "Architectural Science Review",
+      pages             = "1--22",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Volpe, V. Sangiorgio, F. Fiorito and H. Varum, “Overview of 3D Construction Printing and Future Perspectives: A Review of Technology, Companies and Research Progression”, <i>Architectural Science Review</i>, pp. 1–22, 2022, doi: 10.1080/00038628.2022.2154740.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Volpe, Stelladriana, Valentino Sangiorgio, Francesco Fiorito, and Humberto Varum. “Overview of 3D Construction Printing and Future Perspectives: A Review of Technology, Companies and Research Progression”. <i>Architectural Science Review</i>, 2022, 1–22. https://doi.org/10.1080/00038628.2022.2154740.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

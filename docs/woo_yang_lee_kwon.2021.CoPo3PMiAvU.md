@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seong-Jin Woo, Jun-Mo Yang, Hojae Lee, Hongkyu Kwon
+    - footer
+title: Woo Seong-Jin, Yang Jun-Mo, Lee Hojae, Kwon Hongkyu
 description:
 tags:
  - air
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/19/5888/pdf?version=1633943320) Comparison of Properties of 3D Printed Mortar in Air vs. Underwater ([2021-10](date/2021/10))
-<a href="https://doi.org/10.3390/ma14195888" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14195888</a>
+#Comparison of Properties of 3D Printed Mortar in Air vs. Underwater ([2021-10](date/2021/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/19/5888/pdf?version=1633943320) <a href="https://doi.org/10.3390/ma14195888" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14195888" target="_blank">10.3390/ma14195888</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1327-6327" title="ORCID: 0000-0002-1327-6327" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/woo_seong-jin"><b>Woo</b>&nbsp;Seong-Jin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4071-4943" title="ORCID: 0000-0002-4071-4943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_jun-mo"><b>Yang</b>&nbsp;Jun-Mo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9789-3348" title="ORCID: 0000-0002-9789-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kwon_hongkyu"><b>Kwon</b>&nbsp;Hongkyu</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 19
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/woo_seong-jin"><b>Woo</b> Seong-Jin</a> <a href="https://orcid.org/0000-0002-1327-6327" title="ORCID: 0000-0002-1327-6327" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a> <a href="https://orcid.org/0000-0002-4071-4943" title="ORCID: 0000-0002-4071-4943" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> <a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="https://orcid.org/0000-0002-9789-3348" title="ORCID: 0000-0002-9789-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 19, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#comparison`](keyword/comparison)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#underwater`](keyword/underwater)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Properties%20of%203D%20Printed%20Mortar%20in%20Air%20vs.%20Underwater" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85116980214&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3203065448" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14195888" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14195888?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Research and technological advancements in 3D concrete printing (3DCP) have led to the idea of applying it to offshore construction. The effect of gravity is reduced underwater, which can have a positive effect on 3DCP. For basic verification of this idea, this study printed and additively manufactured specimens with the same mortar mixture in air and underwater and evaluated properties in the fresh state and the hardened state. The mechanical properties were evaluated using the specimens produced by direct casting to the mold and specimens produced by extracting from the additive part through coring and cutting. The results of the experiment show that underwater 3D printing required a greater amount of printing output than in-air 3D printing for a good print quality, and buildability was improved underwater compared to that in air. In the case of the specimen layered underwater, the density and compressive strength decreased compared to the specimen layered in air. Because there are almost no effects of moisture evaporation and bleeding in water, the interlayer bond strength of the specimen printed underwater was somewhat larger than that printed in air, while there was no effect of the deposition time interval underwater.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/lobo_b"><b>Lobo</b> B.</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../blaa_lobo.2020.ARMaPS/">A Robust Mortar and Printing System</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
@@ -96,8 +76,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
       <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
       <li><a href="../../../author/yang_xia"><b>Yang</b> Xia</a>, <a href="../../../author/wang_jiuyuan"><b>Wang</b> Jiuyuan</a>, <a href="../../../author/huang_han"><b>Huang</b> Han</a>, <a href="../../../author/wu_gengchen"><b>Wu</b> Gengchen</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yang_wang_huan_wu.2025.AWCBMfUS3CP/">Anti-Washout Cement-Based Material for Under-Seawater 3D Concrete Printing:<br/>Design, Mechanical Properties and Microstructural Analysis</a></li>
       <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/chen_song-gui"><b>Chen</b> Song-Gui</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../wang_qiu_chen_liu.2025.NSfERPaIBiU3CP/">Novel Strategy for Enhancing Rheological Properties and Interlayer Bonding in Underwater 3D Concrete Printing</a></li>
@@ -114,4 +95,34 @@ tags:
       <li><a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a>, <a href="../../../author/park_in-beom"><b>Park</b> In-Beom</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_park_lee_kwon.2022.EoNDoPQaHPoU3PC/">Effects of Nozzle Details on Print Quality and Hardened Properties of Underwater 3D Printed Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/a_ruhan"><b>A</b> Ruhan</a>, <a href="../../../author/xie_panpan"><b>Xie</b> Panpan</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ma_a_xie_pan.2022.3PAIC/">3D Printable Aerogel-Incorporated Concrete:<br/>Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{woo_yang_lee_kwon.2021.CoPo3PMiAvU,
+      author            = "Seong-Jin Woo and Jun-Mo Yang and Hojae Lee and Hongkyu Kwon",
+      title             = "Comparison of Properties of 3D Printed Mortar in Air vs. Underwater",
+      doi               = "10.3390/ma14195888",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "19",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S.-J. Woo, J.-M. Yang, H. Lee and H. Kwon, “Comparison of Properties of 3D Printed Mortar in Air vs. Underwater”, <i>Materials</i>, vol. 14, no. 19, 2021, doi: 10.3390/ma14195888.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Woo, Seong-Jin, Jun-Mo Yang, Hojae Lee, and Hongkyu Kwon. “Comparison of Properties of 3D Printed Mortar in Air Vs. Underwater”. <i>Materials</i> 14, no. 19 (2021). https://doi.org/10.3390/ma14195888.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

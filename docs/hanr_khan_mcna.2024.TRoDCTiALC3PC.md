@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Niall Hanratty, Mehran Khan, Ciaran McNally
+    - footer
+title: Hanratty Niall, Khan Mehran, McNally Ciaran
 description:
 tags:
  - achievement
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/buildings14072194) The Role of Different Clay Types in Achieving Low-Carbon 3D Printed Concretes ([2024-07](date/2024/07))
-<a href="https://doi.org/10.3390/buildings14072194" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14072194</a>
+#The Role of Different Clay Types in Achieving Low-Carbon 3D Printed Concretes ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings14072194) <a href="https://doi.org/10.3390/buildings14072194" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14072194" target="_blank">10.3390/buildings14072194</a>
 
--------------------------
+<a href="../../../author/hanratty_niall"><b>Hanratty</b>&nbsp;Niall</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_mehran"><b>Khan</b>&nbsp;Mehran</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcnally_ciaran"><b>McNally</b>&nbsp;Ciaran</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 7, No. 2194
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hanratty_niall"><b>Hanratty</b> Niall</a>
-,     <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> <a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 7, No. 2194
-
-:aca-blank:{ .lg .middle}
-    [`#achievement`](keyword/achievement)
-    [`#carbon`](keyword/carbon)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/achievement"><button class="btn">#achievement</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Role%20of%20Different%20Clay%20Types%20in%20Achieving%20Low-Carbon%203D%20Printed%20Concretes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199619679&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400734519" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14072194" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14072194?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing, an innovative construction technology, offers reduced material waste, increased construction speed, and the ability to create complex and customized shapes that are challenging to achieve with traditional methods. This study delves into the unique fresh-state performance required for 3D printing concrete, discussing buildability, extrudability, and shape retention in terms of concrete rheology, which can be modified using admixtures. Currently most 3D printing concretes feature high cement contents, with little use of secondary cementitious materials. This leads to high embodied carbon, and addressing this is a fundamental objective of this work. The research identifies attapulgite, bentonite, and sepiolite clay as potential concrete admixtures to tailor concrete rheology. Eight low-carbon concrete mixes are designed to incorporate GGBS at a 50% replacement level and are used to measure the influence of each clay on the concrete rheology at varying dosages. A comprehensive rheological test protocol is designed and carried out on all mixes, together with other tests including slump-flow and compression strength. The objective is to determine the applicability of each clay in improving the printability of low-carbon concrete. The findings reveal that at a dosage of 0.5%, sepiolite was seen to improve static yield stress, dynamic yield stress, and rate of re-flocculation, resulting in improved printability. The addition of attapulgite and sepiolite at a dosage of 0.5% by mass of binder increased compressive strength significantly; bentonite had very little influence. These gains are not repeated at 1% clay content, indicating that there may be an optimum clay content. The results are considered encouraging and show the potential of these clays to enhance the performance of low-carbon concrete in 3D printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
@@ -89,8 +68,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
@@ -100,4 +79,35 @@ tags:
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a>, <a href="../../../author/john_john"><b>John</b> John</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../irsh_amja_kuma_john.2025.EtMDi3CPTSOP/">Enhancing the Mix Design in 3D Concrete Printing Through Systematic Optimization Process</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hanr_khan_mcna.2024.TRoDCTiALC3PC,
+      author            = "Niall Hanratty and Mehran Khan and Ciaran McNally",
+      title             = "The Role of Different Clay Types in Achieving Low-Carbon 3D Printed Concretes",
+      doi               = "10.3390/buildings14072194",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "7",
+      pages             = "2194",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Hanratty, M. Khan and C. McNally, “The Role of Different Clay Types in Achieving Low-Carbon 3D Printed Concretes”, <i>Buildings</i>, vol. 14, no. 7, p. 2194, 2024, doi: 10.3390/buildings14072194.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hanratty, Niall, Mehran Khan, and Ciaran McNally. “The Role of Different Clay Types in Achieving Low-Carbon 3D Printed Concretes”. <i>Buildings</i> 14, no. 7 (2024): 2194. https://doi.org/10.3390/buildings14072194.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

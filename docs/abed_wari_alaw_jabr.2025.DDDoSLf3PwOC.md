@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammadmadhi Abedi, Muhammad Waris, Mubarak Alawi, Khalifa Jabri, Mohammadali Rezazadeh
+    - footer
+title: Abedi Mohammadmadhi, Waris Muhammad, Alawi Mubarak, Jabri Khalifa, Rezazadeh Mohammadali
 description:
 tags:
  - clay
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.rineng.2025.108061" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2025.108061</a>
+#Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays ([2025-11](date/2025/11))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.rineng.2025.108061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.108061" target="_blank">10.1016/j.rineng.2025.108061</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2920-9284" title="ORCID: 0000-0002-2920-9284" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b>&nbsp;Mohammadmadhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8975-7362" title="ORCID: 0000-0002-8975-7362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/waris_bilal_muhammad"><b>Waris</b>&nbsp;Muhammad</a></span>, <a href="../../../author/alawi_khamis_mubarak"><b>al&nbsp;Alawi</b>&nbsp;Mubarak</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabri_saif_khalifa"><b>al&nbsp;Jabri</b>&nbsp;Khalifa</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1411-0051" title="ORCID: 0000-0003-1411-0051" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rezazadeh_mohammadali"><b>Rezazadeh</b>&nbsp;Mohammadali</a></span><br>
+Journal Article - Results in Engineering, No. 108061
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a> <a href="https://orcid.org/0000-0002-2920-9284" title="ORCID: 0000-0002-2920-9284" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a> <a href="https://orcid.org/0000-0002-8975-7362" title="ORCID: 0000-0002-8975-7362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alawi_khamis_mubarak"><b>al Alawi</b> Mubarak</a>
-,     <a href="../../../author/jabri_saif_khalifa"><b>al Jabri</b> Khalifa</a> <a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rezazadeh_mohammadali"><b>Rezazadeh</b> Mohammadali</a> <a href="https://orcid.org/0000-0003-1411-0051" title="ORCID: 0000-0003-1411-0051" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, No. 108061
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#data`](keyword/data)
-    [`#design`](keyword/design)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Design%20of%20Sustainable%20LC%C2%B3%20for%203D%20Printing%20with%20Omani%20Clays" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021259983&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415900808" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2025.108061" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2025.108061?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Developing low-carbon binders from abundant, locally available clays are essential to reducing the embodied CO₂ of 3D-printed concrete. In this study, we developed a predictive–optimization model for Limestone-Calcined Clay Cement (LC³) mix design by leveraging complex, multi-phase natural clays without energy-intensive purification of high-purity minerals. Kaolinite, illite, and montmorillonite—identified as the dominant clay types in Oman's major deposits—served as the basis for LC³ formulation. A systematic experimental dataset including 287 LC³ formulations was generated through factorial variation of kaolinite, illite, montmorillonite, and limestone contents. Each formulation was experimentally tested to measure compressive strength, flexural strength, and yield stress—key properties for evaluating 3D printability and mechanical performance. Several machine learning models—including hybrid SVR–ANN, CatBoost–ANN, and a customized ANN model—were developed to predict these target properties. A multi-objective optimization was then performed under realistic engineering constraints, such as raw material availability, required strength levels, and printability thresholds. The predictive performance of the best model was validated using two real-world natural clays: Clay A (kaolinite-rich) and Clay B (montmorillonite-rich). The composites were also assessed through a comprehensive suite of experimental evaluations, including high-temperature resistance, acid–chloride durability, rheological characterization (flow curve and stress growth tests), and microstructural analysis via XCT, SEM, and TGA. Additionally, a finite element simulation of a 3D-printed wall element was conducted to assess the structural feasibility of the optimized LC³ at large scale. The customized dual-path ANN model (ReLU stream for mechanical prediction, ELU stream for rheology) demonstrated the highest accuracy, achieving R² values of 0.961 (compressive strength), 0.956 (flexural strength), and 0.793 (yield stress), with an RMSE of 33.95 Pa. The optimized formulation—comprising 60% kaolinite, 5% illite, 5% montmorillonite, and 30% limestone—met all target constraints. Prediction errors were limited to 2.6% for Clay A and 4.2% for Clay B. The optimized LC3 composite exhibited 34.3 MPa compressive strength, 4.1 MPa flexural strength, and 726 Pa yield stress. Acid–chloride exposure testing showed strength retention above 87% after 120 days. Microstructural analyses revealed pore refinement, densification, and high thermal stability. FEM simulation validated the large-scale structural performance of the optimized composite. Overall, this work demonstrates the potential of data-driven mix design to produce low-carbon and eco-efficient, digitally printable LC³ materials using regionally available clays.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
@@ -91,7 +71,36 @@ tags:
       <li><a href="../../../author/yan_ruizhen"><b>Yan</b> Ruizhen</a>, <a href="../../../author/meng_fangqi"><b>Meng</b> Fangqi</a>, <a href="../../../author/ke_guoju"><b>Ke</b> Guoju</a>, <a href="../../../author/jia_kerui"><b>Jia</b> Kerui</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yan_meng_ke_jia.2024.CEotAo3PMwDWP/">Comparative Evaluation of the Applicability of 3D Printing Mortar with Different Waste-Powders</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_java_hoja.2025.ORPo3PCMvEML/">Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{abed_wari_alaw_jabr.2025.DDDoSLf3PwOC,
+      author            = "Mohammadmadhi Abedi and Muhammad Bilal Waris and Mubarak Khamis Al Alawi and Khalifa Saif Al Jabri and Mohammadali Rezazadeh",
+      title             = "Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays",
+      doi               = "10.1016/j.rineng.2025.108061",
+      year              = "2025",
+      journal           = "Results in Engineering",
+      pages             = "108061",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Abedi, M. B. Waris, M. K. A. Alawi, K. S. A. Jabri and M. Rezazadeh, “Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays”, <i>Results in Engineering</i>, p. 108061, 2025, doi: 10.1016/j.rineng.2025.108061.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abedi, Mohammadmadhi, Muhammad Bilal Waris, Mubarak Khamis Al Alawi, Khalifa Saif Al Jabri, and Mohammadali Rezazadeh. “Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays”. <i>Results in Engineering</i>, 2025, 108061. https://doi.org/10.1016/j.rineng.2025.108061.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

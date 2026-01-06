@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gerrit Placzek, Maike Dahlberg, Jan Thormählen, Patrick Schwerdtner
+    - footer
+title: Placzek Gerrit, Dahlberg Maike, Thormählen Jan, Schwerdtner Patrick
 description:
 tags:
  - concrete
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} How Productive Is 3D Concrete Printing?:<br/>:aca-blank: A Systematic Review ([2025-06](date/2025/06))
-<a href="https://doi.org/10.22260/ccc2025/0037" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/ccc2025/0037</a>
+#How Productive Is 3D Concrete Printing?&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">A Systematic Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/ccc2025/0037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/ccc2025/0037" target="_blank">10.22260/ccc2025/0037</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/placzek_gerrit"><b>Placzek</b>&nbsp;Gerrit</a></span>, <a href="../../../author/dahlberg_maike"><b>Dahlberg</b>&nbsp;Maike</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8146-5023" title="ORCID: 0009-0001-8146-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thormahlen_jan"><b>Thormählen</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b>&nbsp;Patrick</a></span><br>
+Contribution - Proceedings of the 14th Creative Construction Conference, pp. 300-308
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a> <a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dahlberg_maike"><b>Dahlberg</b> Maike</a>
-,     <a href="../../../author/thormahlen_jan"><b>Thormählen</b> Jan</a> <a href="https://orcid.org/0009-0001-8146-5023" title="ORCID: 0009-0001-8146-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 14th Creative Construction Conference, pp. 300-308
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=How%20Productive%20Is%203D%20Concrete%20Printing%3F" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413220907" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/ccc2025/0037" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/ccc2025/0037?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is considered a promising technology to digitise and transform the construction industry. The seamless design-to-fabrication workflow, the elimination of labour-intensive formwork and the general robotisation of construction are expected to significantly increase productivity in line with new architectural design possibilities. This paper presents the results of a systematic literature review summarising the productivity of 3DCP compared to conventional formwork-based construction. The identified and reviewed studies were categorised according to criteria for different levels of productivity. This includes categorisation by component and building level, and whether theoretical and empirical data has been collected on 3DCP or conventional processes. The results indicate that most studies evaluate labour productivity primarily based on empirical data from actual 3DCP, but do not always fully compare these to conventional construction. So far, productivity analysis was conducted at the component level and extrapolated to the building level. 3DCP offers cost and time savings of up to 79 % and 88 %, respectively, though some studies report increases of up to 50 % in cost and 16 % in time, pointing to the importance of context-specific factors. Many studies indicate the potential, which, however, are difficult to compare due to different levels of consideration. To be able to fully compare the results of the studies, many factors have to be standardised, such as different system boundaries, the degree of technological maturity and the selected printing parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
@@ -85,7 +67,37 @@ tags:
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
       <li><a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../yass_hamz_sakk.2020.ABMtOWoRSaC3P/">Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{plac_dahl_thor_schw.2025.HPI3CP,
+      author            = "Gerrit Placzek and Maike Dahlberg and Jan Thormählen and Patrick Schwerdtner",
+      title             = "How Productive Is 3D Concrete Printing?: A Systematic Review",
+      doi               = "10.22260/ccc2025/0037",
+      year              = "2025",
+      pages             = "300--308",
+      booktitle         = "Proceedings of the 14th Creative Construction Conference",
+      editor            = "Miklós Hajdu and Mirosław J. Skibniewski and Ziga Turk",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Placzek, M. Dahlberg, J. Thormählen and P. Schwerdtner, “How Productive Is 3D Concrete Printing?: A Systematic Review”, in <i>Proceedings of the 14th Creative Construction Conference</i>,  2025, pp. 300–308. doi: 10.22260/ccc2025/0037.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Placzek, Gerrit, Maike Dahlberg, Jan Thormählen, and Patrick Schwerdtner. “How Productive Is 3D Concrete Printing?: A Systematic Review”. In <i>Proceedings of the 14th Creative Construction Conference</i>, edited by Miklós Hajdu, Mirosław J. Skibniewski, and Ziga Turk, 300–308, 2025. https://doi.org/10.22260/ccc2025/0037.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

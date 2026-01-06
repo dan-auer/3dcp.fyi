@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qifeng Lyu, Pengfei Dai, Meirong Zong, Pinghua Zhu, Jianpeng Liu
+    - footer
+title: Lyu Qifeng, Dai Pengfei, Zong Meirong, Zhu Pinghua, Liu Jianpeng
 description:
 tags:
  - ability
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Plant-Germination Ability and Mechanical Strength of 3D Printed Vegetation Concrete Bound with Cement and Soil ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133587" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133587</a>
+#Plant-Germination Ability and Mechanical Strength of 3D Printed Vegetation Concrete Bound with Cement and Soil ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133587" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133587" target="_blank">10.1016/j.conbuildmat.2023.133587</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_qifeng"><b>Lyu</b>&nbsp;Qifeng</a></span>, <a href="../../../author/dai_pengfei"><b>Dai</b>&nbsp;Pengfei</a></span>, <a href="../../../author/zong_meirong"><b>Zong</b>&nbsp;Meirong</a></span>, <a href="../../../author/zhu_pinghua"><b>Zhu</b>&nbsp;Pinghua</a></span>, <a href="../../../author/liu_jianpeng"><b>Liu</b>&nbsp;Jianpeng</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 408, No. 133587
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>
-,     <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>
-,     <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a>
-,     <a href="../../../author/liu_jianpeng"><b>Liu</b> Jianpeng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 408, No. 133587
-
-:aca-blank:{ .lg .middle}
-    [`#ability`](keyword/ability)
-    [`#bound`](keyword/bound)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#soil`](keyword/soil)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/ability"><button class="btn">#ability</button></a> <a href="../../keyword/bound"><button class="btn">#bound</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Plant-Germination%20Ability%20and%20Mechanical%20Strength%20of%203D%20Printed%20Vegetation%20Concrete%20Bound%20with%20Cement%20and%20Soil" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173535946&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387419277" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133587" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133587?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To facilitate the manufacturing efficiency of vegetation concrete and reduce relevant environmental footprint, a novel type of vegetation concrete was manufactured by using 3D printing with cement partially replaced by soil. Twelve mixes were prepared for the printing mortar where three types of cement, i.e., ordinary Portland cement (OPC), sulphoaluminate cement (SAC), low-alkalinity sulphoaluminate cement (LSAC), as well as soil were used as the binder. Cubic cells of the vegetation concrete were printed with two printing paths. After printing and curing, grass seeds together with soil were sowed in the gaps among the printing filaments of the specimens. The printability, plant-germination ability, mechanical strength, X-ray computed tomography reconstructed structures, stress distributions, pH, and crystal phases of the printed vegetation concrete were investigated. Results revealed that increasing soil content in the printing mortar benefited plant germination but reduced concrete strength. Furthermore, the plants germinated earlier in the higher-cement-content specimens due to lower porosity of the printed concrete which retained more water in the soil. However, such plants withered soon after germination due to high alkalinity. The compressive strengths of the printed vegetation concrete were between 0.03 and 21.19 MPa. The corners and the surface grooves between the layers of the printed vegetation concrete were weak points due to stress concentration. Moreover, the buildability of SAC and LSAC specimens was better than that of OPC specimens. This was attributed to the calcium sulfate in the SAC and LSAC specimens. On the other hand, portlandite and ettringite which were abundant in OPC specimens contributed more to the specimens’ higher alkalinity that is harmful to plant germination.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
@@ -100,8 +77,8 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/chen_dongjian"><b>Chen</b> Dongjian</a>, <a href="../../../author/liu_shiyuan"><b>Liu</b> Shiyuan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF/">Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam</a></li>
@@ -109,4 +86,34 @@ tags:
       <li><a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_dai_lyu.2024.EoASFotPoTDPCC/">Effect of Alkalized Straw-Fibers on the Properties of Three Dimensional Printed Cementitious Composite</a></li>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>, <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dai_lyu_zong_zhu.2024.EoWPFotPaMPo3PCM/">Effect of Waste-Plastic-Fibers on the Printability and Mechanical Properties of 3D Printed Cement Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lyu_dai_zong_zhu.2023.PGAaMSo3PVCBwCaS,
+      author            = "Qifeng Lyu and Pengfei Dai and Meirong Zong and Pinghua Zhu and Jianpeng Liu",
+      title             = "Plant-Germination Ability and Mechanical Strength of 3D Printed Vegetation Concrete Bound with Cement and Soil",
+      doi               = "10.1016/j.conbuildmat.2023.133587",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "408",
+      pages             = "133587",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Lyu, P. Dai, M. Zong, P. Zhu and J. Liu, “Plant-Germination Ability and Mechanical Strength of 3D Printed Vegetation Concrete Bound with Cement and Soil”, <i>Construction and Building Materials</i>, vol. 408, p. 133587, 2023, doi: 10.1016/j.conbuildmat.2023.133587.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lyu, Qifeng, Pengfei Dai, Meirong Zong, Pinghua Zhu, and Jianpeng Liu. “Plant-Germination Ability and Mechanical Strength of 3D Printed Vegetation Concrete Bound with Cement and Soil”. <i>Construction and Building Materials</i> 408 (2023): 133587. https://doi.org/10.1016/j.conbuildmat.2023.133587.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

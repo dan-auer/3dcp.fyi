@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Yuan, Chao Gao, Tingjie Huang, Shenghao Zuo, Hao Yao, Kai Zhang, Yanling Huang, Jing Liu
+    - footer
+title: Yuan Qiang, Gao Chao, Huang Tingjie, Zuo Shenghao, Yao Hao, Zhang Kai, Huang Yanling, Liu Jing
 description:
 tags:
  - activation
@@ -19,39 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/5/1969/pdf?version=1646644267) Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar ([2022-03](date/2022/03))
-<a href="https://doi.org/10.3390/ma15051969" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15051969</a>
+#Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/5/1969/pdf?version=1646644267) <a href="https://doi.org/10.3390/ma15051969" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15051969" target="_blank">10.3390/ma15051969</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/gao_chao"><b>Gao</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1023-6159" title="ORCID: 0000-0003-1023-6159" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_tingjie"><b>Huang</b>&nbsp;Tingjie</a></span>, <a href="../../../author/zuo_shenghao"><b>Zuo</b>&nbsp;Shenghao</a></span>, <a href="../../../author/yao_hao"><b>Yao</b>&nbsp;Hao</a></span>, <a href="../../../author/zhang_kai"><b>Zhang</b>&nbsp;Kai</a></span>, <a href="../../../author/huang_yanling"><b>Huang</b>&nbsp;Yanling</a></span>, <a href="../../../author/liu_jing"><b>Liu</b>&nbsp;Jing</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a> <a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>
-,     <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> <a href="https://orcid.org/0000-0003-1023-6159" title="ORCID: 0000-0003-1023-6159" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a>
-,     <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>
-,     <a href="../../../author/zhang_kai"><b>Zhang</b> Kai</a>
-,     <a href="../../../author/huang_yanling"><b>Huang</b> Yanling</a>
-,     <a href="../../../author/liu_jing"><b>Liu</b> Jing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#extrusion`](keyword/extrusion)
-    [`#factor`](keyword/factor)
-    [`#influence`](keyword/influence)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Factors%20Influencing%20the%20Properties%20of%20Extrusion-Based%203D%20Printed%20Alkali-Activated%20Fly-Ash-Slag%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127426134&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220660636" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15051969" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15051969?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mix proportioning of extrusion-based 3D-printed cementitious material should balance printability and hardened properties. This paper investigated the effects of three key mix proportion parameters of 3D-printed alkali-activated fly ash/slag (3D-AAFS) mortar, i.e., the sand to binder (s/b) ratio, fly ash/ground granulated blast-furnace slag (FA/GGBS) ratio, and silicate modulus (Ms) of the activator, on extrudability, buildability, interlayer strength, and drying shrinkage. The results showed that the loss of extrudability and the development of buildability were accelerated by increasing the s/b ratio, decreasing the FA/GGBS ratio, or using a lower Ms activator. A rise in the s/b ratio improved the interlayer strength and reduces the drying shrinkage. Although increasing the FA/GGBS mass ratio from 1 to 3 led to a reduction of 35% in the interlayer bond strength, it decreased the shrinkage strain by half. A larger silicate modulus was beneficial to the interlayer bond strength, but it made shrinkage more serious. Moreover, a simple centroid design method was developed for optimizing the mix proportion of 3D-AAFS mortar to simultaneously meet the requirements of printability and hardened properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -117,8 +88,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
       <li><a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a>, <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a>, <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME/">Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments</a></li>
       <li><a href="../../../author/goel_devansh"><b>Goel</b> Devansh</a>, <a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b> Sudarshan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../goel_kore.2025.MtBPo3CP/">Mapping the Bibliometric Progression of 3D Concrete Printing:<br/>A Concise Review</a></li>
@@ -136,4 +107,34 @@ tags:
       <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/setlak-nee-plawecka_kinga"><b>Setlak (nee Pławecka)</b> Kinga</a>, <a href="../../../author/kozub_barbara"><b>Kozub</b> Barbara</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../korn_setl_kozu.2022.AOfMEESfLaMHMBoGCa3PT/">An Overview for Modern Energy-Efficient Solutions for Lunar and Martian Habitats Made Based on Geopolymers Composites and 3D Printing Technology</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../yuan_xie_yao_huan.2022.EoPotWaILIPo3PCM/">Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yuan_gao_huan_zuo.2022.FItPoEB3PAAFASM,
+      author            = "Qiang Yuan and Chao Gao and Tingjie Huang and Shenghao Zuo and Hao Yao and Kai Zhang and Yanling Huang and Jing Liu",
+      title             = "Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar",
+      doi               = "10.3390/ma15051969",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Yuan, “Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar”, <i>Materials</i>, vol. 15, no. 5, 2022, doi: 10.3390/ma15051969.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Qiang, Chao Gao, Tingjie Huang, Shenghao Zuo, Hao Yao, Kai Zhang, Yanling Huang, and Jing Liu. “Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar”. <i>Materials</i> 15, no. 5 (2022). https://doi.org/10.3390/ma15051969.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

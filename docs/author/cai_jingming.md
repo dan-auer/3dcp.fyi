@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Cai Jingming 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/guan_yongying"><b>Guan</b> Yongying</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_guan_zhu_han.2025.IoESSaDotMPaPCo3PGC/">Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete</a></li>
   <li><a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shen_zhu_cai_han.2024.IoWGPoPaMPo3PGC/">Influence of Waste-Glass-Powder on Printability and Mechanical Properties of 3D Printing Geopolymer Concrete</a></li>
   <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/ping_pengxin"><b>Ping</b> Pengxin</a>, <a href="../../../author/ding_boyin"><b>Ding</b> Boyin</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../pan_ping_ding_zhu.2024.IBo3PFRCCB/">Impact Behavior of 3D Printed Fiber-Reinforced Cementitious Composite Beams</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Longfei Zhou, Mifeng Gou, Jiankai Ji, Xinran Hou, Haibo Zhang
+    - footer
+title: Zhou Longfei, Gou Mifeng, Ji Jiankai, Hou Xinran, Zhang Haibo
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.mtsust.2024.100704" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.mtsust.2024.100704</a>
+#Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.mtsust.2024.100704" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtsust.2024.100704" target="_blank">10.1016/j.mtsust.2024.100704</a>
 
--------------------------
+<a href="../../../author/zhou_longfei"><b>Zhou</b>&nbsp;Longfei</a></span>, <a href="../../../author/gou_mifeng"><b>Gou</b>&nbsp;Mifeng</a></span>, <a href="../../../author/ji_jiankai"><b>Ji</b>&nbsp;Jiankai</a></span>, <a href="../../../author/hou_xinran"><b>Hou</b>&nbsp;Xinran</a></span>, <a href="../../../author/zhang_haibo"><b>Zhang</b>&nbsp;Haibo</a></span><br>
+Journal Article - Materials Today Sustainability, Vol. 25, No. 100704
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>
-,     <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>
-,     <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>
-,     <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a>
-,     <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today Sustainability, Vol. 25, No. 100704
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#durability`](keyword/durability)
-    [`#hardened`](keyword/hardened)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#tailing`](keyword/tailing)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Durability%20and%20Hardened%20Properties%20of%203D%20Printed%20Concrete%20Containing%20Bauxite-Tailings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184755095&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391538689" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.mtsust.2024.100704" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.mtsust.2024.100704?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to investigate the effect of bauxite tailings as fine aggregate instead of natural sand on the durability and hardened properties of 3D printed concrete (3DPC). Firstly, the durability and hardened properties of 3DPC were evaluated. Subsequently, various experiments including hydration heat, pore structure, nanoindentation, thermogravimetric analysis and SEM tests were performed to explore the influence mechanism of tailings on 3DPC. The results reveal that 3DPC containing tailings exhibits superior mechanical properties compared with T0 (without tailings), during both the early and later stages of development. The addition of tailings enhances the resistance to chloride ion attack and carbonation of 3DPC, but weakens its resistance to drying shrinkage. The ending time of the induction period and the time required to reach the second exothermic peak are shorter for T35 (with 35 % replacement of tailings) compared to T0, while T35 demonstrates a higher cumulative heat release than T0. In addition, T35 has a denser interface transition zone of 3DPC compared to T0 due to the pozzolanic activity and crystalline nucleation effect of the tailings. Furthermore, the incorporation of bauxite tailings enhances the compactness between natural aggregate and cement paste. In conclusion, this study elucidates the influence mechanism of bauxite tailings on the durability and hardened properties of 3DPC, providing a theoretical basis for the application of bauxite tailings in construction materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_keke"><b>Sun</b> Keke</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC/">Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control</a></li>
@@ -87,8 +65,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
@@ -107,4 +85,34 @@ tags:
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_gou_ji_hou.2024.DaHPo3PCCBT,
+      author            = "Longfei Zhou and Mifeng Gou and Jiankai Ji and Xinran Hou and Haibo Zhang",
+      title             = "Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings",
+      doi               = "10.1016/j.mtsust.2024.100704",
+      year              = "2024",
+      journal           = "Materials Today Sustainability",
+      volume            = "25",
+      pages             = "100704",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Zhou, M. Gou, J. Ji, X. Hou and H. Zhang, “Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings”, <i>Materials Today Sustainability</i>, vol. 25, p. 100704, 2024, doi: 10.1016/j.mtsust.2024.100704.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Longfei, Mifeng Gou, Jiankai Ji, Xinran Hou, and Haibo Zhang. “Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings”. <i>Materials Today Sustainability</i> 25 (2024): 100704. https://doi.org/10.1016/j.mtsust.2024.100704.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

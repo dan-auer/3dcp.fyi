@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Steven Keating, Neri Oxman
+    - footer
+title: Keating Steven, Oxman Neri
 description:
 tags:
  - compound
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Compound Fabrication:<br/>:aca-blank: A Multi-Functional Robotic Platform for Digital Design and Fabrication ([2013-06](date/2013/06))
-<a href="https://doi.org/10.1016/j.rcim.2013.05.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rcim.2013.05.001</a>
+#Compound Fabrication&nbsp;([2013-06](date/2013/06))
+<div class="h1-like">A Multi-Functional Robotic Platform for Digital Design and Fabrication</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.rcim.2013.05.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rcim.2013.05.001" target="_blank">10.1016/j.rcim.2013.05.001</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8775-5590" title="ORCID: 0000-0002-8775-5590" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keating_j_steven"><b>Keating</b>&nbsp;Steven</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9222-4447" title="ORCID: 0000-0001-9222-4447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oxman_neri"><b>Oxman</b>&nbsp;Neri</a></span><br>
+Journal Article - Robotics and Computer-Integrated Manufacturing, Vol. 29, Iss. 6, pp. 439-448
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a> <a href="https://orcid.org/0000-0002-8775-5590" title="ORCID: 0000-0002-8775-5590" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="https://orcid.org/0000-0001-9222-4447" title="ORCID: 0000-0001-9222-4447" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Robotics and Computer-Integrated Manufacturing, Vol. 29, Iss. 6, pp. 439-448
-
-:aca-blank:{ .lg .middle}
-    [`#compound`](keyword/compound)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#function`](keyword/function)
-    [`#multi`](keyword/multi)
-    [`#platform`](keyword/platform)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/compound"><button class="btn">#compound</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/platform"><button class="btn">#platform</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Compound%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84879319971&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,21 +39,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2053675209" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rcim.2013.05.001" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rcim.2013.05.001?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Supporting various applications of digital fabrication and manufacturing, the industrial robot is typically assigned repetitive tasks for specific pre-programmed and singular applications. We propose a novel approach for robotic fabrication and manufacturing entitled Compound Fabrication, supporting multifunctional and multi-material processes. This approach combines the major manufacturing technologies including additive, formative and subtractive fabrication, as well as their parallel integration. A 6-axis robotic arm, repurposed as an integrated 3D printing, milling and sculpting platform, enables shifting between fabrication modes and across scales using different end effectors. Promoting an integrated approach to robotic fabrication, novel combination processes are demonstrated including 3D printing and milling fabrication composites. In addition, novel robotic fabrication processes are developed and evaluated, such as multi-axis plastic 3D printing, direct recycling 3D printing, and embedded printing. The benefits and limitations of the Compound Fabrication approach and its experimental platform are reviewed and discussed. Finally, contemplation regarding the future of multi-functional robotic fabrication is offered, in the context of the experiments reviewed and demonstrated in this paper.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../pier_perr.2025.APMfCM/">Alternative Printing-Methods for Cementitious Materials</a></li>
       <li><a href="../../../author/chaari_zied_mohamed"><b>Chaari</b> Mohamed</a>, <a href="../../../author/pereira_philbert_gilroy"><b>Pereira</b> Gilroy</a>, <a href="../../../author/daroge_fawwad"><b>Daroge</b> Fawwad</a>, <a href="../../../author/buainain_shamma"><b>Buainain</b> Shamma</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chaa_pere_daro_buai.2024.3PBwCCUaSAPR/">3D Printing Birdhouses with Ceramic Clay Using a Six-Axis Palletizing Robot</a></li>
       <li><a href="../../../author/ostovari_shadi"><b>Ostovari</b> Shadi</a>, <a href="../../../author/shayani_hooman"><b>Shayani</b> Hooman</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../osto_shay.2024.SaAoAGILEAPfCSS/">Simulation and Analysis of Automated Generalised Interleaved Layered Execution (AGILE) Process for Concrete Shell-Structures</a></li>
@@ -98,4 +79,35 @@ tags:
       <li><a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/willmann_jan"><b>Willmann</b> Jan</a>, <a href="../../../author/tibbits_skylar"><b>Tibbits</b> Skylar</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../aejm_will_tibb_gram.2016.JAS/">Jammed Architectural Structures:<br/>Towards Large-Scale Reversible Construction</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/spielberg_a_nathan"><b>Spielberg</b> Nathan</a>, <a href="../../../author/klein_john"><b>Klein</b> John</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2014/05">(2014-05)</a><br><a href="../../../keat_spie_klei_oxma.2014.ACAAtDC/">A Compound Arm Approach to Digital Construction:<br/>A Mobile Large-Scale Platform for On-Site Sensing, Design, and Digital Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{keat_oxma.2013.CF,
+      author            = "Steven J. Keating and Neri Oxman",
+      title             = "Compound Fabrication: A Multi-Functional Robotic Platform for Digital Design and Fabrication",
+      doi               = "10.1016/j.rcim.2013.05.001",
+      year              = "2013",
+      journal           = "Robotics and Computer-Integrated Manufacturing",
+      volume            = "29",
+      number            = "6",
+      pages             = "439--448",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. J. Keating  and N. Oxman, “Compound Fabrication: A Multi-Functional Robotic Platform for Digital Design and Fabrication”, <i>Robotics and Computer-Integrated Manufacturing</i>, vol. 29, no. 6, pp. 439–448, 2013, doi: 10.1016/j.rcim.2013.05.001.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Keating, Steven J., and Neri Oxman. “Compound Fabrication: A Multi-Functional Robotic Platform for Digital Design and Fabrication”. <i>Robotics and Computer-Integrated Manufacturing</i> 29, no. 6 (2013): 439–48. https://doi.org/10.1016/j.rcim.2013.05.001.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

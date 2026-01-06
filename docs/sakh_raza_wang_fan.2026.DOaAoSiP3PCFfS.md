@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mahsa Sakha, Saim Raza, Xiaomeng Wang, Haifeng Fan, Nils Pichler, Moslem Shahverdi
+    - footer
+title: Sakha Mahsa, Raza Saim, Wang Xiaomeng, Fan Haifeng, Pichler Nils, Shahverdi Moslem
 description:
 tags:
  - assessment
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.autcon.2025.106572" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106572</a>
+#Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs ([2025-10](date/2025/10))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.autcon.2025.106572" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106572" target="_blank">10.1016/j.autcon.2025.106572</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6618-5456" title="ORCID: 0000-0001-6618-5456" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sakha_mahsa"><b>Sakha</b>&nbsp;Mahsa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_saim"><b>Raza</b>&nbsp;Saim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8136-0731" title="ORCID: 0000-0002-8136-0731" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiaomeng"><b>Wang</b>&nbsp;Xiaomeng</a></span>, <a href="../../../author/fan_haifeng"><b>Fan</b>&nbsp;Haifeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8602-3291" title="ORCID: 0000-0002-8602-3291" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pichler_nils"><b>Pichler</b>&nbsp;Nils</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahverdi_moslem"><b>Shahverdi</b>&nbsp;Moslem</a></span><br>
+Journal Article - Automation in Construction, Vol. 181, No. 106572
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a> <a href="https://orcid.org/0000-0001-6618-5456" title="ORCID: 0000-0001-6618-5456" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raza_saim"><b>Raza</b> Saim</a> <a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a> <a href="https://orcid.org/0000-0002-8136-0731" title="ORCID: 0000-0002-8136-0731" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a>
-,     <a href="../../../author/pichler_nils"><b>Pichler</b> Nils</a> <a href="https://orcid.org/0000-0002-8602-3291" title="ORCID: 0000-0002-8602-3291" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> <a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 181, No. 106572
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#formwork`](keyword/formwork)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#slab`](keyword/slab)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20Optimization%20and%20Assessment%20of%20Stay-in-Place%203D%20Printed%20Concrete%20Formwork%20for%20Slabs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019743854&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7088337370" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106572" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106572?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D printing has recently expanded into fabricating concrete structures with complex geometries. Despite its potential to reshape concrete construction, its application in load-bearing elements has been delayed by concerns over weak tensile capacity and challenges in integrating conventional reinforcement. Previous research has shown that post-tensioning provides a reliable method for designing stay-in-place 3D-printed concrete formwork capable of supporting both its self-weight and freshly cast concrete toppings without requiring temporary shoring. However, that work neglected the geometric freedom enabled by 3D printing, as it lacked a comprehensive optimization analysis. This paper introduces a bottom-up optimization workflow consisting of two steps: (I) cross-sectional shape optimization and (II) spanwise optimization. This approach evaluates shapes based on structural performance and demand, then arranges them along the span for higher performance. Given this workflow, two printing strategies, open- and closed-loop, are introduced and compared, and the superior performance of the closed-loop approach is demonstrated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a>, <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a>, <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../beer_soet_giel_eyke.2023.3PoaIRSBHM/">3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>A Durable, Sustainable and Cost-Competitive Product?</a></li>
@@ -92,7 +69,37 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS,
+      author            = "Mahsa Sakha and Saim Raza and Xiaomeng Wang and Haifeng Fan and Nils Pichler and Moslem Shahverdi",
+      title             = "Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs",
+      doi               = "10.1016/j.autcon.2025.106572",
+      year              = "2026",
+      journal           = "Automation in Construction",
+      volume            = "181",
+      pages             = "106572",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sakha, S. Raza, X. Wang, H. Fan, N. Pichler and M. Shahverdi, “Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs”, <i>Automation in Construction</i>, vol. 181, p. 106572, 2026, doi: 10.1016/j.autcon.2025.106572.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sakha, Mahsa, Saim Raza, Xiaomeng Wang, Haifeng Fan, Nils Pichler, and Moslem Shahverdi. “Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs”. <i>Automation in Construction</i> 181 (2026): 106572. https://doi.org/10.1016/j.autcon.2025.106572.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

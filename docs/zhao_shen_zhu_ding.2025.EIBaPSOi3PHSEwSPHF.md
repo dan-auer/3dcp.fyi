@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Zhao, Guanghai Shen, Lingli Zhu, Yahong Ding, Xuemao Guan
+    - footer
+title: Zhao Yu, Shen Guanghai, Zhu Lingli, Ding Yahong, Guan Xuemao
 description:
 tags:
  - bond
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04934) Enhancing Interfacial Bonding and Pore Structure Optimization in 3D-Printed High-Strength ECC with Steel-PE Hybrid Fibers ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04934" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04934</a>
+#Enhancing Interfacial Bonding and Pore Structure Optimization in 3D-Printed High-Strength ECC with Steel-PE Hybrid Fibers ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04934) <a href="https://doi.org/10.1016/j.cscm.2025.e04934" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04934" target="_blank">10.1016/j.cscm.2025.e04934</a>
 
--------------------------
+<a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span>, <a href="../../../author/shen_guanghai"><b>Shen</b>&nbsp;Guanghai</a></span>, <a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <a href="../../../author/ding_yahong"><b>Ding</b>&nbsp;Yahong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guan_xuemao"><b>Guan</b>&nbsp;Xuemao</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 23, No. e04934
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>
-,     <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>
-,     <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>
-,     <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a>
-,     <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 23, No. e04934
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#ecc`](keyword/ecc)
-    [`#enhancement`](keyword/enhancement)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#hybrid`](keyword/hybrid)
-    [`#interface`](keyword/interface)
-    [`#optimization`](keyword/optimization)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#steel`](keyword/steel)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Interfacial%20Bonding%20and%20Pore%20Structure%20Optimization%20in%203D-Printed%20High-Strength%20ECC%20with%20Steel-PE%20Hybrid%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008294095&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411342767" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04934" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04934?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Engineered cementitious composites (ECC) are ideal candidates for 3D-printed concrete (3DPC) due to their excellent strain-hardening properties; however, the interlayer interfacial defects caused by the layer-by-layer stacking process severely restrict the development of their mechanical properties. In this study, we propose to adopt a steel fiber/polyethylene(PE) fiber hybrid reinforcement strategy to systematically investigate the mechanism of the influence of steel fiber compounding ratio (0–0.6 vol%) on the splitting strength and pore structure of the interlayer interfaces of 3D-printed high-strength ECC (HS-ECC). The three-dimensional distribution of pores was quantitatively resolved by X-ray computed tomography (X-CT), and the micro-morphology of the transition zone at the fiber-matrix interface was observed by scanning electron microscopy (SEM). The test shows that: when the steel fiber doping is increased to 0.6 %, the compressive strength is improved by about 15 %, and the interfacial splitting tensile strength is improved by 50.12 %, but the uniaxial tensile strain capacity decreases by 18.92 %, which reveals that there is a strength-ductility trade-off effect in the proportion of fiber mixing; the X-CT reconstruction reveals that the porosity within the strips of the printed specimen is reduced by 15.01 % compared with that of the poured molding and the porosity is dominated by small pores of a pore size of < 100 μm, but the interlayer interfacial interface microforms. The X-CT and SEM analyses confirmed that the steel fibers showed a significant orientation distribution in the printing direction, which inhibited the interface crack extension through the bridging effect. By optimizing the fiber orientation distribution and the microstructure of the interlayer interface, the compound-mixed steel fibers significantly improved the interfacial splitting tensile strength, which provides an effective way to solve the problem of weak interlayer surfaces in 3DPC, and is of great significance in improving the quality of 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../bai_xiao_ding_yu.2024.IBPB3PECCaPCC/">Interfacial Bond-Properties Between 3D Printed Engineered Cementitious Composite and Post-Cast Concrete</a></li>
@@ -104,10 +76,41 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/godinho_r-a_jose"><b>Godinho</b> Jose</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhan_tao_godi_ren.2025.LICaAo3PCBMEtPPTD/">Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_shen_zhu_ding.2025.EIBaPSOi3PHSEwSPHF,
+      author            = "Yu Zhao and Guanghai Shen and Lingli Zhu and Yahong Ding and Xuemao Guan",
+      title             = "Enhancing Interfacial Bonding and Pore Structure Optimization in 3D-Printed High-Strength ECC with Steel-PE Hybrid Fibers",
+      doi               = "10.1016/j.cscm.2025.e04934",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "23",
+      pages             = "e04934",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhao, G. Shen, L. Zhu, Y. Ding and X. Guan, “Enhancing Interfacial Bonding and Pore Structure Optimization in 3D-Printed High-Strength ECC with Steel-PE Hybrid Fibers”, <i>Case Studies in Construction Materials</i>, vol. 23, p. e04934, 2025, doi: 10.1016/j.cscm.2025.e04934.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Yu, Guanghai Shen, Lingli Zhu, Yahong Ding, and Xuemao Guan. “Enhancing Interfacial Bonding and Pore Structure Optimization in 3D-Printed High-Strength ECC with Steel-PE Hybrid Fibers”. <i>Case Studies in Construction Materials</i> 23 (2025): e04934. https://doi.org/10.1016/j.cscm.2025.e04934.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

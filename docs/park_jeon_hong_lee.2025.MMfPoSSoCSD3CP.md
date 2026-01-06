@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ji-seul Park, Seung-Su Jeong, Seungkee Hong, Seohyung Lee, Sung-Gul Hong
+    - footer
+title: Park Ji-seul, Jeong Seung-Su, Hong Seungkee, Lee Seohyung, Hong Sung-Gul
 description:
 tags:
  - concrete
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Modeling for Prediction of Structural Stability of Cylindrical Structures During 3D Concrete Printing ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.tws.2025.113051" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.tws.2025.113051</a>
+#Mechanical Modeling for Prediction of Structural Stability of Cylindrical Structures During 3D Concrete Printing ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.tws.2025.113051" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tws.2025.113051" target="_blank">10.1016/j.tws.2025.113051</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7391-0043" title="ORCID: 0000-0002-7391-0043" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_ji-seul"><b>Park</b>&nbsp;Ji-seul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0022-8246" title="ORCID: 0000-0002-0022-8246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jeong_seung-su"><b>Jeong</b>&nbsp;Seung-Su</a></span>, <a href="../../../author/hong_seungkee"><b>Hong</b>&nbsp;Seungkee</a></span>, <a href="../../../author/lee_seohyung"><b>Lee</b>&nbsp;Seohyung</a></span>, <a href="../../../author/hong_sung-gul"><b>Hong</b>&nbsp;Sung-Gul</a></span><br>
+Journal Article - Thin-Walled Structures, No. 113051
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/park_ji-seul"><b>Park</b> Ji-seul</a> <a href="https://orcid.org/0000-0002-7391-0043" title="ORCID: 0000-0002-7391-0043" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jeong_seung-su"><b>Jeong</b> Seung-Su</a> <a href="https://orcid.org/0000-0002-0022-8246" title="ORCID: 0000-0002-0022-8246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hong_seungkee"><b>Hong</b> Seungkee</a>
-,     <a href="../../../author/lee_seohyung"><b>Lee</b> Seohyung</a>
-,     <a href="../../../author/hong_sung-gul"><b>Hong</b> Sung-Gul</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Thin-Walled Structures, No. 113051
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#cylinder`](keyword/cylinder)
-    [`#mechanics`](keyword/mechanics)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#stability`](keyword/stability)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cylinder"><button class="btn">#cylinder</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Modeling%20for%20Prediction%20of%20Structural%20Stability%20of%20Cylindrical%20Structures%20During%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217793876&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407321089" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.tws.2025.113051" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.tws.2025.113051?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing using 3D concrete printing has rapidly developed in the past decade due to its advantages, such as formwork-free construction and reduced labor costs. Predicting the structural stability of objects during the printing process is crucial, as it directly affects material efficiency and economic viability. For cylindrical structures, numerical models often tend to overestimate the elastic buckling length. Additionally, numerical methods simulating successive layer deposition require the optimization of multiple parameters, including mesh resolution, element type, and surface interactions, which significantly increases computational complexity. To address these limitations, this study establishes a mechanistic model for cylindrical structures to predict global and local buckling under non-uniform gravitational loading, time-dependent heterogeneous material properties, and geometric imperfections. Experimental validation confirmed that thinner shells are prone to asymmetric higher order buckling modes. The proposed model provides a conservative estimate of the buckling length while reducing computation time and can be utilized to optimize printing parameters while ensuring the structural stability of cylindrical structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -94,7 +71,36 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{park_jeon_hong_lee.2025.MMfPoSSoCSD3CP,
+      author            = "Ji-seul Park and Seung-Su Jeong and Seungkee Hong and Seohyung Lee and Sung-Gul Hong",
+      title             = "Mechanical Modeling for Prediction of Structural Stability of Cylindrical Structures During 3D Concrete Printing",
+      doi               = "10.1016/j.tws.2025.113051",
+      year              = "2025",
+      journal           = "Thin-Walled Structures",
+      pages             = "113051",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-. seul . Park, S.-S. Jeong, S. Hong, S. Lee and S.-G. Hong, “Mechanical Modeling for Prediction of Structural Stability of Cylindrical Structures During 3D Concrete Printing”, <i>Thin-Walled Structures</i>, p. 113051, 2025, doi: 10.1016/j.tws.2025.113051.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Park, Ji-seul, Seung-Su Jeong, Seungkee Hong, Seohyung Lee, and Sung-Gul Hong. “Mechanical Modeling for Prediction of Structural Stability of Cylindrical Structures During 3D Concrete Printing”. <i>Thin-Walled Structures</i>, 2025, 113051. https://doi.org/10.1016/j.tws.2025.113051.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

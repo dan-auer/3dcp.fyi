@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatima Ramirez Rodriguez, Paolo Pancho, Daniela Sanchez, Suman Poudel, Dhyan Bhavsar, Rafiq Ahman
+    - footer
+title: Ramirez Rodriguez Fatima, Pancho Paolo, Sanchez Daniela, Poudel Suman, Bhavsar Dhyan, Ahman Rafiq
 description:
 tags:
  - cell
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.procs.2025.01.109) Design and Development of a Lean Robotic Cell for Concrete 3D Printing ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.procs.2025.01.109" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.procs.2025.01.109</a>
+#Design and Development of a Lean Robotic Cell for Concrete 3D Printing ([2025-02](date/2025/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.procs.2025.01.109) <a href="https://doi.org/10.1016/j.procs.2025.01.109" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procs.2025.01.109" target="_blank">10.1016/j.procs.2025.01.109</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-2185-5006" title="ORCID: 0009-0000-2185-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b>&nbsp;Fatima</a></span>, <a href="../../../author/pancho_paolo"><b>Pancho</b>&nbsp;Paolo</a></span>, <a href="../../../author/sanchez_daniela"><b>Sanchez</b>&nbsp;Daniela</a></span>, <a href="../../../author/poudel_suman"><b>Poudel</b>&nbsp;Suman</a></span>, <a href="../../../author/bhavsar_dhyan"><b>Bhavsar</b>&nbsp;Dhyan</a></span>, <a href="../../../author/ahman_rafiq"><b>Ahman</b>&nbsp;Rafiq</a></span><br>
+Journal Article - Procedia Computer Science, Vol. 253, pp. 475-484
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a> <a href="https://orcid.org/0009-0000-2185-5006" title="ORCID: 0009-0000-2185-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pancho_paolo"><b>Pancho</b> Paolo</a>
-,     <a href="../../../author/sanchez_daniela"><b>Sanchez</b> Daniela</a>
-,     <a href="../../../author/poudel_suman"><b>Poudel</b> Suman</a>
-,     <a href="../../../author/bhavsar_dhyan"><b>Bhavsar</b> Dhyan</a>
-,     <a href="../../../author/ahman_rafiq"><b>Ahman</b> Rafiq</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Procedia Computer Science, Vol. 253, pp. 475-484
-
-:aca-blank:{ .lg .middle}
-    [`#cell`](keyword/cell)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#development`](keyword/development)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/cell"><button class="btn">#cell</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Development%20of%20a%20Lean%20Robotic%20Cell%20for%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000551704&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407920126" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.procs.2025.01.109" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.procs.2025.01.109?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study enhances the efficiency of concrete 3D printing for prefabricated lightweight slabs by implementing lean principles and robotic automation. Benchmarking an existing optimized slab design and simulating a lean robotic cell revealed significant improvements in production time, automation efficiency, quality assurance, cost savings, workspace optimization, and continuous improvement through sensor data collection. The study compares the current manufacturing process with a proposed lean process for a complex octagonal slab design. Assumptions on building dimensions, slab requirements, printing methods, and materials facilitated the analysis. The current process takes 10 hours per slab, including printing, reinforcement placement, and drying. Lean principles aim to reduce waste and boost productivity, enhancing the manufacturing efficiency of prefabricated lightweight slabs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/heusi_alex"><b>Heusi</b> Alex</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../beda_szab_zani_heus.2022.R3PoMFfaLCCS/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
@@ -91,8 +69,38 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../li_sun_qian_chen.2025.BIBAfEFPi3PSHCC3S/">Bio-Inspired Bouligand Architectures for Enhanced Flexural Performance in 3D-Printed Strain-Hardening Cementitious Composites (3DP-SHCC)</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rami_panc_sanc_poud.2025.DaDoaLRCfC3P,
+      author            = "Fatima Mariana Ramirez Rodriguez and Paolo Pancho and Daniela Sanchez and Suman Poudel and Dhyan Bhavsar and Rafiq Ahman",
+      title             = "Design and Development of a Lean Robotic Cell for Concrete 3D Printing",
+      doi               = "10.1016/j.procs.2025.01.109",
+      year              = "2025",
+      journal           = "Procedia Computer Science",
+      volume            = "253",
+      pages             = "475--484",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. M. R. Rodriguez, P. Pancho, D. Sanchez, S. Poudel, D. Bhavsar and R. Ahman, “Design and Development of a Lean Robotic Cell for Concrete 3D Printing”, <i>Procedia Computer Science</i>, vol. 253, pp. 475–484, 2025, doi: 10.1016/j.procs.2025.01.109.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rodriguez, Fatima Mariana Ramirez, Paolo Pancho, Daniela Sanchez, Suman Poudel, Dhyan Bhavsar, and Rafiq Ahman. “Design and Development of a Lean Robotic Cell for Concrete 3D Printing”. <i>Procedia Computer Science</i> 253 (2025): 475–84. https://doi.org/10.1016/j.procs.2025.01.109.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

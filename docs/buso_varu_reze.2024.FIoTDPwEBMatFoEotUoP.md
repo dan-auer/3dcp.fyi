@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Márcio Buson, Humberto Varum, Marco Rezende
+    - footer
+title: Buson Márcio, Varum Humberto, Rezende Marco
 description:
 tags:
  - base
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/2/312/pdf?version=1706003173) First Impressions on Three-Dimensional Printing with Earth-Based Mortar at the Faculty of Engineering of the University of Porto ([2024-01](date/2024/01))
-<a href="https://doi.org/10.3390/buildings14020312" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14020312</a>
+#First Impressions on Three-Dimensional Printing with Earth-Based Mortar at the Faculty of Engineering of the University of Porto ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/2/312/pdf?version=1706003173) <a href="https://doi.org/10.3390/buildings14020312" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14020312" target="_blank">10.3390/buildings14020312</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4221-6673" title="ORCID: 0000-0002-4221-6673" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buson_marcio"><b>Buson</b>&nbsp;Márcio</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varum_humberto"><b>Varum</b>&nbsp;Humberto</a></span>, <a href="../../../author/rezende_antonio_marco"><b>Rezende</b>&nbsp;Marco</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 2, No. 312
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/buson_marcio"><b>Buson</b> Márcio</a> <a href="https://orcid.org/0000-0002-4221-6673" title="ORCID: 0000-0002-4221-6673" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a> <a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rezende_antonio_marco"><b>Rezende</b> Marco</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 2, No. 312
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#dimension`](keyword/dimension)
-    [`#earth`](keyword/earth)
-    [`#engineered`](keyword/engineered)
-    [`#first`](keyword/first)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=First%20Impressions%20on%20Three-Dimensional%20Printing%20with%20Earth-Based%20Mortar%20at%20the%20Faculty%20of%20Engineering%20of%20the%20University%20of%20Porto" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185724136&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391135934" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14020312" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14020312?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing with earth-based mortar is still under development and faces challenges. Optimising the mortar mixture, improving structural strength, determining the relationship between the printing speed and the amount of extruded material, and ensuring long-term durability are areas that are being refined. Additionally, regulatory and certification issues must also be considered to ensure the safety and compliance of 3D printed structures. This paper presents for discussion the records, analyses, studies, and considerations regarding initial initiatives involving 3D printing with the extrusion of earth-based mortar developed at the Faculty of Engineering of the University of Porto (FEUP). Through this work, it was possible to strengthen and reaffirm that 3D printing with earth-based mortar has significant potential in the construction industry and that the incorporation of dispersed kraft paper fibres from the recycling of cement bags is an excellent resource to achieve good constructability in 3D printing with earth-based mortar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../dahe_klei_benz_abri.2023.TDoSB3PM/">The Development of Soil-Based 3D Printable Mixtures:<br/>A Mix-Design Methodology and a Case Study</a></li>
       <li><a href="../../../author/elistratkin_yu_michail"><b>Elistratkin</b> Michail</a>, <a href="../../../author/alfimova_i_nataliya"><b>Alfimova</b> Nataliya</a>, <a href="../../../author/podgorniy_s_daniil"><b>Podgorniy</b> Daniil</a>, <a href="../../../author/olisov_vitalievich_andrey"><b>Olisov</b> Andrey</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../elis_alfi_podg_olis.2022.IoEOPotCoaTPwC3P/">Influence of Equipment Operation Parameters on the Characteristics of a Track Produced with Construction 3D Printing</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
@@ -74,7 +53,38 @@ tags:
       <li><a href="../../../author/ramezani_amir"><b>Ramezani</b> Amir</a>, <a href="../../../author/modaresi_shahriar"><b>Modaresi</b> Shahriar</a>, <a href="../../../author/dashti_pooria"><b>Dashti</b> Pooria</a>, <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../rame_moda_dash_givk.2023.EoDToFoFaHPoCaGB3PM/">Effects of Different Types of Fibers on Fresh and Hardened Properties of Cement and Geopolymer-Based 3D Printed Mixtures:<br/>A Review</a></li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{buso_varu_reze.2024.FIoTDPwEBMatFoEotUoP,
+      author            = "Márcio Buson and Humberto Varum and Marco Antônio Rezende",
+      title             = "First Impressions on Three-Dimensional Printing with Earth-Based Mortar at the Faculty of Engineering of the University of Porto",
+      doi               = "10.3390/buildings14020312",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "2",
+      pages             = "312",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Buson, H. Varum and M. A. Rezende, “First Impressions on Three-Dimensional Printing with Earth-Based Mortar at the Faculty of Engineering of the University of Porto”, <i>Buildings</i>, vol. 14, no. 2, p. 312, 2024, doi: 10.3390/buildings14020312.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Buson, Márcio, Humberto Varum, and Marco Antônio Rezende. “First Impressions on Three-Dimensional Printing with Earth-Based Mortar at the Faculty of Engineering of the University of Porto”. <i>Buildings</i> 14, no. 2 (2024): 312. https://doi.org/10.3390/buildings14020312.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

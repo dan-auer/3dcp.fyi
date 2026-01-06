@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Egor Secrieru, Jad Khodor, Christof Schröfl, Viktor Mechtcherine
+    - footer
+title: Secrieru Egor, Khodor Jad, Schröfl Christof, Mechtcherine Viktor
 description:
 tags:
  - base
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials ([2018-05](date/2018/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2018.05.118" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2018.05.118</a>
+#Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials ([2018-05](date/2018/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2018.05.118" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2018.05.118" target="_blank">10.1016/j.conbuildmat.2018.05.118</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8679-2325" title="ORCID: 0000-0001-8679-2325" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/secrieru_egor"><b>Secrieru</b>&nbsp;Egor</a></span>, <a href="../../../author/khodor_jad"><b>Khodor</b>&nbsp;Jad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 178, pp. 507-517
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a> <a href="https://orcid.org/0000-0001-8679-2325" title="ORCID: 0000-0001-8679-2325" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khodor_jad"><b>Khodor</b> Jad</a>
-,     <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> <a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 178, pp. 507-517
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#flow`](keyword/flow)
-    [`#form`](keyword/form)
-    [`#layer`](keyword/layer)
-    [`#lubrication`](keyword/lubrication)
-    [`#material`](keyword/material)
-    [`#pump`](keyword/pump)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/lubrication"><button class="btn">#lubrication</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Formation%20of%20Lubricating%20Layer%20and%20Flow%20Type%20During%20Pumping%20of%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85047650140&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2806925033" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2018.05.118" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2018.05.118?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The article at hand builds on previously published work (Secrieru et al., 2017) [1] by providing a detailed discussion on the formation of a lubricating layer (LL) and the flow type during pumping of cement-based materials. It is demonstrated that knowledge of the actual thickness of the lubricating layer (LL), its rheological properties, and the flow type is sufficient to predict the pumping behaviour of fresh material. First, the importance of LL formation is highlighted, and the related, previously published experimental investigation methods are briefly presented. Still further, the flow type of mixtures during pumping is assessed. The cementitious materials under investigation exhibited various principal flow types which are already defined at lower flow rates: Plug flow in the case of a flowable, strain-hardening cementbased composite (SHCC), partial bulk shear in mixtures with round and crushed aggregates, and pronounced bulk shear in the cases of a self-compacting concrete (SCC) and a self-compacting mortar (SCM). To predict concrete pumping behaviour an analytical and experimental methodology based on rheological tools is proposed. This combined methodology quantifies the LL thickness and is compared with simulation results using computational fluid dynamics (CFD). Finally, the prediction of pumping behaviour is verified in small-scale pumping measurements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/le_d_h"><b>Le</b> H.</a>, <a href="../../../author/kadri_hadj"><b>Kadri</b> Hadj</a>, <a href="../../../author/aggoun_salima"><b>Aggoun</b> Salima</a>, <a href="../../../author/vierendeels_jan"><b>Vierendeels</b> Jan</a> et al. <a href="../../../date/2015/01">(2015-01)</a><br><a href="../../../le_kadr_aggo_vier.2015.EoLLoVPoCiaPP/">Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
@@ -77,8 +54,8 @@ tags:
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/cotardo_dario"><b>Cotardo</b> Dario</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/lohaus_ludger"><b>Lohaus</b> Ludger</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../secr_cota_mech_loha.2018.CiCPDPaFoLMUP/">Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../secr_fata_schr_mech.2017.SoCPCDLTaLtR/">Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
       <li><a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM/">Investigating the Impact of Material Rheology on Geometric Accuracy in 3D Concrete Printing Using Real-Time Monitoring</a></li>
       <li><a href="../../../author/kim_ki-yeol"><b>Kim</b> Ki-Yeol</a>, <a href="../../../author/lim_dong-kyu"><b>Lim</b> Dong-Kyu</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kim_lim_choi.2025.CoPMfVCM/">Comparison of Pumping Mechanism for Various Cementitious Materials</a></li>
@@ -103,6 +80,35 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../krug_zera_zijl.2020.ARBQSSRMfDFC/">A Rheology-Based Quasi-Static Shape-Retention-Model for Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/haustein_a_martin"><b>Haustein</b> Martin</a>, <a href="../../../author/kluwe_niklas_moritz"><b>Kluwe</b> Moritz</a>, <a href="../../../author/schwarze_rudiger"><b>Schwarze</b> Rüdiger</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../haus_kluw_schw.2020.EIotPoaMCTP/">Experimental Investigation of the Pumping of a Model-Concrete Through Pipes</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../mech_nere.2019.3CPbSD/">3D-Concrete-Printing by Selective Deposition:<br/>Requirements for Fresh Concrete and Testing</a></li>
-      <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/cotardo_dario"><b>Cotardo</b> Dario</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/lohaus_ludger"><b>Lohaus</b> Ludger</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../secr_cota_mech_loha.2018.CiCPDPaFoLMUP/">Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{secr_khod_schr_mech.2018.FoLLaFTDPoCBM,
+      author            = "Egor Secrieru and Jad Khodor and Christof Schröfl and Viktor Mechtcherine",
+      title             = "Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials",
+      doi               = "10.1016/j.conbuildmat.2018.05.118",
+      year              = "2018",
+      journal           = "Construction and Building Materials",
+      volume            = "178",
+      pages             = "507--517",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Secrieru, J. Khodor, C. Schröfl and V. Mechtcherine, “Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials”, <i>Construction and Building Materials</i>, vol. 178, pp. 507–517, 2018, doi: 10.1016/j.conbuildmat.2018.05.118.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Secrieru, Egor, Jad Khodor, Christof Schröfl, and Viktor Mechtcherine. “Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials”. <i>Construction and Building Materials</i> 178 (2018): 507–17. https://doi.org/10.1016/j.conbuildmat.2018.05.118.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

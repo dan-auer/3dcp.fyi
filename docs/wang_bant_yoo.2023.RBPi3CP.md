@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xianlin Wang, Nemkumar Banthia, Doo-Yeol Yoo
+    - footer
+title: Wang Xianlin, Banthia Nemkumar, Yoo Doo-Yeol
 description:
 tags:
  - augmentation
@@ -19,34 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Reinforcement Bond Performance in 3D Concrete Printing:<br/>:aca-blank: Explainable Ensemble Learning Augmented by Deep Generative Adversarial Networks ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.autcon.2023.105164" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.105164</a>
+#Reinforcement Bond Performance in 3D Concrete Printing&nbsp;([2023-11](date/2023/11))
+<div class="h1-like">Explainable Ensemble Learning Augmented by Deep Generative Adversarial Networks</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2023.105164" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105164" target="_blank">10.1016/j.autcon.2023.105164</a>
 
--------------------------
+<a href="../../../author/wang_xianlin"><b>Wang</b>&nbsp;Xianlin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <a href="../../../author/yoo_doo-yeol"><b>Yoo</b>&nbsp;Doo-Yeol</a></span><br>
+Journal Article - Automation in Construction, No. 105164
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_xianlin"><b>Wang</b> Xianlin</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yoo_doo-yeol"><b>Yoo</b> Doo-Yeol</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, No. 105164
-
-:aca-blank:{ .lg .middle}
-    [`#augmentation`](keyword/augmentation)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#depth`](keyword/depth)
-    [`#explainability`](keyword/explainability)
-    [`#generation`](keyword/generation)
-    [`#learn`](keyword/learn)
-    [`#network`](keyword/network)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/augmentation"><button class="btn">#augmentation</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reinforcement%20Bond%20Performance%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180417641&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388902383" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.105164" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.105164?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Integrating various reinforcements into 3D concrete printing (3DCP) is an efficient method to satisfy critical requirements for structural applications. This paper explores an explainable ensemble machine learning (EML) method to predict the bond failure mode and strength of various reinforcements in 3DCP. To overcome the problem of insufficient experimental data for the 3DCP technology, a deep generative adversarial network (DGAN) is integrated for data augmentation. The trained EML models augmented by the DGAN accurately and reliably evaluated the bond performance. The relative embedded length, concrete cover, and compressive strength of 3D printed concrete were identified as the three most important features based on the explanatory analysis. The effect of the amount of training data and integration of the proposed method in the additive manufacturing process were also investigated. The proposed method combining EML, data augmentation, and model interpretation can be extended for other aspects of digital fabrication with concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -95,8 +72,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
@@ -113,4 +90,33 @@ tags:
       <li><a href="../../../author/ma_xin-rui"><b>Ma</b> Xin-Rui</a>, <a href="../../../author/wang_xian-lin"><b>Wang</b> Xian-Lin</a>, <a href="../../../author/chen_shi-zi"><b>Chen</b> Shi-Zi</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_wang_chen.2024.TMLE3CP/">Trustworthy Machine Learning-Enhanced 3D Concrete Printing:<br/>Predicting Bond Strength and Designing Reinforcement Embedment Length</a></li>
       <li><a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/kim_in-ho"><b>Kim</b> In-Ho</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../rehm_riaz_usma_kim.2024.ADDAT3PCMP/">Augmented Data-Driven Approach Towards 3D Printed Concrete Mix Prediction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_bant_yoo.2023.RBPi3CP,
+      author            = "Xianlin Wang and Nemkumar Banthia and Doo-Yeol Yoo",
+      title             = "Reinforcement Bond Performance in 3D Concrete Printing: Explainable Ensemble Learning Augmented by Deep Generative Adversarial Networks",
+      doi               = "10.1016/j.autcon.2023.105164",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      pages             = "105164",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Wang, N. Banthia and D.-Y. Yoo, “Reinforcement Bond Performance in 3D Concrete Printing: Explainable Ensemble Learning Augmented by Deep Generative Adversarial Networks”, <i>Automation in Construction</i>, p. 105164, 2023, doi: 10.1016/j.autcon.2023.105164.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Xianlin, Nemkumar Banthia, and Doo-Yeol Yoo. “Reinforcement Bond Performance in 3D Concrete Printing: Explainable Ensemble Learning Augmented by Deep Generative Adversarial Networks”. <i>Automation in Construction</i>, 2023, 105164. https://doi.org/10.1016/j.autcon.2023.105164.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #curve
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
   <li><a href="../../../author/gulia_preeti"><b>Gulia</b> Preeti</a>, <a href="../../../author/dogra_sourabh"><b>Dogra</b> Sourabh</a>, <a href="../../../author/gupta_arpan"><b>Gupta</b> Arpan</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../guli_dogr_gupt_bodd.2025.BaMSwGC/">Building a Metamaterial Slab with Gosper Curve</a></li>
   <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/cheng_chi-tsun"><b>Cheng</b> Chi-Tsun</a>, <a href="../../../author/xuan_nguyen_hung"><b>Xuan</b> Hung</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_liu_chen_xuan.2025.DaPo3PBSFRCCCB/">Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams</a></li>

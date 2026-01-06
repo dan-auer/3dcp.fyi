@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Douglas Rocha, Paulina Faria, Sandra Lucas
+    - footer
+title: Rocha Douglas, Faria Paulina, Lucas Sandra
 description:
 tags:
  - additive
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/17/1/202/pdf?version=1703916289) Additive Manufacturing of Earth-Based Materials:<br/>:aca-blank: A Literature Review on Mortar-Composition, Extrusion, and Processing Earth ([2023-12](date/2023/12))
-<a href="https://doi.org/10.3390/ma17010202" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17010202</a>
+#Additive Manufacturing of Earth-Based Materials&nbsp;([2023-12](date/2023/12))
+<div class="h1-like">A Literature Review on Mortar-Composition, Extrusion, and Processing Earth</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/1/202/pdf?version=1703916289) <a href="https://doi.org/10.3390/ma17010202" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17010202" target="_blank">10.3390/ma17010202</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1363-0186" title="ORCID: 0000-0003-1363-0186" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rocha_douglas"><b>Rocha</b>&nbsp;Douglas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0372-949X" title="ORCID: 0000-0003-0372-949X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/faria_paulina"><b>Faria</b>&nbsp;Paulina</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 1, No. 202
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a> <a href="https://orcid.org/0000-0003-1363-0186" title="ORCID: 0000-0003-1363-0186" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a> <a href="https://orcid.org/0000-0003-0372-949X" title="ORCID: 0000-0003-0372-949X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 1, No. 202
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#composite`](keyword/composite)
-    [`#earth`](keyword/earth)
-    [`#extrusion`](keyword/extrusion)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#mortar`](keyword/mortar)
-    [`#process`](keyword/process)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Earth-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181930402&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390468385" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17010202" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17010202?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Increasing concerns about global warming and its impact on the environment reinforce the need for new materials and technologies. Additive manufacturing has become more relevant due to its potential to build sustainable and more energy-efficient constructions. However, the materials employed within the technology are not yet fully sustainable. Researchers employing clay as the main binder have found that, besides protecting the environment, it benefits passive control of indoor temperature and relative humidity and contributes to comfort. The mortar design as well as the necessary technological adaptations for the 3D printing of earth mortars are addressed. From a material perspective, this paper reviewed and analyzed the recent developments in additive manufacturing of clay-based mortars, highlighting the main gaps and providing recommendations for future developments in this field.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "55 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -126,8 +104,8 @@ tags:
       <li><a href="../../../author/yang_hongxiong"><b>Yang</b> Hongxiong</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a>, <a href="../../../author/chen_yuhong"><b>Chen</b> Yuhong</a>, <a href="../../../author/li_yijia"><b>Li</b> Yijia</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../yang_chun_chen_li.2018.TCCMoC3PAwIoT/">The Cost Calculation Method of Construction 3D Printing Aligned with Internet of Things</a></li>
       <li><a href="../../../author/yemesegen_binega_eden"><b>Yemesegen</b> Eden</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../yeme_mema.2023.ARoESoCHaBCatCfTTSHBw3P/">A Review of Experimental Studies on Cob, Hempcrete, and Bamboo Components and the Call for Transition Towards Sustainable Home Building with 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
@@ -137,4 +115,35 @@ tags:
       <li><a href="../../../author/giacomobono_leonardo"><b>Giacomobono</b> Leonardo</a>, <a href="../../../author/argenti_maria"><b>Argenti</b> Maria</a>, <a href="../../../author/ferretti_elena"><b>Ferretti</b> Elena</a>, <a href="../../../author/paparella_giulio"><b>Paparella</b> Giulio</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../giac_arge_ferr_papa.2024.TDPwEM/">Three-Dimensional Printing with Earthen Materials:<br/>A Settlement-Scale Design Experience</a></li>
       <li><a href="../../../author/los-angeles-ortega-rosario_maria"><b>Los Angeles Ortega Rosario</b> Maria</a>, <a href="../../../author/medina_melany"><b>Medina</b> Melany</a>, <a href="../../../author/duque_rafael"><b>Duque</b> Rafael</a>, <a href="../../../author/alberto-jaen-ortega_antonio"><b>Alberto Jaén Ortega</b> Antonio</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../los_medi_duqu_albe.2024.ASC/">Advancing Sustainable Construction:<br/>Insights into Clay-Based Additive Manufacturing for Architecture, Engineering, and Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{roch_fari_luca.2024.AMoEBM,
+      author            = "Douglas Rocha and Paulina Faria and Sandra Simaria de Oliveira Lucas",
+      title             = "Additive Manufacturing of Earth-Based Materials: A Literature Review on Mortar-Composition, Extrusion, and Processing Earth",
+      doi               = "10.3390/ma17010202",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "1",
+      pages             = "202",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Rocha, P. Faria and S. S. de Oliveira Lucas, “Additive Manufacturing of Earth-Based Materials: A Literature Review on Mortar-Composition, Extrusion, and Processing Earth”, <i>Materials</i>, vol. 17, no. 1, p. 202, 2024, doi: 10.3390/ma17010202.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rocha, Douglas, Paulina Faria, and Sandra Simaria de Oliveira Lucas. “Additive Manufacturing of Earth-Based Materials: A Literature Review on Mortar-Composition, Extrusion, and Processing Earth”. <i>Materials</i> 17, no. 1 (2024): 202. https://doi.org/10.3390/ma17010202.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #change
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
   <li><a href="../../../author/gencel_osman"><b>Gencel</b> Osman</a>, <a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/subasi_serkan"><b>Subaşı</b> Serkan</a>, <a href="../../../author/ustaoglu_abid"><b>Ustaoğlu</b> Abid</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../genc_node_suba_usta.2025.Po3PCCMPCM/">Properties of 3D Printed Concrete Containing Microencapsulated Phase Change Material</a></li>
   <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>

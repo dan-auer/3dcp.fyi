@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Wang Qiao 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/guo_pei"><b>Guo</b> Pei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_li_guo_wang.2025.SB3PTSC/">Spray-Based 3D Printed Tunnel Slag Concrete:<br/>Evaluation for Printability and Mechanical Performance</a></li>
   <li><a href="../../../author/wang_qinghua"><b>Wang</b> Qinghua</a>, <a href="../../../author/xu_jinggang"><b>Xu</b> Jinggang</a>, <a href="../../../author/feng_duo"><b>Feng</b> Duo</a>, <a href="../../../author/li_wei"><b>Li</b> Wei</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../wang_xu_feng_li.2024.PaPEoTDPMOCbFUAS/">Properties and Printability Evaluation of Three-Dimensional Printing Magnesium-Oxychloride Cement by Fully Utilizing Aeolian-Sand</a></li>
   <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fucheng"><b>Wang</b> Fucheng</a>, <a href="../../../author/li_rong"><b>Li</b> Rong</a>, <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wang_wang_li_wang.2024.ICMo3PFRCCaIEV/">Interfacial Constitutive Model of 3D Printed Fiber-Reinforced Concrete Composites and Its Experimental Validation</a></li>

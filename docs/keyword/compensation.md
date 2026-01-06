@@ -8,7 +8,7 @@ search:
 
 # #compensation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yang_lakh_bela_merz.2025.AVCfO3CPiUE/">Adaptive Velocity Compensation for Optimal 3D Concrete Printing in Uncontrolled Environments</a></li>
   <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_lakh_bela_merz.2025.FQDtACfFIDOSR3P/">From Qualitative Diagnosis to Adaptive Compensation for Filament Imperfections During On-Site Robotic 3D Printing</a></li>
   <li><a href="../../../author/viano_rafael"><b>Viano</b> Rafaël</a>, <a href="../../../author/margerit_pierre"><b>Margerit</b> Pierre</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/weisz-patrault_daniel"><b>Weisz-Patrault</b> Daniel</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vian_marg_mesn_weis.2024.SCaCf3/">Shrinkage Characterization and Compensation for 3DPC</a></li>

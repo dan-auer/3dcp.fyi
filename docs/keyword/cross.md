@@ -8,7 +8,7 @@ search:
 
 # #cross
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
   <li><a href="../../../author/cisowski_adam"><b>Cisowski</b> Adam</a>, <a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b> Michał</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ciso_kowa.2025.TIotCSGoSCi3PCE/">The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements:<br/>A Preliminary Study</a></li>
   <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/shields_yasmina"><b>Shields</b> Yasmina</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_tao_zhan_shie.2025.MPo3PCw2IPIPPC/">Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings</a></li>

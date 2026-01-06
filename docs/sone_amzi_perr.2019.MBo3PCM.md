@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammed Sonebi, Sofiane Amziane, Arnaud Perrot
+    - footer
+title: Sonebi Mohammed, Amziane Sofiane, Perrot Arnaud
 description:
 tags:
  - behavior
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Behavior of 3D Printed Cement Materials ([2019-04](date/2019/04))
-<a href="https://doi.org/10.1002/9781119610755.ch4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/9781119610755.ch4</a>
+#Mechanical Behavior of 3D Printed Cement Materials ([2019-04](date/2019/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9781119610755.ch4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781119610755.ch4" target="_blank">10.1002/9781119610755.ch4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amziane_sofiane"><b>Amziane</b>&nbsp;Sofiane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Contribution - 3D Printing of Concrete, pp. 101-124
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Printing of Concrete, pp. 101-124
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Behavior%20of%203D%20Printed%20Cement%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85082976264&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2939053248" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/9781119610755.ch4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/9781119610755.ch4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Given that it is a manufacturing process that is often carried out layer-by-layer, 3D printing with concrete or cement-based materials is done through the formation of a laminated material whose mechanical and physical characteristics depend on the direction in which the load falls. If we examine the 3D printing process of extrusion/deposition that has currently been studied the most, it can be observed that the material has three planes, with orthogonal symmetry between these planes. Thus, it is an orthotropic material (Figure 4.1). Hence, its mechanical behavior differs on the basis of the three axes as defined by the direction of the deposition, the width of the layer and the height of the structure to be printed. In addition, the interfacing between layers intuitively appears to be a sensitive zone, which can have a large influence on the overall mechanical behavior of the printed material. To fully understand the mechanical behavior of printed structures, we must take into account the level of orthotropy. This can be done by comparing its mechanical behavior in different directions of stress or by comparing the characteristics of a printed material with those of the same cast material that exhibits a monolithic isotropic behavior. In this chapter, after conducting a review of the literature on the performance of printed mortars, we will examine the possible origins of the orthotropic behavior of printed materials by considering the influence of process parameters on the origin of this nature. We will pay particular attention to the mechanical behavior of materials printed by the extrusion/deposition method. Finally, we will examine the mechanical behavior of materials printed by the other techniques.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -75,8 +57,8 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../most_krug.2025.RABo3PCTIF/">Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments</a></li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/cardinali_amelia"><b>Cardinali</b> Amelia</a>, <a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lafl_card_lyu.2025.E3PCCwRCFfWTB/">Enhancing 3D-Printed Cementitious Composites with Recycled Carbon Fibers from Wind Turbine Blades</a></li>
       <li><a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a>, <a href="../../../author/montagne_alex"><b>Montagne</b> Alex</a>, <a href="../../../author/roudet_francine"><b>Roudet</b> Francine</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../tale_bult_mont_roud.2024.IoTHCotIBi3PC/">Influence of Thermo-Hygrometric Conditions on the Interface Bond in 3D Printed Concrete</a></li>
@@ -97,4 +79,34 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sone_amzi_perr.2019.MBo3PCM,
+      author            = "Mohammed Sonebi and Sofiane Amziane and Arnaud Perrot",
+      title             = "Mechanical Behavior of 3D Printed Cement Materials",
+      doi               = "10.1002/9781119610755.ch4",
+      year              = "2019",
+      pages             = "101--124",
+      booktitle         = "3D Printing of Concrete: State of the Art and Challenges of the Digital Construction Revolution",
+      editor            = "Arnaud Perrot",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sonebi, S. Amziane and A. Perrot, “Mechanical Behavior of 3D Printed Cement Materials”, in <i>3D Printing of Concrete: State of the Art and Challenges of the Digital Construction Revolution</i>,  2019, pp. 101–124. doi: 10.1002/9781119610755.ch4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sonebi, Mohammed, Sofiane Amziane, and Arnaud Perrot. “Mechanical Behavior of 3D Printed Cement Materials”. In <i>3D Printing of Concrete: State of the Art and Challenges of the Digital Construction Revolution</i>, edited by Arnaud Perrot, 101–24, 2019. https://doi.org/10.1002/9781119610755.ch4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Toledo Filho Romildo 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/ramallo_laura"><b>Ramallo</b> Laura</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_marq_rama_barl.2025.FaHPoCFRMf3PiC/">Fresh and Hardened Properties of Cellulose Fiber-Reinforced Mortars for 3D Printing in Construction</a></li>
   <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_tole_mend.2025.RHBAf3PiC/">Rice Husk Bio-Aggregates for 3D Printing in Construction:<br/>Balancing Fresh and Hardened Properties</a></li>
   <li><a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cava_tole_mend.2025.RaEIoRCPaFiC3P/">Rheological and Environmental Implications of Recycled Concrete Powder as Filler in Concrete 3D Printing</a></li>

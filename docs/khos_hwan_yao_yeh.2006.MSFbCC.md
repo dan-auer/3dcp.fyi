@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behrokh Khoshnevis, Dooil Hwang, Ke Yao, Zhenghao Yeh
+    - footer
+title: Khoshnevis Behrokh, Hwang Dooil, Yao Ke, Yeh Zhenghao
 description:
 tags:
  - contour
@@ -12,28 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mega-Scale Fabrication by Contour Crafting ([2006-05](date/2006/05))
-<a href="https://doi.org/10.1504/ijise.2006.009791" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1504/ijise.2006.009791</a>
+#Mega-Scale Fabrication by Contour Crafting ([2006-05](date/2006/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1504/ijise.2006.009791" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1504/ijise.2006.009791" target="_blank">10.1504/ijise.2006.009791</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/hwang_dooil"><b>Hwang</b>&nbsp;Dooil</a></span>, <a href="../../../author/yao_thia_ke"><b>Yao</b>&nbsp;Ke</a></span>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b>&nbsp;Zhenghao</a></span><br>
+Journal Article - International Journal of Industrial and Systems Engineering, Vol. 1, Iss. 3, pp. 301-319
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>
-,     <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>
-,     <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Industrial and Systems Engineering, Vol. 1, Iss. 3, pp. 301-319
-
-:aca-blank:{ .lg .middle}
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#fabrication`](keyword/fabrication)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mega-Scale%20Fabrication%20by%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84903440021&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,23 +34,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2099373965" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1504/ijise.2006.009791" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1504/ijise.2006.009791?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Contour Crafting is a mega scale layered fabrication process which builds large scale three-dimensional parts by depositing paste materials layer by layer at unprecedented speed and with superior surface quality. This paper presents an overview of related research activities and the progress aimed at extending the technology to construction of residential housing units and civil structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "263 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/alvarez_maria_luisa"><b>Álvarez</b> Luisa</a>, <a href="../../../author/fernandez_brian"><b>Fernandez</b> Brian</a>, <a href="../../../author/saldarriaga_federico"><b>Saldarriaga</b> Federico</a>, <a href="../../../author/romero_hector"><b>Romero</b> Héctor</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../alva_fern_sald_rome.2025.DaBEoPDGf3PCW/">Development and Bioclimatic Evaluation of Parametrically Designed Geometries for 3D-Printed Concrete Walls</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
@@ -101,7 +84,7 @@ tags:
       <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../quah_tay_tan_li.2024.EoEMf3CP/">Evaluation of Extrusion-Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/to_bao_quoc"><b>To</b> Quoc</a>, <a href="../../../author/pham_vo-anh_koa"><b>Pham</b> Koa</a>, <a href="../../../author/lee_gayoon"><b>Lee</b> Gayoon</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../to_pham_lee_shin.2024.EaFEotIoILBSi3PCMUCaFL/">Experimental and FEM Evaluation of the Influence of Inter-Layer Bonding Strength in 3D Printed Concrete Members Under Compressive and Flexural Loadings</a></li>
       <li><a href="../../../author/yan_kang-tai"><b>Yan</b> Kang-Tai</a>, <a href="../../../author/wang_xian-peng"><b>Wang</b> Xian-Peng</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../yan_wang_ding_li.2024.3PLBLECC/">3D Printed LC3-Based Lightweight Engineered Cementitious Composites:<br/>Fresh State, Hardened Material-Properties and Beam-Performance</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../tao_dai_schu_titt.2024.APoAAMf3PoTLaDT/">Adhesion Performance of Alkali-Activated Material for 3D Printing of Tunnel Linings at Different Temperatures</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zuo_cort_huan_chen.2024.STLS3PWSC/">Strategies Towards Large-Scale 3D Printing Without Size-Constraints</a></li>
@@ -328,4 +311,35 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khos_hwan_yao_yeh.2006.MSFbCC,
+      author            = "Behrokh Khoshnevis and Dooil Hwang and Ke Thia Yao and Zhenghao Yeh",
+      title             = "Mega-Scale Fabrication by Contour Crafting",
+      doi               = "10.1504/ijise.2006.009791",
+      year              = "2006",
+      journal           = "International Journal of Industrial and Systems Engineering",
+      volume            = "1",
+      number            = "3",
+      pages             = "301--319",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Khoshnevis, D. Hwang, K. T. Yao and Z. Yeh, “Mega-Scale Fabrication by Contour Crafting”, <i>International Journal of Industrial and Systems Engineering</i>, vol. 1, no. 3, pp. 301–319, 2006, doi: 10.1504/ijise.2006.009791.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khoshnevis, Behrokh, Dooil Hwang, Ke Thia Yao, and Zhenghao Yeh. “Mega-Scale Fabrication by Contour Crafting”. <i>International Journal of Industrial and Systems Engineering</i> 1, no. 3 (2006): 301–19. https://doi.org/10.1504/ijise.2006.009791.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

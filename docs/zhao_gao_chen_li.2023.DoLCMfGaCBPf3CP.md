@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yasong Zhao, Yangyunzhi Gao, Gaofeng Chen, Shujun Li, Amardeep Singh, Xu Luo, Cheng Liu, Jianming Gao, Hongjian Du
+    - footer
+title: Zhao Yasong, Gao Yangyunzhi, Chen Gaofeng, Li Shujun, Singh Amardeep, Luo Xu, Liu Cheng, Gao Jianming, Du Hongjian
 description:
 tags:
  - brick
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.131232" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.131232</a>
+#Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.131232" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131232" target="_blank">10.1016/j.conbuildmat.2023.131232</a>
 
--------------------------
+<a href="../../../author/zhao_yasong"><b>Zhao</b>&nbsp;Yasong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7059-5351" title="ORCID: 0000-0001-7059-5351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_yangyunzhi"><b>Gao</b>&nbsp;Yangyunzhi</a></span>, <a href="../../../author/chen_gaofeng"><b>Chen</b>&nbsp;Gaofeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9664-9864" title="ORCID: 0000-0001-9664-9864" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shujun"><b>Li</b>&nbsp;Shujun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span>, <a href="../../../author/luo_xu"><b>Luo</b>&nbsp;Xu</a></span>, <a href="../../../author/liu_cheng"><b>Liu</b>&nbsp;Cheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0984-9444" title="ORCID: 0000-0002-0984-9444" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_jianming"><b>Gao</b>&nbsp;Jianming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 383
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>
-,     <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a> <a href="https://orcid.org/0000-0001-7059-5351" title="ORCID: 0000-0001-7059-5351" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>
-,     <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> <a href="https://orcid.org/0000-0001-9664-9864" title="ORCID: 0000-0001-9664-9864" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/luo_xu"><b>Luo</b> Xu</a>
-,     <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a>
-,     <a href="../../../author/gao_jianming"><b>Gao</b> Jianming</a> <a href="https://orcid.org/0000-0002-0984-9444" title="ORCID: 0000-0002-0984-9444" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 383, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#brick`](keyword/brick)
-    [`#carbon`](keyword/carbon)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#low`](keyword/low)
-    [`#material`](keyword/material)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Low-Carbon%20Materials%20from%20GGBS%20and%20Clay-Brick-Powder%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152626352&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4366385277" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.131232" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.131232?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A new low-carbon material for 3D concrete printing by utilizing recycled ground granulated blast-furnace slag (GGBS) and clay brick powder (CBP) was developed to reduce the carbon footprint. The printability and hardened properties of 3D printed mortar were systematically investigated to reveal the coupling effect of GGBS and CBP. The results indicate that the printability of mortar is significantly influenced by the morphology and particle size distribution of admixtures. The vitreous surface of GGBS reduces the yield stress of the paste, while the porous surface of CBP has the opposite effect. Furthermore, increasing CBP replacement leads to a denser packing of binders, which releases more free water to increase the fluidity of mortar. The printing process not only increases the proportion of capillary and macro pores, but also reduces the sphericity of macro pores. As a result, 3D printed mortar experiences a 10 ~ 50 % loss in compressive strength and mechanical anisotropy of 3D printed mortar. The secondary hydration reaction of GGBS and CBP reduces the average pore diameter from 41.7 nm to 15.3~19.3 nm and increases the complexity of micro pores, resulting in a significant decrease in chloride ions migration in the mortar. These results demonstrate the feasibility of using low-carbon materials containing GGBS and CBP for 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -113,8 +85,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhan_zhan_yang_liu.2022.EoAFaVDi3PC/">Evaluation of Aggregates, Fibers and Voids-Distribution in 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
@@ -149,4 +122,33 @@ tags:
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sing_wang_zhou_sun.2023.UoATiFR3PC/">Utilization of Antimony-Tailings in Fiber-Reinforced 3D Printed Concrete:<br/>A Sustainable Approach for Construction Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP,
+      author            = "Yasong Zhao and Yangyunzhi Gao and Gaofeng Chen and Shujun Li and Amardeep Singh and Xu Luo and Cheng Liu and Jianming Gao and Hongjian Du",
+      title             = "Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing",
+      doi               = "10.1016/j.conbuildmat.2023.131232",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "383",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhao, “Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing”, <i>Construction and Building Materials</i>, vol. 383, 2023, doi: 10.1016/j.conbuildmat.2023.131232.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Yasong, Yangyunzhi Gao, Gaofeng Chen, Shujun Li, Amardeep Singh, Xu Luo, Cheng Liu, Jianming Gao, and Hongjian Du. “Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing”. <i>Construction and Building Materials</i> 383 (2023). https://doi.org/10.1016/j.conbuildmat.2023.131232.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

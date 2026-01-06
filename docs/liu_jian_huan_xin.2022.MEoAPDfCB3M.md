@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Liu, Quan Jiang, Mojia Huang, Jie Xin, Pengfei Chen, Si Wu
+    - footer
+title: Liu Qiang, Jiang Quan, Huang Mojia, Xin Jie, Chen Pengfei, Wu Si
 description:
 tags:
  - base
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modifying Effect of Anionic Polyacrylamide Dose for Cement-Based 3DP Materials:<br/>:aca-blank: Printability and Mechanical Performance Tests ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127156" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127156</a>
+#Modifying Effect of Anionic Polyacrylamide Dose for Cement-Based 3DP Materials&nbsp;([2022-03](date/2022/03))
+<div class="h1-like">Printability and Mechanical Performance Tests</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127156" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127156" target="_blank">10.1016/j.conbuildmat.2022.127156</a>
 
--------------------------
+<a href="../../../author/liu_qiang"><b>Liu</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <a href="../../../author/huang_mojia"><b>Huang</b>&nbsp;Mojia</a></span>, <a href="../../../author/xin_jie"><b>Xin</b>&nbsp;Jie</a></span>, <a href="../../../author/chen_pengfei"><b>Chen</b>&nbsp;Pengfei</a></span>, <a href="../../../author/wu_si"><b>Wu</b>&nbsp;Si</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 330
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>
-,     <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a> <a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_mojia"><b>Huang</b> Mojia</a>
-,     <a href="../../../author/xin_jie"><b>Xin</b> Jie</a>
-,     <a href="../../../author/chen_pengfei"><b>Chen</b> Pengfei</a>
-,     <a href="../../../author/wu_si"><b>Wu</b> Si</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 330, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#dosage`](keyword/dosage)
-    [`#effect`](keyword/effect)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#modification`](keyword/modification)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dosage"><button class="btn">#dosage</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modifying%20Effect%20of%20Anionic%20Polyacrylamide%20Dose%20for%20Cement-Based%203DP%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127019180&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4223634020" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127156" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127156?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cement-based materials have been broadly applied as constructional materials in 3D printing (3DP) civil engineering due to their high mechanical strength, yet their non-ideal performance in ductile and compaction during the printing process always limits their further application. To improve the buildability and antisettling capability of 3D printing materials, a new cement-based 3DP material is proposed by partly replacing traditional hydroxypropyl methyl cellulose (HPMC) with anionic polyacrylamide (APAM). To compare the modifying effect of APAM to that of the cement-based 3DP (APAM-3DP) material, the printability, physical–mechanical performance of APAM-3DP material are tested, and the corresponding microstructural characteristics of mortars with different replacement ratios are analysed. The experimental results show that under the same dosage, APAM can reduce the fluidity of cement-based materials, shorten the setting time and slow down the hydration process compared with HPMC. Addition of the appropriate amount of APAM can improve the buildability of cementbased materials by 57 % and the compressive strength of the samples is increased by 7.7%, but the deformation rate is also doubled. When the APAM dosage is appropriate the samples were more prone to brittle failure and overall failure, if the APAM dosage is too large, the sample is prone to ductile failure and local failure. The modification mechanism of APAM was also analyzed from the microscopic pore characteristics and the morphology of hydration products of the samples.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -94,8 +69,8 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a>, <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>, <a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lu_sun_shen_zhan.2025.Bo3PECCE/">Buildability of 3D Printing Engineered Cementitious Composites (ECC):<br/>A Comprehensive Assessment Framework Under Laboratory Conditions</a></li>
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/zhang_xinwei"><b>Zhang</b> Xinwei</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../liu_zhan_jian_xia.2025.EoNANMaNFotPoCB3P/">Effects of Nano-Al2O3, Nano-MgO and Nano-Fe2O3 on the Properties of Cement-Based 3D Printing:<br/>A Comparative Study</a></li>
@@ -115,4 +90,33 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../yuan_xie_yao_huan.2022.EoPotWaILIPo3PCM/">Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_jian_huan_xin.2022.MEoAPDfCB3M,
+      author            = "Qiang Liu and Quan Jiang and Mojia Huang and Jie Xin and Pengfei Chen and Si Wu",
+      title             = "Modifying Effect of Anionic Polyacrylamide Dose for Cement-Based 3DP Materials: Printability and Mechanical Performance Tests",
+      doi               = "10.1016/j.conbuildmat.2022.127156",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "330",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Liu, Q. Jiang, M. Huang, J. Xin, P. Chen and S. Wu, “Modifying Effect of Anionic Polyacrylamide Dose for Cement-Based 3DP Materials: Printability and Mechanical Performance Tests”, <i>Construction and Building Materials</i>, vol. 330, 2022, doi: 10.1016/j.conbuildmat.2022.127156.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Qiang, Quan Jiang, Mojia Huang, Jie Xin, Pengfei Chen, and Si Wu. “Modifying Effect of Anionic Polyacrylamide Dose for Cement-Based 3DP Materials: Printability and Mechanical Performance Tests”. <i>Construction and Building Materials</i> 330 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127156.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

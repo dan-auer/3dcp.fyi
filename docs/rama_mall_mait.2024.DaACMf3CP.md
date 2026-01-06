@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: A. Rama Krishna, Mainak Mallik, Damodar Maity
+    - footer
+title: Rama Krishna A., Mallik Mainak, Maity Damodar
 description:
 tags:
  - concrete
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Developing an Appropriate Concrete Mix for 3D Concrete Printing ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1007/s41024-024-00456-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41024-024-00456-w</a>
+#Developing an Appropriate Concrete Mix for 3D Concrete Printing ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41024-024-00456-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-024-00456-w" target="_blank">10.1007/s41024-024-00456-w</a>
 
--------------------------
+<a href="../../../author/rama-krishna_k_a"><b>Rama Krishna</b>&nbsp;A.</a></span>, <a href="../../../author/mallik_mainak"><b>Mallik</b>&nbsp;Mainak</a></span>, <a href="../../../author/maity_damodar"><b>Maity</b>&nbsp;Damodar</a></span><br>
+Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 9, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rama-krishna_k_a"><b>Rama Krishna</b> A.</a>
-,     <a href="../../../author/mallik_mainak"><b>Mallik</b> Mainak</a>
-,     <a href="../../../author/maity_damodar"><b>Maity</b> Damodar</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 9, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Developing%20an%20Appropriate%20Concrete%20Mix%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195584320&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399413696" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41024-024-00456-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41024-024-00456-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, 3D printed concrete (3DPC) has gained significant attention as a means to advance construction industry industrialization. 3D printing construction technology can accelerate construction, reduce manual labour and raw materials, and enhance design flexibility by eliminating formworks. A primary challenge in 3DPC is the disparity in composition and efficacy compared to conventional concrete. Digital construction offers numerous opportunities but requires addressing complex issues like green strength, buildability, and extrudability. This study investigates the characteristics of 3D printable concrete using Bentonite clay as a rheological modifier. Tests on various mixes reveal that adding 3% Bentonite increases compressive strength by up to 15% and initial shear strength by 60% compared to mixes without Bentonite. Additionally, Bentonite increases mix consistency but decreases flow by more than 50%. Long-term strength is reduced with higher Bentonite percentages due to its non-cementitious nature. Optimal results are achieved with 3% Bentonite, a sand-to-binder ratio of 1, and a water-to-cement ratio of 0.3.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
@@ -89,8 +72,38 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ye_teng_yu_yu.2023.Do3PECCwIBAfSaDC/">Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rama_mall_mait.2024.DaACMf3CP,
+      author            = "A. K. Rama Krishna and Mainak Mallik and Damodar Maity",
+      title             = "Developing an Appropriate Concrete Mix for 3D Concrete Printing",
+      doi               = "10.1007/s41024-024-00456-w",
+      year              = "2024",
+      journal           = "Journal of Building Pathology and Rehabilitation",
+      volume            = "9",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. K. R. Krishna, M. Mallik and D. Maity, “Developing an Appropriate Concrete Mix for 3D Concrete Printing”, <i>Journal of Building Pathology and Rehabilitation</i>, vol. 9, no. 2, 2024, doi: 10.1007/s41024-024-00456-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Krishna, A. K. Rama, Mainak Mallik, and Damodar Maity. “Developing an Appropriate Concrete Mix for 3D Concrete Printing”. <i>Journal of Building Pathology and Rehabilitation</i> 9, no. 2 (2024). https://doi.org/10.1007/s41024-024-00456-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

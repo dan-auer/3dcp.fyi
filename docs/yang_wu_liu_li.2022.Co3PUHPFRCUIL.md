@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yekai Yang, Chengqing Wu, Zhongxian Liu, Jun Li, Ting Yang, Xiquan Jiang
+    - footer
+title: Yang Yekai, Wu Chengqing, Liu Zhongxian, Li Jun, Yang Ting, Jiang Xiquan
 description:
 tags:
  - characteristic
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.ijimpeng.2022.104205" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ijimpeng.2022.104205</a>
+#Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading ([2022-02](date/2022/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ijimpeng.2022.104205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijimpeng.2022.104205" target="_blank">10.1016/j.ijimpeng.2022.104205</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_yekai"><b>Yang</b>&nbsp;Yekai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2457-1994" title="ORCID: 0000-0003-2457-1994" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_jun"><b>Li</b>&nbsp;Jun</a></span>, <a href="../../../author/yang_ting"><b>Yang</b>&nbsp;Ting</a></span>, <a href="../../../author/jiang_xiquan"><b>Jiang</b>&nbsp;Xiquan</a></span><br>
+Journal Article - International Journal of Impact Engineering, Vol. 164
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a> <a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> <a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>
-,     <a href="../../../author/li_jun"><b>Li</b> Jun</a> <a href="https://orcid.org/0000-0003-2457-1994" title="ORCID: 0000-0003-2457-1994" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_ting"><b>Yang</b> Ting</a>
-,     <a href="../../../author/jiang_xiquan"><b>Jiang</b> Xiquan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Impact Engineering, Vol. 164, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#load`](keyword/load)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Characteristics%20of%203D%20Printing%20Ultra-High-Performance%20Fiber-Reinforced%20Concrete%20Under%20Impact%20Loading" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125545482&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4213232376" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.ijimpeng.2022.104205" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.ijimpeng.2022.104205?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printing concrete exhibits anisotropy under static loads, owing to its unique additive manufacturing process, while its dynamic performance study is still insufficient. In particular, the dynamic properties of 3D-printing ultra-high performance fibre reinforced concrete (3DP-UHPFRC) have not been studied yet. Therefore, this study explores the characteristics of 3DP-UHPFRC under impact loads using the SHPB tests. Three impact velocities of 3.886, 6.026, and 8.538 m/s were studied in the tests. The impact process was recorded by a high-speed camera. The dynamic mechanical characteristics of 3D-printing ultra-high performance concrete (3DP-UHPC) without fibre, 3DP-UHPFRC and reference specimens were investigated in terms of fibre type, fibre content, preparation method, loading direction, and impact velocity. The characteristics of strain rate, dynamic compressive stress, dynamic increase factor (DIF), energy absorption capacity and failure process were evaluated. The findings of this study indicated that the degree of failure of 3DP-UHPC was similar in all directions, while the degree of failure of 3DP-UHPFRC in all directions was different. The degree of failure in the X-direction was the worst, followed in decreasing order by the degrees of failure in the Y- and Z-directions. At the same impact velocity, the elastic modulus and strain rate effect of the 3D-printing specimens exhibited anisotropic characteristics, owing to the different elastic modulus of the 3D-printing specimens in each direction. Furthermore, the specimens were more susceptible to deformation in the X-direction than that in the Y- and Z-directions. As the impact velocity was increased, the dynamic peak stresses for 3DP-UHPFRC were isotropic at the same impact velocity, owing to the strain rate effect. Finally, the DIF of the 3D-printing specimens was observed to be anisotropic, and in the X-direction the specimens exhibited the most significant strain rate sensitivity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -87,8 +63,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_zhu_yu_xiao.2025.DTBoTDPSFRUPC/">Direct Tensile Behavior of Three-Dimensional-Printable Steel Fiber-Reinforced Ultrahigh Performance Concrete</a></li>
@@ -125,4 +101,33 @@ tags:
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/medicis_carolina"><b>Medicis</b> Carolina</a>, <a href="../../../author/gonzalez_sergio"><b>Gonzalez</b> Sergio</a>, <a href="../../../author/alvarado_a_yezid"><b>Alvarado</b> Yezid</a>, <a href="../../../author/vacca_ariel_hermes"><b>Vacca</b> Hermes</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../medi_gonz_alva_vacc.2022.MPoCAPUB3PC/">Mechanical Performance of Commercially Available Premix UHPC-Based 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_wu_liu_li.2022.Co3PUHPFRCUIL,
+      author            = "Yekai Yang and Chengqing Wu and Zhongxian Liu and Jun Li and Ting Yang and Xiquan Jiang",
+      title             = "Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading",
+      doi               = "10.1016/j.ijimpeng.2022.104205",
+      year              = "2022",
+      journal           = "International Journal of Impact Engineering",
+      volume            = "164",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yang, C. Wu, Z. Liu, J. Li, T. Yang and X. Jiang, “Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading”, <i>International Journal of Impact Engineering</i>, vol. 164, 2022, doi: 10.1016/j.ijimpeng.2022.104205.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Yekai, Chengqing Wu, Zhongxian Liu, Jun Li, Ting Yang, and Xiquan Jiang. “Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading”. <i>International Journal of Impact Engineering</i> 164 (2022). https://doi.org/10.1016/j.ijimpeng.2022.104205.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

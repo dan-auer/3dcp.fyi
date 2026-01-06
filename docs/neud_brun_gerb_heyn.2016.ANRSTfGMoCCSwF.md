@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Stefan Neudecker, Christopher Bruns, Roman Gerbers, Jakob Heyn, Franz Dietrich, Klaus Dröder, Annika Raatz, Harald Kloft
+    - footer
+title: Neudecker Stefan, Bruns Christopher, Gerbers Roman, Heyn Jakob, Dietrich Franz, Dröder Klaus, Raatz Annika, Kloft Harald
 description:
 tags:
  - complexity
@@ -18,38 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.procir.2016.02.107) A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork ([2016-05](date/2016/05))
-<a href="https://doi.org/10.1016/j.procir.2016.02.107" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.procir.2016.02.107</a>
+#A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork ([2016-05](date/2016/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.procir.2016.02.107) <a href="https://doi.org/10.1016/j.procir.2016.02.107" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2016.02.107" target="_blank">10.1016/j.procir.2016.02.107</a>
 
--------------------------
+<a href="../../../author/neudecker_stefan"><b>Neudecker</b>&nbsp;Stefan</a></span>, <a href="../../../author/bruns_christopher"><b>Bruns</b>&nbsp;Christopher</a></span>, <a href="../../../author/gerbers_roman"><b>Gerbers</b>&nbsp;Roman</a></span>, <a href="../../../author/heyn_jakob"><b>Heyn</b>&nbsp;Jakob</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4823-7889" title="ORCID: 0000-0002-4823-7889" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dietrich_franz"><b>Dietrich</b>&nbsp;Franz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/droder_klaus"><b>Dröder</b>&nbsp;Klaus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
+Journal Article - Procedia CIRP, Vol. 43, pp. 333-338
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>
-,     <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>
-,     <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>
-,     <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a>
-,     <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> <a href="https://orcid.org/0000-0002-4823-7889" title="ORCID: 0000-0002-4823-7889" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Procedia CIRP, Vol. 43, pp. 333-338
-
-:aca-blank:{ .lg .middle}
-    [`#complexity`](keyword/complexity)
-    [`#concrete`](keyword/concrete)
-    [`#formwork`](keyword/formwork)
-    [`#generation`](keyword/generation)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#robot`](keyword/robot)
-    [`#spray`](keyword/spray)
-    [`#structure`](keyword/structure)
-    [`#technology`](keyword/technology)
-    [`#without`](keyword/without)
-
-
--------------------------
+<a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20New%20Robotic%20Spray%20Technology%20for%20Generative%20Manufacturing%20of%20Complex%20Concrete-Structures%20without%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84978476636&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,21 +40,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2345988996" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.procir.2016.02.107" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.procir.2016.02.107?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The robot-assisted manufacturing is introduced for many years in automated production areas, while the production of buildings still follows the traditional manual process. Using new possibilities of digital planning the construction industry demonstrated potential for the implementation of freeform architectures, which are only possible using expensive and only once usable formwork structures. This paper focuses on sprayed concrete technology for automated production processes to build up freeform concrete components. A study case of the production of a concrete wall by an industrial robot, equipped with a concrete spraying tool is presented in order to investigate the possibilities and tolerancing issues of this technique.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "61 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
@@ -92,7 +64,7 @@ tags:
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/cai_huachong"><b>Cai</b> Huachong</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../liu_cai_sun_wang.2024.SB3PFC/">Spray-Based 3D Printed Foam-Concrete:<br/>Cooperative Optimization for Lightweight and High-Strength Performance</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sala_jaya.2024.SoDFTitCI/">Selection of Digital Fabrication Technique in the Construction Industry:<br/>A Multi-Criteria Decision-Making Approach</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/zhao_xi"><b>Zhao</b> Xi</a>, <a href="../../../author/wang_nan"><b>Wang</b> Nan</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../liu_zhao_wang_zhan.2024.PB3PMPC/">Powder-Based 3D Printed Magnesium Phosphate Cement:<br/>Mechanical Isotropy Optimization Using Borax</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../xiao_liu_ding_yu.2024.RFCC/">Rebar-Free Concrete Construction:<br/>Concept, Opportunities and Challenges</a></li>
       <li><a href="../../../author/isaac_geoff"><b>Isaac</b> Geoff</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/pietroni_nico"><b>Pietroni</b> Nico</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../isaa_nich_paul_piet.2024.AS/">Automated Shotcrete:<br/>A More Sustainable Construction Technology</a></li>
       <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dela_chen_side.2024.AaDo3PRCWUIPQSL/">Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading</a></li>
@@ -141,4 +113,34 @@ tags:
       <li><a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/olbrich_alexander"><b>Olbrich</b> Alexander</a>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ibra_olbr_lind_gerb.2018.AAMoCSwF/">Automated Additive Manufacturing of Concrete Structures without Formwork:<br/>Concept for Path-Planning</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF,
+      author            = "Stefan Neudecker and Christopher Bruns and Roman Gerbers and Jakob Heyn and Franz Dietrich and Klaus Dröder and Annika Raatz and Harald Kloft",
+      title             = "A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork",
+      doi               = "10.1016/j.procir.2016.02.107",
+      year              = "2016",
+      journal           = "Procedia CIRP",
+      volume            = "43",
+      pages             = "333--338",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Neudecker, “A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork”, <i>Procedia CIRP</i>, vol. 43, pp. 333–338, 2016, doi: 10.1016/j.procir.2016.02.107.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Neudecker, Stefan, Christopher Bruns, Roman Gerbers, Jakob Heyn, Franz Dietrich, Klaus Dröder, Annika Raatz, and Harald Kloft. “A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures Without Formwork”. <i>Procedia CIRP</i> 43 (2016): 333–38. https://doi.org/10.1016/j.procir.2016.02.107.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

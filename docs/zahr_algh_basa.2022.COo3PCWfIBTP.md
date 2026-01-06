@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdullah Zahrani, Abdulrahman Alghamdi, Ahmad Basalah
+    - footer
+title: Zahrani Abdullah, Alghamdi Abdulrahman, Basalah Ahmad
 description:
 tags:
  - buildability
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/12/2267/pdf?version=1671677161) Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance ([2022-12](date/2022/12))
-<a href="https://doi.org/10.3390/buildings12122267" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12122267</a>
+#Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance ([2022-12](date/2022/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/12/2267/pdf?version=1671677161) <a href="https://doi.org/10.3390/buildings12122267" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12122267" target="_blank">10.3390/buildings12122267</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7162-0256" title="ORCID: 0000-0001-7162-0256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahrani_a_abdullah"><b>al&nbsp;Zahrani</b>&nbsp;Abdullah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0066-3600" title="ORCID: 0000-0002-0066-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b>&nbsp;Abdulrahman</a></span>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b>&nbsp;Ahmad</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zahrani_a_abdullah"><b>al Zahrani</b> Abdullah</a> <a href="https://orcid.org/0000-0001-7162-0256" title="ORCID: 0000-0001-7162-0256" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a> <a href="https://orcid.org/0000-0002-0066-3600" title="ORCID: 0000-0002-0066-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#improvement`](keyword/improvement)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Computational%20Optimization%20of%203D%20Printed%20Concrete%20Walls%20for%20Improved%20Building%20Thermal%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144860335&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4311885278" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12122267" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12122267?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing technologies are transforming various sectors with promising technological abilities and economic outcomes. For instance, 3D-printed concrete (3DPC) is revolutionizing the construction sector with a promise to cut projects’ costs and time. Therefore, 3DPC has been subjected to extensive research and development to optimize the mechanical and thermal performance of concrete walls produced by 3D printing. In this paper, we conduct a comparative investigation of the thermal performance of various infill structures of 3DPC walls. The targeted outcome is to produce an infill structure with optimized thermal performance to reduce building energy consumption without incurring additional material costs. Accordingly, a computational model is developed to simulate the thermal behavior of various infill structures that can be used for 3DPC walls. The concrete composition and the concrete-to-void fraction are maintained constant to focus on the impact of the infill structure (geometric variations). The thermal performance and energy-saving potential of the 3DPC walls are compared with conventional construction materials, including clay and concrete bricks. The results show that changing the infill structure of the 3DPC walls influences the walls’ thermal conductivity and, thereby, the building’s thermal performance. The thermal conductivity of the examined infill structures is found to vary between 0.122 to 0.17 W/m.K, while if these structures are successful in replacing conventional building materials, the minimum annual saving in energy cost will be about $1/m2. Therefore, selecting an infill structure can be essential for reducing building energy consumption.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../aram_cald_puen.2022.3PEotCSoCS/">3D Printing Effect on the Compressive Strength of Concrete Structures</a></li>
@@ -89,8 +67,9 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../sunt_gath_upas_pool.2021.NSoFaEPoIL3PCWCiMBS/">Numerical Study of Fire and Energy Performance of Innovative Lightweight 3D Printed Concrete Wall-Configurations in Modular Building System</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_hanmo"><b>Wang</b> Hanmo</a>, <a href="../../../author/wan_yujia"><b>Wan</b> Yujia</a>, <a href="../../../author/owyong_shawn"><b>Owyong</b> Shawn</a>, <a href="../../../author/connie-lim_en"><b>Connie Lim</b> En</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wan_owyo_conn.2026.TLCC/">Towards Low-Carbon Construction:<br/>Nature-Inspired Internal Patterns for Thermal Insulation in Lightweight Concrete Component Cast Using 3D-Printed Formwork</a></li>
       <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sun_qian_chen.2025.BIJISIfEFRo3PSHCC/">Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites</a></li>
@@ -113,4 +92,34 @@ tags:
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/dani_alamsah_aflah"><b>Dani</b> Aflah</a>, <a href="../../../author/lim_b-p_james"><b>Lim</b> James</a>, <a href="../../../author/roy_krishanu"><b>Roy</b> Krishanu</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../khan_dani_lim_roy.2024.AtFo3PCiNZH/">Appraising the Feasibility of 3D Printing Construction in New Zealand Housing</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zahr_algh_basa.2022.COo3PCWfIBTP,
+      author            = "Abdullah A. al Zahrani and Abdulrahman A. Alghamdi and Ahmad A. Basalah",
+      title             = "Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance",
+      doi               = "10.3390/buildings12122267",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. A. al Zahrani, A. A. Alghamdi and A. A. Basalah, “Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance”, <i>Buildings</i>, vol. 12, no. 12, 2022, doi: 10.3390/buildings12122267.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zahrani, Abdullah A. al, Abdulrahman A. Alghamdi, and Ahmad A. Basalah. “Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance”. <i>Buildings</i> 12, no. 12 (2022). https://doi.org/10.3390/buildings12122267.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

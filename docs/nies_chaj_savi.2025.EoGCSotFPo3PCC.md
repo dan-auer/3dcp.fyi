@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Martyna Nieświec, Adrian Chajec, Branko Šavija
+    - footer
+title: Nieświec Martyna, Chajec Adrian, Šavija Branko
 description:
 tags:
  - cement
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.nature.com/articles/s41598-025-02996-8.pdf) Effect of Ground Copper Slag on the Fresh Properties of 3d Printed Cementitious Composites ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1038/s41598-025-02996-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s41598-025-02996-8</a>
+#Effect of Ground Copper Slag on the Fresh Properties of 3d Printed Cementitious Composites ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s41598-025-02996-8.pdf) <a href="https://doi.org/10.1038/s41598-025-02996-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-025-02996-8" target="_blank">10.1038/s41598-025-02996-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-9230-9054" title="ORCID: 0009-0007-9230-9054" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nieswiec_martyna"><b>Nieświec</b>&nbsp;Martyna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5329-9534" title="ORCID: 0000-0001-5329-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chajec_adrian"><b>Chajec</b>&nbsp;Adrian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
+Journal Article - Scientific Reports, Vol. 15, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nieswiec_martyna"><b>Nieświec</b> Martyna</a> <a href="https://orcid.org/0009-0007-9230-9054" title="ORCID: 0009-0007-9230-9054" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a> <a href="https://orcid.org/0000-0001-5329-9534" title="ORCID: 0000-0001-5329-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Scientific Reports, Vol. 15, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#copper`](keyword/copper)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Ground%20Copper%20Slag%20on%20the%20Fresh%20Properties%20of%203d%20Printed%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005774719&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410706602" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s41598-025-02996-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s41598-025-02996-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is becoming increasingly popular in the construction sector. 3D printing offers the potential to reduce costs, construction time and construction waste. However, due to its high cement content, 3D printable concrete more expensive to produce. The article includes a brief literature survey on the possibility of using cement and aggregate substitutes in concrete mixtures and their impact on fresh composite properties and identifies a research gap. Herein, we propose the use of waste copper slag as a replacement for cement in 3D printable concrete. We examine the effect of replacing cement with copper slag at 5 and 10% on fresh properties of cementitious mortar. The results show that copper slag improves the workability of the mixture and lowers the design yield strength up to 44%, thereby facilitating printing. Even 30% higher fresh compressive strengths were also obtained, which suggest that the buildability of mortars containing copper slag will be improved.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalqader_ahmed"><b>Abdalqader</b> Ahmed</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/dedenis_marie"><b>Dedenis</b> Marie</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../abda_sone_dede_amzi.2022.MPo3PCCFAMaNC/">Mechanical Performance of 3D Printed Concrete Containing Fly-Ash, Metakaolin and Nano-Clay</a></li>
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
@@ -104,7 +83,37 @@ tags:
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/shi_mengyuan"><b>Shi</b> Mengyuan</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yang_che_shi.2021.IoCCNPotWaSo3PCMCLP/">Influences of Calcium-Carbonate-Nano-Particles on the Workability and Strength of 3D Printing Cementitious Materials Containing Limestone-Powder</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nies_chaj_savi.2025.EoGCSotFPo3PCC,
+      author            = "Martyna Nieświec and Adrian Chajec and Branko Šavija",
+      title             = "Effect of Ground Copper Slag on the Fresh Properties of 3d Printed Cementitious Composites",
+      doi               = "10.1038/s41598-025-02996-8",
+      year              = "2025",
+      journal           = "Scientific Reports",
+      volume            = "15",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Nieświec, A. Chajec and B. Šavija, “Effect of Ground Copper Slag on the Fresh Properties of 3d Printed Cementitious Composites”, <i>Scientific Reports</i>, vol. 15, no. 1, 2025, doi: 10.1038/s41598-025-02996-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nieświec, Martyna, Adrian Chajec, and Branko Šavija. “Effect of Ground Copper Slag on the Fresh Properties of 3d Printed Cementitious Composites”. <i>Scientific Reports</i> 15, no. 1 (2025). https://doi.org/10.1038/s41598-025-02996-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

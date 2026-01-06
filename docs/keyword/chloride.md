@@ -8,7 +8,7 @@ search:
 
 # #chloride
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/yuan_chengfang"><b>Yuan</b> Chengfang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../raza_yuan.2025.DMaMPo3PECCwYRSUCIWDC/">Degradation Mechanisms and Microstructural Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Under Chloride Ion Wet-Dry Cycles</a></li>
   <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../dong_wu_liu_wu.2025.CTAaIDi3PUHPC/">Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete:<br/>Multi-Scale Evaluation and Engineering Implications</a></li>
   <li><a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/sanchez_maria_asel"><b>Sanchez</b> Asel</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lima_wang_sanc_anto.2024.Do3PC/">Durability of 3D Printed Concrete:<br/>Performance-Assessment of a Two-Component System Against Water Absorption, Carbonation, and Chloride-Ingress</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Karsten Nefs, Joes Sloots, Kim Kroon, Freek Bos, Theo Salet
+    - footer
+title: Nefs Karsten, Sloots Joes, Kroon Kim, Bos Freek, Salet Theo
 description:
 tags:
  - analysis
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2024.113018) Analytical Modeling of the Orientation-Dependency of 3D Printed SHCC at Increasing Levels of Scale ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.matdes.2024.113018" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2024.113018</a>
+#Analytical Modeling of the Orientation-Dependency of 3D Printed SHCC at Increasing Levels of Scale ([2024-05](date/2024/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2024.113018) <a href="https://doi.org/10.1016/j.matdes.2024.113018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2024.113018" target="_blank">10.1016/j.matdes.2024.113018</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1328-9689" title="ORCID: 0000-0002-1328-9689" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nefs_karsten"><b>Nefs</b>&nbsp;Karsten</a></span>, <a href="../../../author/sloots_joes"><b>Sloots</b>&nbsp;Joes</a></span>, <a href="../../../author/kroon_c-j_kim"><b>de&nbsp;Kroon</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Journal Article - Materials & Design, No. 113018
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a> <a href="https://orcid.org/0000-0002-1328-9689" title="ORCID: 0000-0002-1328-9689" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sloots_joes"><b>Sloots</b> Joes</a>
-,     <a href="../../../author/kroon_c-j_kim"><b>de Kroon</b> Kim</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, No. 113018
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#dependency`](keyword/dependency)
-    [`#increase`](keyword/increase)
-    [`#level`](keyword/level)
-    [`#model`](keyword/model)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/increase"><button class="btn">#increase</button></a> <a href="../../keyword/level"><button class="btn">#level</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Analytical%20Modeling%20of%20the%20Orientation-Dependency%20of%203D%20Printed%20SHCC%20at%20Increasing%20Levels%20of%20Scale" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193512395&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4397001791" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2024.113018" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2024.113018?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printable strain hardening cementitious composites (3DP-SHCC) stand out for their high ductility and increase in tensile strength after initial cracking. Due to the printing process, which includes the pumping and extruding of the material, the fibres are not uniformly orientated in the material but have an orientation dependency due to the specific printing process applied. Three different cases for the fibre orientation distribution functions are presented with increasing levels of relation to the printing process. These three cases have been used in a micro-mechanical model to verify with experimental stress-crack opening results (single crack). Furthermore, a spring model is used to give insight into the potential to develop pseudo strain hardening behaviour (multiple cracking) in various printing directions. The method is also used to model the experimentally obtained spread in uni-axial tensile dogbone test results. From these experimental dogbone tests, average stress-strain relations are determined in two directions. Finally, a multi-layer method is used on the component level to validate the use of these average stress-strain relations for modelling the bending behaviour of printed elements in multiple directions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../figu_rodr_ahme_bos.2020.MBoPSHCC/">Mechanical Behavior of Printed Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
@@ -82,10 +59,39 @@ tags:
       <li><a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yu_leun.2019.Io3PDoMPoSHCCS/">Impact of 3D Printing-Direction on Mechanical Performance of Strain-Hardening Cementitious Composite (SHCC)</a></li>
       <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zijl_heev_cho.2023.SR3PC/">SHCC Reinforced 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../li_sun_qian_chen.2025.BIBAfEFPi3PSHCC3S/">Bio-Inspired Bouligand Architectures for Enhanced Flexural Performance in 3D-Printed Strain-Hardening Cementitious Composites (3DP-SHCC)</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a>, <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhu_zhan_ye_wei.2025.LVIPoB3PECCB/">Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nefs_sloo_kroo_bos.2024.AMotODo3PSaILoS,
+      author            = "Karsten Nefs and Joes Sloots and Kim C. J. de Kroon and Freek Paul Bos and Theo A. M. Salet",
+      title             = "Analytical Modeling of the Orientation-Dependency of 3D Printed SHCC at Increasing Levels of Scale",
+      doi               = "10.1016/j.matdes.2024.113018",
+      year              = "2024",
+      journal           = "Materials & Design",
+      pages             = "113018",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Nefs, J. Sloots, K. C. J. de Kroon, F. P. Bos and T. A. M. Salet, “Analytical Modeling of the Orientation-Dependency of 3D Printed SHCC at Increasing Levels of Scale”, <i>Materials & Design</i>, p. 113018, 2024, doi: 10.1016/j.matdes.2024.113018.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nefs, Karsten, Joes Sloots, Kim C. J. de Kroon, Freek Paul Bos, and Theo A. M. Salet. “Analytical Modeling of the Orientation-Dependency of 3D Printed SHCC at Increasing Levels of Scale”. <i>Materials & Design</i>, 2024, 113018. https://doi.org/10.1016/j.matdes.2024.113018.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

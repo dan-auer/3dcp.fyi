@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mana Alyami, Majid Khan, Muhammad Fawad, R. Nawahz, Ahmed Hammad, Taoufik Najeh, Yaser Gamil
+    - footer
+title: Alyami Mana, Khan Majid, Fawad Muhammad, Nawahz R., Hammad Ahmed, Najeh Taoufik, Gamil Yaser
 description:
 tags:
  - algorithm
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e02728) Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.cscm.2023.e02728" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e02728</a>
+#Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms ([2023-11](date/2023/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02728) <a href="https://doi.org/10.1016/j.cscm.2023.e02728" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02728" target="_blank">10.1016/j.cscm.2023.e02728</a>
 
--------------------------
+<a href="../../../author/alyami_mana"><b>Alyami</b>&nbsp;Mana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6629-4257" title="ORCID: 0000-0001-6629-4257" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_majid"><b>Khan</b>&nbsp;Majid</a></span>, <a href="../../../author/fawad_muhammad"><b>Fawad</b>&nbsp;Muhammad</a></span>, <a href="../../../author/nawahz_r"><b>Nawahz</b>&nbsp;R.</a></span>, <a href="../../../author/hammad_w-a_ahmed"><b>Hammad</b>&nbsp;Ahmed</a></span>, <a href="../../../author/najeh_taoufik"><b>Najeh</b>&nbsp;Taoufik</a></span>, <a href="../../../author/gamil_yaser"><b>Gamil</b>&nbsp;Yaser</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e02728
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>
-,     <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="https://orcid.org/0000-0001-6629-4257" title="ORCID: 0000-0001-6629-4257" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>
-,     <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a>
-,     <a href="../../../author/hammad_w-a_ahmed"><b>Hammad</b> Ahmed</a>
-,     <a href="../../../author/najeh_taoufik"><b>Najeh</b> Taoufik</a>
-,     <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e02728
-
-:aca-blank:{ .lg .middle}
-    [`#algorithm`](keyword/algorithm)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Predictive%20Modeling%20for%20Compressive%20Strength%20of%203D%20Printed%20Fiber-Reinforced%20Concrete%20Using%20Machine%20Learning%20Algorithms" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179138370&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389162812" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e02728" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e02728?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing in the construction industry is growing rapidly due to its inherent advantages, including intricate geometries, reduced waste, accelerated construction, cost-effectiveness, eco-friendliness, and improved safety. However, optimizing the mixture composition for 3D-printed concrete remains a formidable task, encompassing multiple variables and requiring a comprehensive trial-and-error experimentation process. Accordingly, this study used seven machine learning (ML) algorithms, including support vector regression (SVR), decision tree (DT), SVR-Bagging, SVR-Boosting, random forest (RF), gradient boosting (GB), and gene expression programming (GEP) for forecasting the compressive strength (CS) of 3D printed fiber-reinforced concrete (3DP-FRC). For model development, 299 data points were collected from experimental studies and split into two portions: 70% for model training and 30% for model validation. Various statistical metrics were employed to examine the accuracy and generalizability of the established models. The DT, RF, GB, and GEP models demonstrated higher accuracy in the validation set, achieving correlation (R) values of 0.987, 0.986, 0.986, and 0.98, respectively. The DT, RF, GB, and GEP models exhibited mean absolute error (MAE) scores of 4.644, 3.989, 3.90, and 5.691, respectively. Furthermore, the combination of SVR with boosting and bagging techniques slightly improved the accuracy compared to the individual SVR model. Additionally, the SHapley Additive exPlanations (SHAP) approach unveils the proportional significance of parameters in influencing the CS of 3DP-FRC. The SHAP technique revealed that water, silica fume, superplasticizer, sand content, and loading directions are the dominant parameters in estimating the CS of 3DP-FRC. The SHAP local interpretability unveils the intrinsic relationship between diverse input variables and their impacts on the strength of 3DP-FRC. The SHAP interpretability offers significant insights into the optimum mix proportion of 3DP-FRC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -129,8 +101,8 @@ tags:
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/albostami_s_asad"><b>Albostami</b> Asad</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/ismael_h_bashar"><b>Ismael</b> Bashar</a>, <a href="../../../author/hamd_kh-s_rwayda"><b>Hamd</b> Rwayda</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../albo_moha_isma_hamd.2025.OSPf3PFRC/">Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete:<br/>Machine Learning-Driven Insights</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
@@ -149,4 +121,33 @@ tags:
       <li><a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/kim_in-ho"><b>Kim</b> In-Ho</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../rehm_riaz_usma_kim.2024.ADDAT3PCMP/">Augmented Data-Driven Approach Towards 3D Printed Concrete Mix Prediction</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/javed_faisal_muhammad"><b>Javed</b> Muhammad</a>, <a href="../../../author/ali_mujahid"><b>Ali</b> Mujahid</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../alya_khan_jave_ali.2024.AoMOAiPtCSo3PFRC/">Application of Metaheuristic Optimization Algorithms in Predicting the Compressive Strength of 3D Printed Fiber-Reinforced Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA,
+      author            = "Mana Alyami and Majid Khan and Muhammad Fawad and R. Nawahz and Ahmed W. A. Hammad and Taoufik Najeh and Yaser Gamil",
+      title             = "Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms",
+      doi               = "10.1016/j.cscm.2023.e02728",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e02728",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Alyami, “Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms”, <i>Case Studies in Construction Materials</i>, p. e02728, 2023, doi: 10.1016/j.cscm.2023.e02728.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alyami, Mana, Majid Khan, Muhammad Fawad, R. Nawahz, Ahmed W. A. Hammad, Taoufik Najeh, and Yaser Gamil. “Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms”. <i>Case Studies in Construction Materials</i>, 2023, e02728. https://doi.org/10.1016/j.cscm.2023.e02728.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

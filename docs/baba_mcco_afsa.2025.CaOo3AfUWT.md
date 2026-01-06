@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vida Babajaniniashirvani, Andrew McCoy, Kereshmeh Afsari
+    - footer
+title: Babajaniniashirvani Vida, McCoy Andrew, Afsari Kereshmeh
 description:
 tags:
  - 3dcp
@@ -13,26 +14,11 @@ tags:
 
 ---
 
-# Challenges and Opportunities of 3DCP Adoption for US Workforce Training ([2025-09](date/2025/09))
--------------------------
+#Challenges and Opportunities of 3DCP Adoption for US Workforce Training ([2025-09](date/2025/09))
+<a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b>&nbsp;Vida</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3827-0458" title="ORCID: 0000-0002-3827-0458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mccoy_p_andrew"><b>McCoy</b>&nbsp;Andrew</a></span>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b>&nbsp;Kereshmeh</a></span><br>
+Contribution - HACBAC2025
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>
-,     <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="https://orcid.org/0000-0002-3827-0458" title="ORCID: 0000-0002-3827-0458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - HACBAC2025, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#adoption`](keyword/adoption)
-    [`#challenge`](keyword/challenge)
-    [`#opportunity`](keyword/opportunity)
-    [`#workforce`](keyword/workforce)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/workforce"><button class="btn">#workforce</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Challenges%20and%20Opportunities%20of%203DCP%20Adoption%20for%20US%20Workforce%20Training" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -47,17 +33,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rise of 3D concrete printing (3DCP) has the potential to transform construction with faster, more sustainable, higher quality, and cost-effective methods. However, a significant skills gap and the lack of specialized education programs hinder its widespread adoption. In a previous study, the research team identified 16 key competencies for effective 3DCP implementation in the AEC industry through a literature review and industry expert focus group. A survey of 57 U.S. professionals ranked knowledge of concrete mix, knowledge of the 3D concrete printing process, and 3D printer operations and specifications as the top-ranked perceived key competencies. Building on these findings, this study further investigates industry professionals' perspectives through two open-ended survey questions to identify additional competencies necessary for working with 3DCP in construction and to gather supplementary insights or suggestions. Additionally, it explores the challenges and opportunities of 3DCP adoption based on the focus group discussion. The results of thematic analysis uncovered additional competency in marketing and financial analysis. Findings can help facilitate effective workforce development for 3DCP technology adoption.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -70,7 +52,34 @@ tags:
       <li><a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../puza_shak_lagh_dmit.2022.LS3PfCAbMoRAaG3P/">Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer:<br/>A Review</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{baba_mcco_afsa.2025.CaOo3AfUWT,
+      author            = "Vida Babajaniniashirvani and Andrew P. McCoy and Kereshmeh Afsari",
+      title             = "Challenges and Opportunities of 3DCP Adoption for US Workforce Training",
+      year              = "2025",
+      booktitle         = "HACBAC2025",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Babajaniniashirvani, A. P. McCoy and K. Afsari, “Challenges and Opportunities of 3DCP Adoption for US Workforce Training”,  2025.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Babajaniniashirvani, Vida, Andrew P. McCoy, and Kereshmeh Afsari. “Challenges and Opportunities of 3DCP Adoption for US Workforce Training”. In <i>HACBAC2025</i>, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Stelladriana Volpe, Valentino Sangiorgio, Andrea Petrella, Armando Coppola, Michele Notarnicola, Francesco Fiorito
+    - footer
+title: Volpe Stelladriana, Sangiorgio Valentino, Petrella Andrea, Coppola Armando, Notarnicola Michele, Fiorito Francesco
 description:
 tags:
  - buildability
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/13/16/8923/pdf?version=1628568612) Building Envelope Prefabricated with 3D Printing Technology ([2021-08](date/2021/08))
-<a href="https://doi.org/10.3390/su13168923" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su13168923</a>
+#Building Envelope Prefabricated with 3D Printing Technology ([2021-08](date/2021/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/13/16/8923/pdf?version=1628568612) <a href="https://doi.org/10.3390/su13168923" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su13168923" target="_blank">10.3390/su13168923</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6414-5562" title="ORCID: 0000-0002-6414-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volpe_stelladriana"><b>Volpe</b>&nbsp;Stelladriana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <a href="../../../author/petrella_andrea"><b>Petrella</b>&nbsp;Andrea</a></span>, <a href="../../../author/coppola_armando"><b>Coppola</b>&nbsp;Armando</a></span>, <a href="../../../author/notarnicola_michele"><b>Notarnicola</b>&nbsp;Michele</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4554-738X" title="ORCID: 0000-0002-4554-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fiorito_francesco"><b>Fiorito</b>&nbsp;Francesco</a></span><br>
+Journal Article - Sustainability, Vol. 13, Iss. 16
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a> <a href="https://orcid.org/0000-0002-6414-5562" title="ORCID: 0000-0002-6414-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> <a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>
-,     <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a>
-,     <a href="../../../author/notarnicola_michele"><b>Notarnicola</b> Michele</a>
-,     <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a> <a href="https://orcid.org/0000-0002-4554-738X" title="ORCID: 0000-0002-4554-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 13, Iss. 16, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#envelope`](keyword/envelope)
-    [`#prefabrication`](keyword/prefabrication)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Building%20Envelope%20Prefabricated%20with%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112421379&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3193231085" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su13168923" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su13168923?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The Fourth Industrial Revolution represents the beginning of a profound change for the building sector. In the last decade, the perspective of shapes, materials, and construction techniques is evolving fast due to the additive manufacturing technology. On the other hand, even if the technology is growing fast and several 3D printed buildings are being developed worldwide, the potential of concrete 3D printing in building prefabrication remains unexplored. Consequently, the application of new digital fabrication technologies in the construction industry requires a redesign of the construction process and its components. This paper proposes a novel conception, design, and prototyping of a precast building envelope to be prefabricated with extrusion-based 3D concrete printing (3DCP). The new design and conception aim to fully exploit the potential of 3D printing for prefabricated components, especially in terms of dry assembly, speed of implementation, reusability, recyclability, modularity, versatility, adaptability, and sustainability. Beyond the novel conceptual design of precast elements, the research investigated the 3D printable cementitious material based on a magnesium potassium phosphate cement (MKPC), which was devised and tested to ensure good performances of the proposed component. Finally, a prototype has been realised in scale with additive manufacturing technology in order to verify the printability and to optimize the extruder path. This study leads us to believe that the combined use of prefabricated systems, construction automation, and innovative materials can decisively improve the construction industry’s sustainability in the future
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -84,8 +63,8 @@ tags:
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/latorraca_f_tassia"><b>Latorraca</b> Tássia</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lato_rang_guim.2026.O3PCPTPwMMaGD/">Optimizing 3D-Printed Concrete Panels’ Thermal Performance with Materials, Metrics, and Generative Design</a></li>
       <li><a href="../../../author/kim_ki_young"><b>Kim</b> Young</a>, <a href="../../../author/scoppa_martin"><b>Scoppa</b> Martin</a>, <a href="../../../author/haddad_madhar"><b>Haddad</b> Madhar</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_scop_hadd.2025.AIitRo3PiRB/">An Investigation into the Role of 3D Printing in Residential Buildings:<br/>An Emirati Housing Case Study</a></li>
       <li><a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/taswin_faustin_william"><b>Taswin</b> William</a>, <a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sari_bera_tasw_saro.2025.WBSaCPFfaH3PMB/">Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building</a></li>
@@ -110,4 +89,34 @@ tags:
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/fieni_francesco"><b>Fieni</b> Francesco</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sang_pari_fien_pari.2022.TNBo3PCBD/">The New Boundaries of 3D-Printed Clay-Bricks-Design:<br/>Printability of Complex Internal Geometries</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{volp_sang_petr_copp.2021.BEPw3PT,
+      author            = "Stelladriana Volpe and Valentino Sangiorgio and Andrea Petrella and Armando Coppola and Michele Notarnicola and Francesco Fiorito",
+      title             = "Building Envelope Prefabricated with 3D Printing Technology",
+      doi               = "10.3390/su13168923",
+      year              = "2021",
+      journal           = "Sustainability",
+      volume            = "13",
+      number            = "16",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Volpe, V. Sangiorgio, A. Petrella, A. Coppola, M. Notarnicola and F. Fiorito, “Building Envelope Prefabricated with 3D Printing Technology”, <i>Sustainability</i>, vol. 13, no. 16, 2021, doi: 10.3390/su13168923.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Volpe, Stelladriana, Valentino Sangiorgio, Andrea Petrella, Armando Coppola, Michele Notarnicola, and Francesco Fiorito. “Building Envelope Prefabricated with 3D Printing Technology”. <i>Sustainability</i> 13, no. 16 (2021). https://doi.org/10.3390/su13168923.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

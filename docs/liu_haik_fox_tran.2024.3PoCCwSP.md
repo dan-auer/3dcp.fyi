@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junli Liu, Pirjo Haikola, Kate Fox, Jonathan Tran
+    - footer
+title: Liu Junli, Haikola Pirjo, Fox Kate, Tran Jonathan
 description:
 tags:
  - analysis
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing of Cementitious Composites with Seashell-Particles:<br/>:aca-blank: Mechanical and Microstructural Analysis ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136939" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136939</a>
+#3D Printing of Cementitious Composites with Seashell-Particles&nbsp;([2024-06](date/2024/06))
+<div class="h1-like">Mechanical and Microstructural Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136939" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136939" target="_blank">10.1016/j.conbuildmat.2024.136939</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_junli"><b>Liu</b>&nbsp;Junli</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-5799-7209" title="ORCID: 0009-0000-5799-7209" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/haikola_pirjo"><b>Haikola</b>&nbsp;Pirjo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8090-3215" title="ORCID: 0000-0001-8090-3215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fox_kate"><b>Fox</b>&nbsp;Kate</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 438, No. 136939
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_junli"><b>Liu</b> Junli</a> <a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/haikola_pirjo"><b>Haikola</b> Pirjo</a> <a href="https://orcid.org/0009-0000-5799-7209" title="ORCID: 0009-0000-5799-7209" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> <a href="https://orcid.org/0000-0001-8090-3215" title="ORCID: 0000-0001-8090-3215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 438, No. 136939
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#mechanics`](keyword/mechanics)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Cementitious%20Composites%20with%20Seashell-Particles" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196020963&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399716202" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136939" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136939?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Seashells are abundantly available as waste products from the seafood industry and from coastal areas. Accordingly, processed shells can be used to partially replace aggregates in traditional concrete. This paper investigates the effects of different proportions of seashell particles on the mechanical and microstructural properties of 3D-printed cementitious composites. The seashells were crushed and milled to be transformed into seashell particles, replacing the river sand at 15 wt% and 30 wt%. It was found that when the seashell particle content increased to 15 wt% and 30 wt%, the mechanical strengths all decreased significantly, which could be attributed to the increasing volumetric proportion of voids and the lower elastic modulus of seashell particles compared to river sand. However, when the seashell particle proportion further rose from 15 wt% to 30 wt%, the mechanical strengths did not continue decreasing substantially. Instead, the compressive and indirect tensile strengths nearly levelled off with minor fluctuations. Based on the microstructural analysis results, it was inferred that the fine seashell powders as part of the seashell particles, which were comprised of aragonite-based calcium carbonate, participated in the cement hydration process that could help with microstructure densification of the cement matrix. This positive effect brought by the fine seashell powders was thought to prevent the further weakening of mechanical properties. Overall, this study aims to understand the role of seashell particles on the mechanical performance of 3D-printed cementitious composites from the perspectives of microstructural characteristics, further promoting the utilisation of waste seashells in 3D concrete printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bong_nema_xia_ghaf.2022.PoAMGIMWMF/">Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
@@ -91,8 +72,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../xiao_zou_ding_duan.2021.FRMw1RFA/">Fiber-Reinforced Mortar with 100% Recycled Fine Aggregates:<br/>A Cleaner Perspective on 3D Printing</a></li>
       <li><a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>, <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a>, <a href="../../../author/sun_xuemei"><b>Sun</b> Xuemei</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_zhan_li_sun.2022.EoFaGoCSRaPPoCB3PM/">Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_core_tran_fan.2025.3PCC/">3D Printable Cellulose Concrete:<br/>A Review and Pathway to Future Research</a></li>
@@ -100,4 +81,34 @@ tags:
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mim_shai_sark.2025.S3PCIAFA/">Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates:<br/>A Review</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/khieu_hoang_hai"><b>Khieu</b> Hai</a>, <a href="../../../author/black_r_jay"><b>Black</b> Jay</a>, <a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b> Hung-Xuan</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_khie_blac_nguy.2025.TS3PSFRSfCS/">Two-Scale 3D Printed Steel-Fiber-Reinforcements-Strategy for Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_haik_fox_tran.2024.3PoCCwSP,
+      author            = "Junli Liu and Pirjo Haikola and Kate Fox and Jonathan Phuong Tran",
+      title             = "3D Printing of Cementitious Composites with Seashell-Particles: Mechanical and Microstructural Analysis",
+      doi               = "10.1016/j.conbuildmat.2024.136939",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "438",
+      pages             = "136939",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Liu, P. Haikola, K. Fox and J. P. Tran, “3D Printing of Cementitious Composites with Seashell-Particles: Mechanical and Microstructural Analysis”, <i>Construction and Building Materials</i>, vol. 438, p. 136939, 2024, doi: 10.1016/j.conbuildmat.2024.136939.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Junli, Pirjo Haikola, Kate Fox, and Jonathan Phuong Tran. “3D Printing of Cementitious Composites with Seashell-Particles: Mechanical and Microstructural Analysis”. <i>Construction and Building Materials</i> 438 (2024): 136939. https://doi.org/10.1016/j.conbuildmat.2024.136939.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

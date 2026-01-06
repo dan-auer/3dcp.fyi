@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Stefan Mitrović, Ivan Ignjatović
+    - footer
+title: Mitrović Stefan, Ignjatović Ivan
 description:
 tags:
  - concrete
@@ -13,25 +14,11 @@ tags:
 
 ---
 
-# Connections Between Single Elements Made by 3D Printed Concrete ([2024-08](date/2024/08))
--------------------------
+#Connections Between Single Elements Made by 3D Printed Concrete ([2024-08](date/2024/08))
+<span class="author"><a href="https://orcid.org/0000-0001-7254-6860" title="ORCID: 0000-0001-7254-6860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mitrovic_z_stefan"><b>Mitrović</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2679-0982" title="ORCID: 0000-0002-2679-0982" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b>&nbsp;Ivan</a></span><br>
+Contribution - Proceedings of the 15th fib International PhD Symposium in Civil Engineering, pp. 1243-1250
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mitrovic_z_stefan"><b>Mitrović</b> Stefan</a> <a href="https://orcid.org/0000-0001-7254-6860" title="ORCID: 0000-0001-7254-6860" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b> Ivan</a> <a href="https://orcid.org/0000-0002-2679-0982" title="ORCID: 0000-0002-2679-0982" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 15th fib International PhD Symposium in Civil Engineering, pp. 1243-1250
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#connection`](keyword/connection)
-    [`#element`](keyword/element)
-    [`#print`](keyword/print)
-    [`#single`](keyword/single)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/connection"><button class="btn">#connection</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/single"><button class="btn">#single</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Connections%20Between%20Single%20Elements%20Made%20by%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -46,17 +33,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D concrete printing (3DCP) technology as an innovative method of making concrete structures has already found application in contemporary construction works. The wider application has shown some obstacles, such as the lack of standards for design and production, the incorporation of reinforcement into the printing process, and underdeveloped load transfer systems. The motivation for this research come from the current practice in which the size of the printer usualy defines the size of the structure. Contrary to that, 3DCP technology can be considered as a part of updated method of prefabrication construction. Properly designed connections can create a robust structural system for adequate transfer of horizontal and vertical actions to the objects fundaments. The state of the art in the field of connections of 3DCP elements will be presented in this paper as well as the future experimental testings of seismic performance of segmental walls made of post-tensioned 3DCP elements under cyclic later load.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../aram_cald_puen.2023.PMo3PCSBwRUBM/">Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_yass_sakk_hamz.2020.AMAfSRo3PC/">A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>Preliminary Study</a></li>
@@ -78,7 +61,36 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mitr_ignj.2024.CBSEMb3PC,
+      author            = "Stefan Ž. Mitrović and Ivan Ignjatović",
+      title             = "Connections Between Single Elements Made by 3D Printed Concrete",
+      year              = "2024",
+      pages             = "1243--1250",
+      booktitle         = "Proceedings of the 15th fib International PhD Symposium in Civil Engineering",
+      editor            = "György L. Balázs and Sándor Sólyom and Stephen Foster",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Ž. Mitrović  and I. Ignjatović, “Connections Between Single Elements Made by 3D Printed Concrete”, in <i>Proceedings of the 15th fib International PhD Symposium in Civil Engineering</i>,  2024, pp. 1243–1250.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mitrović, Stefan Ž., and Ivan Ignjatović. “Connections Between Single Elements Made by 3D Printed Concrete”. In <i>Proceedings of the 15th Fib International PhD Symposium in Civil Engineering</i>, edited by György L. Balázs, Sándor Sólyom, and Stephen Foster, 1243–50, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

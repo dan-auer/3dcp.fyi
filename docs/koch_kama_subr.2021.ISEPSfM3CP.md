@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amarteja Kocherla, Tippabhotla Kamakshi, Kolluru Subramaniam
+    - footer
+title: Kocherla Amarteja, Kamakshi Tippabhotla, Subramaniam Kolluru
 description:
 tags:
  - activation
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} In-Situ Embedded PZT Sensor for Monitoring 3D Concrete Printing:<br/>:aca-blank: Application in Alkali-Activated Fly-Ash-Slag Geopolymers ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1088/1361-665x/ac3438" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1361-665x/ac3438</a>
+#In-Situ Embedded PZT Sensor for Monitoring 3D Concrete Printing&nbsp;([2021-11](date/2021/11))
+<div class="h1-like">Application in Alkali-Activated Fly-Ash-Slag Geopolymers</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1088/1361-665x/ac3438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1361-665x/ac3438" target="_blank">10.1088/1361-665x/ac3438</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8286-0976" title="ORCID: 0000-0001-8286-0976" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kocherla_amarteja"><b>Kocherla</b>&nbsp;Amarteja</a></span>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b>&nbsp;Tippabhotla</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span><br>
+Journal Article - Smart Materials and Structures, Vol. 30, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kocherla_amarteja"><b>Kocherla</b> Amarteja</a> <a href="https://orcid.org/0000-0001-8286-0976" title="ORCID: 0000-0001-8286-0976" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>
-,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Smart Materials and Structures, Vol. 30, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#application`](keyword/application)
-    [`#ash`](keyword/ash)
-    [`#concrete`](keyword/concrete)
-    [`#embedded`](keyword/embedded)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#sensor`](keyword/sensor)
-    [`#situ`](keyword/situ)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Situ%20Embedded%20PZT%20Sensor%20for%20Monitoring%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122448212&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3209476734" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1361-665x/ac3438" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1361-665x/ac3438?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     An embedded PZT sensor is developed for in situ monitoring of 3D-printed materials formed by extrusion-based layer deposition. The PZT sensor with a two-layer protection coating is embedded in the material during the layer deposition, and continuous measurements are obtained through the post-printing period. The PZT sensor is used to detect the physio-chemical changes in the alkali-activated fly ash-slag geopolymer with time. The effect of the added weight of each layer of print is sensitively reflected in the electrical impedance (EI) measurement obtained from the PZT sensor. The changes in EI measurements obtained from the embedded PZT sensor are compared with the measurements on the material related to the changes in the rheological behavior, reaction kinetics assessed using calorimetry, and setting behavior in the material. The build-up of the internal structure within the material, which allows buildability, is assessed from the conductance signature of the embedded PZT sensor. The changes produced by the chemical reactions within the binder, which bring about irreversible changes leading to the setting of the printed structure, are also sensitively detected in the EI measurements from the embedded PZT sensor. The amplitude of conductance is sensitive to the setting of the material. The frequency changes from the recorded EI signature reflect the continuous increase in the material stiffness with time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/park_kyoungsoo"><b>Park</b> Kyoungsoo</a>, <a href="../../../author/oh_taekeun"><b>Oh</b> Taekeun</a> <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../choi_park_oh.2016.VPoFCPtStFB/">Viscoelastic Properties of Fresh Cement-Paste to Study the Flow Behavior</a></li>
@@ -89,12 +65,42 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a></li>
       <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../saha_bish_malv_kuma.2024.AoWMUa3CPDA/">Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>A Review</a></li>
       <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/vo_vy-khanh_tran"><b>Vo</b> Tran</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../quah_vo_tay_tan.2023.RTAoSCIwPS/">Real-Time-Assessment of Smart Concrete Inspection with Piezoelectric Sensors</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{koch_kama_subr.2021.ISEPSfM3CP,
+      author            = "Amarteja Kocherla and Tippabhotla A. Kamakshi and Kolluru V. L. Subramaniam",
+      title             = "In-Situ Embedded PZT Sensor for Monitoring 3D Concrete Printing: Application in Alkali-Activated Fly-Ash-Slag Geopolymers",
+      doi               = "10.1088/1361-665x/ac3438",
+      year              = "2021",
+      journal           = "Smart Materials and Structures",
+      volume            = "30",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kocherla, T. A. Kamakshi and K. V. L. Subramaniam, “In-Situ Embedded PZT Sensor for Monitoring 3D Concrete Printing: Application in Alkali-Activated Fly-Ash-Slag Geopolymers”, <i>Smart Materials and Structures</i>, vol. 30, no. 12, 2021, doi: 10.1088/1361-665x/ac3438.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kocherla, Amarteja, Tippabhotla A. Kamakshi, and Kolluru V. L. Subramaniam. “In-Situ Embedded PZT Sensor for Monitoring 3D Concrete Printing: Application in Alkali-Activated Fly-Ash-Slag Geopolymers”. <i>Smart Materials and Structures</i> 30, no. 12 (2021). https://doi.org/10.1088/1361-665x/ac3438.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

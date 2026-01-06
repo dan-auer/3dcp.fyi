@@ -8,7 +8,7 @@ search:
 
 # #viscosity
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sara_rama.2025.EACBo3PM/">Early Age Creep Behavior of 3D Printable Mortar:<br/>Hydration and Viscoelasticity Coupling Model</a></li>
   <li><a href="../../../author/huang_jianxiang"><b>Huang</b> Jianxiang</a>, <a href="../../../author/wang_caifeng"><b>Wang</b> Caifeng</a>, <a href="../../../author/jian_shouwei"><b>Jian</b> Shouwei</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../huan_wang_jian_tan.2025.FoAASBaNSaaVMAf3PoGBM/">Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials</a></li>
   <li><a href="../../../author/nikravan_ata"><b>Nikravan</b> Ata</a>, <a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../nikr_aydi_ozyu_bund.2024.EtPo3PFRM/">Enhancing the Performance of 3D Printed Fiber-Reinforced Mortar:<br/>Synergistic Effects of Clays and Bacterial Cells as Viscosity-Modifying-Agents</a></li>

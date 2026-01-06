@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hashem Alhumayani, Mohamed Gomaa, Veronica Soebarto, Wassim Jabi
+    - footer
+title: Alhumayani Hashem, Gomaa Mohamed, Soebarto Veronica, Jabi Wassim
 description:
 tags:
  - assessment
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://digital.library.adelaide.edu.au/dspace/bitstream/2440/126406/3/hdl_126406.pdf) Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>:aca-blank: A Comparative Study between Cob and Concrete ([2020-06](date/2020/06))
-<a href="https://doi.org/10.1016/j.jclepro.2020.122463" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2020.122463</a>
+#Environmental Assessment of Large-Scale 3D Printing in Construction&nbsp;([2020-06](date/2020/06))
+<div class="h1-like">A Comparative Study between Cob and Concrete</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://digital.library.adelaide.edu.au/dspace/bitstream/2440/126406/3/hdl_126406.pdf) <a href="https://doi.org/10.1016/j.jclepro.2020.122463" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2020.122463" target="_blank">10.1016/j.jclepro.2020.122463</a>
 
--------------------------
+<a href="../../../author/alhumayani_hashem"><b>Alhumayani</b>&nbsp;Hashem</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9463-4888" title="ORCID: 0000-0001-9463-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gomaa_mohamed"><b>Gomaa</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1397-8414" title="ORCID: 0000-0003-1397-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soebarto_veronica"><b>Soebarto</b>&nbsp;Veronica</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2594-9568" title="ORCID: 0000-0002-2594-9568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabi_wassim"><b>Jabi</b>&nbsp;Wassim</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 270
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>
-,     <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a> <a href="https://orcid.org/0000-0001-9463-4888" title="ORCID: 0000-0001-9463-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="https://orcid.org/0000-0003-1397-8414" title="ORCID: 0000-0003-1397-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="https://orcid.org/0000-0002-2594-9568" title="ORCID: 0000-0002-2594-9568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 270, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#environment`](keyword/environment)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Environmental%20Assessment%20of%20Large-Scale%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85087107093&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3029717577" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2020.122463" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2020.122463?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper explores the environmental impacts of large-scale 3D printing (3DP) construction in comparison to conventional construction methods using two different types of construction material: concrete and cob (a sustainable earth-based material). The study uses a standard Life Cycle Assessment (LCA) method, from cradle to site, to assess the environmental impacts of the construction materials and processes, with a focus on load-bearing walls in small/medium size houses. As expected, cob-based methods (conventional followed by 3DP) show lower overall environmental impacts and global warming potentials than the concrete-based methods. The study also shows that while the overall environmental impacts of 3DP concrete is higher than that of 3DP cob due to higher global warming potential, stratospheric ozone depletion and fine particulate matter formation, it has less impact on marine eutrophication, land use, and mineral resources scarcity. The environmental issues that remain to be overcome in relation to 3DP concrete is its high-cement content, while the issue in 3DP cob rises from the use of electricity for the 3D printing operation. The study indicates that the use of renewable energy resources and innovative material science can greatly increase the potentials of both 3DP cob and 3DP concrete respectively for future construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
@@ -84,8 +63,9 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "134 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
@@ -220,4 +200,33 @@ tags:
       <li><a href="../../../author/krotov_oleg"><b>Krotov</b> Oleg</a>, <a href="../../../author/lazarev_yuriy"><b>Lazarev</b> Yuriy</a>, <a href="../../../author/velichkin_viktor"><b>Velichkin</b> Viktor</a>, <a href="../../../author/petrochenko_marina"><b>Petrochenko</b> Marina</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../krot_laza_veli_petr.2020.TMSCPCT/">The Multi-Storey Concrete Printing Construction Technology</a></li>
       <li><a href="../../../author/mahadevan_meera"><b>Mahadevan</b> Meera</a>, <a href="../../../author/francis_ann"><b>Francis</b> Ann</a>, <a href="../../../author/thomas_albert"><b>Thomas</b> Albert</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../maha_fran_thom.2020.ASBIoSAo3PS/">A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alhu_goma_soeb_jabi.2020.EAoLS3PiC,
+      author            = "Hashem Alhumayani and Mohamed Gomaa and Veronica Soebarto and Wassim Jabi",
+      title             = "Environmental Assessment of Large-Scale 3D Printing in Construction: A Comparative Study between Cob and Concrete",
+      doi               = "10.1016/j.jclepro.2020.122463",
+      year              = "2020",
+      journal           = "Journal of Cleaner Production",
+      volume            = "270",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Alhumayani, M. Gomaa, V. Soebarto and W. Jabi, “Environmental Assessment of Large-Scale 3D Printing in Construction: A Comparative Study between Cob and Concrete”, <i>Journal of Cleaner Production</i>, vol. 270, 2020, doi: 10.1016/j.jclepro.2020.122463.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alhumayani, Hashem, Mohamed Gomaa, Veronica Soebarto, and Wassim Jabi. “Environmental Assessment of Large-Scale 3D Printing in Construction: A Comparative Study Between Cob and Concrete”. <i>Journal of Cleaner Production</i> 270 (2020). https://doi.org/10.1016/j.jclepro.2020.122463.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

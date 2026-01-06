@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: João Ribeiro, Bruno Figueiredo, Paulo Cruz, Aires Camões
+    - footer
+title: Ribeiro João, Figueiredo Bruno, Cruz Paulo, Camões Aires
 description:
 tags:
  - concrete
@@ -11,27 +12,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Concrete AM:<br/>:aca-blank: An Insight into the Control of Main Parameters ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1201/9781003023555-30" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1201/9781003023555-30</a>
+#Concrete AM&nbsp;([2022-07](date/2022/07))
+<div class="h1-like">An Insight into the Control of Main Parameters</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003023555-30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003023555-30" target="_blank">10.1201/9781003023555-30</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0908-3503" title="ORCID: 0000-0003-0908-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro_joao"><b>Ribeiro</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_bruno"><b>Figueiredo</b>&nbsp;Bruno</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9677-3627" title="ORCID: 0000-0002-9677-3627" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/camoes_aires"><b>Camões</b>&nbsp;Aires</a></span><br>
+Contribution - Structures and Architecture, pp. 245-253
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a> <a href="https://orcid.org/0000-0003-0908-3503" title="ORCID: 0000-0003-0908-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> <a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> <a href="https://orcid.org/0000-0002-9677-3627" title="ORCID: 0000-0002-9677-3627" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Structures and Architecture, pp. 245-253
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#parameter`](keyword/parameter)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%20AM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285031829" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1201/9781003023555-30" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1201/9781003023555-30?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Following applications in other industrial sectors, the integration ofAdditive Manufacturing (AM) technologies in the production of architectural components has revealed a great potential to respond to the need ofcustomisation and optimisation that the evolution ofdigital processes in architectural design has highlighted. This study establishes the foundations of a research on the application ofcementitious based materials according to Material Extrusion techniques. The knowledge gathered from the investigations of the Advanced Ceramics Laboratory (ACL), as well as parallels to other exploratory projects in 3D Printing on Concrete, supports an insight on the main control parameters inherent to these processes, allowing through experimentation to list a set ofperceived issues, particularly regarding the relationship between the material and the machine. In the absence of functional concrete extrusion equipment, the paper also describes the development of a custom laboratory-scale extrusion system that was used in the experimental tests.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
@@ -68,8 +52,38 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zaha_cunh_pere_gonc.2019.DoCBMf3PTWE/">Development of Cement-Based Mortars for 3D Printing Through Wet Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bran_dias_aros_reis.2026.UoWF/">Upcycling of Waste Fibers:<br/>Enhancing Structural Integrity in 3DCP Through Fiber Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ribe_figu_cruz_camo.2022.CA,
+      author            = "João Ribeiro and Bruno Figueiredo and Paulo Jorge Sousa Cruz and Aires Camões",
+      title             = "Concrete AM: An Insight into the Control of Main Parameters",
+      doi               = "10.1201/9781003023555-30",
+      year              = "2022",
+      pages             = "245--253",
+      booktitle         = "Structures and Architecture: A Viable Urban Perspective?",
+      editor            = "Paulo Jorge Sousa Cruz and Marie Frier Hvejsel",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Ribeiro, B. Figueiredo, P. J. S. Cruz and A. Camões, “Concrete AM: An Insight into the Control of Main Parameters”, in <i>Structures and Architecture: A Viable Urban Perspective?</i>,  2022, pp. 245–253. doi: 10.1201/9781003023555-30.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ribeiro, João, Bruno Figueiredo, Paulo Jorge Sousa Cruz, and Aires Camões. “Concrete AM: An Insight into the Control of Main Parameters”. In <i>Structures and Architecture: A Viable Urban Perspective?</i>, edited by Paulo Jorge Sousa Cruz and Marie Frier Hvejsel, 245–53, 2022. https://doi.org/10.1201/9781003023555-30.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

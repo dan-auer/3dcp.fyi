@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lukas Lachmayer, Robin Dörrie, Harald Kloft, Annika Raatz
+    - footer
+title: Lachmayer Lukas, Dörrie Robin, Kloft Harald, Raatz Annika
 description:
 tags:
  - automation
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automated Shotcrete 3D Printing:<br/>:aca-blank: Printing Interruption for Extended Component Complexity ([2021-11](date/2021/11))
-<a href="https://doi.org/10.22260/isarc2021/0098" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2021/0098</a>
+#Automated Shotcrete 3D Printing&nbsp;([2021-11](date/2021/11))
+<div class="h1-like">Printing Interruption for Extended Component Complexity</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2021/0098" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2021/0098" target="_blank">10.22260/isarc2021/0098</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachmayer_lukas"><b>Lachmayer</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span><br>
+Contribution - Proceedings of the 38th International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> <a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 38th International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#complexity`](keyword/complexity)
-    [`#component`](keyword/component)
-    [`#interruption`](keyword/interruption)
-    [`#print`](keyword/print)
-    [`#shotcrete`](keyword/shotcrete)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/interruption"><button class="btn">#interruption</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3216637008" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2021/0098" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2021/0098?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper introduces a new approach for extending the geometrical freedom of shotcrete 3D printing. Up to now, manual shotcrete manufacturing and the shotcrete printing process has been performed with a continuous material flow to avoid nozzle clogging, which is caused by the solidification of the fresh material within the printing system. However, this requires a continuous printing path for the entire component, which leads to considerable confines in terms of printable geometries. To overcome this restriction, potential factors to control the printing interruption process were determined and quantitatively investigated. Based on 3D specimen data, the most suitable parameter settings for realizing deterministic short term printing gaps without nozzle blockage were identified. For final validation, these settings served in the robotic fabrication of a test element and showed promising results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
       <li><a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>, <a href="../../../author/mainka_jeldrik"><b>Mainka</b> Jeldrik</a>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/wirth_franz"><b>Wirth</b> Franz</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../herr_main_lind_wirt.2018.DFICS/">Digitally Fabricated Innovative Concrete Structures</a></li>
       <li><a href="../../../author/jassmi_hamad"><b>Jassmi</b> Hamad</a>, <a href="../../../author/najjar_fady"><b>Najjar</b> Fady</a>, <a href="../../../author/mourad_ismail_abdel-hamid"><b>Mourad</b> Abdel-Hamid</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../jass_najj_mour.2018.LS3P/">Large-Scale 3D Printing:<br/>The Way Forward</a></li>
@@ -72,8 +53,8 @@ tags:
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/he_hui"><b>He</b> Hui</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../pan_jian_he_wang.2021.EoSBUoILBSo3PCM/">Effect of Structural Build-Up on Inter-Layer Bond Strength of 3D Printed Cement Mortars</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/ali_sufiyan_syed"><b>Ali</b> Syed</a>, <a href="../../../author/haq_moin_mohd"><b>Haq</b> Mohd</a>, <a href="../../../author/khan_ahmad_rizwan"><b>Khan</b> Rizwan</a>, <a href="../../../author/hashmi_fuzail_ahmad"><b>Hashmi</b> Ahmad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ali_haq_khan_hash.2025.ACRo3PoC/">A Comprehensive Review on 3D Printing of Concrete:<br/>Materials, Methods and Mechanical Properties</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>
@@ -86,4 +67,33 @@ tags:
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bohl_mai_freu_lach.2022.IoMaPPoHSPoS3PE/">Influence of Material and Process Parameters on Hardened State Properties of Shotcrete 3D Printed Elements</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorr_klof.2022.FFCRPPAfRCEUS/">Force-Flow Compliant Robotic Path-Planning Approach for Reinforced Concrete Elements Using SC3DP</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lach_dorr_klof_raat.2021.AS3P,
+      author            = "Lukas Lachmayer and Robin Dörrie and Harald Kloft and Annika Raatz",
+      title             = "Automated Shotcrete 3D Printing: Printing Interruption for Extended Component Complexity",
+      doi               = "10.22260/isarc2021/0098",
+      year              = "2021",
+      booktitle         = "Proceedings of the 38th International Symposium on Automation and Robotics in Construction",
+      editor            = "Chen Feng and Thomas Linner and Ioannis Brilakis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Lachmayer, R. Dörrie, H. Kloft and A. Raatz, “Automated Shotcrete 3D Printing: Printing Interruption for Extended Component Complexity”, in <i>Proceedings of the 38th International Symposium on Automation and Robotics in Construction</i>,  2021. doi: 10.22260/isarc2021/0098.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lachmayer, Lukas, Robin Dörrie, Harald Kloft, and Annika Raatz. “Automated Shotcrete 3D Printing: Printing Interruption for Extended Component Complexity”. In <i>Proceedings of the 38th International Symposium on Automation and Robotics in Construction</i>, edited by Chen Feng, Thomas Linner, and Ioannis Brilakis, 2021. https://doi.org/10.22260/isarc2021/0098.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

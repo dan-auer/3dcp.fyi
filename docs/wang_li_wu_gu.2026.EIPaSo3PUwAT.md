@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangyu Wang, Baidian Li, Fei Wu, Kan Gu, Yi Tan, Xiang Zhou, Hongyuan He, Yufa Zhang
+    - footer
+title: Wang Xiangyu, Li Baidian, Wu Fei, Gu Kan, Tan Yi, Zhou Xiang, He Hongyuan, Zhang Yufa
 description:
 tags:
  - enhancement
@@ -14,34 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/16/1/53/pdf?version=1766481019) Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings ([2025-12](date/2025/12))
-<a href="https://doi.org/10.3390/buildings16010053" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings16010053</a>
+#Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings ([2025-12](date/2025/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/16/1/53/pdf?version=1766481019) <a href="https://doi.org/10.3390/buildings16010053" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings16010053" target="_blank">10.3390/buildings16010053</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/li_baidian"><b>Li</b>&nbsp;Baidian</a></span>, <a href="../../../author/wu_fei"><b>Wu</b>&nbsp;Fei</a></span>, <a href="../../../author/gu_kan"><b>Gu</b>&nbsp;Kan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8902-4778" title="ORCID: 0000-0001-8902-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_yi"><b>Tan</b>&nbsp;Yi</a></span>, <a href="../../../author/zhou_xiang"><b>Zhou</b>&nbsp;Xiang</a></span>, <a href="../../../author/he_hongyuan"><b>He</b>&nbsp;Hongyuan</a></span>, <a href="../../../author/zhang_yufa"><b>Zhang</b>&nbsp;Yufa</a></span><br>
+Journal Article - Buildings, Vol. 16, Iss. 1, No. 53
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_baidian"><b>Li</b> Baidian</a>
-,     <a href="../../../author/wu_fei"><b>Wu</b> Fei</a>
-,     <a href="../../../author/gu_kan"><b>Gu</b> Kan</a>
-,     <a href="../../../author/tan_yi"><b>Tan</b> Yi</a> <a href="https://orcid.org/0000-0001-8902-4778" title="ORCID: 0000-0001-8902-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_xiang"><b>Zhou</b> Xiang</a>
-,     <a href="../../../author/he_hongyuan"><b>He</b> Hongyuan</a>
-,     <a href="../../../author/zhang_yufa"><b>Zhang</b> Yufa</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 16, Iss. 1, No. 53
-
-:aca-blank:{ .lg .middle}
-    [`#enhancement`](keyword/enhancement)
-    [`#interlayer`](keyword/interlayer)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#sustainability`](keyword/sustainability)
-    [`#tailing`](keyword/tailing)
-
-
--------------------------
+<a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Interlayer%20Properties%20and%20Sustainability%20of%203D-Printed%20UHPC%20with%20Antimony%20Tailings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7116981644" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings16010053" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings16010053?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the interlayer properties and sustainability of 3D-printed ultra-high-performance concrete (UHPC) modified with antimony tailings (ATs). The different AT ratios considered were 2.7, 5.4, 8.1, 10.8, and 13.5 wt% additions. The mechanical experiments show the optimal concentration resulting in compressive and flexural strength of 11.2% and 17.2% enhancement at 28 days, respectively. SEM analysis revealed that AT enhances the interlayer strength of 3D-printed UHPC and influences the anisotropic behavior of the matrix around steel fibers. X-CT demonstrated that increasing the AT from the compared group to 13.5% reduced the pore volume from 2.02% to 0.30%. Furthermore, an environmental impact assessment of the 10.8 wt% AT exhibited a 32.5% reduction in key indicators including abiotic depletion (ADP), acidification potential (AP), global warming potential (GWP), and ozone depletion potential (ODP). Consequently, UHPC incorporating AT offers superior environmental sustainability in the practical construction of 3D-printed concrete. This research provides practical guidance in optimizing 3D-printed UHPC engineering, further facilitating the integrated design and manufacturing of multi-layer structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/ge_yutian"><b>Ge</b> Yutian</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../huan_ge_wang_wang.2024.RCBPUiFR3PC/">Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete:<br/>An Eco-Friendly Substitute to Conventional Fine Aggregates</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a></li>
@@ -77,7 +53,38 @@ tags:
       <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/sun_yuanfeng"><b>Sun</b> Yuanfeng</a>, <a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_zhan_sun_pi.2024.MPaFMo3PUHPC/">Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_li_wu_gu.2026.EIPaSo3PUwAT,
+      author            = "Xiangyu Wang and Baidian Li and Fei Wu and Kan Gu and Yi Tan and Xiang Zhou and Hongyuan He and Yufa Zhang",
+      title             = "Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings",
+      doi               = "10.3390/buildings16010053",
+      year              = "2026",
+      journal           = "Buildings",
+      volume            = "16",
+      number            = "1",
+      pages             = "53",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Wang, “Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings”, <i>Buildings</i>, vol. 16, no. 1, p. 53, 2026, doi: 10.3390/buildings16010053.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Xiangyu, Baidian Li, Fei Wu, Kan Gu, Yi Tan, Xiang Zhou, Hongyuan He, and Yufa Zhang. “Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings”. <i>Buildings</i> 16, no. 1 (2026): 53. https://doi.org/10.3390/buildings16010053.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

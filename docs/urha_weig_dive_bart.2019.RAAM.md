@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pinar Urhal, Andrew Weightman, Carl Diver, Paulo Bartolo
+    - footer
+title: Urhal Pinar, Weightman Andrew, Diver Carl, Bartolo Paulo
 description:
 tags:
  - additive
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://pure.manchester.ac.uk/ws/files/100616871/Finalversion_Manuscript_03.05.2019.docx) Robot-Assisted Additive Manufacturing:<br/>:aca-blank: A Review ([2019-05](date/2019/05))
-<a href="https://doi.org/10.1016/j.rcim.2019.05.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rcim.2019.05.005</a>
+#Robot-Assisted Additive Manufacturing&nbsp;([2019-05](date/2019/05))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://pure.manchester.ac.uk/ws/files/100616871/Finalversion_Manuscript_03.05.2019.docx) <a href="https://doi.org/10.1016/j.rcim.2019.05.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rcim.2019.05.005" target="_blank">10.1016/j.rcim.2019.05.005</a>
 
--------------------------
+<a href="../../../author/urhal_pinar"><b>Urhal</b>&nbsp;Pinar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7232-4942" title="ORCID: 0000-0001-7232-4942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weightman_andrew"><b>Weightman</b>&nbsp;Andrew</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8743-1182" title="ORCID: 0000-0002-8743-1182" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/diver_carl"><b>Diver</b>&nbsp;Carl</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3683-726X" title="ORCID: 0000-0003-3683-726X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b>&nbsp;Paulo</a></span><br>
+Journal Article - Robotics and Computer-Integrated Manufacturing, Vol. 59, pp. 335-345
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/urhal_pinar"><b>Urhal</b> Pinar</a>
-,     <a href="../../../author/weightman_andrew"><b>Weightman</b> Andrew</a> <a href="https://orcid.org/0000-0001-7232-4942" title="ORCID: 0000-0001-7232-4942" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/diver_carl"><b>Diver</b> Carl</a> <a href="https://orcid.org/0000-0002-8743-1182" title="ORCID: 0000-0002-8743-1182" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="https://orcid.org/0000-0003-3683-726X" title="ORCID: 0000-0003-3683-726X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Robotics and Computer-Integrated Manufacturing, Vol. 59, pp. 335-345
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#assistance`](keyword/assistance)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#review`](keyword/review)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assistance"><button class="btn">#assistance</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robot-Assisted%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85065531180&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2946421367" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rcim.2019.05.005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rcim.2019.05.005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The additive manufacturing and the robotic applications are tremendously increasing in the manufacturing field. This review paper discusses the concept of robotic-assisted additive manufacturing. The leading additive manufacturing methods that can be used with a robotic system are presented and discussed in detail. The information flow required to produce an object from a CAD model through a robotic-assisted system, different from the traditional information flow in a conventional additive manufacturing approach is also detailed. Examples of the use of robotic-assisted additive manufacturing systems are presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
@@ -70,8 +52,8 @@ tags:
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/li_l_chenglin"><b>Li</b> Chenglin</a>, <a href="../../../author/jiao_c_y"><b>Jiao</b> Y.</a>, <a href="../../../author/ren_kai"><b>Ren</b> Kai</a>, <a href="../../../author/liu_n"><b>Liu</b> N.</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_jiao_ren_liu.2026.ANPMSfDRMAM/">A Novel Pivot-Move Strategy for Dual-Robot Manipulator Additive Manufacturing:<br/>Enabling Collision Avoidance Without Halting Deposition</a></li>
       <li><a href="../../../author/olivo_eftekhar_nik"><b>Olivo</b> Nik</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/milano_francesco"><b>Milano</b> Francesco</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../oliv_picc_mila_gram.2025.TEoHC3TNDC/">Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization</a></li>
@@ -82,4 +64,34 @@ tags:
       <li><a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a>, <a href="../../../author/mohammed_abdullah"><b>Mohammed</b> Abdullah</a>, <a href="../../../author/wang_lihui"><b>Wang</b> Lihui</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../hagh_moha_wang.2021.EEMR3PfLSC/">Energy Efficient Multi-Robotic 3D Printing for Large-Scale Construction:<br/>Could This Technique Contribute to Sustainability of Future Buildings?</a></li>
       <li><a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/chettibi_taha"><b>Chettibi</b> Taha</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/dherbomez_gerald"><b>Dherbomez</b> Gerald</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lakh_chet_bela_dher.2020.RAMoFAGBoBM/">Robotized Additive Manufacturing of Funicular Architectural Geometries Based on Building Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{urha_weig_dive_bart.2019.RAAM,
+      author            = "Pinar Urhal and Andrew Weightman and Carl Diver and Paulo Jorge Bartolo",
+      title             = "Robot-Assisted Additive Manufacturing: A Review",
+      doi               = "10.1016/j.rcim.2019.05.005",
+      year              = "2019",
+      journal           = "Robotics and Computer-Integrated Manufacturing",
+      volume            = "59",
+      pages             = "335--345",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Urhal, A. Weightman, C. Diver and P. J. Bartolo, “Robot-Assisted Additive Manufacturing: A Review”, <i>Robotics and Computer-Integrated Manufacturing</i>, vol. 59, pp. 335–345, 2019, doi: 10.1016/j.rcim.2019.05.005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Urhal, Pinar, Andrew Weightman, Carl Diver, and Paulo Jorge Bartolo. “Robot-Assisted Additive Manufacturing: A Review”. <i>Robotics and Computer-Integrated Manufacturing</i> 59 (2019): 335–45. https://doi.org/10.1016/j.rcim.2019.05.005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

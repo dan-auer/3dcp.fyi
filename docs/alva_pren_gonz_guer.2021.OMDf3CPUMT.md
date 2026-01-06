@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Martina Álvarez-Fernández, María Prendes-Gero, Celestino González-Nicieza, Diego-José Guerrero-Miguel, Juan Martínez-Martínez
+    - footer
+title: Álvarez-Fernández Martina, Prendes-Gero María, González-Nicieza Celestino, Guerrero-Miguel Diego-José, Martínez-Martínez Juan
 description:
 tags:
  - case
@@ -15,32 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/13/3/1568/pdf?version=1612275404) Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>:aca-blank: A Case Study in Spain ([2021-02](date/2021/02))
-<a href="https://doi.org/10.3390/su13031568" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su13031568</a>
+#Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings&nbsp;([2021-02](date/2021/02))
+<div class="h1-like">A Case Study in Spain</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/13/3/1568/pdf?version=1612275404) <a href="https://doi.org/10.3390/su13031568" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su13031568" target="_blank">10.3390/su13031568</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5681-6530" title="ORCID: 0000-0002-5681-6530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b>&nbsp;Martina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9125-4863" title="ORCID: 0000-0001-9125-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b>&nbsp;María</a></span>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b>&nbsp;Celestino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9125-4860" title="ORCID: 0000-0002-9125-4860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b>&nbsp;Diego-José</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4613-3979" title="ORCID: 0000-0003-4613-3979" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinez-martinez_enrique_juan"><b>Martínez-Martínez</b>&nbsp;Juan</a></span><br>
+Journal Article - Sustainability, Vol. 13, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a> <a href="https://orcid.org/0000-0002-5681-6530" title="ORCID: 0000-0002-5681-6530" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a> <a href="https://orcid.org/0000-0001-9125-4863" title="ORCID: 0000-0001-9125-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>
-,     <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> <a href="https://orcid.org/0000-0002-9125-4860" title="ORCID: 0000-0002-9125-4860" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martinez-martinez_enrique_juan"><b>Martínez-Martínez</b> Juan</a> <a href="https://orcid.org/0000-0003-4613-3979" title="ORCID: 0000-0003-4613-3979" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 13, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#case`](keyword/case)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#mixing`](keyword/mixing)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#tailing`](keyword/tailing)
-
-
--------------------------
+<a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimum%20Mix-Design%20for%203D%20Concrete%20Printing%20Using%20Mining-Tailings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100659066&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3126247852" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su13031568" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su13031568?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A mix design, using a mixture of sand and mine tailings as aggregates, was selected to produce a cement-based 3D printing material suitable for building purposes. Different dosage rates of mine tailings, water, superplasticizers, and accelerators were added to the mixture with the end of looking for the optimum strength, workability and buildability. The term buildability includes aspects such as pumpability and printability. Different tests were carried out in order to compare homogeneous material strength with printed material strength, to evaluate the bonding strength between filaments, and to establish the relationship between fresh behaviour and buildability for printing applications. Finally, a mixture with 20% of recycled materials demonstrated its ability to be used as concrete printing material in the construction industry in the frame of circular economy concept.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
@@ -75,8 +54,8 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/shukla_kant_bishnu"><b>Shukla</b> Bishnu</a>, <a href="../../../author/bharti_gaurav"><b>Bharti</b> Gaurav</a>, <a href="../../../author/parashar_bhupender"><b>Parashar</b> Bhupender</a>, <a href="../../../author/sharma_kumar_pushpendra"><b>Sharma</b> Pushpendra</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../shuk_bhar_para_shar.2025.VItPo3CPfSC/">Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction:<br/>Current Status and Future Prospects</a></li>
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../alva_guer_gonz_pren.2025.MwMTA/">Mortars with Mining Tailings Aggregates:<br/>Implications for Additive Manufacturing</a></li>
@@ -101,4 +80,34 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alva_pren_gonz_guer.2021.OMDf3CPUMT,
+      author            = "Martina Inmaculada Álvarez-Fernández and María Belén Prendes-Gero and Celestino González-Nicieza and Diego-José Guerrero-Miguel and Juan Enrique Martínez-Martínez",
+      title             = "Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings: A Case Study in Spain",
+      doi               = "10.3390/su13031568",
+      year              = "2021",
+      journal           = "Sustainability",
+      volume            = "13",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. I. Álvarez-Fernández, M. B. Prendes-Gero, C. González-Nicieza, D.-J. Guerrero-Miguel and J. E. Martínez-Martínez, “Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings: A Case Study in Spain”, <i>Sustainability</i>, vol. 13, no. 3, 2021, doi: 10.3390/su13031568.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Álvarez-Fernández, Martina Inmaculada, María Belén Prendes-Gero, Celestino González-Nicieza, Diego-José Guerrero-Miguel, and Juan Enrique Martínez-Martínez. “Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings: A Case Study in Spain”. <i>Sustainability</i> 13, no. 3 (2021). https://doi.org/10.3390/su13031568.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

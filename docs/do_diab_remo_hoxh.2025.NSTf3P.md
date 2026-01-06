@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Duc Do, Zeinab Diab, Sébastien Rémond, Dashnor Hoxha
+    - footer
+title: Do Duc, Diab Zeinab, Rémond Sébastien, Hoxha Dashnor
 description:
 tags:
  - numeric
@@ -12,28 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical Simulation-Tools for 3D Printing ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1002/9781394352081.ch7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/9781394352081.ch7</a>
+#Numerical Simulation-Tools for 3D Printing ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9781394352081.ch7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781394352081.ch7" target="_blank">10.1002/9781394352081.ch7</a>
 
--------------------------
+<a href="../../../author/do_phi_duc"><b>Do</b>&nbsp;Duc</a></span>, <a href="../../../author/diab_zeinab"><b>Diab</b>&nbsp;Zeinab</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b>&nbsp;Dashnor</a></span><br>
+Contribution - 3D Concrete Printing, pp. 189-217
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/do_phi_duc"><b>Do</b> Duc</a>
-,     <a href="../../../author/diab_zeinab"><b>Diab</b> Zeinab</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing, pp. 189-217
-
-:aca-blank:{ .lg .middle}
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation-Tools%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004529485&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406548946" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/9781394352081.ch7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/9781394352081.ch7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This chapter presents an overview of the tools, approaches and recent results of numerical modeling in the field of 3D concrete printing. After summarizing digital tools for geometric modeling and virtual printing, the chapter deals the state of the art in digital modeling of the 3D printing process. In the context of the construction sector's move toward digitalization, the integration of BIM (building information modeling) with 3D printing activities has become a challenge for many research efforts. The developments and applications of numerical tools in the 3D printing process for concrete structures have demonstrated the effectiveness of numerical modeling in this field. The stochastic optimization procedure could be widely useful for establishing design regulations for structures built using 3D printing. On a large scale, the interest of numerical modeling lies in predicting failure modes such as elastic buckling and plastic collapse of the structure, phenomena commonly observed during printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chan_schl_savi.2020.ELMtStPPo3PCM/">Extended-Lattice-Model to Simulate the Printing-Process of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chan_xu_chen_gan.2021.ADLMfAoBPo3PC/">A Discrete Lattice-Model for Assessment of Buildability Performance of 3D Printed Concrete</a></li>
@@ -99,7 +81,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{do_diab_remo_hoxh.2025.NSTf3P,
+      author            = "Duc Phi Do and Zeinab Diab and Sébastien Rémond and Dashnor Hoxha",
+      title             = "Numerical Simulation-Tools for 3D Printing",
+      doi               = "10.1002/9781394352081.ch7",
+      year              = "2025",
+      pages             = "189--217",
+      booktitle         = "3D Concrete Printing: State of the Art and Applications",
+      editor            = "Arnaud Perrot and Yohan Jacquet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. P. Do, Z. Diab, S. Rémond and D. Hoxha, “Numerical Simulation-Tools for 3D Printing”, in <i>3D Concrete Printing: State of the Art and Applications</i>,  2025, pp. 189–217. doi: 10.1002/9781394352081.ch7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Do, Duc Phi, Zeinab Diab, Sébastien Rémond, and Dashnor Hoxha. “Numerical Simulation-Tools for 3D Printing”. In <i>3D Concrete Printing: State of the Art and Applications</i>, edited by Arnaud Perrot and Yohan Jacquet, 189–217, 2025. https://doi.org/10.1002/9781394352081.ch7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Raza, Zhang Junjie, Jiahui Fan, Muhammad Umar, Muhammad Ali, Safdar Iqbal, Chengfang Yuan
+    - footer
+title: Raza Ali, Junjie Zhang, Fan Jiahui, Umar Muhammad, Ali Muhammad, Iqbal Safdar, Yuan Chengfang
 description:
 tags:
  - cement
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2025.112973) Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.jobe.2025.112973" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112973</a>
+#Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.112973) <a href="https://doi.org/10.1016/j.jobe.2025.112973" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112973" target="_blank">10.1016/j.jobe.2025.112973</a>
 
--------------------------
+<a href="../../../author/raza_ali"><b>Raza</b>&nbsp;Ali</a></span>, <a href="../../../author/junjie_zhang"><b>Junjie</b>&nbsp;Zhang</a></span>, <a href="../../../author/fan_jiahui"><b>Fan</b>&nbsp;Jiahui</a></span>, <a href="../../../author/umar_muhammad"><b>Umar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/ali_faizan_muhammad"><b>Ali</b>&nbsp;Muhammad</a></span>, <a href="../../../author/iqbal_safdar"><b>Iqbal</b>&nbsp;Safdar</a></span>, <a href="../../../author/yuan_chengfang"><b>Yuan</b>&nbsp;Chengfang</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112973
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/raza_ali"><b>Raza</b> Ali</a>
-,     <a href="../../../author/junjie_zhang"><b>Junjie</b> Zhang</a>
-,     <a href="../../../author/fan_jiahui"><b>Fan</b> Jiahui</a>
-,     <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a>
-,     <a href="../../../author/ali_faizan_muhammad"><b>Ali</b> Muhammad</a>
-,     <a href="../../../author/iqbal_safdar"><b>Iqbal</b> Safdar</a>
-,     <a href="../../../author/yuan_chengfang"><b>Yuan</b> Chengfang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112973
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#comprehension`](keyword/comprehension)
-    [`#engineered`](keyword/engineered)
-    [`#integration`](keyword/integration)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comprehensive%20Study%20on%20the%20Microstructural%20and%20Mechanical%20Performance%20of%203D-Printed%20Engineered%20Cementitious%20Composites%20with%20Yellow%20River%20Sand%20Integration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006779065&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410615687" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112973" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112973?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of engineered cementitious composites (3DP-ECC) is a cutting-edge method that enables digital construction without steel reinforcement. This study optimizes the 3DP-ECC mix by evaluating its fresh and hardened properties, incorporating Yellow River sand (YRS) as a sustainable alternative to quartz sand, and addressing environmental and economic concerns. Mechanical properties were assessed along the X, Y, and Z printing orientations and compared to cast specimens. Experimental tests included compressive strength, tensile strength, four-point bending, and interlayer bonding evaluations, with strain distribution and crack propagation monitored using Digital Image Correlation (DIC). Additionally, microstructural analyses through X-ray Computed Tomography (XCT) and Scanning Electron Microscopy (SEM) characterized pore and interfacial structures. Results indicated that at R50, cast and 3DP-ECC achieved ultimate tensile strengths of 7.66 MPa and 4.51 MPa, respectively, with corresponding ultimate tensile strains of 3.26% for cast ECC and 3.32% for 3DP-ECC. Similarly, the compressive strengths of the cast and Z-direction 3DP-ECC specimens reached 51.3 MPa and 46.9 MPa, respectively, indicating an 8.6% reduction, primarily attributed to interlayer discontinuities and reduced compaction in the printed matrix. At R50, the load-deflection behavior showed that both cast and 3DP-ECC in the Z-direction exhibited better crack resistance. In contrast, the X- and Y-direction specimens showed 14% and 16% lower strength, respectively, due to weak directional anisotropy and fiber misalignment. Furthermore, microstructural analysis revealed increased porosity in 3DP-ECC compared to cast specimens, primarily due to directional anisotropy and interlayer bonding. These factors influence pore distribution, fiber alignment, and matrix compactness, affecting the overall mechanical performance. This study highlights YRS as a sustainable alternative in 3DP-ECC, improving material efficiency and structural performance in modern construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../asla_zhan.2024.S3PCSUHQSRM/">Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bakh_zafa_hoja.2025.ASoAHTDi3PECCRw8F/">A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers</a></li>
@@ -109,11 +83,40 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/yuan_chengfang"><b>Yuan</b> Chengfang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../raza_yuan.2025.DMaMPo3PECCwYRSUCIWDC/">Degradation Mechanisms and Microstructural Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Under Chloride Ion Wet-Dry Cycles</a></li>
       <li><a href="../../../author/ali_faizan_muhammad"><b>Ali</b> Muhammad</a>, <a href="../../../author/qian_hui"><b>Qian</b> Hui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a>, <a href="../../../author/fenglin_liu"><b>Fenglin</b> Liu</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ali_qian_umar_feng.2025.RMaSRPo3PERwSMAF/">Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI,
+      author            = "Ali Raza and Zhang Junjie and Jiahui Fan and Muhammad Umar and Muhammad Faizan Ali and Safdar Iqbal and Chengfang Yuan",
+      title             = "Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration",
+      doi               = "10.1016/j.jobe.2025.112973",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112973",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Raza, “Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration”, <i>Journal of Building Engineering</i>, p. 112973, 2025, doi: 10.1016/j.jobe.2025.112973.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Raza, Ali, Zhang Junjie, Jiahui Fan, Muhammad Umar, Muhammad Faizan Ali, Safdar Iqbal, and Chengfang Yuan. “Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration”. <i>Journal of Building Engineering</i>, 2025, 112973. https://doi.org/10.1016/j.jobe.2025.112973.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

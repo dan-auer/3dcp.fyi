@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Julie Assunção Badan, Kunaljit Chadha, Lauren Vasey, Coralie Brumaud, Edwin Escamilla, Fabio Gramazio, Matthias Kohler, Guillaume Habert
+    - footer
+title: Assunção Badan Julie, Chadha Kunaljit, Vasey Lauren, Brumaud Coralie, Escamilla Edwin, Gramazio Fabio, Kohler Matthias, Habert Guillaume
 description:
 tags:
  - additive
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2024.105545) Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.autcon.2024.105545" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105545</a>
+#Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2024.105545) <a href="https://doi.org/10.1016/j.autcon.2024.105545" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105545" target="_blank">10.1016/j.autcon.2024.105545</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-4616-9391" title="ORCID: 0009-0005-4616-9391" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/assuncao-badan_julie"><b>Assunção Badan</b>&nbsp;Julie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1438-1743" title="ORCID: 0000-0002-1438-1743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chadha_kunaljit"><b>Chadha</b>&nbsp;Kunaljit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0339-3001" title="ORCID: 0000-0002-0339-3001" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vasey_lauren"><b>Vasey</b>&nbsp;Lauren</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8892-9214" title="ORCID: 0000-0002-8892-9214" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brumaud_coralie"><b>Brumaud</b>&nbsp;Coralie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8677-161X" title="ORCID: 0000-0002-8677-161X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/escamilla_zea_edwin"><b>Escamilla</b>&nbsp;Edwin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/habert_guillaume"><b>Habert</b>&nbsp;Guillaume</a></span><br>
+Journal Article - Automation in Construction, Vol. 165, No. 105545
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/assuncao-badan_julie"><b>Assunção Badan</b> Julie</a> <a href="https://orcid.org/0009-0005-4616-9391" title="ORCID: 0009-0005-4616-9391" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a> <a href="https://orcid.org/0000-0002-1438-1743" title="ORCID: 0000-0002-1438-1743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a> <a href="https://orcid.org/0000-0002-0339-3001" title="ORCID: 0000-0002-0339-3001" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a> <a href="https://orcid.org/0000-0002-8892-9214" title="ORCID: 0000-0002-8892-9214" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/escamilla_zea_edwin"><b>Escamilla</b> Edwin</a> <a href="https://orcid.org/0000-0002-8677-161X" title="ORCID: 0000-0002-8677-161X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 165, No. 105545
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#carbon`](keyword/carbon)
-    [`#contribution`](keyword/contribution)
-    [`#environment`](keyword/environment)
-    [`#low`](keyword/low)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#process`](keyword/process)
-    [`#production`](keyword/production)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/contribution"><button class="btn">#contribution</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Contribution%20of%20Production%20Processes%20in%20Environmental%20Impact%20of%20Low-Carbon%20Materials%20Made%20by%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196221901&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399764487" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105545" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105545?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper compares conventional earth construction with innovative additive techniques. The goal is to assess the sustainability of employing digital fabrication in earth construction, with a particular emphasis on analyzing the Global Warming Potential. The research also investigates how printing speed and resolution impact environmental outcomes. Using a Cradle-to-Gate Life Cycle Assessment model, the analysis reveals that integrating digital fabrication leads to an overall increase in environmental impact across all cases studied. The environmental impact of 1m3 of digitally fabricated earth-based material is nearly double that of conventional earth techniques, ranging from 65 to 20 kgCO2eq/m3 compared to 20–40 kgCO2eq/m3. This emphasizes the urgent need to reduce material usage in digitally fabricated structures. Higher system resolution leads to increased environmental impacts and may require the same construction time as conventional methods. These findings underscore the importance of carefully weighing the trade-offs between the benefits of digital fabrication and its potential environmental drawbacks.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../agus_jipa_habe.2019.EAoMFBECwDFT/">Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques</a></li>
@@ -91,7 +64,6 @@ tags:
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../kuzm_duco_fera_rous.2022.EIoEBAM/">Environmental Impact of Extrusion-Based Additive Manufacturing:<br/>Generic Model, Power-Measurements and Influence of Printing-Resolution</a></li>
-      <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../kuzm_roux_fera.2025.EIo3CP/">Environmental Impact of 3D Concrete Printing</a></li>
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mata_bisc_hube_anto.2022.DFRCFS/">Digitally Fabricated Ribbed Concrete Floor Slabs:<br/>A Sustainable Solution for Construction</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
       <li><a href="../../../author/meurer_maximilian"><b>Meurer</b> Maximilian</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../meur_cla.2021.MPoH3PCaM/">Mechanical Properties of Hardened 3D Printed Concretes and Mortars:<br/>Development of a Consistent Experimental Characterization-Strategy</a></li>
@@ -114,8 +86,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/sameh_hazem"><b>Sameh</b> Hazem</a>, <a href="../../../author/fekry_mayar"><b>Fekry</b> Mayar</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mahd_same_fekr.2025.SSo3PECD/">Structural Stability of 3D-Printed Earthen Catenary Domes:<br/>Experimental and Analytical Insights</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
       <li><a href="../../../author/ruckrich_stefanie"><b>Rückrich</b> Stefanie</a>, <a href="../../../author/austern_guy"><b>Austern</b> Guy</a>, <a href="../../../author/denay_ofer"><b>Denay</b> Ofer</a>, <a href="../../../author/seiwert_paul"><b>Seiwert</b> Paul</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ruck_aust_dena_seiw.2025.3PEFE/">3D-Printed Earth-Fiber Envelopes:<br/>Optimization of Thermal Performance and Industrial Applicability</a></li>
@@ -124,4 +96,34 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../perr_jacq_caro_mesn.2024.So3PwABaM/">Snapshot on 3D Printing with Alternative Binders and Materials:<br/>Earth, Geopolymers, Gypsum and Low-Carbon Concrete</a></li>
       <li><a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>, <a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../paqu_fure_perr.2024.3PREStCiCVOoC/">3D Printed Raw Earth Structures to Create in Cities Vegetated Oasis of Coolness</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM,
+      author            = "Julie Assunção Badan and Kunaljit Chadha and Lauren Vasey and Coralie Brumaud and Edwin Zea Escamilla and Fabio Gramazio and Matthias Daniel Kohler and Guillaume Habert",
+      title             = "Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing",
+      doi               = "10.1016/j.autcon.2024.105545",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "165",
+      pages             = "105545",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. A. Badan, “Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing”, <i>Automation in Construction</i>, vol. 165, p. 105545, 2024, doi: 10.1016/j.autcon.2024.105545.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Badan, Julie Assunção, Kunaljit Chadha, Lauren Vasey, Coralie Brumaud, Edwin Zea Escamilla, Fabio Gramazio, Matthias Daniel Kohler, and Guillaume Habert. “Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing”. <i>Automation in Construction</i> 165 (2024): 105545. https://doi.org/10.1016/j.autcon.2024.105545.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

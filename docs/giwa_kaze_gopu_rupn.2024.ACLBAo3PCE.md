@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ilerioluwa Giwa, Ali Kazemian, Vijaya Gopu, Tyson Rupnow
+    - footer
+title: Giwa Ilerioluwa, Kazemian Ali, Gopu Vijaya, Rupnow Tyson
 description:
 tags:
  - analysis
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/7/2170/pdf?version=1721030250) A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements ([2024-07](date/2024/07))
-<a href="https://doi.org/10.3390/buildings14072170" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14072170</a>
+#A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/7/2170/pdf?version=1721030250) <a href="https://doi.org/10.3390/buildings14072170" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14072170" target="_blank">10.3390/buildings14072170</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giwa_ilerioluwa"><b>Giwa</b>&nbsp;Ilerioluwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5718-4654" title="ORCID: 0000-0001-5718-4654" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gopu_vijaya"><b>Gopu</b>&nbsp;Vijaya</a></span>, <a href="../../../author/rupnow_tyson"><b>Rupnow</b>&nbsp;Tyson</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 7, No. 2170
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> <a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gopu_vijaya"><b>Gopu</b> Vijaya</a> <a href="https://orcid.org/0000-0001-5718-4654" title="ORCID: 0000-0001-5718-4654" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rupnow_tyson"><b>Rupnow</b> Tyson</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 7, No. 2170
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#bearing`](keyword/bearing)
-    [`#circular`](keyword/circular)
-    [`#compression`](keyword/compression)
-    [`#element`](keyword/element)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Compressive%20Load-Bearing-Analysis%20of%203D%20Printed%20Circular%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199602838&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400647587" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14072170" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14072170?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Large-scale construction 3D printing is a promising platform technology that can be leveraged to fabricate structural elements such as columns, piers, pipes, and culverts. In this study, the axial compression and split tensile performance of 3D-printed steel-fiber-reinforced circular elements fabricated with different configurations (hollow, hybrid, mold-cast, and fully 3D-printed) is evaluated. This study further investigates the performance of multi-material circular hybrid elements (3D-printed shells with different backfilled core materials) in an attempt to assess their suitability as a new construction paradigm. The experimental results revealed that the fully 3D-printed steel-fiberreinforced circular elements exhibited a higher load capacity (up to 36%) and a distinct crack pattern compared to the other configurations. The void ratio of circular elements has varying effects on its axial load capacity depending on the printing material and significantly influences its splitting tensile load capacity. Furthermore, the compatibility between the 3D-printed shell and the cast-in-place core is identified as an influential factor in the structural performance of the hybrid elements. The results suggest a promising construction approach where low-cement material can be utilized as infill material for a cost-effective 3D-printed permanent formwork, offering a viable solution for specific infrastructure development applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ahme_giwa_game_arce.2024.ARDLSAM/">Automated Reinforcement During Large-Scale Additive Manufacturing:<br/>Structural-Assessment of a Dual Approach</a></li>
       <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/hebert_marc"><b>Hebert</b> Marc</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ahme_giwa_game_hebe.2022.SSFRf3PEaS/">Studying Steel-Fiber-Reinforcement for 3D Printed Elements and Structures</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../aram_cald_puen.2022.3PEotCSoCS/">3D Printing Effect on the Compressive Strength of Concrete Structures</a></li>
@@ -95,8 +74,39 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/besharatian_boshra"><b>Besharatian</b> Boshra</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hasa_besh_dora.2025.ACPCP/">Additively Constructed Plain Concrete Pipes:<br/>Structural Performance and Site Implementation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{giwa_kaze_gopu_rupn.2024.ACLBAo3PCE,
+      author            = "Ilerioluwa Giwa and Ali Kazemian and Vijaya Gopu and Tyson Rupnow",
+      title             = "A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements",
+      doi               = "10.3390/buildings14072170",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "7",
+      pages             = "2170",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Giwa, A. Kazemian, V. Gopu and T. Rupnow, “A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements”, <i>Buildings</i>, vol. 14, no. 7, p. 2170, 2024, doi: 10.3390/buildings14072170.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Giwa, Ilerioluwa, Ali Kazemian, Vijaya Gopu, and Tyson Rupnow. “A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements”. <i>Buildings</i> 14, no. 7 (2024): 2170. https://doi.org/10.3390/buildings14072170.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

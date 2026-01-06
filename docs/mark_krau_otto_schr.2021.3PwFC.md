@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Slava Markin, Martin Krause, Jens Otto, Christof Schröfl, Viktor Mechtcherine
+    - footer
+title: Markin Slava, Krause Martin, Otto Jens, Schröfl Christof, Mechtcherine Viktor
 description:
 tags:
  - application
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing with Foam-Concrete:<br/>:aca-blank: From Material Design and Testing to Application and Sustainability ([2021-06](date/2021/06))
-<a href="https://doi.org/10.1016/j.jobe.2021.102870" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.102870</a>
+#3D Printing with Foam-Concrete&nbsp;([2021-06](date/2021/06))
+<div class="h1-like">From Material Design and Testing to Application and Sustainability</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.102870" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.102870" target="_blank">10.1016/j.jobe.2021.102870</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/markin_viacheslav_slava"><b>Markin</b>&nbsp;Slava</a></span>, <a href="../../../author/krause_martin"><b>Krause</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7157-2143" title="ORCID: 0000-0001-7157-2143" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/otto_jens"><b>Otto</b>&nbsp;Jens</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 43
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a> <a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>
-,     <a href="../../../author/otto_jens"><b>Otto</b> Jens</a> <a href="https://orcid.org/0000-0001-7157-2143" title="ORCID: 0000-0001-7157-2143" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> <a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 43, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#foam`](keyword/foam)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20with%20Foam-Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108347920&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3170251315" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.102870" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.102870?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Foam concrete (FC) is known to be a versatile material with distinct material properties which make it useful in applications for structural as well as insulating purposes. Application of FC in large-scale additive manufacturing, also described as 3D-printing with foam concrete, is still uncommon and the research on printable FC is still in its initial phase. This article discusses experimentally determined material properties of four different printable FCs with densities ranging from 800 kg/m3 to 1200 kg/m3. The fresh-state properties of the FC developed were determined to be specifically relevant to the 3D-printing process time interval, i.e., an age span of 30 to 150 min after water addition. The reported material properties in the hardened state include porosity, compressive strength, and thermal conductivity. Finally, possible application of the FC in 3D-printing was assessed with respect to its economical, sociological, and ecological impacts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../fall_dome_ricc_gugl.2020.3PLFCaCwCFCiToFSPaMS/">3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength</a></li>
@@ -93,8 +71,8 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_jian_li_ma.2020.MBo3PLCSwHS/">Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "68 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../card_parm_varg_rest.2026.IoVAiLFCf3P/">Incorporation of Vitrified Ashes in Lightweight Foamed Concrete for 3D Printing:<br/>Thermal and Mechanical Assessment</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
@@ -164,4 +142,33 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mark_krau_otto_schr.2021.3PwFC,
+      author            = "Slava Viacheslav Markin and Martin Krause and Jens Otto and Christof Schröfl and Viktor Mechtcherine",
+      title             = "3D Printing with Foam-Concrete: From Material Design and Testing to Application and Sustainability",
+      doi               = "10.1016/j.jobe.2021.102870",
+      year              = "2021",
+      journal           = "Journal of Building Engineering",
+      volume            = "43",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. V. Markin, M. Krause, J. Otto, C. Schröfl and V. Mechtcherine, “3D Printing with Foam-Concrete: From Material Design and Testing to Application and Sustainability”, <i>Journal of Building Engineering</i>, vol. 43, 2021, doi: 10.1016/j.jobe.2021.102870.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Markin, Slava Viacheslav, Martin Krause, Jens Otto, Christof Schröfl, and Viktor Mechtcherine. “3D Printing with Foam-Concrete: From Material Design and Testing to Application and Sustainability”. <i>Journal of Building Engineering</i> 43 (2021). https://doi.org/10.1016/j.jobe.2021.102870.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

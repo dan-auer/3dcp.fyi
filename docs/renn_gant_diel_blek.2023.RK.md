@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Philipp Rennen, Stefan Gantner, Gido Dielemans, Lazlo Bleker, Nikoletta Christidi, Robin Dörrie, Majid Hojjat, Inka Mai (née Dressler), Karam Mawas, Dirk Lowke, Pierluigi D'Acunto, Kathrin Dörfler, Norman Hack, Mariana Popescu
+    - footer
+title: Rennen Philipp, Gantner Stefan, Dielemans Gido, Bleker Lazlo, Christidi Nikoletta, Dörrie Robin, Hojjat Majid, Mai (née Dressler) Inka, Mawas Karam, Lowke Dirk, D'Acunto Pierluigi, Dörfler Kathrin, Hack Norman, Popescu Mariana
 description:
 tags:
  - bridge
@@ -16,42 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.frontiersin.org/articles/10.3389/fbuil.2023.1269000/pdf?isPublishedV2=False) Robotic Knitcrete:<br/>:aca-blank: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D Knitted Formwork ([2023-12](date/2023/12))
-<a href="https://doi.org/10.3389/fbuil.2023.1269000" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fbuil.2023.1269000</a>
+#Robotic Knitcrete&nbsp;([2023-12](date/2023/12))
+<div class="h1-like">Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D Knitted Formwork</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fbuil.2023.1269000/pdf?isPublishedV2=False) <a href="https://doi.org/10.3389/fbuil.2023.1269000" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fbuil.2023.1269000" target="_blank">10.3389/fbuil.2023.1269000</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0188-3314" title="ORCID: 0000-0002-0188-3314" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rennen_philipp"><b>Rennen</b>&nbsp;Philipp</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gantner_stefan"><b>Gantner</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0925-6112" title="ORCID: 0000-0002-0925-6112" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dielemans_gido"><b>Dielemans</b>&nbsp;Gido</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-7313-0750" title="ORCID: 0009-0008-7313-0750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bleker_lazlo"><b>Bleker</b>&nbsp;Lazlo</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-3291-0521" title="ORCID: 0009-0005-3291-0521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/christidi_nikoletta"><b>Christidi</b>&nbsp;Nikoletta</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <a href="../../../author/hojjat_majid"><b>Hojjat</b>&nbsp;Majid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mawas_karam"><b>Mawas</b>&nbsp;Karam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4005-2596" title="ORCID: 0000-0003-4005-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b>&nbsp;Pierluigi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5524-852X" title="ORCID: 0000-0001-5524-852X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/popescu_mariana"><b>Popescu</b>&nbsp;Mariana</a></span><br>
+Journal Article - Frontiers in Built Environment, Vol. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a> <a href="https://orcid.org/0000-0002-0188-3314" title="ORCID: 0000-0002-0188-3314" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> <a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> <a href="https://orcid.org/0000-0002-0925-6112" title="ORCID: 0000-0002-0925-6112" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bleker_lazlo"><b>Bleker</b> Lazlo</a> <a href="https://orcid.org/0009-0008-7313-0750" title="ORCID: 0009-0008-7313-0750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/christidi_nikoletta"><b>Christidi</b> Nikoletta</a> <a href="https://orcid.org/0009-0005-3291-0521" title="ORCID: 0009-0005-3291-0521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hojjat_majid"><b>Hojjat</b> Majid</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> <a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="https://orcid.org/0000-0003-4005-2596" title="ORCID: 0000-0003-4005-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/popescu_mariana"><b>Popescu</b> Mariana</a> <a href="https://orcid.org/0000-0001-5524-852X" title="ORCID: 0000-0001-5524-852X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers in Built Environment, Vol. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bridge`](keyword/bridge)
-    [`#computer`](keyword/computer)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#formwork`](keyword/formwork)
-    [`#knit`](keyword/knit)
-    [`#robot`](keyword/robot)
-    [`#shotcrete`](keyword/shotcrete)
-
-
--------------------------
+<a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/knit"><button class="btn">#knit</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Knitcrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180459567&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389435960" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3389/fbuil.2023.1269000" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3389/fbuil.2023.1269000?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The research project presented here aims to develop a design-informed manufacturing process for complex concrete shell structures in additive manufacturing and thus overcome limitations of traditional construction methods such as formwork- and labor intensity. To achieve this, an effort was made to merge the two technologies of CNC knitted stay-in-place formwork, known as KnitCrete, and robotically applied shotcrete, known as Shotcrete 3D Printing (SC3DP), and thereby reduce their respective limitations. The proposed workflow unites both digital fabrication methods into a seamless process that additionally integrates computational form finding, robotically applied fiber reinforcement, CNC post processing and geometric quality verification to ensure precision and efficiency. As part of a cross-university, research-based teaching format, this concept was implemented in the construction of a full-scale pedestrian bridge, which served as a demonstrator to evaluate the capabilities and limitations of the process. While overcoming some challenges during the process, the successful prove of concept shows a significant leap in digital fabrication of complex concrete geometry, reducing reliance on labor-intensive methods. The results shown in this paper make this fabrication approach a promising starting point for further developments in additive manufacturing in the construction sector.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../freu_lowk.2022.ILRiS3P/">Inter-Layer Reinforcement in Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gant_renn_roth_huhn.2022.CW/">Core Winding:<br/>Force-Flow-Oriented Fiber-Reinforcement in Additive Manufacturing with Concrete</a></li>
@@ -90,8 +59,8 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mai_freu_lowk.2020.CoSPPwS3PbADaPP/">Control of Strand Properties Produced with Shotcrete 3D Printing by Accelerator Dosage and Process Parameters</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../mawa_mabo_gerk.2022.AGIiDF/">Automatic Geometric Inspection in Digital Fabrication</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
@@ -105,4 +74,33 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
       <li><a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../renn_gant_roth_baz.2024.SEoS3PaRFWfTSE/">Structural Evaluation of Shotcrete 3D Printing and Robotic Fiber Winding for Thin-Shell Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{renn_gant_diel_blek.2023.RK,
+      author            = "Philipp Rennen and Stefan Gantner and Gido Dielemans and Lazlo Bleker and Nikoletta Christidi and Robin Dörrie and Majid Hojjat and Inka Mai (née Dressler) and Karam Mawas and Dirk Lowke and Pierluigi D'Acunto and Kathrin Dörfler and Norman Peter Hack and Mariana Popescu",
+      title             = "Robotic Knitcrete: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D Knitted Formwork",
+      doi               = "10.3389/fbuil.2023.1269000",
+      year              = "2023",
+      journal           = "Frontiers in Built Environment",
+      volume            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Rennen, “Robotic Knitcrete: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D Knitted Formwork”, <i>Frontiers in Built Environment</i>, vol. 9, 2023, doi: 10.3389/fbuil.2023.1269000.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rennen, Philipp, Stefan Gantner, Gido Dielemans, Lazlo Bleker, Nikoletta Christidi, Robin Dörrie, Majid Hojjat, et al.. “Robotic Knitcrete: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D Knitted Formwork”. <i>Frontiers in Built Environment</i> 9 (2023). https://doi.org/10.3389/fbuil.2023.1269000.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behzad Zahabizadeh, João Pereira, Claúdia Gonçalves, Vítor Cunha
+    - footer
+title: Zahabizadeh Behzad, Pereira João, Gonçalves Claúdia, Cunha Vítor
 description:
 tags:
  - analysis
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Inverse Analysis of Three-Point Bending Tests for 3D Printed Fiber-Reinforced Mortars ([2020-03](date/2020/03))
-<a href="https://doi.org/10.1007/978-3-030-76547-7_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-76547-7_26</a>
+#Inverse Analysis of Three-Point Bending Tests for 3D Printed Fiber-Reinforced Mortars ([2020-03](date/2020/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-76547-7_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-76547-7_26" target="_blank">10.1007/978-3-030-76547-7_26</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b>&nbsp;Behzad</a></span>, <a href="../../../author/pereira_joao"><b>Pereira</b>&nbsp;João</a></span>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b>&nbsp;Claúdia</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b>&nbsp;Vítor</a></span><br>
+Contribution - Proceedings of the 3rd RILEM Spring Convention and Conference, pp. 313-325
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a> <a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>
-,     <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>
-,     <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd RILEM Spring Convention and Conference, pp. 313-325
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#bending`](keyword/bending)
-    [`#fiber`](keyword/fiber)
-    [`#inverse`](keyword/inverse)
-    [`#mortar`](keyword/mortar)
-    [`#point`](keyword/point)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#test`](keyword/test)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/inverse"><button class="btn">#inverse</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/point"><button class="btn">#point</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inverse%20Analysis%20of%20Three-Point%20Bending%20Tests%20for%203D%20Printed%20Fiber-Reinforced%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112601455&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3187854862" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-76547-7_26" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-76547-7_26?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D concrete printing has been developed as one of the digitized technologies for the construction industry aiming to cope with some drawbacks of conventional construction methods. One of the main particularities of 3D printed cement based materials is its anisotropic/orthotropic behaviour, which is related to the layer wised approach of these addictive manufacturing processes. In this work, a cement based composition reinforced with polyvinyl alcohol fibre was used to evaluate the post-cracking behaviour of printed specimens in two different loading directions related to the layers’ orientation. Three-point bending tests were used to indirectly obtain the tensile behaviour (i.e. stress–crack width relationship) through an inverse analysis procedure. The results of inverse analysis showed that tri-linear relationship was able to accurately model the post-cracking behaviour of PVA-FRC specimens. No significant differences were observed on the tensile behaviour of 3D printed and mould cast specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -90,7 +66,38 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zaha_cunh_pere_gonc.2019.TEoLDotCBoa3PCBM/">The Effect of Loading-Direction on the Compressive Behavior of a 3D Printed Cement-Based Material</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{zaha_pere_gonc_cunh.2021.IAoTPBTf3PFRM,
+      author            = "Behzad Zahabizadeh and João Pereira and Claúdia Gonçalves and Vítor M. C. F. Cunha",
+      title             = "Inverse Analysis of Three-Point Bending Tests for 3D Printed Fiber-Reinforced Mortars",
+      doi               = "10.1007/978-3-030-76547-7_26",
+      year              = "2021",
+      volume            = "32",
+      pages             = "313--325",
+      booktitle         = "Proceedings of the 3rd RILEM Spring Convention and Conference",
+      editor            = "Eduardo N. B. Pereira and Joaquim A. O. Barros and Fabio P. Figueiredo",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zahabizadeh, J. Pereira, C. Gonçalves and V. M. C. F. Cunha, “Inverse Analysis of Three-Point Bending Tests for 3D Printed Fiber-Reinforced Mortars”, in <i>Proceedings of the 3rd RILEM Spring Convention and Conference</i>,  2021, vol. 32, pp. 313–325. doi: 10.1007/978-3-030-76547-7_26.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zahabizadeh, Behzad, João Pereira, Claúdia Gonçalves, and Vítor M. C. F. Cunha. “Inverse Analysis of Three-Point Bending Tests for 3D Printed Fiber-Reinforced Mortars”. In <i>Proceedings of the 3rd RILEM Spring Convention and Conference</i>, edited by Eduardo N. B. Pereira, Joaquim A. O. Barros, and Fabio P. Figueiredo, 32:313–25, 2021. https://doi.org/10.1007/978-3-030-76547-7_26.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Iseoluwa Mogaji, Modupe Mewomo, James Toyin
+    - footer
+title: Mogaji Iseoluwa, Mewomo Modupe, Toyin James
 description:
 tags:
  - adoption
@@ -15,28 +16,12 @@ tags:
 
 ---
 
-# Key Barriers to the Adoption of 3D Printing Innovation in Construction:<br/>:aca-blank: A Review of Empirical Studies ([2023-05](date/2023/05))
--------------------------
+#Key Barriers to the Adoption of 3D Printing Innovation in Construction&nbsp;([2023-05](date/2023/05))
+<div class="h1-like">A Review of Empirical Studies</div>
+<span class="author"><a href="https://orcid.org/0000-0003-0566-2129" title="ORCID: 0000-0003-0566-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mogaji_joanna_iseoluwa"><b>Mogaji</b>&nbsp;Iseoluwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8695-1197" title="ORCID: 0000-0001-8695-1197" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mewomo_cecilia_modupe"><b>Mewomo</b>&nbsp;Modupe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4512-6876" title="ORCID: 0000-0002-4512-6876" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toyin_olaonipekun_james"><b>Toyin</b>&nbsp;James</a></span><br>
+Contribution - Proceedings of 13th International Conference on Construction in the 21st Century
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mogaji_joanna_iseoluwa"><b>Mogaji</b> Iseoluwa</a> <a href="https://orcid.org/0000-0003-0566-2129" title="ORCID: 0000-0003-0566-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mewomo_cecilia_modupe"><b>Mewomo</b> Modupe</a> <a href="https://orcid.org/0000-0001-8695-1197" title="ORCID: 0000-0001-8695-1197" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/toyin_olaonipekun_james"><b>Toyin</b> James</a> <a href="https://orcid.org/0000-0002-4512-6876" title="ORCID: 0000-0002-4512-6876" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of 13th International Conference on Construction in the 21st Century, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#barrier`](keyword/barrier)
-    [`#construction`](keyword/construction)
-    [`#empirical`](keyword/empirical)
-    [`#innovation`](keyword/innovation)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/barrier"><button class="btn">#barrier</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/empirical"><button class="btn">#empirical</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Key%20Barriers%20to%20the%20Adoption%20of%203D%20Printing%20Innovation%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -51,17 +36,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The need to implement sustainability in construction has given birth to 3D printing innovation. It is also a potential construction technique by which the construction industry contributes to sustainable development. 3D printing has recently gained more interest in construction, thereby promising automation of building processes with its advantages in faster production, cost reduction, material minimization, and greater environmental soundness. However, numerous barriers have limited the adoption of 3D printing in construction in various parts of the world. Little consideration has been given to assessing empirical studies of current knowledge of barriers to 3D printing adoption. This paper provides a comprehensive literature review on the key barriers to 3D printing in construction. In this study, the Preferred Reported Item for Systematic Review and Meta-Analyses (PRISMA) guideline was adopted to report the systematic review of the relevant past empirical studies on the barriers hindering the implementation of 3D printing in the construction industry. A total of 36 barriers were identified during the review and classified into six (6) categories. Thirteen key barriers hindering 3D printing implementation in the construction industry were identified and discussed. This study contributed to the knowledge of the barriers hindering the adoption of 3D printing. It will enable the built environment professionals to make the right choice when it comes to how 3D printing can improve the sustainable delivery of buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
@@ -84,7 +65,35 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{moga_mewo_toyi.2023.KBttAo3PIiC,
+      author            = "Iseoluwa Joanna Mogaji and Modupe Cecilia Mewomo and James Olaonipekun Toyin",
+      title             = "Key Barriers to the Adoption of 3D Printing Innovation in Construction: A Review of Empirical Studies",
+      year              = "2023",
+      booktitle         = "Proceedings of 13th International Conference on Construction in the 21st Century",
+      editor            = "Syed M. Ahmed and Salman Azhar and Amelia D. Saul and Kelly L. Mahaffy and Rizwan U. Farooqui",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. J. Mogaji, M. C. Mewomo and J. O. Toyin, “Key Barriers to the Adoption of 3D Printing Innovation in Construction: A Review of Empirical Studies”, in <i>Proceedings of 13th International Conference on Construction in the 21st Century</i>,  2023.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mogaji, Iseoluwa Joanna, Modupe Cecilia Mewomo, and James Olaonipekun Toyin. “Key Barriers to the Adoption of 3D Printing Innovation in Construction: A Review of Empirical Studies”. In <i>Proceedings of 13th International Conference on Construction in the 21st Century</i>, edited by Syed M. Ahmed, Salman Azhar, Amelia D. Saul, Kelly L. Mahaffy, and Rizwan U. Farooqui, 2023.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

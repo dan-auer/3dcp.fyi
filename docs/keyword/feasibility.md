@@ -8,7 +8,7 @@ search:
 
 # #feasibility
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/datta_ipsita"><b>Datta</b> Ipsita</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baha_datt_ozbu.2026.Fo3POSWLHIfDMCiAM/">Feasibility of 3D Printing Oyster Shell Waste Laden Hydrogel Inks for Developing Mycelium Composite in Architectural Materials</a></li>
   <li><a href="../../../author/alkhawaldeh_ayah"><b>Alkhawaldeh</b> Ayah</a>, <a href="../../../author/alhassan_mohammad"><b>Alhassan</b> Mohammad</a>, <a href="../../../author/sawalha_ansam"><b>Sawalha</b> Ansam</a>, <a href="../../../author/betoush_nour"><b>Betoush</b> Nour</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../alkh_alha_sawa_beto.2025.Io3PaMLiSC/">Integration of 3D Printing and Machine Learning in Sustainable Construction:<br/>Feasibility and Challenges</a></li>
   <li><a href="../../../author/huang_jianxiang"><b>Huang</b> Jianxiang</a>, <a href="../../../author/wang_caifeng"><b>Wang</b> Caifeng</a>, <a href="../../../author/jian_shouwei"><b>Jian</b> Shouwei</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../huan_wang_jian_tan.2025.FoAASBaNSaaVMAf3PoGBM/">Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials</a></li>

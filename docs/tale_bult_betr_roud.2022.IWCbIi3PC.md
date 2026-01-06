@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maria Taleb, David Bulteel, Damien Betrancourt, Francine Roudet, Sébastien Rémond, Didier Chicot
+    - footer
+title: Taleb Maria, Bulteel David, Betrancourt Damien, Roudet Francine, Rémond Sébastien, Chicot Didier
 description:
 tags:
  - concrete
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Interfacial Weakness Criterion by Indentation in 3D Printed Concrete ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1089/3dp.2021.0128" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1089/3dp.2021.0128</a>
+#Interfacial Weakness Criterion by Indentation in 3D Printed Concrete ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1089/3dp.2021.0128" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2021.0128" target="_blank">10.1089/3dp.2021.0128</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taleb_maria"><b>Taleb</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bulteel_david"><b>Bulteel</b>&nbsp;David</a></span>, <a href="../../../author/betrancourt_damien"><b>Betrancourt</b>&nbsp;Damien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8689-1013" title="ORCID: 0000-0002-8689-1013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roudet_francine"><b>Roudet</b>&nbsp;Francine</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5203-3168" title="ORCID: 0000-0002-5203-3168" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chicot_didier"><b>Chicot</b>&nbsp;Didier</a></span><br>
+Journal Article - 3D Printing and Additive Manufacturing, Vol. ahead-of-print, Iss. ahead-of-print
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a> <a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> <a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/betrancourt_damien"><b>Betrancourt</b> Damien</a>
-,     <a href="../../../author/roudet_francine"><b>Roudet</b> Francine</a> <a href="https://orcid.org/0000-0002-8689-1013" title="ORCID: 0000-0002-8689-1013" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chicot_didier"><b>Chicot</b> Didier</a> <a href="https://orcid.org/0000-0002-5203-3168" title="ORCID: 0000-0002-5203-3168" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - 3D Printing and Additive Manufacturing, Vol. ahead-of-print, Iss. ahead-of-print, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#criteria`](keyword/criteria)
-    [`#interface`](keyword/interface)
-    [`#print`](keyword/print)
-    [`#weak`](keyword/weak)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/weak"><button class="btn">#weak</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interfacial%20Weakness%20Criterion%20by%20Indentation%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147012818&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4226094586" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1089/3dp.2021.0128" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1089/3dp.2021.0128?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printable concrete requires cementitious material that must have suitable but self-contradictory properties to be printable such as fluidity to facilitate pumping along with stiffness and strength to ensure buildability, both having a great influence on the cohesion of the interfacial zone. A pool of characterization tests was developed over the last decades for layered 3D printed structures to quantify and qualify the interfacial region. Although destructive tests are typically selected to capture actual interfacial bonding strength, nondestructive testings were also used. Indentation tests were preferred in this study to locally determine the mechanical properties of the center part of two consecutive layers, the edge of the layer and the interfacial zone. As results, it was found that the previously deposited layer is harder than the upper one. The hardness of the edges of the printed filament can decrease ∼50% over few hundred microns compared to the core of the material. Moreover, this decrease in hardness is also observed at the interface. From the hardness-distance profile measured perpendicularly to the plan of the interface, we propose an interfacial weakness criterion, which has been successfully applied in various conditions of 3D printed concrete elaboration.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
@@ -88,13 +67,41 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a>, <a href="../../../author/zhong_yingzhu"><b>Zhong</b> Yingzhu</a>, <a href="../../../author/wang_shuai"><b>Wang</b> Shuai</a>, <a href="../../../author/zhang_luxi"><b>Zhang</b> Luxi</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pei_zhon_wang_zhan.2025.IBSPaCMo3wDFAG/">Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations</a></li>
       <li><a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a>, <a href="../../../author/montagne_alex"><b>Montagne</b> Alex</a>, <a href="../../../author/roudet_francine"><b>Roudet</b> Francine</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../tale_bult_mont_roud.2024.IoTHCotIBi3PC/">Influence of Thermo-Hygrometric Conditions on the Interface Bond in 3D Printed Concrete</a></li>
       <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../liu_li_wong_tan.2024.DtEoPPotMPo3CPUwEaNM/">Determine the Effects of Pore Properties on the Mechanical Performances of 3D Concrete Printing Units with Experimental and Numerical Methods</a></li>
-      <li><a href="../../../author/wang_ziyue"><b>Wang</b> Ziyue</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../wang_chen_xiao_ding.2023.ESoISBo3PRM/">Experimental Study on Interfacial Shear Behavior of 3D Printed Recycled Mortar</a></li>
-      <li><a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a>, <a href="../../../author/betrancourt_damien"><b>Betrancourt</b> Damien</a>, <a href="../../../author/roudet_francine"><b>Roudet</b> Francine</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../tale_bult_betr_roud.2023.MSMCotIi3PC/">Multi-Scale Mechanical Characterization of the Interface in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tale_bult_betr_roud.2022.IWCbIi3PC,
+      author            = "Maria Taleb and David Bulteel and Damien Betrancourt and Francine Roudet and Sébastien Rémond and Didier Chicot",
+      title             = "Interfacial Weakness Criterion by Indentation in 3D Printed Concrete",
+      doi               = "10.1089/3dp.2021.0128",
+      year              = "2022",
+      journal           = "3D Printing and Additive Manufacturing",
+      volume            = "ahead-of-print",
+      number            = "ahead-of-print",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Taleb, D. Bulteel, D. Betrancourt, F. Roudet, S. Rémond and D. Chicot, “Interfacial Weakness Criterion by Indentation in 3D Printed Concrete”, <i>3D Printing and Additive Manufacturing</i>, vol. ahead-of-print, no. ahead-of-print, 2022, doi: 10.1089/3dp.2021.0128.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Taleb, Maria, David Bulteel, Damien Betrancourt, Francine Roudet, Sébastien Rémond, and Didier Chicot. “Interfacial Weakness Criterion by Indentation in 3D Printed Concrete”. <i>3D Printing and Additive Manufacturing</i> ahead-of-print, no. ahead-of-print (2022). https://doi.org/10.1089/3dp.2021.0128.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

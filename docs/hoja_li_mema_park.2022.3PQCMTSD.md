@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maryam Hojati, Zhanzhao Li, Ali Memari, Keunhyoung Park, Mehrzad Zahabi, Shadi Nazarian, José Duarte, Aleksandra Radlińska
+    - footer
+title: Hojati Maryam, Li Zhanzhao, Memari Ali, Park Keunhyoung, Zahabi Mehrzad, Nazarian Shadi, Duarte José, Radlińska Aleksandra
 description:
 tags:
  - cement
@@ -18,38 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.rineng.2022.100341) 3D Printable Quaternary-Cementitious-Materials Towards Sustainable Development:<br/>:aca-blank: Mixture Design and Mechanical Properties ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1016/j.rineng.2022.100341" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2022.100341</a>
+#3D Printable Quaternary-Cementitious-Materials Towards Sustainable Development&nbsp;([2022-01](date/2022/01))
+<div class="h1-like">Mixture Design and Mechanical Properties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rineng.2022.100341) <a href="https://doi.org/10.1016/j.rineng.2022.100341" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2022.100341" target="_blank">10.1016/j.rineng.2022.100341</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7674-7424" title="ORCID: 0000-0001-7674-7424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhanzhao"><b>Li</b>&nbsp;Zhanzhao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span>, <a href="../../../author/park_keunhyoung"><b>Park</b>&nbsp;Keunhyoung</a></span>, <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b>&nbsp;Mehrzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b>&nbsp;Aleksandra</a></span><br>
+Journal Article - Results in Engineering, Vol. 13
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a> <a href="https://orcid.org/0000-0001-7674-7424" title="ORCID: 0000-0001-7674-7424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/park_keunhyoung"><b>Park</b> Keunhyoung</a>
-,     <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b> Mehrzad</a>
-,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, Vol. 13, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#design`](keyword/design)
-    [`#development`](keyword/development)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixture`](keyword/mixture)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#quaternary`](keyword/quaternary)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quaternary"><button class="btn">#quaternary</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Quaternary-Cementitious-Materials%20Towards%20Sustainable%20Development" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124228835&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,20 +41,15 @@ tags:
 <a href="https://inciteful.xyz/p/W4205449459" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2022.100341" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2022.100341?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Development of 3D-printing technologies for cementitious materials becomes one of the driving forces to accelerate innovation in modern construction. The use of mineral and chemical admixtures in concrete has been found to benefit fresh and hardened properties and reduce the carbon footprint of portland cement. Towards this aim, four different supplementary cementitious materials, including metakaolin, silica fume, blast furnace slag, and sodium metasilicate, were utilized in binary, ternary, and quaternary cementitious blends. Flowability, setting, and compressive strength were measured to investigate the effects of different admixtures and their combinations on materials properties of printable mixtures. Selected mixtures were 3D-printed into cylinder specimens to assess their printing quality. The optimal mixture with up to 32.5% cement replacement was 3D-printed to evaluate mechanical properties (i.e., compressive strength and elastic modulus) based on prism specimens. The anisotropic behavior under compression load was observed. 3D-printed specimens tested under perpendicular direction showed the lowest compressive strength but the highest elastic modulus.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
-      <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b> Mehrzad</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hoja_mema_zaha_wu.2022.BWRf3CP/">Barbed-Wire Reinforcement for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -100,8 +72,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/zoghlami_aya"><b>Zoghlami</b> Aya</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../aabb_mazi_ahac_zogh.2026.S3PCBICW/">Sustainable 3D Printed Clay Bricks Incorporating Coffee Waste:<br/>Toward Circular Economy in Construction</a></li>
       <li><a href="../../../author/gajjar_parth"><b>Gajjar</b> Parth</a>, <a href="../../../author/gajjar_t"><b>Gajjar</b> T.</a>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b> Aniruddha</a>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gajj_gajj_tang_shre.2025.A3PiC/">Advancing 3D Printing in Construction:<br/>Rheological Behaviors of Cementitious Composites with Supplementary Materials</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_khan_mcna.2025.EoNSwHRoGoEMPaRo3PC/">Effect of Nano Silica with High Replacement of GGBS on Enhancing Mechanical Properties and Rheology of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_java_hoja.2025.ORPo3PCMvEML/">Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning</a></li>
@@ -129,4 +102,33 @@ tags:
       <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b> Mehrzad</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hoja_mema_zaha_wu.2022.BWRf3CP/">Barbed-Wire Reinforcement for 3D Concrete Printing</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hoja_li_mema_park.2022.3PQCMTSD,
+      author            = "Maryam Hojati and Zhanzhao Li and Ali M. Memari and Keunhyoung Park and Mehrzad Zahabi and Shadi Nazarian and José Pinto Duarte and Aleksandra Radlińska",
+      title             = "3D Printable Quaternary-Cementitious-Materials Towards Sustainable Development: Mixture Design and Mechanical Properties",
+      doi               = "10.1016/j.rineng.2022.100341",
+      year              = "2022",
+      journal           = "Results in Engineering",
+      volume            = "13",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Hojati, “3D Printable Quaternary-Cementitious-Materials Towards Sustainable Development: Mixture Design and Mechanical Properties”, <i>Results in Engineering</i>, vol. 13, 2022, doi: 10.1016/j.rineng.2022.100341.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hojati, Maryam, Zhanzhao Li, Ali M. Memari, Keunhyoung Park, Mehrzad Zahabi, Shadi Nazarian, José Pinto Duarte, and Aleksandra Radlińska. “3D Printable Quaternary-Cementitious-Materials Towards Sustainable Development: Mixture Design and Mechanical Properties”. <i>Results in Engineering</i> 13 (2022). https://doi.org/10.1016/j.rineng.2022.100341.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

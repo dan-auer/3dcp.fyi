@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zifan Geng, Hao Pan, Wenqiang Zuo, Wei She
+    - footer
+title: Geng Zifan, Pan Hao, Zuo Wenqiang, She Wei
 description:
 tags:
  - additive
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Functionally Graded Lightweight Cement-Based Composites with Outstanding Mechanical Performances via Additive Manufacturing ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.addma.2022.102911" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.102911</a>
+#Functionally Graded Lightweight Cement-Based Composites with Outstanding Mechanical Performances via Additive Manufacturing ([2022-05](date/2022/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.102911" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.102911" target="_blank">10.1016/j.addma.2022.102911</a>
 
--------------------------
+<a href="../../../author/geng_zifan"><b>Geng</b>&nbsp;Zifan</a></span>, <a href="../../../author/pan_hao"><b>Pan</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_wenqiang"><b>Zuo</b>&nbsp;Wenqiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6959-1625" title="ORCID: 0000-0002-6959-1625" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/she_wei"><b>She</b>&nbsp;Wei</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 56
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>
-,     <a href="../../../author/pan_hao"><b>Pan</b> Hao</a>
-,     <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a> <a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/she_wei"><b>She</b> Wei</a> <a href="https://orcid.org/0000-0002-6959-1625" title="ORCID: 0000-0002-6959-1625" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 56, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#function`](keyword/function)
-    [`#grade`](keyword/grade)
-    [`#light`](keyword/light)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Functionally%20Graded%20Lightweight%20Cement-Based%20Composites%20with%20Outstanding%20Mechanical%20Performances%20via%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131050616&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281399955" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.102911" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.102911?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Light weight and high strength are contradictory issues for most engineering materials. Through 3D concrete printing (3DCP), functionally graded construction materials can be produced to achieve material economization and outstanding mechanical performances simultaneously. In this paper, cement-based composites exhibiting lamellar microstructures with graded porosity and fiber distribution, were fabricated via depositing cement pastes with different densities and fiber contents at designed positions. Compared with casted homogeneous concrete, printed graded composites demonstrate 75%–92% higher specific bending strength and 2.2 times of specific impact strength. In addition, the specific compressive strength of several graded composites displays 76%–96% increasement when the pressure is parallel to the lamellar structure. Unique failure modes also appear in graded composites, including crack twisting, multiple cracking and compressive anisotropy. Finite element simulations reveal that a rational stress “redistribution” inside the graded composites, which follows the strength distribution of constituent materials, contributes to the superior mechanical performances under light weight for the graded architectures. This work paves a facile and valid way for the design and fabrication of functionally graded cement-based composites, as well as brings great potential and more insights into 3DCP technique.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../bai_wang_wang_ma.2021.IPRM/">In-Process Reinforcing Method:<br/>Dual 3D Printing Procedure for Ultra-High-Performance Concrete Reinforced Cementitious Composites</a></li>
       <li><a href="../../../author/chee_wei-shen_ryan"><b>Chee</b> Ryan</a>, <a href="../../../author/tan_lin_wei"><b>Tan</b> Wei</a>, <a href="../../../author/goh_hern_wei"><b>Goh</b> Wei</a>, <a href="../../../author/amtsberg_felix"><b>Amtsberg</b> Felix</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../chee_tan_goh_amts.2018.LDCbDCI/">Locally Differentiated Concrete by Digitally Controlled Injection</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
@@ -95,8 +71,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/liang_jingwen"><b>Liang</b> Jingwen</a>, <a href="../../../author/zeng_zuo"><b>Zeng</b> Zuo</a>, <a href="../../../author/wang_penglin"><b>Wang</b> Penglin</a>, <a href="../../../author/wang_zhongxu"><b>Wang</b> Zhongxu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lian_zeng_wang_wang.2025.ERM3PS/">Emergency Response Mobile 3D Printing System:<br/>A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/qu_changwei"><b>Qu</b> Changwei</a>, <a href="../../../author/guo_dingming"><b>Guo</b> Dingming</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ding_qu_guo.2025.TaMPo3PFGC/">Thermal and Mechanical Properties of 3D Printed Functionally Graded Concrete:<br/>Utilizing Fibers and Recycled Aggregates as Gradient Components</a></li>
@@ -114,6 +90,34 @@ tags:
       <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>, <a href="../../../author/li_wengui"><b>Li</b> Wengui</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wang_li_guo_kash.2024.C3PTiSC/">Concrete 3D Printing Technology in Sustainable Construction:<br/>A Review on Raw Materials, Concrete Types and Performances</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_hongliang"><b>Li</b> Hongliang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../lu_li_wong_qian.2023.DoaFCMwEGfASC/">Development of a Functional Cementitious Mixture with Expanded Graphite for Automated Spray Construction</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../liu_zhan_bant.2023.UPFaIIoMPaSDo3PFCMwHMaSF/">Unveiling Pore Formation and Its Influence on Micromechanical Property and Stress-Distribution of 3D Printed Foam-Concrete Modified with Hydroxypropyl-Methylcellulose and Silica-Fume</a></li>
-      <li><a href="../../../author/mukhametrakhimov_kh_rustem"><b>Mukhametrakhimov</b> Rustem</a>, <a href="../../../author/ziganshina_liliya"><b>Ziganshina</b> Liliya</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mukh_ziga.2023.IoTaQCo3/">Improvement of Technology and Quality-Control of 3DCP</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{geng_pan_zuo_she.2022.FGLCBCwOMPvAM,
+      author            = "Zifan Geng and Hao Pan and Wenqiang Zuo and Wei She",
+      title             = "Functionally Graded Lightweight Cement-Based Composites with Outstanding Mechanical Performances via Additive Manufacturing",
+      doi               = "10.1016/j.addma.2022.102911",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "56",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Geng, H. Pan, W. Zuo and W. She, “Functionally Graded Lightweight Cement-Based Composites with Outstanding Mechanical Performances via Additive Manufacturing”, <i>Additive Manufacturing</i>, vol. 56, 2022, doi: 10.1016/j.addma.2022.102911.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geng, Zifan, Hao Pan, Wenqiang Zuo, and Wei She. “Functionally Graded Lightweight Cement-Based Composites with Outstanding Mechanical Performances via Additive Manufacturing”. <i>Additive Manufacturing</i> 56 (2022). https://doi.org/10.1016/j.addma.2022.102911.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

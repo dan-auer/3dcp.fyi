@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Are Vigneshwari, Jaganathan Jayaprakash
+    - footer
+title: Vigneshwari Are, Jayaprakash Jaganathan
 description:
 tags:
  - activation
@@ -23,37 +24,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Review on 3D Printable Cementitious Material Containing Copper and Iron-Ore-Tailings:<br/>:aca-blank: Material-Characterization, Activation-Methods, Engineering-Properties, Durability, and Microstructure-Behavior ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1007/s41062-024-01374-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41062-024-01374-z</a>
+#A Review on 3D Printable Cementitious Material Containing Copper and Iron-Ore-Tailings&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">Material-Characterization, Activation-Methods, Engineering-Properties, Durability, and Microstructure-Behavior</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41062-024-01374-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-024-01374-z" target="_blank">10.1007/s41062-024-01374-z</a>
 
--------------------------
+<a href="../../../author/vigneshwari_are"><b>Vigneshwari</b>&nbsp;Are</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b>&nbsp;Jaganathan</a></span><br>
+Journal Article - Innovative Infrastructure Solutions, Vol. 9, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vigneshwari_are"><b>Vigneshwari</b> Are</a>
-,     <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Innovative Infrastructure Solutions, Vol. 9, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#containment`](keyword/containment)
-    [`#copper`](keyword/copper)
-    [`#durability`](keyword/durability)
-    [`#engineered`](keyword/engineered)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#micro`](keyword/micro)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#tailing`](keyword/tailing)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20on%203D%20Printable%20Cementitious%20Material%20Containing%20Copper%20and%20Iron-Ore-Tailings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187255663&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392139321" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41062-024-01374-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41062-024-01374-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is an advanced technology that combines digital technologies with new materials science insights to allow free-form building without using formwork. This 3DCP has attracted much attention in recent years due to its potential benefits, including reducing construction costs by eliminating the formwork, less construction waste, geometric freedom, less onsite construction time, risk reduction, robustness, and better productivity. However, the researchers have challenges in developing the printing materials for 3DCP applications. There is a substantial difference in the composition and performance of 3DCP and conventional concrete. In recent decades, CO2 emissions from concrete manufacturers have accounted for 5–8% of global total CO2 emissions. Moreover, the amount of industrial waste created increases year after year. Iron ore tailings (IOT) and copper ore tailings (COT) have been a matter of concern for researchers in recent years as a type of building material. This paper primarily examines material and microstructural characterization, activation methods, engineering properties durability, and microstructure behavior of cementitious printable material containing copper and iron ore tailings. It critically discusses the performance of IOT and COT and the impact of partial replacement on the performance of various aspects of printable concrete materials containing IOT and COT. It also highlights the future research directions on COT and IOT. The findings show that the copper ore tailings and iron ore tailings if incorporated in the required amount as supplementary cementitious material will reduce the mining waste as well as develop the sustainable cementitious material with enhanced engineering properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../chen_copu_veer.2017.ACRo3CPaaLCCA/">A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach</a></li>
@@ -116,11 +90,41 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kubjana_lucy"><b>Kubjana</b> Lucy</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/adekunle_peter"><b>Adekunle</b> Peter</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kubj_aigb_adek.2025.AS3PC/">Advancing Sustainable 3D-Printed Concrete:<br/>A Bibliometric Study on Financing Housing Options</a></li>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>
       <li><a href="../../../author/gulati_hemant"><b>Gulati</b> Hemant</a>, <a href="../../../author/lu_tianxing"><b>Lu</b> Tianxing</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../gula_lu.2025.C3PC/">Customized 3D Printable Concrete:<br/>A Systematic Review of Challenges, Methodologies, and Adoption Strategies</a></li>
       <li><a href="../../../author/priyadarshani_suchi"><b>Priyadarshani</b> Suchi</a>, <a href="../../../author/rao_r_roshan"><b>Rao</b> Roshan</a>, <a href="../../../author/mani_monto"><b>Mani</b> Monto</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../priy_rao_mani.2024.PSiBCPitLD/">Paradigm Shifts in Building Construction Priorities in the Last Decade</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vign_jaya.2024.ARo3PCMCCaIOT,
+      author            = "Are Vigneshwari and Jaganathan Jayaprakash",
+      title             = "A Review on 3D Printable Cementitious Material Containing Copper and Iron-Ore-Tailings: Material-Characterization, Activation-Methods, Engineering-Properties, Durability, and Microstructure-Behavior",
+      doi               = "10.1007/s41062-024-01374-z",
+      year              = "2024",
+      journal           = "Innovative Infrastructure Solutions",
+      volume            = "9",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Vigneshwari  and J. Jayaprakash, “A Review on 3D Printable Cementitious Material Containing Copper and Iron-Ore-Tailings: Material-Characterization, Activation-Methods, Engineering-Properties, Durability, and Microstructure-Behavior”, <i>Innovative Infrastructure Solutions</i>, vol. 9, no. 3, 2024, doi: 10.1007/s41062-024-01374-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vigneshwari, Are, and Jaganathan Jayaprakash. “A Review on 3D Printable Cementitious Material Containing Copper and Iron-Ore-Tailings: Material-Characterization, Activation-Methods, Engineering-Properties, Durability, and Microstructure-Behavior”. <i>Innovative Infrastructure Solutions</i> 9, no. 3 (2024). https://doi.org/10.1007/s41062-024-01374-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

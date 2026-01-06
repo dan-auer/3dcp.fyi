@@ -8,7 +8,7 @@ search:
 
 # #dry
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
   <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/yuan_chengfang"><b>Yuan</b> Chengfang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../raza_yuan.2025.DMaMPo3PECCwYRSUCIWDC/">Degradation Mechanisms and Microstructural Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Under Chloride Ion Wet-Dry Cycles</a></li>
   <li><a href="../../../author/abdelaziz_mohamed"><b>Abdelaziz</b> Mohamed</a>, <a href="../../../author/vukorep_ilija"><b>Vukorep</b> Ilija</a>, <a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../abde_vuko_mahd.2025.EE3PCOwIAHADSoRA/">Exploring Extreme 3D Printed Clay Overhangs with Integrated Active Hot Air Drying System on Robotic Arm</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kota Nakase, Katsufumi Hashimoto, Takafumi Sugiyama, Katsuya Kono
+    - footer
+title: Nakase Kota, Hashimoto Katsufumi, Sugiyama Takafumi, Kono Katsuya
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Print Paths on Mechanical Properties and Fracture Propagation of 3D Printed Concrete ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137019" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137019</a>
+#Influence of Print Paths on Mechanical Properties and Fracture Propagation of 3D Printed Concrete ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137019" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137019" target="_blank">10.1016/j.conbuildmat.2024.137019</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-7207-2963" title="ORCID: 0009-0009-7207-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nakase_kota"><b>Nakase</b>&nbsp;Kota</a></span>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b>&nbsp;Katsufumi</a></span>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b>&nbsp;Takafumi</a></span>, <a href="../../../author/kono_katsuya"><b>Kono</b>&nbsp;Katsuya</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 438, No. 137019
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a> <a href="https://orcid.org/0009-0009-7207-2963" title="ORCID: 0009-0009-7207-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>
-,     <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a>
-,     <a href="../../../author/kono_katsuya"><b>Kono</b> Katsuya</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 438, No. 137019
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fracture`](keyword/fracture)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#propagation`](keyword/propagation)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/propagation"><button class="btn">#propagation</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Print%20Paths%20on%20Mechanical%20Properties%20and%20Fracture%20Propagation%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196020340&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399697055" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137019" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137019?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     When constructing concrete structures using 3D printing, it is important to consider the anisotropy due to the printing process. The print path influences the formation of layer interfaces and inter-filament voids, and the fracture propagation behavior of the printed specimen. In this paper, the fracture propagation behavior of printed mortar specimens under compressive, tensile, and bending stresses is evaluated for different print paths. X-ray computed tomography visualizes the interior of printed specimens and shows that the pressure during material extrusion elongates the intra-filament voids. The inter-filament void structure is influenced by the print path, forming an aligned structure in one direction or a complex lattice-like structure. Anisotropy in the deformation direction under compressive stress, which is influenced by the inter-filament void structure, is assessed by 3D scanning. Under tensile stress, Digital Image Correlation (DIC) visualizes that tensile stress is concentrated in the layer interface, causing cracks to propagate along the layer interface. Under bending stress, DIC evaluates the effect of the print path on fracture propagation behavior. The results show that the mechanical properties and fracture propagation behavior of printed specimens are affected by the arrangement of the layer interface and inter-filament void, which is governed by the print path.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -110,8 +88,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/pandum_jeero"><b>Pandum</b> Jeero</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a>, <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pand_hash_sugi_naka.2025.ADEo3PC/">AI-Driven Evaluation of 3D-Printed Concrete:<br/>Analyzing Printed Patterns Using Impact-Echo and Acoustic Emission</a></li>
@@ -125,4 +103,34 @@ tags:
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/adhikari_sondipon"><b>Adhikari</b> Sondipon</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../jian_gao_adhi_yao.2024.SotMPoILI3PCBoaNN/">Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle</a></li>
       <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_kentaro"><b>Sugiyama</b> Kentaro</a>, <a href="../../../author/mori_hiroaki"><b>Mori</b> Hiroaki</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../naka_hash_sugi_mori.2024.EoPPoPQaFPBo3PC/">Effect of Printing Parameters on Print Quality and Fracture Propagation Behavior of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{naka_hash_sugi_kono.2024.IoPPoMPaFPo3PC,
+      author            = "Kota Nakase and Katsufumi Hashimoto and Takafumi Sugiyama and Katsuya Kono",
+      title             = "Influence of Print Paths on Mechanical Properties and Fracture Propagation of 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.137019",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "438",
+      pages             = "137019",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Nakase, K. Hashimoto, T. Sugiyama and K. Kono, “Influence of Print Paths on Mechanical Properties and Fracture Propagation of 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 438, p. 137019, 2024, doi: 10.1016/j.conbuildmat.2024.137019.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nakase, Kota, Katsufumi Hashimoto, Takafumi Sugiyama, and Katsuya Kono. “Influence of Print Paths on Mechanical Properties and Fracture Propagation of 3D Printed Concrete”. <i>Construction and Building Materials</i> 438 (2024): 137019. https://doi.org/10.1016/j.conbuildmat.2024.137019.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

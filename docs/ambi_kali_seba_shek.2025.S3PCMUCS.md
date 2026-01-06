@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Parukutty Ambily, Senthil Kaliyavaradhan, Shilpa Sebastian, Deepadharshan Shekar
+    - footer
+title: Ambily Parukutty, Kaliyavaradhan Senthil, Sebastian Shilpa, Shekar Deepadharshan
 description:
 tags:
  - concrete
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sustainable 3D Printable Concrete-Mix Using Copper-Slag ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.jobe.2025.111950" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.111950</a>
+#Sustainable 3D Printable Concrete-Mix Using Copper-Slag ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.111950" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.111950" target="_blank">10.1016/j.jobe.2025.111950</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ambily_s_parukutty"><b>Ambily</b>&nbsp;Parukutty</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b>&nbsp;Senthil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0441-6292" title="ORCID: 0000-0003-0441-6292" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sebastian_shilpa"><b>Sebastian</b>&nbsp;Shilpa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8180-8981" title="ORCID: 0000-0001-8180-8981" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shekar_deepadharshan"><b>Shekar</b>&nbsp;Deepadharshan</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111950
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> <a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> <a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a> <a href="https://orcid.org/0000-0003-0441-6292" title="ORCID: 0000-0003-0441-6292" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="https://orcid.org/0000-0001-8180-8981" title="ORCID: 0000-0001-8180-8981" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111950
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#copper`](keyword/copper)
-    [`#mixing`](keyword/mixing)
-    [`#printability`](keyword/printability)
-    [`#slag`](keyword/slag)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%203D%20Printable%20Concrete-Mix%20Using%20Copper-Slag" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216475987&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406901081" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.111950" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.111950?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the feasibility of fully replacing conventional river sand (RS) with copper slag (CS) as fine aggregate in a 3D Printable Concrete (3DPC) mix, emphasizing sustainable construction practices. The performance of 3DPC mixes with copper slag was evaluated through comprehensive rheological and mechanical assessments, including flowability, extrudability, buildability, open time, shape retention, compressive strength, and non-destructive testing for both cast and printed specimens. Results indicate that the CS mix achieves superior buildability, with a static yield stress of 2309.9 Pa compared to 1594.1 Pa for the RS mix. While the dynamic yield stress of the CS mix is 60% higher than that of the RS mix, it exhibits enhanced flowability due to its higher density, reducing the demand for superplasticizers. The CS mix also demonstrates prolonged flowability, smoother filament appearance, and superior mechanical performance, with compressive strength increases of 17%, 26%, and 37% in the X, Y, and Z directions, respectively, compared to the RS mix. The study underscores the potential of copper slag as a sustainable and effective replacement for river sand in 3D concrete printing, achieving enhanced structural performance and sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../ambi_kali_seba_shek.2023.MAf3PC/">Mixing Approach for 3D Printable Concrete:<br/>Method of Addition and Optimization of Superplasticizer Dosage</a></li>
@@ -86,9 +66,38 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ambi_kali_seba_shek.2025.S3PCMUCS,
+      author            = "Parukutty S. Ambily and Senthil Kumar Kaliyavaradhan and Shilpa Sebastian and Deepadharshan Shekar",
+      title             = "Sustainable 3D Printable Concrete-Mix Using Copper-Slag",
+      doi               = "10.1016/j.jobe.2025.111950",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "111950",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. S. Ambily, S. K. Kaliyavaradhan, S. Sebastian and D. Shekar, “Sustainable 3D Printable Concrete-Mix Using Copper-Slag”, <i>Journal of Building Engineering</i>, p. 111950, 2025, doi: 10.1016/j.jobe.2025.111950.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ambily, Parukutty S., Senthil Kumar Kaliyavaradhan, Shilpa Sebastian, and Deepadharshan Shekar. “Sustainable 3D Printable Concrete-Mix Using Copper-Slag”. <i>Journal of Building Engineering</i>, 2025, 111950. https://doi.org/10.1016/j.jobe.2025.111950.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

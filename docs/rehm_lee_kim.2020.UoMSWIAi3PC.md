@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Atta Rehman, Sang-Min Lee, Jung-Hoon Kim
+    - footer
+title: Rehman Atta, Lee Sang-Min, Kim Jung-Hoon
 description:
 tags:
  - ash
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Use of Municipal Solid-Waste Incineration-Ash in 3D Printable Concrete ([2020-06](date/2020/06))
-<a href="https://doi.org/10.1016/j.psep.2020.06.018" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.psep.2020.06.018</a>
+#Use of Municipal Solid-Waste Incineration-Ash in 3D Printable Concrete ([2020-06](date/2020/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.psep.2020.06.018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.psep.2020.06.018" target="_blank">10.1016/j.psep.2020.06.018</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_atta"><b>Rehman</b>&nbsp;Atta</a></span>, <a href="../../../author/lee_sang-min"><b>Lee</b>&nbsp;Sang-Min</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
+Journal Article - Process Safety and Environmental Protection, Vol. 142, pp. 219-228
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> <a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_sang-min"><b>Lee</b> Sang-Min</a>
-,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Process Safety and Environmental Protection, Vol. 142, pp. 219-228
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#concrete`](keyword/concrete)
-    [`#printability`](keyword/printability)
-    [`#solid`](keyword/solid)
-    [`#use`](keyword/use)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Municipal%20Solid-Waste%20Incineration-Ash%20in%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85086897672&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3035222032" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.psep.2020.06.018" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.psep.2020.06.018?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing is an application of 3D printing technology for the construction of concrete structural and non-structural elements. It is a rapid method of construction without the use of formwork, with minimum labor involvement and reduced material wastage. Curved walls and complex structures can be constructed by modifying the print path and controlling the rheological properties of concrete. The fusion of this technology with waste materials is necessary to reduce the problems associated with the recycling of wastes and to minimize CO2 emissions associated with the production of cement. In this study, two different municipal solid waste (MSW) incineration ashes (fly ash and bottom ash) were used to develop a concrete having rheological and hardened requirements of concrete used in 3D printing. Waste incinerator ashes were added as a substitute of ordinary Portland cement in concrete mix proportions. Flow table test and Gilmore needle test were used to measure the flow and setting time of concrete, respectively. Yield stress was measured by shear vane test. The buildability of ash containing printable concrete was simulated by comparing the vertical stresses due to the printing of concrete layers with the increase in the strength of the first stacked layer. Workability, open time, and buildability of the mix proportions were related to yield stress. The effect of adding waste incinerator ash upon the compressive strength was measured. The bond strength between layers at different printing time gaps was evaluated using bi-surface direct shear test. Experimental results showed that setting time promoting effect and initial yield stress enhancement by incinerated fly ash allows for a rapid construction speed with concrete 3D printing. This study concludes that incinerated fly ash can be successfully recycled in 3D printable concrete due to its favorable effects on rheology which are favorable for printing concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -76,8 +57,8 @@ tags:
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sola_foru.2026.ARTMfDtPZoC3P/">A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers</a></li>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
@@ -113,4 +94,34 @@ tags:
       <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../guim_delg_luca.2021.AMiCE/">Advanced Manufacturing in Civil Engineering</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rehm_lee_kim.2020.UoMSWIAi3PC,
+      author            = "Atta Ur Rehman and Sang-Min Lee and Jung-Hoon Kim",
+      title             = "Use of Municipal Solid-Waste Incineration-Ash in 3D Printable Concrete",
+      doi               = "10.1016/j.psep.2020.06.018",
+      year              = "2020",
+      journal           = "Process Safety and Environmental Protection",
+      volume            = "142",
+      pages             = "219--228",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. U. Rehman, S.-M. Lee and J.-H. Kim, “Use of Municipal Solid-Waste Incineration-Ash in 3D Printable Concrete”, <i>Process Safety and Environmental Protection</i>, vol. 142, pp. 219–228, 2020, doi: 10.1016/j.psep.2020.06.018.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rehman, Atta Ur, Sang-Min Lee, and Jung-Hoon Kim. “Use of Municipal Solid-Waste Incineration-Ash in 3D Printable Concrete”. <i>Process Safety and Environmental Protection</i> 142 (2020): 219–28. https://doi.org/10.1016/j.psep.2020.06.018.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

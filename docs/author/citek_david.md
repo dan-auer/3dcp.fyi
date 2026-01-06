@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Čítek David 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
   <li><a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/melter_oto"><b>Melter</b> Oto</a>, <a href="../../../author/hvizdal_ales"><b>Hvizdal</b> Ales</a>, <a href="../../../author/auska_zuzana"><b>Auska</b> Zuzana</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../cite_melt_hviz_ausk.2025.E3PCF/">Experimental 3D Printed Concrete Footbridge</a></li>
   <li><a href="../../../author/rymes_jiri"><b>Rymeš</b> Jiří</a>, <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a>, <a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a>, <a href="../../../author/bures_vladislav"><b>Bureš</b> Vladislav</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../ryme_cerv_jend_bure.2024.I3MaNLNSiCAM/">Integrating 3D Modelling and Non-Linear Numerical Simulations in Concrete Additive Manufacturing</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hemant Gulati, Tianxing Lu
+    - footer
+title: Gulati Hemant, Lu Tianxing
 description:
 tags:
  - adoption
@@ -17,31 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Customized 3D Printable Concrete:<br/>:aca-blank: A Systematic Review of Challenges, Methodologies, and Adoption Strategies ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1007/s41062-025-01887-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41062-025-01887-1</a>
+#Customized 3D Printable Concrete&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">A Systematic Review of Challenges, Methodologies, and Adoption Strategies</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41062-025-01887-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-025-01887-1" target="_blank">10.1007/s41062-025-01887-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-8494-0689" title="ORCID: 0009-0000-8494-0689" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gulati_hemant"><b>Gulati</b>&nbsp;Hemant</a></span>, <a href="../../../author/lu_tianxing"><b>Lu</b>&nbsp;Tianxing</a></span><br>
+Journal Article - Innovative Infrastructure Solutions, Vol. 10, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gulati_hemant"><b>Gulati</b> Hemant</a> <a href="https://orcid.org/0009-0000-8494-0689" title="ORCID: 0009-0000-8494-0689" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_tianxing"><b>Lu</b> Tianxing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Innovative Infrastructure Solutions, Vol. 10, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#customization`](keyword/customization)
-    [`#method`](keyword/method)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-    [`#strategy`](keyword/strategy)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Customized%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000778660&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408903761" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41062-025-01887-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41062-025-01887-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3-D printing technology has emerged as a transformative solution for the construction industry, addressing issues such as prolonged construction time, extensive labor requirements, and high carbon emissions. However, the adoption rate of 3-D concrete printing (3-DCP) remains slow, particularly in developing countries. This paper systematically reviews the challenges hindering the widespread adoption of 3-DCP and proposes a methodological framework for customized 3-D printable concrete (3-DPC) using locally available materials. The review was conducted by manually analyzing 124 research/review papers, narrowing them down to 34 key papers that address critical aspects of materials, printability, and process improvements. The findings emphasize that material customization plays a crucial role in reducing costs while enhancing the practicality of 3-DCP applications. An Indian case study is discussed, where customized 3-DPC resulted in a 40% reduction in construction costs. However, the exact recipe of how they built their customized 3-DPC remains unrevealed. The proposed framework provides practical guidelines for researchers and practitioners to develop tailored 3-DPC solutions that can accelerate technology adoption in both developed and developing regions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "92 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/biswas_kaushik"><b>Biswas</b> Kaushik</a>, <a href="../../../author/rose_james"><b>Rose</b> James</a>, <a href="../../../author/eikevik_leif"><b>Eikevik</b> Leif</a>, <a href="../../../author/guerguis_maged"><b>Guerguis</b> Maged</a> et al. <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../bisw_rose_eike_guer.2017.AMIE/">Additive Manufacturing Integrated Energy:<br/>Enabling Innovative Solutions for Buildings of the Future</a></li>
@@ -160,7 +140,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gula_lu.2025.C3PC,
+      author            = "Hemant Gulati and Tianxing Lu",
+      title             = "Customized 3D Printable Concrete: A Systematic Review of Challenges, Methodologies, and Adoption Strategies",
+      doi               = "10.1007/s41062-025-01887-1",
+      year              = "2025",
+      journal           = "Innovative Infrastructure Solutions",
+      volume            = "10",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Gulati  and T. Lu, “Customized 3D Printable Concrete: A Systematic Review of Challenges, Methodologies, and Adoption Strategies”, <i>Innovative Infrastructure Solutions</i>, vol. 10, no. 4, 2025, doi: 10.1007/s41062-025-01887-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gulati, Hemant, and Tianxing Lu. “Customized 3D Printable Concrete: A Systematic Review of Challenges, Methodologies, and Adoption Strategies”. <i>Innovative Infrastructure Solutions</i> 10, no. 4 (2025). https://doi.org/10.1007/s41062-025-01887-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

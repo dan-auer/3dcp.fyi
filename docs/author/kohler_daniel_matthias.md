@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Kohler Matthias 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chad_vase_gram_kohl.2025.ART/">Adaptive Robotic Tamping:<br/>A Novel Robotic Method for Formative Surface Finishing in Earth-Based Additive Manufacturing</a></li>
   <li><a href="../../../author/olivo_eftekhar_nik"><b>Olivo</b> Nik</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/milano_francesco"><b>Milano</b> Francesco</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../oliv_picc_mila_gram.2025.TEoHC3TNDC/">Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization</a></li>
   <li><a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/kango_ananya"><b>Kango</b> Ananya</a>, <a href="../../../author/leung_victor"><b>Leung</b> Victor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../vase_chad_kang_leun.2024.IP/">Impact Printing:<br/>A Novel Robotic Additive Manufacturing Method for Circular, High-Volume Construction</a></li>

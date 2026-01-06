@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Renyu Geng, Jinming Jiang, Pengcong Du, Huiliang Zhang, Ruiyan Yu, Weijun Gao
+    - footer
+title: Geng Renyu, Jiang Jinming, Du Pengcong, Zhang Huiliang, Yu Ruiyan, Gao Weijun
 description:
 tags:
  - fire
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s44213-025-00066-3.pdf) Multiscale Thermal Optimization of 3D-Printed Walls:<br/>:aca-blank: Integrating Structure, Material, and Process with Fire-Thermal Synergy ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1007/s44213-025-00066-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s44213-025-00066-3</a>
+#Multiscale Thermal Optimization of 3D-Printed Walls&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Integrating Structure, Material, and Process with Fire-Thermal Synergy</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44213-025-00066-3.pdf) <a href="https://doi.org/10.1007/s44213-025-00066-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44213-025-00066-3" target="_blank">10.1007/s44213-025-00066-3</a>
 
--------------------------
+<a href="../../../author/geng_renyu"><b>Geng</b>&nbsp;Renyu</a></span>, <a href="../../../author/jiang_jinming"><b>Jiang</b>&nbsp;Jinming</a></span>, <a href="../../../author/du_pengcong"><b>Du</b>&nbsp;Pengcong</a></span>, <a href="../../../author/zhang_huiliang"><b>Zhang</b>&nbsp;Huiliang</a></span>, <a href="../../../author/yu_ruiyan"><b>Yu</b>&nbsp;Ruiyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0299-3686" title="ORCID: 0000-0003-0299-3686" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_weijun"><b>Gao</b>&nbsp;Weijun</a></span><br>
+Journal Article - City and Built Environment, Vol. 3, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>
-,     <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>
-,     <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>
-,     <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a>
-,     <a href="../../../author/yu_ruiyan"><b>Yu</b> Ruiyan</a>
-,     <a href="../../../author/gao_weijun"><b>Gao</b> Weijun</a> <a href="https://orcid.org/0000-0003-0299-3686" title="ORCID: 0000-0003-0299-3686" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - City and Built Environment, Vol. 3, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#fire`](keyword/fire)
-    [`#integration`](keyword/integration)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#structure`](keyword/structure)
-    [`#synergy`](keyword/synergy)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multiscale%20Thermal%20Optimization%20of%203D-Printed%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106552255" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s44213-025-00066-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s44213-025-00066-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid development of 3D printing in construction presents new opportunities to enhance building energy efficiency through optimized wall systems. This review systematically analyzes 99 studies from 2018 to 2025 to elucidate the multiscale interactions among structural topology, material composition, and printing processes that govern the thermal performance of 3D-printed walls. Key findings indicate that thermal conductivity exhibits strong anisotropy (X > Y > Z) due to layer-by-layer extrusion, while internal configurations—such as cavities, sandwich composites, and bio-inspired structures—significantly enhance insulation and thermal inertia. Material modifications, including the incorporation of phase change materials, waste glass, ETM, and cork, further improve thermal performance, though potential tradeoffs with mechanical strength must be considered. Additionally, synergistic fire– thermal design strategies, leveraging fire-resistant composites and layered functional systems, enable simultaneous optimization of thermal resistance and fire safety. Future research directions include the development of thermally adaptive materials, data-driven multiscale optimization, real-time performance monitoring via digital twins, multi-objective design frameworks, and climate-responsive standardization. This review provides a comprehensive framework for designing high-performance, thermally efficient, and fire-safe 3D-printed building envelopes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "56 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
@@ -130,7 +105,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{geng_jian_du_zhan.2025.MTOo3PW,
+      author            = "Renyu Geng and Jinming Jiang and Pengcong Du and Huiliang Zhang and Ruiyan Yu and Weijun Gao",
+      title             = "Multiscale Thermal Optimization of 3D-Printed Walls: Integrating Structure, Material, and Process with Fire-Thermal Synergy",
+      doi               = "10.1007/s44213-025-00066-3",
+      year              = "2025",
+      journal           = "City and Built Environment",
+      volume            = "3",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Geng, J. Jiang, P. Du, H. Zhang, R. Yu and W. Gao, “Multiscale Thermal Optimization of 3D-Printed Walls: Integrating Structure, Material, and Process with Fire-Thermal Synergy”, <i>City and Built Environment</i>, vol. 3, no. 1, 2025, doi: 10.1007/s44213-025-00066-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geng, Renyu, Jinming Jiang, Pengcong Du, Huiliang Zhang, Ruiyan Yu, and Weijun Gao. “Multiscale Thermal Optimization of 3D-Printed Walls: Integrating Structure, Material, and Process with Fire-Thermal Synergy”. <i>City and Built Environment</i> 3, no. 1 (2025). https://doi.org/10.1007/s44213-025-00066-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

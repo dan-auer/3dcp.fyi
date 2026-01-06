@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lukas Lachmayer, David Böhler, Niklas Freund, Inka Mai (née Dressler), Dirk Lowke, Annika Raatz
+    - footer
+title: Lachmayer Lukas, Böhler David, Freund Niklas, Mai (née Dressler) Inka, Lowke Dirk, Raatz Annika
 description:
 tags:
  - adjustment
@@ -22,40 +23,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2022.104626) Modelling the Influence of Material and Process Parameters on Shotcrete 3D Printed Strands:<br/>:aca-blank: Cross-Section Adjustment for Automatic Robotic Manufacturing ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.autcon.2022.104626" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104626</a>
+#Modelling the Influence of Material and Process Parameters on Shotcrete 3D Printed Strands&nbsp;([2022-11](date/2022/11))
+<div class="h1-like">Cross-Section Adjustment for Automatic Robotic Manufacturing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2022.104626) <a href="https://doi.org/10.1016/j.autcon.2022.104626" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104626" target="_blank">10.1016/j.autcon.2022.104626</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachmayer_lukas"><b>Lachmayer</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4621-0612" title="ORCID: 0000-0003-4621-0612" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bohler_david"><b>Böhler</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span><br>
+Journal Article - Automation in Construction, Vol. 145
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> <a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bohler_david"><b>Böhler</b> David</a> <a href="https://orcid.org/0000-0003-4621-0612" title="ORCID: 0000-0003-4621-0612" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 145, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adjustment`](keyword/adjustment)
-    [`#automation`](keyword/automation)
-    [`#cross`](keyword/cross)
-    [`#influence`](keyword/influence)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#robot`](keyword/robot)
-    [`#section`](keyword/section)
-    [`#shotcrete`](keyword/shotcrete)
-    [`#strand`](keyword/strand)
-
-
--------------------------
+<a href="../../keyword/adjustment"><button class="btn">#adjustment</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/strand"><button class="btn">#strand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modelling%20the%20Influence%20of%20Material%20and%20Process%20Parameters%20on%20Shotcrete%203D%20Printed%20Strands" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140987513&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4307824699" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104626" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104626?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to its high interlayer strength and application flexibility, Shotcrete 3D Printing (SC3DP) is a promising method for the additive manufacturing of structural concrete components. The printing process is based on a layer-wise material application, conducted along a pre-designed printing path. However, material batch inhomogeneities and environmental alteration lead to varying concrete properties over the production processes. These material irregularities stochastically affect the layer geometry and thus limit the achievable reproducibility and accuracy. To enhance the process stability and improve the dimensional component quality in case of environmental changes, a reliable mapping between the strand geometry and the process and material parameters is fundamental for systematic cross-section adjustment. In this paper, we present an experimental-based approach for attaining a flexible regression model of the crosssection of Shotcrete 3D Printed concrete strands. The width and height of the layer are chosen for the strand representation, which we considered as the main factors for the printing-path planning. Regarding the modelling parameters, we focus on the volume flow parameters of concrete and air, and on the accelerator dosage. These inertia afflicted parameters can provide a consistent strand geometry, while factors of lower latency such as printing speed or spray distance are conserved for online adaptation. Based on the presented proceeding, an adjustable layer height and width model has been successfully used to predict the strand properties. The production of a medium sized sample wall further proves the applicability to the production process. In addition, we demonstrated that the chosen parameters not only affect the geometry but also the mechanical performance of SC3DP-specimens. This is evaluated based on flexural strength measurements. Given the geometrical and mechanical properties, the study defines applicable limits for the investigated parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bohl_mai_freu_lach.2022.IoMaPPoHSPoS3PE/">Influence of Material and Process Parameters on Hardened State Properties of Shotcrete 3D Printed Elements</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
@@ -99,10 +70,10 @@ tags:
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "30 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
@@ -132,4 +103,33 @@ tags:
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../dorr_davi_freu_lowk.2023.IPIoRfCEDS3P/">In-Process Integration of Reinforcement for Construction Elements During Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../davi_freu_drod_lowk.2023.TEoNDaLotRSPfS3P/">The Effects of Nozzle-Diameter and Length on the Resulting Strand Properties for Shotcrete 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lach_bohl_freu_mai.2023.MtIoMaPPoS3PS,
+      author            = "Lukas Lachmayer and David Böhler and Niklas Freund and Inka Mai (née Dressler) and Dirk Lowke and Annika Raatz",
+      title             = "Modelling the Influence of Material and Process Parameters on Shotcrete 3D Printed Strands: Cross-Section Adjustment for Automatic Robotic Manufacturing",
+      doi               = "10.1016/j.autcon.2022.104626",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "145",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Lachmayer, D. Böhler, N. Freund, I. M. (née Dressler), D. Lowke and A. Raatz, “Modelling the Influence of Material and Process Parameters on Shotcrete 3D Printed Strands: Cross-Section Adjustment for Automatic Robotic Manufacturing”, <i>Automation in Construction</i>, vol. 145, 2023, doi: 10.1016/j.autcon.2022.104626.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lachmayer, Lukas, David Böhler, Niklas Freund, Inka Mai (née Dressler), Dirk Lowke, and Annika Raatz. “Modelling the Influence of Material and Process Parameters on Shotcrete 3D Printed Strands: Cross-Section Adjustment for Automatic Robotic Manufacturing”. <i>Automation in Construction</i> 145 (2023). https://doi.org/10.1016/j.autcon.2022.104626.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

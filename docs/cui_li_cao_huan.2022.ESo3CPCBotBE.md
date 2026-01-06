@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongzhi Cui, Yuanhong Li, Xiangpeng Cao, Mingyang Huang, Waiching Tang, Zongjin Li
+    - footer
+title: Cui Hongzhi, Li Yuanhong, Cao Xiangpeng, Huang Mingyang, Tang Waiching, Li Zongjin
 description:
 tags:
  - base
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/12/6/2939/pdf?version=1647314489) Experimental Study of 3D Concrete Printing-Configurations Based on the Buildability Evaluation ([2022-03](date/2022/03))
-<a href="https://doi.org/10.3390/app12062939" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app12062939</a>
+#Experimental Study of 3D Concrete Printing-Configurations Based on the Buildability Evaluation ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/12/6/2939/pdf?version=1647314489) <a href="https://doi.org/10.3390/app12062939" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app12062939" target="_blank">10.3390/app12062939</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_hongzhi"><b>Cui</b>&nbsp;Hongzhi</a></span>, <a href="../../../author/li_yuanhong"><b>Li</b>&nbsp;Yuanhong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_xiangpeng"><b>Cao</b>&nbsp;Xiangpeng</a></span>, <a href="../../../author/huang_mingyang"><b>Huang</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9305-116X" title="ORCID: 0000-0002-9305-116X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tang_waiching"><b>Tang</b>&nbsp;Waiching</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zongjin"><b>Li</b>&nbsp;Zongjin</a></span><br>
+Journal Article - Applied Sciences, Vol. 12, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_yuanhong"><b>Li</b> Yuanhong</a>
-,     <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a> <a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_mingyang"><b>Huang</b> Mingyang</a>
-,     <a href="../../../author/tang_waiching"><b>Tang</b> Waiching</a> <a href="https://orcid.org/0000-0002-9305-116X" title="ORCID: 0000-0002-9305-116X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 12, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#experiment`](keyword/experiment)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20of%203D%20Concrete%20Printing-Configurations%20Based%20on%20the%20Buildability%20Evaluation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127004122&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4221075254" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app12062939" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app12062939?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Different formulations for 3D printable cementitious composites have been developed for extrusion-based printing. However, there is a lack of configuration guides for actual printing operations, which integrate one printable material and one printing system closely. Three testing methods for configuration determination were proposed and tested with three material proportions, with initial setting times of 2, 8, and 13 min, respectively. The building index (BI) measures the layer stacking stability based on the material, scale, and device. The height reduction test (HRT) quantifies the shortening in the height of the printed filaments. The leaning angle (LA) refers to the maximum slope of the stacked layers. In this study, results showed the critical values were (a) 0.167 for the height reduction ratio (HRR), (b) 40◦ for LA, and (c) 0~19.1, 0~61.1, and 0~99.4 for BI of the three mixtures. They were the meta parameters used to guide the CAD sketching, material development, and printing configurations, including the printing speed and layer height.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
@@ -103,8 +81,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../oulk_akhr_jai.2024.3CPS/">3D Concrete Printing Success:<br/>An Exhaustive Diagnosis and Failure-Modes-Analysis</a></li>
@@ -117,4 +95,34 @@ tags:
       <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/nguyen_thu"><b>Nguyen</b> Thu</a>, <a href="../../../author/trinh_thanh"><b>Trinh</b> Thanh</a>, <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../pham_nguy_trin_nguy.2022.Do3PfCS/">Development of 3D Printers for Concrete Structures:<br/>Mix Proportion Design Approach and Laboratory Testing</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cui_li_cao_huan.2022.ESo3CPCBotBE,
+      author            = "Hongzhi Cui and Yuanhong Li and Xiangpeng Cao and Mingyang Huang and Waiching Tang and Zongjin Li",
+      title             = "Experimental Study of 3D Concrete Printing-Configurations Based on the Buildability Evaluation",
+      doi               = "10.3390/app12062939",
+      year              = "2022",
+      journal           = "Applied Sciences",
+      volume            = "12",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Cui, Y. Li, X. Cao, M. Huang, W. Tang and Z. Li, “Experimental Study of 3D Concrete Printing-Configurations Based on the Buildability Evaluation”, <i>Applied Sciences</i>, vol. 12, no. 6, 2022, doi: 10.3390/app12062939.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cui, Hongzhi, Yuanhong Li, Xiangpeng Cao, Mingyang Huang, Waiching Tang, and Zongjin Li. “Experimental Study of 3D Concrete Printing-Configurations Based on the Buildability Evaluation”. <i>Applied Sciences</i> 12, no. 6 (2022). https://doi.org/10.3390/app12062939.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

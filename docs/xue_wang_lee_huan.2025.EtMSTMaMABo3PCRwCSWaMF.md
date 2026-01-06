@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jia-Chen Xue, Wei-Chien Wang, Ming-Gin Lee, Chia-Yun Huang, Kuan-Ling Huang
+    - footer
+title: Xue Jia-Chen, Wang Wei-Chien, Lee Ming-Gin, Huang Chia-Yun, Huang Kuan-Ling
 description:
 tags:
  - anisotropy
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.144332" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.144332</a>
+#Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.144332" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144332" target="_blank">10.1016/j.conbuildmat.2025.144332</a>
 
--------------------------
+<a href="../../../author/xue_jia-chen"><b>Xue</b>&nbsp;Jia-Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2400-1644" title="ORCID: 0000-0002-2400-1644" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_wei-chien"><b>Wang</b>&nbsp;Wei-Chien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0209-4226" title="ORCID: 0000-0003-0209-4226" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_ming-gin"><b>Lee</b>&nbsp;Ming-Gin</a></span>, <a href="../../../author/huang_chia-yun"><b>Huang</b>&nbsp;Chia-Yun</a></span>, <a href="../../../author/huang_kuan-ling"><b>Huang</b>&nbsp;Kuan-Ling</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 501, No. 144332
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>
-,     <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a> <a href="https://orcid.org/0000-0002-2400-1644" title="ORCID: 0000-0002-2400-1644" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a> <a href="https://orcid.org/0000-0003-0209-4226" title="ORCID: 0000-0003-0209-4226" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a>
-,     <a href="../../../author/huang_kuan-ling"><b>Huang</b> Kuan-Ling</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 501, No. 144332
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#examination`](keyword/examination)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#mechanism`](keyword/mechanism)
-    [`#mixing`](keyword/mixing)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#scale`](keyword/scale)
-    [`#toughness`](keyword/toughness)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/toughness"><button class="btn">#toughness</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Examining%20the%20Multi-Scale%20Toughening%20Mechanisms%20and%20Mechanical%20Anisotropic%20Behavior%20of%203D%20Printed%20Concrete%20Reinforced%20with%20Calcium%20Sulfate%20Whiskers%20and%20Mixed%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021004086&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415931402" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.144332" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.144332?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study systematically evaluated the effects of calcium sulfate whiskers (CSW), polyoxymethylene fiber (POMF), and polypropylene fiber (PPF) on the printability, mechanical properties, and fracture behavior of 3D printed concrete (3DPC). Performance variations among mono-fiber and hybrid-fiber designs were examined through compressive strength, flexural strength, and toughness tests under different loading directions (X, Y, and Z). The results showed that incorporating CSW alone effectively enhanced the strength of 3DPC through pore refinement, matrix densification, and bridging among hydration products, with maximum increases of 47.6 % in compressive strength and 68.1 % in flexural strength. However, its contribution to post-cracking toughness was limited. Incorporating POMF or PPF to form hybrid systems significantly enhanced the energy dissipation capacity during crack propagation, with the effect being particularly pronounced under Y-axis loading (perpendicular to the printing path). Comprehensive analyses revealed that the CSW–PPF system achieved an optimal balance between strength and toughness. Its superior performance was attributed to high fiber distribution density, strong interfacial anchorage, and the coexistence of pull-out and rupture failure mechanisms. The findings verified that a multi-scale bridging and toughening strategy effectively harmonized strength and toughness in 3DPC, based on the composite mechanism of whiskers and conventional fibers. Therefore, the CSW–PPF system is recommended as the appropriate composite design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>
@@ -103,7 +75,37 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF,
+      author            = "Jia-Chen Xue and Wei-Chien Wang and Ming-Gin Lee and Chia-Yun Huang and Kuan-Ling Huang",
+      title             = "Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers",
+      doi               = "10.1016/j.conbuildmat.2025.144332",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "501",
+      pages             = "144332",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-C. Xue, W.-C. Wang, M.-G. Lee, C.-Y. Huang and K.-L. Huang, “Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers”, <i>Construction and Building Materials</i>, vol. 501, p. 144332, 2025, doi: 10.1016/j.conbuildmat.2025.144332.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xue, Jia-Chen, Wei-Chien Wang, Ming-Gin Lee, Chia-Yun Huang, and Kuan-Ling Huang. “Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers”. <i>Construction and Building Materials</i> 501 (2025): 144332. https://doi.org/10.1016/j.conbuildmat.2025.144332.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

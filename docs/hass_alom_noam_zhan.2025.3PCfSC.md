@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amer Hassan, Thamer Alomayri, Mohammed Noaman, Chunwei Zhang
+    - footer
+title: Hassan Amer, Alomayri Thamer, Noaman Mohammed, Zhang Chunwei
 description:
 tags:
  - concrete
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete for Sustainable Construction:<br/>:aca-blank: A Review of Mechanical Properties and Environmental Impact ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1007/s11831-024-10220-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11831-024-10220-5</a>
+#3D Printed Concrete for Sustainable Construction&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">A Review of Mechanical Properties and Environmental Impact</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11831-024-10220-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11831-024-10220-5" target="_blank">10.1007/s11831-024-10220-5</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3732-0468" title="ORCID: 0000-0002-3732-0468" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hassan_amer"><b>Hassan</b>&nbsp;Amer</a></span>, <a href="../../../author/alomayri_thamer"><b>Alomayri</b>&nbsp;Thamer</a></span>, <a href="../../../author/noaman_faisal_mohammed"><b>Noaman</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1695-9481" title="ORCID: 0000-0002-1695-9481" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chunwei"><b>Zhang</b>&nbsp;Chunwei</a></span><br>
+Journal Article - Archives of Computational Methods in Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hassan_amer"><b>Hassan</b> Amer</a> <a href="https://orcid.org/0000-0002-3732-0468" title="ORCID: 0000-0002-3732-0468" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alomayri_thamer"><b>Alomayri</b> Thamer</a>
-,     <a href="../../../author/noaman_faisal_mohammed"><b>Noaman</b> Mohammed</a>
-,     <a href="../../../author/zhang_chunwei"><b>Zhang</b> Chunwei</a> <a href="https://orcid.org/0000-0002-1695-9481" title="ORCID: 0000-0002-1695-9481" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Archives of Computational Methods in Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#environment`](keyword/environment)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214218281&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406190046" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11831-024-10220-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11831-024-10220-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Implementation of 3D concrete printing technology has transformed the construction sector by providing enhanced design freedom, accelerated building timelines, and decreased material waste. This systematic study offers an in-depth review of current progress in 3D printed concrete, emphasizing materials, technological innovations, and environmental and economic factors. The research investigates several 3D printing methodologies, including extrusion-based and powder-based processes, and analyses the impact of materials such as fibre-reinforced, geopolymers, and high-strength concrete on the mechanical characteristics and workability of printed structures. Critical technological issues, such as layer adhesion, rheological properties, and printability, are examined to ascertain existing constraints and prospective research avenues. The analysis underscores case examples that demonstrate the actual uses of 3DCP, including buildings, bridges, and ornamental features, highlighting the technology’s capacity to decrease building expenses and environmental effects. The future potential of 3D concrete printing in large-scale building projects is discussed along with suggestions for the advancement of materials and printing methodologies to enhance performance and sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "134 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
@@ -202,8 +181,9 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
@@ -213,4 +193,32 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/chen_song-gui"><b>Chen</b> Song-Gui</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../wang_qiu_chen_liu.2025.Mo3CPBoSMwtHBPRM/">Modelling of 3D Concrete Printing Based on SPH Method with the Herschel-Bulkley-Papanastasiou Rheology Model</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hass_alom_noam_zhan.2025.3PCfSC,
+      author            = "Amer Hassan and Thamer Alomayri and Mohammed Faisal Noaman and Chunwei Zhang",
+      title             = "3D Printed Concrete for Sustainable Construction: A Review of Mechanical Properties and Environmental Impact",
+      doi               = "10.1007/s11831-024-10220-5",
+      year              = "2025",
+      journal           = "Archives of Computational Methods in Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Hassan, T. Alomayri, M. F. Noaman and C. Zhang, “3D Printed Concrete for Sustainable Construction: A Review of Mechanical Properties and Environmental Impact”, <i>Archives of Computational Methods in Engineering</i>, 2025, doi: 10.1007/s11831-024-10220-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hassan, Amer, Thamer Alomayri, Mohammed Faisal Noaman, and Chunwei Zhang. “3D Printed Concrete for Sustainable Construction: A Review of Mechanical Properties and Environmental Impact”. <i>Archives of Computational Methods in Engineering</i>, 2025. https://doi.org/10.1007/s11831-024-10220-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Han Liu, Simon Laflamme, Amelia Cardinali, Ping Lyu, Iris Rivero, Shelby Doyle, Kejin Wang
+    - footer
+title: Liu Han, Laflamme Simon, Cardinali Amelia, Lyu Ping, Rivero Iris, Doyle Shelby, Wang Kejin
 description:
 tags:
  - carbon
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing 3D-Printed Cementitious Composites with Recycled Carbon Fibers from Wind Turbine Blades ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140650" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140650</a>
+#Enhancing 3D-Printed Cementitious Composites with Recycled Carbon Fibers from Wind Turbine Blades ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140650" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140650" target="_blank">10.1016/j.conbuildmat.2025.140650</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3057-522X" title="ORCID: 0000-0003-3057-522X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_han"><b>Liu</b>&nbsp;Han</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0601-9664" title="ORCID: 0000-0002-0601-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/laflamme_simon"><b>Laflamme</b>&nbsp;Simon</a></span>, <a href="../../../author/cardinali_amelia"><b>Cardinali</b>&nbsp;Amelia</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-6347-2920" title="ORCID: 0009-0006-6347-2920" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_ping"><b>Lyu</b>&nbsp;Ping</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5542-0836" title="ORCID: 0000-0001-5542-0836" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rivero_violeta_iris"><b>Rivero</b>&nbsp;Iris</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5742-9076" title="ORCID: 0000-0001-5742-9076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b>&nbsp;Shelby</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_kejin"><b>Wang</b>&nbsp;Kejin</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 472, No. 140650
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_han"><b>Liu</b> Han</a> <a href="https://orcid.org/0000-0003-3057-522X" title="ORCID: 0000-0003-3057-522X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> <a href="https://orcid.org/0000-0002-0601-9664" title="ORCID: 0000-0002-0601-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cardinali_amelia"><b>Cardinali</b> Amelia</a>
-,     <a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a> <a href="https://orcid.org/0009-0006-6347-2920" title="ORCID: 0009-0006-6347-2920" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rivero_violeta_iris"><b>Rivero</b> Iris</a> <a href="https://orcid.org/0000-0001-5542-0836" title="ORCID: 0000-0001-5542-0836" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> <a href="https://orcid.org/0000-0001-5742-9076" title="ORCID: 0000-0001-5742-9076" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> <a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 472, No. 140650
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#enhancement`](keyword/enhancement)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#wind`](keyword/wind)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/wind"><button class="btn">#wind</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%203D-Printed%20Cementitious%20Composites%20with%20Recycled%20Carbon%20Fibers%20from%20Wind%20Turbine%20Blades" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000743430&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408445618" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140650" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140650?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Incorporating waste fibers, such as those from recycled plastics or agricultural byproducts, reduces the environmental impact by diverting waste from landfills and lowering the carbon footprint of concrete production. In this paper, we are investigating the utilization of carbon fibers sourced from decommissioned wind turbine blades to create stronger and greener cement paste mixes targeting the enhanced tensile strength. We are proposing to align the carbon fibers along the direction of the mechanical stress generated by the interaction of the 3D printing (3DP) nozzle geometry and the pumped cementitious matrix. A series of three-point bending and compression tests are conducted on 3D-printed specimens produced under different nozzle geometries, and the flexural modulus and compressive strength of specimens are examined to understand the anisotropic mechanical behavior of the extruded materials. We demonstrate the application by 3DP and testing small-scale specimens with aligned fibers and compare performance against specimens with randomly distributed fibers and controls (specimens without fibers). Results show that incorporating 2wt% of carbon fibers significantly improves the flexural and compressive strengths of 3D-printed specimens respectively by 74.6% and 34.5% when compared to 3D-printed plain cement paste, and respectively by 71.63% and 22.72% when compared to mold-cast plain cement paste.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -96,8 +71,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhou_boyu"><b>Zhou</b> Boyu</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zhou_zhan_ma.2024.AESo3PCRwFRfWTB/">An Experimental Study on 3D Printed Concrete Reinforced with Fibers Recycled from Wind Turbine Blades</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_dong_siko_lin.2025.3PCRwFFRPSoG/">3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids:<br/>Concept and Bond Tests</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_lafl_card_lyu.2025.E3PCCwRCFfWTB,
+      author            = "Han Liu and Simon Laflamme and Amelia Cardinali and Ping Lyu and Iris Violeta Rivero and Shelby Elizabeth Doyle and Kejin Wang",
+      title             = "Enhancing 3D-Printed Cementitious Composites with Recycled Carbon Fibers from Wind Turbine Blades",
+      doi               = "10.1016/j.conbuildmat.2025.140650",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "472",
+      pages             = "140650",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Liu, “Enhancing 3D-Printed Cementitious Composites with Recycled Carbon Fibers from Wind Turbine Blades”, <i>Construction and Building Materials</i>, vol. 472, p. 140650, 2025, doi: 10.1016/j.conbuildmat.2025.140650.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Han, Simon Laflamme, Amelia Cardinali, Ping Lyu, Iris Violeta Rivero, Shelby Elizabeth Doyle, and Kejin Wang. “Enhancing 3D-Printed Cementitious Composites with Recycled Carbon Fibers from Wind Turbine Blades”. <i>Construction and Building Materials</i> 472 (2025): 140650. https://doi.org/10.1016/j.conbuildmat.2025.140650.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

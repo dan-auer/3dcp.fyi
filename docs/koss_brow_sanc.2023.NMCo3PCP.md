@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Michael Kosson, Lesa Brown, Florence Sanchez
+    - footer
+title: Kosson Michael, Brown Lesa, Sanchez Florence
 description:
 tags:
  - cement
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Nano-Mechanical Characterization of 3D Printed Cement-Pastes ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/j.jobe.2023.105874" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.105874</a>
+#Nano-Mechanical Characterization of 3D Printed Cement-Pastes ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.105874" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.105874" target="_blank">10.1016/j.jobe.2023.105874</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9929-5632" title="ORCID: 0000-0002-9929-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kosson_michael"><b>Kosson</b>&nbsp;Michael</a></span>, <a href="../../../author/brown_lesa"><b>Brown</b>&nbsp;Lesa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2103-3229" title="ORCID: 0000-0002-2103-3229" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanchez_florence"><b>Sanchez</b>&nbsp;Florence</a></span><br>
+Journal Article - Journal of Building Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a> <a href="https://orcid.org/0000-0002-9929-5632" title="ORCID: 0000-0002-9929-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brown_lesa"><b>Brown</b> Lesa</a>
-,     <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a> <a href="https://orcid.org/0000-0002-2103-3229" title="ORCID: 0000-0002-2103-3229" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#mechanics`](keyword/mechanics)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nano-Mechanical%20Characterization%20of%203D%20Printed%20Cement-Pastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146832673&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320233974" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.105874" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.105874?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cement-based 3D printing (additive manufacturing) has drawn significant attention in recent years as an emerging construction technology because of its potential environmental and economic benefits over the traditional cast-in-place concrete construction. Most research to date has focused on the macroscale properties of the printed structure. However, the performance of the printed materials depends on the properties of the individual filaments. In this study, grid nanoindentation coupled with scanning electron microscopy and energy dispersive X-ray spectroscopy was used to determine the effects of the printing process through extrusion on the local elastic indentation modulus and hardness of filaments in 3D printed cement paste structures. Dynamic changes in the water-to-cement ratio during the extrusion process combined with stress-induced dissolution of the cement particles led to variation in the median modulus of the printed filaments, with filaments having values greater than 23 GPa or lower than 20 GPa. Extrusion through a small diameter nozzle affected the mesoscale assemblage of the primary hydrate phases and led to printed filaments having a more uniform mesoscale packing of calcium silicate hydrates (C–S–H) with the disappearance of loosely packed C–S–H compared to their traditionally cast counterparts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/carroll_william"><b>Carroll</b> William</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../afar_carr_garb_bier.2021.D3PCMwGFP/">Designing 3D Printable Cementitious Materials with Gel-Forming Polymers</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
@@ -96,8 +78,36 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{koss_brow_sanc.2023.NMCo3PCP,
+      author            = "Michael Kosson and Lesa Brown and Florence Sanchez",
+      title             = "Nano-Mechanical Characterization of 3D Printed Cement-Pastes",
+      doi               = "10.1016/j.jobe.2023.105874",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Kosson, L. Brown and F. Sanchez, “Nano-Mechanical Characterization of 3D Printed Cement-Pastes”, <i>Journal of Building Engineering</i>, 2023, doi: 10.1016/j.jobe.2023.105874.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kosson, Michael, Lesa Brown, and Florence Sanchez. “Nano-Mechanical Characterization of 3D Printed Cement-Pastes”. <i>Journal of Building Engineering</i>, 2023. https://doi.org/10.1016/j.jobe.2023.105874.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

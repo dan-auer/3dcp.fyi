@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ksenija Vasilić
+    - footer
+title: Vasilić Ksenija
 description:
 tags:
  - additive
@@ -12,25 +13,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing in Concrete Construction:<br/>:aca-blank: Current Status ([2020-12](date/2020/12))
-<a href="https://doi.org/10.1002/best.202000079" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/best.202000079</a>
+#Additive Manufacturing in Concrete Construction&nbsp;([2020-12](date/2020/12))
+<div class="h1-like">Current Status</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202000079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202000079" target="_blank">10.1002/best.202000079</a>
 
--------------------------
+<a href="../../../author/vasilic_ksenija"><b>Vasilić</b>&nbsp;Ksenija</a></span><br>
+Journal Article - Beton- und Stahlbetonbau, Vol. 115, Iss. 12, pp. 1006-1012
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Beton- und Stahlbetonbau, Vol. 115, Iss. 12, pp. 1006-1012
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097217857&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3107075280" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/best.202000079" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/best.202000079?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The implementation of innovative concepts, such as digital concrete production and process automation, could lead to an increase in productivity and a reduction in material requirements in the concrete sector. The scientific community has recognized this potential, and global interest and the number of research and development activities on this topic are growing exponentially. High-quality digital manufacturing concepts are already being developed worldwide and successfully used to print a number of pilot projects. This article provides an overview of the most well-known additive manufacturing processes in concrete construction and key case studies. In addition, the open technical and technological questions are discussed. The focus is on the development of practical solutions and their implementation in the concrete sector.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../bos_wolf_sale.2020.CDC2S/">CCR Digital Concrete 2020 SI:<br/>Editorial</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -85,14 +71,44 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../plac_schw.2024.CoMaPSoC3P/">Comparison of Machine- and Performance Specifications of Concrete 3D Printers</a></li>
       <li><a href="../../../author/lindner_marco"><b>Lindner</b> Marco</a>, <a href="../../../author/gliniorz_ralf"><b>Gliniorz</b> Ralf</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lind_glin_funk_gelb.2024.AFPoLPCE/">Additive Flow Production of Lightweight Precision Concrete Elements</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../neef_mull_mech.2024.ICMICFiDFwC/">Integrating Continuous Mineral-Impregnated Carbon-Fibers into Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/gudzulic_vladislav"><b>Gudžulić</b> Vladislav</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../rein_gudz_mesc.2023.CMoFOD3CP/">Computational Modeling of Fiber Orientation During 3D Concrete Printing</a></li>
       <li><a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/ochlast_andreas"><b>Ochlast</b> Andreas</a>, <a href="../../../author/zimmert_florian"><b>Zimmert</b> Florian</a>, <a href="../../../author/braml_thomas"><b>Braml</b> Thomas</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zoll_ochl_zimm_bram.2022.DoPftAPaPoIRCE/">Development of Processes for the Automated Planning and Production of Individual Reinforced Concrete Elements</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
-      <li><a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../sche_ditt_grie.2020.PftIoCFBRiDCP/">Potential for the Integration of Continuous-Fiber-Based Reinforcements in Digital Concrete Production</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vasi.2020.AMiCC,
+      author            = "Ksenija Vasilić",
+      title             = "Additive Manufacturing in Concrete Construction: Current Status",
+      doi               = "10.1002/best.202000079",
+      year              = "2020",
+      journal           = "Beton- und Stahlbetonbau",
+      volume            = "115",
+      number            = "12",
+      pages             = "1006--1012",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Vasilić, “Additive Manufacturing in Concrete Construction: Current Status”, <i>Beton- und Stahlbetonbau</i>, vol. 115, no. 12, pp. 1006–1012, 2020, doi: 10.1002/best.202000079.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vasilić, Ksenija. “Additive Manufacturing in Concrete Construction: Current Status”. <i>Beton- Und Stahlbetonbau</i> 115, no. 12 (2020): 1006–12. https://doi.org/10.1002/best.202000079.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

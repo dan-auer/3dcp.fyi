@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Siva Jamjala, Manivannan Thulasirangan Lakshmidevi, K. Reddy, Bidur Kafle, Riyadh Ameri
+    - footer
+title: Jamjala Siva, Thulasirangan Lakshmidevi Manivannan, Reddy K., Kafle Bidur, Ameri Riyadh
 description:
 tags:
  - concrete
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>:aca-blank: Rheology to Microstructure and Eco-Functionality ([2025-10](date/2025/10))
-<a href="https://doi.org/10.3390/app152011267" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app152011267</a>
+#A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">Rheology to Microstructure and Eco-Functionality</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/app152011267" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app152011267" target="_blank">10.3390/app152011267</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-6256-8184" title="ORCID: 0009-0004-6256-8184" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jamjala_siva"><b>Jamjala</b>&nbsp;Siva</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3301-5036" title="ORCID: 0000-0002-3301-5036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b>&nbsp;Manivannan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2966-9328" title="ORCID: 0000-0002-2966-9328" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b>&nbsp;K.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3838-863X" title="ORCID: 0000-0003-3838-863X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kafle_bidur"><b>Kafle</b>&nbsp;Bidur</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1881-1787" title="ORCID: 0000-0003-1881-1787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ameri_riyadh"><b>al&nbsp;Ameri</b>&nbsp;Riyadh</a></span><br>
+Journal Article - Applied Sciences, Vol. 15, Iss. 20, No. 11267
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a> <a href="https://orcid.org/0009-0004-6256-8184" title="ORCID: 0009-0004-6256-8184" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a> <a href="https://orcid.org/0000-0002-3301-5036" title="ORCID: 0000-0002-3301-5036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a> <a href="https://orcid.org/0000-0002-2966-9328" title="ORCID: 0000-0002-2966-9328" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> <a href="https://orcid.org/0000-0003-3838-863X" title="ORCID: 0000-0003-3838-863X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ameri_riyadh"><b>al Ameri</b> Riyadh</a> <a href="https://orcid.org/0000-0003-1881-1787" title="ORCID: 0000-0003-1881-1787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 15, Iss. 20, No. 11267
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#critical`](keyword/critical)
-    [`#function`](keyword/function)
-    [`#integration`](keyword/integration)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-    [`#synergy`](keyword/synergy)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20on%20Synergistic%20Integration%20of%20Nanomaterials%20in%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020243020&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415403182" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app152011267" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app152011267?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of nanomaterials (NMs) in 3D printing concrete (3DPC) has shown significant advancements in enhancing both fresh and hardened properties. This review finds that their inclusion in printable concrete has altered the rheological properties of the mix by promoting thixotropy, extrudability, and buildability while simultaneously refining the microstructure to enhance mechanical strength. Studies further highlight that these additives impart functional properties, such as the photocatalytic activity of nano-TiO2, which enables self-cleaning ability and assists pollutant degradation. At the same time, carbon-based materials enhance electrical conductivity, thereby facilitating the development of innovative and multifunctional structures. Such incorporation also mitigates anisotropy by filling voids, creating crack-bridging networks, and reducing pore interconnectivity, thereby improving load distribution and structural cohesion in printed structures. Integrating topology optimisation with 3DPC has the potential to enable efficient material usage. Thus, it enhances both sustainability and cost-effectiveness. However, challenges such as efficient dispersion, agglomeration, energy-intensive production processes, high costs, and ensuring environmental compatibility continue to hinder their widespread adoption in concrete printing. This article emphasises the need for optimised NM dosages, effective dispersion techniques, and standardised testing methods, as well as sustainability considerations, for adapting NMs in concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "118 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/ahmadi_khatereh"><b>Ahmadi</b> Khatereh</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ahma_mous_dehe.2023.IoNCMSFoMaSHPo3PCUGOaPA/">Influence of Nano-Coated Micro-Steel-Fibers on Mechanical and Self-Healing Properties of 3D Printable Concrete Using Graphene-Oxide and Polyvinyl-Alcohol</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
@@ -189,7 +166,39 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jamj_thul_redd_kafl.2025.ACRoSIoNi3PC,
+      author            = "Siva Jamjala and Manivannan Thulasirangan Lakshmidevi and K. S. K. Karthik Reddy and Bidur Kafle and Riyadh al Ameri",
+      title             = "A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete: Rheology to Microstructure and Eco-Functionality",
+      doi               = "10.3390/app152011267",
+      year              = "2025",
+      journal           = "Applied Sciences",
+      volume            = "15",
+      number            = "20",
+      pages             = "11267",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Jamjala, M. T. Lakshmidevi, K. S. K. K. Reddy, B. Kafle and R. al Ameri, “A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete: Rheology to Microstructure and Eco-Functionality”, <i>Applied Sciences</i>, vol. 15, no. 20, p. 11267, 2025, doi: 10.3390/app152011267.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jamjala, Siva, Manivannan Thulasirangan Lakshmidevi, K. S. K. Karthik Reddy, Bidur Kafle, and Riyadh al Ameri. “A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete: Rheology to Microstructure and Eco-Functionality”. <i>Applied Sciences</i> 15, no. 20 (2025): 11267. https://doi.org/10.3390/app152011267.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Givkashi, Mohammad Tohidloo
+    - footer
+title: Givkashi Mohammad, Tohidloo Mohammad
 description:
 tags:
  - acid
@@ -21,35 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137411" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137411</a>
+#The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137411" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137411" target="_blank">10.1016/j.conbuildmat.2024.137411</a>
 
--------------------------
+<a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b>&nbsp;Mohammad</a></span>, <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b>&nbsp;Mohammad</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 440, No. 137411
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>
-,     <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b> Mohammad</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 440, No. 137411
-
-:aca-blank:{ .lg .middle}
-    [`#acid`](keyword/acid)
-    [`#air`](keyword/air)
-    [`#attack`](keyword/attack)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#effect`](keyword/effect)
-    [`#entrainment`](keyword/entrainment)
-    [`#freeze`](keyword/freeze)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#thaw`](keyword/thaw)
-
-
--------------------------
+<a href="../../keyword/acid"><button class="btn">#acid</button></a> <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/attack"><button class="btn">#attack</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Freeze-Thaw-Cycles%20and%20Sulfuric-Acid-Attack%20Separately%20on%20the%20Compressive%20Strength%20and%20Microstructure%20of%203D%20Printed%20Air-Entrained%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198294800&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400606916" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137411" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137411?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed concrete (3DPC) is a promising technique for constructing structures and intricate designs. To ensure the successful performance of these structures throughout their service life, it is essential to understand their long-term properties and durability. While the use of air-entraining additives can enhance the durability of concrete against freeze-thaw cycles, investigating their impact on other properties is crucial. This study examines the effect of freeze-thaw cycles and sulfuric acid attack on the durability of 3D-printed concrete containing air-entraining additives. The results indicate that, in addition to improving resistance to freeze-thaw cycles, air-entraining additives also increases resistance to sulfuric acid attack. The drop in compressive strength of the samples containing air-entrained additive (0.08–0.12 % AEA) is 1.4–5.3 % less than the control samples against the freezing and thawing cycles. Examining the mechanisms of action of these invasive agents also shows this. Creating intentional voids to reduce the internal pressure of water expansion during freezing and reducing the number and width of possible microcracks are the dominant mechanisms of air-entraining additives against freeze-thaw cycles. Besides, their performance mechanisms during acid attacks are somewhat similar. Analysis of elements created in the matrix of the samples after acid attack indicates a decrease in calcium concentration and an increase in silica concentration. Among the observed reactions, the second reaction prevails, leading to the breakdown of the C-S-H structure into gypsum and silica hydroxide. This phenomenon is associated with changes in acid concentration. However, the presence of air bubbles causes surplus plate-like Calcium hydroxide crystals resulting from the elevated cement content in printed mixes to form within these bubbles, making them susceptible to damage and fracture during freeze-thaw and acid attacks.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
@@ -82,7 +57,6 @@ tags:
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/song_yu"><b>Song</b> Yu</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../das_song_mant_wang.2022.EoPotAVSo3PC/">Effect of Processing on the Air-Void System of 3D Printed Concrete</a></li>
       <li><a href="../../../author/dong_wei"><b>Dong</b> Wei</a>, <a href="../../../author/wang_junfeng"><b>Wang</b> Junfeng</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/qu_shuqiang"><b>Qu</b> Shuqiang</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dong_wang_hang_qu.2024.RoPPaSFRo3PCwFSaAS/">Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand</a></li>
       <li><a href="../../../author/eugenin_claudia"><b>Eugenin</b> Claudia</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a>, <a href="../../../author/brevis_wernher"><b>Brevis</b> Wernher</a>, <a href="../../../author/lopez_mauricio"><b>Lopez</b> Mauricio</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../euge_nava_brev_lope.2022.ABaaAfPC/">Air-Bubbles as an Admixture for Printable Concrete:<br/>A Review of the Rheological Effect of Entrained Air</a></li>
-      <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../givk_mood_rame.2025.ISaMPo3PCUDCC/">Investigating Shrinkage and Mechanical Properties of 3D Printed Concretes Under Different Curing Conditions</a></li>
       <li><a href="../../../author/inaty_francois"><b>Inaty</b> Francois</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../inat_baz_aoua.2022.LTDAo3PC/">Long-Term Durability-Assessment of 3D Printed Concrete</a></li>
       <li><a href="../../../author/jeon_kwang-hyun"><b>Jeon</b> Kwang-Hyun</a>, <a href="../../../author/park_min-beom"><b>Park</b> Min-Beom</a>, <a href="../../../author/kang_min-kyung"><b>Kang</b> Min-Kyung</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../jeon_park_kang_kim.2013.DoaAFCSaICM/">Development of an Automated Freeform Construction System and Its Construction Materials</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
@@ -99,8 +73,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
@@ -112,4 +86,34 @@ tags:
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/wu_jian"><b>Wu</b> Jian</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_liu_wu_wu.2025.EoXRCCPSotFTRo3PCwRCA/">Effect of X-Ray CT Characterized Pore Structure on the Freeze-Thaw Resistance of 3D Printed Concrete with Recycled Coarse Aggregate</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../givk_mood_rame.2024.EoPPotPo3PCCAEA/">Effect of Pumping Process on the Properties of 3D Printed Concrete Containing Air-Entraining-Agent</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{givk_tohi.2024.TEoFTCaSAASotCSaMo3PAEC,
+      author            = "Mohammad Rasul Givkashi and Mohammad Tohidloo",
+      title             = "The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.137411",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "440",
+      pages             = "137411",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Givkashi  and M. Tohidloo, “The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete”, <i>Construction and Building Materials</i>, vol. 440, p. 137411, 2024, doi: 10.1016/j.conbuildmat.2024.137411.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Givkashi, Mohammad Rasul, and Mohammad Tohidloo. “The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete”. <i>Construction and Building Materials</i> 440 (2024): 137411. https://doi.org/10.1016/j.conbuildmat.2024.137411.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

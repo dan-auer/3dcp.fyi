@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Gupta Souradeep 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a>, <a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gupt_saha_soda_dwiv.2025.DoCS3PSEM/">Development of Carbon Sequestering 3D-Printable Stabilized Earth Materials:<br/>Investigation into Engineering Performance and Resistance Against Acid Attack</a></li>
   <li><a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a>, <a href="../../../author/kumar_abhishek"><b>Kumar</b> Abhishek</a>, <a href="../../../author/pundir_aakanksha"><b>Pundir</b> Aakanksha</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kuma_kuma_pund_dwiv.2025.LCSaFAi3PC/">Low-Clay Soil as Fine Aggregate in 3D Printed Concrete:<br/>Insights into Fresh and Hardened Properties</a></li>
   <li><a href="../../../author/sahoo_pitabash"><b>Sahoo</b> Pitabash</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../saho_gupt.2025.3PwGSEE/">3D Printing with Geopolymer-Stabilized Excavated Earth:<br/>Enhancement of Printability and Engineering-Performance Through Controlled Retardation</a></li>

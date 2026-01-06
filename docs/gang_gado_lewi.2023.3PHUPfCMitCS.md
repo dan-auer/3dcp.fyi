@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ankita Gangotra, Emanuela Gado, Joanna Lewis
+    - footer
+title: Gangotra Ankita, Gado Emanuela, Lewis Joanna
 description:
 tags:
  - cement
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.nature.com/articles/s44172-023-00054-7.pdf) 3D Printing Has Untapped Potential for Climate Mitigation in the Cement Sector ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1038/s44172-023-00054-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s44172-023-00054-7</a>
+#3D Printing Has Untapped Potential for Climate Mitigation in the Cement Sector ([2023-02](date/2023/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s44172-023-00054-7.pdf) <a href="https://doi.org/10.1038/s44172-023-00054-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s44172-023-00054-7" target="_blank">10.1038/s44172-023-00054-7</a>
 
--------------------------
+<a href="../../../author/gangotra_ankita"><b>Gangotra</b>&nbsp;Ankita</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8340-0290" title="ORCID: 0000-0002-8340-0290" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gado_emanuela"><b>del&nbsp;Gado</b>&nbsp;Emanuela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5362-1308" title="ORCID: 0000-0002-5362-1308" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lewis_i_joanna"><b>Lewis</b>&nbsp;Joanna</a></span><br>
+Journal Article - Communications Engineering, Vol. 2, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gangotra_ankita"><b>Gangotra</b> Ankita</a>
-,     <a href="../../../author/gado_emanuela"><b>del Gado</b> Emanuela</a> <a href="https://orcid.org/0000-0002-8340-0290" title="ORCID: 0000-0002-8340-0290" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lewis_i_joanna"><b>Lewis</b> Joanna</a> <a href="https://orcid.org/0000-0002-5362-1308" title="ORCID: 0000-0002-5362-1308" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Communications Engineering, Vol. 2, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#climate`](keyword/climate)
-    [`#mitigation`](keyword/mitigation)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/climate"><button class="btn">#climate</button></a> <a href="../../keyword/mitigation"><button class="btn">#mitigation</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Has%20Untapped%20Potential%20for%20Climate%20Mitigation%20in%20the%20Cement%20Sector" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162935385&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319161091" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s44172-023-00054-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s44172-023-00054-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cementitious products, such as concrete and cement, are some of the most used resources in the world, second only to water in terms of consumption. In the coming decades the demand for cementitious materials and new construction will continue to increase due to a rising global population and urbanization. The production of cement currently contributes to approximately 8% of global CO2 emissions. Cement production and use in construction are responsible for up to 77% and 8% of the emissions respectively from the entire lifecycle of cement and of concrete, from production to end-of-life1. In cement production, over 50% of the total CO2 emissions are caused by chemical processes due to calcination i.e., the breakdown of limestone to form clinker, the main reactive component in cement products, and the thermal energy used for the process of calcination accounts for 40% of the CO2 emissions. Due to both these inherent material manufacturing processes and to rising global demand, cement is widely considered to be a ‘hard-toabate’ sector in a global climate mitigation. Low-carbon technologies for cement can be implemented through both production-centric policies targeting the cement production process and consumption-centric policies targeting the end-use of cement in construction. Yet all currently proposed solutions fall short of the systemic changes that could be achieved through the scaling of 3D printing applications in the construction sector. For example, in its latest technology roadmap for cement, the International Energy Agency proposes four technological strategies to lower emissions from the production of cement: (1) clinker substitution, (2) energy efficiency, (3) switching to alternative fuels, and (4) emerging carbon capture, utilization, and storage (CCUS) technologies2; the same strategies emphasized in other decarbonization strategies for the cement sector1,3. All of these roadmaps for decarbonizing the cement sector recognize that while existing low-carbon cement technologies will help with partial CO2 mitigation, newer, breakthrough low-carbon technologies are required to achieve carbon neutrality in the cement and concrete supply chain by mid-century. Cement-based construction 3D printing (C3DP), also known as cement-based additive manufacturing or digital construction, is an emerging technology that, while omitted from all current roadmaps for decarbonizing the cement sector, has a potential ofbecoming a climate solution for the cement sector, reducing the embodied carbon in new constructions. C3DP is sometimes used to refer to construction 3D printing as a whole, which also includes the use of plastics and metals for construction. In this comment C3DP only refers to cement-based 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
@@ -77,8 +59,8 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../brad_gent_alon_kurt.2025.C3PMS/">Construction 3D Printing Material Selection:<br/>Minimizing Cost and Carbon Footprint of Residential Wall Assemblies</a></li>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
       <li><a href="../../../author/wu_mushuang"><b>Wu</b> Mushuang</a>, <a href="../../../author/wang_zixiao"><b>Wang</b> Zixiao</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/zhu_mengyu"><b>Zhu</b> Mengyu</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wu_wang_chen_zhu.2024.EoSSoRaMPoSCBS3PC/">Effect of Steel-Slag on Rheological and Mechanical Properties of Sulfoaluminate-Cement-Based Sustainable 3D Printing Concrete</a></li>
@@ -89,4 +71,34 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
       <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gang_gado_lewi.2023.3PHUPfCMitCS,
+      author            = "Ankita Gangotra and Emanuela del Gado and Joanna I. Lewis",
+      title             = "3D Printing Has Untapped Potential for Climate Mitigation in the Cement Sector",
+      doi               = "10.1038/s44172-023-00054-7",
+      year              = "2023",
+      journal           = "Communications Engineering",
+      volume            = "2",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Gangotra, E. del Gado and J. I. Lewis, “3D Printing Has Untapped Potential for Climate Mitigation in the Cement Sector”, <i>Communications Engineering</i>, vol. 2, no. 1, 2023, doi: 10.1038/s44172-023-00054-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gangotra, Ankita, Emanuela del Gado, and Joanna I. Lewis. “3D Printing Has Untapped Potential for Climate Mitigation in the Cement Sector”. <i>Communications Engineering</i> 2, no. 1 (2023). https://doi.org/10.1038/s44172-023-00054-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

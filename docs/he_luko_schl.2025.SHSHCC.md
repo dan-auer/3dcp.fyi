@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shan He, Mladena Luković, Erik Schlangen
+    - footer
+title: He Shan, Luković Mladena, Schlangen Erik
 description:
 tags:
  - concrete
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.21012/fc12.1365) Self-Healing Strain-Hardening Concrete Cover ([2025-04](date/2025/04))
-<a href="https://doi.org/10.21012/fc12.1365" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21012/fc12.1365</a>
+#Self-Healing Strain-Hardening Concrete Cover ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc12.1365) <a href="https://doi.org/10.21012/fc12.1365" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1365" target="_blank">10.21012/fc12.1365</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4175-2877" title="ORCID: 0000-0003-4175-2877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_shan"><b>He</b>&nbsp;Shan</a></span>, <a href="../../../author/lukovic_mladena"><b>Luković</b>&nbsp;Mladena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span><br>
+Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/he_shan"><b>He</b> Shan</a> <a href="https://orcid.org/0000-0003-4175-2877" title="ORCID: 0000-0003-4175-2877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#cover`](keyword/cover)
-    [`#hardened`](keyword/hardened)
-    [`#self`](keyword/self)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cover"><button class="btn">#cover</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Self-Healing%20Strain-Hardening%20Concrete%20Cover" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,20 +35,45 @@ tags:
 <a href="https://inciteful.xyz/p/W4409430314" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21012/fc12.1365" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21012/fc12.1365?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     An experimental study is carried out to investigate the structural behaviour and durability performance of hybrid reinforced concrete beams with U-shaped covers made via mould-casting method and 3D printing method. Structural behaviour, surface crack pattern and crack propagation between the reinforced concrete core and U-shaped SHCC cover are studied. A qualitative assessment of the crack appearance before and after healing was also performed. Findings reveal that mouldcasted SH-SHCC covers enhance crack control without compromising beam properties, offering comparable or improved load capacity and ductility under shear and flexure. Although 3D-printed covers are slightly less effective in crack control, they still improve overall performance and offer advantages in manufacturing efficiency. Both cover types effectively prevent delamination and disperse major cracks into finer, healable cracks, facilitating crack healing observed after one-month moist curing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{he_luko_schl.2025.SHSHCC,
+      author            = "Shan He and Mladena Luković and Erik Schlangen",
+      title             = "Self-Healing Strain-Hardening Concrete Cover",
+      doi               = "10.21012/fc12.1365",
+      year              = "2025",
+      booktitle         = "Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures",
+      editor            = "Bernhard L. A. Pichler and Christian Hellmich and Philipp Preinstorfer",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. He, M. Luković and E. Schlangen, “Self-Healing Strain-Hardening Concrete Cover”, in <i>Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures</i>,  2025. doi: 10.21012/fc12.1365.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">He, Shan, Mladena Luković, and Erik Schlangen. “Self-Healing Strain-Hardening Concrete Cover”. In <i>Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures</i>, edited by Bernhard L. A. Pichler, Christian Hellmich, and Philipp Preinstorfer, 2025. https://doi.org/10.21012/fc12.1365.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

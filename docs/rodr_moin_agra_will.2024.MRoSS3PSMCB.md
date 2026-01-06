@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fabian Rodriguez, Mohamadreza Moini, Shubham Agrawal, Christopher Williams, Pablo Zavattieri, Jan Olek, Jeffrey Youngblood, Amit Varma
+    - footer
+title: Rodriguez Fabian, Moini Mohamadreza, Agrawal Shubham, Williams Christopher, Zavattieri Pablo, Olek Jan, Youngblood Jeffrey, Varma Amit
 description:
 tags:
  - beam
@@ -16,36 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105795" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105795</a>
+#Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105795" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105795" target="_blank">10.1016/j.cemconcomp.2024.105795</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b>&nbsp;Fabian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span>, <a href="../../../author/agrawal_shubham"><b>Agrawal</b>&nbsp;Shubham</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7512-8939" title="ORCID: 0000-0001-7512-8939" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/williams_s_christopher"><b>Williams</b>&nbsp;Christopher</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b>&nbsp;Pablo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olek_jan"><b>Olek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b>&nbsp;Jeffrey</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7153-4681" title="ORCID: 0000-0001-7153-4681" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varma_h_amit"><b>Varma</b>&nbsp;Amit</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 154, No. 105795
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a> <a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/agrawal_shubham"><b>Agrawal</b> Shubham</a>
-,     <a href="../../../author/williams_s_christopher"><b>Williams</b> Christopher</a> <a href="https://orcid.org/0000-0001-7512-8939" title="ORCID: 0000-0001-7512-8939" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> <a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> <a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/varma_h_amit"><b>Varma</b> Amit</a> <a href="https://orcid.org/0000-0001-7153-4681" title="ORCID: 0000-0001-7153-4681" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 154, No. 105795
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#composite`](keyword/composite)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#response`](keyword/response)
-    [`#scale`](keyword/scale)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Response%20of%20Small-Scale%203D%20Printed%20Steel-Mortar%20Composite%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206140372&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403310322" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105795" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105795?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the mechanical properties of composite beams additively manufactured by 3D-printing of layers of mortar on top of custom-designed (also 3D-printed) steel plates, which served as external flexural reinforcement. The mechanical performance of the composite beams was evaluated using three-point bending test. The results were compared with the data obtained from two types of reference specimens: 3D-printed beams with no external reinforcing plate, and composite beams with mortar cast (rather than 3D printed) on the top of the steel plate. Four different architectures (also referred to as configurations) were created by either 3D-printing (using two different filament orientations), casting, or a combination of both processes (referred to as a hybrid configuration). This configuration consisted of 3D-printed external walls (outline) of the beam and cast interior (infill). The effects of these architectures were investigated using both unreinforced and composite elements, in order to identify the contributions of the orientation of filaments and associated interfaces on the initiation and propagation of the cracks. Analysis of the initiation and propagation of the cracks was based on the data obtained from the digital image correlation (DIC) technique. Mechanical performance parameters that were investigated included the following: load-displacement responses, flexural stress-flexural strain responses, shear stress-shear strain responses, and the work of failure. The results of the test revealed that the incorporation of steel plates as an external reinforcement resulted in the transition from flexural to shear mode failure. In terms of flexural strength, all composite configurations demonstrated comparable performance independently of the architecture used while hybrid configuration outperformed cast composite counterparts by attaining significantly higher values of the work of failure. This indicates that hybrid elements developed enhanced energy dissipation characteristics compared to the other configurations. The results of specific modulus of rupture and shear strength obtained from unreinforced and reinforced hybrid elements, respectively, were comparable to those obtained from cast counterparts, indicating that the hybrid configuration may offer a viable alternative for the construction of structural concrete elements. Finally, the values of modulus of rupture and shear stress obtained for different configurations used in the study were compared to the design expressions in the ACI 318–19 code. It was found that hybrid elements as well as cast elements used in this study satisfy the minimum requirements and further studies at larger scales could confirm their use in structural applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -111,7 +85,37 @@ tags:
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../skib_tech_fede_olcz.2021.ESoHYsMf3PM/">Experimental Study of Hardened Young's Modulus for 3D Printed Mortar</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rodr_moin_agra_will.2024.MRoSS3PSMCB,
+      author            = "Fabian B. Rodriguez and Mohamadreza Moini and Shubham Agrawal and Christopher S. Williams and Pablo D. Zavattieri and Jan Olek and Jeffrey P. Youngblood and Amit H. Varma",
+      title             = "Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams",
+      doi               = "10.1016/j.cemconcomp.2024.105795",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "154",
+      pages             = "105795",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. B. Rodriguez, “Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams”, <i>Cement and Concrete Composites</i>, vol. 154, p. 105795, 2024, doi: 10.1016/j.cemconcomp.2024.105795.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rodriguez, Fabian B., Mohamadreza Moini, Shubham Agrawal, Christopher S. Williams, Pablo D. Zavattieri, Jan Olek, Jeffrey P. Youngblood, and Amit H. Varma. “Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams”. <i>Cement and Concrete Composites</i> 154 (2024): 105795. https://doi.org/10.1016/j.cemconcomp.2024.105795.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

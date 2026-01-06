@@ -8,7 +8,7 @@ search:
 
 # #profile
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../imra_rash_khan_ilca.2023.BAoSPSi3CP/">Buildability-Analysis on Squared Profile Structure in 3D Concrete Printing</a></li>
   <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/schmitz_paul_linus"><b>Schmitz</b> Linus</a>, <a href="../../../author/muller_christoph"><b>Müller</b> Christoph</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../klof_schm_mull_lagh.2023.EAoRWaAAMTfStIBP/">Experimental Application of Robotic Wire and Arc Additive Manufacturing-Technique for Strengthening the I-Beam Profiles</a></li>

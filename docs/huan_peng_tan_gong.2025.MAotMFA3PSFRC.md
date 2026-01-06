@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junxiang Huang, Zeqin Peng, Xianzhong Tan, Guofang Gong, Huayong Yang, Kai Ren, Dong Han
+    - footer
+title: Huang Junxiang, Peng Zeqin, Tan Xianzhong, Gong Guofang, Yang Huayong, Ren Kai, Han Dong
 description:
 tags:
  - analysis
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanism Analysis of the Magnetic Field-Assisted 3D Printed Steel-Fiber-Reinforced Concrete ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.139737" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.139737</a>
+#Mechanism Analysis of the Magnetic Field-Assisted 3D Printed Steel-Fiber-Reinforced Concrete ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.139737" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139737" target="_blank">10.1016/j.conbuildmat.2024.139737</a>
 
--------------------------
+<a href="../../../author/huang_junxiang"><b>Huang</b>&nbsp;Junxiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0031-593X" title="ORCID: 0000-0002-0031-593X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_zeqin"><b>Peng</b>&nbsp;Zeqin</a></span>, <a href="../../../author/tan_xianzhong"><b>Tan</b>&nbsp;Xianzhong</a></span>, <a href="../../../author/gong_guofang"><b>Gong</b>&nbsp;Guofang</a></span>, <a href="../../../author/yang_huayong"><b>Yang</b>&nbsp;Huayong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9312-9705" title="ORCID: 0000-0002-9312-9705" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_kai"><b>Ren</b>&nbsp;Kai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3292-979X" title="ORCID: 0000-0003-3292-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_dong"><b>Han</b>&nbsp;Dong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 458, No. 139737
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/huang_junxiang"><b>Huang</b> Junxiang</a>
-,     <a href="../../../author/peng_zeqin"><b>Peng</b> Zeqin</a> <a href="https://orcid.org/0000-0002-0031-593X" title="ORCID: 0000-0002-0031-593X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_xianzhong"><b>Tan</b> Xianzhong</a>
-,     <a href="../../../author/gong_guofang"><b>Gong</b> Guofang</a>
-,     <a href="../../../author/yang_huayong"><b>Yang</b> Huayong</a>
-,     <a href="../../../author/ren_kai"><b>Ren</b> Kai</a> <a href="https://orcid.org/0000-0002-9312-9705" title="ORCID: 0000-0002-9312-9705" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_dong"><b>Han</b> Dong</a> <a href="https://orcid.org/0000-0003-3292-979X" title="ORCID: 0000-0003-3292-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 458, No. 139737
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#assistance`](keyword/assistance)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#field`](keyword/field)
-    [`#magnetism`](keyword/magnetism)
-    [`#mechanism`](keyword/mechanism)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assistance"><button class="btn">#assistance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/magnetism"><button class="btn">#magnetism</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanism%20Analysis%20of%20the%20Magnetic%20Field-Assisted%203D%20Printed%20Steel-Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213065468&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405774945" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.139737" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.139737?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The magnetic orientation of steel fibers in concrete, extensively studied in formwork-cast concrete for improving crack-bridging capacity, has yet to be analyzed for its feasibility in adjusting fiber orientation via magnetic field in 3D printed concrete. This study thus aims to propose a technique for in-situ magnetization of steel fibers and quantitatively investigate fiber magnetic orientation in 3D printed concrete. Relations between critical process parameters and the fiber magnetic orientation were investigated, including magnetic induction intensity, fiber volume fraction, and fiber types. The results reveal that when the magnetic induction intensity at the center of the nozzle reaches 34mT and the fiber volume fraction is 0.5 %, 25mm bow steel fibers (BF25) exhibit the most significant effect on bridging cracks, with a maximum improvement in mechanical properties of over 50 %. The enhancement of the mechanical properties demonstrates the huge potential of applying fiber magnetic orientation in 3D printed engineering concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -88,8 +61,38 @@ tags:
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{huan_peng_tan_gong.2025.MAotMFA3PSFRC,
+      author            = "Junxiang Huang and Zeqin Peng and Xianzhong Tan and Guofang Gong and Huayong Yang and Kai Ren and Dong Han",
+      title             = "Mechanism Analysis of the Magnetic Field-Assisted 3D Printed Steel-Fiber-Reinforced Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.139737",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "458",
+      pages             = "139737",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Huang, “Mechanism Analysis of the Magnetic Field-Assisted 3D Printed Steel-Fiber-Reinforced Concrete”, <i>Construction and Building Materials</i>, vol. 458, p. 139737, 2025, doi: 10.1016/j.conbuildmat.2024.139737.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Huang, Junxiang, Zeqin Peng, Xianzhong Tan, Guofang Gong, Huayong Yang, Kai Ren, and Dong Han. “Mechanism Analysis of the Magnetic Field-Assisted 3D Printed Steel-Fiber-Reinforced Concrete”. <i>Construction and Building Materials</i> 458 (2025): 139737. https://doi.org/10.1016/j.conbuildmat.2024.139737.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

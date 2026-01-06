@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Simon Guihéneuf, Mathieu Audren, Nathan Lely, Tangi Borgne, Damien Rangeard, Arnaud Perrot
+    - footer
+title: Guihéneuf Simon, Audren Mathieu, Lely Nathan, Borgne Tangi, Rangeard Damien, Perrot Arnaud
 description:
 tags:
  - earth
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Monitoring and Modeling of Formwork Pressure Exerted by Castable Earthen Materials ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1007/978-3-031-62690-6_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-62690-6_9</a>
+#Monitoring and Modeling of Formwork Pressure Exerted by Castable Earthen Materials ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-62690-6_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-62690-6_9" target="_blank">10.1007/978-3-031-62690-6_9</a>
 
--------------------------
+<a href="../../../author/guiheneuf_simon"><b>Guihéneuf</b>&nbsp;Simon</a></span>, <a href="../../../author/audren_mathieu"><b>Audren</b>&nbsp;Mathieu</a></span>, <a href="../../../author/lely_nathan"><b>Lely</b>&nbsp;Nathan</a></span>, <a href="../../../author/borgne_tangi"><b>le&nbsp;Borgne</b>&nbsp;Tangi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangeard_damien"><b>Rangeard</b>&nbsp;Damien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 81-90
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/guiheneuf_simon"><b>Guihéneuf</b> Simon</a>
-,     <a href="../../../author/audren_mathieu"><b>Audren</b> Mathieu</a>
-,     <a href="../../../author/lely_nathan"><b>Lely</b> Nathan</a>
-,     <a href="../../../author/borgne_tangi"><b>le Borgne</b> Tangi</a>
-,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 81-90
-
-:aca-blank:{ .lg .middle}
-    [`#earth`](keyword/earth)
-    [`#formwork`](keyword/formwork)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#monitoring`](keyword/monitoring)
-    [`#pressure`](keyword/pressure)
-
-
--------------------------
+<a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Monitoring%20and%20Modeling%20of%20Formwork%20Pressure%20Exerted%20by%20Castable%20Earthen%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200445683&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,20 +36,47 @@ tags:
 <a href="https://inciteful.xyz/p/W4400040118" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-62690-6_9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-62690-6_9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Castable earth appears to be a promising solution for an efficient modern earthen construction method. In this construction technique, a setting agent is added to the earthen material (biopolymer or hydraulic binder), induces a material hardening and allows for the formwork removal. However, and contrarily to castable concrete, there is no available study dealing with the monitoring and the modeling of the pressure exerted by the earth at fresh state on the formwork. Nevertheless, it is critical to be able to predict the formwork pressure and its evolution with time after casting in order to design the formwork structure and to schedule its removal. In this study, a formwork mock-up equipped with interstitial pressure sensor is used to monitor the formwork pressure and the ability of theories developed for the prediction of pressure exerted by cement-based materials are tested and adapted to self-compacting earthen materials, one using alginate as a setting agent and the other incorporating 5% of CEM IIIA cement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/micaelli_francesca"><b>Micaelli</b> Francesca</a> et al. <a href="../../../date/2012/06">(2012-06)</a><br><a href="../../../perr_meli_rang_mica.2012.UoREaaCRTtStBoHYSFaLSR/">Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{guih_audr_lely_borg.2024.MaMoFPEbCEM,
+      author            = "Simon Guihéneuf and Mathieu Audren and Nathan Lely and Tangi le Borgne and Damien Rangeard and Arnaud Perrot",
+      title             = "Monitoring and Modeling of Formwork Pressure Exerted by Castable Earthen Materials",
+      doi               = "10.1007/978-3-031-62690-6_9",
+      year              = "2024",
+      volume            = "52",
+      pages             = "81--90",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Earthen Construction",
+      editor            = "Christopher Beckett and Ana Rita Brás and Antonin Fabbri and Emmanuel Keita and Céline Perlot and Arnaud Perrot",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Guihéneuf, M. Audren, N. Lely, T. le Borgne, D. Rangeard and A. Perrot, “Monitoring and Modeling of Formwork Pressure Exerted by Castable Earthen Materials”, in <i>Proceedings of the 2nd RILEM International Conference on Earthen Construction</i>,  2024, vol. 52, pp. 81–90. doi: 10.1007/978-3-031-62690-6_9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Guihéneuf, Simon, Mathieu Audren, Nathan Lely, Tangi le Borgne, Damien Rangeard, and Arnaud Perrot. “Monitoring and Modeling of Formwork Pressure Exerted by Castable Earthen Materials”. In <i>Proceedings of the 2nd RILEM International Conference on Earthen Construction</i>, edited by Christopher Beckett, Ana Rita Brás, Antonin Fabbri, Emmanuel Keita, Céline Perlot, and Arnaud Perrot, 52:81–90, 2024. https://doi.org/10.1007/978-3-031-62690-6_9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

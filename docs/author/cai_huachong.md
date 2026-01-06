@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Cai Huachong 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/cai_huachong"><b>Cai</b> Huachong</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../liu_cai_sun_wang.2024.SB3PFC/">Spray-Based 3D Printed Foam-Concrete:<br/>Cooperative Optimization for Lightweight and High-Strength Performance</a></li>
   <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/cai_huachong"><b>Cai</b> Huachong</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hou_guanyu"><b>Hou</b> Guanyu</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../liu_cai_ma_hou.2024.SB3CPPDM/">Spray-Based 3D Concrete Printing-Parameter Design-Model:<br/>Actionable Insight for High Printing Quality</a></li>
 </ol>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatheali Shilar, Mubarakali Shilar
+    - footer
+title: Shilar Fatheali, Shilar Mubarakali
 description:
 tags:
  - analysis
@@ -19,33 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.jobe.2025.114903" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114903</a>
+#Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114903" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114903" target="_blank">10.1016/j.jobe.2025.114903</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2885-932X" title="ORCID: 0000-0003-2885-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shilar_a_fatheali"><b>Shilar</b>&nbsp;Fatheali</a></span>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b>&nbsp;Mubarakali</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114903
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a> <a href="https://orcid.org/0000-0003-2885-932X" title="ORCID: 0000-0003-2885-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114903
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#cycle`](keyword/cycle)
-    [`#durability`](keyword/durability)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#life`](keyword/life)
-    [`#micro`](keyword/micro)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#relation`](keyword/relation)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance-Based%20Analysis%20of%203D%20Printed%20Geopolymers%20Relating%20Durability%2C%20Microstructure%2C%20and%20Life%20Cycle%20Assessment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417247725" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114903" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114903?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The durability of 3D printed geopolymer concrete (3DPG) is essential for maintaining reliable performance in adverse environmental conditions. This study examines the formulations of geopolymers with sustainable precursors such as fly ash (FA), ground granulated blast-furnace slag (GGBS), metakaolin (MK), construction and demolition waste (CDW), fibers, recovered aggregates (RA), and nanomaterials. The study used data from more than 100 peer-reviewed publications, including statistical methodologies like distribution analysis, regression modeling, and Q-Q plots.EM, XRD, FTIR, and X-CT methodologies were implemented to evaluate microstructural characteristics. The results indicated that FA-based 3DPG preserved around 90% of its compressive strength after exposure to 3% H2SO4, whereas hybrid FA–GGBS–MK mixtures sustained 66% of their strength after undergoing 60 freeze–thaw cycles. The addition of fibers led to a decrease in shrinkage from 1600 × 10-6 to 510 × 10-6, while simultaneously improving bond strength from 0.52 MPa to 1.25 MPa. The oxygen permeability index (OPI) values surpassed 9.5, indicating the presence of a strong and dense matrix. The results derived from the Life Cycle Assessment (LCA) suggest a potential decrease of 60–80% in CO2 emissions relative to traditional Portland cement. This study outlines a quantifiable relationship among the improvement of durability, the refinement of microstructure, and the performance in terms of sustainability. This demonstrates the ability of 3DPG to deliver robust and eco-friendly infrastructure solutions that align with the United Nations Sustainable Development Goals 9, 11, and 12.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "74 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali-shah_farasat_syed"><b>Ali Shah</b> Syed</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/xuan_dongxing"><b>Xuan</b> Dongxing</a>, <a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ali_zhan_xuan_poon.2025.DoaNMSfSoDPoOPGUMSWIBAaBFS/">Development of a Novel Mixing Strategy for Set-on-Demand Printing of One-Part Geopolymer Using Municipal Solid Waste Incineration Bottom Ash and Blast Furnace Slag</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../ashr_naza_meis_duar.2021.ECaCftCEoTNoLaVoMoSDiSSAMoC/">Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ashr_naza_meis_duar.2022.AGBAfTPG/">A Grammar-Based Algorithm for Tool-Path-Generation:<br/>Compensating for Material-Deformation in the Additive Manufacturing of Concrete</a></li>
@@ -146,7 +123,36 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shil_shil.2025.PBAo3PGRDMaLCA,
+      author            = "Fatheali A. Shilar and Mubarakali Shilar",
+      title             = "Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment",
+      doi               = "10.1016/j.jobe.2025.114903",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114903",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. A. Shilar  and M. Shilar, “Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment”, <i>Journal of Building Engineering</i>, p. 114903, 2025, doi: 10.1016/j.jobe.2025.114903.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shilar, Fatheali A., and Mubarakali Shilar. “Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment”. <i>Journal of Building Engineering</i>, 2025, 114903. https://doi.org/10.1016/j.jobe.2025.114903.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

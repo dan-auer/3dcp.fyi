@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seoung-Ho Baek, Jung-Ho Yang, Cheol-Woo Ha, Patrick Shim, Son Yong, Sang-Hu Park
+    - footer
+title: Baek Seoung-Ho, Yang Jung-Ho, Ha Cheol-Woo, Shim Patrick, Yong Son, Park Sang-Hu
 description:
 tags:
  - additive
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.nature.com/articles/s41598-022-23809-2.pdf) Design and Evaluation of Additive Manufactured Highly Efficient Inclined-Wing-Type Continuous Mixer ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1038/s41598-022-23809-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s41598-022-23809-2</a>
+#Design and Evaluation of Additive Manufactured Highly Efficient Inclined-Wing-Type Continuous Mixer ([2022-11](date/2022/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s41598-022-23809-2.pdf) <a href="https://doi.org/10.1038/s41598-022-23809-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-022-23809-2" target="_blank">10.1038/s41598-022-23809-2</a>
 
--------------------------
+<a href="../../../author/baek_seoung-ho"><b>Baek</b>&nbsp;Seoung-Ho</a></span>, <a href="../../../author/yang_jung-ho"><b>Yang</b>&nbsp;Jung-Ho</a></span>, <a href="../../../author/ha_cheol-woo"><b>Ha</b>&nbsp;Cheol-Woo</a></span>, <a href="../../../author/shim_y_patrick"><b>Shim</b>&nbsp;Patrick</a></span>, <a href="../../../author/yong_son"><b>Yong</b>&nbsp;Son</a></span>, <a href="../../../author/park_sang-hu"><b>Park</b>&nbsp;Sang-Hu</a></span><br>
+Journal Article - Scientific Reports, Vol. 12, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/baek_seoung-ho"><b>Baek</b> Seoung-Ho</a>
-,     <a href="../../../author/yang_jung-ho"><b>Yang</b> Jung-Ho</a>
-,     <a href="../../../author/ha_cheol-woo"><b>Ha</b> Cheol-Woo</a>
-,     <a href="../../../author/shim_y_patrick"><b>Shim</b> Patrick</a>
-,     <a href="../../../author/yong_son"><b>Yong</b> Son</a>
-,     <a href="../../../author/park_sang-hu"><b>Park</b> Sang-Hu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Scientific Reports, Vol. 12, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#continuous`](keyword/continuous)
-    [`#design`](keyword/design)
-    [`#efficient`](keyword/efficient)
-    [`#evaluation`](keyword/evaluation)
-    [`#inclination`](keyword/inclination)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mixing`](keyword/mixing)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/inclination"><button class="btn">#inclination</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Evaluation%20of%20Additive%20Manufactured%20Highly%20Efficient%20Inclined-Wing-Type%20Continuous%20Mixer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141863786&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,20 +39,46 @@ tags:
 <a href="https://inciteful.xyz/p/W4308968883" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s41598-022-23809-2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s41598-022-23809-2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     We develop a novel milli-scale mixer (tilted-wings mixing unit, TWM unit) based on the design for additive manufacturing (DfAM). The proposed tilted-wings mixer has basically designed to have three separate wings that split and combine fluids in order to mix together effectively. Its structure is simple for easy fabrication: two major design parameters of angle among three wings and connecting angle between tilted-unit, which are optimized using the computational fluid dynamics (CFD) analysis. From the CFD analysis, we obtain the best-combined mixing module from analyses of various combinations of TWM units for a highly effective mixing ratio. The mixing ratio of three combined units reaches near 100%, which is validated by the experiment and analysis. We believe that the proposed milliscale mixer can be utilized in diverse chemical continuous mixers and reactors for minimizing of use of chemicals that can pollute the environment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{baek_yang_ha_shim.2022.DaEoAMHEIWTCM,
+      author            = "Seoung-Ho Baek and Jung-Ho Yang and Cheol-Woo Ha and Patrick Y. Shim and Son Yong and Sang-Hu Park",
+      title             = "Design and Evaluation of Additive Manufactured Highly Efficient Inclined-Wing-Type Continuous Mixer",
+      doi               = "10.1038/s41598-022-23809-2",
+      year              = "2022",
+      journal           = "Scientific Reports",
+      volume            = "12",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S.-H. Baek, J.-H. Yang, C.-W. Ha, P. Y. Shim, S. Yong and S.-H. Park, “Design and Evaluation of Additive Manufactured Highly Efficient Inclined-Wing-Type Continuous Mixer”, <i>Scientific Reports</i>, vol. 12, no. 1, 2022, doi: 10.1038/s41598-022-23809-2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Baek, Seoung-Ho, Jung-Ho Yang, Cheol-Woo Ha, Patrick Y. Shim, Son Yong, and Sang-Hu Park. “Design and Evaluation of Additive Manufactured Highly Efficient Inclined-Wing-Type Continuous Mixer”. <i>Scientific Reports</i> 12, no. 1 (2022). https://doi.org/10.1038/s41598-022-23809-2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

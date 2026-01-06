@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yixin Mo, Jianchun Xing, Songlin Yue, Yamei Zhang, Qizhen Zhou, Xiao Liu
+    - footer
+title: Mo Yixin, Xing Jianchun, Yue Songlin, Zhang Yamei, Zhou Qizhen, Liu Xiao
 description:
 tags:
  - bar
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Dynamic Properties of 3D Printed Cement Mortar Based on Split Hopkinson Pressure Bar Testing ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104520" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104520</a>
+#Dynamic Properties of 3D Printed Cement Mortar Based on Split Hopkinson Pressure Bar Testing ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104520" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104520" target="_blank">10.1016/j.cemconcomp.2022.104520</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0199-089X" title="ORCID: 0000-0002-0199-089X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mo_yixin"><b>Mo</b>&nbsp;Yixin</a></span>, <a href="../../../author/xing_jianchun"><b>Xing</b>&nbsp;Jianchun</a></span>, <a href="../../../author/yue_songlin"><b>Yue</b>&nbsp;Songlin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5509-0902" title="ORCID: 0000-0001-5509-0902" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_qizhen"><b>Zhou</b>&nbsp;Qizhen</a></span>, <a href="../../../author/liu_xiao"><b>Liu</b>&nbsp;Xiao</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 130
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mo_yixin"><b>Mo</b> Yixin</a> <a href="https://orcid.org/0000-0002-0199-089X" title="ORCID: 0000-0002-0199-089X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xing_jianchun"><b>Xing</b> Jianchun</a>
-,     <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_qizhen"><b>Zhou</b> Qizhen</a> <a href="https://orcid.org/0000-0001-5509-0902" title="ORCID: 0000-0001-5509-0902" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_xiao"><b>Liu</b> Xiao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 130, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bar`](keyword/bar)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#dynamic`](keyword/dynamic)
-    [`#mortar`](keyword/mortar)
-    [`#pressure`](keyword/pressure)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#split`](keyword/split)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/split"><button class="btn">#split</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Dynamic%20Properties%20of%203D%20Printed%20Cement%20Mortar%20Based%20on%20Split%20Hopkinson%20Pressure%20Bar%20Testing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127534051&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4224060845" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104520" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104520?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete produced by 3D printing has been widely studied, however, most studies focus on the static properties of 3D printed materials, but few on dynamic properties. In this study, the dynamic properties of 3D printed cement mortar were evaluated from the dynamic compressive strength, energy dissipation density, failure modes, fragment distribution, and fractal dimension. In the strain rate range of 70 s−1-140 s−1, the anisotropy of dynamic compressive strength diminishes with increasing strain rate, but remains more significant than the anisotropy of static compressive strength. Acoustic indices were used to evaluate the anisotropy of the dynamic compressive strength of 3D printed cement mortar, revealing an exponential relationship between ultrasonic pulse velocity (UPV) and dynamic compressive strength. The energy dissipation density under the same strain rate varies in three key printing directions. Finally, the number of main cracks is different in three printing directions in the failure process under the same strain rate, which leads to different degrees of damage, and thus different fragment distributions and fractal dimensions therein.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -94,8 +68,8 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
       <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/sun_hao"><b>Sun</b> Hao</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_sun_wang_zhan.2025.RBIPSaADSBo3PECC/">Relationship Between Interfacial Pore Structure and Anisotropic Dynamic Splitting Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
@@ -107,4 +81,33 @@ tags:
       <li><a href="../../../author/genc_gokhan"><b>Genc</b> Gokhan</a>, <a href="../../../author/demircan_kilic_ruya"><b>Demircan</b> Ruya</a>, <a href="../../../author/beyhan_figen"><b>Beyhan</b> Figen</a>, <a href="../../../author/kaplan_gokhan"><b>Kaplan</b> Gökhan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../genc_demi_beyh_kapl.2023.AotSaPoACRwCBB/">Assessment of the Sustainability and Producibility of Adobe-Constructions Reinforced with Ca-Based Binders:<br/>Environmental Life-Cycle-Analysis and 3D Printability</a></li>
       <li><a href="../../../author/dijkers_pa_hugo"><b>Dijkers</b> Hugo</a>, <a href="../../../author/simon_h-d_george"><b>Simon</b> George</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../dijk_simo_bos_sale.2023.MCo3PCStHDL/">Material-Characteristics of 3D Printed Concrete Subjected to Highly Dynamic Loading</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mo_xing_yue_zhan.2022.DPo3PCMBoSHPBT,
+      author            = "Yixin Mo and Jianchun Xing and Songlin Yue and Yamei Zhang and Qizhen Zhou and Xiao Liu",
+      title             = "Dynamic Properties of 3D Printed Cement Mortar Based on Split Hopkinson Pressure Bar Testing",
+      doi               = "10.1016/j.cemconcomp.2022.104520",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "130",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Mo, J. Xing, S. Yue, Y. Zhang, Q. Zhou and X. Liu, “Dynamic Properties of 3D Printed Cement Mortar Based on Split Hopkinson Pressure Bar Testing”, <i>Cement and Concrete Composites</i>, vol. 130, 2022, doi: 10.1016/j.cemconcomp.2022.104520.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mo, Yixin, Jianchun Xing, Songlin Yue, Yamei Zhang, Qizhen Zhou, and Xiao Liu. “Dynamic Properties of 3D Printed Cement Mortar Based on Split Hopkinson Pressure Bar Testing”. <i>Cement and Concrete Composites</i> 130 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104520.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

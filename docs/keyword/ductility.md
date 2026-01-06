@@ -8,7 +8,7 @@ search:
 
 # #ductility
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
   <li><a href="../../../author/su_yanli"><b>Su</b> Yanli</a>, <a href="../../../author/wu_chang"><b>Wu</b> Chang</a>, <a href="../../../author/shang_jiaqi"><b>Shang</b> Jiaqi</a>, <a href="../../../author/zhang_pu"><b>Zhang</b> Pu</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../su_wu_shan_zhan.2025.MPo3PHDCCwSCaMCR/">Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber</a></li>
   <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bakh_zafa_hoja.2025.ASoAHTDi3PECCRw8F/">A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers</a></li>

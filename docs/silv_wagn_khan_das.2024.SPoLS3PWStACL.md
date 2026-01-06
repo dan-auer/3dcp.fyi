@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcos Silveira, Juliana Wagner, Mohsen Khanverdi, Sreekanta Das
+    - footer
+title: Silveira Marcos, Wagner Juliana, Khanverdi Mohsen, Das Sreekanta
 description:
 tags:
  - axis
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1139/cjce-2023-0395" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1139/cjce-2023-0395</a>
+#Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1139/cjce-2023-0395" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1139/cjce-2023-0395" target="_blank">10.1139/cjce-2023-0395</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0586-4444" title="ORCID: 0000-0002-0586-4444" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b>&nbsp;Marcos</a></span>, <a href="../../../author/wagner_s_juliana"><b>Wagner</b>&nbsp;Juliana</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-9369-2948" title="ORCID: 0009-0007-9369-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b>&nbsp;Mohsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_sreekanta"><b>Das</b>&nbsp;Sreekanta</a></span><br>
+Journal Article - Canadian Journal of Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b> Marcos</a> <a href="https://orcid.org/0000-0002-0586-4444" title="ORCID: 0000-0002-0586-4444" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wagner_s_juliana"><b>Wagner</b> Juliana</a>
-,     <a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a> <a href="https://orcid.org/0009-0007-9369-2948" title="ORCID: 0009-0007-9369-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Canadian Journal of Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#compression`](keyword/compression)
-    [`#large`](keyword/large)
-    [`#load`](keyword/load)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#structure`](keyword/structure)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Performance%20of%20Large-Scale%203D%20Printed%20Walls%20Subjected%20to%20Axial%20Compression%20Load" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201266230&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391990991" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1139/cjce-2023-0395" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1139/cjce-2023-0395?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Despite the growing incorporation of additive manufacturing in the construction industry, a significant gap persists in the availability of design guidelines and comprehensive structural assessments for 3D-printed components. This research employs experimental methods to evaluate the performance of large-scale hollow unreinforced 3D-printed masonry walls under axial compressive load. Furthermore, a design methodology tailored for 3D-printed masonry walls under compressive loads is proposed in compliance with both American and Canadian masonry standards. This methodology is supported by the application of linear elastic 3D finite element analysis. Moreover, supplementary insights into material behavior are garnered through the examination of small specimens extracted from an additional 3D-printed wall. The results reveal that 3D printing reduces stiffness and compressive strength. The 3D-printed infills played an important role in redistributing stress after cracking. All full-scale 3D-printed masonry walls examined in this research exceeded the performance criteria set by the American masonry standard for load-bearing walls.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
@@ -94,8 +71,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a>, <a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sana_lito.2025.LBCot3PCSBoaSAaLTiS11/">Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1</a></li>
       <li><a href="../../../author/popli_siddharth"><b>Popli</b> Siddharth</a>, <a href="../../../author/valikhah_fatemeh"><b>Valikhah</b> Fatemeh</a>, <a href="../../../author/zandi-lak_erfan"><b>Zandi Lak</b> Erfan</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../popl_vali_zand_das.2025.MaDPo3PCwCAaCJ/">Mechanical and Durability Performance of 3D-Printed Concrete with Coarse Aggregates and Cold Joints</a></li>
       <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS/">Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs</a></li>
@@ -106,4 +83,32 @@ tags:
       <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/widmann_robert"><b>Widmann</b> Robert</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../raza_mans_sakh_widm.2025.LTBo3PCFfRSUEAL/">Load Transfer Behavior of 3D Printed Concrete Formwork for Ribbed Slabs Under Eccentric Axial Loads</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/nana_serge-auguste_w"><b>Nana</b> W.</a>, <a href="../../../author/mothe_regnault_loic"><b>Mothe</b> Loïc</a>, <a href="../../../author/florentin_jerome"><b>Florentin</b> Jérôme</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../baz_nana_moth_flor.2024.SBo3PLBE/">Structural Behavior of 3D Printed Load Bearing Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{silv_wagn_khan_das.2024.SPoLS3PWStACL,
+      author            = "Marcos Vinicius Gil Silveira and Juliana S. Wagner and Mohsen Khanverdi and Sreekanta Das",
+      title             = "Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load",
+      doi               = "10.1139/cjce-2023-0395",
+      year              = "2024",
+      journal           = "Canadian Journal of Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. V. G. Silveira, J. S. Wagner, M. Khanverdi and S. Das, “Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load”, <i>Canadian Journal of Civil Engineering</i>, 2024, doi: 10.1139/cjce-2023-0395.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Silveira, Marcos Vinicius Gil, Juliana S. Wagner, Mohsen Khanverdi, and Sreekanta Das. “Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load”. <i>Canadian Journal of Civil Engineering</i>, 2024. https://doi.org/10.1139/cjce-2023-0395.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

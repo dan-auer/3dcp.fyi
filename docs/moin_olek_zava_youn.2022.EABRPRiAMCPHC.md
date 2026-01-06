@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamadreza Moini, Jan Olek, Pablo Zavattieri, Jeffrey Youngblood
+    - footer
+title: Moini Mohamadreza, Olek Jan, Zavattieri Pablo, Youngblood Jeffrey
 description:
 tags:
  - additive
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Early-Age Buildability-Rheological Properties Relationship in Additively Manufactured Cement-Paste Hollow Cylinders ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104538" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104538</a>
+#Early-Age Buildability-Rheological Properties Relationship in Additively Manufactured Cement-Paste Hollow Cylinders ([2022-04](date/2022/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.cemconcomp.2022.104538" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104538" target="_blank">10.1016/j.cemconcomp.2022.104538</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olek_jan"><b>Olek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b>&nbsp;Pablo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b>&nbsp;Jeffrey</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 131
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> <a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> <a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 131, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#age`](keyword/age)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#cylinder`](keyword/cylinder)
-    [`#early`](keyword/early)
-    [`#hollow`](keyword/hollow)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#paste`](keyword/paste)
-    [`#property`](keyword/property)
-    [`#relation`](keyword/relation)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/cylinder"><button class="btn">#cylinder</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Buildability-Rheological%20Properties%20Relationship%20in%20Additively%20Manufactured%20Cement-Paste%20Hollow%20Cylinders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129733257&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4225158859" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104538" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104538?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Ability to extrude and to achieve shape stability of layer-wise additively manufactured cement-based elements at large scale depends upon the early-age rheological properties (shear moduli, yield stress, viscosity) of the deposited materials. Upon successful extrusion, buildability challenges can manifest themselves through two common failure mechanisms: yielding of lower layers or buckling of the element. However, it is yet unclear which of the various rheological properties control the early-age materials' deformation, specifically buckling, during the printing processes and thus influence the resulting buildability of the elements. This paper focuses on how buildability is dependent upon rheological properties as well as on predicting the buildability using a buckling theoretical framework. Specifically, the relationship between early-age rheological properties of various cement pastes and the buildability of hollow cylinders with failure dominated by buckling mechanism was investigated. It was found that certain types of shear moduli of the fresh pastes (G, G*, and G′) obtained from oscillatory shear stress sweep tests, performed within the first 30 min of hydration, correlate better with the buildability of hollow elements than some other rheological properties (loss modulus G″, yield stress σ yield, yield strain γyield, and complex viscosity η*). Measured values of shear modulus (G) were used to calculate elastic modulus (E) of the pastes using the assumed value of 0.5 for Poisson's ratio () of fresh cement paste. Euler's buckling theory was used to predict buildability (height of the element) of hollow cylinders. It was found that Euler's theory overestimates the buildability by 93%–194%, mainly due to assumption of ideal geometry (i.e., absence initial or printing imperfection), rate-independent behavior and linear elasticity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../digg_krei_krei_case.2019.PTvET/">Print Time vs. Elapsed Time:<br/>A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</a></li>
       <li><a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/martys_s_nicos"><b>Martys</b> Nicos</a>, <a href="../../../author/george_l_william"><b>George</b> William</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../jone_bent_mart_geor.2019.RCo3PCPaMb/">Rheological Control of 3D Printable Cement-Paste and Mortars</a></li>
@@ -96,8 +70,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
       <li><a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gonz_hoss_yahi_koha.2025.ABtECRPf3PA/">Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications</a></li>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
@@ -121,4 +96,33 @@ tags:
       <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gupt_esma_prih_ghan.2023.FaTAoH3PLCM/">Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/westhuizen_jean-pierre"><b>Westhuizen</b> Jean-Pierré</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../krug_west.2023.ItPRo3PC/">Investigating the Poisson Ratio of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moin_olek_zava_youn.2022.EABRPRiAMCPHC,
+      author            = "Mohamadreza Moini and Jan Olek and Pablo D. Zavattieri and Jeffrey P. Youngblood",
+      title             = "Early-Age Buildability-Rheological Properties Relationship in Additively Manufactured Cement-Paste Hollow Cylinders",
+      doi               = "10.1016/j.cemconcomp.2022.104538",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "131",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Moini, J. Olek, P. D. Zavattieri and J. P. Youngblood, “Early-Age Buildability-Rheological Properties Relationship in Additively Manufactured Cement-Paste Hollow Cylinders”, <i>Cement and Concrete Composites</i>, vol. 131, 2022, doi: 10.1016/j.cemconcomp.2022.104538.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Moini, Mohamadreza, Jan Olek, Pablo D. Zavattieri, and Jeffrey P. Youngblood. “Early-Age Buildability-Rheological Properties Relationship in Additively Manufactured Cement-Paste Hollow Cylinders”. <i>Cement and Concrete Composites</i> 131 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104538.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

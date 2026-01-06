@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bilal Baz, Georges Aouad, Philippe Leblond, Omar Mansouri, Mélody Hondt, Sébastien Rémond
+    - footer
+title: Baz Bilal, Aouad Georges, Leblond Philippe, Mansouri Omar, Hondt Mélody, Rémond Sébastien
 description:
 tags:
  - assessment
@@ -15,33 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0950061820314628) Mechanical Assessment of Concrete:<br/>:aca-blank: Steel Bonding in 3D Printed Elements ([2020-05](date/2020/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.119457" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.119457</a>
+#Mechanical Assessment of Concrete&nbsp;([2020-05](date/2020/05))
+<div class="h1-like">Steel Bonding in 3D Printed Elements</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0950061820314628) <a href="https://doi.org/10.1016/j.conbuildmat.2020.119457" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119457" target="_blank">10.1016/j.conbuildmat.2020.119457</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2519-1224" title="ORCID: 0000-0002-2519-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baz_bilal"><b>Baz</b>&nbsp;Bilal</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aouad_georges"><b>Aouad</b>&nbsp;Georges</a></span>, <a href="../../../author/leblond_philippe"><b>Leblond</b>&nbsp;Philippe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4458-9182" title="ORCID: 0000-0002-4458-9182" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mansouri_omar"><b>al&nbsp;Mansouri</b>&nbsp;Omar</a></span>, <a href="../../../author/hondt_melody"><b>d'&nbsp;Hondt</b>&nbsp;Mélody</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 256
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> <a href="https://orcid.org/0000-0002-2519-1224" title="ORCID: 0000-0002-2519-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>
-,     <a href="../../../author/mansouri_omar"><b>al Mansouri</b> Omar</a> <a href="https://orcid.org/0000-0002-4458-9182" title="ORCID: 0000-0002-4458-9182" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hondt_melody"><b>d' Hondt</b> Mélody</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 256, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Assessment%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85084942481&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3021369003" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.119457" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.119457?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital construction of concrete elements using 3D printing technology has been undergoing an exponential growth in terms of research activities and demonstration projects. Though, most researches focused on the behavior of the cementitious materials used in 3D printing, without deeply immersing in the reinforcement of printed elements. In this paper, a detailed experimental program is presented to characterize the quality of the bond developed between concrete and steel bars through a series of pull-out tests. These tests are performed over printed and non-printed samples as well. When printed, the layers orientation, whether parallel or perpendicular to the steel bar is taken into consideration. Hence, it was found that a highly thixotropic material did not undermine the developed bond between printed concrete and rebar. In addition, vibrated concrete (non-printed) gave better resistance to pull-out stresses succeeded by the parallel then the perpendicular samples. Yet, the overall performance of 3D printed concrete in terms of the bond generated with steel could be rated as satisfactory.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
@@ -97,8 +75,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/zhang_xun"><b>Zhang</b> Xun</a>, <a href="../../../author/flood_ian"><b>Flood</b> Ian</a>, <a href="../../../author/zhang_yuanxin"><b>Zhang</b> Yuanxin</a>, <a href="../../../author/moud_izadi_hashem"><b>Moud</b> Hashem</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../zhan_floo_zhan_moud.2019.ACMtEtEPoCC/">A Cost-Model to Evaluate the Economic Performance of Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "84 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/sakolaree_natthanicha"><b>Sakolaree</b> Natthanicha</a>, <a href="../../../author/taweesint_jutamas"><b>Taweesint</b> Jutamas</a>, <a href="../../../author/sungsiri_krisana"><b>Sungsiri</b> Krisana</a>, <a href="../../../author/assawamankongcharoen_sirikamol"><b>Assawamankongcharoen</b> Sirikamol</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sako_tawe_sung_assa.2025.EoFaMPaSoHMCMf3PT/">Evaluation of Fresh and Mechanical Properties and Shrinkage of Hydrophobic Mortar Containing Microfiber for 3D Printing Technology</a></li>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
@@ -184,4 +162,33 @@ tags:
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{baz_aoua_lebl_mans.2020.MAoC,
+      author            = "Bilal Baz and Georges Aouad and Philippe Leblond and Omar Al Mansouri and Mélody d' Hondt and Sébastien Rémond",
+      title             = "Mechanical Assessment of Concrete: Steel Bonding in 3D Printed Elements",
+      doi               = "10.1016/j.conbuildmat.2020.119457",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "256",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Baz, G. Aouad, P. Leblond, O. A. Mansouri, M. d' Hondt and S. Rémond, “Mechanical Assessment of Concrete: Steel Bonding in 3D Printed Elements”, <i>Construction and Building Materials</i>, vol. 256, 2020, doi: 10.1016/j.conbuildmat.2020.119457.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Baz, Bilal, Georges Aouad, Philippe Leblond, Omar Al Mansouri, Mélody d' Hondt, and Sébastien Rémond. “Mechanical Assessment of Concrete: Steel Bonding in 3D Printed Elements”. <i>Construction and Building Materials</i> 256 (2020). https://doi.org/10.1016/j.conbuildmat.2020.119457.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

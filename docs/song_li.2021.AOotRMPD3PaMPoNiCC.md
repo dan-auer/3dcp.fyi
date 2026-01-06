@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongwei Song, Xinle Li
+    - footer
+title: Song Hongwei, Li Xinle
 description:
 tags:
  - cement
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/11/2950/pdf?version=1622643618) An Overview on the Rheology, Mechanical Properties, Durability, 3D Printing, and Microstructural Performance of Nanomaterials in Cementitious Composites ([2021-05](date/2021/05))
-<a href="https://doi.org/10.3390/ma14112950" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14112950</a>
+#An Overview on the Rheology, Mechanical Properties, Durability, 3D Printing, and Microstructural Performance of Nanomaterials in Cementitious Composites ([2021-05](date/2021/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/11/2950/pdf?version=1622643618) <a href="https://doi.org/10.3390/ma14112950" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14112950" target="_blank">10.3390/ma14112950</a>
 
--------------------------
+<a href="../../../author/song_hongwei"><b>Song</b>&nbsp;Hongwei</a></span>, <a href="../../../author/li_xinle"><b>Li</b>&nbsp;Xinle</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/song_hongwei"><b>Song</b> Hongwei</a>
-,     <a href="../../../author/li_xinle"><b>Li</b> Xinle</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#durability`](keyword/durability)
-    [`#mechanics`](keyword/mechanics)
-    [`#overview`](keyword/overview)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Overview%20on%20the%20Rheology%2C%20Mechanical%20Properties%2C%20Durability%2C%203D%20Printing%2C%20and%20Microstructural%20Performance%20of%20Nanomaterials%20in%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108554585&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3165862025" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14112950" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14112950?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The most active research area is nanotechnology in cementitious composites, which has a wide range of applications and has achieved popularity over the last three decades. Nanoparticles (NPs) have emerged as possible materials to be used in the field of civil engineering. Previous research has concentrated on evaluating the effect of different NPs in cementitious materials to alter material characteristics. In order to provide a broad understanding of how nanomaterials (NMs) can be used, this paper critically evaluates previous research on the influence of rheology, mechanical properties, durability, 3D printing, and microstructural performance on cementitious materials. The flow properties of fresh cementitious composites can be measured using rheology and slump. Mechanical properties such as compressive, flexural, and split tensile strength reveal hardened properties. The necessary tests for determining a NM's durability in concrete are shrinkage, pore structure and porosity, and permeability. The advent of modern 3D printing technologies is suitable for structural printing, such as contour crafting and binder jetting. Three-dimensional (3D) printing has opened up new avenues for the building and construction industry to become more digital. Regardless of the material science, a range of problems must be tackled, including developing smart cementitious composites suitable for 3D structural printing. According to the scanning electron microscopy results, the addition of NMs to cementitious materials results in a denser and improved microstructure with more hydration products. This paper provides valuable information and details about the rheology, mechanical properties, durability, 3D printing, and microstructural performance of cementitious materials with NMs and encourages further research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -101,8 +80,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gajjar_parth"><b>Gajjar</b> Parth</a>, <a href="../../../author/gajjar_t"><b>Gajjar</b> T.</a>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b> Aniruddha</a>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gajj_gajj_tang_shre.2025.A3PiC/">Advancing 3D Printing in Construction:<br/>Rheological Behaviors of Cementitious Composites with Supplementary Materials</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abed_wari_alaw_jabr.2025.TLC3PI/">Transformative Low-Carbon 3D-Printed Infrastructure:<br/>Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
@@ -119,4 +98,34 @@ tags:
       <li><a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b> Mohsen</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../shah_ghol_kash_ngo.2023.GMfUiC3P/">Geopolymer Mortars for Use in Construction 3D Printing:<br/>Effect of LSS, Graphene-Oxide and Nano-Clay at Different Environmental Conditions</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{song_li.2021.AOotRMPD3PaMPoNiCC,
+      author            = "Hongwei Song and Xinle Li",
+      title             = "An Overview on the Rheology, Mechanical Properties, Durability, 3D Printing, and Microstructural Performance of Nanomaterials in Cementitious Composites",
+      doi               = "10.3390/ma14112950",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Song  and X. Li, “An Overview on the Rheology, Mechanical Properties, Durability, 3D Printing, and Microstructural Performance of Nanomaterials in Cementitious Composites”, <i>Materials</i>, vol. 14, no. 11, 2021, doi: 10.3390/ma14112950.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Song, Hongwei, and Xinle Li. “An Overview on the Rheology, Mechanical Properties, Durability, 3D Printing, and Microstructural Performance of Nanomaterials in Cementitious Composites”. <i>Materials</i> 14, no. 11 (2021). https://doi.org/10.3390/ma14112950.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

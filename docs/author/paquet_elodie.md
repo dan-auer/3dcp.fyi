@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Paquet Elodie 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/hage_ali"><b>Hage</b> Ali</a>, <a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>, <a href="../../../author/leklou_nordine_ali"><b>Leklou</b> Ali</a>, <a href="../../../author/neu_thibault"><b>Neu</b> Thibault</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hage_paqu_lekl_neu.2024.NtDCiC3P/">Navigating the Digital Chain in Concrete 3D Printing</a></li>
   <li><a href="../../../author/zargayouna_habib"><b>Zargayouna</b> Habib</a>, <a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>, <a href="../../../author/mabrouki_tarek"><b>Mabrouki</b> Tarek</a>, <a href="../../../author/hamdi_essaieb"><b>Hamdi</b> Essaieb</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zarg_paqu_mabr_hamd.2024.AotEoSCwMPotMCUi3P/">Analysis of the Effect of Substituting Cement with Marble-Powder on the Mortar Characteristics Used in 3D Printing</a></li>
   <li><a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>, <a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../paqu_fure_perr.2024.3PREStCiCVOoC/">3D Printed Raw Earth Structures to Create in Cities Vegetated Oasis of Coolness</a></li>

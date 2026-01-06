@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcus Maier, Janet Lees
+    - footer
+title: Maier Marcus, Lees Janet
 description:
 tags:
  - behavior
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engfracmech.2022.108672) Inter-Layer Fracture Behavior of Functionally Layered Concrete ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.engfracmech.2022.108672" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engfracmech.2022.108672</a>
+#Inter-Layer Fracture Behavior of Functionally Layered Concrete ([2022-07](date/2022/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engfracmech.2022.108672) <a href="https://doi.org/10.1016/j.engfracmech.2022.108672" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engfracmech.2022.108672" target="_blank">10.1016/j.engfracmech.2022.108672</a>
 
--------------------------
+<a href="../../../author/maier_marcus"><b>Maier</b>&nbsp;Marcus</a></span>, <a href="../../../author/lees_m_janet"><b>Lees</b>&nbsp;Janet</a></span><br>
+Journal Article - Engineering Fracture Mechanics, Vol. 271
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/maier_marcus"><b>Maier</b> Marcus</a>
-,     <a href="../../../author/lees_m_janet"><b>Lees</b> Janet</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Fracture Mechanics, Vol. 271, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#fracture`](keyword/fracture)
-    [`#function`](keyword/function)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Fracture%20Behavior%20of%20Functionally%20Layered%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85135713330&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4286252762" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engfracmech.2022.108672" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engfracmech.2022.108672?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Automatization and additive manufacturing provide a platform to move away from traditional monolithic concrete forms towards more material efficient functionally-graded or structural composite elements. This has a great potential to tailor the element’s mechanical or thermal performance which allows to efficiently use material and furthermore safe costs and reduce the environmental footprint of an element. However, the deposition of different wet-on-wet and weton-hardened concrete layers introduces the risk of a weak interlayer zone (ILZ). Furthermore, functionally layered concrete made of multi-mixes introduces a new dimension whereby the mix compositions and the deposition delay times potentially interact to influence the interlayer behaviour. To provide a better insight on the interlayer zone behaviour of functionally graded concrete, a detailed investigation of the interlayer fracture properties of multi-mix concrete elements cast in layers and the effect of the pour delay between layers is presented. Wedge-splitting-tests are used to infer the fracture behaviour of layered specimens fabricated using three different concrete mixes in single and multi-mix combinations. The influence of a pour delay between layers of up to 4.0 h is also interrogated. The results show that the multi-mix fracture behaviour depends on not only the mix compositions but also on the pour delay time. Cases where the fracture properties were at least as good as, or even better, than those of the comparator weaker single mix suggest that judicious mix designs and controlled fabrication processes for functionally layered concrete can mitigate the formation of weak ILZs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
@@ -70,9 +52,38 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ye_chengjie"><b>Ye</b> Chengjie</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/lacidogna_giuseppe"><b>Lacidogna</b> Giuseppe</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_xu_laci.2025.FBo3PGCCWC/">Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic</a></li>
       <li><a href="../../../author/shazad_qamar"><b>Shazad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../shaz_li.2025.IBEoSSaDi3PCS/">Interfacial Bond-Effects on Shear-Strength and Damage in 3D Printed Concrete Structures:<br/>A Combined Experimental and Numerical Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{maie_lees.2022.ILFBoFLC,
+      author            = "Marcus Maier and Janet M. Lees",
+      title             = "Inter-Layer Fracture Behavior of Functionally Layered Concrete",
+      doi               = "10.1016/j.engfracmech.2022.108672",
+      year              = "2022",
+      journal           = "Engineering Fracture Mechanics",
+      volume            = "271",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Maier  and J. M. Lees, “Inter-Layer Fracture Behavior of Functionally Layered Concrete”, <i>Engineering Fracture Mechanics</i>, vol. 271, 2022, doi: 10.1016/j.engfracmech.2022.108672.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Maier, Marcus, and Janet M. Lees. “Inter-Layer Fracture Behavior of Functionally Layered Concrete”. <i>Engineering Fracture Mechanics</i> 271 (2022). https://doi.org/10.1016/j.engfracmech.2022.108672.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

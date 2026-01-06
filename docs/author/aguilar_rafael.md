@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Aguilar Rafael 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF/">3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers</a></li>
   <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a>, <a href="../../../author/cardenas-palomino_tatiana_kelssy"><b>Cardenas Palomino</b> Kelssy</a>, <a href="../../../author/bienvenu_sophie"><b>Bienvenu</b> Sophie</a>, <a href="../../../author/dunkelberg_federico"><b>Dunkelberg</b> Federico</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tude_card_bien_dunk.2024.DaCoaPCMwCaDWA/">Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates</a></li>
   <li><a href="../../../author/gonzales_betty"><b>Gonzales</b> Betty</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/bertolotti_bruno"><b>Bertolotti</b> Bruno</a>, <a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../gonz_zava_bert_agui.2024.CIitIoSCaWCoCDtDSi3PES/">Comprehensive Investigation into the Influence of Soil Composition and Water Content on Cracking Due to Drying Shrinkage in 3D Printed Earthen Structures</a></li>

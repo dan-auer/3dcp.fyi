@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianxiang Huang, Caifeng Wang, Shouwei Jian, Hongbo Tan, Xiangguo Li, Jian Huang, Yang Lv, Xin Gao, Bo Peng, Liangliang Tu
+    - footer
+title: Huang Jianxiang, Wang Caifeng, Jian Shouwei, Tan Hongbo, Li Xiangguo, Huang Jian, Lv Yang, Gao Xin, Peng Bo, Tu Liangliang
 description:
 tags:
  - admixture
@@ -20,42 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112745" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112745</a>
+#Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112745" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112745" target="_blank">10.1016/j.jobe.2025.112745</a>
 
--------------------------
+<a href="../../../author/huang_jianxiang"><b>Huang</b>&nbsp;Jianxiang</a></span>, <a href="../../../author/wang_caifeng"><b>Wang</b>&nbsp;Caifeng</a></span>, <a href="../../../author/jian_shouwei"><b>Jian</b>&nbsp;Shouwei</a></span>, <a href="../../../author/tan_hongbo"><b>Tan</b>&nbsp;Hongbo</a></span>, <a href="../../../author/li_xiangguo"><b>Li</b>&nbsp;Xiangguo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1550-9067" title="ORCID: 0000-0002-1550-9067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_jian"><b>Huang</b>&nbsp;Jian</a></span>, <a href="../../../author/lv_yang"><b>Lv</b>&nbsp;Yang</a></span>, <a href="../../../author/gao_xin"><b>Gao</b>&nbsp;Xin</a></span>, <a href="../../../author/peng_bo"><b>Peng</b>&nbsp;Bo</a></span>, <a href="../../../author/tu_liangliang"><b>Tu</b>&nbsp;Liangliang</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112745
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/huang_jianxiang"><b>Huang</b> Jianxiang</a>
-,     <a href="../../../author/wang_caifeng"><b>Wang</b> Caifeng</a>
-,     <a href="../../../author/jian_shouwei"><b>Jian</b> Shouwei</a>
-,     <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a>
-,     <a href="../../../author/li_xiangguo"><b>Li</b> Xiangguo</a>
-,     <a href="../../../author/huang_jian"><b>Huang</b> Jian</a> <a href="https://orcid.org/0000-0002-1550-9067" title="ORCID: 0000-0002-1550-9067" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lv_yang"><b>Lv</b> Yang</a>
-,     <a href="../../../author/gao_xin"><b>Gao</b> Xin</a>
-,     <a href="../../../author/peng_bo"><b>Peng</b> Bo</a>
-,     <a href="../../../author/tu_liangliang"><b>Tu</b> Liangliang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112745
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#application`](keyword/application)
-    [`#attapulgite`](keyword/attapulgite)
-    [`#base`](keyword/base)
-    [`#bentonite`](keyword/bentonite)
-    [`#feasibility`](keyword/feasibility)
-    [`#gypsum`](keyword/gypsum)
-    [`#material`](keyword/material)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#silica`](keyword/silica)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/attapulgite"><button class="btn">#attapulgite</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bentonite"><button class="btn">#bentonite</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/gypsum"><button class="btn">#gypsum</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20of%20Applying%20Attapulgite%2C%20Sodium%20Bentonite%20and%20Nano-Silica%20as%20a%20Viscosity%20Modifier%20Admixture%20for%203D%20Printing%20of%20Gypsum-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003179571&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409722373" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112745" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112745?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Viscosity modifier admixtures (VMAs) are essential for 3D printing materials, but commonly used organic VMAs often compromise the mechanical properties of gypsum-based materials. To address this, three inorganic VMAs—attapulgite (ATP), sodium bentonite (NB), and nano-silica (NS)—were systematically compared with hydroxypropyl methyl cellulose ether (HPMC) to evaluate their applicability in 3D printing gypsum building materials. The results showed that ATP, NB, and HPMC reduced slurry fluidity, while NS enhanced it at low dosages. All VMAs significantly increased yield stress but inorganic VMAs had minimal impact on plastic viscosity. Although the addition of VMAs reduced 2-hour wet strength and compressive strength, inorganic VMAs caused significantly less reduction than HPMC. NS and HPMC lowered the hydration exotherm peak, with NS accelerating its occurrence. At 1% dosage, NB and ATP reduced the maximum exothermic peak, but higher dosages caused earlier and higher peaks. Microstructural analysis revealed that 5% NS resulted in short, thick gypsum crystals, while 0.5% HPMC led to curly flaky structures. Compared to HPMC, NS excelled in enhancing mechanical properties, NB improved workability and mechanical performance, and ATP demonstrated superior workability, mechanical properties, and printing performance. These findings highlight the potential of inorganic VMAs for developing high-performance 3D printable gypsum materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
@@ -105,7 +73,36 @@ tags:
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/yang_rong"><b>Yang</b> Rong</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_huan_wang_yang.2023.EoHMoRaPotFPLoCASB3PC/">Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{huan_wang_jian_tan.2025.FoAASBaNSaaVMAf3PoGBM,
+      author            = "Jianxiang Huang and Caifeng Wang and Shouwei Jian and Hongbo Tan and Xiangguo Li and Jian Huang and Yang Lv and Xin Gao and Bo Peng and Liangliang Tu",
+      title             = "Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials",
+      doi               = "10.1016/j.jobe.2025.112745",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112745",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Huang, “Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials”, <i>Journal of Building Engineering</i>, p. 112745, 2025, doi: 10.1016/j.jobe.2025.112745.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Huang, Jianxiang, Caifeng Wang, Shouwei Jian, Hongbo Tan, Xiangguo Li, Jian Huang, Yang Lv, Xin Gao, Bo Peng, and Liangliang Tu. “Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials”. <i>Journal of Building Engineering</i>, 2025, 112745. https://doi.org/10.1016/j.jobe.2025.112745.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hojae Lee, Jang-Ho Kim, Jae-Heum Moon, Won-Woo Kim, Eun-A Seo
+    - footer
+title: Lee Hojae, Kim Jang-Ho, Moon Jae-Heum, Kim Won-Woo, Seo Eun-A
 description:
 tags:
  - evaluation
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/12/24/4104/pdf?version=1575796019) Evaluation of the Mechanical Properties of a 3D Printed Mortar ([2019-12](date/2019/12))
-<a href="https://doi.org/10.3390/ma12244104" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma12244104</a>
+#Evaluation of the Mechanical Properties of a 3D Printed Mortar ([2019-12](date/2019/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/24/4104/pdf?version=1575796019) <a href="https://doi.org/10.3390/ma12244104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12244104" target="_blank">10.3390/ma12244104</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5138-8282" title="ORCID: 0000-0002-5138-8282" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jay_jang-ho"><b>Kim</b>&nbsp;Jang-Ho</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1627-5186" title="ORCID: 0000-0002-1627-5186" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moon_jae-heum"><b>Moon</b>&nbsp;Jae-Heum</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7870-0718" title="ORCID: 0000-0001-7870-0718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_won-woo"><b>Kim</b>&nbsp;Won-Woo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7377-3448" title="ORCID: 0000-0002-7377-3448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seo_eun-a"><b>Seo</b>&nbsp;Eun-A</a></span><br>
+Journal Article - Materials, Vol. 12, Iss. 24
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> <a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a> <a href="https://orcid.org/0000-0002-5138-8282" title="ORCID: 0000-0002-5138-8282" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a> <a href="https://orcid.org/0000-0002-1627-5186" title="ORCID: 0000-0002-1627-5186" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> <a href="https://orcid.org/0000-0001-7870-0718" title="ORCID: 0000-0001-7870-0718" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a> <a href="https://orcid.org/0000-0002-7377-3448" title="ORCID: 0000-0002-7377-3448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 12, Iss. 24, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#evaluation`](keyword/evaluation)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20the%20Mechanical%20Properties%20of%20a%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078895229&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2992485880" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma12244104" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma12244104?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mechanical properties of 3D-printed mortars are determined in terms of their compressive and direct tensile bond strengths. To determine such properties using existing methods, a preliminary experiment was conducted. The compressive strength of the printed mortar was compared to mold-casted specimens and it was found that the compressive strength decreased by ~30%. Among the fabrication variables, an increase in nozzle height negatively influenced the direct tensile bond strength. For the same conditions and age, the direct tensile strength decreased by as much as 16-29% when the number of layers increased from 2 to 6. When the specimens were fabricated using a specially designed stainless steel frame and core drill, followed by extraction and the application of physical impact, the 28 days compressive strength of the specimen decreased by ~50%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -75,8 +55,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "49 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sola_foru.2026.ARTMfDtPZoC3P/">A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers</a></li>
       <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
@@ -126,4 +107,34 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lee_kim_moon_kim.2019.EotMPoa3PM,
+      author            = "Hojae Lee and Jang-Ho Jay Kim and Jae-Heum Moon and Won-Woo Kim and Eun-A Seo",
+      title             = "Evaluation of the Mechanical Properties of a 3D Printed Mortar",
+      doi               = "10.3390/ma12244104",
+      year              = "2019",
+      journal           = "Materials",
+      volume            = "12",
+      number            = "24",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Lee, J.-H. J. Kim, J.-H. Moon, W.-W. Kim and E.-A. Seo, “Evaluation of the Mechanical Properties of a 3D Printed Mortar”, <i>Materials</i>, vol. 12, no. 24, 2019, doi: 10.3390/ma12244104.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lee, Hojae, Jang-Ho Jay Kim, Jae-Heum Moon, Won-Woo Kim, and Eun-A Seo. “Evaluation of the Mechanical Properties of a 3D Printed Mortar”. <i>Materials</i> 12, no. 24 (2019). https://doi.org/10.3390/ma12244104.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

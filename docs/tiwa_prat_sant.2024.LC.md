@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adarsh Tiwari, Phanisri Pratapa, Manu Santhanam
+    - footer
+title: Tiwari Adarsh, Pratapa Phanisri, Santhanam Manu
 description:
 tags:
  - cement
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Lattice Concrete:<br/>:aca-blank: 3D Printed Periodic Cellular Structures Through Selective Cement-Hydration ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.jobe.2024.108946" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.108946</a>
+#Lattice Concrete&nbsp;([2024-03](date/2024/03))
+<div class="h1-like">3D Printed Periodic Cellular Structures Through Selective Cement-Hydration</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108946" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108946" target="_blank">10.1016/j.jobe.2024.108946</a>
 
--------------------------
+<a href="../../../author/tiwari_k_adarsh"><b>Tiwari</b>&nbsp;Adarsh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-6901" title="ORCID: 0000-0002-3563-6901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pratapa_pradeep_phanisri"><b>Pratapa</b>&nbsp;Phanisri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhanam_manu"><b>Santhanam</b>&nbsp;Manu</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 86, No. 108946
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tiwari_k_adarsh"><b>Tiwari</b> Adarsh</a>
-,     <a href="../../../author/pratapa_pradeep_phanisri"><b>Pratapa</b> Phanisri</a> <a href="https://orcid.org/0000-0002-3563-6901" title="ORCID: 0000-0002-3563-6901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 86, No. 108946
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#hydration`](keyword/hydration)
-    [`#lattice`](keyword/lattice)
-    [`#period`](keyword/period)
-    [`#print`](keyword/print)
-    [`#selective`](keyword/selective)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/period"><button class="btn">#period</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Lattice%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186736351&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392451814" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.108946" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.108946?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of concrete allows fabrication of complex shapes and structures. Among various 3D printing approaches, the particle bed 3D printing technique has gained attention in recent years, especially for its ability to generate complex topologies that are otherwise impossible to make using cement-paste extrusion-based techniques. In this work, we present our trials on 3D printing cellular lattice concrete structures using a powder bed technique by employing selective cement hydration. Specifically, we print two-types of cellular concrete blocks (i) with interconnected spherical voids and (ii) with gyroid structures, each block with uniform edge lengths of 15 cm. We use Ordinary Portland Cement, fine-grained sand, and normal water, without the use of any admixtures or additives. The printing technology used was custom-made and is quite simple and inexpensive involving a syringe based water jetting on to a powder bed of cement and sand mixture. We discuss the quality of the printed specimens obtained as well as their strength characteristics. An inadvertent observation was made, where a compressive strength gain by a factor of more than 2 was obtained in specimens that were exposed to open atmosphere for a long duration after a 28 day curing period compared to those that were tested immediately after curing. The current study demonstrates the feasibility of fabricating cellular lattice concrete structures that can potentially be useful as programmable metamaterials for civil engineering applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -84,8 +64,38 @@ tags:
       <li><a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/saile_bettina"><b>Saile</b> Bettina</a>, <a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../talk_sail_meie_herd.2023.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Influence of Process Parameters on Particle-Bed Density</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../xia_nema_sanj.2019.PPTtESoPCMDFUPB3PP/">Post-Processing Techniques to Enhance Strength of Portland Cement Mortar Digitally Fabricated Using Powder-Based 3D Printing Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hoja_sedg_li_mema.2024.FSo3PCB/">Flexural Strength of 3D Printed Concrete Beams:<br/>Exploring Barbed-Wire Reinforcement and Cross-Sectional Geometry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tiwa_prat_sant.2024.LC,
+      author            = "Adarsh K. Tiwari and Phanisri Pradeep Pratapa and Manu Santhanam",
+      title             = "Lattice Concrete: 3D Printed Periodic Cellular Structures Through Selective Cement-Hydration",
+      doi               = "10.1016/j.jobe.2024.108946",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "86",
+      pages             = "108946",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. K. Tiwari, P. P. Pratapa and M. Santhanam, “Lattice Concrete: 3D Printed Periodic Cellular Structures Through Selective Cement-Hydration”, <i>Journal of Building Engineering</i>, vol. 86, p. 108946, 2024, doi: 10.1016/j.jobe.2024.108946.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tiwari, Adarsh K., Phanisri Pradeep Pratapa, and Manu Santhanam. “Lattice Concrete: 3D Printed Periodic Cellular Structures Through Selective Cement-Hydration”. <i>Journal of Building Engineering</i> 86 (2024): 108946. https://doi.org/10.1016/j.jobe.2024.108946.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

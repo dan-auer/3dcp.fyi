@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shantanu Bhattacherjee, Smrati Jain, Manu Santhanam
+    - footer
+title: Bhattacherjee Shantanu, Jain Smrati, Santhanam Manu
 description:
 tags:
  - base
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigating the Interaction of Limestone-Calcined-Clay and OPC-Based Systems with a Methylhydroxyethyl-Cellulose-Based Viscosity-Modifier Used for 3D Printable Concrete ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1061/jmcee7.mteng-17728" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jmcee7.mteng-17728</a>
+#Investigating the Interaction of Limestone-Calcined-Clay and OPC-Based Systems with a Methylhydroxyethyl-Cellulose-Based Viscosity-Modifier Used for 3D Printable Concrete ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-17728" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-17728" target="_blank">10.1061/jmcee7.mteng-17728</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6047-3294" title="ORCID: 0000-0002-6047-3294" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b>&nbsp;Shantanu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2840-183X" title="ORCID: 0000-0002-2840-183X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jain_smrati"><b>Jain</b>&nbsp;Smrati</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhanam_manu"><b>Santhanam</b>&nbsp;Manu</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 36, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> <a href="https://orcid.org/0000-0002-6047-3294" title="ORCID: 0000-0002-6047-3294" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a> <a href="https://orcid.org/0000-0002-2840-183X" title="ORCID: 0000-0002-2840-183X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 36, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cellulose`](keyword/cellulose)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#interaction`](keyword/interaction)
-    [`#investigation`](keyword/investigation)
-    [`#limestone`](keyword/limestone)
-    [`#modification`](keyword/modification)
-    [`#printability`](keyword/printability)
-    [`#system`](keyword/system)
-    [`#use`](keyword/use)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigating%20the%20Interaction%20of%20Limestone-Calcined-Clay%20and%20OPC-Based%20Systems%20with%20a%20Methylhydroxyethyl-Cellulose-Based%20Viscosity-Modifier%20Used%20for%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200496180&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401150890" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jmcee7.mteng-17728" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jmcee7.mteng-17728?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cellulose-ether-based viscosity-modifying admixtures (VMAs), such as methyl hydroxyethyl cellulose (MHEC), are commonly used for improving the printability of 3D printed concrete. For ordinary portland cement (OPC)–based systems, it is established that MHEC prolongs the dormant period and reduces the rate of calcium silicate hydrate (C─ S─ H) precipitation while reducing the early and later age strength. However, such an investigation is absent for limestone calcined clay (LC2)–based systems. The LC2-based 3D printable mixes are reported to require a smaller amount of VMA for improving the extrudability and buildability. The study aims to understand the interaction of MHEC with the binder system containing OPC and LC2. MHEC increases the water retention capacity of the mix while absorbing water and forming leaflike structures at lower dosages and wool-ball-like structures at higher dosages. Moreover, for a 45% LC2 content in binder, the hydration kinetics is not affected by 0.03% dosage, but an alteration of phase composition of carboaluminates is observed. For higher dosages of 0.06%, the hydration kinetics as well as phase composition are affected. In contrast, the connected porosity and pore size distribution measured as an indication of microstructure, using mercury intrusion porosimetry, water porosity, and formation factor, remain unaffected by the addition of MHEC. The reduction in porosity due to the addition of MHEC may not be observed due to the deposition of the agglomerated MHECs as weak inclusions in the pores. The change in the replacement percentage of LC2 is observed to affect the hydration kinetics of OPC-MHEC systems. For 100% OPC, the MHEC increases the dormant time and reduces the rate of C─ S─ H precipitation. However, for higher LC2 content mixes, the dormant period and C─ S─ H precipitation rate are not influenced, but calcium aluminosulfate formation (second peak) is delayed due to a change in the dissolution mechanism. However, for all the replacement percentages of LC2, the compressive strength is reduced with the addition of MHEC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhat_jain_sant.2022.CoMEaaEAotBoaA3PC/">Criticality of Microstructural Evolution at an Early-Age on the Buildability of an Accelerated 3D Printable Concrete</a></li>
@@ -92,8 +67,38 @@ tags:
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/sharma_abhishek"><b>Sharma</b> Abhishek</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../rahu_shar_sant.2020.ADBAftAoPSDEoCM/">A Desorptivity-Based Approach for the Assessment of Phase Separation During Extrusion of Cementitious Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../kurn_kim.2025.EtPo3PLCCCUHCAaSF/">Enhancing the Printability of 3D Printing Limestone Calcined Clay Cement Using Hydroxyethyl Cellulose Admixture and Silica Fume</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bhat_jain_sant.2024.ItIoLCCaOBSwaMCBVMUf3PC,
+      author            = "Shantanu Bhattacherjee and Smrati Jain and Manu Santhanam",
+      title             = "Investigating the Interaction of Limestone-Calcined-Clay and OPC-Based Systems with a Methylhydroxyethyl-Cellulose-Based Viscosity-Modifier Used for 3D Printable Concrete",
+      doi               = "10.1061/jmcee7.mteng-17728",
+      year              = "2024",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "36",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Bhattacherjee, S. Jain and M. Santhanam, “Investigating the Interaction of Limestone-Calcined-Clay and OPC-Based Systems with a Methylhydroxyethyl-Cellulose-Based Viscosity-Modifier Used for 3D Printable Concrete”, <i>Journal of Materials in Civil Engineering</i>, vol. 36, no. 10, 2024, doi: 10.1061/jmcee7.mteng-17728.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bhattacherjee, Shantanu, Smrati Jain, and Manu Santhanam. “Investigating the Interaction of Limestone-Calcined-Clay and OPC-Based Systems with a Methylhydroxyethyl-Cellulose-Based Viscosity-Modifier Used for 3D Printable Concrete”. <i>Journal of Materials in Civil Engineering</i> 36, no. 10 (2024). https://doi.org/10.1061/jmcee7.mteng-17728.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

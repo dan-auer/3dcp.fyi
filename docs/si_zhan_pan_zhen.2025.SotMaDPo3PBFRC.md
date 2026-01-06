@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qi Si, Wenna Zhang, Zhihong Pan, Jianqiang Zheng, Chaomin Yu, Guohe Zhang
+    - footer
+title: Si Qi, Zhang Wenna, Pan Zhihong, Zheng Jianqiang, Yu Chaomin, Zhang Guohe
 description:
 tags:
  - concrete
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study on the Mechanical and Durability Properties of 3D-Printed Bamboo Fiber-Reinforced Concrete ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141464" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141464</a>
+#Study on the Mechanical and Durability Properties of 3D-Printed Bamboo Fiber-Reinforced Concrete ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141464" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141464" target="_blank">10.1016/j.conbuildmat.2025.141464</a>
 
--------------------------
+<a href="../../../author/si_qi"><b>Si</b>&nbsp;Qi</a></span>, <a href="../../../author/zhang_wenna"><b>Zhang</b>&nbsp;Wenna</a></span>, <a href="../../../author/pan_zhihong"><b>Pan</b>&nbsp;Zhihong</a></span>, <a href="../../../author/zheng_jianqiang"><b>Zheng</b>&nbsp;Jianqiang</a></span>, <a href="../../../author/yu_chaomin"><b>Yu</b>&nbsp;Chaomin</a></span>, <a href="../../../author/zhang_guohe"><b>Zhang</b>&nbsp;Guohe</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 478, No. 141464
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/si_qi"><b>Si</b> Qi</a>
-,     <a href="../../../author/zhang_wenna"><b>Zhang</b> Wenna</a>
-,     <a href="../../../author/pan_zhihong"><b>Pan</b> Zhihong</a>
-,     <a href="../../../author/zheng_jianqiang"><b>Zheng</b> Jianqiang</a>
-,     <a href="../../../author/yu_chaomin"><b>Yu</b> Chaomin</a>
-,     <a href="../../../author/zhang_guohe"><b>Zhang</b> Guohe</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 478, No. 141464
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Mechanical%20and%20Durability%20Properties%20of%203D-Printed%20Bamboo%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003156237&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409780768" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141464" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141464?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the context of global efforts to promote low-carbon and green building materials, this study investigated the integration of bamboo fibers into 3D-printed concrete, aiming to develop a novel building material that combines high performance with sustainability. Bamboo fiber, as a natural, biodegradable, and renewable resource with a rapid growth cycle, offers a low-carbon alternative to synthetic fibers and contributes to sustainable development goals. This study explored the influence of varying bamboo fiber contents (0 %, 0.5 %, 1.0 %, 1.5 %, 2.0 %) and fiber lengths (20 mm, 40 mm, 60 mm) on the flexural strength, compressive strength, and durability of 3D-printed concrete. In the test, Portland cement was used with a water/cement ratio of 0.27, and a water-reducing admixture was added to ensure printability. Specimens were cured under standard conditions (20 ± 2°C, 95 % RH). The 3D printed process adopted a layer thickness of 10 mm and a printing speed of 50 mm/s. The three-point bending tests, uniaxial compression tests, and sulfate immersion tests were performed on the 3D-Printed bamboo fiber concrete specimens. The experimental results demonstrated that the incorporation of bamboo fibers significantly enhanced the mechanical properties of the 3D-printed concrete, particularly at a 1.5 % content and 40 mm fiber length, with flexural and compressive strengths increasing by 28.6 % and 19.3 %, respectively. However, lower fiber contents provided limited reinforcement, while excessive content or longer fibers increased anisotropy. Additionally, the incorporation of bamboo fibers mitigated the deterioration of concrete induced by sulfate erosion, particularly in terms of compressive strength. This improvement is attributed to the fibers' ability to bridge microcracks and reduce permeability, thereby limiting sulfate ingress. The findings of this study provide fundamental data for the application of 3D-printed bamboo fiber concrete, while also offering novel insights to advance the development of low-carbon and green building materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a></li>
@@ -84,12 +61,43 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_dong_siko_lin.2025.3PCRwFFRPSoG/">3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids:<br/>Concept and Bond Tests</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{si_zhan_pan_zhen.2025.SotMaDPo3PBFRC,
+      author            = "Qi Si and Wenna Zhang and Zhihong Pan and Jianqiang Zheng and Chaomin Yu and Guohe Zhang",
+      title             = "Study on the Mechanical and Durability Properties of 3D-Printed Bamboo Fiber-Reinforced Concrete",
+      doi               = "10.1016/j.conbuildmat.2025.141464",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "478",
+      pages             = "141464",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Si, W. Zhang, Z. Pan, J. Zheng, C. Yu and G. Zhang, “Study on the Mechanical and Durability Properties of 3D-Printed Bamboo Fiber-Reinforced Concrete”, <i>Construction and Building Materials</i>, vol. 478, p. 141464, 2025, doi: 10.1016/j.conbuildmat.2025.141464.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Si, Qi, Wenna Zhang, Zhihong Pan, Jianqiang Zheng, Chaomin Yu, and Guohe Zhang. “Study on the Mechanical and Durability Properties of 3D-Printed Bamboo Fiber-Reinforced Concrete”. <i>Construction and Building Materials</i> 478 (2025): 141464. https://doi.org/10.1016/j.conbuildmat.2025.141464.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

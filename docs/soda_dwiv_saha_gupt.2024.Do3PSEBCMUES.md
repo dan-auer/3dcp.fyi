@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Prabhath Soda, Ashutosh Dwivedi, C. Sahana, Souradeep Gupta
+    - footer
+title: Soda Prabhath, Dwivedi Ashutosh, Sahana C., Gupta Souradeep
 description:
 tags:
  - base
@@ -20,36 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of 3D Printable Stabilized Earth-Based Construction Materials Using Excavated Soil:<br/>:aca-blank: Evaluation of Fresh and Hardened Properties ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.scitotenv.2024.171654" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.scitotenv.2024.171654</a>
+#Development of 3D Printable Stabilized Earth-Based Construction Materials Using Excavated Soil&nbsp;([2024-03](date/2024/03))
+<div class="h1-like">Evaluation of Fresh and Hardened Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.scitotenv.2024.171654" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.scitotenv.2024.171654" target="_blank">10.1016/j.scitotenv.2024.171654</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0060-6849" title="ORCID: 0000-0003-0060-6849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b>&nbsp;Prabhath</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1159-898X" title="ORCID: 0000-0002-1159-898X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b>&nbsp;Ashutosh</a></span>, <a href="../../../author/sahana_m_c"><b>Sahana</b>&nbsp;C.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1130-5400" title="ORCID: 0000-0003-1130-5400" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gupta_souradeep"><b>Gupta</b>&nbsp;Souradeep</a></span><br>
+Journal Article - Science of the Total Environment, Vol. 924, No. 171654
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a> <a href="https://orcid.org/0000-0003-0060-6849" title="ORCID: 0000-0003-0060-6849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> <a href="https://orcid.org/0000-0002-1159-898X" title="ORCID: 0000-0002-1159-898X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>
-,     <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="https://orcid.org/0000-0003-1130-5400" title="ORCID: 0000-0003-1130-5400" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Science of the Total Environment, Vol. 924, No. 171654
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#earth`](keyword/earth)
-    [`#evaluation`](keyword/evaluation)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#soil`](keyword/soil)
-    [`#stability`](keyword/stability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printable%20Stabilized%20Earth-Based%20Construction%20Materials%20Using%20Excavated%20Soil" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187958954&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392742190" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.scitotenv.2024.171654" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.scitotenv.2024.171654?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Soil excavated during construction and demolition can be utilized to reduce the demand for natural sand in 3D printed constructions. This research attempts to systematically develop 3D printable stabilized earth-based materials using excavated soil (clay content of 42.5 %) as 25 % and 50 % replacement of natural sand, and examine their compressive strength, water permeable porosity, and moisture sensitivity. The effectiveness of two binder systems - Ordinary Portland Cement (OPC) and a combination of OPC and ground granulated blast furnace slag (GGBS used to replace 30 % OPC by mass), was investigated. Non-expansive clay in the soil leads to a steeper reduction in apparent viscosity, 12-15 % higher flow retention, and 50-60 % lower plastic viscosity of soil-based mixes, thus contributing to superior extrusion quality at 35-40 mm lower initial flow than OPC-sand and OPC-GGBS-sand mixes. The addition of GGBS, due to its irregular particle morphologies and interlocking effects, further enhances the shape retention of the printed layers by 8-26 % compared to OPC-soil mortars. The structural build-ups in OPC-soil and OPC-GGBS-soil mortars increase with the increase in clay content, which enabled buildability up to a height of 1.2 m compared to only 0.51-0.55 m for OPC-sand and OPC-GGBS-sand mortars. Higher water demand due to the addition of natural clay increases the porosity of 3D printed OPC-soil mortars, thereby lowering compressive strength and increasing moisture sensitivity. However, a blend of OPC and GGBS substantially reduces the moisture sensitivity of the printed mortars at 28-day age, attributed to better stabilization of clay through hydraulic and pozzolanic action of GGBS. 28-day wet compressive strength of 14-25 MPa is obtained for the printed soil-based mixes depending on the soil dosage and loading direction. In summary, the study provides a feasible solution for the 3D printing of stabilized earth structures with lower demand for natural sand and OPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bhat_jain_sant.2023.D3PaBLCCBCCwHAC/">Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content</a></li>
@@ -109,8 +84,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../jana_gane.2025.SEoPFotSaDPo3PC/">Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yous_khan_koc.2025.MPaDOoLESRwNFWaNf3oFS/">Material, Process, and Design Optimization of Local Earthen Soil Reinforced with Natural Fiber Waste and Nanoclay for 3DP of Functional Structures</a></li>
@@ -122,4 +97,34 @@ tags:
       <li><a href="../../../author/priyadarshani_suchi"><b>Priyadarshani</b> Suchi</a>, <a href="../../../author/rao_r_roshan"><b>Rao</b> Roshan</a>, <a href="../../../author/mani_monto"><b>Mani</b> Monto</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../priy_rao_mani.2024.PSiBCPitLD/">Paradigm Shifts in Building Construction Priorities in the Last Decade</a></li>
       <li><a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../saha_soda_dwiv_kuma.2024.3PwSE/">3D Printing with Stabilized Earth:<br/>Material-Development and Effect of Carbon-Sequestration on Engineering-Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{soda_dwiv_saha_gupt.2024.Do3PSEBCMUES,
+      author            = "Prabhath Ranjan Kumar Soda and Ashutosh Dwivedi and C. M. Sahana and Souradeep Gupta",
+      title             = "Development of 3D Printable Stabilized Earth-Based Construction Materials Using Excavated Soil: Evaluation of Fresh and Hardened Properties",
+      doi               = "10.1016/j.scitotenv.2024.171654",
+      year              = "2024",
+      journal           = "Science of the Total Environment",
+      volume            = "924",
+      pages             = "171654",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. R. K. Soda, A. Dwivedi, C. M. Sahana and S. Gupta, “Development of 3D Printable Stabilized Earth-Based Construction Materials Using Excavated Soil: Evaluation of Fresh and Hardened Properties”, <i>Science of the Total Environment</i>, vol. 924, p. 171654, 2024, doi: 10.1016/j.scitotenv.2024.171654.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Soda, Prabhath Ranjan Kumar, Ashutosh Dwivedi, C. M. Sahana, and Souradeep Gupta. “Development of 3D Printable Stabilized Earth-Based Construction Materials Using Excavated Soil: Evaluation of Fresh and Hardened Properties”. <i>Science of the Total Environment</i> 924 (2024): 171654. https://doi.org/10.1016/j.scitotenv.2024.171654.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

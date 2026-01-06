@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maxime Pierre, Siavash Ghabezloo, Patrick Dangla, Romain Mesnil, Matthieu Vandamme, Jean-François Caron
+    - footer
+title: Pierre Maxime, Ghabezloo Siavash, Dangla Patrick, Mesnil Romain, Vandamme Matthieu, Caron Jean-François
 description:
 tags:
  - concrete
@@ -16,34 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.addma.2025.104847) Multiphysics Modelling of 3D Concrete Printing:<br/>:aca-blank: From Material Model to Process Simulation and Optimisation ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.addma.2025.104847" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.104847</a>
+#Multiphysics Modelling of 3D Concrete Printing&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">From Material Model to Process Simulation and Optimisation</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2025.104847) <a href="https://doi.org/10.1016/j.addma.2025.104847" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104847" target="_blank">10.1016/j.addma.2025.104847</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1654-7169" title="ORCID: 0000-0003-1654-7169" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pierre_maxime"><b>Pierre</b>&nbsp;Maxime</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2431-2116" title="ORCID: 0000-0003-2431-2116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghabezloo_siavash"><b>Ghabezloo</b>&nbsp;Siavash</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7311-8518" title="ORCID: 0000-0001-7311-8518" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dangla_patrick"><b>Dangla</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6201-5468" title="ORCID: 0000-0001-6201-5468" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vandamme_matthieu"><b>Vandamme</b>&nbsp;Matthieu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span><br>
+Journal Article - Additive Manufacturing, No. 104847
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a> <a href="https://orcid.org/0000-0003-1654-7169" title="ORCID: 0000-0003-1654-7169" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghabezloo_siavash"><b>Ghabezloo</b> Siavash</a> <a href="https://orcid.org/0000-0003-2431-2116" title="ORCID: 0000-0003-2431-2116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dangla_patrick"><b>Dangla</b> Patrick</a> <a href="https://orcid.org/0000-0001-7311-8518" title="ORCID: 0000-0001-7311-8518" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vandamme_matthieu"><b>Vandamme</b> Matthieu</a> <a href="https://orcid.org/0000-0001-6201-5468" title="ORCID: 0000-0001-6201-5468" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104847
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#multiphysics`](keyword/multiphysics)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/multiphysics"><button class="btn">#multiphysics</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multiphysics%20Modelling%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009351237&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411665997" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.104847" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.104847?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Predictive simulation of 3D concrete printing is important to warrant printability and durability of print pieces and to optimise printing parameters, yet tedious due to the complexity of the material behaviour and printing process. From a constitutive model allowing a continuous description of the coupled chemo-thermo-poro-mechanical behaviour of cement-based materials from the early-age to the hardened state, a comprehensive finite element simulation framework is designed. It aims at modelling extrusion-based 3D printing processes, taking into account the sequential deposition of material. Study of the onset of plastic collapse on specific geometries at different printing speeds show the complexity of collapse prediction as well as the importance of process-related effects. An optimisation scheme is proposed to determine optimal printing speed modulations from numerical simulations with the perspective of increasing productivity in 3D concrete printing. The model shows good predicting capabilities when compared with experimental printing failures, and is able to extrapolate to other accelerator dosages without model re-calibration.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/song_yu"><b>Song</b> Yu</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../das_song_mant_wang.2022.EoPotAVSo3PC/">Effect of Processing on the Air-Void System of 3D Printed Concrete</a></li>
@@ -89,8 +66,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pier_ghab_dang_mesn.2025.MMo3CP,
+      author            = "Maxime Pierre and Siavash Ghabezloo and Patrick Dangla and Romain Mesnil and Matthieu Vandamme and Jean-François Caron",
+      title             = "Multiphysics Modelling of 3D Concrete Printing: From Material Model to Process Simulation and Optimisation",
+      doi               = "10.1016/j.addma.2025.104847",
+      year              = "2025",
+      journal           = "Additive Manufacturing",
+      pages             = "104847",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Pierre, S. Ghabezloo, P. Dangla, R. Mesnil, M. Vandamme and J.-F. Caron, “Multiphysics Modelling of 3D Concrete Printing: From Material Model to Process Simulation and Optimisation”, <i>Additive Manufacturing</i>, p. 104847, 2025, doi: 10.1016/j.addma.2025.104847.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pierre, Maxime, Siavash Ghabezloo, Patrick Dangla, Romain Mesnil, Matthieu Vandamme, and Jean-François Caron. “Multiphysics Modelling of 3D Concrete Printing: From Material Model to Process Simulation and Optimisation”. <i>Additive Manufacturing</i>, 2025, 104847. https://doi.org/10.1016/j.addma.2025.104847.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Babak Zareiyan, Behrokh Khoshnevis
+    - footer
+title: Zareiyan Babak, Khoshnevis Behrokh
 description:
 tags:
  - adhesion
@@ -21,35 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>:aca-blank: Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness ([2017-06](date/2017/06))
-<a href="https://doi.org/10.1016/j.autcon.2017.06.013" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2017.06.013</a>
+#Inter-Layer Adhesion and Strength of Structures in Contour Crafting&nbsp;([2017-06](date/2017/06))
+<div class="h1-like">Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2017.06.013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2017.06.013" target="_blank">10.1016/j.autcon.2017.06.013</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7971-7239" title="ORCID: 0000-0001-7971-7239" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zareiyan_babak"><b>Zareiyan</b>&nbsp;Babak</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Journal Article - Automation in Construction, Vol. 81, pp. 112-121
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a> <a href="https://orcid.org/0000-0001-7971-7239" title="ORCID: 0000-0001-7971-7239" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 81, pp. 112-121
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#aggregate`](keyword/aggregate)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#rate`](keyword/rate)
-    [`#size`](keyword/size)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-    [`#thickness`](keyword/thickness)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Adhesion%20and%20Strength%20of%20Structures%20in%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85020944948&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,23 +44,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2707966572" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2017.06.013" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2017.06.013?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Contour Crafting (CC) is a method that builds coherent concrete structures in a layer-by-layer fabrication fashion. During fabrication, layers must be bonded together to make a homogenous structure, as there is no vibration or external force during layer deposition. This research investigates the structural integrity of Contour Crafted structures using experimental approaches to analyze the bond strength between layers. Initially, a concrete mixture which the compressive and tensile strength is significantly improved through modifying the aggregate size and aggregate to cement ratio is developed. The mixture is compatible with an existing extrusion system and it is tested to quantify the strength at interface for different extrusion rate and layer thickness. The results show that an improvement of up to 16% at interface is achievable for different fabrication conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/zahiri_behnam"><b>Zahiri</b> Behnam</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a> et al. <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../khos_yuan_zahi_zhan.2016.CbCCUSCwPA/">Construction by Contour Crafting Using Sulfur-Concrete with Planetary Applications</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "191 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/alnaggar_mohammed"><b>Alnaggar</b> Mohammed</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../alna.2026.LFAMwCaGM/">Large Format Additive Manufacturing with Cementitious and Geo Materials:<br/>General Considerations, Drivers, and Context</a></li>
@@ -273,4 +249,34 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kash_ngo.2018.OoMPf3PoGC/">Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zare_khos.2017.ILAaSoSiCC,
+      author            = "Babak Zareiyan and Behrokh Khoshnevis",
+      title             = "Inter-Layer Adhesion and Strength of Structures in Contour Crafting: Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness",
+      doi               = "10.1016/j.autcon.2017.06.013",
+      year              = "2017",
+      journal           = "Automation in Construction",
+      volume            = "81",
+      pages             = "112--121",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zareiyan  and B. Khoshnevis, “Inter-Layer Adhesion and Strength of Structures in Contour Crafting: Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness”, <i>Automation in Construction</i>, vol. 81, pp. 112–121, 2017, doi: 10.1016/j.autcon.2017.06.013.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zareiyan, Babak, and Behrokh Khoshnevis. “Inter-Layer Adhesion and Strength of Structures in Contour Crafting: Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness”. <i>Automation in Construction</i> 81 (2017): 112–21. https://doi.org/10.1016/j.autcon.2017.06.013.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

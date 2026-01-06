@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shravan Muthukrishnan, Harn Kua, Ling Yu, Jacky Chung
+    - footer
+title: Muthukrishnan Shravan, Kua Harn, Yu Ling, Chung Jacky
 description:
 tags:
  - ash
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing ([2020-05](date/2020/05))
-<a href="https://doi.org/10.1061/(asce)mt.1943-5533.0003230" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/(asce)mt.1943-5533.0003230</a>
+#Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing ([2020-05](date/2020/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)mt.1943-5533.0003230" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)mt.1943-5533.0003230" target="_blank">10.1061/(asce)mt.1943-5533.0003230</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b>&nbsp;Shravan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6263-5974" title="ORCID: 0000-0001-6263-5974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kua_wei_harn"><b>Kua</b>&nbsp;Harn</a></span>, <a href="../../../author/yu_na_ling"><b>Yu</b>&nbsp;Ling</a></span>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b>&nbsp;Jacky</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 32, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a> <a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a> <a href="https://orcid.org/0000-0001-6263-5974" title="ORCID: 0000-0001-6263-5974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_na_ling"><b>Yu</b> Ling</a>
-,     <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 32, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#containment`](keyword/containment)
-    [`#fresh`](keyword/fresh)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fresh%20Properties%20of%20Cementitious%20Materials%20Containing%20Rice-Husk-Ash%20for%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088272455&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3027811009" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/(asce)mt.1943-5533.0003230" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/(asce)mt.1943-5533.0003230?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Combustion of rice husk produces a supplementary cementing material known as rice husk ash (RHA). Current studies on enhancement of physical properties and durability of cementitious composites with RHA are limited to applications in conventional construction. Automation in construction using additive manufacturing technique—commonly known as construction three-dimensional (3D) printing—is an emergent strategy. Because the printing process is formwork-free and requires a continuous deposition of layers with structural stability, mix design of a 3D printable concrete is different from conventional concrete. Portland cement replacement by RHA improves the sustainability of a mixture as a construction material. In this work, 20% by weight of cement is replaced with RHA. Compressive strength and workability loss of designed mixes—with and without RHA—were studied at early age and compared with fresh properties of proven printable mortar available in market. Incorporation of RHA has shown significant improvement in rheology of mortar at the rate required for construction 3D printing at large scale
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -100,8 +78,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "79 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
@@ -182,4 +160,34 @@ tags:
       <li><a href="../../../author/mahadevan_meera"><b>Mahadevan</b> Meera</a>, <a href="../../../author/francis_ann"><b>Francis</b> Ann</a>, <a href="../../../author/thomas_albert"><b>Thomas</b> Albert</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../maha_fran_thom.2020.ASBIoSAo3PS/">A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../muth_rama_sanj.2020.BoGCf3PwMH/">Buildability of Geopolymer Concrete for 3D Printing with Microwave-Heating</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{muth_kua_yu_chun.2020.FPoCMCRHAfC3P,
+      author            = "Shravan Muthukrishnan and Harn Wei Kua and Ling Na Yu and Jacky K. H. Chung",
+      title             = "Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing",
+      doi               = "10.1061/(asce)mt.1943-5533.0003230",
+      year              = "2020",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "32",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Muthukrishnan, H. W. Kua, L. N. Yu and J. K. H. Chung, “Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing”, <i>Journal of Materials in Civil Engineering</i>, vol. 32, no. 8, 2020, doi: 10.1061/(asce)mt.1943-5533.0003230.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Muthukrishnan, Shravan, Harn Wei Kua, Ling Na Yu, and Jacky K. H. Chung. “Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing”. <i>Journal of Materials in Civil Engineering</i> 32, no. 8 (2020). https://doi.org/10.1061/(asce)mt.1943-5533.0003230.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

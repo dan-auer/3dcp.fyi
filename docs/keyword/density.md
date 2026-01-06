@@ -8,7 +8,7 @@ search:
 
 # #density
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/wang_jiyuan"><b>Wang</b> Jiyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../nasr_wang_duan_deng.2025.AtVaIoRHDPFi3PCC/">Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites</a></li>
   <li><a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/moro_sandro"><b>Moro</b> Sandro</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../parm_fall_moro_ferr.2024.PSoMFBCUVDFCv3P/">Preliminary Study on Multi-Functional Building Components Utilizing Variable Density Foamed Concrete via 3D Printing</a></li>
   <li><a href="../../../author/jiang_shangjin"><b>Jiang</b> Shangjin</a>, <a href="../../../author/wang_yuntao"><b>Wang</b> Yuntao</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jian_wang_hua_yue.2024.PaPCoLD3PEPFC/">Preparation and Performance Characterization of Low-Density 3D Printed Expanded Perlite-Foam-Concrete</a></li>

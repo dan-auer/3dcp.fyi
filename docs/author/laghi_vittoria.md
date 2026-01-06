@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Laghi Vittoria 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/babovic_neira"><b>Babovic</b> Neira</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../babo_lagh_klof.2024.BSfRAPwWaAAMT/">Branching Structure for Reinforcement Anchorage Produced with Wire and Arc Additive Manufacturing Technique</a></li>
   <li><a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gasparini_giada"><b>Gasparini</b> Giada</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lagh_shak_pand_gasp.2024.E/">Editorial:<br/>Additive Manufacturing in Construction</a></li>
   <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pand_shak_lagh.2023.CAM/">Concrete Additive Manufacturing</a></li>

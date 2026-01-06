@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Magdalena Rudziewicz, Adam Hutyra, Marcin Maroszek, Kinga Korniejenko, Marek Hebda
+    - footer
+title: Rudziewicz Magdalena, Hutyra Adam, Maroszek Marcin, Korniejenko Kinga, Hebda Marek
 description:
 tags:
  - concrete
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/15/8/4527/pdf?version=1745067582) 3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement ([2025-04](date/2025/04))
-<a href="https://doi.org/10.3390/app15084527" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app15084527</a>
+#3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/15/8/4527/pdf?version=1745067582) <a href="https://doi.org/10.3390/app15084527" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app15084527" target="_blank">10.3390/app15084527</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-9171-0575" title="ORCID: 0009-0007-9171-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hutyra_adam"><b>Hutyra</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korniejenko_kinga"><b>Korniejenko</b>&nbsp;Kinga</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
+Journal Article - Applied Sciences, Vol. 15, Iss. 8, No. 4527
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> <a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a> <a href="https://orcid.org/0009-0007-9171-0575" title="ORCID: 0009-0007-9171-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 15, Iss. 8, No. 4527
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#light`](keyword/light)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D-Printed%20Lightweight%20Foamed%20Concrete%20with%20Dispersed%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003597136&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409606327" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app15084527" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app15084527?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the influence of various reinforcing fibers, including coconut, basalt, glass, merino wool, and polypropylene, on the properties and processability of cementitious mixtures, with a particular emphasis on their application in 3D printing. The incorporation of fibers at a concentration of 1 wt.% was found to significantly hinder the printing process. Specifically, certain fibers, such as polypropylene, rendered extrusion impractical due to nozzle clogging. However, reducing the fiber content to 0.5 wt.% improved material flowability and minimized structural defects during printing. Fiber selection, in addition to its impact on mechanical properties, plays a crucial role in determining overall process efficiency. Mixtures incorporating coal slag as a dense filler, combined with stiff fibers such as basalt or glass, exhibited the highest flexural strength. Moreover, the inclusion of merino wool fibers enhanced the flexural performance of fly ash-based mixtures, achieving strength levels comparable to or exceeding those of stiffer fibers. These findings contribute to the advancement of sustainable construction practices. Notably, samples produced via 3D printing consistently demonstrated higher flexural strength than those fabricated using traditional molding techniques. This enhancement is attributed to microstructural modifications induced by the layer-by-layer deposition process. Depending on the sample composition and the type of reinforcing fiber, water absorption behavior varied significantly. Merino wool and coconut fibers exhibited the highest water absorption due to their hydrophilic nature and capillary action, particularly in 3D-printed samples with open-pore structures. In contrast, glass and basalt fibers, characterized by their higher density and hydrophobicity, exhibited lower water absorption levels. These results underscore the importance of optimizing fiber type, concentration, and processing methodologies to achieve tailored performance in fiber-reinforced cementitious mixtures. Such optimizations align with the principles of sustainable development and hold significant potential for advancing 3D-printed construction applications
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodd_gand_pand.2024.SEoFAaPAFiISRaMPo3PFC/">Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bong_nema_arun_xia.2020.EoWMFAoPo3PJAWG/">Effect of Wollastonite Micro-Fiber Addition on Properties of 3D Printable ‘Just-Add-Water’ Geopolymers</a></li>
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
@@ -94,11 +74,42 @@ tags:
       <li><a href="../../../author/zhang_ping"><b>Zhang</b> Ping</a>, <a href="../../../author/lu_xiao-jun"><b>Lu</b> Xiao-jun</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../zhan_lu.2021.SoBSoCCBoFA/">Study on Bending Strength of Cementitious Composites Based on Fiber-Alignment</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rudz_huty_maro_korn.2025.3PLFCwDR,
+      author            = "Magdalena Rudziewicz and Adam Hutyra and Marcin Maroszek and Kinga Korniejenko and Marek Hebda",
+      title             = "3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement",
+      doi               = "10.3390/app15084527",
+      year              = "2025",
+      journal           = "Applied Sciences",
+      volume            = "15",
+      number            = "8",
+      pages             = "4527",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Rudziewicz, A. Hutyra, M. Maroszek, K. Korniejenko and M. Hebda, “3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement”, <i>Applied Sciences</i>, vol. 15, no. 8, p. 4527, 2025, doi: 10.3390/app15084527.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rudziewicz, Magdalena, Adam Hutyra, Marcin Maroszek, Kinga Korniejenko, and Marek Hebda. “3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement”. <i>Applied Sciences</i> 15, no. 8 (2025): 4527. https://doi.org/10.3390/app15084527.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Robayo-Salazar Rafael 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../varg_roba_guti.2025.EoIFAaPMFotCCo3PCM/">Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures</a></li>
   <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/munoz_a_miguel"><b>Muñoz</b> Miguel</a>, <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../roba_muno_varg_guti.2024.EoIBMMaCCotRPoPCB3PI/">Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks</a></li>
   <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/martinez_fabio"><b>Martínez</b> Fabio</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../roba_varg_mart_guti.2024.UoPaFAftRoCaDWit3PoPBCM/">Utilization of Powders and Fine Aggregates from the Recycling of Construction and Demolition Waste in the 3D Printing of Portland-Based Cementitious Materials</a></li>

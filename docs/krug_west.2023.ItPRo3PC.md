@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jacques Kruger, Jean-Pierré Westhuizen
+    - footer
+title: Kruger Jacques, Westhuizen Jean-Pierré
 description:
 tags:
  - concrete
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/13/5/3225/pdf?version=1677822669) Investigating the Poisson Ratio of 3D Printed Concrete ([2023-03](date/2023/03))
-<a href="https://doi.org/10.3390/app13053225" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app13053225</a>
+#Investigating the Poisson Ratio of 3D Printed Concrete ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/13/5/3225/pdf?version=1677822669) <a href="https://doi.org/10.3390/app13053225" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app13053225" target="_blank">10.3390/app13053225</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <a href="../../../author/westhuizen_jean-pierre"><b>van der&nbsp;Westhuizen</b>&nbsp;Jean-Pierré</a></span><br>
+Journal Article - Applied Sciences, Vol. 13, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/westhuizen_jean-pierre"><b>van der Westhuizen</b> Jean-Pierré</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 13, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#investigation`](keyword/investigation)
-    [`#poisson`](keyword/poisson)
-    [`#print`](keyword/print)
-    [`#ratio`](keyword/ratio)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/poisson"><button class="btn">#poisson</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigating%20the%20Poisson%20Ratio%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149988418&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4323046926" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app13053225" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app13053225?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Poisson’s ratio, defining the lateral to longitudinal strain of a material under uniaxial load, is an extensively used material property in engineering analysis and design. For conventionally cast concrete, an isotropic static Poisson ratio typically ranges between 0.15 to 0.25. However, no ratio has been established for 3D printed concrete, and is currently widely assumed to be 0.2 and isotropic in computational modelling applications. This layer-wise additive manufacturing technology is notorious for yielding orthotropic mechanical properties due to the presence of weak interlayer regions at the structural level and elongated oblate voids at the material level. This study therefore aims to characterise the static Poisson ratio of printed concrete. Specimens were prepared from a printed element and uniaxially tested both parallel and perpendicular to the printing direction. Digital image correlation technology was employed to facilitate the capturing of specimen strains, followed by micro-computed tomography scans to determine void topography. The results indicate larger Poisson ratios apply for 3D printed concrete compared to its cast counterpart; up to 17 and 33% increases were obtained when printed specimens were tested perpendicular and parallel to the printing direction, respectively. This orthotropic behaviour is ascribed to the oblate voids present in the printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../heev_best_krug_zijl.2021.MCfNSoEB3CP/">Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../heev_best_krug_zijl.2022.NMSfR3CPE/">Numerical Modelling-Strategies for Reinforced 3D Concrete Printed Elements</a></li>
@@ -90,11 +73,41 @@ tags:
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../xu_zhan_schl_luko.2020.CCCwAB/">Cementitious Cellular Composites with Auxetic Behavior</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../mesn_duba_bave.2025.SAo3P/">Structural Applications of 3D Printing</a></li>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../xia_chen_chen_jia.2024.UaMtPDo3PCBoVCB/">Understanding and Modeling the Plastic Deformation of 3D Printed Concrete Based on Viscoelastic Creep Behavior</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ibra_zijl_baba.2023.CSoLaFABBBiFRPC/">Comparative Studies of LC³- and Fly-Ash-Based Blended Binders in Fiber-Reinforced Printed Concrete:<br/>Rheological and Quasi-Static Mechanical Characteristics</a></li>
       <li><a href="../../../author/mader_thomas"><b>Mader</b> Thomas</a>, <a href="../../../author/schreter-fleischhacker_magdalena"><b>Schreter-Fleischhacker</b> Magdalena</a>, <a href="../../../author/shkundalova_olena"><b>Shkundalova</b> Olena</a>, <a href="../../../author/neuner_matthias"><b>Neuner</b> Matthias</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../made_schr_shku_neun.2023.CMoONLMBoH3PC/">Constitutive Modeling of Orthotropic Non-Linear Mechanical Behavior of Hardened 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{krug_west.2023.ItPRo3PC,
+      author            = "Jacques Pienaar Kruger and Jean-Pierré van der Westhuizen",
+      title             = "Investigating the Poisson Ratio of 3D Printed Concrete",
+      doi               = "10.3390/app13053225",
+      year              = "2023",
+      journal           = "Applied Sciences",
+      volume            = "13",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. P. Kruger  and J.-P. van der Westhuizen, “Investigating the Poisson Ratio of 3D Printed Concrete”, <i>Applied Sciences</i>, vol. 13, no. 5, 2023, doi: 10.3390/app13053225.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kruger, Jacques Pienaar, and Jean-Pierré van der Westhuizen. “Investigating the Poisson Ratio of 3D Printed Concrete”. <i>Applied Sciences</i> 13, no. 5 (2023). https://doi.org/10.3390/app13053225.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Juan Davila Delgado, Lukumon Oyedele, Anuoluwapo Ajayi, Lukman Akanbi, Olugbenga Akinade, Muhammad Bilal, Hakeem Owolabi
+    - footer
+title: Davila Delgado Juan, Oyedele Lukumon, Ajayi Anuoluwapo, Akanbi Lukman, Akinade Olugbenga, Bilal Muhammad, Owolabi Hakeem
 description:
 tags:
  - adoption
@@ -15,34 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2019.100868) Robotics and Automated Systems in Construction:<br/>:aca-blank: Understanding Industry-Specific Challenges for Adoption ([2019-07](date/2019/07))
-<a href="https://doi.org/10.1016/j.jobe.2019.100868" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2019.100868</a>
+#Robotics and Automated Systems in Construction&nbsp;([2019-07](date/2019/07))
+<div class="h1-like">Understanding Industry-Specific Challenges for Adoption</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2019.100868) <a href="https://doi.org/10.1016/j.jobe.2019.100868" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2019.100868" target="_blank">10.1016/j.jobe.2019.100868</a>
 
--------------------------
+<a href="../../../author/davila-delgado_manuel_juan"><b>Davila Delgado</b>&nbsp;Juan</a></span>, <a href="../../../author/oyedele_lukumon"><b>Oyedele</b>&nbsp;Lukumon</a></span>, <a href="../../../author/ajayi_anuoluwapo"><b>Ajayi</b>&nbsp;Anuoluwapo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1258-9142" title="ORCID: 0000-0003-1258-9142" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akanbi_lukman"><b>Akanbi</b>&nbsp;Lukman</a></span>, <a href="../../../author/akinade_olugbenga"><b>Akinade</b>&nbsp;Olugbenga</a></span>, <a href="../../../author/bilal_muhammad"><b>Bilal</b>&nbsp;Muhammad</a></span>, <a href="../../../author/owolabi_hakeem"><b>Owolabi</b>&nbsp;Hakeem</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 26
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/davila-delgado_manuel_juan"><b>Davila Delgado</b> Juan</a>
-,     <a href="../../../author/oyedele_lukumon"><b>Oyedele</b> Lukumon</a>
-,     <a href="../../../author/ajayi_anuoluwapo"><b>Ajayi</b> Anuoluwapo</a>
-,     <a href="../../../author/akanbi_lukman"><b>Akanbi</b> Lukman</a> <a href="https://orcid.org/0000-0003-1258-9142" title="ORCID: 0000-0003-1258-9142" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/akinade_olugbenga"><b>Akinade</b> Olugbenga</a>
-,     <a href="../../../author/bilal_muhammad"><b>Bilal</b> Muhammad</a>
-,     <a href="../../../author/owolabi_hakeem"><b>Owolabi</b> Hakeem</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 26, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#automation`](keyword/automation)
-    [`#challenge`](keyword/challenge)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#robot`](keyword/robot)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotics%20and%20Automated%20Systems%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85073652295&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,19 +38,14 @@ tags:
 <a href="https://inciteful.xyz/p/W2960054529" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2019.100868" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2019.100868?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is a major economic sector, but it is plagued with inefficiencies and low productivity. Robotics and automated systems have the potential to address these shortcomings; however, the level of adoption in the construction industry is very low. This paper presents an investigation into the industry-specific factors that limit the adoption in the construction industry. A mixed research method was employed combining literature review, qualitative and quantitative data collection and analysis. Three focus groups with 28 experts and an online questionnaire were conducted. Principal component and correlation analyses were conducted to group the identified factors and find hidden correlations. The main identified challenges were grouped into four categories and ranked in order of importance: contractor-side economic factors, client-side economic factors, technical and work-culture factors, and weak business case factors. No strong correlation was found among factors. This study will help stakeholders to understand the main industry-specific factors limiting the adoption of robotics and automated systems in the construction industry. The presented findings will support stakeholders to devise mitigation strategies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
-      <li><a href="../../../author/davila-delgado_manuel_juan"><b>Davila Delgado</b> Juan</a>, <a href="../../../author/oyedele_lukumon"><b>Oyedele</b> Lukumon</a>, <a href="../../../author/ajayi_anuoluwapo"><b>Ajayi</b> Anuoluwapo</a>, <a href="../../../author/akanbi_lukman"><b>Akanbi</b> Lukman</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../davi_oyed_ajay_akan.2019.RaASiC/">Robotics and Automated Systems in Construction:<br/>Understanding Industry-Specific Challenges for Adoption</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
@@ -78,8 +54,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "30 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
       <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a>, <a href="../../../author/leicht_m_robert"><b>Leicht</b> Robert</a>, <a href="../../../author/wagner_r_alan"><b>Wagner</b> Alan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zarg_leic_wagn_duar.2025.BTaE/">Beyond Trial and Error:<br/>Toward Construction-Aware Early Design-Optimization Considering Robotic Capabilities</a></li>
@@ -110,6 +86,34 @@ tags:
       <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a></li>
       <li><a href="../../../author/pradhananga_piyush"><b>Pradhananga</b> Piyush</a>, <a href="../../../author/elzomor_mohamed"><b>ElZomor</b> Mohamed</a>, <a href="../../../author/santi-kasabdji_gabriella"><b>Santi Kasabdji</b> Gabriella</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../prad_elzo_sant.2021.ItCtARitUCI/">Identifying the Challenges to Adopting Robotics in the US Construction Industry</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
-      <li><a href="../../../author/davila-delgado_manuel_juan"><b>Davila Delgado</b> Juan</a>, <a href="../../../author/oyedele_lukumon"><b>Oyedele</b> Lukumon</a>, <a href="../../../author/ajayi_anuoluwapo"><b>Ajayi</b> Anuoluwapo</a>, <a href="../../../author/akanbi_lukman"><b>Akanbi</b> Lukman</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../davi_oyed_ajay_akan.2019.RaASiC/">Robotics and Automated Systems in Construction:<br/>Understanding Industry-Specific Challenges for Adoption</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{davi_oyed_ajay_akan.2019.RaASiC,
+      author            = "Juan Manuel Davila Delgado and Lukumon Oyedele and Anuoluwapo Ajayi and Lukman Akanbi and Olugbenga Akinade and Muhammad Bilal and Hakeem Owolabi",
+      title             = "Robotics and Automated Systems in Construction: Understanding Industry-Specific Challenges for Adoption",
+      doi               = "10.1016/j.jobe.2019.100868",
+      year              = "2019",
+      journal           = "Journal of Building Engineering",
+      volume            = "26",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. M. D. Delgado, “Robotics and Automated Systems in Construction: Understanding Industry-Specific Challenges for Adoption”, <i>Journal of Building Engineering</i>, vol. 26, 2019, doi: 10.1016/j.jobe.2019.100868.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Delgado, Juan Manuel Davila, Lukumon Oyedele, Anuoluwapo Ajayi, Lukman Akanbi, Olugbenga Akinade, Muhammad Bilal, and Hakeem Owolabi. “Robotics and Automated Systems in Construction: Understanding Industry-Specific Challenges for Adoption”. <i>Journal of Building Engineering</i> 26 (2019). https://doi.org/10.1016/j.jobe.2019.100868.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

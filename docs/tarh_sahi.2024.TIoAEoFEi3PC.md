@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeşim Tarhan, Remzi Şahin
+    - footer
+title: Tarhan Yeşim, Şahin Remzi
 description:
 tags:
  - air
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Impact of Air-Entraining on Frost-Endurance in 3D Printed Concrete:<br/>:aca-blank: The Function of Printing Orientation and Curing Process ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1080/21650373.2024.2443048" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2024.2443048</a>
+#The Impact of Air-Entraining on Frost-Endurance in 3D Printed Concrete&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">The Function of Printing Orientation and Curing Process</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2024.2443048" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2443048" target="_blank">10.1080/21650373.2024.2443048</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5400-7732" title="ORCID: 0000-0001-5400-7732" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_remzi"><b>Şahin</b>&nbsp;Remzi</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-16
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="https://orcid.org/0000-0001-5400-7732" title="ORCID: 0000-0001-5400-7732" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-16
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#concrete`](keyword/concrete)
-    [`#cure`](keyword/cure)
-    [`#frost`](keyword/frost)
-    [`#function`](keyword/function)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/frost"><button class="btn">#frost</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Impact%20of%20Air-Entraining%20on%20Frost-Endurance%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212833357&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405761957" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2024.2443048" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2024.2443048?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study evaluated the freeze-thaw (F&T) resistance of 3D-printed concrete by analyzing the effects of airentraining agent (AEA) concentrations, curing methods, and core orientations. Concrete specimens (600  600  150 mm) with 0%, 0.1%, 0.15%, and 0.2% AEA were cured and tested after 28 days. Cores were drilled horizontally and vertically and then subjected to 360 F&T cycles according to ASTM C666/Procedure B. Microstructural analyses (BET, MIP, SEM, XRD) evaluated changes in pore structure. Results showed 25% of the samples endured 300 cycles without significant damage. F&T damage occurred primarily at interlayer bonds. Horizontal cores showed greater durability due to reduced interlayer gaps. AEA at 0.1% significantly improved F&T resistance and increased dynamic modulus by 15%. BET and MIP analyses showed a 20% increase in average pore size, while SEM confirmed air voids. Optimized AEA levels and curing methods improved the durability of 3D-printed concrete in frost-prone conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../das_agui_wang_flat.2022.FTPo3PC/">Freeze-Thaw-Performance of 3D Printed Concrete:<br/>Influence of Interfaces</a></li>
@@ -86,11 +67,40 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_song"><b>Yang</b> Song</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sing_yang_wang_xiao.2025.CTFCfFTRi3PC/">Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tarh_sahi.2024.TIoAEoFEi3PC,
+      author            = "Yeşim Tarhan and Remzi Şahin",
+      title             = "The Impact of Air-Entraining on Frost-Endurance in 3D Printed Concrete: The Function of Printing Orientation and Curing Process",
+      doi               = "10.1080/21650373.2024.2443048",
+      year              = "2024",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--16",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tarhan  and R. Şahin, “The Impact of Air-Entraining on Frost-Endurance in 3D Printed Concrete: The Function of Printing Orientation and Curing Process”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–16, 2024, doi: 10.1080/21650373.2024.2443048.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tarhan, Yeşim, and Remzi Şahin. “The Impact of Air-Entraining on Frost-Endurance in 3D Printed Concrete: The Function of Printing Orientation and Curing Process”. <i>Journal of Sustainable Cement-Based Materials</i>, 2024, 1–16. https://doi.org/10.1080/21650373.2024.2443048.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

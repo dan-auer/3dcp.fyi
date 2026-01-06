@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jingyuan Guan, Li Wang, Gang Bai, Guowei Ma
+    - footer
+title: Guan Jingyuan, Wang Li, Bai Gang, Ma Guowei
 description:
 tags:
  - column
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.istruc.2025.109545" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.109545</a>
+#Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.109545" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109545" target="_blank">10.1016/j.istruc.2025.109545</a>
 
--------------------------
+<a href="../../../author/guan_jingyuan"><b>Guan</b>&nbsp;Jingyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/bai_gang"><b>Bai</b>&nbsp;Gang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Structures, Vol. 79, No. 109545
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 79, No. 109545
-
-:aca-blank:{ .lg .middle}
-    [`#column`](keyword/column)
-    [`#connection`](keyword/connection)
-    [`#enhancement`](keyword/enhancement)
-    [`#formwork`](keyword/formwork)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shear`](keyword/shear)
-
-
--------------------------
+<a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/connection"><button class="btn">#connection</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%203D%20Printed%20Formwork%20Columns%20via%20FRP%20Hoop%20Shear%20Connection%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008925688&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411620698" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.109545" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.109545?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed permanent formwork reinforced concrete structures have emerged as a feasible and effective primary load-bearing solution. A strong bond at the interface between the printed concrete formwork and the cast-in-place concrete is essential for ensuring coordinated deformation and optimal structural performance. However, challenges related to manufacturing processes often lead to premature debonding at the interface, compromising the load-bearing capacity. This paper proposes an interface enhancement method for 3D-printed permanent formwork by embedding FRP hoop shear connection reinforcement (FRP-HSCR) during the printing process. The effectiveness of this method was validated through uniaxial compression tests on columns. The study involved two control groups and four experimental groups incorporating different types of HSCR reinforcement. The test results showed that HSCR with 150 mm spacing increased the ultimate load capacity by up to 46.5 % compared to the unreinforced specimens. Digital image correlation (DIC) observations revealed that HSCR improves interface bonding in 3D-printed formwork columns; however, excessive reinforcement may lead to interlayer shear failure, which reduces the load capacity. Additionally, a refined HSCR-constrained region model was established, from which the equivalent confinement force was derived. A stress-strain relationship for HSCR and hoop reinforcement double-constrained short columns was developed. Both theoretical and experimental results demonstrated good consistency.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/atkinson_d_cynthia"><b>Atkinson</b> Cynthia</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../atki_asla.2023.Po3PCUSSCC/">Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics During Casting and Curing</a></li>
@@ -100,7 +79,37 @@ tags:
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{guan_wang_bai_ma.2025.E3PFCvFHSCR,
+      author            = "Jingyuan Guan and Li Wang and Gang Bai and Guowei Ma",
+      title             = "Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement",
+      doi               = "10.1016/j.istruc.2025.109545",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "79",
+      pages             = "109545",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Guan, L. Wang, G. Bai and G. Ma, “Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement”, <i>Structures</i>, vol. 79, p. 109545, 2025, doi: 10.1016/j.istruc.2025.109545.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Guan, Jingyuan, Li Wang, Gang Bai, and Guowei Ma. “Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement”. <i>Structures</i> 79 (2025): 109545. https://doi.org/10.1016/j.istruc.2025.109545.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

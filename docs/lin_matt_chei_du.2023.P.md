@@ -2,34 +2,22 @@
 hide:
     - navigation
     - tags
-title: Che Lin, Gabriele Mattei, Ina Cheibas, Chaoyu Du, Johan Aejmelaeus-Lindström, Fabio Gramazio
+    - footer
+title: Lin Che, Mattei Gabriele, Cheibas Ina, Du Chaoyu, Aejmelaeus-Lindström Johan, Gramazio Fabio
 description:
 tags:
  - print
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s44150-023-00092-x.pdf) PneuPrint:<br/>:aca-blank: 3D Printing on Inflatables ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1007/s44150-023-00092-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s44150-023-00092-x</a>
+#PneuPrint&nbsp;([2023-05](date/2023/05))
+<div class="h1-like">3D Printing on Inflatables</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44150-023-00092-x.pdf) <a href="https://doi.org/10.1007/s44150-023-00092-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44150-023-00092-x" target="_blank">10.1007/s44150-023-00092-x</a>
 
--------------------------
+<a href="../../../author/lin_wei_che"><b>Lin</b>&nbsp;Che</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2681-534X" title="ORCID: 0000-0003-2681-534X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mattei_gabriele"><b>Mattei</b>&nbsp;Gabriele</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1109-9101" title="ORCID: 0000-0002-1109-9101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheibas_ina"><b>Cheibas</b>&nbsp;Ina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6678-6945" title="ORCID: 0000-0002-6678-6945" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_chaoyu"><b>Du</b>&nbsp;Chaoyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6869-6409" title="ORCID: 0000-0002-6869-6409" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b>&nbsp;Johan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span><br>
+Journal Article - Architecture, Structures and Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lin_wei_che"><b>Lin</b> Che</a>
-,     <a href="../../../author/mattei_gabriele"><b>Mattei</b> Gabriele</a> <a href="https://orcid.org/0000-0003-2681-534X" title="ORCID: 0000-0003-2681-534X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a> <a href="https://orcid.org/0000-0002-1109-9101" title="ORCID: 0000-0002-1109-9101" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_chaoyu"><b>Du</b> Chaoyu</a> <a href="https://orcid.org/0000-0002-6678-6945" title="ORCID: 0000-0002-6678-6945" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a> <a href="https://orcid.org/0000-0002-6869-6409" title="ORCID: 0000-0002-6869-6409" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architecture, Structures and Construction, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=PneuPrint" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018971288&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -44,17 +32,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4378904410" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s44150-023-00092-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s44150-023-00092-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research investigated the feasibility of thermoplastic 3D printing on inflatable membranes. Five experiments were performed in an iterative process through design and manufacture (1), computational simulation and 3D scanning (2), and robotic fabrication on the pneumatic formwork (3). These experiments ranged from small to large-scale 3D printing. Experiment 1 demonstrated the small-scale feasibility of the process and the need to integrate an air-pressure control loop. Experiment 2 investigated the technique transfer from small to large-scale. Experiment 3 analyzed the deviation and shape accuracy of the inflatable membrane. Experiment 4 identified the required fabrication settings and compatibility between the membrane and the 3D printing material. Finally, Experiment 5 demonstrated the design and fabrication potential of large-scale 3D printed elements on pneumatic formworks. The results proved high potential for building freeform design elements for architectural applications on pneumatic formworks.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../batt_mill_zivk.2019.SA3PoODCCLS/">Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
@@ -65,7 +49,35 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lin_matt_chei_du.2023.P,
+      author            = "Che Wei Lin and Gabriele Mattei and Ina Cheibas and Chaoyu Du and Johan Julius Petrus Aejmelaeus-Lindström and Fabio Gramazio",
+      title             = "PneuPrint: 3D Printing on Inflatables",
+      doi               = "10.1007/s44150-023-00092-x",
+      year              = "2023",
+      journal           = "Architecture, Structures and Construction",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. W. Lin, G. Mattei, I. Cheibas, C. Du, J. J. P. Aejmelaeus-Lindström and F. Gramazio, “PneuPrint: 3D Printing on Inflatables”, <i>Architecture, Structures and Construction</i>, 2023, doi: 10.1007/s44150-023-00092-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lin, Che Wei, Gabriele Mattei, Ina Cheibas, Chaoyu Du, Johan Julius Petrus Aejmelaeus-Lindström, and Fabio Gramazio. “PneuPrint: 3D Printing on Inflatables”. <i>Architecture, Structures and Construction</i>, 2023. https://doi.org/10.1007/s44150-023-00092-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

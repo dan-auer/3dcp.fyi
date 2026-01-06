@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nicollas Safanelli, Adilson Schackow, Carmeane Effting, Paulo Matos
+    - footer
+title: Safanelli Nicollas, Schackow Adilson, Effting Carmeane, Matos Paulo
 description:
 tags:
  - buildability
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.jobe.2025.114000" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114000</a>
+#The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114000" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114000" target="_blank">10.1016/j.jobe.2025.114000</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-7363-4744" title="ORCID: 0009-0002-7363-4744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/safanelli_nicollas"><b>Safanelli</b>&nbsp;Nicollas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2561-5231" title="ORCID: 0000-0003-2561-5231" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schackow_adilson"><b>Schackow</b>&nbsp;Adilson</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5457-5457" title="ORCID: 0000-0001-5457-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/effting_carmeane"><b>Effting</b>&nbsp;Carmeane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3695-1356" title="ORCID: 0000-0002-3695-1356" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matos_ricardo_paulo"><b>de&nbsp;Matos</b>&nbsp;Paulo</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114000
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a> <a href="https://orcid.org/0009-0002-7363-4744" title="ORCID: 0009-0002-7363-4744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a> <a href="https://orcid.org/0000-0003-2561-5231" title="ORCID: 0000-0003-2561-5231" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/effting_carmeane"><b>Effting</b> Carmeane</a> <a href="https://orcid.org/0000-0001-5457-5457" title="ORCID: 0000-0001-5457-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/matos_ricardo_paulo"><b>de Matos</b> Paulo</a> <a href="https://orcid.org/0000-0002-3695-1356" title="ORCID: 0000-0002-3695-1356" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114000
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#crystal`](keyword/crystal)
-    [`#effect`](keyword/effect)
-    [`#hydration`](keyword/hydration)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crystal"><button class="btn">#crystal</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Crystalline%20Nanocellulose%20on%20the%20Rheology%2C%20Hydration%20of%20Cement%20Pastes%2C%20and%20Buildability%20of%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015300887&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413977265" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114000" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114000?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the use of crystalline nanocellulose (CNC) in cementitious materials to enhance their performance in advanced construction techniques, particularly 3D printing. The research focused on the rheological behavior and early-age performance of cement pastes with varying CNC contents (0.015, 0.050, 0.100, 0.250, and 0.500 wt%). The study evaluated key properties such as yield stress, viscosity, structuring rate, heat flow, and mineralogical composition, using rotation rheometry, isothermal calorimetry, X-ray diffraction, and thermogravimetric analysis. The study also conducted 3D printing tests to evaluate the buildability of CNC-modified mixtures, establishing a direct link between the fresh-state properties and the performance of 3D concrete printing. The findings revealed that CNC addition up to 0.100 wt% moderately improved paste fluidity. However, higher CNC contents significantly increased yield stress and structuring rate, especially when combined with superplasticizer (SP) or sonicated CNC. These changes were beneficial for 3D printing applications, where increased yield stress and structuring helped build layers effectively without compromising pumpability. Additionally, CNC delayed cement hydration for up to 22 hours. The results suggest that CNC has the potential to optimize cementitious materials, improving their performance in innovative construction processes such as 3D concrete printing. This research contributes to the growing understanding of nanocellulose’s role in controlling the properties of fresh-state cementitious materials for advanced applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a></li>
       <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
@@ -80,7 +57,36 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/souza_araujo_eduarda"><b>Souza</b> Eduarda</a>, <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../souz_ribe_sten_nema.2024.3PSLCMfCoASHiB/">3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil:<br/>Potential, Challenges, and Research Needs</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{safa_scha_efft_mato.2025.TEoCNotRHoCPaBo3PC,
+      author            = "Nicollas Safanelli and Adilson Schackow and Carmeane Effting and Paulo Ricardo de Matos",
+      title             = "The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete",
+      doi               = "10.1016/j.jobe.2025.114000",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114000",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Safanelli, A. Schackow, C. Effting and P. R. de Matos, “The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete”, <i>Journal of Building Engineering</i>, p. 114000, 2025, doi: 10.1016/j.jobe.2025.114000.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Safanelli, Nicollas, Adilson Schackow, Carmeane Effting, and Paulo Ricardo de Matos. “The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete”. <i>Journal of Building Engineering</i>, 2025, 114000. https://doi.org/10.1016/j.jobe.2025.114000.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

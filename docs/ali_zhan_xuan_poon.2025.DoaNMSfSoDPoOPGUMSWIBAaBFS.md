@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Syed Ali Shah, Shipeng Zhang, Dongxing Xuan, Chi Poon
+    - footer
+title: Ali Shah Syed, Zhang Shipeng, Xuan Dongxing, Poon Chi
 description:
 tags:
  - ash
@@ -21,37 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of a Novel Mixing Strategy for Set-on-Demand Printing of One-Part Geopolymer Using Municipal Solid Waste Incineration Bottom Ash and Blast Furnace Slag ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112632" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112632</a>
+#Development of a Novel Mixing Strategy for Set-on-Demand Printing of One-Part Geopolymer Using Municipal Solid Waste Incineration Bottom Ash and Blast Furnace Slag ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112632" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112632" target="_blank">10.1016/j.jobe.2025.112632</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3810-7538" title="ORCID: 0000-0002-3810-7538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali-shah_farasat_syed"><b>Ali Shah</b>&nbsp;Syed</a></span>, <a href="../../../author/zhang_shipeng"><b>Zhang</b>&nbsp;Shipeng</a></span>, <a href="../../../author/xuan_dongxing"><b>Xuan</b>&nbsp;Dongxing</a></span>, <a href="../../../author/poon_sun_chi"><b>Poon</b>&nbsp;Chi</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112632
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ali-shah_farasat_syed"><b>Ali Shah</b> Syed</a> <a href="https://orcid.org/0000-0002-3810-7538" title="ORCID: 0000-0002-3810-7538" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>
-,     <a href="../../../author/xuan_dongxing"><b>Xuan</b> Dongxing</a>
-,     <a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112632
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#blast`](keyword/blast)
-    [`#demand`](keyword/demand)
-    [`#development`](keyword/development)
-    [`#furnace`](keyword/furnace)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#setting`](keyword/setting)
-    [`#slag`](keyword/slag)
-    [`#solid`](keyword/solid)
-    [`#strategy`](keyword/strategy)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/blast"><button class="btn">#blast</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Novel%20Mixing%20Strategy%20for%20Set-on-Demand%20Printing%20of%20One-Part%20Geopolymer%20Using%20Municipal%20Solid%20Waste%20Incineration%20Bottom%20Ash%20and%20Blast%20Furnace%20Slag" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002564584&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409387148" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112632" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112632?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Controlling the structural build-up and rheology of geopolymers for extrusion-based 3D printing is quite challenging due to their incompatibility with currently available set accelerators and high sensitivity to changes in mix proportions and environmental conditions. In this study, a novel two-pipe mixing strategy was developed to enhance the structural build-up of geopolymer concrete and simultaneously provide beneficial utilization of municipal incineration solid waste bottom ash (MSWIBA) and blast furnace slag (GGBS) for geopolymerization reaction re-initiation. In this regard, a one-part geopolymer based on MSWIBA and GGBS was first developed, and the effects of various additives on its working properties and rheology were evaluated. Reaction mechanism, pore structure, and microstructure analysis were carried out using isothermal calorimetry, SEM-EDS, QXRD, and MIP tests. A novel two-pipe mixing strategy for such a one-part geopolymer was then devised and formulated by dividing it into two flowable mixes with a long open time and good buildability. They were pumped through two separate pipes for near-nozzle mixing to achieve the required set-on-demand hardening. The printing performance of the geopolymer was evaluated to manifest the feasibility of using the developed mixes and such a mixing strategy. Results showed that partial dissolution of the activator during the initial mixing in two pipes had a positive impact on structure buildup and early strength. The proposed two-pipe mixing strategy is suitable for utilizing different types of waste and printing large structures with long open time and an increased rate of structural build-up.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../jaji_zijl_baba.2023.SMFRMBGf3CPA/">Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer for 3D Concrete Printing Application:<br/>Evaluating Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan.2020.MSfC3P/">Mix Suitable for Concrete 3D Printing:<br/>A Review</a></li>
@@ -105,8 +78,37 @@ tags:
       <li><a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a>, <a href="../../../author/kersevicius_vidas"><b>Kerševičius</b> Vidas</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../vait_sere_kers.2018.EoUSAoEHPi3CPT/">Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ali_zhan_xuan_poon.2025.DoaNMSfSoDPoOPGUMSWIBAaBFS,
+      author            = "Syed Farasat Ali Shah and Shipeng Zhang and Dongxing Xuan and Chi Sun Poon",
+      title             = "Development of a Novel Mixing Strategy for Set-on-Demand Printing of One-Part Geopolymer Using Municipal Solid Waste Incineration Bottom Ash and Blast Furnace Slag",
+      doi               = "10.1016/j.jobe.2025.112632",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112632",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. F. A. Shah, S. Zhang, D. Xuan and C. S. Poon, “Development of a Novel Mixing Strategy for Set-on-Demand Printing of One-Part Geopolymer Using Municipal Solid Waste Incineration Bottom Ash and Blast Furnace Slag”, <i>Journal of Building Engineering</i>, p. 112632, 2025, doi: 10.1016/j.jobe.2025.112632.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shah, Syed Farasat Ali, Shipeng Zhang, Dongxing Xuan, and Chi Sun Poon. “Development of a Novel Mixing Strategy for Set-on-Demand Printing of One-Part Geopolymer Using Municipal Solid Waste Incineration Bottom Ash and Blast Furnace Slag”. <i>Journal of Building Engineering</i>, 2025, 112632. https://doi.org/10.1016/j.jobe.2025.112632.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nizar Taha, Alexander Walzer, Jetana Ruangjun, Theophil Bürgin, Kathrin Dörfler, Ena Lloret-Fritschi, Fabio Gramazio, Matthias Kohler
+    - footer
+title: Taha Nizar, Walzer Alexander, Ruangjun Jetana, Bürgin Theophil, Dörfler Kathrin, Lloret-Fritschi Ena, Gramazio Fabio, Kohler Matthias
 description:
 tags:
  - concrete
@@ -17,37 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://pdf.blucher.com.br/designproceedings/ecaadesigradi2019/ecaadesigradi2019_675.pdf) Robotic AeroCrete:<br/>:aca-blank: A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements ([2019-09](date/2019/09))
-<a href="https://doi.org/10.5151/proceedings-ecaadesigradi2019_675" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.5151/proceedings-ecaadesigradi2019_675</a>
+#Robotic AeroCrete&nbsp;([2019-09](date/2019/09))
+<div class="h1-like">A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](http://pdf.blucher.com.br/designproceedings/ecaadesigradi2019/ecaadesigradi2019_675.pdf) <a href="https://doi.org/10.5151/proceedings-ecaadesigradi2019_675" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5151/proceedings-ecaadesigradi2019_675" target="_blank">10.5151/proceedings-ecaadesigradi2019_675</a>
 
--------------------------
+<a href="../../../author/taha_nizar"><b>Taha</b>&nbsp;Nizar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3946-7954" title="ORCID: 0000-0003-3946-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b>&nbsp;Alexander</a></span>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b>&nbsp;Jetana</a></span>, <a href="../../../author/burgin_theophil"><b>Bürgin</b>&nbsp;Theophil</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
+Contribution - Proceedings of the 37th Education and Research in Computer Aided Architectural Design in Europe and 23rd Iberoamerican Society of Digital Graphics, pp. 245-256
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>
-,     <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a> <a href="https://orcid.org/0000-0003-3946-7954" title="ORCID: 0000-0003-3946-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>
-,     <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a>
-,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 37th Education and Research in Computer Aided Architectural Design in Europe and 23rd Iberoamerican Society of Digital Graphics, pp. 245-256
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#production`](keyword/production)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#robot`](keyword/robot)
-    [`#slenderness`](keyword/slenderness)
-    [`#spray`](keyword/spray)
-    [`#surface`](keyword/surface)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/slenderness"><button class="btn">#slenderness</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%20AeroCrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120919745&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,22 +40,17 @@ tags:
 <a href="https://inciteful.xyz/p/W4246340889" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.5151/proceedings-ecaadesigradi2019_675" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.5151/proceedings-ecaadesigradi2019_675?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research paper presents a novel method for robotic spraying ofglass-fibre reinforced concrete (GFRC) on a permeable reinforcement mesh. In this process, the mesh acts as a functional formwork during the concrete spraying process and as reinforcement once the concrete is cured, with the goal ofproducing slender reinforced concrete elements efficiently. The proofofconcept presented in this paper takes inspiration from ``Ferrocement'' technique, developed in the 1940s by Pier Luigi Nervi (Greco, 1994) and shows how robotic spraying has the potential ofproducing such slender and bespoke reinforced concrete elements while also having the potential ofreducing manual labour, waste and excess material. The system is coined with the name ``Robotic AeroCrete'' (or RAC) in reference to the use ofan industrial robotic setup and the pneumatic projection of concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
@@ -96,4 +69,34 @@ tags:
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jenn_llor_gram_kohl.2020.CPtCMRFOS/">Crafting Plaster through Continuous Mobile Robotic Fabrication On-Site</a></li>
       <li><a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a>, <a href="../../../author/williams_ella"><b>Williams</b> Ella</a>, <a href="../../../author/bennett_michael"><b>Bennett</b> Michael</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../nich_ross_will_benn.2020.IRTMRSaMLfCR3PiA/">Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{taha_walz_ruan_burg.2019.RA,
+      author            = "Nizar Taha and Alexander Nikolas Walzer and Jetana Ruangjun and Theophil Bürgin and Kathrin Dörfler and Ena Lloret-Fritschi and Fabio Gramazio and Matthias Daniel Kohler",
+      title             = "Robotic AeroCrete: A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements",
+      doi               = "10.5151/proceedings-ecaadesigradi2019_675",
+      year              = "2019",
+      pages             = "245--256",
+      booktitle         = "Proceedings of the 37th Education and Research in Computer Aided Architectural Design in Europe and 23rd Iberoamerican Society of Digital Graphics: Joint Conference",
+      editor            = "Education and Research in Computer Aided Architectural Design in Europe",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Taha, “Robotic AeroCrete: A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements”, in <i>Proceedings of the 37th Education and Research in Computer Aided Architectural Design in Europe and 23rd Iberoamerican Society of Digital Graphics: Joint Conference</i>,  2019, pp. 245–256. doi: 10.5151/proceedings-ecaadesigradi2019_675.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Taha, Nizar, Alexander Nikolas Walzer, Jetana Ruangjun, Theophil Bürgin, Kathrin Dörfler, Ena Lloret-Fritschi, Fabio Gramazio, and Matthias Daniel Kohler. “Robotic AeroCrete: A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements”. In <i>Proceedings of the 37th Education and Research in Computer Aided Architectural Design in Europe and 23rd Iberoamerican Society of Digital Graphics: Joint Conference</i>, edited by Education and Research in Computer Aided Architectural Design in Europe, 245–56, 2019. https://doi.org/10.5151/proceedings-ecaadesigradi2019_675.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

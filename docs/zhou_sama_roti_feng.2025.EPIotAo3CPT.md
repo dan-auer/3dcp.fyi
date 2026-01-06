@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jimmy Zhou, Don Samarasinghe, James Rotimi, Zhenan Feng
+    - footer
+title: Zhou Jimmy, Samarasinghe Don, Rotimi James, Feng Zhenan
 description:
 tags:
  - adoption
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://docs.lib.purdue.edu/context/cib-conferences/article/1694/viewcontent/1694_acc.pdf) Exploring Policy Influences on the Adoption of 3D Concrete Printing Technology:<br/>:aca-blank: A Hypothetical Model ([2025-06](date/2025/06))
-<a href="https://doi.org/10.7771/3067-4883.1694" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.7771/3067-4883.1694</a>
+#Exploring Policy Influences on the Adoption of 3D Concrete Printing Technology&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">A Hypothetical Model</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/context/cib-conferences/article/1694/viewcontent/1694_acc.pdf) <a href="https://doi.org/10.7771/3067-4883.1694" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7771/3067-4883.1694" target="_blank">10.7771/3067-4883.1694</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-5465-1998" title="ORCID: 0009-0001-5465-1998" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_jimmy"><b>Zhou</b>&nbsp;Jimmy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6744-4683" title="ORCID: 0000-0001-6744-4683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7513-8942" title="ORCID: 0000-0001-7513-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_zhenan"><b>Feng</b>&nbsp;Zhenan</a></span><br>
+Journal Article - CIB Conferences, Vol. 1, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_jimmy"><b>Zhou</b> Jimmy</a> <a href="https://orcid.org/0009-0001-5465-1998" title="ORCID: 0009-0001-5465-1998" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> <a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a> <a href="https://orcid.org/0000-0001-6744-4683" title="ORCID: 0000-0001-6744-4683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_zhenan"><b>Feng</b> Zhenan</a> <a href="https://orcid.org/0000-0001-7513-8942" title="ORCID: 0000-0001-7513-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - CIB Conferences, Vol. 1, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#concrete`](keyword/concrete)
-    [`#exploration`](keyword/exploration)
-    [`#hypothesis`](keyword/hypothesis)
-    [`#influence`](keyword/influence)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/hypothesis"><button class="btn">#hypothesis</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Policy%20Influences%20on%20the%20Adoption%20of%203D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411472246" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.7771/3067-4883.1694" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.7771/3067-4883.1694?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The global construction industry faces mounting pressure to innovate for sustainability and efficiency, with 3D concrete printing emerging as a transformative technology. Despite its potential, significant challenges such as technological immaturity and insufficient policy support hider widespread 3DCP adoption. Drawing on lessons from the adoption of Building Information Modeling in the United States and Hong Kong, this paper addresses these policy gaps by developing a conceptual framework that facilitates 3D concrete printing adoption. Through a systematic review of 30 publications and a qualitative content analysis, this study identifies and synthesizes 17 key policy factors across six policy dimensions into a comprehensive framework. The findings underscore the critical role of sustainability, transformative technical development policies, and research and development initiatives in accelerating 3D concrete printing adoption. Additionally, the study highlights a policy shift from profit-driven strategies to eco-innovative and socio-environmental entity as the technology matures, particularly in its early development stages. The proposed conceptual policy framework provides actionable strategies for policymakers and industry stakeholders to address existing barriers and accelerate the widespread adoption of 3D concrete printing. A critical insight suggests that governments leadership, along with a shift to business models based on usage rights rather than ownership, could reduce financial burden on end users. This coordinated approach combining government leadership, targeted R&D support, eco-innovative policies, and new business models can establish 3DCP as a sustainable and scalable solution for future construction needs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -81,7 +60,37 @@ tags:
       <li><a href="../../../author/tahmasebinia_faham"><b>Tahmasebinia</b> Faham</a>, <a href="../../../author/jabbari_abbas_amir"><b>Jabbari</b> Amir</a>, <a href="../../../author/skrzypkowski_krzysztof"><b>Skrzypkowski</b> Krzysztof</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tahm_jabb_skrz.2023.TAoFESa3PiSDWCI40/">The Application of Finite Element Simulation and 3D Printing in Structural Design Within Construction Industry 4.0</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_sama_roti_feng.2025.EPIotAo3CPT,
+      author            = "Jimmy Zhou and Don Amila Sajeevan Samarasinghe and James Olabode Bamidele Rotimi and Zhenan Feng",
+      title             = "Exploring Policy Influences on the Adoption of 3D Concrete Printing Technology: A Hypothetical Model",
+      doi               = "10.7771/3067-4883.1694",
+      year              = "2025",
+      journal           = "CIB Conferences",
+      volume            = "1",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhou, D. A. S. Samarasinghe, J. O. B. Rotimi and Z. Feng, “Exploring Policy Influences on the Adoption of 3D Concrete Printing Technology: A Hypothetical Model”, <i>CIB Conferences</i>, vol. 1, no. 1, 2025, doi: 10.7771/3067-4883.1694.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Jimmy, Don Amila Sajeevan Samarasinghe, James Olabode Bamidele Rotimi, and Zhenan Feng. “Exploring Policy Influences on the Adoption of 3D Concrete Printing Technology: A Hypothetical Model”. <i>CIB Conferences</i> 1, no. 1 (2025). https://doi.org/10.7771/3067-4883.1694.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

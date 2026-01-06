@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Minmao Liao, Wangdui Gerong, Pengfei Wang, Zhaohui Chen
+    - footer
+title: Liao Minmao, Gerong Wangdui, Wang Pengfei, Chen Zhaohui
 description:
 tags:
  - concrete
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1061/jsendh.steng-13933" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jsendh.steng-13933</a>
+#Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jsendh.steng-13933" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsendh.steng-13933" target="_blank">10.1061/jsendh.steng-13933</a>
 
--------------------------
+<a href="../../../author/liao_minmao"><b>Liao</b>&nbsp;Minmao</a></span>, <a href="../../../author/gerong_wangdui"><b>Gerong</b>&nbsp;Wangdui</a></span>, <a href="../../../author/wang_pengfei"><b>Wang</b>&nbsp;Pengfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhaohui"><b>Chen</b>&nbsp;Zhaohui</a></span><br>
+Journal Article - Journal of Structural Engineering, Vol. 151, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>
-,     <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>
-,     <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>
-,     <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Structural Engineering, Vol. 151, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#constant`](keyword/constant)
-    [`#constitutive`](keyword/constitutive)
-    [`#determination`](keyword/determination)
-    [`#elasticity`](keyword/elasticity)
-    [`#engineered`](keyword/engineered)
-    [`#hardened`](keyword/hardened)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constant"><button class="btn">#constant</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Determination%20of%20Elastic%20Engineering%20Constants%20in%20an%20Orthotropic%20Constitutive%20Model%20for%20Hardened%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014328764&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413772114" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jsendh.steng-13933" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jsendh.steng-13933?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A methodology for determining elastic engineering constants in an orthotropic constitutive model of hardened three-dimensional (3D)-printed concrete (3DPC) is introduced in this paper. The 3DPC material’s unique configuration of filaments and layers weakens the mechanical interfaces between them, resulting in clear anisotropy along the three principal directions. To address this, a numerical model of a composite representative volume element (RVE) is created that combines a continuum concrete damaged plasticity model for the filaments with an interfacial cohesive zone model for the interfaces. The model’s parameter values are determined through uniaxial compression, splitting tension, cross-bonded tension, and inclined shear tests. By exploring the model’s design space using the design of experiments (DOE) technique, quantitative relationships between the orthotropic elastic engineering constants and the material properties of the filaments and interfaces are obtained, leading to explicit and simple formulas. Comparisons between numerical and experimental results for two hollow beams validate the effectiveness of the developed formulas.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../heev_best_krug_zijl.2021.MCfNSoEB3CP/">Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../heev_best_krug_zijl.2022.NMSfR3CPE/">Numerical Modelling-Strategies for Reinforced 3D Concrete Printed Elements</a></li>
@@ -93,7 +70,37 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liao_gero_wang_chen.2025.DoEECiaOCMfH3PC,
+      author            = "Minmao Liao and Wangdui Gerong and Pengfei Wang and Zhaohui Chen",
+      title             = "Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete",
+      doi               = "10.1061/jsendh.steng-13933",
+      year              = "2025",
+      journal           = "Journal of Structural Engineering",
+      volume            = "151",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Liao, W. Gerong, P. Wang and Z. Chen, “Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete”, <i>Journal of Structural Engineering</i>, vol. 151, no. 11, 2025, doi: 10.1061/jsendh.steng-13933.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liao, Minmao, Wangdui Gerong, Pengfei Wang, and Zhaohui Chen. “Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete”. <i>Journal of Structural Engineering</i> 151, no. 11 (2025). https://doi.org/10.1061/jsendh.steng-13933.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

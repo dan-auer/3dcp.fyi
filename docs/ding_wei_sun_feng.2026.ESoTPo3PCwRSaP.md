@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tao Ding, Jun Wei, Jingting Sun, Kaikai Feng
+    - footer
+title: Ding Tao, Wei Jun, Sun Jingting, Feng Kaikai
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-# Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.144934" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.144934</a>
+#Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder ([2025-12](date/2025/12))
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.144934" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144934" target="_blank">10.1016/j.conbuildmat.2025.144934</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <a href="../../../author/wei_jun"><b>Wei</b>&nbsp;Jun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2161-8216" title="ORCID: 0000-0003-2161-8216" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_jingting"><b>Sun</b>&nbsp;Jingting</a></span>, <a href="../../../author/feng_kaikai"><b>Feng</b>&nbsp;Kaikai</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 506, No. 144934
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>
-,     <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="https://orcid.org/0000-0003-2161-8216" title="ORCID: 0000-0003-2161-8216" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 506, No. 144934
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Thermal%20Properties%20of%203D%20Printed%20Concrete%20with%20Recycled%20Sand%20and%20Powder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.144934" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.144934?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The thermal properties of three-dimensional printed recycled concrete (3DPRC) play a crucial role in its application in energy-efficient buildings, supporting its advancement from structural components to integrated enclosure systems. Therefore, this study systematically investigated the effects of different replacement rates of recycled sand (RS at 25 %, 50 %, 75 %, and 100 %) and recycled powder (RP at 15 %, 30 %, and 45 %) on the thermal properties of 3DPRC (including the dry density, specific heat capacity, and thermal conductivity) in comparison with conventional cast-in-place recycled concrete (CRC). The results indicated that 3DPRC had significantly lower dry density (1754–1850 kg/m³) and thermal conductivity (0.3249–0.4701 W·m⁻¹·K⁻¹) than CRC. Notably, with 100 % RS, thermal insulation improved by up to 34 %. In contrast, the specific heat capacity of 3DPRC showed the tendency of increasing and then decreasing with the dosage of recycled materials. The optimum heat storage performance was exhibited at 50 % and 15 % dosage of RS and RP, respectively. In addition, a mathematical model of specific heat capacity considering the dosing of recycled materials and temperature dependence was developed. Meanwhile, a four-phase multiscale tandem thermal resistance model considering the dosing of recycled materials and the interface transition zones (ITZ) of printed filaments was also proposed. The model significantly improved the prediction accuracy of thermal conductivity for 3DPRC. Finally, computed tomography (CT), scanning electron microscopy (SEM) and X-ray diffraction (XRD) analyses revealed the intrinsic mechanisms of thermal properties related to pore distribution, interlayer defects, and microcracks. These findings confirmed the significant potential of 3DPRC for enhancing the thermal insulation of buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../bai_xiao_ding_yu.2024.IBPB3PECCaPCC/">Interfacial Bond-Properties Between 3D Printed Engineered Cementitious Composite and Post-Cast Concrete</a></li>
       <li><a href="../../../author/capeto_paula_ana"><b>Capêto</b> Ana</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/uribe_e-b_braian"><b>Uribe</b> Braian</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../cape_jesu_urib_guim.2024.BaGF/">Building a Greener Future:<br/>Advancing Concrete Production Sustainability and the Thermal Properties of 3D Printed Mortars</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
@@ -107,7 +85,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zandifaez_peyman"><b>Zandifaez</b> Peyman</a>, <a href="../../../author/shen_zhenglai"><b>Shen</b> Zhenglai</a>, <a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b> Reese</a>, <a href="../../../author/li_yucen"><b>Li</b> Yucen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zand_shen_sorg_li.2024.PtFLaUL3PCC/">Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_wei_sun_feng.2026.ESoTPo3PCwRSaP,
+      author            = "Tao Ding and Jun Wei and Jingting Sun and Kaikai Feng",
+      title             = "Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder",
+      doi               = "10.1016/j.conbuildmat.2025.144934",
+      year              = "2026",
+      journal           = "Construction and Building Materials",
+      volume            = "506",
+      pages             = "144934",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Ding, J. Wei, J. Sun and K. Feng, “Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder”, <i>Construction and Building Materials</i>, vol. 506, p. 144934, 2026, doi: 10.1016/j.conbuildmat.2025.144934.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Tao, Jun Wei, Jingting Sun, and Kaikai Feng. “Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder”. <i>Construction and Building Materials</i> 506 (2026): 144934. https://doi.org/10.1016/j.conbuildmat.2025.144934.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

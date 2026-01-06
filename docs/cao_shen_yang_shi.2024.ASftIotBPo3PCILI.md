@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jing Cao, E. Shengzhao, Yi Yang, Yaming Shi, Junrui Chai, Zengguang Xu
+    - footer
+title: Cao Jing, Shengzhao E., Yang Yi, Shi Yaming, Chai Junrui, Xu Zengguang
 description:
 tags:
  - bond
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Strategy for the Improvement of the Bonding Performance of 3D Printed Concrete Inter-Layer Interfaces ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.jobe.2024.110675" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110675</a>
+#A Strategy for the Improvement of the Bonding Performance of 3D Printed Concrete Inter-Layer Interfaces ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110675" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110675" target="_blank">10.1016/j.jobe.2024.110675</a>
 
--------------------------
+<a href="../../../author/cao_jing"><b>Cao</b>&nbsp;Jing</a></span>, <a href="../../../author/shengzhao_e"><b>Shengzhao</b>&nbsp;E.</a></span>, <a href="../../../author/yang_yi"><b>Yang</b>&nbsp;Yi</a></span>, <a href="../../../author/shi_yaming"><b>Shi</b>&nbsp;Yaming</a></span>, <a href="../../../author/chai_junrui"><b>Chai</b>&nbsp;Junrui</a></span>, <a href="../../../author/xu_zengguang"><b>Xu</b>&nbsp;Zengguang</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 97, No. 110675
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cao_jing"><b>Cao</b> Jing</a>
-,     <a href="../../../author/shengzhao_e"><b>Shengzhao</b> E.</a>
-,     <a href="../../../author/yang_yi"><b>Yang</b> Yi</a>
-,     <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a>
-,     <a href="../../../author/chai_junrui"><b>Chai</b> Junrui</a>
-,     <a href="../../../author/xu_zengguang"><b>Xu</b> Zengguang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 97, No. 110675
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#improvement`](keyword/improvement)
-    [`#inter`](keyword/inter)
-    [`#interface`](keyword/interface)
-    [`#layer`](keyword/layer)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Strategy%20for%20the%20Improvement%20of%20the%20Bonding%20Performance%20of%203D%20Printed%20Concrete%20Inter-Layer%20Interfaces" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203642953&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402327992" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110675" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110675?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed concrete, as an intelligent building technology, has enormous potential in construction. However, the weak bond interfaces between two adjacent layers of concrete are still a well-known problem affecting the mechanical properties of printed structures, with reduced interlayer shear and tensile properties. The reinforcement method of inserting steel bars in vertically printed layers is crucial and requires research and exploration of suitable methods, as well as finding the optimal reinforcement scheme that satisfies the interlayer interface when facing different loads. This study proposes a method of interlayer reinforcement by vertically laying steel fibers between layers, and investigates the effects of steel fiber offset, deployment density, and cross-sectional area on interlayer bonding strength. The strengthening effect of steel fiber on interlayer shear and tensile strength was tested through shear and splitting tests. Microscopic numerical models are used to study the evolution process of interlayer cracking. The correlation between different steel fiber variables and interlayer bonding strength was studied using a Generalized Grey Relational Analysis (GGRA). The results showed that the shear strength and tensile strength of the interlayer interface could be improved by 256.32 % and 353.61 %, respectively, through a reasonable fiber layout scheme. It is recommended to lay steel fibers with small offsets. When the interlayer interface is subjected to shear loads, priority should be given to increasing the cross-sectional area. When the interlayer interface is subjected to tensile loads, the deployment density should be increased first to achieve the best improvement in interlayer strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/wang_xiaoyi"><b>Wang</b> Xiaoyi</a>, <a href="../../../author/fang_yizhi"><b>Fang</b> Yizhi</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cai_shen_wang_fang.2022.EoRCotFBo3PFRCCB/">Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams</a></li>
       <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../demo_duco_mesn_caro.2021.FBPoCFfCBCMaAM/">Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing:<br/>Rheological and Technological Requirements</a></li>
@@ -118,8 +93,8 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ke_zhijiang"><b>Ke</b> Zhijiang</a>, <a href="../../../author/li_zichang"><b>Li</b> Zichang</a>, <a href="../../../author/chen_zhengfei"><b>Chen</b> Zhengfei</a>, <a href="../../../author/xu_yao"><b>Xu</b> Yao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ke_li_chen_xu.2026.TAaCoRAB3PfHTL/">Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
@@ -130,4 +105,34 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a>, <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhou_xu_meng_xie.2025.FS/">Filament Stitching:<br/>An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/mousavi_fateme"><b>Mousavi</b> Fateme</a>, <a href="../../../author/mahdavinia_pooneh"><b>Mahdavinia</b> Pooneh</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../mous_beng_mous_mahd.2025.ILBSPo3PCUANN/">Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network:<br/>Experimental and Modeling Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cao_shen_yang_shi.2024.ASftIotBPo3PCILI,
+      author            = "Jing Cao and E. Shengzhao and Yi Yang and Yaming Shi and Junrui Chai and Zengguang Xu",
+      title             = "A Strategy for the Improvement of the Bonding Performance of 3D Printed Concrete Inter-Layer Interfaces",
+      doi               = "10.1016/j.jobe.2024.110675",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "97",
+      pages             = "110675",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Cao, E. Shengzhao, Y. Yang, Y. Shi, J. Chai and Z. Xu, “A Strategy for the Improvement of the Bonding Performance of 3D Printed Concrete Inter-Layer Interfaces”, <i>Journal of Building Engineering</i>, vol. 97, p. 110675, 2024, doi: 10.1016/j.jobe.2024.110675.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cao, Jing, E. Shengzhao, Yi Yang, Yaming Shi, Junrui Chai, and Zengguang Xu. “A Strategy for the Improvement of the Bonding Performance of 3D Printed Concrete Inter-Layer Interfaces”. <i>Journal of Building Engineering</i> 97 (2024): 110675. https://doi.org/10.1016/j.jobe.2024.110675.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

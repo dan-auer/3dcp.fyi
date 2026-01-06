@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jin Lee, Jae Kim
+    - footer
+title: Lee Jin, Kim Jae
 description:
 tags:
  - concrete
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2022.106864) Matric-Suction and Its Effect on the Shape Stability of 3D Printed Concrete ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106864" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106864</a>
+#Matric-Suction and Its Effect on the Shape Stability of 3D Printed Concrete ([2022-06](date/2022/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2022.106864) <a href="https://doi.org/10.1016/j.cemconres.2022.106864" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106864" target="_blank">10.1016/j.cemconres.2022.106864</a>
 
--------------------------
+<a href="../../../author/lee_hyun_jin"><b>Lee</b>&nbsp;Jin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6253-6877" title="ORCID: 0000-0002-6253-6877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_hong_jae"><b>Kim</b>&nbsp;Jae</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 159
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lee_hyun_jin"><b>Lee</b> Jin</a>
-,     <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 159, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#matrix`](keyword/matrix)
-    [`#print`](keyword/print)
-    [`#shape`](keyword/shape)
-    [`#stability`](keyword/stability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Matric-Suction%20and%20Its%20Effect%20on%20the%20Shape%20Stability%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132221635&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4283011045" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106864" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106864?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mix design of 3D printed concrete has adopted various types of binders and additives to enhance its casting performance and shape stability. Matric suction, as an attractive force among partially unsaturated particles of the binders and additives, influences the shape stability of firm cement paste composing 3D printed concrete. Higher matric suction induces higher compressive strength (or green strength) and higher elastic modulus. The extended Mohr–Coulomb failure envelope describes the stress state of the 3D printed concrete considering its matric suction. Variation of the matric suction takes parallel shifting and rotation of the shape failure envelope. The test results on the matric suction finally confirm the effect of binders and additives. Change in the water-to-binder ratio contributes to higher matric suction related to the paralel shift of the Mohr-Coulomb failure envelope, while incorporating nanoclay or polycarboxylate ether affects the internal friction angle of the binder.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/craipeau_typhanie"><b>Craipeau</b> Typhanie</a>, <a href="../../../author/lecompte_thibault"><b>Lecompte</b> Thibault</a>, <a href="../../../author/toussaint_fabrice"><b>Toussaint</b> Fabrice</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../crai_leco_tous_perr.2019.EoCFIiSP/">Evolution of Concrete-Formwork Interface in Slipforming Process</a></li>
@@ -81,8 +63,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
       <li><a href="../../../author/duan_yuhang"><b>Duan</b> Yuhang</a>, <a href="../../../author/wang_chuan"><b>Wang</b> Chuan</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../duan_wang_yin_liew.2025.MIFi3PCvP/">Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics</a></li>
@@ -94,6 +76,34 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../rehm_perr_birr_kim.2023.RfQCiI3CPCwMCC/">Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete:<br/>A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../wu_liu_bai_liu.2023.3PCwRS/">3D Printed Concrete with Recycled Sand:<br/>Pore-Structure and Triaxial Compression Properties</a></li>
       <li><a href="../../../author/shen_yuhang"><b>Shen</b> Yuhang</a>, <a href="../../../author/lin_li"><b>Lin</b> Li</a>, <a href="../../../author/wei_shengjie"><b>Wei</b> Shengjie</a>, <a href="../../../author/yan_jie"><b>Yan</b> Jie</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../shen_lin_wei_yan.2022.RotPaMPoS3PCM/">Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials</a></li>
-      <li><a href="../../../author/lee_hyun_jin"><b>Lee</b> Jin</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../lee_kim.2022.MSoFSaIEotSSo3PCM/">Matric-Suction of Fine Sand and Its Effect on the Shape Stability of 3D Printed Cement Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lee_kim.2022.MSaIEotSSo3PC,
+      author            = "Jin Hyun Lee and Jae Hong Kim",
+      title             = "Matric-Suction and Its Effect on the Shape Stability of 3D Printed Concrete",
+      doi               = "10.1016/j.cemconres.2022.106864",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "159",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. H. Lee  and J. H. Kim, “Matric-Suction and Its Effect on the Shape Stability of 3D Printed Concrete”, <i>Cement and Concrete Research</i>, vol. 159, 2022, doi: 10.1016/j.cemconres.2022.106864.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lee, Jin Hyun, and Jae Hong Kim. “Matric-Suction and Its Effect on the Shape Stability of 3D Printed Concrete”. <i>Cement and Concrete Research</i> 159 (2022). https://doi.org/10.1016/j.cemconres.2022.106864.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

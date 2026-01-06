@@ -8,7 +8,7 @@ search:
 
 # #soil
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
   <li><a href="../../../author/feng_xiaowei"><b>Feng</b> Xiaowei</a>, <a href="../../../author/carvelli_valter"><b>Carvelli</b> Valter</a>, <a href="../../../author/pan_dongjiang"><b>Pan</b> Dongjiang</a>, <a href="../../../author/zhu_chuankai"><b>Zhu</b> Chuankai</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_carv_pan_zhu.2025.AMoHSSCMfEMM/">Additive Manufacturing of Hybrid Straw-Soil-Cement Materials for Enhanced Mine Models</a></li>
   <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/emiroglu_mehmet"><b>Emiroğlu</b> Mehmet</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mato_emir_milh.2025.PSSMPf3P/">Predicting Stabilized Soil Mixture Proportions for 3D Printing:<br/>Preliminary Study Using the Design of Experiments Approach</a></li>

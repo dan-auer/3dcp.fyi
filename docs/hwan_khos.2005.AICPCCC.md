@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dooil Hwang, Behrokh Khoshnevis
+    - footer
+title: Hwang Dooil, Khoshnevis Behrokh
 description:
 tags:
  - construction
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.iaarc.org/publications/fulltext/isarc2005-03hwang.pdf) An Innovative Construction Process-Contour Crafting (CC) ([2005-11](date/2005/11))
-<a href="https://doi.org/10.22260/isarc2005/0004" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2005/0004</a>
+#An Innovative Construction Process-Contour Crafting (CC) ([2005-11](date/2005/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/publications/fulltext/isarc2005-03hwang.pdf) <a href="https://doi.org/10.22260/isarc2005/0004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2005/0004" target="_blank">10.22260/isarc2005/0004</a>
 
--------------------------
+<a href="../../../author/hwang_dooil"><b>Hwang</b>&nbsp;Dooil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Contribution - Proceedings of the 22nd International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 22nd International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#innovation`](keyword/innovation)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Innovative%20Construction%20Process-Contour%20Crafting%20%28CC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085399380&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,23 +35,19 @@ tags:
 <a href="https://inciteful.xyz/p/W1029042719" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2005/0004" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2005/0004?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper describes an innovative construction automation approach using a new Layered Manufacturing (LM) process called Contour Crafting (CC), which has been developed at the University of Southern California. In the CC construction process, a precise amount of mortar mixture is delivered to make a concrete mold using robotic techniques. Mortar mixture is added in a layer by layer fashion; then a volume of commercially available concrete is poured with a certain time delay between batches. The CC construction process has great potential in construction automation due to its relative simplicity, low cost, and capability of being easily integrated with currently available automation technologies. This is demonstrated by CC’s unique capabilities and experimental results in fabricating a full-scale concrete wall structure using ordinary construction materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a>, <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="../../../date/2001/09">(2001-09)</a><br><a href="../../../khos_russ_kwon_bukk.2001.CLP/">Crafting Large Prototypes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a>, <a href="../../../author/georgiou_ioulios"><b>Georgiou</b> Ioulios</a>, <a href="../../../author/carrasco-perez_emanuel_patricio"><b>Carrasco Pérez</b> Patricio</a>, <a href="../../../author/soria_romanella"><b>Soria</b> Romanella</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../band_geor_carr_sori.2025.DfACTDP/">Deployment for Additive Construction Through Digital Platforms:<br/>Gananoque Project as a Case Study</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jesu_ribe_teix_rang.2024.3PMwMPTSC/">3D Printed Mortars with Marble-Powder Towards Sustainable Construction</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zuo_cort_huan_chen.2024.STLS3PWSC/">Strategies Towards Large-Scale 3D Printing Without Size-Constraints</a></li>
@@ -99,4 +82,33 @@ tags:
       <li><a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/wei_ran"><b>Wei</b> Ran</a>, <a href="../../../author/che_haichao"><b>Che</b> Haichao</a> <a href="../../../date/2014/12">(2014-12)</a><br><a href="../../../ding_wei_che.2014.DoaBBACS/">Development of a BIM-Based Automated Construction System</a></li>
       <li><a href="../../../author/jeon_kwang-hyun"><b>Jeon</b> Kwang-Hyun</a>, <a href="../../../author/park_min-beom"><b>Park</b> Min-Beom</a>, <a href="../../../author/kang_min-kyung"><b>Kang</b> Min-Kyung</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../jeon_park_kang_kim.2013.DoaAFCSaICM/">Development of an Automated Freeform Construction System and Its Construction Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{hwan_khos.2005.AICPCCC,
+      author            = "Dooil Hwang and Behrokh Khoshnevis",
+      title             = "An Innovative Construction Process-Contour Crafting (CC)",
+      doi               = "10.22260/isarc2005/0004",
+      year              = "2005",
+      booktitle         = "Proceedings of the 22nd International Symposium on Automation and Robotics in Construction",
+      editor            = "International Association for Automation and Robotics in Construction",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Hwang  and B. Khoshnevis, “An Innovative Construction Process-Contour Crafting (CC)”, in <i>Proceedings of the 22nd International Symposium on Automation and Robotics in Construction</i>,  2005. doi: 10.22260/isarc2005/0004.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hwang, Dooil, and Behrokh Khoshnevis. “An Innovative Construction Process-Contour Crafting (CC)”. In <i>Proceedings of the 22nd International Symposium on Automation and Robotics in Construction</i>, edited by International Association for Automation and Robotics in Construction, 2005. https://doi.org/10.22260/isarc2005/0004.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

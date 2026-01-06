@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Kamakshi Tippabhotla 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
   <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/chau_bao"><b>Chau</b> Bao</a>, <a href="../../../author/tugelbayev_aidyn"><b>Tugelbayev</b> Aidyn</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kama_chau_tuge_mcco.2025.D3PCUQbPaPRfC/">Developing 3D Printable Concrete Using Quarry by-Products as Partial Replacement for Cement</a></li>
   <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../pari_sing_kama_subr.2024.AoPoCBoPoA/">Assessment of Printability of Concrete Based on Packing of Aggregates</a></li>

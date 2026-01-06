@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Viktor Mechtcherine, Albert Michel, Marco Liebscher, Kai Schneider, Christoph Großmann
+    - footer
+title: Mechtcherine Viktor, Michel Albert, Liebscher Marco, Schneider Kai, Großmann Christoph
 description:
 tags:
  - automation
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction:<br/>:aca-blank: Material and Automation Perspectives ([2019-11](date/2019/11))
-<a href="https://doi.org/10.1016/j.autcon.2019.103002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2019.103002</a>
+#Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction&nbsp;([2019-11](date/2019/11))
+<div class="h1-like">Material and Automation Perspectives</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2019.103002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.103002" target="_blank">10.1016/j.autcon.2019.103002</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <a href="../../../author/michel_albert"><b>Michel</b>&nbsp;Albert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4054-6414" title="ORCID: 0000-0003-4054-6414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liebscher_marco"><b>Liebscher</b>&nbsp;Marco</a></span>, <a href="../../../author/schneider_kai"><b>Schneider</b>&nbsp;Kai</a></span>, <a href="../../../author/grossmann_christoph"><b>Großmann</b>&nbsp;Christoph</a></span><br>
+Journal Article - Automation in Construction, Vol. 110
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>
-,     <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> <a href="https://orcid.org/0000-0003-4054-6414" title="ORCID: 0000-0003-4054-6414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schneider_kai"><b>Schneider</b> Kai</a>
-,     <a href="../../../author/grossmann_christoph"><b>Großmann</b> Christoph</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 110, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#carbon`](keyword/carbon)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#fiber`](keyword/fiber)
-    [`#impregnation`](keyword/impregnation)
-    [`#material`](keyword/material)
-    [`#mineral`](keyword/mineral)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/impregnation"><button class="btn">#impregnation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mineral-Impregnated%20Carbon-Fiber%20Composites%20as%20Novel%20Reinforcement%20for%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85074788070&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,21 +41,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2986327802" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2019.103002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2019.103002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Mineral-impregnated carbon fiber composites (MCF) constitute a new type of reinforcement for construction. While inheriting the advantages of existing carbon fiber reinforcements, which are composite materials made of carbon filaments embedded in a thermoplastic or thermosetting matrix, MCF surpass the limitations of such polymer-impregnated types. More particularly, mineral impregnation considerably improves the performance of the reinforcement at elevated temperatures, enhances its bond to the concrete matrix, and increases technological flexibility, especially with respect to emerging automated production approaches. The article at hand presents the technology for continuous impregnation of carbon yarns with appropriately chosen fine mineral binder suspensions. Several examples for the automated manufacturing of reinforcement systems made of this new composite material are provided: one-dimensional elements such as bars and strips, two-dimensional reinforcements in the form of mats, and three-dimensional cases as examples of reinforcements for a balcony and shell elements. Furthermore, an outlook on introducing the novel reinforcement into highly automated, additive construction technologies is given.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a>, <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>, <a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../shen_sun_lu_zhan.2025.FaAMPoPFR3PCC/">Fresh and Anisotropic-Mechanical Properties of Polyoxymethylene Fibers Reinforced 3D Printable Cementitious Composites</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../caro_duco_demo.2025.RoPS/">Reinforcement of Printed Structures</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../neef_kalt_mull_cruz.2024.MICFRfCEMbE/">Mineral-Impregnated Carbon-Fibers-Reinforcement for Concrete Elements Manufactured by Extrusion</a></li>
@@ -114,4 +90,33 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schmeier_tobias"><b>Schmeier</b> Tobias</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../mech_mich_lieb_schm.2020.EBAMwCRC/">Extrusion-Based Additive Manufacturing with Carbon Reinforced Concrete:<br/>Concept and Feasibility Study</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mech_mich_lieb_schn.2020.MICFCaNRfCC,
+      author            = "Viktor Mechtcherine and Albert Michel and Marco Liebscher and Kai Schneider and Christoph Großmann",
+      title             = "Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction: Material and Automation Perspectives",
+      doi               = "10.1016/j.autcon.2019.103002",
+      year              = "2020",
+      journal           = "Automation in Construction",
+      volume            = "110",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Mechtcherine, A. Michel, M. Liebscher, K. Schneider and C. Großmann, “Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction: Material and Automation Perspectives”, <i>Automation in Construction</i>, vol. 110, 2020, doi: 10.1016/j.autcon.2019.103002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mechtcherine, Viktor, Albert Michel, Marco Liebscher, Kai Schneider, and Christoph Großmann. “Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction: Material and Automation Perspectives”. <i>Automation in Construction</i> 110 (2020). https://doi.org/10.1016/j.autcon.2019.103002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

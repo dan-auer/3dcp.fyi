@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tao Huang, Zhongqi Peng, Mengge Wang, Shuang Feng
+    - footer
+title: Huang Tao, Peng Zhongqi, Wang Mengge, Feng Shuang
 description:
 tags:
  - concrete
@@ -12,28 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/buildings14051216) Study on the Ionic Transport Properties of 3D Printed Concrete ([2024-04](date/2024/04))
-<a href="https://doi.org/10.3390/buildings14051216" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14051216</a>
+#Study on the Ionic Transport Properties of 3D Printed Concrete ([2024-04](date/2024/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings14051216) <a href="https://doi.org/10.3390/buildings14051216" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14051216" target="_blank">10.3390/buildings14051216</a>
 
--------------------------
+<a href="../../../author/huang_tao"><b>Huang</b>&nbsp;Tao</a></span>, <a href="../../../author/peng_zhongqi"><b>Peng</b>&nbsp;Zhongqi</a></span>, <a href="../../../author/wang_mengge"><b>Wang</b>&nbsp;Mengge</a></span>, <a href="../../../author/feng_shuang"><b>Feng</b>&nbsp;Shuang</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 5, No. 1216
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/huang_tao"><b>Huang</b> Tao</a>
-,     <a href="../../../author/peng_zhongqi"><b>Peng</b> Zhongqi</a>
-,     <a href="../../../author/wang_mengge"><b>Wang</b> Mengge</a>
-,     <a href="../../../author/feng_shuang"><b>Feng</b> Shuang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 5, No. 1216
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#transport`](keyword/transport)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Ionic%20Transport%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194467252&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4395453606" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14051216" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14051216?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printed concrete (3DPC) is an anisotropic heterogeneous material composed of a concrete matrix and the interfaces between layers and filaments that form during printing. The overall ion transport properties can be characterized by the equivalent diffusion coefficient. This paper first establishes a theoretical model to calculate the equivalent diffusion coefficient of 3DPC. Verification through numerical calculations shows that this theoretical model is highly precise. Based on this, the model was used to analyze the effects of dimensionless interface parameters on the equivalent diffusion coefficients in different directions of 3DPC. Finally, the dynamic ionic transport properties of 3DPC were investigated through finite element numerical simulation. The results of the dynamic study indicate that interfaces have a significant impact on the ion distribution and its evolution within 3DPC. The product of the interface diffusion coefficient and interface size can represent the ionic transport capacity of an interface. The stronger the ionic transport capacity of an interface, the higher the ion concentration at that interface. Due to the “drainage” effect of lateral interfaces, the ion concentration in the middle of 3DPC with a smaller equivalent diffusion coefficient is higher than that in 3DPC with a larger equivalent diffusion coefficient.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
@@ -83,7 +65,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{huan_peng_wang_feng.2024.SotITPo3PC,
+      author            = "Tao Huang and Zhongqi Peng and Mengge Wang and Shuang Feng",
+      title             = "Study on the Ionic Transport Properties of 3D Printed Concrete",
+      doi               = "10.3390/buildings14051216",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "5",
+      pages             = "1216",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Huang, Z. Peng, M. Wang and S. Feng, “Study on the Ionic Transport Properties of 3D Printed Concrete”, <i>Buildings</i>, vol. 14, no. 5, p. 1216, 2024, doi: 10.3390/buildings14051216.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Huang, Tao, Zhongqi Peng, Mengge Wang, and Shuang Feng. “Study on the Ionic Transport Properties of 3D Printed Concrete”. <i>Buildings</i> 14, no. 5 (2024): 1216. https://doi.org/10.3390/buildings14051216.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

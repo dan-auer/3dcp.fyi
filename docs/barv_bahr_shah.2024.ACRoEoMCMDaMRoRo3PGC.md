@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Prasad Barve, Alireza Bahrami, Santosh Shah
+    - footer
+title: Barve Prasad, Bahrami Alireza, Shah Santosh
 description:
 tags:
  - composite
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://openconstructionbuildingtechnologyjournal.com/VOLUME/18/ELOCATOR/e18748368292859/PDF/) A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete ([2024-07](date/2024/07))
-<a href="https://doi.org/10.2174/0118748368292859240313061706" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2174/0118748368292859240313061706</a>
+#A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://openconstructionbuildingtechnologyjournal.com/VOLUME/18/ELOCATOR/e18748368292859/PDF/) <a href="https://doi.org/10.2174/0118748368292859240313061706" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2174/0118748368292859240313061706" target="_blank">10.2174/0118748368292859240313061706</a>
 
--------------------------
+<a href="../../../author/barve_prasad"><b>Barve</b>&nbsp;Prasad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9431-7820" title="ORCID: 0000-0002-9431-7820" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bahrami_alireza"><b>Bahrami</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1465-1931" title="ORCID: 0000-0003-1465-1931" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shah_santosh"><b>Shah</b>&nbsp;Santosh</a></span><br>
+Journal Article - The Open Construction & Building Technology Journal, Vol. 18, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/barve_prasad"><b>Barve</b> Prasad</a>
-,     <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a> <a href="https://orcid.org/0000-0002-9431-7820" title="ORCID: 0000-0002-9431-7820" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shah_santosh"><b>Shah</b> Santosh</a> <a href="https://orcid.org/0000-0003-1465-1931" title="ORCID: 0000-0003-1465-1931" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The Open Construction & Building Technology Journal, Vol. 18, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#composite`](keyword/composite)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#effect`](keyword/effect)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#material`](keyword/material)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Review%20on%20Effects%20of%20Material-Composition%2C%20Mix-Design%2C%20and%20Mixing-Regimes%20on%20Rheology%20of%203D%20Printed%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199036570&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400421748" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2174/0118748368292859240313061706" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2174/0118748368292859240313061706?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent years have witnessed a significant growth in the research and development of additive manufacturing methods involving concrete and cementitious materials, with technologies like three-dimensional (3D) printing becoming more widely used in the construction industry. Construction has the possibility to be revolutionized, not only in the context of cost savings but also in the context of increased sustainability and functionality. 3D printing of concrete is a cutting-edge technology that has the potential to speed up construction, reduce labor costs, give architects more creative freedom, improve precision, obviate requirements for formwork, and result in less construction wastes. In addition, 3D printing can be a long-term solution for both economy and environment. Even though 3D printing in concrete has made tremendous strides recently, developing an effective 3D-printable material that decreases material usage and enhances performance is critical for carbon dioxide reduction. Robust geopolymer formulations for 3D printing concrete technology in current construction applications have emerged as the subject of much research among scientists to find novel ways to circumvent this constraint. This study intends to highlight the current state of the art in developing 3D-Printed Geopolymer Concrete (3DPGC) with a comprehensive review related to the material composition, mix design, and mixing regimes on rheology of 3DPGC. The rheology of 3DPGC in terms of printability and buildability is discussed. The mixing regimes employed for the preparation of one-part and two-part 3DPGC are tabulated and commented on. Lastly, the research gaps are identified and summarized, and several research directions are also provided for future investigations to expedite the ubiquitous use of 3DPGC in versatile construction applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "107 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
@@ -180,10 +156,41 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a>, <a href="../../../author/john_john"><b>John</b> John</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../irsh_amja_kuma_john.2025.EtMDi3CPTSOP/">Enhancing the Mix Design in 3D Concrete Printing Through Systematic Optimization Process</a></li>
       <li><a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bech_gade_korn.2025.3PwGaIA/">3D Printing with Geopolymers and Its Applications</a></li>
       <li><a href="../../../author/cho_eunsan"><b>Cho</b> Eunsan</a>, <a href="../../../author/gwon_seongwoo"><b>Gwon</b> Seongwoo</a>, <a href="../../../author/cha_soowon"><b>Cha</b> Soowon</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cho_gwon_cha_shin.2025.IoAoRPoCCwCM/">Impact of Accelerator on Rheological Properties of Cement Composites with Cellulose Microfibers:<br/>3D Printing Perspective</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC,
+      author            = "Prasad Barve and Alireza Bahrami and Santosh Shah",
+      title             = "A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete",
+      doi               = "10.2174/0118748368292859240313061706",
+      year              = "2024",
+      journal           = "The Open Construction & Building Technology Journal",
+      volume            = "18",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Barve, A. Bahrami and S. Shah, “A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete”, <i>The Open Construction & Building Technology Journal</i>, vol. 18, no. 1, 2024, doi: 10.2174/0118748368292859240313061706.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Barve, Prasad, Alireza Bahrami, and Santosh Shah. “A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete”. <i>The Open Construction & Building Technology Journal</i> 18, no. 1 (2024). https://doi.org/10.2174/0118748368292859240313061706.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

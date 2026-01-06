@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guido Silva, L. Quispe, Suyeon Kim, Javier Nakamatsu, Rafael Aguilar
+    - footer
+title: Silva Guido, Quispe L., Kim Suyeon, Nakamatsu Javier, Aguilar Rafael
 description:
 tags:
  - application
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://iopscience.iop.org/article/10.1088/1757-899X/706/1/012015/pdf) Development of a Stabilized Natural Fiber-Reinforced Earth Composite for Construction Applications Using 3D Printing ([2019-11](date/2019/11))
-<a href="https://doi.org/10.1088/1757-899x/706/1/012015" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1757-899x/706/1/012015</a>
+#Development of a Stabilized Natural Fiber-Reinforced Earth Composite for Construction Applications Using 3D Printing ([2019-11](date/2019/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1757-899X/706/1/012015/pdf) <a href="https://doi.org/10.1088/1757-899x/706/1/012015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/706/1/012015" target="_blank">10.1088/1757-899x/706/1/012015</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_guido"><b>Silva</b>&nbsp;Guido</a></span>, <a href="../../../author/quispe_l"><b>Quispe</b>&nbsp;L.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1621-1489" title="ORCID: 0000-0003-1621-1489" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_suyeon"><b>Kim</b>&nbsp;Suyeon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7721-7716" title="ORCID: 0000-0001-7721-7716" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b>&nbsp;Javier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8175-8950" title="ORCID: 0000-0002-8175-8950" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aguilar_rafael"><b>Aguilar</b>&nbsp;Rafael</a></span><br>
+Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 706, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> <a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quispe_l"><b>Quispe</b> L.</a>
-,     <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> <a href="https://orcid.org/0000-0003-1621-1489" title="ORCID: 0000-0003-1621-1489" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> <a href="https://orcid.org/0000-0001-7721-7716" title="ORCID: 0000-0001-7721-7716" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> <a href="https://orcid.org/0000-0002-8175-8950" title="ORCID: 0000-0002-8175-8950" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 706, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#composite`](keyword/composite)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#earth`](keyword/earth)
-    [`#fiber`](keyword/fiber)
-    [`#natural`](keyword/natural)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#stability`](keyword/stability)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Stabilized%20Natural%20Fiber-Reinforced%20Earth%20Composite%20for%20Construction%20Applications%20Using%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078246459&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2991553550" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1757-899x/706/1/012015" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1757-899x/706/1/012015?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The application of additive manufacturing technologies to the construction industry has a wide range of advantages from the economic, social and design flexibility point of view. However, most of up to date research studies have been performed using ordinary Portland cement (OPC)-based mortars and concretes. Therefore, the objective of this article is to explore the development of an eco-friendly earth composite reinforced with natural sisal fibers and chemically stabilized with a hydraulic binder. Analysis of the workability by shear vane tests was performed on fresh earth samples to find the optimum water content in sisal fiberreinforced earth stabilized with OPC. Afterward, the effect of the addition of OPC on the hardening process was evaluated through shear vane and Vicat needle tests from 0 to 180 min after mixing. The results indicate that water content, fiber addition and OPC replacement have a strong influence on the shear yield strength. Furthermore, the presence of chemical stabilizers as OPC accelerates the hardening process allowing a faster layer-by-layer deposition. This low cost and eco-friendly preliminary earth-based composite can be used for 3D printing applications in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -85,8 +60,8 @@ tags:
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a>, <a href="../../../author/barna_a_lynette"><b>Barna</b> Lynette</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../rush_styn_barn_chaa.2019.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a>, <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mato_milh_varu.2025.NTfEC/">New Technologies for Earth Construction:<br/>3D Printing, a Reality or a Mirage?</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
       <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/emiroglu_mehmet"><b>Emiroğlu</b> Mehmet</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mato_emir_milh.2025.PSSMPf3P/">Predicting Stabilized Soil Mixture Proportions for 3D Printing:<br/>Preliminary Study Using the Design of Experiments Approach</a></li>
@@ -98,4 +73,34 @@ tags:
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a></li>
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{silv_quis_kim_naka.2019.DoaSNFRECfCAU3P,
+      author            = "Guido Silva and L. Quispe and Suyeon Kim and Javier Nakamatsu and Rafael Aguilar",
+      title             = "Development of a Stabilized Natural Fiber-Reinforced Earth Composite for Construction Applications Using 3D Printing",
+      doi               = "10.1088/1757-899x/706/1/012015",
+      year              = "2019",
+      journal           = "IOP Conference Series: Materials Science and Engineering",
+      volume            = "706",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Silva, L. Quispe, S. Kim, J. Nakamatsu and R. Aguilar, “Development of a Stabilized Natural Fiber-Reinforced Earth Composite for Construction Applications Using 3D Printing”, <i>IOP Conference Series: Materials Science and Engineering</i>, vol. 706, no. 1, 2019, doi: 10.1088/1757-899x/706/1/012015.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Silva, Guido, L. Quispe, Suyeon Kim, Javier Nakamatsu, and Rafael Aguilar. “Development of a Stabilized Natural Fiber-Reinforced Earth Composite for Construction Applications Using 3D Printing”. <i>IOP Conference Series: Materials Science and Engineering</i> 706, no. 1 (2019). https://doi.org/10.1088/1757-899x/706/1/012015.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

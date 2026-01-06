@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yini Lin, Jiachuan Yan, Ming Sun, Boyang Tang, Xiaoyu Han
+    - footer
+title: Lin Yini, Yan Jiachuan, Sun Ming, Tang Boyang, Han Xiaoyu
 description:
 tags:
  - concrete
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Waste Glass Powder on Printability, Hydration and Microstructure of 3D Printing Concrete ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.jobe.2025.113882" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113882</a>
+#Effects of Waste Glass Powder on Printability, Hydration and Microstructure of 3D Printing Concrete ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113882" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113882" target="_blank">10.1016/j.jobe.2025.113882</a>
 
--------------------------
+<a href="../../../author/lin_yini"><b>Lin</b>&nbsp;Yini</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_jiachuan"><b>Yan</b>&nbsp;Jiachuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3401-1395" title="ORCID: 0000-0002-3401-1395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_ming"><b>Sun</b>&nbsp;Ming</a></span>, <a href="../../../author/tang_boyang"><b>Tang</b>&nbsp;Boyang</a></span>, <a href="../../../author/han_xiaoyu"><b>Han</b>&nbsp;Xiaoyu</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113882
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lin_yini"><b>Lin</b> Yini</a>
-,     <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a> <a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_ming"><b>Sun</b> Ming</a> <a href="https://orcid.org/0000-0002-3401-1395" title="ORCID: 0000-0002-3401-1395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a>
-,     <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113882
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#glass`](keyword/glass)
-    [`#hydration`](keyword/hydration)
-    [`#micro`](keyword/micro)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Waste%20Glass%20Powder%20on%20Printability%2C%20Hydration%20and%20Microstructure%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014455150&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413475786" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113882" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113882?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete (3DPC) technology plays an increasingly important role in intelligent construction, requiring improved performance and reduced environmental impact. In this study, waste glass powder (WGP) was used as a sustainable supplementary cementitious material (SCM) to partially replace ordinary Portland cement (OPC) or silica fume (SF) in 3DPC. The effects of WGP on printability, mechanical properties, hydration behavior, and pore structure were evaluated. Results showed that replacing OPC with WGP initially enhanced extrudability due to reduced friction, but excessive replacement led to reduced buildability caused by the angular shape of WGP particles. While early-age hydration was delayed, later hydration was accelerated by the filler and nucleation effects. The optimal replacement level of 10–15% WGP improved 28-day compressive strength through pozzolanic reactions. In contrast, replacing SF with WGP had limited impact on mechanical and microstructural performance. These findings provide insights into the effective use of WGP in 3DPC for enhanced performance and sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/hertel_tobias"><b>Hertel</b> Tobias</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../beer_hert_luca_pont.2023.PtUoFRSiC/">Promoting the Use of Fe-Rich Slag in Construction:<br/>Development of a Hybrid Binder for 3D Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -84,7 +60,36 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_luo_anan_sing.2024.SUoURGiAMRPC/">Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lin_yan_sun_tang.2025.EoWGPoPHaMo3PC,
+      author            = "Yini Lin and Jiachuan Yan and Ming Sun and Boyang Tang and Xiaoyu Han",
+      title             = "Effects of Waste Glass Powder on Printability, Hydration and Microstructure of 3D Printing Concrete",
+      doi               = "10.1016/j.jobe.2025.113882",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113882",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Lin, J. Yan, M. Sun, B. Tang and X. Han, “Effects of Waste Glass Powder on Printability, Hydration and Microstructure of 3D Printing Concrete”, <i>Journal of Building Engineering</i>, p. 113882, 2025, doi: 10.1016/j.jobe.2025.113882.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lin, Yini, Jiachuan Yan, Ming Sun, Boyang Tang, and Xiaoyu Han. “Effects of Waste Glass Powder on Printability, Hydration and Microstructure of 3D Printing Concrete”. <i>Journal of Building Engineering</i>, 2025, 113882. https://doi.org/10.1016/j.jobe.2025.113882.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

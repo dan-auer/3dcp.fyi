@@ -8,7 +8,7 @@ search:
 
 # #implementation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/kujath_cezary"><b>Kujath</b> Cezary</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../robe_kuja_bos_mech.2025.DaIoaDSfQSaAED/">Design and Implementation of a Database System for Querying, Sharing, and Analyzing Experimental Data:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/najm_omar"><b>Najm</b> Omar</a>, <a href="../../../author/alhassan_mohammad"><b>Alhassan</b> Mohammad</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../najm_alha.2025.IoBiAAMIf3PS/">Implementation of Brucite in Alkali-Activated Materials Intended for 3D Printed Structures:<br/>A Fractional Factorial Design Approach</a></li>
   <li><a href="../../../author/oseji_samuel"><b>Oseji</b> Samuel</a>, <a href="../../../author/chukwuemeka_prince"><b>Chukwuemeka</b> Prince</a>, <a href="../../../author/imoni_okes"><b>Imoni</b> Okes</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../osej_chuk_imon.2025.AIi3PC/">Artificial Intelligence in 3D Printed Concrete:<br/>Sustainability Assessment and Implementation Challenges</a></li>

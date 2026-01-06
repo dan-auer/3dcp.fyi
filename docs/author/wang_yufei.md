@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,9 @@ search:
 
 #  Wang Yufei 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
+  <li><a href="../../../author/zhang_genbao"><b>Zhang</b> Genbao</a>, <a href="../../../author/chen_lingke"><b>Chen</b> Lingke</a>, <a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/morsy_m_amr"><b>Morsy</b> Amr</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhan_chen_liu_mors.2025.EtSPoUSSWMR3PC/">Enhancing the Shear Properties of U-Shaped Steel Wire Mesh Reinforced 3D Printed Composites</a></li>
   <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_sun_wang_huan.2025.EaEEoaP3PSUURAfCaDW/">Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste:<br/>A Case Study in China</a></li>
   <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhao_wang_sun_wu.2025.AASfMDi3PC/">Automated Analysis System for Micro-Defects in 3D Printed Concrete</a></li>
   <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhao_wang_chen_liu.2025.MIo3PCUMTN/">Microcrack Investigations of 3D Printing Concrete Using Multiple Transformer Networks</a></li>

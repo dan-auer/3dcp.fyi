@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amir Ramezani, Shahriar Modaresi, Pooria Dashti, Mohammad Givkashi, Faramarz Moodi, Ali Ramezanianpour
+    - footer
+title: Ramezani Amir, Modaresi Shahriar, Dashti Pooria, Givkashi Mohammad, Moodi Faramarz, Ramezanianpour Ali
 description:
 tags:
  - base
@@ -21,39 +22,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/4/945/pdf?version=1680771617) Effects of Different Types of Fibers on Fresh and Hardened Properties of Cement and Geopolymer-Based 3D Printed Mixtures:<br/>:aca-blank: A Review ([2023-04](date/2023/04))
-<a href="https://doi.org/10.3390/buildings13040945" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13040945</a>
+#Effects of Different Types of Fibers on Fresh and Hardened Properties of Cement and Geopolymer-Based 3D Printed Mixtures&nbsp;([2023-04](date/2023/04))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/4/945/pdf?version=1680771617) <a href="https://doi.org/10.3390/buildings13040945" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13040945" target="_blank">10.3390/buildings13040945</a>
 
--------------------------
+<a href="../../../author/ramezani_amir"><b>Ramezani</b>&nbsp;Amir</a></span>, <a href="../../../author/modaresi_shahriar"><b>Modaresi</b>&nbsp;Shahriar</a></span>, <a href="../../../author/dashti_pooria"><b>Dashti</b>&nbsp;Pooria</a></span>, <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3397-443X" title="ORCID: 0000-0002-3397-443X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moodi_faramarz"><b>Moodi</b>&nbsp;Faramarz</a></span>, <a href="../../../author/ramezanianpour_akbar_ali"><b>Ramezanianpour</b>&nbsp;Ali</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ramezani_amir"><b>Ramezani</b> Amir</a>
-,     <a href="../../../author/modaresi_shahriar"><b>Modaresi</b> Shahriar</a>
-,     <a href="../../../author/dashti_pooria"><b>Dashti</b> Pooria</a>
-,     <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>
-,     <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a> <a href="https://orcid.org/0000-0002-3397-443X" title="ORCID: 0000-0002-3397-443X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramezanianpour_akbar_ali"><b>Ramezanianpour</b> Ali</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#difference`](keyword/difference)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#hardened`](keyword/hardened)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Different%20Types%20of%20Fibers%20on%20Fresh%20and%20Hardened%20Properties%20of%20Cement%20and%20Geopolymer-Based%203D%20Printed%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153731441&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4362588041" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13040945" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13040945?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printed concrete (3DPC) is emerging as a new building material. Due to automation, this method dramatically decreases construction time and material wastage while increasing construction quality. Despite the mentioned benefits, this technology faces various issues. Among these issues, the inability to use steel bars for reinforcement and early age cracking because of the low water-to-binder ratio and high amount of binders can be mentioned. In this regard, due to the superior properties of fiber-reinforced concrete (FRC), such as high first crack strength, tensile strength, improvement ductility, and resistance to shrinkage cracking, one of the effective ways to reinforce the mixture of the 3DPC is to use fibers instead of steel bars. Regarding the mentioned issues, the effects of different fibers, such as steel, carbon fibers and so on, on fresh and mechanical properties and dimensional stabilities of hardened concrete have been reviewed. It is predicted that using fibers, especially hybrid fibers, not only covers the deficiencies of initial cracking of 3DPC, but also can be used instead of steel bars; therefore, this material can play a pivotal role in the construction industry’s future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "57 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -137,8 +109,8 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
@@ -161,4 +133,34 @@ tags:
       <li><a href="../../../author/buson_marcio"><b>Buson</b> Márcio</a>, <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a>, <a href="../../../author/rezende_antonio_marco"><b>Rezende</b> Marco</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../buso_varu_reze.2024.FIoTDPwEBMatFoEotUoP/">First Impressions on Three-Dimensional Printing with Earth-Based Mortar at the Faculty of Engineering of the University of Porto</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/javed_faisal_muhammad"><b>Javed</b> Muhammad</a>, <a href="../../../author/ali_mujahid"><b>Ali</b> Mujahid</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../alya_khan_jave_ali.2024.AoMOAiPtCSo3PFRC/">Application of Metaheuristic Optimization Algorithms in Predicting the Compressive Strength of 3D Printed Fiber-Reinforced Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rame_moda_dash_givk.2023.EoDToFoFaHPoCaGB3PM,
+      author            = "Amir Ramezani and Shahriar Modaresi and Pooria Dashti and Mohammad Rasul Givkashi and Faramarz Moodi and Ali Akbar Ramezanianpour",
+      title             = "Effects of Different Types of Fibers on Fresh and Hardened Properties of Cement and Geopolymer-Based 3D Printed Mixtures: A Review",
+      doi               = "10.3390/buildings13040945",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Ramezani, S. Modaresi, P. Dashti, M. R. Givkashi, F. Moodi and A. A. Ramezanianpour, “Effects of Different Types of Fibers on Fresh and Hardened Properties of Cement and Geopolymer-Based 3D Printed Mixtures: A Review”, <i>Buildings</i>, vol. 13, no. 4, 2023, doi: 10.3390/buildings13040945.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ramezani, Amir, Shahriar Modaresi, Pooria Dashti, Mohammad Rasul Givkashi, Faramarz Moodi, and Ali Akbar Ramezanianpour. “Effects of Different Types of Fibers on Fresh and Hardened Properties of Cement and Geopolymer-Based 3D Printed Mixtures: A Review”. <i>Buildings</i> 13, no. 4 (2023). https://doi.org/10.3390/buildings13040945.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

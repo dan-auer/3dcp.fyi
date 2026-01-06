@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zhang Ruo-Chen 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/li_jiaxing"><b>Li</b> Jiaxing</a>, <a href="../../../author/liu_yiran"><b>Liu</b> Yiran</a>, <a href="../../../author/huang_yimiao"><b>Huang</b> Yimiao</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zhan_li_liu_huan.2025.SHAfMDi3PC/">Self-Healing Approach for Micro-Defects in 3D Printed Concrete:<br/>Microbial Community</a></li>
   <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
 </ol>

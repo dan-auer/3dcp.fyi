@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongxiang Gou, Massoud Sofi, Zipeng Zhang, Mintao Zhu, Hongbo Zhu, Priyan Mendis
+    - footer
+title: Gou Hongxiang, Sofi Massoud, Zhang Zipeng, Zhu Mintao, Zhu Hongbo, Mendis Priyan
 description:
 tags:
  - analysis
@@ -20,38 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Combined Printable and Mechanical Analysis of 3D Printed Green High-Strength, Lightweight Engineered Cementitious Composites ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105506" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105506</a>
+#Combined Printable and Mechanical Analysis of 3D Printed Green High-Strength, Lightweight Engineered Cementitious Composites ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105506" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105506" target="_blank">10.1016/j.cemconcomp.2024.105506</a>
 
--------------------------
+<a href="../../../author/gou_hongxiang"><b>Gou</b>&nbsp;Hongxiang</a></span>, <a href="../../../author/sofi_massoud"><b>Sofi</b>&nbsp;Massoud</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0118-3585" title="ORCID: 0000-0003-0118-3585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_zipeng"><b>Zhang</b>&nbsp;Zipeng</a></span>, <a href="../../../author/zhu_mintao"><b>Zhu</b>&nbsp;Mintao</a></span>, <a href="../../../author/zhu_hongbo"><b>Zhu</b>&nbsp;Hongbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4068-8201" title="ORCID: 0000-0003-4068-8201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendis_priyan"><b>Mendis</b>&nbsp;Priyan</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105506
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gou_hongxiang"><b>Gou</b> Hongxiang</a>
-,     <a href="../../../author/sofi_massoud"><b>Sofi</b> Massoud</a>
-,     <a href="../../../author/zhang_zipeng"><b>Zhang</b> Zipeng</a> <a href="https://orcid.org/0000-0003-0118-3585" title="ORCID: 0000-0003-0118-3585" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_mintao"><b>Zhu</b> Mintao</a>
-,     <a href="../../../author/zhu_hongbo"><b>Zhu</b> Hongbo</a>
-,     <a href="../../../author/mendis_priyan"><b>Mendis</b> Priyan</a> <a href="https://orcid.org/0000-0003-4068-8201" title="ORCID: 0000-0003-4068-8201" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105506
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#cement`](keyword/cement)
-    [`#combination`](keyword/combination)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#green`](keyword/green)
-    [`#height`](keyword/height)
-    [`#light`](keyword/light)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Combined%20Printable%20and%20Mechanical%20Analysis%20of%203D%20Printed%20Green%20High-Strength%2C%20Lightweight%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187962932&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392559571" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105506" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105506?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study used a novel eco-friendly lightweight sand fine (LSF) to prepare green lightweight and high-strength ECC (GLH-ECC) for 3D printing. Orthogonal design, analysis of variance, and analytic hierarchy process were first employed to explore the influence of water-to-binder ratio (WBR), LSF replacement rate (LRR), and fiber volume content (FVC) on the printability of ECC fresh mortar. The influence degree of three factors on the fluidity, consistency, and setting time of fresh ECC was FVC >WBR >LRR, LRR> FVC > WBR, and WBR> LRR >FVC, respectively. Besides, the scopes of fluidity, consistency, and setting time for ensuring the favorable printability of fresh GLH-ECC were 172–183 mm, 7.4–8.0 cm, and 5.3–5.9 h, respectively. A novel mechanistic parametric model was developed to establish a direct correlation between the fluidity, consistency, setting time, and buildability of GLH-ECC. Additionally, higher effective fiber content along the direction of printing and incorporated LSF in printable GLH-ECC provided more appropriate interfacial bonding between the fiber and matrix and resultant better fiber bridging ability, in contrast to the casting ECC. Moreover, the fiber orientation in the printable GLH-ECC tended to be arranged along the direction of printing, and the well-organized fiber orientation and more matrix pores in the interlayer interface of printable GLH-ECC led to the notable anisotropy of mechanical properties. This study inspires applications of 3D-printed GLH-ECC in digital construction without reinforcement in terms of excellent printability, impressive mechanical properties, light weight, and effective waste utilization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
@@ -121,8 +93,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a>, <a href="../../../author/zhou_lu"><b>Zhou</b> Lu</a>, <a href="../../../author/jia_xiangxi"><b>Jia</b> Xiangxi</a>, <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../chen_zhou_jia_liu.2025.ESoCDaFPo3PGECC/">Experimental Study on Crack Development and Fracture Performance of 3D Printed Green Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/ali_faizan_muhammad"><b>Ali</b> Muhammad</a>, <a href="../../../author/qian_hui"><b>Qian</b> Hui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a>, <a href="../../../author/fenglin_liu"><b>Fenglin</b> Liu</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ali_qian_umar_feng.2025.RMaSRPo3PERwSMAF/">Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers</a></li>
@@ -135,4 +107,33 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a>, <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhu_zhan_ye_wei.2025.LVIPoB3PECCB/">Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams</a></li>
       <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/yu_kanghao"><b>Yu</b> Kanghao</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_yu_zhan_wang.2025.CaMtBSBoSBi3PECC/">Characterizing and Modelling the Bond-Slip-Behavior of Steel-Bars in 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gou_sofi_zhan_zhu.2024.CPaMAo3PGHSLECC,
+      author            = "Hongxiang Gou and Massoud Sofi and Zipeng Zhang and Mintao Zhu and Hongbo Zhu and Priyan Mendis",
+      title             = "Combined Printable and Mechanical Analysis of 3D Printed Green High-Strength, Lightweight Engineered Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2024.105506",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105506",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Gou, M. Sofi, Z. Zhang, M. Zhu, H. Zhu and P. Mendis, “Combined Printable and Mechanical Analysis of 3D Printed Green High-Strength, Lightweight Engineered Cementitious Composites”, <i>Cement and Concrete Composites</i>, p. 105506, 2024, doi: 10.1016/j.cemconcomp.2024.105506.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gou, Hongxiang, Massoud Sofi, Zipeng Zhang, Mintao Zhu, Hongbo Zhu, and Priyan Mendis. “Combined Printable and Mechanical Analysis of 3D Printed Green High-Strength, Lightweight Engineered Cementitious Composites”. <i>Cement and Concrete Composites</i>, 2024, 105506. https://doi.org/10.1016/j.cemconcomp.2024.105506.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

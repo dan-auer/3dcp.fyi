@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Spandana Paritala, Tippabhotla Kamakshi, Kolluru Subramaniam
+    - footer
+title: Paritala Spandana, Kamakshi Tippabhotla, Subramaniam Kolluru
 description:
 tags:
  - behavior
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.21012/fc11.092339) Influence of Inter-Layer Interfaces on Fracture Behavior of 3D Printed Concrete ([2023-09](date/2023/09))
-<a href="https://doi.org/10.21012/fc11.092339" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21012/fc11.092339</a>
+#Influence of Inter-Layer Interfaces on Fracture Behavior of 3D Printed Concrete ([2023-09](date/2023/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc11.092339) <a href="https://doi.org/10.21012/fc11.092339" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc11.092339" target="_blank">10.21012/fc11.092339</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paritala_spandana"><b>Paritala</b>&nbsp;Spandana</a></span>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b>&nbsp;Tippabhotla</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span><br>
+Contribution - Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a> <a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>
-,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#fracture`](keyword/fracture)
-    [`#influence`](keyword/influence)
-    [`#inter`](keyword/inter)
-    [`#interface`](keyword/interface)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Inter-Layer%20Interfaces%20on%20Fracture%20Behavior%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390652084" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21012/fc11.092339" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21012/fc11.092339?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based layer deposition is the most popular form of 3D Concrete Printing (3DCP). A 3D printed assembly is a composite made up of multiple layers. The stress response of the printed assembly is influenced by the directionality of the material deposit and the stress transfer between the layers. The bond between the layers determines the level of stress transfer and the composite action achieved in printed assemblies. The inter-layer bonding is an important parameter, which effects the homogeneity of the element and thus its mechanical behavior. The bond between the layers depends upon several factors including the fluidity of the mixture and the time between layers. Weak interfaces develop between two adjacent layers of concrete depending on the fluidity of the mix and the time gap between placement. The study involves the understanding of interface between the layers on the fracture behavior of the printed beams. Crack propagation in the layered beam is evaluated using digital image correlation. The influence of changes in the interface created by different wait times on the crack planes across the printed interfaces are studied. The reduction in the bond between layers with waiting time is related to fracture behavior of the printed beam.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -90,7 +69,36 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{pari_kama_subr.2023.IoILIoFBo3PC,
+      author            = "Spandana Paritala and Tippabhotla A. Kamakshi and Kolluru V. L. Subramaniam",
+      title             = "Influence of Inter-Layer Interfaces on Fracture Behavior of 3D Printed Concrete",
+      doi               = "10.21012/fc11.092339",
+      year              = "2023",
+      booktitle         = "Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures",
+      editor            = "International Association of Fracture Mechanics for Concrete and Concrete Structures",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Paritala, T. A. Kamakshi and K. V. L. Subramaniam, “Influence of Inter-Layer Interfaces on Fracture Behavior of 3D Printed Concrete”, in <i>Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures</i>,  2023. doi: 10.21012/fc11.092339.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Paritala, Spandana, Tippabhotla A. Kamakshi, and Kolluru V. L. Subramaniam. “Influence of Inter-Layer Interfaces on Fracture Behavior of 3D Printed Concrete”. In <i>Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures</i>, edited by International Association of Fracture Mechanics for Concrete and Concrete Structures, 2023. https://doi.org/10.21012/fc11.092339.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

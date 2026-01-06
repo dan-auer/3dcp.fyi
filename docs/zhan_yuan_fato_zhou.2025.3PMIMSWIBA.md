@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jiao-Long Zhang, Yong Yuan, Imoleayo Fatoyinbo, Lujie Zhou, Qing Liu
+    - footer
+title: Zhang Jiao-Long, Yuan Yong, Fatoyinbo Imoleayo, Zhou Lujie, Liu Qing
 description:
 tags:
  - ash
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } 3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>:aca-blank: Linking Hydration to Extrudability and Mechanical Performance ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.clema.2025.100358" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.clema.2025.100358</a>
+#3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Linking Hydration to Extrudability and Mechanical Performance</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.clema.2025.100358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clema.2025.100358" target="_blank">10.1016/j.clema.2025.100358</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1912-1414" title="ORCID: 0000-0002-1912-1414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_jiao-long"><b>Zhang</b>&nbsp;Jiao-Long</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2342-9163" title="ORCID: 0000-0002-2342-9163" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b>&nbsp;Imoleayo</a></span>, <a href="../../../author/zhou_lujie"><b>Zhou</b>&nbsp;Lujie</a></span>, <a href="../../../author/liu_qing"><b>Liu</b>&nbsp;Qing</a></span><br>
+Journal Article - Cleaner Materials, No. 100358
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a> <a href="https://orcid.org/0000-0002-1912-1414" title="ORCID: 0000-0002-1912-1414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a> <a href="https://orcid.org/0000-0002-2342-9163" title="ORCID: 0000-0002-2342-9163" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a>
-,     <a href="../../../author/liu_qing"><b>Liu</b> Qing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cleaner Materials, No. 100358
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#extrusion`](keyword/extrusion)
-    [`#hydration`](keyword/hydration)
-    [`#incorporation`](keyword/incorporation)
-    [`#link`](keyword/link)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#solid`](keyword/solid)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/link"><button class="btn">#link</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D-Printable%20Mortars%20Incorporating%20Municipal%20Solid%20Waste%20Incineration%20Bottom%20Ash" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023127842&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106177313" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.clema.2025.100358" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.clema.2025.100358?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Municipal solid waste incineration (MSWI) bottom ash, when added as a mineral additive in concrete printing, promotes sustainable construction. In this study, the impact of using this ash on the rheological behavior, mechanical strength, and hydration in printable mortar was examined. MSWI bottom ash replaces cement in corresponding specimens labelled M−10, M−20, and M−30. The hydration behavior was analyzed using isothermal calorimetry, X-ray diffraction, thermogravimetry, and Fourier transform infrared spectroscopy. Rheological properties were assessed using a rheometer, penetration tests, and flow table tests. Additionally, the mechanical response of MSWI bottom ash-based printed mortar under compressive and flexural loading was evaluated. The results showed a reduction in calcium hydroxide content and formation of additional calcium silicate hydrate phases, enhancing hydration. Structuration rates were 11, 8.8, 12.3, and 7.5 kPa/min for M−0, M−10, M−20, and M−30, with M−20 achieving a 4 % increase over the reference mix. This increment is nontrivial because it results in an absolute increase of 8 layers and a 57 % relative improvement in buildability. The initial yield stress of M−20 was 0.55 kPa, classified as moderately stiff for extrusion and layer support. At 28 days, the anisotropy coefficient for flexural strength decreased from 0.159 in M−0 to 0.110 in M−20. The findings demonstrate that incorporating 20 % MSWI bottom ash enhances rheological performance and reduces the anisotropy coefficient. These improvements are due to the physical filler effect of fine ash particles and the pozzolanic reaction, which contribute to particle cohesion and the formation of C–S–H. Therefore, 20 % MSWI bottom ash is the optimal replacement level for 3D printable mortar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../baya_kash.2023.AoRPaPoa3PMCSFHLaBFS/">Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag</a></li>
@@ -109,7 +84,36 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_yuan_fato_zhou.2025.3PMIMSWIBA,
+      author            = "Jiao-Long Zhang and Yong Yuan and Imoleayo Oluwatoyin Fatoyinbo and Lujie Zhou and Qing Liu",
+      title             = "3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash: Linking Hydration to Extrudability and Mechanical Performance",
+      doi               = "10.1016/j.clema.2025.100358",
+      year              = "2025",
+      journal           = "Cleaner Materials",
+      pages             = "100358",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-L. Zhang, Y. Yuan, I. O. Fatoyinbo, L. Zhou and Q. Liu, “3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash: Linking Hydration to Extrudability and Mechanical Performance”, <i>Cleaner Materials</i>, p. 100358, 2025, doi: 10.1016/j.clema.2025.100358.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Jiao-Long, Yong Yuan, Imoleayo Oluwatoyin Fatoyinbo, Lujie Zhou, and Qing Liu. “3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash: Linking Hydration to Extrudability and Mechanical Performance”. <i>Cleaner Materials</i>, 2025, 100358. https://doi.org/10.1016/j.clema.2025.100358.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

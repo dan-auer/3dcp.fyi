@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abhishek Patel, Benny Raphael
+    - footer
+title: Patel Abhishek, Raphael Benny
 description:
 tags:
  - carbon
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.iaarc.org/./publications/fulltext/091_Reducing_Carbon_Emissions_in_3D_Printed_RCC_Slabs.pdf) Reducing Carbon Emissions in 3D Printed RCC Slabs ([2025-07](date/2025/07))
-<a href="https://doi.org/10.22260/isarc2025/0091" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2025/0091</a>
+#Reducing Carbon Emissions in 3D Printed RCC Slabs ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/./publications/fulltext/091_Reducing_Carbon_Emissions_in_3D_Printed_RCC_Slabs.pdf) <a href="https://doi.org/10.22260/isarc2025/0091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0091" target="_blank">10.22260/isarc2025/0091</a>
 
--------------------------
+<a href="../../../author/patel_abhishek"><b>Patel</b>&nbsp;Abhishek</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raphael_benny"><b>Raphael</b>&nbsp;Benny</a></span><br>
+Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 698-705
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>
-,     <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 698-705
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#emission`](keyword/emission)
-    [`#print`](keyword/print)
-    [`#reduction`](keyword/reduction)
-    [`#slab`](keyword/slab)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reducing%20Carbon%20Emissions%20in%203D%20Printed%20RCC%20Slabs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016550711&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412690959" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2025/0091" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2025/0091?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing offers significant potential to revolutionize construction through improved efficiency and cost-effectiveness. However, high cement content in 3D printable mixes raises questions about the environmental sustainability of this technology. This study proposes an automated methodology for 3D printing Reinforced Cement Concrete (RCC) filler slabs using compressed polyethylene (PE) waste to reduce the carbon footprint. A gantry-style 3D printer with integrated pick-and-place functionality is designed to position recycled plastic fillers, reducing raw material consumption and emissions. A cradle-to-gate life cycle assessment is employed to compare three scenarios: conventional slabs, filler slabs with clay pots, and filler slabs with PE waste. The results show that the proposed method significantly reduce material use and carbon emissions, while mitigating the environmental impact of polyethylene waste mismanagement. This study demonstrates the potential of integrating 3D printing and automation to advance sustainable construction practices and lower the carbon footprint of RCC slabs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
@@ -70,7 +53,37 @@ tags:
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{pate_raph.2025.RCEi3PRS,
+      author            = "Abhishek Patel and Benny Raphael",
+      title             = "Reducing Carbon Emissions in 3D Printed RCC Slabs",
+      doi               = "10.22260/isarc2025/0091",
+      year              = "2025",
+      pages             = "698--705",
+      booktitle         = "Proceedings of the 42nd International Symposium on Automation and Robotics in Construction",
+      editor            = "Jiansong Zhang and Qian Chen and Gaang Lee and Vicente Gonzalez and Kamat Vineet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Patel  and B. Raphael, “Reducing Carbon Emissions in 3D Printed RCC Slabs”, in <i>Proceedings of the 42nd International Symposium on Automation and Robotics in Construction</i>,  2025, pp. 698–705. doi: 10.22260/isarc2025/0091.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Patel, Abhishek, and Benny Raphael. “Reducing Carbon Emissions in 3D Printed RCC Slabs”. In <i>Proceedings of the 42nd International Symposium on Automation and Robotics in Construction</i>, edited by Jiansong Zhang, Qian Chen, Gaang Lee, Vicente Gonzalez, and Kamat Vineet, 698–705, 2025. https://doi.org/10.22260/isarc2025/0091.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

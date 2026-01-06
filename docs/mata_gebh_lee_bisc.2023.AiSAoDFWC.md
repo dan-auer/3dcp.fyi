@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jaime Mata-Falcón, Lukas Gebhard, Minu Lee, Patrick Bischof
+    - footer
+title: Mata-Falcón Jaime, Gebhard Lukas, Lee Minu, Bischof Patrick
 description:
 tags:
  - advance
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advances in Structural Applications of Digital Fabrication With Concrete ([2023-10](date/2023/10))
-<a href="https://doi.org/10.52825/ocp.v3i.190" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52825/ocp.v3i.190</a>
+#Advances in Structural Applications of Digital Fabrication With Concrete ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52825/ocp.v3i.190" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v3i.190" target="_blank">10.52825/ocp.v3i.190</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gebhard_lukas"><b>Gebhard</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6489-8310" title="ORCID: 0000-0002-6489-8310" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_minu"><b>Lee</b>&nbsp;Minu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3032-5482" title="ORCID: 0000-0003-3032-5482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bischof_patrick"><b>Bischof</b>&nbsp;Patrick</a></span><br>
+Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a> <a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_minu"><b>Lee</b> Minu</a> <a href="https://orcid.org/0000-0002-6489-8310" title="ORCID: 0000-0002-6489-8310" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a> <a href="https://orcid.org/0000-0003-3032-5482" title="ORCID: 0000-0003-3032-5482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advances%20in%20Structural%20Applications%20of%20Digital%20Fabrication%20With%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389815183" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52825/ocp.v3i.190" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52825/ocp.v3i.190?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry needs to reduce its large environmental footprint drastically. Building with less material is one of the main levers for reducing this negative impact. This material reduction can be achieved with structurally efficient geometries requiring a higher degree of complexity than typically applied in conventional construction practices. Digital fabrication with concrete has been proposed as one of the solutions to facilitate the fabrication of efficient structures. Over the last few years, extensive research has been conducted within the National Centre of Competence in Research (NCCR) Digital Fabrication at ETH Zurich to investigate digital fabrication with concrete for structural applications. Various digital technologies were investigated, including 3D concrete printing, digital casting, Mesh Mould, printed polymer formworks and knitted formworks. This contribution highlights the main findings of these investigations with a particular focus on the development of reinforcement strategies, as these strategies are an essential step to ensure compliance with existing design guidelines and ease of mass-market adaptation. Promising future research areas are identified based on the assessment of the technology readiness and sustainability potential of the investigated approaches.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../anto_reit_skev_dill.2022.RLf3/">Reinforcement Lattices for 3DCP:<br/>A Fabrication Method Based on Ruled Surfaces</a></li>
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/nasbom_andreas"><b>Näsbom</b> Andreas</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bisc_mata_amma_nasb.2022.DFWItRMRiCS/">Digitally Fabricated Weak Interfaces to Reduce Minimum Reinforcement in Concrete Structures</a></li>
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
@@ -82,7 +62,37 @@ tags:
       <li><a href="../../../author/mirjan_ammar"><b>Mirjan</b> Ammar</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/rieger_carsten"><b>Rieger</b> Carsten</a>, <a href="../../../author/herkrath_janin"><b>Herkrath</b> Janin</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../mirj_mata_rieg_herk.2022.MMP/">Mesh Mould Prefabrication</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mata_gebh_lee_bisc.2023.AiSAoDFWC,
+      author            = "Jaime Mata-Falcón and Lukas Gebhard and Minu Lee and Patrick Bischof",
+      title             = "Advances in Structural Applications of Digital Fabrication With Concrete",
+      doi               = "10.52825/ocp.v3i.190",
+      year              = "2023",
+      volume            = "3",
+      booktitle         = "Visions and Strategies for Reinforcing Additively Manufactured Constructions",
+      editor            = "Asko Fromm and Norman Peter Hack",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Mata-Falcón, L. Gebhard, M. Lee and P. Bischof, “Advances in Structural Applications of Digital Fabrication With Concrete”, in <i>Visions and Strategies for Reinforcing Additively Manufactured Constructions</i>,  2023, vol. 3. doi: 10.52825/ocp.v3i.190.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mata-Falcón, Jaime, Lukas Gebhard, Minu Lee, and Patrick Bischof. “Advances in Structural Applications of Digital Fabrication With Concrete”. In <i>Visions and Strategies for Reinforcing Additively Manufactured Constructions</i>, edited by Asko Fromm and Norman Peter Hack, Vol. 3, 2023. https://doi.org/10.52825/ocp.v3i.190.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

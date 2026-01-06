@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mien Tran, Tran Vu, Thi Nguyen
+    - footer
+title: Tran Mien, Vu Tran, Nguyen Thi
 description:
 tags:
  - assessment
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e01889) Simplified Assessment for One-Part 3D Printable Geopolymer Concrete Based on Slump and Slump-Flow Measurements ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/j.cscm.2023.e01889" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e01889</a>
+#Simplified Assessment for One-Part 3D Printable Geopolymer Concrete Based on Slump and Slump-Flow Measurements ([2023-01](date/2023/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e01889) <a href="https://doi.org/10.1016/j.cscm.2023.e01889" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01889" target="_blank">10.1016/j.cscm.2023.e01889</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_mien"><b>van&nbsp;Tran</b>&nbsp;Mien</a></span>, <a href="../../../author/vu_h_tran"><b>Vu</b>&nbsp;Tran</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6988-4778" title="ORCID: 0000-0002-6988-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b>&nbsp;Thi</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 18
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tran_mien"><b>van Tran</b> Mien</a> <a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vu_h_tran"><b>Vu</b> Tran</a>
-,     <a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a> <a href="https://orcid.org/0000-0002-6988-4778" title="ORCID: 0000-0002-6988-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 18
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#flow`](keyword/flow)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#measurement`](keyword/measurement)
-    [`#printability`](keyword/printability)
-    [`#simple`](keyword/simple)
-    [`#slump`](keyword/slump)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/simple"><button class="btn">#simple</button></a> <a href="../../keyword/slump"><button class="btn">#slump</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Simplified%20Assessment%20for%20One-Part%203D%20Printable%20Geopolymer%20Concrete%20Based%20on%20Slump%20and%20Slump-Flow%20Measurements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146869279&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320341955" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e01889" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e01889?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A combination of three-dimensional (3D) printing and one-part geopolymer concrete is an innovative and sustainable construction method to prevent environmental degradation. To perform well in a 3D printing application, one-part geopolymer concrete requires rheological specifications that will generate concrete that is printable. However, measuring rheological properties and interpreting the rheological results is time-consuming. It needs to have a standardized field-friendly method to assess the printability of one-part geopolymer concrete before printing. This study introduces a simplified way of predicting the printability of one-part geopolymer concrete for 3D printing with the use of a slump and slump flow diagram. Nineteen (19) mixtures of one-part geopolymer concrete with various water/binder ratios and different content of sodium tetraborate pentahydrate (borax) added were studied. The slump and the corresponding slump flow of these concrete mixtures were measured. Then, the actual printings were carried on to assess the printability of these mixtures. The open time of concrete was also determined. After 3 days of curing, the compressive strength of the concrete was evaluated. The investigation indicated that the mixtures with a slump in a range of between 15 mm and 30 mm accompanied by a slump flow of between 210 mm and 240 mm were found to be well-suited for 3D printing. Furthermore, the results figured out that to achieve a desirable open time for successful 3D printing, the borax content of 2–4% should be added while the appropriate water/ binder ratio of higher than 0.34 should be used.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -88,8 +66,8 @@ tags:
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
@@ -110,4 +88,33 @@ tags:
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/jassim_muhammad"><b>Jassim</b> Muhammad</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../khan_jass_ilca_sahi.2023.3PoCM/">3D Printing of Circular Materials:<br/>Comparative Environmental Analysis of Materials and Construction Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tran_vu_nguy.2023.SAfOP3PGCBoSaSFM,
+      author            = "Mien van Tran and Tran H. Vu and Thi Hai Yen Nguyen",
+      title             = "Simplified Assessment for One-Part 3D Printable Geopolymer Concrete Based on Slump and Slump-Flow Measurements",
+      doi               = "10.1016/j.cscm.2023.e01889",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "18",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. van Tran, T. H. Vu and T. H. Y. Nguyen, “Simplified Assessment for One-Part 3D Printable Geopolymer Concrete Based on Slump and Slump-Flow Measurements”, <i>Case Studies in Construction Materials</i>, vol. 18, 2023, doi: 10.1016/j.cscm.2023.e01889.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tran, Mien van, Tran H. Vu, and Thi Hai Yen Nguyen. “Simplified Assessment for One-Part 3D Printable Geopolymer Concrete Based on Slump and Slump-Flow Measurements”. <i>Case Studies in Construction Materials</i> 18 (2023). https://doi.org/10.1016/j.cscm.2023.e01889.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

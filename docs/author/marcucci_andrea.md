@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Marcucci Andrea 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a>, <a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a>, <a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a>, <a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../komp_marc_mont_levi.2024.FBoTDPCMiVEAaHS/">Fracture Behavior of Three-Dimensional-Printable Cementitious Mortars in Very Early-Ages and Hardened States</a></li>
   <li><a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a>, <a href="../../../author/gaggiotti_cesare"><b>Gaggiotti</b> Cesare</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../marc_gagg_ferr.2023.APotPoCTANN/">A Prediction of the Printability of Concrete Through Artificial Neural Networks</a></li>
   <li><a href="../../../author/guanziroli_stefano"><b>Guanziroli</b> Stefano</a>, <a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a>, <a href="../../../author/negrini_alberto"><b>Negrini</b> Alberto</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../guan_marc_negr_ferr.2024.ANCoAMftRoET/">A New Concept of Additive Manufacturing for the Regeneration of Existing Tunnels</a></li>

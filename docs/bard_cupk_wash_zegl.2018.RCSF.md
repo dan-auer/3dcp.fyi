@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joshua Bard, Dana Cupkova, Newell Washburn, Garth Zeglin
+    - footer
+title: Bard Joshua, Cupkova Dana, Washburn Newell, Zeglin Garth
 description:
 tags:
  - approach
@@ -22,38 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robotic Concrete Surface Finishing:<br/>:aca-blank: A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing ([2018-12](date/2018/12))
-<a href="https://doi.org/10.1007/s41693-018-0014-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41693-018-0014-x</a>
+#Robotic Concrete Surface Finishing&nbsp;([2018-12](date/2018/12))
+<div class="h1-like">A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-018-0014-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-018-0014-x" target="_blank">10.1007/s41693-018-0014-x</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5146-1080" title="ORCID: 0000-0002-5146-1080" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bard_joshua"><b>Bard</b>&nbsp;Joshua</a></span>, <a href="../../../author/cupkova_dana"><b>Cupkova</b>&nbsp;Dana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7843-8860" title="ORCID: 0000-0001-7843-8860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/washburn_newell"><b>Washburn</b>&nbsp;Newell</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6680-4787" title="ORCID: 0000-0002-6680-4787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeglin_garth"><b>Zeglin</b>&nbsp;Garth</a></span><br>
+Journal Article - Construction Robotics, Vol. 2, Iss. 1-4, pp. 53-65
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a> <a href="https://orcid.org/0000-0002-5146-1080" title="ORCID: 0000-0002-5146-1080" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>
-,     <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a> <a href="https://orcid.org/0000-0001-7843-8860" title="ORCID: 0000-0001-7843-8860" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="https://orcid.org/0000-0002-6680-4787" title="ORCID: 0000-0002-6680-4787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Robotics, Vol. 2, Iss. 1-4, pp. 53-65
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#architecture`](keyword/architecture)
-    [`#buildability`](keyword/buildability)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#finish`](keyword/finish)
-    [`#geometry`](keyword/geometry)
-    [`#mold`](keyword/mold)
-    [`#print`](keyword/print)
-    [`#profile`](keyword/profile)
-    [`#robot`](keyword/robot)
-    [`#surface`](keyword/surface)
-    [`#temperature`](keyword/temperature)
-    [`#tuning`](keyword/tuning)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/finish"><button class="btn">#finish</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/mold"><button class="btn">#mold</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/profile"><button class="btn">#profile</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/tuning"><button class="btn">#tuning</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Concrete%20Surface%20Finishing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,24 +45,21 @@ tags:
 <a href="https://inciteful.xyz/p/W2903922559" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41693-018-0014-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41693-018-0014-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper focuses on describing a novel hybrid concrete printing/casting process we term Profile-3D-Printing. Profile-3D-Printing is an additive/subtractive manufacturing process that combines deposition of concrete for rough layup with precision tooling for surface finishing of architectural building components commonly found in the architectural precast industry. Our research team from Architecture, the Robotics Institute, and Material Science invented this novel hybrid manufacturing process for robotically printing architectural facade panels with complex surface geometries. This effort was motivated by previously validated research focused on calibrating the thermal exchange rate of vertical surface geometries for the purpose of improving both the esthetic and thermodynamic performance of passive heating and cooling systems in buildings. Our hybrid approach to concrete 3D printing is unique because it combines high-volume material deposition, multi-resolution surface finishing, and the ability for high customization without significant increases in production time. Our project will significantly advance systems integration between energy-based building performance design and advance additive manufacturing, enabling precast concrete suppliers to design and manufacture innovative architectural products with added value for end users in energy savings. This project serves as a template for other industries to adopt hybrid additive manufacturing systems to transform traditionally mold-based approaches. The goal of our project is to develop and test robotic 3D-printing systems that enable customization for high-resolution parts. Hybrid additive manufacturing (Hybrid-AM) enables automated tooling of soft and phase-changing materials to achieve fine feature resolution and finish quality independent of print nozzle size. Currently, speed of printing, control of finish quality, and flexibility of application are three of the most significant barriers for industries seeking to adopt additive manufacturing for part production. This project highlights how Hybrid-AM techniques, built on robotic work cells, address these challenges to enable customization of value-added products.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a></li>
       <li><a href="../../../author/oladunni_joseph_oluwole"><b>Oladunni</b> Oluwole</a>, <a href="../../../author/lee_k-m_carman"><b>Lee</b> Carman</a>, <a href="../../../author/ibrahim_david_idowu"><b>Ibrahim</b> Idowu</a>, <a href="../../../author/olanrewaju_akanni_oludolapo"><b>Olanrewaju</b> Oludolapo</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../olad_lee_ibra_olan.2025.AiSAM/">Advances in Sustainable Additive Manufacturing:<br/>A Systematic Review for Construction Industry to Mitigate Greenhouse Gas Emissions</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_lin_wan_li.2024.MAIoCPbHASMBotTDCoCM/">Manufacturing Accuracy Improvement of Concrete Product by Hybrid Additive-Subtractive Method Based on the Time-Dependent Characteristics of Cementitious Materials</a></li>
@@ -107,4 +81,35 @@ tags:
       <li><a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mcge_ng_yu_li.2020.ENSfI3oECCES/">Extrusion Nozzle Shaping for Improved 3DP of Engineered Cementitious Composites (ECC-SHCC)</a></li>
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/cheein_auat_fernando"><b>Cheein</b> Fernando</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../guam_garc_mart_chee.2020.ACPEoDMMUaD3PoBEftCI/">A Comprehensive Performance Evaluation of Different Mobile Manipulators Used as Displaceable 3D Printers of Building Elements for the Construction Industry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bard_cupk_wash_zegl.2018.RCSF,
+      author            = "Joshua Bard and Dana Cupkova and Newell Washburn and Garth Zeglin",
+      title             = "Robotic Concrete Surface Finishing: A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing",
+      doi               = "10.1007/s41693-018-0014-x",
+      year              = "2018",
+      journal           = "Construction Robotics",
+      volume            = "2",
+      number            = "1-4",
+      pages             = "53--65",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Bard, D. Cupkova, N. Washburn and G. Zeglin, “Robotic Concrete Surface Finishing: A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing”, <i>Construction Robotics</i>, vol. 2, no. 1–4, pp. 53–65, 2018, doi: 10.1007/s41693-018-0014-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bard, Joshua, Dana Cupkova, Newell Washburn, and Garth Zeglin. “Robotic Concrete Surface Finishing: A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing”. <i>Construction Robotics</i> 2, no. 1-4 (2018): 53–65. https://doi.org/10.1007/s41693-018-0014-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

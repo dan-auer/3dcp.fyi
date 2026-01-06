@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Feng Hu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
   <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_tang_feng_chen.2025.SotIoEA3PCBS/">Study on the Instability of Early Age 3D Printing Cement-Based Structure:<br/>Considering the Influence of Interface</a></li>
 </ol>

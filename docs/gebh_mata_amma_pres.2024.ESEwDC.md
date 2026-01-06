@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lukas Gebhard, Jaime Mata-Falcón, Rebecca Ammann, Nadine Pressmair, Benjamin Kromoser, Costantino Menna, Abtin Baghdadi, Harald Kloft, Michael Gabriel, Martin Walch, Walter Kaufmann
+    - footer
+title: Gebhard Lukas, Mata-Falcón Jaime, Ammann Rebecca, Pressmair Nadine, Kromoser Benjamin, Menna Costantino, Baghdadi Abtin, Kloft Harald, Gabriel Michael, Walch Martin, Kaufmann Walter
 description:
 tags:
  - case
@@ -15,38 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2024.107645) Enhancing Structural Efficiency with Digital Concrete:<br/>:aca-blank: Principles, Opportunities and Case Studies ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107645" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107645</a>
+#Enhancing Structural Efficiency with Digital Concrete&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">Principles, Opportunities and Case Studies</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2024.107645) <a href="https://doi.org/10.1016/j.cemconres.2024.107645" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107645" target="_blank">10.1016/j.cemconres.2024.107645</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gebhard_lukas"><b>Gebhard</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9568-0624" title="ORCID: 0000-0001-9568-0624" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ammann_rebecca"><b>Ammann</b>&nbsp;Rebecca</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3711-6974" title="ORCID: 0000-0003-3711-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pressmair_nadine"><b>Pressmair</b>&nbsp;Nadine</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3416-8146" title="ORCID: 0000-0003-3416-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kromoser_benjamin"><b>Kromoser</b>&nbsp;Benjamin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menna_costantino"><b>Menna</b>&nbsp;Costantino</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1259-6174" title="ORCID: 0000-0003-1259-6174" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baghdadi_abtin"><b>Baghdadi</b>&nbsp;Abtin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <a href="../../../author/gabriel_michael"><b>Gabriel</b>&nbsp;Michael</a></span>, <a href="../../../author/walch_martin"><b>Walch</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaufmann_walter"><b>Kaufmann</b>&nbsp;Walter</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 185, No. 107645
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a> <a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a> <a href="https://orcid.org/0000-0001-9568-0624" title="ORCID: 0000-0001-9568-0624" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pressmair_nadine"><b>Pressmair</b> Nadine</a> <a href="https://orcid.org/0000-0003-3711-6974" title="ORCID: 0000-0003-3711-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kromoser_benjamin"><b>Kromoser</b> Benjamin</a> <a href="https://orcid.org/0000-0003-3416-8146" title="ORCID: 0000-0003-3416-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> <a href="https://orcid.org/0000-0003-1259-6174" title="ORCID: 0000-0003-1259-6174" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gabriel_michael"><b>Gabriel</b> Michael</a>
-,     <a href="../../../author/walch_martin"><b>Walch</b> Martin</a>
-,     <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 185, No. 107645
-
-:aca-blank:{ .lg .middle}
-    [`#case`](keyword/case)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#efficient`](keyword/efficient)
-    [`#enhancement`](keyword/enhancement)
-    [`#opportunity`](keyword/opportunity)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Structural%20Efficiency%20with%20Digital%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201734335&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401844689" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107645" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107645?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper explores the opportunities of digital fabrication with concrete (DFC) to improve structural efficiency and achieve sustainable construction. Efficient structural solutions that drastically reduce material consumption can be achieved by ensuring direct load flow and placing material where needed. More than 50 % of material savings can be achieved by using flanges or hollow sections, providing continuity in beams or slabs, reducing the span of structures or using structural systems such as arches, trusses or deep beams. These concepts are not fully exploited as they often require expensive and complex formwork. DFC tackles the latter point, as it promises to produce complex geometries, minimising extra effort, cost, or waste. The paper discusses the optimisation potential of DFC for several structural elements and presents existing applications that demonstrate this potential. Five case studies of different technological approaches are discussed in detail, highlighting advantages and disadvantages to be addressed for widespread adoption.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "56 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../aspr_menn_bos_mata.2022.SDaToDMCS/">Structural Design and Testing of Digitally Manufactured Concrete Structures</a></li>
@@ -98,7 +71,6 @@ tags:
       <li><a href="../../../author/hansemann_georg"><b>Hansemann</b> Georg</a>, <a href="../../../author/schmid_robert"><b>Schmid</b> Robert</a>, <a href="../../../author/holzinger_christoph"><b>Holzinger</b> Christoph</a>, <a href="../../../author/tapley_paul_joshua"><b>Tapley</b> Joshua</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hans_schm_holz_tapl.2020.AFoCEbR/">Additive Fabrication of Concrete Elements by Robots:<br/>Lightweight Concrete Ceiling</a></li>
       <li><a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../hube_burg_mata_kauf.2023.SDaToMORRSw3PF/">Structural Design and Testing of Material-Optimized Ribbed RC Slabs with 3D Printed Formwork</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../jipa_bern_dill.2017.SF/">Submillimetre Formwork:<br/>3D Printed Plastic Formwork for Concrete Elements</a></li>
-      <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/lydon_gearoid"><b>Lydon</b> Gearóid</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jipa_lydo_yoo_chou.2024.H/">HiRes:<br/>3D Printed Formwork for an Integrated Slab</a></li>
       <li><a href="../../../author/jones_es_kathryn"><b>Jones</b> Kathryn</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../jone_li.2023.LCAoUTWTTCCAMtCM/">Life Cycle Assessment of Ultra-Tall Wind Turbine Towers Comparing Concrete Additive Manufacturing to Conventional Manufacturing</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/kinomura_koji"><b>Kinomura</b> Koji</a>, <a href="../../../author/murata_satoshi"><b>Murata</b> Satoshi</a>, <a href="../../../author/yamamoto_yujin"><b>Yamamoto</b> Yujin</a>, <a href="../../../author/obi_hirotoshi"><b>Obi</b> Hirotoshi</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../kino_mura_yama_obi.2020.Ao3PSDbTOAtaPSPSPB/">Application of 3D Printed Segments Designed by Topology-Optimization-Analysis to a Practical-Scale Pre-Stressed Pedestrian Bridge</a></li>
@@ -130,10 +102,41 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wolf.2024.TSQo3CP/">The Status Quo of 3D Concrete Printing:<br/>Are We There Yet?</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gebh_mata_amma_pres.2024.ESEwDC,
+      author            = "Lukas Gebhard and Jaime Mata-Falcón and Rebecca Ammann and Nadine Pressmair and Benjamin Kromoser and Costantino Menna and Abtin Baghdadi and Harald Kloft and Michael Gabriel and Martin Walch and Walter Kaufmann",
+      title             = "Enhancing Structural Efficiency with Digital Concrete: Principles, Opportunities and Case Studies",
+      doi               = "10.1016/j.cemconres.2024.107645",
+      year              = "2024",
+      journal           = "Cement and Concrete Research",
+      volume            = "185",
+      pages             = "107645",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Gebhard, “Enhancing Structural Efficiency with Digital Concrete: Principles, Opportunities and Case Studies”, <i>Cement and Concrete Research</i>, vol. 185, p. 107645, 2024, doi: 10.1016/j.cemconres.2024.107645.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gebhard, Lukas, Jaime Mata-Falcón, Rebecca Ammann, Nadine Pressmair, Benjamin Kromoser, Costantino Menna, Abtin Baghdadi, et al.. “Enhancing Structural Efficiency with Digital Concrete: Principles, Opportunities and Case Studies”. <i>Cement and Concrete Research</i> 185 (2024): 107645. https://doi.org/10.1016/j.cemconres.2024.107645.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

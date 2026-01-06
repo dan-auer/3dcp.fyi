@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bo Zhang, Yaxin Tao, Yi Zhang, Yasmina Shields, Wouter Corte, Roman Wan-Wendner
+    - footer
+title: Zhang Bo, Tao Yaxin, Zhang Yi, Shields Yasmina, Corte Wouter, Wan-Wendner Roman
 description:
 tags:
  - concrete
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141764" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141764</a>
+#Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141764" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141764" target="_blank">10.1016/j.conbuildmat.2025.141764</a>
 
--------------------------
+<a href="../../../author/zhang_bo"><b>Zhang</b>&nbsp;Bo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9873-4875" title="ORCID: 0000-0002-9873-4875" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shields_yasmina"><b>Shields</b>&nbsp;Yasmina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b>&nbsp;Roman</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 483, No. 141764
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shields_yasmina"><b>Shields</b> Yasmina</a> <a href="https://orcid.org/0000-0002-9873-4875" title="ORCID: 0000-0002-9873-4875" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 483, No. 141764
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#cross`](keyword/cross)
-    [`#inclusion`](keyword/inclusion)
-    [`#infill`](keyword/infill)
-    [`#mechanics`](keyword/mechanics)
-    [`#path`](keyword/path)
-    [`#pattern`](keyword/pattern)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/inclusion"><button class="btn">#inclusion</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D%20Printed%20Concrete%20with%202D%20Infill%20Patterns%20Including%20Print%20Path%20Crossings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005066721&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410415211" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141764" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141764?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Infill patterns have been employed to optimize structural design, with the mechanical properties at the intersections within the pattern being crucial to its overall performance. This study investigates the impact of print path crossings in infill patterns on the mechanical properties of printed samples. Firstly, prisms and small cubic domains cut from printed single crosses are subjected to bending and uniaxial compression tests. Subsequently, large specimens featuring selected print path crossing strategies are printed and tested in compression. Crosses can be formed by an intersection between two orthogonal layers, a next layer "riding" on the last previous layer (C), or by sideways contacts between two orthogonal layers at turns (HC or H). Compression tests on smaller specimens containing only the cross indicate that deformations are influenced by both the mechanical properties of the crosses and the matrix. For specimens with 21.5 mm layer widths, the relationship between infill density and compressive strength is approximately linear. However, this linearity breaks down in specimens with 14 mm layer widths. The reason is that in large specimens incorporating an infill pattern, the effective compressive strength versus infill density relationship exhibits significant nonlinearities compared to the anticipated linear trend. This deviation arises from buckling caused by the separation of individual structural components at cross junctions during loading. Conversely, the relationship between infill density and elastic modulus is nearly linear.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics During Casting and Curing</a></li>
@@ -108,8 +83,38 @@ tags:
       <li><a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../wu_yang_kong_zhi.2021.UQftRVEoGMC3PC/">Uncertainty Quantification for the Representative Volume Element of Geometrically Mono-Clinic 3D Printed Concrete</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_tao_zhan_shie.2025.MPo3PCw2IPIPPC,
+      author            = "Bo Zhang and Yaxin Tao and Yi Zhang and Yasmina Shields and Wouter de Corte and Roman Wan-Wendner",
+      title             = "Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings",
+      doi               = "10.1016/j.conbuildmat.2025.141764",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "483",
+      pages             = "141764",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zhang, Y. Tao, Y. Zhang, Y. Shields, W. de Corte and R. Wan-Wendner, “Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings”, <i>Construction and Building Materials</i>, vol. 483, p. 141764, 2025, doi: 10.1016/j.conbuildmat.2025.141764.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Bo, Yaxin Tao, Yi Zhang, Yasmina Shields, Wouter de Corte, and Roman Wan-Wendner. “Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings”. <i>Construction and Building Materials</i> 483 (2025): 141764. https://doi.org/10.1016/j.conbuildmat.2025.141764.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

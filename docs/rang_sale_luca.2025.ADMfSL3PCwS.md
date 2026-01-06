@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Carolina Rangel, Theo Salet, Sandra Lucas
+    - footer
+title: Rangel Carolina, Salet Theo, Lucas Sandra
 description:
 tags:
  - concrete
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.jobe.2025.114963" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114963</a>
+#A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114963" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114963" target="_blank">10.1016/j.jobe.2025.114963</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9506-1134" title="ORCID: 0000-0002-9506-1134" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_maciel_carolina"><b>Rangel</b>&nbsp;Carolina</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114963
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a> <a href="https://orcid.org/0000-0002-9506-1134" title="ORCID: 0000-0002-9506-1134" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114963
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#light`](keyword/light)
-    [`#method`](keyword/method)
-    [`#printability`](keyword/printability)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Design%20Methodology%20for%20Sustainable%20Lightweight%203D-Printable%20Concrete%20with%20SCMs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114963" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114963?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Developing sustainable 3D printable concrete (3DPC) requires reducing dependence on Portland cement (PC) while integrating alternative materials to improve functionality. Supplementary cementitious materials (SCMs) provide a sustainable alternative that enhances print quality and early hydration, while lightweight aggregates (LWAs), valued for their low density and insulation properties, reduce self-weight during printing and service, and may also contribute to energy efficiency. Although SCMs and LWAs individually affect the printing performance of concrete, their combined influence on fresh-state properties remains largely unexplored. This study addresses this gap by systematically investigating the synergistic effects of high SCM content and bio-based LWA, and by proposing an optimal mix design approach for lightweight 3D-printed concrete. The mixes containing blast furnace slag, silica fume, limestone powder, and natural cork were designed adopting the modified Andreasen and Andersen particle packing model to target densities from 1000 to 1700 kg/m3, while accounting for the pre-saturated cork’s parameter. The experimental program examined the effects of SCMs on hydration rate, a factor influencing thixotropy, and how changes in cork content affected green strength (t = 5 to 95 min), flow, and printability in 3D-printable concretes. The best-performing cork concrete, which features high-volume SCM (70% wt/b) and a density of 1400 kg/m3, achieved twice the yield stress (575 Pa) and compressive strength (70 kPa) at 95 minutes, and a 25% higher modulus of elasticity (0.54 MPa) compared to its counterparts. These collective properties were outstanding for the buildability and printing quality of 3DPC on a small scale. The optimal mixture, which has an 82% lower embodied carbon footprint than the reference, was then concept-proven in a large printing system designed for continuous dosing, mixing, and pumping pre-saturated cork concretes. The outcomes of this study represent significant progress toward the design, testing, and scalable implementation of sustainable, lightweight 3D-printed concrete. However, further investigation into durability and a deeper understanding of the influence of printing parameters on concrete strengths are still needed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/colyn_markus"><b>Colyn</b> Markus</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../coly_zijl_baba.2024.FaSPo3PCMUaHVoSAB/">Fresh and Strength Properties of 3D Printable Concrete Mixtures Utilising a High Volume of Sustainable Alternative Binders</a></li>
@@ -82,7 +63,36 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rang_sale_luca.2025.ADMfSL3PCwS,
+      author            = "Carolina Maciel Rangel and Theo A. M. Salet and Sandra Simaria de Oliveira Lucas",
+      title             = "A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs",
+      doi               = "10.1016/j.jobe.2025.114963",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114963",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. M. Rangel, T. A. M. Salet and S. S. de Oliveira Lucas, “A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs”, <i>Journal of Building Engineering</i>, p. 114963, 2025, doi: 10.1016/j.jobe.2025.114963.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rangel, Carolina Maciel, Theo A. M. Salet, and Sandra Simaria de Oliveira Lucas. “A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs”. <i>Journal of Building Engineering</i>, 2025, 114963. https://doi.org/10.1016/j.jobe.2025.114963.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

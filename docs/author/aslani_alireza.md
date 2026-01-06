@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Aslani Alireza 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/khalili-tari_mohammadreza"><b>Khalili Tari</b> Mohammadreza</a>, <a href="../../../author/reza-faraji_amir"><b>Reza Faraji</b> Amir</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../khal_reza_asla_zahe.2023.ESaLCAoa3PB/">Energy Simulation and Life Cycle Assessment of a 3D Printable Building</a></li>
   <li><a href="../../../author/ebrahimi_mahdi"><b>Ebrahimi</b> Mahdi</a>, <a href="../../../author/mohseni_mohammad"><b>Mohseni</b> Mohammad</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../ebra_mohs_asla_zahe.2022.IoTPaLCAoa3PB/">Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building</a></li>
 </ol>

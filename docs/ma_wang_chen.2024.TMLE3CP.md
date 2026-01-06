@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xin-Rui Ma, Xian-Lin Wang, Shi-Zi Chen
+    - footer
+title: Ma Xin-Rui, Wang Xian-Lin, Chen Shi-Zi
 description:
 tags:
  - bond
@@ -19,34 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Trustworthy Machine Learning-Enhanced 3D Concrete Printing:<br/>:aca-blank: Predicting Bond Strength and Designing Reinforcement Embedment Length ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.autcon.2024.105754" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105754</a>
+#Trustworthy Machine Learning-Enhanced 3D Concrete Printing&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Predicting Bond Strength and Designing Reinforcement Embedment Length</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105754" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105754" target="_blank">10.1016/j.autcon.2024.105754</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-5292-6016" title="ORCID: 0009-0003-5292-6016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_xin-rui"><b>Ma</b>&nbsp;Xin-Rui</a></span>, <a href="../../../author/wang_xian-lin"><b>Wang</b>&nbsp;Xian-Lin</a></span>, <a href="../../../author/chen_shi-zi"><b>Chen</b>&nbsp;Shi-Zi</a></span><br>
+Journal Article - Automation in Construction, Vol. 168, No. 105754
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ma_xin-rui"><b>Ma</b> Xin-Rui</a> <a href="https://orcid.org/0009-0003-5292-6016" title="ORCID: 0009-0003-5292-6016" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xian-lin"><b>Wang</b> Xian-Lin</a>
-,     <a href="../../../author/chen_shi-zi"><b>Chen</b> Shi-Zi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 168, No. 105754
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#enhancement`](keyword/enhancement)
-    [`#learn`](keyword/learn)
-    [`#length`](keyword/length)
-    [`#machine`](keyword/machine)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Trustworthy%20Machine%20Learning-Enhanced%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203413512&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402347174" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105754" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105754?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) faces challenges in determining and ensuring adequate bond strength between reinforcement and printed concrete. Traditional methods for predicting bond performance are merely deterministic without considering potential uncertainty, which would lead to risks for structural safety. To address this issue, this paper develops a trustworthy machine learning based prediction model for bond strength in reinforced printed concrete (RPC) structures using Natural Gradient Boosting algorithm. This developed model provides both scalar bond strength predictions and corresponding standard deviations, and in the test, it achieved a 94.5% safety rate and outperformed empirical formulas and deterministic approaches. Instructive guidance can be offered for structural engineers and designers in determining reinforcement embedment lengths for 3D-printed concrete during constructions. This probabilistic prediction approach can further enhance the safety and efficiency of digitally fabricated concrete structures, potentially extending its application to other critical parameters in printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -112,11 +89,41 @@ tags:
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/liu_shijie"><b>Liu</b> Shijie</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b> Muwaffaq</a>, <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b> Ahmed</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_liu_alqu_abdo.2025.A3PFRCfSC/">Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction:<br/>A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ma_wang_chen.2024.TMLE3CP,
+      author            = "Xin-Rui Ma and Xian-Lin Wang and Shi-Zi Chen",
+      title             = "Trustworthy Machine Learning-Enhanced 3D Concrete Printing: Predicting Bond Strength and Designing Reinforcement Embedment Length",
+      doi               = "10.1016/j.autcon.2024.105754",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "168",
+      pages             = "105754",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X.-R. Ma, X.-L. Wang and S.-Z. Chen, “Trustworthy Machine Learning-Enhanced 3D Concrete Printing: Predicting Bond Strength and Designing Reinforcement Embedment Length”, <i>Automation in Construction</i>, vol. 168, p. 105754, 2024, doi: 10.1016/j.autcon.2024.105754.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ma, Xin-Rui, Xian-Lin Wang, and Shi-Zi Chen. “Trustworthy Machine Learning-Enhanced 3D Concrete Printing: Predicting Bond Strength and Designing Reinforcement Embedment Length”. <i>Automation in Construction</i> 168 (2024): 105754. https://doi.org/10.1016/j.autcon.2024.105754.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

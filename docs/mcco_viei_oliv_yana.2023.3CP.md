@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Andrew McCoy, Manuel Vieira, Miguel Oliveira, Akhileswar Yanamala, Philip Agee
+    - footer
+title: McCoy Andrew, Vieira Manuel, Oliveira Miguel, Yanamala Akhileswar, Agee Philip
 description:
 tags:
  - concrete
@@ -11,28 +12,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing:<br/>:aca-blank: Factors Affecting the US and Portugal ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1007/978-3-031-44006-9_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-44006-9_24</a>
+#3D Concrete Printing&nbsp;([2023-07](date/2023/07))
+<div class="h1-like">Factors Affecting the US and Portugal</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-44006-9_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-44006-9_24" target="_blank">10.1007/978-3-031-44006-9_24</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3827-0458" title="ORCID: 0000-0002-3827-0458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mccoy_p_andrew"><b>McCoy</b>&nbsp;Andrew</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2930-9661" title="ORCID: 0000-0003-2930-9661" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vieira_gomes_manuel"><b>Vieira</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3042-0802" title="ORCID: 0000-0002-3042-0802" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oliveira_jose_miguel"><b>Oliveira</b>&nbsp;Miguel</a></span>, <a href="../../../author/yanamala_akhileswar"><b>Yanamala</b>&nbsp;Akhileswar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6299-3042" title="ORCID: 0000-0001-6299-3042" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agee_philip"><b>Agee</b>&nbsp;Philip</a></span><br>
+Contribution - Proceedings of the 3rd International Congress on Engineering and Sustainability in the XXI Century, pp. 310-324
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="https://orcid.org/0000-0002-3827-0458" title="ORCID: 0000-0002-3827-0458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vieira_gomes_manuel"><b>Vieira</b> Manuel</a> <a href="https://orcid.org/0000-0003-2930-9661" title="ORCID: 0000-0003-2930-9661" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oliveira_jose_miguel"><b>Oliveira</b> Miguel</a> <a href="https://orcid.org/0000-0002-3042-0802" title="ORCID: 0000-0002-3042-0802" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yanamala_akhileswar"><b>Yanamala</b> Akhileswar</a>
-,     <a href="../../../author/agee_philip"><b>Agee</b> Philip</a> <a href="https://orcid.org/0000-0001-6299-3042" title="ORCID: 0000-0001-6299-3042" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd International Congress on Engineering and Sustainability in the XXI Century, pp. 310-324
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#factor`](keyword/factor)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387942608" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-44006-9_24" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-44006-9_24?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Housing starts have never recovered from the Great Recession and therefore the lack of inventory has driven up pricing resulting in a crisis of affordable options in the market. Both the United States (US) and Portuguese housing markets are experiencing this crisis driven by high costs of financing, land, materials, labor, and a limited supply chain. Emergent technologies provide one solution to labor, material and lack of production and 3D concrete printing (3DCP) promises solutions, reduces waste, and improves quality. Yet few studies discuss drivers of and barriers to this emerging technology, especially catered to specific markets. This work aims to develop a common set of attributes affecting the diffusion of 3D printing, comparing international market needs and differing factors that could both hinder and bolster the adoption of 3D concrete printing technology. This paper considers only additive manufacturing when referring to 3DCP and analysis is derived from a distillation of various types of media and the lack of empirical work is a limitation for the industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -76,9 +59,39 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../baba_mcco_afsa.2025.CaOo3AfUWT/">Challenges and Opportunities of 3DCP Adoption for US Workforce Training</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mcco_viei_oliv_yana.2023.3CP,
+      author            = "Andrew P. McCoy and Manuel Gomes Vieira and Miguel José Oliveira and Akhileswar Yanamala and Philip Agee",
+      title             = "3D Concrete Printing: Factors Affecting the US and Portugal",
+      doi               = "10.1007/978-3-031-44006-9_24",
+      year              = "2023",
+      pages             = "310--324",
+      booktitle         = "Proceedings of the 3rd International Congress on Engineering and Sustainability in the XXI Century",
+      editor            = "Semião, Jorge Filipe Leal Costa and Nelson Manuel Santos Sousa and Rui Mariano Sousa da Cruz and Gonçalo Nuno Delgado Prates",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. P. McCoy, M. G. Vieira, M. J. Oliveira, A. Yanamala and P. Agee, “3D Concrete Printing: Factors Affecting the US and Portugal”, in <i>Proceedings of the 3rd International Congress on Engineering and Sustainability in the XXI Century</i>,  2023, pp. 310–324. doi: 10.1007/978-3-031-44006-9_24.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">McCoy, Andrew P., Manuel Gomes Vieira, Miguel José Oliveira, Akhileswar Yanamala, and Philip Agee. “3D Concrete Printing: Factors Affecting the US and Portugal”. In <i>Proceedings of the 3rd International Congress on Engineering and Sustainability in the XXI Century</i>, edited by Jorge Filipe Leal Costa Semião, Nelson Manuel Santos Sousa, Rui Mariano Sousa da Cruz, and Gonçalo Nuno Delgado Prates, 310–24, 2023. https://doi.org/10.1007/978-3-031-44006-9_24.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

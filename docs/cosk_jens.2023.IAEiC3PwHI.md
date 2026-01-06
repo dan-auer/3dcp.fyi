@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Agit Coskun, Mads Jensen
+    - footer
+title: Coskun Agit, Jensen Mads
 description:
 tags:
  - clay
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/ecaade2023_164.pdf) Integrating Additional Elements in Clay 3D Printing with Human Intervention ([2023-09](date/2023/09))
-<a href="https://doi.org/10.52842/conf.ecaade.2023.1.741" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.ecaade.2023.1.741</a>
+#Integrating Additional Elements in Clay 3D Printing with Human Intervention ([2023-09](date/2023/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2023_164.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2023.1.741" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2023.1.741" target="_blank">10.52842/conf.ecaade.2023.1.741</a>
 
--------------------------
+<a href="../../../author/coskun_agit"><b>Coskun</b>&nbsp;Agit</a></span>, <a href="../../../author/jensen_brath_mads"><b>Jensen</b>&nbsp;Mads</a></span><br>
+Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 741-750
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/coskun_agit"><b>Coskun</b> Agit</a>
-,     <a href="../../../author/jensen_brath_mads"><b>Jensen</b> Mads</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 741-750
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#element`](keyword/element)
-    [`#human`](keyword/human)
-    [`#integration`](keyword/integration)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/human"><button class="btn">#human</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integrating%20Additional%20Elements%20in%20Clay%203D%20Printing%20with%20Human%20Intervention" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171868862&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,19 +35,45 @@ tags:
 <a href="https://inciteful.xyz/p/W4386814911" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.ecaade.2023.1.741" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.ecaade.2023.1.741?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The research demonstrates combining permanent wood structures and steel joints with concrete-clay 3D printing. The study aims to investigate methods for the insertion of additional elements during the 3D process and explore methods for how to inform the 3D printed geometry towards the integration of external elements, including spatial, structural, and aesthetic requirements. As a step in the design process, the ideas of various infill patterns are executed through hand sketches at the beginning; then, the drawings are exported to Grasshopper parametrically at the scale. The connection types, infill density, and nozzle size are all considered when designing infills, and it is thought to specify the required lengths between print paths on each print layer, nozzle size, and extrusion speed. Grasshopper is essentially used to test and simulate how 3D printing works while drawing with clay. Upon selecting the required form, openings are created on both sides of the walls where the additional elements are placed. Thus, a greater understanding of the material-fabrication process interaction and the possibilities offered by computational design is required to integrate with these elements, which are timber, concrete, and steel. The subsequent phase of the investigation also included adding more features to the wall while printing it with human intervention, such as steel placements for the wooden structure. In this paper, during the 3-month investigations, the research produced many physical prototypes with different infill strategies. The variations of the infills were enumerated and compared based on structural stability, aesthetic and functional purposes, infill density, and connection types in the infill (self-tangent, halfoverlap, and full overlap). One of these variations was chosen to create two walls for the design of a shelter as a case. The final prototype will give details of how the timber structures will be integrated into 3d printed walls with human intervention during the 3D printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{cosk_jens.2023.IAEiC3PwHI,
+      author            = "Agit Coskun and Mads Brath Jensen",
+      title             = "Integrating Additional Elements in Clay 3D Printing with Human Intervention",
+      doi               = "10.52842/conf.ecaade.2023.1.741",
+      year              = "2023",
+      pages             = "741--750",
+      booktitle         = "Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe",
+      editor            = "Wolfgang Dokonal and Urs Hirschberg and Gabriel Wurzer",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Coskun  and M. B. Jensen, “Integrating Additional Elements in Clay 3D Printing with Human Intervention”, in <i>Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe</i>,  2023, pp. 741–750. doi: 10.52842/conf.ecaade.2023.1.741.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Coskun, Agit, and Mads Brath Jensen. “Integrating Additional Elements in Clay 3D Printing with Human Intervention”. In <i>Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe</i>, edited by Wolfgang Dokonal, Urs Hirschberg, and Gabriel Wurzer, 741–50, 2023. https://doi.org/10.52842/conf.ecaade.2023.1.741.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

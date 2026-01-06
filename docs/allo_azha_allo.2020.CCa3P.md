@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rawan Allouzi, Wael Azhari, Rabab Allouzi
+    - footer
+title: Allouzi Rawan, Azhari Wael, Allouzi Rabab
 description:
 tags:
  - comparison
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://downloads.hindawi.com/journals/je/2020/1424682.pdf) Conventional Construction and 3D Printing:<br/>:aca-blank: A Comparison Study on Material-Cost in Jordan ([2020-05](date/2020/05))
-<a href="https://doi.org/10.1155/2020/1424682" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1155/2020/1424682</a>
+#Conventional Construction and 3D Printing&nbsp;([2020-05](date/2020/05))
+<div class="h1-like">A Comparison Study on Material-Cost in Jordan</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://downloads.hindawi.com/journals/je/2020/1424682.pdf) <a href="https://doi.org/10.1155/2020/1424682" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/2020/1424682" target="_blank">10.1155/2020/1424682</a>
 
--------------------------
+<a href="../../../author/allouzi_rawan"><b>Allouzi</b>&nbsp;Rawan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8158-5570" title="ORCID: 0000-0001-8158-5570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/azhari_wael"><b>al&nbsp;Azhari</b>&nbsp;Wael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2557-9587" title="ORCID: 0000-0002-2557-9587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/allouzi_rabab"><b>Allouzi</b>&nbsp;Rabab</a></span><br>
+Journal Article - Journal of Engineering, Vol. 2020, Iss. None, pp. 1-14
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>
-,     <a href="../../../author/azhari_wael"><b>al Azhari</b> Wael</a> <a href="https://orcid.org/0000-0001-8158-5570" title="ORCID: 0000-0001-8158-5570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="https://orcid.org/0000-0002-2557-9587" title="ORCID: 0000-0002-2557-9587" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Engineering, Vol. 2020, Iss. None, pp. 1-14
-
-:aca-blank:{ .lg .middle}
-    [`#comparison`](keyword/comparison)
-    [`#construction`](keyword/construction)
-    [`#conventional`](keyword/conventional)
-    [`#cost`](keyword/cost)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Conventional%20Construction%20and%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85161021121&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3021271785" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1155/2020/1424682" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1155/2020/1424682?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing is a procedure used to create 3D objects in which consecutive layers ofa material are computercontrolled produced. Such objects can be constructed in any shape using digital model data. First, this paper presents a state-ofthe-art review of the advances in 3D printing processes of construction. Then, the architectural, economical, environmental, and structural features of 3D printing are introduced. Examples of 3D printed structures are presented, and the construction challenges facing Jordan, that encouraged this study, are stated. Finally, a precise description regarding the impact of3D printing is provided by comparing conventional construction data of Ras Alain Multipurpose Hall in Jordan and the expected data if the same building has been built using 3D printing. The suggested model is generated using Revit software. As a result ofthis study, an understanding of 3D printing procedure, mechanism of action, and its impact on the future of construction and architecture through economical, structural, and environmental parameters is achieved. This leads to encourage engineers and contractors to take this subject into account for construction in Jordan.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -82,8 +64,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "36 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
@@ -121,4 +103,35 @@ tags:
       <li><a href="../../../author/khajavi_haghighat_siavash"><b>Khajavi</b> Siavash</a>, <a href="../../../author/tetik_muge"><b>Tetik</b> Müge</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/peltokorpi_antti"><b>Peltokorpi</b> Antti</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../khaj_teti_mohi_pelt.2021.AMitCI/">Additive Manufacturing in the Construction Industry:<br/>The Comparative Competitiveness of 3D Concrete Printing</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{allo_azha_allo.2020.CCa3P,
+      author            = "Rawan Allouzi and Wael Al Azhari and Rabab Allouzi",
+      title             = "Conventional Construction and 3D Printing: A Comparison Study on Material-Cost in Jordan",
+      doi               = "10.1155/2020/1424682",
+      year              = "2020",
+      journal           = "Journal of Engineering",
+      volume            = "2020",
+      number            = "None",
+      pages             = "1--14",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Allouzi, W. A. Azhari and R. Allouzi, “Conventional Construction and 3D Printing: A Comparison Study on Material-Cost in Jordan”, <i>Journal of Engineering</i>, vol. 2020, no. None, pp. 1–14, 2020, doi: 10.1155/2020/1424682.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Allouzi, Rawan, Wael Al Azhari, and Rabab Allouzi. “Conventional Construction and 3D Printing: A Comparison Study on Material-Cost in Jordan”. <i>Journal of Engineering</i> 2020, no. None (2020): 1–14. https://doi.org/10.1155/2020/1424682.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

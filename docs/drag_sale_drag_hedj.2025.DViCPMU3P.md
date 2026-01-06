@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mihai Dragomir, Tareq Salem, Diana Dragomir, Lofti Hedjazi, Eric Chatelet
+    - footer
+title: Dragomir Mihai, Salem Tareq, Dragomir Diana, Hedjazi Lofti, Chatelet Eric
 description:
 tags:
  - construction
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design Validation in Construction Project Management Using 3D Printing ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1007/978-3-031-84873-5_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-84873-5_9</a>
+#Design Validation in Construction Project Management Using 3D Printing ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-84873-5_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-84873-5_9" target="_blank">10.1007/978-3-031-84873-5_9</a>
 
--------------------------
+<a href="../../../author/dragomir_mihai"><b>Dragomir</b>&nbsp;Mihai</a></span>, <a href="../../../author/salem_tareq"><b>Salem</b>&nbsp;Tareq</a></span>, <a href="../../../author/dragomir_diana"><b>Dragomir</b>&nbsp;Diana</a></span>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b>&nbsp;Lofti</a></span>, <a href="../../../author/chatelet_eric"><b>Chatelet</b>&nbsp;Eric</a></span><br>
+Contribution - Digitalization in Additive Manufacturing, pp. 91-107
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dragomir_mihai"><b>Dragomir</b> Mihai</a>
-,     <a href="../../../author/salem_tareq"><b>Salem</b> Tareq</a>
-,     <a href="../../../author/dragomir_diana"><b>Dragomir</b> Diana</a>
-,     <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a>
-,     <a href="../../../author/chatelet_eric"><b>Chatelet</b> Eric</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Digitalization in Additive Manufacturing, pp. 91-107
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#management`](keyword/management)
-    [`#print`](keyword/print)
-    [`#projection`](keyword/projection)
-    [`#validation`](keyword/validation)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/management"><button class="btn">#management</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20Validation%20in%20Construction%20Project%20Management%20Using%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011524954&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412387318" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-84873-5_9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-84873-5_9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper explores the usefulness of 3D printing in the conceptual stage of creating and validating building designs from the perspective of planning construction project activities. Adequately planning the execution, and the phases of a construction project can be demanding due to the difficulty in assessing the impact of certain design choices on resources and time. This article proposes and tests through a case study a methodology based on multi-criteria analysis to determine the impact of adopting specific technical solutions. The comparison of the initial and revised methods provides a deeper insight into the complexities of project management in the field. This allows for the creation of more detailed recommendations that aid the engineering teams involved in the design, implementation, and commissioning of a building. This is further connected with other supporting technologies and approaches such as digital twins and building information modeling (BIM). When a construction project is approached from the beginning through an integrated digital system, it is possible to limit the number and impact of poor decisions and to enhance efficiency and other key indicators of interest for the contractor and the beneficiary. The proposed mechanisms of intervention can be summed up as a digitally enhanced construction framework.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>, <a href="../../../author/zhang_xueqing"><b>Zhang</b> Xueqing</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../besk_skib_zhan.2021.FA3PTAiC/">Factors Affecting 3D Printing Technology Adaptation in Construction</a></li>
       <li><a href="../../../author/bici_andjol"><b>Bici</b> Andjol</a>, <a href="../../../author/yunitsyna_anna"><b>Yunitsyna</b> Anna</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bici_yuni.2023.Ao3PTfBC/">Analysis of 3D Printing Techniques for Building Construction:<br/>A Review</a></li>
@@ -78,7 +57,36 @@ tags:
       <li><a href="../../../author/waqar_ahsan"><b>Waqar</b> Ahsan</a>, <a href="../../../author/othman_idris"><b>Othman</b> Idris</a>, <a href="../../../author/pomares_carlos_juan"><b>Pomares</b> Juan</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../waqa_othm_poma.2023.Io3PotOPSoRCPUSEM/">Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{drag_sale_drag_hedj.2025.DViCPMU3P,
+      author            = "Mihai Dragomir and Tareq Salem and Diana Dragomir and Lofti Hedjazi and Eric Chatelet",
+      title             = "Design Validation in Construction Project Management Using 3D Printing",
+      doi               = "10.1007/978-3-031-84873-5_9",
+      year              = "2025",
+      pages             = "91--107",
+      booktitle         = "Digitalization in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Dragomir, T. Salem, D. Dragomir, L. Hedjazi and E. Chatelet, “Design Validation in Construction Project Management Using 3D Printing”, in <i>Digitalization in Additive Manufacturing</i>,  2025, pp. 91–107. doi: 10.1007/978-3-031-84873-5_9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dragomir, Mihai, Tareq Salem, Diana Dragomir, Lofti Hedjazi, and Eric Chatelet. “Design Validation in Construction Project Management Using 3D Printing”. In <i>Digitalization in Additive Manufacturing</i>, 91–107, 2025. https://doi.org/10.1007/978-3-031-84873-5_9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

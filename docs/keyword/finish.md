@@ -8,7 +8,7 @@ search:
 
 # #finish
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chad_vase_gram_kohl.2025.ART/">Adaptive Robotic Tamping:<br/>A Novel Robotic Method for Formative Surface Finishing in Earth-Based Additive Manufacturing</a></li>
   <li><a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../davi_drod.2024.RGEEfaAFoCFFS/">Robot-Guided End Effector for an Automated Finishing of Concrete Free-Form Surfaces</a></li>
   <li><a href="../../../author/yang_yan"><b>Yang</b> Yan</a>, <a href="../../../author/wu_hangzi"><b>Wu</b> Hangzi</a>, <a href="../../../author/han_lifang"><b>Han</b> Lifang</a>, <a href="../../../author/huang_qingling"><b>Huang</b> Qingling</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../yang_wu_han_huan.2023.IoGaSFQo3CPWwHS/">Investigation on Geometric and Surface Finish Quality of 3D Concrete Printed Walls with Hollow Section</a></li>

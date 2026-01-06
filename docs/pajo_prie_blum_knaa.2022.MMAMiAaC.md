@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adam Pajonk, Alejandro Prieto, Ulrich Blum, Ulrich Knaack
+    - footer
+title: Pajonk Adam, Prieto Alejandro, Blum Ulrich, Knaack Ulrich
 description:
 tags:
  - additive
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2021.103603) Multi-Material Additive Manufacturing in Architecture and Construction:<br/>:aca-blank: A Review ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.jobe.2021.103603" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.103603</a>
+#Multi-Material Additive Manufacturing in Architecture and Construction&nbsp;([2021-11](date/2021/11))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2021.103603) <a href="https://doi.org/10.1016/j.jobe.2021.103603" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.103603" target="_blank">10.1016/j.jobe.2021.103603</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4182-0414" title="ORCID: 0000-0002-4182-0414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pajonk_adam"><b>Pajonk</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3386-7682" title="ORCID: 0000-0003-3386-7682" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prieto_alejandro"><b>Prieto</b>&nbsp;Alejandro</a></span>, <a href="../../../author/blum_ulrich"><b>Blum</b>&nbsp;Ulrich</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9998-6428" title="ORCID: 0000-0001-9998-6428" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/knaack_ulrich"><b>Knaack</b>&nbsp;Ulrich</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 45
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pajonk_adam"><b>Pajonk</b> Adam</a> <a href="https://orcid.org/0000-0002-4182-0414" title="ORCID: 0000-0002-4182-0414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/prieto_alejandro"><b>Prieto</b> Alejandro</a> <a href="https://orcid.org/0000-0003-3386-7682" title="ORCID: 0000-0003-3386-7682" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blum_ulrich"><b>Blum</b> Ulrich</a>
-,     <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="https://orcid.org/0000-0001-9998-6428" title="ORCID: 0000-0001-9998-6428" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 45, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#architecture`](keyword/architecture)
-    [`#construction`](keyword/construction)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#multi`](keyword/multi)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multi-Material%20Additive%20Manufacturing%20in%20Architecture%20and%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119296927&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3212975868" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.103603" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.103603?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Multi-Material Additive Manufacturing (MMAM) is an emerging manufacturing approach that is gaining interest in architecture and construction as an expansion of Additive Manufacturing. Hereby, different materials or material properties are combined in a single additive process in order to create objects that are composed of multiple materials. Ultimately, this approach introduces a new way of manufacturing and building, where assembly is no longer a necessity in order to combine multiple materials. Moreover, different potentials can be derived from the use of MMAM. Leading towards components with heterogeneous material composition and a high degree of adaption towards structural, environmental, and design criteria. This work provides an overview of the current state of MMAM in architecture and construction. Different processes and materials which have been reported are discussed and potentials, which emerge through the use of MMAM are described using specific use-cases.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/chee_wei-shen_ryan"><b>Chee</b> Ryan</a>, <a href="../../../author/tan_lin_wei"><b>Tan</b> Wei</a>, <a href="../../../author/goh_hern_wei"><b>Goh</b> Wei</a>, <a href="../../../author/amtsberg_felix"><b>Amtsberg</b> Felix</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chee_tan_goh_amts.2019.CFbDCI/">Concrete Fabrication by Digitally Controlled Injection</a></li>
@@ -84,8 +64,8 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/casanova_euro"><b>Casanova</b> Euro</a>, <a href="../../../author/hidalgo_nelson"><b>Hidalgo</b> Nelson</a>, <a href="../../../author/valdebenito_michael"><b>Valdebenito</b> Michael</a>, <a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../casa_hida_vald_forc.2025.ORoCCWMwAC/">Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction</a></li>
@@ -101,4 +81,33 @@ tags:
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pajo_prie_blum_knaa.2022.MMAMiAaC,
+      author            = "Adam Pajonk and Alejandro Prieto and Ulrich Blum and Ulrich Knaack",
+      title             = "Multi-Material Additive Manufacturing in Architecture and Construction: A Review",
+      doi               = "10.1016/j.jobe.2021.103603",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "45",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Pajonk, A. Prieto, U. Blum and U. Knaack, “Multi-Material Additive Manufacturing in Architecture and Construction: A Review”, <i>Journal of Building Engineering</i>, vol. 45, 2022, doi: 10.1016/j.jobe.2021.103603.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pajonk, Adam, Alejandro Prieto, Ulrich Blum, and Ulrich Knaack. “Multi-Material Additive Manufacturing in Architecture and Construction: A Review”. <i>Journal of Building Engineering</i> 45 (2022). https://doi.org/10.1016/j.jobe.2021.103603.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

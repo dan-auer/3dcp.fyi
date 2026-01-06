@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shuhao Xu, Xing-Tao Lin, Xiangsheng Chen
+    - footer
+title: Xu Shuhao, Lin Xing-Tao, Chen Xiangsheng
 description:
 tags:
  - anisotropy
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.144388" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.144388</a>
+#Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.144388" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144388" target="_blank">10.1016/j.conbuildmat.2025.144388</a>
 
--------------------------
+<a href="../../../author/xu_shuhao"><b>Xu</b>&nbsp;Shuhao</a></span>, <a href="../../../author/lin_xing-tao"><b>Lin</b>&nbsp;Xing-Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0880-579X" title="ORCID: 0000-0002-0880-579X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_xiangsheng"><b>Chen</b>&nbsp;Xiangsheng</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 502, No. 144388
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>
-,     <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>
-,     <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="https://orcid.org/0000-0002-0880-579X" title="ORCID: 0000-0002-0880-579X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 502, No. 144388
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#defect`](keyword/defect)
-    [`#effect`](keyword/effect)
-    [`#induction`](keyword/induction)
-    [`#interface`](keyword/interface)
-    [`#investigation`](keyword/investigation)
-    [`#numeric`](keyword/numeric)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#specimen`](keyword/specimen)
-    [`#weak`](keyword/weak)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> <a href="../../keyword/weak"><button class="btn">#weak</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Investigation%20of%20Anisotropic%20in%203D%20Printed%20Concrete%20Specimens%20Considering%20the%20Effects%20of%20Weak%20Interfaces%20and%20Pore-Induced%20Defects" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021083069&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7104468460" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.144388" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.144388?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mechanical anisotropy of 3D printed concrete primarily results from weak interfaces and pore-induced defects. However, the combined effects of these factors are often oversimplified or overlooked in numerical simulations due to the inability of conventional models to capture the realistic, stochastic nature of the pore structure. To overcome this limitation, this study employs Realistic Failure Process Analysis in 3D with integrated Computed Tomography (RFPA3D-CT), a software that integrates computed tomography (CT) scanning to accurately represent material heterogeneity. Specifically, CT scan data were converted into Bitmap (BMP) using Python scripts to construct heterogeneous finite element models that explicitly incorporate the stochastic pores. Model accuracy was verified against uniaxial compression on straight and curved specimens in the X, Y, and Z directions, with maximum relative errors below 11.38 %. Parametric analysis shows that higher porosity or interface density perpendicular to loading reduces compressive strength and promotes interfacial shear failure. Curved path specimens perform better than linear ones, and the failure mode shifts from shear to tensile when the curvature radius exceeds 3500 mm. Furthermore, the failure evolution follows three stages: stress concentration, transfer, and dissipation. The interface-skeleton configuration strongly controls crack propagation paths. Significantly, the methodology systematically incorporates both pore-induced defects and material property differences at weak interfaces into the numerical simulation of 3D printed concrete, further improving the realism of the model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_ning"><b>An</b> Ning</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a>, <a href="../../../author/xu_chuanhua"><b>Xu</b> Chuanhua</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../an_wang_wang_xu.2025.TCACMftIIo3PCCS/">Tension-Compression Anisotropic Cohesion Model for the Interlayer Interface of 3D-Printed Concrete Compression Specimens</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_guan_wang_li.2024.BPo3PUHPCCB/">Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams</a></li>
       <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/sun_hao"><b>Sun</b> Hao</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_sun_wang_zhan.2025.RBIPSaADSBo3PECC/">Relationship Between Interfacial Pore Structure and Anisotropic Dynamic Splitting Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
@@ -122,7 +97,37 @@ tags:
       <li><a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>, <a href="../../../author/hou_dongqi"><b>Hou</b> Dongqi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhao_jian_xia_hou.2025.MICPEoTSaEASo3PC/">Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID,
+      author            = "Shuhao Xu and Xing-Tao Lin and Xiangsheng Chen",
+      title             = "Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects",
+      doi               = "10.1016/j.conbuildmat.2025.144388",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "502",
+      pages             = "144388",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Xu, X.-T. Lin and X. Chen, “Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects”, <i>Construction and Building Materials</i>, vol. 502, p. 144388, 2025, doi: 10.1016/j.conbuildmat.2025.144388.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Shuhao, Xing-Tao Lin, and Xiangsheng Chen. “Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects”. <i>Construction and Building Materials</i> 502 (2025): 144388. https://doi.org/10.1016/j.conbuildmat.2025.144388.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

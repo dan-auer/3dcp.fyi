@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sahil Surehali, Avinaya Tripathi, Atharwa Nimbalkar, Narayanan Neithalath
+    - footer
+title: Surehali Sahil, Tripathi Avinaya, Nimbalkar Atharwa, Neithalath Narayanan
 description:
 tags:
  - anisotropy
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/j.addma.2023.103405" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2023.103405</a>
+#Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types ([2023-01](date/2023/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.addma.2023.103405" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103405" target="_blank">10.1016/j.addma.2023.103405</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5751-9514" title="ORCID: 0000-0001-5751-9514" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/surehali_sahil"><b>Surehali</b>&nbsp;Sahil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4535-4104" title="ORCID: 0000-0003-4535-4104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tripathi_avinaya"><b>Tripathi</b>&nbsp;Avinaya</a></span>, <a href="../../../author/nimbalkar_samir_atharwa"><b>Nimbalkar</b>&nbsp;Atharwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Journal Article - Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a> <a href="https://orcid.org/0000-0001-5751-9514" title="ORCID: 0000-0001-5751-9514" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> <a href="https://orcid.org/0000-0003-4535-4104" title="ORCID: 0000-0003-4535-4104" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nimbalkar_samir_atharwa"><b>Nimbalkar</b> Atharwa</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#chloride`](keyword/chloride)
-    [`#concrete`](keyword/concrete)
-    [`#dependency`](keyword/dependency)
-    [`#height`](keyword/height)
-    [`#interface`](keyword/interface)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#transport`](keyword/transport)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/chloride"><button class="btn">#chloride</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anisotropic%20Chloride%20Transport%20in%203D%20Printed%20Concrete%20and%20Its%20Dependence%20on%20Layer-Height%20and%20Interface-Types" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146056644&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313837590" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2023.103405" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2023.103405?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Layered concrete systems, such as those obtained using 3D printing, demonstrates inter-layer and inter-filament defects, which influence transport of moisture and ionic species through the structural element, thus impacting its durability. The printing parameters, including the layer height and width, and printing rate, dictates the number and quality of the interfaces, rendering a directional dependence to the transport of moisture and deleterious ions. This work focuses on the impact of layer heights (6, 13, and 20 mm) and transport directions (along the direction of printing, along the direction of layer build-up, and in the direction perpendicular to the above two directions), on the non-steady state chloride migration coefficients (Dnssm) of 3D printed concretes. The direction-dependent Dnssm values of the printed samples are 10–30% higher than those of companion cast samples. Interrogation of the microstructure of the printed samples through porosity and electrical conductivity, along with the transport quantification, establishes the influence of anisotropy on the transport properties. The inter-filament interfaces are shown to be more detrimental from an ionic transport standpoint, thereby providing guidelines on choosing the printing direction with respect to the direction of ionic ingress.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
@@ -108,8 +84,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhan_zhan_yang_liu.2022.EoAFaVDi3PC/">Evaluation of Aggregates, Fibers and Voids-Distribution in 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
@@ -134,4 +110,32 @@ tags:
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_keke"><b>Sun</b> Keke</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC/">Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control</a></li>
       <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../sure_trip_neit.2023.AiAMCSUCL/">Anisotropy in Additively Manufactured Concrete Specimens Under Compressive Loading:<br/>Quantification of the Effects of Layer-Height and Fiber-Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sure_trip_nimb_neit.2023.ACTi3PCaIDoLHaIT,
+      author            = "Sahil Surehali and Avinaya Tripathi and Atharwa Samir Nimbalkar and Narayanan Neithalath",
+      title             = "Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types",
+      doi               = "10.1016/j.addma.2023.103405",
+      year              = "2023",
+      journal           = "Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Surehali, A. Tripathi, A. S. Nimbalkar and N. Neithalath, “Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types”, <i>Additive Manufacturing</i>, 2023, doi: 10.1016/j.addma.2023.103405.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Surehali, Sahil, Avinaya Tripathi, Atharwa Samir Nimbalkar, and Narayanan Neithalath. “Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types”. <i>Additive Manufacturing</i>, 2023. https://doi.org/10.1016/j.addma.2023.103405.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

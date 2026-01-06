@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Motalebi Arash, Aba Mohammad, Kabir Golam
+    - footer
+title: Arash Motalebi, Mohammad Aba, Golam Kabir
 description:
 tags:
  - area
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2025.111968) Assessing the Environmental Impact of Building Houses in Remote Areas:<br/>:aca-blank: 3D Printing vs. Traditional Construction Techniques ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.jobe.2025.111968" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.111968</a>
+#Assessing the Environmental Impact of Building Houses in Remote Areas&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">3D Printing vs. Traditional Construction Techniques</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.111968) <a href="https://doi.org/10.1016/j.jobe.2025.111968" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.111968" target="_blank">10.1016/j.jobe.2025.111968</a>
 
--------------------------
+<a href="../../../author/arash_motalebi"><b>Arash</b>&nbsp;Motalebi</a></span>, <a href="../../../author/mohammad_hasan-khondoker_aba"><b>Mohammad</b>&nbsp;Aba</a></span>, <a href="../../../author/golam_kabir"><b>Golam</b>&nbsp;Kabir</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111968
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/arash_motalebi"><b>Arash</b> Motalebi</a>
-,     <a href="../../../author/mohammad_hasan-khondoker_aba"><b>Mohammad</b> Aba</a>
-,     <a href="../../../author/golam_kabir"><b>Golam</b> Kabir</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111968
-
-:aca-blank:{ .lg .middle}
-    [`#area`](keyword/area)
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#environment`](keyword/environment)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-    [`#remote`](keyword/remote)
-    [`#technique`](keyword/technique)
-    [`#tradition`](keyword/tradition)
-
-
--------------------------
+<a href="../../keyword/area"><button class="btn">#area</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/remote"><button class="btn">#remote</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/tradition"><button class="btn">#tradition</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessing%20the%20Environmental%20Impact%20of%20Building%20Houses%20in%20Remote%20Areas" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216927660&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407051340" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.111968" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.111968?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The building sector holds a pivotal position in influencing our artificial landscape, emphasizing the pressing need to embrace green and inventive approaches, equipment, and instruments to mitigate its ecological impacts. In this study, a comprehensive evaluation of environmental burdens associated with construction methods in the remote area of Attawapiskat, a First Nation community located in northern Ontario, Canada, is carried out. The study includes a detailed comparison of the sustainability between 3D printing technology and conventional construction approaches. Six distinct scenarios for comparing 3D printing technology and conventional construction in Attawapiskat were identified. Subsequently, a cradle-to-gate life cycle analysis (LCA) was conducted for each scenario, facilitated by SimaPro software. The environmental impact across various categories was then compared. Ultimately, sensitivity analyses were employed to interpret the results, assessing the influence of variations on our findings. Our study highlights a substantial environmental improvement when using Geo-polymer concrete in 3D printing in construction compared to conventional methods. To boost 3D printing's eco-friendliness further, we advocate local material sourcing to cut transportation emissions and reduce the carbon footprint, ultimately advancing sustainability in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
@@ -89,8 +67,37 @@ tags:
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aras_moha_gola.2025.AtEIoBHiRA,
+      author            = "Motalebi Arash and Aba Hasan Khondoker Mohammad and Kabir Golam",
+      title             = "Assessing the Environmental Impact of Building Houses in Remote Areas: 3D Printing vs. Traditional Construction Techniques",
+      doi               = "10.1016/j.jobe.2025.111968",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "111968",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Arash, A. H. K. Mohammad and K. Golam, “Assessing the Environmental Impact of Building Houses in Remote Areas: 3D Printing vs. Traditional Construction Techniques”, <i>Journal of Building Engineering</i>, p. 111968, 2025, doi: 10.1016/j.jobe.2025.111968.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Arash, Motalebi, Aba Hasan Khondoker Mohammad, and Kabir Golam. “Assessing the Environmental Impact of Building Houses in Remote Areas: 3D Printing Vs. Traditional Construction Techniques”. <i>Journal of Building Engineering</i>, 2025, 111968. https://doi.org/10.1016/j.jobe.2025.111968.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

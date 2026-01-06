@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammed Alnaggar
+    - footer
+title: Alnaggar Mohammed
 description:
 tags:
  - additive
@@ -15,28 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Large Format Additive Manufacturing with Cementitious and Geo Materials:<br/>:aca-blank: General Considerations, Drivers, and Context ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1002/9783527844807.ch9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/9783527844807.ch9</a>
+#Large Format Additive Manufacturing with Cementitious and Geo Materials&nbsp;([2025-12](date/2025/12))
+<div class="h1-like">General Considerations, Drivers, and Context</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9783527844807.ch9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9783527844807.ch9" target="_blank">10.1002/9783527844807.ch9</a>
 
--------------------------
+<a href="../../../author/alnaggar_mohammed"><b>Alnaggar</b>&nbsp;Mohammed</a></span><br>
+Contribution - Large Format Additive Manufacturing, pp. 227-244
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alnaggar_mohammed"><b>Alnaggar</b> Mohammed</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Large Format Additive Manufacturing, pp. 227-244
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#cement`](keyword/cement)
-    [`#format`](keyword/format)
-    [`#general`](keyword/general)
-    [`#large`](keyword/large)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/format"><button class="btn">#format</button></a> <a href="../../keyword/general"><button class="btn">#general</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large%20Format%20Additive%20Manufacturing%20with%20Cementitious%20and%20Geo%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417060549" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/9783527844807.ch9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/9783527844807.ch9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is one of the largest industries in the world by size, investment, labor, material use, and energy consumption. As a result, it has been lagging behind in terms of automation as compared to many other industries which have evolved more rapidly over the past decades. In spite of various attempts to introduce automation, the industry remains labor intensive. In this chapter, we explore the promises, successes and challenges that Large Format Additive Manufacturing (LFAM) brings in the field of construction as it applies to cementitious and geo materials. Cementitious materials are any composites that are cemented (glued) together using a binder. However, the word “cementitious” has been considered to relate to hydraulic cements that are mainly made of Portland cement and supplementary cementitious materials (SCMs) like fly ash, silica fume, and others. Therefore, the term “geo” here refers to earth materials used as is like clays. The section discusses the needs for construction LFAM, the components of a construction LFAM system, and the steps necessary to build a structure using construction LFAM technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../jaya_sanj_raje.2019.DSTftAoRPoCf3PA/">Direct-Shear-Test for the Assessment of Rheological Parameters of Concrete for 3D Printing Applications</a></li>
@@ -80,7 +63,36 @@ tags:
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../yang_li_che.2020.3PCMCNC/">3D Printing Cementitious Materials Containing Nano-CaCO3:<br/>Workability, Strength, and Microstructure</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{alna.2026.LFAMwCaGM,
+      author            = "Mohammed Alnaggar",
+      title             = "Large Format Additive Manufacturing with Cementitious and Geo Materials: General Considerations, Drivers, and Context",
+      doi               = "10.1002/9783527844807.ch9",
+      year              = "2026",
+      pages             = "227--244",
+      booktitle         = "Large Format Additive Manufacturing: Polymers, Metals, and Ceramics",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Alnaggar, “Large Format Additive Manufacturing with Cementitious and Geo Materials: General Considerations, Drivers, and Context”, in <i>Large Format Additive Manufacturing: Polymers, Metals, and Ceramics</i>,  2026, pp. 227–244. doi: 10.1002/9783527844807.ch9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alnaggar, Mohammed. “Large Format Additive Manufacturing with Cementitious and Geo Materials: General Considerations, Drivers, and Context”. In <i>Large Format Additive Manufacturing: Polymers, Metals, and Ceramics</i>, 227–44, 2026. https://doi.org/10.1002/9783527844807.ch9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

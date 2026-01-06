@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Samira Bayatkashkooli, Anita Amirsardari, Pathmanathan Rajeev, Jay Sanjayan, Javad Hashemi
+    - footer
+title: Bayatkashkooli Samira, Amirsardari Anita, Rajeev Pathmanathan, Sanjayan Jay, Hashemi Javad
 description:
 tags:
  - axis
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation of Axial Load Capacity of 3D Printed Concrete Wall ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1061/jsendh.steng-12148" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jsendh.steng-12148</a>
+#Investigation of Axial Load Capacity of 3D Printed Concrete Wall ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jsendh.steng-12148" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsendh.steng-12148" target="_blank">10.1061/jsendh.steng-12148</a>
 
--------------------------
+<a href="../../../author/bayatkashkooli_samira"><b>Bayatkashkooli</b>&nbsp;Samira</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1206-770X" title="ORCID: 0000-0002-1206-770X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amirsardari_anita"><b>Amirsardari</b>&nbsp;Anita</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <a href="../../../author/hashemi_javad"><b>Hashemi</b>&nbsp;Javad</a></span><br>
+Journal Article - Journal of Structural Engineering, Vol. 150, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bayatkashkooli_samira"><b>Bayatkashkooli</b> Samira</a>
-,     <a href="../../../author/amirsardari_anita"><b>Amirsardari</b> Anita</a> <a href="https://orcid.org/0000-0002-1206-770X" title="ORCID: 0000-0002-1206-770X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hashemi_javad"><b>Hashemi</b> Javad</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Structural Engineering, Vol. 150, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#capacity`](keyword/capacity)
-    [`#concrete`](keyword/concrete)
-    [`#investigation`](keyword/investigation)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Axial%20Load%20Capacity%20of%203D%20Printed%20Concrete%20Wall" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193593030&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396952209" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jsendh.steng-12148" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jsendh.steng-12148?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) concrete printing is increasingly becoming popular because it provides a powerful platform for the fabrication of structural components in freeform architectural shapes. Although manufacturing technology and material property improvement are advancing rapidly, the development of methods to predict the structural capacity of printed elements is lagging. This paper presents an experimental and numerical investigation to predict the axial load capacity of a printed concrete wall module. The module geometry contains two parallel thin wall sections connected by an internal sine wave. The thin wall section reduces the concrete consumption, and the internal sine wave provides lateral stability during printing and in the hardened state. It is a popular pattern printed by many researchers and in some real constructions. Two wall module specimens with the prescribed geometry were 3D-printed and tested under compression. The maximum loads of 2,890 and 2,924 kN were obtained for the first and second wall specimens, respectively. Additionally, samples were taken from different locations of a printed prototype to identify printed material characteristics. These experimental characteristics were then introduced to a finite-element numerical model for predicting the structural performance of the printed wall module under compression load. The results showed that the experimental maximum load and stiffness have 1% and 5% differences with numerical outputs, respectively. Based on such a validated model, the failure modes are discussed, and an analytical method is proposed for predicting the axial capacity for the prescribed geometry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -100,10 +78,40 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/apsari_auliagitta"><b>Apsari</b> Auliagitta</a>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a>, <a href="../../../author/suprobo_priyo"><b>Suprobo</b> Priyo</a>, <a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../apsa_tamb_supr_sury.2025.IoPSaNSoBo3PCW/">Influence of Printing Speed and Nozzle Size on Buildability of 3D Printed Concrete Walls:<br/>A Nonlinear Finite Element Study</a></li>
       <li><a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a>, <a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sana_lito.2025.LBCot3PCSBoaSAaLTiS11/">Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1</a></li>
       <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{baya_amir_raje_sanj.2024.IoALCo3PCW,
+      author            = "Samira Bayatkashkooli and Anita Amirsardari and Pathmanathan Rajeev and Jay Gnananandan Sanjayan and Javad Hashemi",
+      title             = "Investigation of Axial Load Capacity of 3D Printed Concrete Wall",
+      doi               = "10.1061/jsendh.steng-12148",
+      year              = "2024",
+      journal           = "Journal of Structural Engineering",
+      volume            = "150",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Bayatkashkooli, A. Amirsardari, P. Rajeev, J. G. Sanjayan and J. Hashemi, “Investigation of Axial Load Capacity of 3D Printed Concrete Wall”, <i>Journal of Structural Engineering</i>, vol. 150, no. 8, 2024, doi: 10.1061/jsendh.steng-12148.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bayatkashkooli, Samira, Anita Amirsardari, Pathmanathan Rajeev, Jay Gnananandan Sanjayan, and Javad Hashemi. “Investigation of Axial Load Capacity of 3D Printed Concrete Wall”. <i>Journal of Structural Engineering</i> 150, no. 8 (2024). https://doi.org/10.1061/jsendh.steng-12148.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

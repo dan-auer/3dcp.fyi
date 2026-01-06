@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arslan Yousaf, Ans Rashid, Muammer Koç
+    - footer
+title: Yousaf Arslan, Rashid Ans, Koç Muammer
 description:
 tags:
  - clay
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jer.2024.05.027) Parameter-Tuning for Sustainable 3D Printing of Clay Structures ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.jer.2024.05.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jer.2024.05.027</a>
+#Parameter-Tuning for Sustainable 3D Printing of Clay Structures ([2024-05](date/2024/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jer.2024.05.027) <a href="https://doi.org/10.1016/j.jer.2024.05.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jer.2024.05.027" target="_blank">10.1016/j.jer.2024.05.027</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6814-695X" title="ORCID: 0000-0002-6814-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yousaf_arslan"><b>Yousaf</b>&nbsp;Arslan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rashid_ans"><b>al&nbsp;Rashid</b>&nbsp;Ans</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
+Journal Article - Journal of Engineering Research
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a> <a href="https://orcid.org/0000-0002-6814-695X" title="ORCID: 0000-0002-6814-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rashid_ans"><b>al Rashid</b> Ans</a> <a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Engineering Research, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#sustainability`](keyword/sustainability)
-    [`#tuning`](keyword/tuning)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tuning"><button class="btn">#tuning</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Parameter-Tuning%20for%20Sustainable%203D%20Printing%20of%20Clay%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195057992&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399267907" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jer.2024.05.027" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jer.2024.05.027?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to high carbon emissions, traditional construction methods are often costly, resource-intensive, and environmentally harmful. This study investigates the potential of additive manufacturing (AM) or 3D printing (3DP) using earthen clay as a sustainable alternative for building structures. Despite its promising benefits, challenges such as water/clay ratio, nozzle clogging, and temperature variations hinder widespread adoption. Employing the design of experiment (DOE) approach, this research systematically optimizes 3DP parameters, including nozzle diameter, layer height, infill percentage, and printing speed, using commercial earthen clay. Chemical compositions are analyzed using X-ray photoelectron spectroscopy (XPS) and energy-dispersive spectroscopy (EDS). Quantitative analysis compares measured dimensions of 3DP structures to assess dimensional accuracy, while buildability assessments explore structural integrity. Results indicate that lower layer heights generally enhance dimensional accuracy, with larger nozzle diameters enabling faster printing speeds. ANOVA analysis reveals significant relationships between printing parameters and dimensional outcomes, emphasizing the importance of 3DP process parameters selection. Optimal printing parameters lead to high-quality prints, although with limitations in scalability. This research contributes valuable insights for stakeholders seeking sustainable 3DP practices in construction, paving the way for more environmentally friendly and cost-effective building solutions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
       <li><a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/rybkowski_k_zofia"><b>Rybkowski</b> Zofia</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../fara_rybk_zaki_kala.2022.IoR3PPPoILBS/">Impact of Robotic 3D Printing Process Parameters on Inter-Layer Bond Strength</a></li>
       <li><a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../imra_rash_khan_ilca.2023.BAoSPSi3CP/">Buildability-Analysis on Squared Profile Structure in 3D Concrete Printing</a></li>
@@ -76,8 +57,36 @@ tags:
       <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a></li>
       <li><a href="../../../author/yin_xunzhi"><b>Yin</b> Xunzhi</a>, <a href="../../../author/guo_chong"><b>Guo</b> Chong</a>, <a href="../../../author/sun_bo"><b>Sun</b> Bo</a>, <a href="../../../author/chen_honggang"><b>Chen</b> Honggang</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_guo_sun_chen.2023.TSotAiDCoCB/">The State of the Art in Digital Construction of Clay Buildings:<br/>Reviews of Existing Practices and Recommendations for Future Development</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yous_rash_koc.2025.AMfVAULESaBWM/">Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yous_rash_koc.2024.PTfS3PoCS,
+      author            = "Arslan Yousaf and Ans Al Rashid and Muammer Koç",
+      title             = "Parameter-Tuning for Sustainable 3D Printing of Clay Structures",
+      doi               = "10.1016/j.jer.2024.05.027",
+      year              = "2024",
+      journal           = "Journal of Engineering Research",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Yousaf, A. A. Rashid and M. Koç, “Parameter-Tuning for Sustainable 3D Printing of Clay Structures”, <i>Journal of Engineering Research</i>, 2024, doi: 10.1016/j.jer.2024.05.027.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yousaf, Arslan, Ans Al Rashid, and Muammer Koç. “Parameter-Tuning for Sustainable 3D Printing of Clay Structures”. <i>Journal of Engineering Research</i>, 2024. https://doi.org/10.1016/j.jer.2024.05.027.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

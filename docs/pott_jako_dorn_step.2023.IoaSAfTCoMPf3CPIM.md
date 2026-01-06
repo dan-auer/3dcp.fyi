@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ursula Pott, Cordula Jakob, Tobias Dorn, Dietmar Stephan
+    - footer
+title: Pott Ursula, Jakob Cordula, Dorn Tobias, Stephan Dietmar
 description:
 tags:
  - accelerator
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation of a Shotcrete-Accelerator for Targeted Control of Material-Properties for 3D Concrete Printing Injection-Method ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.cemconres.2023.107264" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2023.107264</a>
+#Investigation of a Shotcrete-Accelerator for Targeted Control of Material-Properties for 3D Concrete Printing Injection-Method ([2023-07](date/2023/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2023.107264" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2023.107264" target="_blank">10.1016/j.cemconres.2023.107264</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pott_ursula"><b>Pott</b>&nbsp;Ursula</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8573-1501" title="ORCID: 0000-0002-8573-1501" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jakob_cordula"><b>Jakob</b>&nbsp;Cordula</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorn_tobias"><b>Dorn</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 173, No. 107264
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> <a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a> <a href="https://orcid.org/0000-0002-8573-1501" title="ORCID: 0000-0002-8573-1501" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a> <a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 173, No. 107264
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#injection`](keyword/injection)
-    [`#investigation`](keyword/investigation)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#shotcrete`](keyword/shotcrete)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/injection"><button class="btn">#injection</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20a%20Shotcrete-Accelerator%20for%20Targeted%20Control%20of%20Material-Properties%20for%203D%20Concrete%20Printing%20Injection-Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165213875&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4384575971" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2023.107264" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2023.107264?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The efficiency of 3D concrete printing significantly depends on the mortar performance, which can be improved and controlled by adding a shotcrete accelerator. This targeted control is implemented by adding a small accelerator dose to an injection nozzle before extrusion. In this article, a study is conducted on the suitability of the material for this application. For this purpose, a shotcrete accelerated printable mortar is investigated. Comparing physical and physicochemical results leads to an in-depth understanding of the chemical processes and their effects on physical behaviour, which enables a positive assessment of the accelerator for 3D concrete printing injection method.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bohl_mai_freu_lach.2022.IoMaPPoHSPoS3PE/">Influence of Material and Process Parameters on Hardened State Properties of Shotcrete 3D Printed Elements</a></li>
       <li><a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/hirsch_tamino"><b>Hirsch</b> Tamino</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorn_hirs_step.2019.SotIoAotHoPCaTAi3P/">Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing</a></li>
@@ -93,8 +69,8 @@ tags:
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../tao_lesa_titt_yuan.2022.ULPaaCftAiEB3CP/">Using Limestone-Powder as a Carrier for the Accelerator in Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sand_step.2025.OMf3PG/">Online Monitoring for 3D Printable Geopolymers:<br/>Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sand_step.2025.TRoMSiSt3PoG/">The Role of Mixing Sequence in Shaping the 3D-Printability of Geopolymers</a></li>
@@ -107,4 +83,34 @@ tags:
       <li><a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/rudolph_viola_jennifer"><b>Rudolph</b> Jennifer</a>, <a href="../../../author/wolf_julian"><b>Wolf</b> Julian</a>, <a href="../../../author/neubauer_jurgen"><b>Neubauer</b> Jürgen</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../jako_rudo_wolf_neub.2024.HoaTCCOMToCBSoD/">Hydration of a Two-Component CSA-OPC-Mix-Timing of Component Blending & Setting-on-Demand</a></li>
       <li><a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../alha.2024.TDCPaaCASaAfaCSB/">Three-Dimensional Concrete Printing as a Construction-Automation-Strategy and Assessments from a Case Study Building</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pott_jako_dorn_step.2023.IoaSAfTCoMPf3CPIM,
+      author            = "Ursula Pott and Cordula Jakob and Tobias Dorn and Dietmar Stephan",
+      title             = "Investigation of a Shotcrete-Accelerator for Targeted Control of Material-Properties for 3D Concrete Printing Injection-Method",
+      doi               = "10.1016/j.cemconres.2023.107264",
+      year              = "2023",
+      journal           = "Cement and Concrete Research",
+      volume            = "173",
+      pages             = "107264",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. Pott, C. Jakob, T. Dorn and D. Stephan, “Investigation of a Shotcrete-Accelerator for Targeted Control of Material-Properties for 3D Concrete Printing Injection-Method”, <i>Cement and Concrete Research</i>, vol. 173, p. 107264, 2023, doi: 10.1016/j.cemconres.2023.107264.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pott, Ursula, Cordula Jakob, Tobias Dorn, and Dietmar Stephan. “Investigation of a Shotcrete-Accelerator for Targeted Control of Material-Properties for 3D Concrete Printing Injection-Method”. <i>Cement and Concrete Research</i> 173 (2023): 107264. https://doi.org/10.1016/j.cemconres.2023.107264.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

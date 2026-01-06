@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,6 +9,6 @@ search:
 
 #  Huang Chen 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/huang_chen"><b>Huang</b> Chen</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../ma_huan_zhan.2023.IDIaRSAoa3PTwMLCMUPT/">Inner Damage-Identification and Residual Strength-Assessment of a 3D Printed Tunnel with Marble-Like Cementitious Materials Using Piezoelectric Transducers</a></li>
 </ol>

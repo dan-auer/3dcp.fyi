@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Virginia Fratello, Ronald Rael
+    - footer
+title: Fratello Virginia, Rael Ronald
 description:
 tags:
  - additive
@@ -17,31 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Innovating Materials for Large-Scale Additive Manufacturing:<br/>:aca-blank: Salt, Soil, Cement and Chardonnay ([2020-05](date/2020/05))
-<a href="https://doi.org/10.1016/j.cemconres.2020.106097" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2020.106097</a>
+#Innovating Materials for Large-Scale Additive Manufacturing&nbsp;([2020-05](date/2020/05))
+<div class="h1-like">Salt, Soil, Cement and Chardonnay</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2020.106097" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2020.106097" target="_blank">10.1016/j.cemconres.2020.106097</a>
 
--------------------------
+<a href="../../../author/fratello_virginia"><b>san&nbsp;Fratello</b>&nbsp;Virginia</a></span>, <a href="../../../author/rael_ronald"><b>Rael</b>&nbsp;Ronald</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 134
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fratello_virginia"><b>san Fratello</b> Virginia</a>
-,     <a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 134, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#cement`](keyword/cement)
-    [`#innovation`](keyword/innovation)
-    [`#large`](keyword/large)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#salt`](keyword/salt)
-    [`#scale`](keyword/scale)
-    [`#soil`](keyword/soil)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/salt"><button class="btn">#salt</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Innovating%20Materials%20for%20Large-Scale%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085473433&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,24 +40,21 @@ tags:
 <a href="https://inciteful.xyz/p/W3032355011" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2020.106097" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2020.106097?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper documents four case studies: the Saltygloo, MUD Frontiers, Bloom and the Cabin of 3D Printed Curiosities, that use novel 3D printed materials including salt, soil, cement, and chardonnay in the construction of built proto-architectures. Each of these materials starts as powder or ends as dust, is ubiquitous and plentiful, but must be transformed for 3D printing. The case studies also come from a place of design activism and contemporary concerns, they draw from the past to inform the future, and each project is seen as an opportunity to bring about change by making additive manufacturing more accessible, less expensive, more ecological and sustainable.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/sandy_timothy"><b>Sandy</b> Timothy</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorf_hack_sand_gift.2019.MRFBFC/">Mobile Robotic Fabrication Beyond Factory Conditions:<br/>Case Study Mesh Mould Wall of the DFAB HOUSE</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_mai_broh_gant.2020.I3CPI/">Injection 3D Concrete Printing (I3DCP):<br/>Basic Principles and Case Studies</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../rael_frat.2017.CB/">Clay Bodies:<br/>Crafting the Future with 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/sameh_hazem"><b>Sameh</b> Hazem</a>, <a href="../../../author/fekry_mayar"><b>Fekry</b> Mayar</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mahd_same_fekr.2025.SSo3PECD/">Structural Stability of 3D-Printed Earthen Catenary Domes:<br/>Experimental and Analytical Insights</a></li>
       <li><a href="../../../author/shen_jianyu"><b>Shen</b> Jianyu</a>, <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_shuisheng"><b>Li</b> Shuisheng</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../shen_ye_xiao_li.2025.MaTPo3PECSbG/">Mechanical and Thermal Properties of 3D Printed Earth Concrete Solidified by Geopolymers:<br/>A Study of Utilizing Excavated Clay</a></li>
@@ -95,4 +76,33 @@ tags:
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jacq_perr_pica.2021.AoARBoCMf3PA/">Assessment of Asymmetrical Rheological Behavior of Cementitious Material for 3D Printing Application</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../bos_wolf_sale.2020.CDC2S/">CCR Digital Concrete 2020 SI:<br/>Editorial</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{frat_rael.2020.IMfLSAM,
+      author            = "Virginia san Fratello and Ronald Rael",
+      title             = "Innovating Materials for Large-Scale Additive Manufacturing: Salt, Soil, Cement and Chardonnay",
+      doi               = "10.1016/j.cemconres.2020.106097",
+      year              = "2020",
+      journal           = "Cement and Concrete Research",
+      volume            = "134",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. san Fratello  and R. Rael, “Innovating Materials for Large-Scale Additive Manufacturing: Salt, Soil, Cement and Chardonnay”, <i>Cement and Concrete Research</i>, vol. 134, 2020, doi: 10.1016/j.cemconres.2020.106097.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fratello, Virginia san, and Ronald Rael. “Innovating Materials for Large-Scale Additive Manufacturing: Salt, Soil, Cement and Chardonnay”. <i>Cement and Concrete Research</i> 134 (2020). https://doi.org/10.1016/j.cemconres.2020.106097.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

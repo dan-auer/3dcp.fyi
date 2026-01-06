@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Galina Slavcheva, Olga Artamonova, Кristina Kotova, Mariia Shvedova, Pavel Yurov
+    - footer
+title: Slavcheva Galina, Artamonova Olga, Kotova Кristina, Shvedova Mariia, Yurov Pavel
 description:
 tags:
  - behavior
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Pull-Out Behavior of Steel- and Carbon-Fibers in 3D Printable Cement Matrices of Various Compositions ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.134784" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.134784</a>
+#Pull-Out Behavior of Steel- and Carbon-Fibers in 3D Printable Cement Matrices of Various Compositions ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.134784" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134784" target="_blank">10.1016/j.conbuildmat.2023.134784</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8800-2657" title="ORCID: 0000-0001-8800-2657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b>&nbsp;Galina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9157-527X" title="ORCID: 0000-0001-9157-527X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b>&nbsp;Olga</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0032-7989" title="ORCID: 0000-0003-0032-7989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kotova_s_kristina"><b>Kotova</b>&nbsp;Кristina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6484-8719" title="ORCID: 0000-0002-6484-8719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shvedova_a_mariia"><b>Shvedova</b>&nbsp;Mariia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3899-7964" title="ORCID: 0000-0002-3899-7964" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yurov_yu_pavel"><b>Yurov</b>&nbsp;Pavel</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 411, No. 134784
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a> <a href="https://orcid.org/0000-0001-8800-2657" title="ORCID: 0000-0001-8800-2657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a> <a href="https://orcid.org/0000-0001-9157-527X" title="ORCID: 0000-0001-9157-527X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kotova_s_kristina"><b>Kotova</b> Кristina</a> <a href="https://orcid.org/0000-0003-0032-7989" title="ORCID: 0000-0003-0032-7989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shvedova_a_mariia"><b>Shvedova</b> Mariia</a> <a href="https://orcid.org/0000-0002-6484-8719" title="ORCID: 0000-0002-6484-8719" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yurov_yu_pavel"><b>Yurov</b> Pavel</a> <a href="https://orcid.org/0000-0002-3899-7964" title="ORCID: 0000-0002-3899-7964" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 411, No. 134784
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fiber`](keyword/fiber)
-    [`#matrix`](keyword/matrix)
-    [`#printability`](keyword/printability)
-    [`#steel`](keyword/steel)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pull-Out%20Behavior%20of%20Steel-%20and%20Carbon-Fibers%20in%203D%20Printable%20Cement%20Matrices%20of%20Various%20Compositions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183424872&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390468542" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.134784" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.134784?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this study was to investigate some of the factors which affect the fiber–matrix pull-out behaviour and bond strength. 3D-printable cement mixtures with various compositions were used as matrices. The effect of parameters such as type of fiber (steel or carbon), kind of aggregates (sand or limestone powder), and kind of modifier additives (metakaolin or complex nano-sized additive based on SiO2 (CNA)) on fiber–matrix pull-out behaviour were determined. The results demonstrated that the bond strength of a fiber-matrix mainly depends on the fiber type. The bond strength of a “steel wire matrix” was 2–4 times higher than the bond strength of a “carbon fiber matrix”. The fiber–matrix bond strength increased as the conditions for the wetting of a fiber’s surface improved, especially for carbon fiber. Microstructural investigation revealed that the congestion of hydration products in a fiber–matrix interface significantly improved the pull-out behaviour. The use of sand as an aggregate for a cement matrix enhanced the bond strength by 10–15% in “steel wire matrix” systems. The introduction of metakaolin and CNA into a cement matrix increased the bond strength by 15–20% for sand-based and powder-based cement matrices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../bai_wang_wang_ma.2021.IPRM/">In-Process Reinforcing Method:<br/>Dual 3D Printing Procedure for Ultra-High-Performance Concrete Reinforced Cementitious Composites</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
@@ -90,8 +66,38 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM/">Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>A First Feasibility Study</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{slav_arta_koto_shve.2024.POBoSaCFi3PCMoVC,
+      author            = "Galina Stanislavovna Slavcheva and Olga Vladimirovna Artamonova and Кristina S. Kotova and Mariia A. Shvedova and Pavel Yu Yurov",
+      title             = "Pull-Out Behavior of Steel- and Carbon-Fibers in 3D Printable Cement Matrices of Various Compositions",
+      doi               = "10.1016/j.conbuildmat.2023.134784",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "411",
+      pages             = "134784",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. S. Slavcheva, O. V. Artamonova, К. S. Kotova, M. A. Shvedova and P. Y. Yurov, “Pull-Out Behavior of Steel- and Carbon-Fibers in 3D Printable Cement Matrices of Various Compositions”, <i>Construction and Building Materials</i>, vol. 411, p. 134784, 2024, doi: 10.1016/j.conbuildmat.2023.134784.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Slavcheva, Galina Stanislavovna, Olga Vladimirovna Artamonova, Кristina S. Kotova, Mariia A. Shvedova, and Pavel Yu Yurov. “Pull-Out Behavior of Steel- and Carbon-Fibers in 3D Printable Cement Matrices of Various Compositions”. <i>Construction and Building Materials</i> 411 (2024): 134784. https://doi.org/10.1016/j.conbuildmat.2023.134784.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

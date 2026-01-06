@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Risul Rasel, Md Hossain, Md Zubayer, Chaoqun Zhang
+    - footer
+title: Rasel Risul, Hossain Md, Zubayer Md, Zhang Chaoqun
 description:
 tags:
  - approach
@@ -21,37 +22,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1088/2053-1591/ad9890) Exploring the Fresh and Rheology Properties of 3D Printed Concrete with Fiber-Reinforced Composites:<br/>:aca-blank: A Novel Approach Using Machine Learning Techniques ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1088/2053-1591/ad9890" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/2053-1591/ad9890</a>
+#Exploring the Fresh and Rheology Properties of 3D Printed Concrete with Fiber-Reinforced Composites&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">A Novel Approach Using Machine Learning Techniques</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/2053-1591/ad9890) <a href="https://doi.org/10.1088/2053-1591/ad9890" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/2053-1591/ad9890" target="_blank">10.1088/2053-1591/ad9890</a>
 
--------------------------
+<a href="../../../author/rasel_islam_risul"><b>Rasel</b>&nbsp;Risul</a></span>, <a href="../../../author/hossain_minaz_md"><b>Hossain</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-4456-3647" title="ORCID: 0009-0000-4456-3647" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zubayer_hasib_md"><b>Zubayer</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8141-1888" title="ORCID: 0000-0001-8141-1888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chaoqun"><b>Zhang</b>&nbsp;Chaoqun</a></span><br>
+Journal Article - Materials Research Express
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rasel_islam_risul"><b>Rasel</b> Risul</a>
-,     <a href="../../../author/hossain_minaz_md"><b>Hossain</b> Md</a>
-,     <a href="../../../author/zubayer_hasib_md"><b>Zubayer</b> Md</a> <a href="https://orcid.org/0009-0000-4456-3647" title="ORCID: 0009-0000-4456-3647" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_chaoqun"><b>Zhang</b> Chaoqun</a> <a href="https://orcid.org/0000-0001-8141-1888" title="ORCID: 0000-0001-8141-1888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Research Express, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#exploration`](keyword/exploration)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20the%20Fresh%20and%20Rheology%20Properties%20of%203D%20Printed%20Concrete%20with%20Fiber-Reinforced%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212088746&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404797744" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/2053-1591/ad9890" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/2053-1591/ad9890?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study focuses on the prediction models for four parameters related to the fresh and rheological properties of 3DP-FRC: spreading diameters (SPD), dynamic yield stress (DYs), static yield stress (SYs) and plastic viscosity (PV), respectively. Five machine learning (ML) algorithms were employed, namely artificial neural network (ANN), random forest (RF), decision tree (DT), categorical boosting (CatBoost), and extreme gradient boosting (XGBoost). An extensive dataset was compiled include of 373 (SPD) and 219 (SYs, DYs, PV) from various literature comprising experimental results. Fifteen input parameters were identified as the most influential factors affecting the fresh and rheological properties. These parameters include OPC, W/B, W/S, FA, LP, SF, SP, VMA, W, hf, Ri, AR, tsf, Ft, and Stime/Rtime. This study found strong correlations between the developed ML models and the experimental outcomes from both the training and testing datasets. The models demonstrated exceptional accuracy and provided precise predictions for SPD, SYs, DYs, and PV. The correlation coefficients (R2) ranged from 0.94 to 0.99 for SPD, 0.93 to 0.99 for SYs, 0.98 to 0.99 for DYs, and 0.98 to 1.00 for PV, with consistent results observed across both the training and testing datasets. Moreover, the models' precision was assessed using different error metrics, including root mean square error (RMSE), mean square error (MSE), coefficient of variation in root-mean-square error (CVRMSE), and mean absolute error (MAE). Sensitivity analysis was performed to identify their impact. Additionally, fiber depended analysis was conducted to assess the effectiveness of different fiber types on the fresh and rheological properties (SPD, SYs, DYs, and PV). In conclusion, the ML models were effectively trained and optimized, resulting in accurate and highly predictive capabilities for the parameters of interest.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a></li>
@@ -99,10 +73,38 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/liu_shijie"><b>Liu</b> Shijie</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b> Muwaffaq</a>, <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b> Ahmed</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_liu_alqu_abdo.2025.A3PFRCfSC/">Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction:<br/>A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rase_hoss_zuba_zhan.2024.EtFaRPo3PCwFRC,
+      author            = "Risul Islam Rasel and Md Minaz Hossain and Md Hasib Zubayer and Chaoqun Zhang",
+      title             = "Exploring the Fresh and Rheology Properties of 3D Printed Concrete with Fiber-Reinforced Composites: A Novel Approach Using Machine Learning Techniques",
+      doi               = "10.1088/2053-1591/ad9890",
+      year              = "2024",
+      journal           = "Materials Research Express",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. I. Rasel, M. M. Hossain, M. H. Zubayer and C. Zhang, “Exploring the Fresh and Rheology Properties of 3D Printed Concrete with Fiber-Reinforced Composites: A Novel Approach Using Machine Learning Techniques”, <i>Materials Research Express</i>, 2024, doi: 10.1088/2053-1591/ad9890.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rasel, Risul Islam, Md Minaz Hossain, Md Hasib Zubayer, and Chaoqun Zhang. “Exploring the Fresh and Rheology Properties of 3D Printed Concrete with Fiber-Reinforced Composites: A Novel Approach Using Machine Learning Techniques”. <i>Materials Research Express</i>, 2024. https://doi.org/10.1088/2053-1591/ad9890.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

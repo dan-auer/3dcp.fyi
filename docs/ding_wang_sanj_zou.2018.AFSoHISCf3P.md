@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhu Ding, Xiaodong Wang, Jay Sanjayan, Patrick Zou, Zhi-Kun Ding
+    - footer
+title: Ding Zhu, Wang Xiaodong, Sanjayan Jay, Zou Patrick, Ding Zhi-Kun
 description:
 tags:
  - cement
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/11/12/2415/pdf?version=1543484386) A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing ([2018-11](date/2018/11))
-<a href="https://doi.org/10.3390/ma11122415" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma11122415</a>
+#A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing ([2018-11](date/2018/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/11/12/2415/pdf?version=1543484386) <a href="https://doi.org/10.3390/ma11122415" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma11122415" target="_blank">10.3390/ma11122415</a>
 
--------------------------
+<a href="../../../author/ding_zhu"><b>Ding</b>&nbsp;Zhu</a></span>, <a href="../../../author/wang_xiaodong"><b>Wang</b>&nbsp;Xiaodong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8166-0451" title="ORCID: 0000-0002-8166-0451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_x-w_patrick"><b>Zou</b>&nbsp;Patrick</a></span>, <a href="../../../author/ding_zhi-kun"><b>Ding</b>&nbsp;Zhi-Kun</a></span><br>
+Journal Article - Materials, Vol. 11, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_zhu"><b>Ding</b> Zhu</a>
-,     <a href="../../../author/wang_xiaodong"><b>Wang</b> Xiaodong</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zou_x-w_patrick"><b>Zou</b> Patrick</a> <a href="https://orcid.org/0000-0002-8166-0451" title="ORCID: 0000-0002-8166-0451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_zhi-kun"><b>Ding</b> Zhi-Kun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 11, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#feasibility`](keyword/feasibility)
-    [`#improvement`](keyword/improvement)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Feasibility%20Study%20on%20HPMC-Improved%20Sulphoaluminate%20Cement%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85057534436&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2903457652" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma11122415" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma11122415?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A novel 3D printing material based on hydroxypropyl methylcellulose (HPMC)-improved sulphoaluminate cement (SAC) for rapid 3D construction printing application is reported. The hydration heat, setting time, fluidity of paste and mortar, shape retainability, and compressive strength of extruded SAC mortar were investigated. HPMC dosage, water-to-cement (W/C) ratio, and sand-to-cement (S/C) ratio were studied as the experimental parameters. Hydration heat results reveal HPMC could delay the hydration of SAC. The initial and final setting time measured using Vicat needle would be shortened in the case of W/C ratio of 0.3 and 0.35 with HPMC dosage from 0.5% to 1.5%, W/C ratio of 0.40 with HPMC dosage of 0.5%, 0.75%, and 1.5%, and W/C ratio of 0.45 with HPMC dosage of 0.45, or be extended in the case of W/C ratio of 0.4 with HPMC dosage of 1.0% and W/C ratio of 0.45 with HPMC dosage from 0.75% to 1.5%. Fluidity measurement shows HPMC significantly improves the shape retainability. Furthermore, the addition of HPMC remarkably increased the compressive strength of extruded mortar. The results showed that HPMC could be used to prepare 3D printing SAC having satisfactory shape retainability, setting time and compressive strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
@@ -68,8 +49,8 @@ tags:
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../wang_han_liu_yang.2025.Rot3PPaFSoCMiLG/">Research on the 3D Printing Process and Filament Shape of Cementitious Materials in Low Gravity</a></li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/adi_n"><b>Adi</b> N.</a>, <a href="../../../author/kurniawan_e_m"><b>Kurniawan</b> M.</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../anto_adi_kurn_agra.2023.TIoVMAaCCo3PMC/">The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../pand_tran.2022.MDAMaPoCBM/">Material-Design, Additive Manufacturing, and Performance of Cement-Based Materials</a></li>
@@ -93,4 +74,34 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_wang_sanj_zou.2018.AFSoHISCf3P,
+      author            = "Zhu Ding and Xiaodong Wang and Jay Gnananandan Sanjayan and Patrick X. W. Zou and Zhi-Kun Ding",
+      title             = "A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing",
+      doi               = "10.3390/ma11122415",
+      year              = "2018",
+      journal           = "Materials",
+      volume            = "11",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Ding, X. Wang, J. G. Sanjayan, P. X. W. Zou and Z.-K. Ding, “A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing”, <i>Materials</i>, vol. 11, no. 12, 2018, doi: 10.3390/ma11122415.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Zhu, Xiaodong Wang, Jay Gnananandan Sanjayan, Patrick X. W. Zou, and Zhi-Kun Ding. “A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing”. <i>Materials</i> 11, no. 12 (2018). https://doi.org/10.3390/ma11122415.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

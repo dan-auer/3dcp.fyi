@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sriram Kompella, Andrea Marcucci, Francesco Monte, Marinella Levi, Liberato Ferrara
+    - footer
+title: Kompella Sriram, Marcucci Andrea, Monte Francesco, Levi Marinella, Ferrara Liberato
 description:
 tags:
  - age
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fracture Behavior of Three-Dimensional-Printable Cementitious Mortars in Very Early-Ages and Hardened States ([2024-04](date/2024/04))
-<a href="https://doi.org/10.14359/51740302" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51740302</a>
+#Fracture Behavior of Three-Dimensional-Printable Cementitious Mortars in Very Early-Ages and Hardened States ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51740302" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51740302" target="_blank">10.14359/51740302</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5254-8065" title="ORCID: 0000-0002-5254-8065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b>&nbsp;Sriram</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9150-6733" title="ORCID: 0000-0001-9150-6733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marcucci_andrea"><b>Marcucci</b>&nbsp;Andrea</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4397-6591" title="ORCID: 0000-0003-4397-6591" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/monte_lo_francesco"><b>Monte</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5921-7202" title="ORCID: 0000-0001-5921-7202" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/levi_marinella"><b>Levi</b>&nbsp;Marinella</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 121, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a> <a href="https://orcid.org/0000-0002-5254-8065" title="ORCID: 0000-0002-5254-8065" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a> <a href="https://orcid.org/0000-0001-9150-6733" title="ORCID: 0000-0001-9150-6733" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a> <a href="https://orcid.org/0000-0003-4397-6591" title="ORCID: 0000-0003-4397-6591" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a> <a href="https://orcid.org/0000-0001-5921-7202" title="ORCID: 0000-0001-5921-7202" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 121, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#dimension`](keyword/dimension)
-    [`#early`](keyword/early)
-    [`#fracture`](keyword/fracture)
-    [`#hardened`](keyword/hardened)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#state`](keyword/state)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fracture%20Behavior%20of%20Three-Dimensional-Printable%20Cementitious%20Mortars%20in%20Very%20Early-Ages%20and%20Hardened%20States" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190868271&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394766025" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51740302" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51740302?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The early-age material parameters of three-dimensional (3-D)-printable concrete defined under the umbrella of printability, namely, pumpability, extrudability, buildability, and the “printability window/open time,” are subjective measures. The need to correlate and successively substitute these subjective measures with objective and accepted material properties, such as tensile strength, shear strength, and compressive strength, is paramount. This study validates new testing methodologies to quantify the tensile and shear strengths of printable fiber-reinforced concretes still in their fresh state. A tailored mixture with high sulfoaluminate cement and nonstructural basalt fibers has been assumed as a reference. The relation between the previously mentioned parameters and rheological parameters, such as yield strength obtained through International Center for Aggregates Research (ICAR) rheometer tests, is also explored. Furthermore, in an attempt to pave the way and contribute toward a better understanding of the mechanical properties of 3-D-printed concrete, to be further transferred into design procedures, a comparative study analyzing the work of fracture per unit crack width in three-point bending has been performed on printed and companion nominally identical monolithically cast specimens, investigating the effects of printing directions, position in the printed circuit, and specimen slenderness (length to depth) ratio.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -104,8 +78,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a>, <a href="../../../author/rymes_jiri"><b>Rymeš</b> Jiří</a>, <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../jend_ryme_cerv.2024.OD3PoCS/">Optimizing Digital 3D Printing of Concrete Structures</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{komp_marc_mont_levi.2024.FBoTDPCMiVEAaHS,
+      author            = "Sriram Kasyapa Kompella and Andrea Marcucci and Francesco Lo Monte and Marinella Levi and Liberato Ferrara",
+      title             = "Fracture Behavior of Three-Dimensional-Printable Cementitious Mortars in Very Early-Ages and Hardened States",
+      doi               = "10.14359/51740302",
+      year              = "2024",
+      journal           = "ACI Materials Journal",
+      volume            = "121",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. K. Kompella, A. Marcucci, F. L. Monte, M. Levi and L. Ferrara, “Fracture Behavior of Three-Dimensional-Printable Cementitious Mortars in Very Early-Ages and Hardened States”, <i>ACI Materials Journal</i>, vol. 121, no. 2, 2024, doi: 10.14359/51740302.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kompella, Sriram Kasyapa, Andrea Marcucci, Francesco Lo Monte, Marinella Levi, and Liberato Ferrara. “Fracture Behavior of Three-Dimensional-Printable Cementitious Mortars in Very Early-Ages and Hardened States”. <i>ACI Materials Journal</i> 121, no. 2 (2024). https://doi.org/10.14359/51740302.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robin Dörrie, Stefan Gantner, Fatemeh Amiri, Lukas Lachmayer, Martin David, Tom Rothe, Niklas Freund, Ahmad Nouman, Karam Mawas, Oguz Oztoprak, Philipp Rennen, Virama Ekanayaka, André Hürkamp, Stefan Kollmannsberger, Christian Hühne, Annika Raatz, Klaus Dröder, Dirk Lowke, Norman Hack, Harald Kloft
+    - footer
+title: Dörrie Robin, Gantner Stefan, Amiri Fatemeh, Lachmayer Lukas, David Martin, Rothe Tom, Freund Niklas, Nouman Ahmad, Mawas Karam, Oztoprak Oguz, Rennen Philipp, Ekanayaka Virama, Hürkamp André, Kollmannsberger Stefan, Hühne Christian, Raatz Annika, Dröder Klaus, Lowke Dirk, Hack Norman, Kloft Harald
 description:
 tags:
  - digital
@@ -18,50 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/9/1461/pdf?version=1745583484) From Digital to Real:<br/>:aca-blank: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures ([2025-04](date/2025/04))
-<a href="https://doi.org/10.3390/buildings15091461" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15091461</a>
+#From Digital to Real&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/9/1461/pdf?version=1745583484) <a href="https://doi.org/10.3390/buildings15091461" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15091461" target="_blank">10.3390/buildings15091461</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gantner_stefan"><b>Gantner</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2813-2024" title="ORCID: 0000-0003-2813-2024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b>&nbsp;Fatemeh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachmayer_lukas"><b>Lachmayer</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/david_martin"><b>David</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7066-3211" title="ORCID: 0000-0001-7066-3211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rothe_niklas_tom"><b>Rothe</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2451-8280" title="ORCID: 0000-0002-2451-8280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nouman_saleem_ahmad"><b>Nouman</b>&nbsp;Ahmad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mawas_karam"><b>Mawas</b>&nbsp;Karam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5326-6721" title="ORCID: 0000-0002-5326-6721" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oztoprak_oguz"><b>Oztoprak</b>&nbsp;Oguz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0188-3314" title="ORCID: 0000-0002-0188-3314" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rennen_philipp"><b>Rennen</b>&nbsp;Philipp</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3949-0310" title="ORCID: 0000-0003-3949-0310" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ekanayaka_virama"><b>Ekanayaka</b>&nbsp;Virama</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6809-7118" title="ORCID: 0000-0001-6809-7118" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hurkamp_andre"><b>Hürkamp</b>&nbsp;André</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0823-8649" title="ORCID: 0000-0003-0823-8649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2218-1223" title="ORCID: 0000-0002-2218-1223" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huhne_christian"><b>Hühne</b>&nbsp;Christian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/droder_klaus"><b>Dröder</b>&nbsp;Klaus</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 9, No. 1461
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> <a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a> <a href="https://orcid.org/0000-0003-2813-2024" title="ORCID: 0000-0003-2813-2024" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> <a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/david_martin"><b>David</b> Martin</a> <a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> <a href="https://orcid.org/0000-0001-7066-3211" title="ORCID: 0000-0001-7066-3211" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nouman_saleem_ahmad"><b>Nouman</b> Ahmad</a> <a href="https://orcid.org/0000-0002-2451-8280" title="ORCID: 0000-0002-2451-8280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> <a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oztoprak_oguz"><b>Oztoprak</b> Oguz</a> <a href="https://orcid.org/0000-0002-5326-6721" title="ORCID: 0000-0002-5326-6721" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a> <a href="https://orcid.org/0000-0002-0188-3314" title="ORCID: 0000-0002-0188-3314" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ekanayaka_virama"><b>Ekanayaka</b> Virama</a> <a href="https://orcid.org/0000-0003-3949-0310" title="ORCID: 0000-0003-3949-0310" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hurkamp_andre"><b>Hürkamp</b> André</a> <a href="https://orcid.org/0000-0001-6809-7118" title="ORCID: 0000-0001-6809-7118" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a> <a href="https://orcid.org/0000-0003-0823-8649" title="ORCID: 0000-0003-0823-8649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> <a href="https://orcid.org/0000-0002-2218-1223" title="ORCID: 0000-0002-2218-1223" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 9, No. 1461
-
-:aca-blank:{ .lg .middle}
-    [`#digital`](keyword/digital)
-    [`#element`](keyword/element)
-    [`#function`](keyword/function)
-    [`#integration`](keyword/integration)
-    [`#multi`](keyword/multi)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#shotcrete`](keyword/shotcrete)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20Digital%20to%20Real" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004825165&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -76,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409804912" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15091461" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15091461?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is facing a dual challenge: an increasing demand for new buildings on the one hand and the urgent need to drastically reduce emissions and waste on the other. One promising field of research to face these challenges comprises additive manufacturing (AM) technologies. Through these advanced methods, digital workflows between design and fabrication can be implemented to optimise the form and structure, unlocking new architectural freedom while ensuring sustainability and efficiency. However, to drive this transformation in construction, the new technologies must be investigated in large-scale applications. One of these fast-emerging AM techniques is Shotcrete 3D Printing (SC3DP). The present research documents the 1:1 scale manufacturing process, from digital to real, of a building section utilising SC3DP. A workflow and production steps, spanning from design over manufacturing to assembly, are introduced. The architectural design, reinforced by computational methods, was iteratively refined to adapt to manufacturing constraints. The paper also emphasises the importance of a digital twin in ensuring seamless data integration and real-time adjustments during construction. By incorporating reinforcement techniques such as short rebar insertion and robotic fibre winding, this study demonstrates the structural capabilities achievable with SC3DP. In summary, the implementation of comprehensive digital workflows utilising computational design, automated data acquisition and data flow, as well as robotic fabrication is presented to demonstrate the potential of AM methods in construction. Furthermore, this paper provides a perspective on potential future research paths and opportunities inherent in leveraging the innovative SC3DP technique.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "51 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a>, <a href="../../../author/hellerbrand_stefan"><b>Hellerbrand</b> Stefan</a>, <a href="../../../author/weininger_florian"><b>Weininger</b> Florian</a>, <a href="../../../author/thiel_charlotte"><b>Thiel</b> Charlotte</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../albr_hell_wein_thie.2025.PfRtEIitCIUtEoa3PS/">Possibilities for Reducing the Environmental Impact in the Construction Industry Using the Example of a 3D Printed Staircase</a></li>
       <li><a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a>, <a href="../../../author/hellerbrand_stefan"><b>Hellerbrand</b> Stefan</a>, <a href="../../../author/weininger_florian"><b>Weininger</b> Florian</a>, <a href="../../../author/thiel_charlotte"><b>Thiel</b> Charlotte</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../albr_hell_wein_thie.2025.SfMEIiC/">Strategies for Minimizing Environmental Impact in Construction:<br/>A Case Study of a Cementitious 3D Printed Lost Formwork for a Staircase</a></li>
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../asaf_bent_amir_lari.2024.A3PPfDaMoMFCCCaIVfaPTB/">A 3D Printing Platform for Design and Manufacturing of Multi-Functional Cementitious Construction Components and Its Validation for a Post-Tensioned Beam</a></li>
@@ -139,10 +100,41 @@ tags:
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhi_teng_akba.2024.D3PCSwSFM/">Designing 3D Printed Concrete Structures with Scaled Fabrication Models</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/li_jin"><b>Li</b> Jin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS/">Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures:<br/>A Case Study of a Full-Size Two-Story Building</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dorr_gant_amir_lach.2025.FDtR,
+      author            = "Robin Dörrie and Stefan Gantner and Fatemeh Salehi Amiri and Lukas Lachmayer and Martin David and Tom Niklas Rothe and Niklas Freund and Ahmad Saleem Nouman and Karam Mawas and Oguz Oztoprak and Philipp Rennen and Virama Ekanayaka and André Hürkamp and Stefan Kollmannsberger and Christian Hühne and Annika Raatz and Klaus Dröder and Dirk Lowke and Norman Peter Hack and Harald Kloft",
+      title             = "From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures",
+      doi               = "10.3390/buildings15091461",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "9",
+      pages             = "1461",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Dörrie, “From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures”, <i>Buildings</i>, vol. 15, no. 9, p. 1461, 2025, doi: 10.3390/buildings15091461.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dörrie, Robin, Stefan Gantner, Fatemeh Salehi Amiri, Lukas Lachmayer, Martin David, Tom Niklas Rothe, Niklas Freund, et al.. “From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures”. <i>Buildings</i> 15, no. 9 (2025): 1461. https://doi.org/10.3390/buildings15091461.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

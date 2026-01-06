@@ -8,7 +8,7 @@ search:
 
 # #bar
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b> Mukhagali</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sagy_stor_must_plas.2025.APo3PSwIRMBoSRB/">Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars</a></li>
   <li><a href="../../../author/yao_jiaxu"><b>Yao</b> Jiaxu</a>, <a href="../../../author/luo_jie"><b>Luo</b> Jie</a>, <a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/nagai_kohei"><b>Nagai</b> Kohei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../yao_luo_qiu_naga.2025.MMoACBaPOPo3PCwSBU3R/">Mesoscale Modeling of Anisotropic Compressive Behavior and Pull-Out Performance of 3D Printed Concrete with Steel Bars Using 3D RBSM</a></li>
   <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/deng_run-bin"><b>Deng</b> Run-Bin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zeng_sun_deng_yan.2025.BPBFBa3PHPC/">Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete</a></li>

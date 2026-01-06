@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Md Uddin, Faharidine Mahamoudou, Boyu Deng, Moneef Elobaid Musa, Landry Tim Sob
+    - footer
+title: Uddin Md, Mahamoudou Faharidine, Deng Boyu, Elobaid Musa Moneef, Tim Sob Landry
 description:
 tags:
  - concrete
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Prediction of Rheological Parameters of 3D Printed Polypropylene-Fiber-Reinforced Concrete by Machine Learning ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.matpr.2023.03.191" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.03.191</a>
+#Prediction of Rheological Parameters of 3D Printed Polypropylene-Fiber-Reinforced Concrete by Machine Learning ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.03.191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.191" target="_blank">10.1016/j.matpr.2023.03.191</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/uddin_nasir_md"><b>Uddin</b>&nbsp;Md</a></span>, <a href="../../../author/mahamoudou_faharidine"><b>Mahamoudou</b>&nbsp;Faharidine</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4733-4596" title="ORCID: 0000-0003-4733-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_boyu"><b>Deng</b>&nbsp;Boyu</a></span>, <a href="../../../author/elobaid-musa_mohamed_moneef"><b>Elobaid Musa</b>&nbsp;Moneef</a></span>, <a href="../../../author/tim-sob_wilfried_landry"><b>Tim Sob</b>&nbsp;Landry</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mahamoudou_faharidine"><b>Mahamoudou</b> Faharidine</a>
-,     <a href="../../../author/deng_boyu"><b>Deng</b> Boyu</a> <a href="https://orcid.org/0000-0003-4733-4596" title="ORCID: 0000-0003-4733-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/elobaid-musa_mohamed_moneef"><b>Elobaid Musa</b> Moneef</a>
-,     <a href="../../../author/tim-sob_wilfried_landry"><b>Tim Sob</b> Landry</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#parameter`](keyword/parameter)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Prediction%20of%20Rheological%20Parameters%20of%203D%20Printed%20Polypropylene-Fiber-Reinforced%20Concrete%20by%20Machine%20Learning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151428294&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4328094111" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.03.191" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.03.191?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper proposes a machine learning (ML) model to predict the 3D printed polypropylene fiberreinforced concrete (3DP-PPRC) rheological properties, in which dynamic yield stress (DYS) plays a vital role. ICAR rheometer is used to measure the yield stress of the concrete mixture, where 41 mixtures were used to compile the data. In this research, four machine-learning models have been used to predict the DYS of the 3DP-PPRC, accounting for different water binder ratios (W/B) and polypropylene (PP) fiber content. The code has been generated in Python scripts. Several ML models such as random forest (RF), support vector machine (SVM), extreme gradient boosting (XGBoost), and light gradient boosting machine (LightGBM) have been used to predict the DYS, considering 80% and 20% data for training and testing, respectively while the model’s accuracy, MSE, RMSE, MAPE, and R2 were also calculated for 3DP-PPRC. The influence of each rheological parameter in the ML-based of 3DP-PPRC, Shapley additive explanations (SHAP) are also accompanied. The outcomes proved that utilizing an ML model to estimate the yield stress of 3DP-PPRC using PP fiber is a dominant approach.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bong_nema_xia_ghaf.2022.PoAMGIMWMF/">Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../chen_yang_zhen_li.2021.RBaSBUo3PPaPAFRCSCC/">Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
@@ -86,8 +62,8 @@ tags:
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/mostazid_ibrahim_md"><b>Mostazid</b> Md</a>, <a href="../../../author/faysal_abdul-motaleb_md"><b>Faysal</b> Md</a>, <a href="../../../author/shi_xinjun"><b>Shi</b> Xinjun</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../uddi_most_fays_shi.2025.DaNSPMf3PGC/">Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete:<br/>An Interpretable Data-Driven Approach</a></li>
       <li><a href="../../../author/asif_usama"><b>Asif</b> Usama</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../asif.2025.CAoECMfPMPoFR3PC/">Comparative Analysis of Evolutionary Computational Methods for Predicting Mechanical Properties of Fiber-Reinforced 3D Printed Concrete</a></li>
@@ -99,4 +75,32 @@ tags:
       <li><a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>, <a href="../../../author/jin_lang"><b>Jin</b> Lang</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../gao_jin_chen_chen.2024.RBo3PC/">Rheological Behavior of 3D Printed Concrete:<br/>Influential Factors and Printability Prediction Scheme</a></li>
       <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/haque_aminul_m"><b>Haque</b> M.</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../uddi_ye_haqu_yu.2024.ANCSEAf3PFRC/">A Novel Compressive Strength Estimation Approach for 3D Printed Fiber-Reinforced Concrete:<br/>Integrating Machine Learning and Gene Expression Programming</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{uddi_maha_deng_elob.2023.PoRPo3PPFRCbML,
+      author            = "Md Nasir Uddin and Faharidine Mahamoudou and Boyu Deng and Moneef Mohamed Elobaid Musa and Landry Wilfried Tim Sob",
+      title             = "Prediction of Rheological Parameters of 3D Printed Polypropylene-Fiber-Reinforced Concrete by Machine Learning",
+      doi               = "10.1016/j.matpr.2023.03.191",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. N. Uddin, F. Mahamoudou, B. Deng, M. M. E. Musa and L. W. T. Sob, “Prediction of Rheological Parameters of 3D Printed Polypropylene-Fiber-Reinforced Concrete by Machine Learning”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.03.191.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Uddin, Md Nasir, Faharidine Mahamoudou, Boyu Deng, Moneef Mohamed Elobaid Musa, and Landry Wilfried Tim Sob. “Prediction of Rheological Parameters of 3D Printed Polypropylene-Fiber-Reinforced Concrete by Machine Learning”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.03.191.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

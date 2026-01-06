@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manideep Samudrala, Syed Mujeeb, Bhagyashri Lanjewar, Ravijanya Chippagiri, Muralidhar Kamath, Rahul Ralegaonkar
+    - footer
+title: Samudrala Manideep, Mujeeb Syed, Lanjewar Bhagyashri, Chippagiri Ravijanya, Kamath Muralidhar, Ralegaonkar Rahul
 description:
 tags:
  - buildability
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1073/16/10/4234/pdf?version=1684935601) 3D Printable Concrete for Energy-Efficient Buildings ([2023-05](date/2023/05))
-<a href="https://doi.org/10.3390/en16104234" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/en16104234</a>
+#3D Printable Concrete for Energy-Efficient Buildings ([2023-05](date/2023/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/16/10/4234/pdf?version=1684935601) <a href="https://doi.org/10.3390/en16104234" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en16104234" target="_blank">10.3390/en16104234</a>
 
--------------------------
+<a href="../../../author/samudrala_manideep"><b>Samudrala</b>&nbsp;Manideep</a></span>, <a href="../../../author/mujeeb_syed"><b>Mujeeb</b>&nbsp;Syed</a></span>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b>&nbsp;Bhagyashri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1698-8282" title="ORCID: 0000-0002-1698-8282" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b>&nbsp;Ravijanya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9037-4887" title="ORCID: 0000-0002-9037-4887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamath_muralidhar"><b>Kamath</b>&nbsp;Muralidhar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3538-533X" title="ORCID: 0000-0002-3538-533X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ralegaonkar_v_rahul"><b>Ralegaonkar</b>&nbsp;Rahul</a></span><br>
+Journal Article - Energies, Vol. 16, Iss. 10, No. 4234
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>
-,     <a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>
-,     <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>
-,     <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> <a href="https://orcid.org/0000-0002-1698-8282" title="ORCID: 0000-0002-1698-8282" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kamath_muralidhar"><b>Kamath</b> Muralidhar</a> <a href="https://orcid.org/0000-0002-9037-4887" title="ORCID: 0000-0002-9037-4887" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ralegaonkar_v_rahul"><b>Ralegaonkar</b> Rahul</a> <a href="https://orcid.org/0000-0002-3538-533X" title="ORCID: 0000-0002-3538-533X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energies, Vol. 16, Iss. 10, No. 4234
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#efficient`](keyword/efficient)
-    [`#energy`](keyword/energy)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Concrete%20for%20Energy-Efficient%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160628696&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4377289851" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/en16104234" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/en16104234?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Rapid construction with an energy-efficient approach is a major challenge in the present construction industry. Cement, a carbon-intensive material, is mainly used in the construction industry and hence increases the sector’s carbon footprint on the environment. The current review focuses on the study of 3D concrete printing (3DCP), in which cement is partially replaced with industrial byproducts such as ground granulated blast furnace slag (GGBS), fly ash, and silica fume. Walling material is primarily targeted in 3DCP. There is a need to include energy efficiency to achieve a thermally comfortable environment. The life cycle assessment (LCA) of concrete is studied to discover the potential conflicts affecting the environment. The sand-to-binder ratio is pivotal in determining the performance of concrete. The content of the supplements is decided based on this factor. The rheological, physical, and mechanical properties of 3DCP are studied further and analysed. GGBS demonstrates better performance in the compressive and flexure strength of concrete. The usage of fly ash and silica fume has reduced the thermal conductivity of the material, whereas GGBS has increased it. An LCA study shows that 3DCP can be made sustainable with the use of these supplementary cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "63 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
@@ -127,8 +106,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>
       <li><a href="../../../author/goel_devansh"><b>Goel</b> Devansh</a>, <a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b> Sudarshan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../goel_kore.2025.MtBPo3CP/">Mapping the Bibliometric Progression of 3D Concrete Printing:<br/>A Concise Review</a></li>
@@ -141,4 +120,35 @@ tags:
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
       <li><a href="../../../author/calabrese_giuseppe"><b>Calabrese</b> Giuseppe</a>, <a href="../../../author/hidding_arwin"><b>Hidding</b> Arwin</a>, <a href="../../../author/bier_henriette"><b>Bier</b> Henriette</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../cala_hidd_bier.2024.RoCMf3PoOaOEH/">Review of Cementless Materials for 3D Printing of On- and Off-Earth Habitats</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{samu_muje_lanj_chip.2023.3PCfEEB,
+      author            = "Manideep Samudrala and Syed Mujeeb and Bhagyashri A. Lanjewar and Ravijanya Chippagiri and Muralidhar Kamath and Rahul V. Ralegaonkar",
+      title             = "3D Printable Concrete for Energy-Efficient Buildings",
+      doi               = "10.3390/en16104234",
+      year              = "2023",
+      journal           = "Energies",
+      volume            = "16",
+      number            = "10",
+      pages             = "4234",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Samudrala, S. Mujeeb, B. A. Lanjewar, R. Chippagiri, M. Kamath and R. V. Ralegaonkar, “3D Printable Concrete for Energy-Efficient Buildings”, <i>Energies</i>, vol. 16, no. 10, p. 4234, 2023, doi: 10.3390/en16104234.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Samudrala, Manideep, Syed Mujeeb, Bhagyashri A. Lanjewar, Ravijanya Chippagiri, Muralidhar Kamath, and Rahul V. Ralegaonkar. “3D Printable Concrete for Energy-Efficient Buildings”. <i>Energies</i> 16, no. 10 (2023): 4234. https://doi.org/10.3390/en16104234.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

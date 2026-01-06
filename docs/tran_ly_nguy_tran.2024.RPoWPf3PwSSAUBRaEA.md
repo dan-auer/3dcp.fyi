@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mien Tran, Duy-Khuong Ly, Tan Nguyen, Nhi Tran
+    - footer
+title: Tran Mien, Ly Duy-Khuong, Nguyen Tan, Tran Nhi
 description:
 tags:
  - aggregate
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robust Prediction of Workability Properties for 3D Printing with Steel-Slag-Aggregate Using Bayesian Regularization and Evolution Algorithm ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136470" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136470</a>
+#Robust Prediction of Workability Properties for 3D Printing with Steel-Slag-Aggregate Using Bayesian Regularization and Evolution Algorithm ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136470" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136470" target="_blank">10.1016/j.conbuildmat.2024.136470</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_mien"><b>van&nbsp;Tran</b>&nbsp;Mien</a></span>, <a href="../../../author/ly_duy-khuong"><b>Ly</b>&nbsp;Duy-Khuong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4909-4258" title="ORCID: 0000-0003-4909-4258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_tan"><b>Nguyen</b>&nbsp;Tan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4779-6865" title="ORCID: 0000-0002-4779-6865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_ngoc-thi_nhi"><b>Tran</b>&nbsp;Nhi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 431, No. 136470
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tran_mien"><b>van Tran</b> Mien</a> <a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ly_duy-khuong"><b>Ly</b> Duy-Khuong</a>
-,     <a href="../../../author/nguyen_tan"><b>Nguyen</b> Tan</a> <a href="https://orcid.org/0000-0003-4909-4258" title="ORCID: 0000-0003-4909-4258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_ngoc-thi_nhi"><b>Tran</b> Nhi</a> <a href="https://orcid.org/0000-0002-4779-6865" title="ORCID: 0000-0002-4779-6865" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 431, No. 136470
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#algorithm`](keyword/algorithm)
-    [`#bayesian`](keyword/bayesian)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#robust`](keyword/robust)
-    [`#slag`](keyword/slag)
-    [`#steel`](keyword/steel)
-    [`#workability`](keyword/workability)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/bayesian"><button class="btn">#bayesian</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/robust"><button class="btn">#robust</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robust%20Prediction%20of%20Workability%20Properties%20for%203D%20Printing%20with%20Steel-Slag-Aggregate%20Using%20Bayesian%20Regularization%20and%20Evolution%20Algorithm" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192480796&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396820927" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136470" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136470?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study addresses the growing interest in utilizing steel slag as a sustainable alternative to river sand in additive manufacturing of concrete, driven by the increasing scarcity of natural resources. The rheological properties of fresh material significantly impact the quality of 3D-printed filament, necessitating suitable workability for printability. The research focuses on evaluating the influence of steel slag aggregate and key admixtures, such as silica fume and superplasticizer, on the workability properties of fresh concrete. Through an extensive series of 90 slump tests, optimal combinations ensuring the desired workability for 3D printing applications were identified. To enhance the manufacturing of fresh concrete and develop user-friendly tools, a novel soft computing approach is introduced—Adaptive Elitist Differential Evolution coupled with Bayesian Regularization Artificial Neural Network (aeDE-BRANN). This advanced model considers five critical input parameters: silica fume to Portland cement ratio, steel slag to cement ratio, water to cement ratio, cement content, and superplasticizer dosage. The model outputs crucial workability metrics, including slump flow and slump. In a comprehensive comparative study, the aeDE-BRANN framework demonstrates superior performance in terms of both simplicity and efficiency when compared to other forecasting models. Feature analysis techniques, including Shapley values from game theory and partial dependence plots, provide valuable insights into the intricate relationships between input variables and workability properties. The findings underscore the water to cement ratio as the most influential factor on workability, followed by silica fume to Portland cement ratio and steel slag to cement ratio. This study contributes a reliable tool for predicting workability properties, aiding in the selection of suitable steel slag aggregate and admixtures. Ultimately, it facilitates the sustainable and innovative evolution of 3D concrete printing practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/dai_shuo"><b>Dai</b> Shuo</a>, <a href="../../../author/zhu_huajun"><b>Zhu</b> Huajun</a>, <a href="../../../author/zhai_munan"><b>Zhai</b> Munan</a>, <a href="../../../author/wu_qisheng"><b>Wu</b> Qisheng</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../dai_zhu_zhai_wu.2021.SoSSaFAaIAi3PM/">Stability of Steel-Slag as Fine Aggregate and Its Application in 3D Printing Materials</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -92,11 +67,41 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/zhang_yonghong"><b>Zhang</b> Yonghong</a>, <a href="../../../author/cui_suping"><b>Cui</b> Suping</a>, <a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a>, <a href="../../../author/wang_xinxin"><b>Wang</b> Xinxin</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhan_cui_yang_wang.2025.Ro3PCMPPMBoML/">Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/leong_sing"><b>Leong</b> Sing</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mura_leon.2024.WDC/">Waste-Driven Construction:<br/>A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tran_ly_nguy_tran.2024.RPoWPf3PwSSAUBRaEA,
+      author            = "Mien van Tran and Duy-Khuong Ly and Tan Nguyen and Nhi Ngoc Thi Tran",
+      title             = "Robust Prediction of Workability Properties for 3D Printing with Steel-Slag-Aggregate Using Bayesian Regularization and Evolution Algorithm",
+      doi               = "10.1016/j.conbuildmat.2024.136470",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "431",
+      pages             = "136470",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. van Tran, D.-K. Ly, T. Nguyen and N. N. T. Tran, “Robust Prediction of Workability Properties for 3D Printing with Steel-Slag-Aggregate Using Bayesian Regularization and Evolution Algorithm”, <i>Construction and Building Materials</i>, vol. 431, p. 136470, 2024, doi: 10.1016/j.conbuildmat.2024.136470.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tran, Mien van, Duy-Khuong Ly, Tan Nguyen, and Nhi Ngoc Thi Tran. “Robust Prediction of Workability Properties for 3D Printing with Steel-Slag-Aggregate Using Bayesian Regularization and Evolution Algorithm”. <i>Construction and Building Materials</i> 431 (2024): 136470. https://doi.org/10.1016/j.conbuildmat.2024.136470.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

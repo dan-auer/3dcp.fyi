@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcelo Souza, Igor Ferreira, Elisângela Moraes, Luciano Senff, Sabrina Arcaro, José Castro Pessôa, Manuel Ribeiro, Antonio Oliveira
+    - footer
+title: Souza Marcelo, Ferreira Igor, Moraes Elisângela, Senff Luciano, Arcaro Sabrina, Castro Pessôa José, Ribeiro Manuel, Oliveira Antonio
 description:
 tags:
  - admixture
@@ -15,35 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Role of Chemical Admixtures on 3D Printed Portland Cement:<br/>:aca-blank: Assessing Rheology and Buildability ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.125666" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.125666</a>
+#Role of Chemical Admixtures on 3D Printed Portland Cement&nbsp;([2021-11](date/2021/11))
+<div class="h1-like">Assessing Rheology and Buildability</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.125666" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.125666" target="_blank">10.1016/j.conbuildmat.2021.125666</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza_tramontin_marcelo"><b>Souza</b>&nbsp;Marcelo</a></span>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b>&nbsp;Igor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2065-383X" title="ORCID: 0000-0002-2065-383X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moraes_guzi_elisangela"><b>de&nbsp;Moraes</b>&nbsp;Elisângela</a></span>, <a href="../../../author/senff_luciano"><b>Senff</b>&nbsp;Luciano</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0668-7689" title="ORCID: 0000-0002-0668-7689" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arcaro_sabrina"><b>Arcaro</b>&nbsp;Sabrina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7641-4400" title="ORCID: 0000-0001-7641-4400" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castro-pessoa_renato_jose"><b>de&nbsp;Castro Pessôa</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5744-3011" title="ORCID: 0000-0001-5744-3011" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro_j_manuel"><b>Ribeiro</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0875-139X" title="ORCID: 0000-0002-0875-139X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oliveira_pedro-novaes_antonio"><b>de&nbsp;Oliveira</b>&nbsp;Antonio</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 314
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a> <a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>
-,     <a href="../../../author/moraes_guzi_elisangela"><b>de Moraes</b> Elisângela</a> <a href="https://orcid.org/0000-0002-2065-383X" title="ORCID: 0000-0002-2065-383X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a>
-,     <a href="../../../author/arcaro_sabrina"><b>Arcaro</b> Sabrina</a> <a href="https://orcid.org/0000-0002-0668-7689" title="ORCID: 0000-0002-0668-7689" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/castro-pessoa_renato_jose"><b>de Castro Pessôa</b> José</a> <a href="https://orcid.org/0000-0001-7641-4400" title="ORCID: 0000-0001-7641-4400" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ribeiro_j_manuel"><b>Ribeiro</b> Manuel</a> <a href="https://orcid.org/0000-0001-5744-3011" title="ORCID: 0000-0001-5744-3011" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oliveira_pedro-novaes_antonio"><b>de Oliveira</b> Antonio</a> <a href="https://orcid.org/0000-0002-0875-139X" title="ORCID: 0000-0002-0875-139X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 314, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#chemical`](keyword/chemical)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Role%20of%20Chemical%20Admixtures%20on%203D%20Printed%20Portland%20Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119291330&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,18 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3211363934" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.125666" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.125666?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concretes intended for printing need specific rheological properties that are not found in traditional ones. Printable concretes must have as much consistency as possible and, at the same time, still need to be pumpable. Although the use of chemical additives is a known solution to overcome these problems, their effectiveness can be partially or totally compromised when used in combination. For example, a particular superplasticizer may not work in the presence of a setting retarder or may weaken the potency of an accelerator. The lack of literature on the possible interactions of different additives used in co-assembly motivated this work. In this, it was demonstrated how fluid mixtures can be rapidly made buildable, continuously, from pumping to printing with different chemical admixtures. Setting retarders, accelerators and a PCE-based superplasticizer were tested on different contents, singly and in co-assembly, to determine their interactions from a rheological point of view. The main results show that the superplasticizer and setting retarders are efficient in improving the open time maintaining the buildability to a critical concentration. When added in co-assembly, their effectiveness can be nullified if an intercalated stirring is not applied, therefore presenting a strong interaction. The setting accelerators have also shown their role rapidly increasing the structuration rate of cement pastes but needing significantly higher contents when co-assembled with the superplasticizer to compensate for their retarding and repulsive effect.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -82,8 +57,8 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "42 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gonz_hoss_yahi_koha.2025.ABtECRPf3PA/">Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications</a></li>
@@ -127,4 +102,33 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_yali"><b>Li</b> Yali</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jin_xu_li_zhao.2022.RPSSaCSo3PCCCMbNLP/">Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{souz_ferr_mora_senf.2022.RoCAo3PPC,
+      author            = "Marcelo Tramontin Souza and Igor Maia Ferreira and Elisângela Guzi de Moraes and Luciano Senff and Sabrina Arcaro and José Renato de Castro Pessôa and Manuel J. Ribeiro and Antonio Pedro Novaes de Oliveira",
+      title             = "Role of Chemical Admixtures on 3D Printed Portland Cement: Assessing Rheology and Buildability",
+      doi               = "10.1016/j.conbuildmat.2021.125666",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "314",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. T. Souza, “Role of Chemical Admixtures on 3D Printed Portland Cement: Assessing Rheology and Buildability”, <i>Construction and Building Materials</i>, vol. 314, 2022, doi: 10.1016/j.conbuildmat.2021.125666.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Souza, Marcelo Tramontin, Igor Maia Ferreira, Elisângela Guzi de Moraes, Luciano Senff, Sabrina Arcaro, José Renato de Castro Pessôa, Manuel J. Ribeiro, and Antonio Pedro Novaes de Oliveira. “Role of Chemical Admixtures on 3D Printed Portland Cement: Assessing Rheology and Buildability”. <i>Construction and Building Materials</i> 314 (2022). https://doi.org/10.1016/j.conbuildmat.2021.125666.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

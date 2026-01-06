@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Venkatesh Nerella, Martin Krause, Viktor Mechtcherine
+    - footer
+title: Nerella Venkatesh, Krause Martin, Mechtcherine Viktor
 description:
 tags:
  - buildability
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.preprints.org/manuscript/201808.0441/v1/download) Direct Printing-Test for Buildability of 3D Printable Concrete Considering Economic Viability ([2019-11](date/2019/11))
-<a href="https://doi.org/10.1016/j.autcon.2019.102986" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2019.102986</a>
+#Direct Printing-Test for Buildability of 3D Printable Concrete Considering Economic Viability ([2019-11](date/2019/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.preprints.org/manuscript/201808.0441/v1/download) <a href="https://doi.org/10.1016/j.autcon.2019.102986" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.102986" target="_blank">10.1016/j.autcon.2019.102986</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <a href="../../../author/krause_martin"><b>Krause</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Automation in Construction, Vol. 109
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 109, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#economic`](keyword/economic)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Direct%20Printing-Test%20for%20Buildability%20of%203D%20Printable%20Concrete%20Considering%20Economic%20Viability" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85074785321&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2987444232" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2019.102986" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2019.102986?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Buildability, i.e. the ability of a deposited material bulk to retain its dimensions under increasing load, is an inherent prerequisite for formwork-free digital concrete construction (DC). Since DC processes are relatively new, no standard methods of characterization are available yet. The paper presents direct printing test as a practice-oriented approach, in which buildability test parameters are determined by taking various process aspects and construction costs into consideration. In doing so, direct links between laboratory buildability tests and target applications are established. A systematic basis for calculating the time interval (TI) to be followed during laboratory testing is proposed for the full-width printing (FWP) and filament printing (FP) processes. The proposed approach is verified by applying it to a high-strength, printable, fine-grained concrete. Comparative analyses of FWP and FP revealed that to test the buildability of a material for FP processes, higher velocities of the printhead should be established for laboratory tests in comparison to those needed for FWP process, providing for equal construction rates.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -101,8 +82,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "102 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
       <li><a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/shi_a"><b>Shi</b> A.</a>, <a href="../../../author/kajandran_v"><b>Kajandran</b> V.</a>, <a href="../../../author/lam_w-m_t"><b>Lam</b> T.</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kua_shi_kaja_lam.2025.TSC3P/">Toward Sustainable Construction 3D Printing:<br/>Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement</a></li>
@@ -206,4 +187,33 @@ tags:
       <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../west_varg.2020.KC/">Knitting Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nere_krau_mech.2020.DPTfBo3PCCEV,
+      author            = "Venkatesh Naidu Nerella and Martin Krause and Viktor Mechtcherine",
+      title             = "Direct Printing-Test for Buildability of 3D Printable Concrete Considering Economic Viability",
+      doi               = "10.1016/j.autcon.2019.102986",
+      year              = "2020",
+      journal           = "Automation in Construction",
+      volume            = "109",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. N. Nerella, M. Krause and V. Mechtcherine, “Direct Printing-Test for Buildability of 3D Printable Concrete Considering Economic Viability”, <i>Automation in Construction</i>, vol. 109, 2020, doi: 10.1016/j.autcon.2019.102986.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nerella, Venkatesh Naidu, Martin Krause, and Viktor Mechtcherine. “Direct Printing-Test for Buildability of 3D Printable Concrete Considering Economic Viability”. <i>Automation in Construction</i> 109 (2020). https://doi.org/10.1016/j.autcon.2019.102986.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

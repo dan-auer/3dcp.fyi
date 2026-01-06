@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Andjol Bici, Anna Yunitsyna
+    - footer
+title: Bici Andjol, Yunitsyna Anna
 description:
 tags:
  - analysis
@@ -14,28 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Analysis of 3D Printing Techniques for Building Construction:<br/>:aca-blank: A Review ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1007/s41693-023-00108-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41693-023-00108-4</a>
+#Analysis of 3D Printing Techniques for Building Construction&nbsp;([2023-07](date/2023/07))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-023-00108-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-023-00108-4" target="_blank">10.1007/s41693-023-00108-4</a>
 
--------------------------
+<a href="../../../author/bici_andjol"><b>Bici</b>&nbsp;Andjol</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9942-7677" title="ORCID: 0000-0001-9942-7677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yunitsyna_anna"><b>Yunitsyna</b>&nbsp;Anna</a></span><br>
+Journal Article - Construction Robotics
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bici_andjol"><b>Bici</b> Andjol</a>
-,     <a href="../../../author/yunitsyna_anna"><b>Yunitsyna</b> Anna</a> <a href="https://orcid.org/0000-0001-9942-7677" title="ORCID: 0000-0001-9942-7677" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Robotics, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%203D%20Printing%20Techniques%20for%20Building%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4383163937" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41693-023-00108-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41693-023-00108-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is a rapidly developing industry, which allows producing objects of different size using additive manufacturing technologies. Large-scale 3D printing has the potential to revolutionize the construction industry by making housing construction faster, more affordable, and sustainable. It allows for the creation of unique and customizable designs directly on-site with high precision. This study starts with an overview of the four 3D printing technologies that are used for building production. The main technical parameters, such as physical dimensions, printing speed, materials and technological limitations are identified and compared. The second step contains the analysis of the 3D printed buildings, including their design, size, construction time, and the need to use any additional structures. In conclusion, the different types of 3D printers and 3D printed houses are evaluated to find the most advanced and efficient technical solutions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
@@ -86,8 +69,8 @@ tags:
       <li><a href="../../../author/yin_jian"><b>Yin</b> Jian</a>, <a href="../../../author/suo_yiru"><b>Suo</b> Yiru</a>, <a href="../../../author/lv_tao"><b>Lv</b> Tao</a>, <a href="../../../author/ma_kaisi"><b>Ma</b> Kaisi</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yin_suo_lv_ma.2022.Ao3PTitCIaIDP/">Application of 3D Printing Technology in the Construction Industry and Its Development Prospects</a></li>
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../merc_sahi_celi_ozka.2025.SPoPF3PCW/">Structural Performance of Pre-Fabricated 3D Printed Concrete Walls:<br/>Effect of Cold Joint, Axial Load and Load Type</a></li>
       <li><a href="../../../author/dragomir_mihai"><b>Dragomir</b> Mihai</a>, <a href="../../../author/salem_tareq"><b>Salem</b> Tareq</a>, <a href="../../../author/dragomir_diana"><b>Dragomir</b> Diana</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../drag_sale_drag_hedj.2025.DViCPMU3P/">Design Validation in Construction Project Management Using 3D Printing</a></li>
       <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF/">3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers</a></li>
@@ -97,4 +80,32 @@ tags:
       <li><a href="../../../author/parrott_brian"><b>Parrott</b> Brian</a>, <a href="../../../author/coronado-preciado_angelica"><b>Coronado Preciado</b> Angelica</a>, <a href="../../../author/feron_m_eric"><b>Feron</b> Eric</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../parr_coro_fero.2024.SSE/">Selective Sheet-Extrusion:<br/>A Novel Manufacturing-Process for Large-Format Material-Extrusion</a></li>
       <li><a href="../../../author/taher_ammar"><b>Taher</b> Ammar</a>, <a href="../../../author/asut_serdar"><b>Aşut</b> Serdar</a>, <a href="../../../author/spoel_willem"><b>Spoel</b> Willem</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tahe_asut_spoe.2023.AIWfDaFMFBCTAMwC/">An Integrated Workflow for Designing and Fabricating Multi-Functional Building Components Through Additive Manufacturing with Clay</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bici_yuni.2023.Ao3PTfBC,
+      author            = "Andjol Bici and Anna Yunitsyna",
+      title             = "Analysis of 3D Printing Techniques for Building Construction: A Review",
+      doi               = "10.1007/s41693-023-00108-4",
+      year              = "2023",
+      journal           = "Construction Robotics",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Bici  and A. Yunitsyna, “Analysis of 3D Printing Techniques for Building Construction: A Review”, <i>Construction Robotics</i>, 2023, doi: 10.1007/s41693-023-00108-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bici, Andjol, and Anna Yunitsyna. “Analysis of 3D Printing Techniques for Building Construction: A Review”. <i>Construction Robotics</i>, 2023. https://doi.org/10.1007/s41693-023-00108-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

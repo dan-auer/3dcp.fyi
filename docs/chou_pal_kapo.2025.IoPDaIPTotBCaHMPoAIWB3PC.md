@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ajay Chourasia, Biswajit Pal, Ashish Kapoor
+    - footer
+title: Chourasia Ajay, Pal Biswajit, Kapoor Ashish
 description:
 tags:
  - agriculture
@@ -23,38 +24,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Printing Direction and Interlayer Printing Time on the Bond Characteristics and Hardened Mechanical Properties of Agro-Industrial Waste-Based 3D Printed Concrete ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1061/jmcee7.mteng-18196" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jmcee7.mteng-18196</a>
+#Influence of Printing Direction and Interlayer Printing Time on the Bond Characteristics and Hardened Mechanical Properties of Agro-Industrial Waste-Based 3D Printed Concrete ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-18196" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-18196" target="_blank">10.1061/jmcee7.mteng-18196</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6595-2465" title="ORCID: 0000-0001-6595-2465" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chourasia_ajay"><b>Chourasia</b>&nbsp;Ajay</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9519-1038" title="ORCID: 0000-0001-9519-1038" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pal_biswajit"><b>Pal</b>&nbsp;Biswajit</a></span>, <a href="../../../author/kapoor_ashish"><b>Kapoor</b>&nbsp;Ashish</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a> <a href="https://orcid.org/0000-0001-6595-2465" title="ORCID: 0000-0001-6595-2465" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> <a href="https://orcid.org/0000-0001-9519-1038" title="ORCID: 0000-0001-9519-1038" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#agriculture`](keyword/agriculture)
-    [`#base`](keyword/base)
-    [`#bond`](keyword/bond)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#direction`](keyword/direction)
-    [`#hardened`](keyword/hardened)
-    [`#industry`](keyword/industry)
-    [`#influence`](keyword/influence)
-    [`#interlayer`](keyword/interlayer)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#time`](keyword/time)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/agriculture"><button class="btn">#agriculture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Printing%20Direction%20and%20Interlayer%20Printing%20Time%20on%20the%20Bond%20Characteristics%20and%20Hardened%20Mechanical%20Properties%20of%20Agro-Industrial%20Waste-Based%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217845553&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407224814" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jmcee7.mteng-18196" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jmcee7.mteng-18196?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, the construction industry witnessed a rapid evolution with the emergence of three-dimensional (3D) concrete printing and a paradigm shift toward sustainability aims to utilize agro-industrial waste in 3D printable concrete (3DPC). However, the lack of understanding about the interlayer bond and the associated composite mechanical properties of 3DPC specimens, which form the basis for evaluating the structural performance, is one of the barriers behind the wider adoption of 3D printing technology. Moreover, characterization of the mechanical behavior of 3DPC specimens utilizing agro-industrial waste is very limited. Hence, in this study, various hardened mechanical properties—e.g., compressive strength, split tensile strength, flexural strength—of 3DPC specimens made of agro-industrial waste materials, including bagasse ash (BA) and fly ash (FA), are studied. Along with the aforementioned mechanical properties, variations in the interfilament bond among two printed layers are also investigated for different printing directions and interlayer time intervals. A detailed comparative analysis is performed among the mechanical properties exhibited by the 3DPC specimens with the conventional mold-casted sample. Experimental findings indicate that the direction of loading with respect to the printing direction has a strong influence on the bond as well as on the composite hardened mechanical properties of a 3DPC specimen, with the highest reduction in strength with respect to the mold-cast specimen occuring in the longitudinal direction of printing. Further, among the three mechanical properties studied in this work, compressive strength is found to be least affected due to the weaker interlayer bond in the case of 3D printing. Conversely, the interlayer bond has a stronger effect on the flexural strength than compressive strength, with a 45% decrease in strength in the longitudinal direction for the smallest printing time gap of 30 s. In addition, tensile bond strength in three different printing directions ranges between 10% and 15% of the split tensile strength of the mold-cast specimen. Consequently, the present contribution would be helpful in advancing the application of 3DPC in construction in a sustainable manner.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -126,8 +98,39 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhao_yanhua"><b>Zhao</b> Yanhua</a>, <a href="../../../author/meng_wei"><b>Meng</b> Wei</a>, <a href="../../../author/wang_peifu"><b>Wang</b> Peifu</a>, <a href="../../../author/qian_dongqing"><b>Qian</b> Dongqing</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhao_meng_wang_qian.2022.RPoC3PTaIESMaMDC/">Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chou_pal_kapo.2025.IoPDaIPTotBCaHMPoAIWB3PC,
+      author            = "Ajay Chourasia and Biswajit Pal and Ashish Kapoor",
+      title             = "Influence of Printing Direction and Interlayer Printing Time on the Bond Characteristics and Hardened Mechanical Properties of Agro-Industrial Waste-Based 3D Printed Concrete",
+      doi               = "10.1061/jmcee7.mteng-18196",
+      year              = "2025",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "37",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Chourasia, B. Pal and A. Kapoor, “Influence of Printing Direction and Interlayer Printing Time on the Bond Characteristics and Hardened Mechanical Properties of Agro-Industrial Waste-Based 3D Printed Concrete”, <i>Journal of Materials in Civil Engineering</i>, vol. 37, no. 4, 2025, doi: 10.1061/jmcee7.mteng-18196.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chourasia, Ajay, Biswajit Pal, and Ashish Kapoor. “Influence of Printing Direction and Interlayer Printing Time on the Bond Characteristics and Hardened Mechanical Properties of Agro-Industrial Waste-Based 3D Printed Concrete”. <i>Journal of Materials in Civil Engineering</i> 37, no. 4 (2025). https://doi.org/10.1061/jmcee7.mteng-18196.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

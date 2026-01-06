@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Attupurathu Rahul, Abhishek Sharma, Manu Santhanam
+    - footer
+title: Rahul Attupurathu, Sharma Abhishek, Santhanam Manu
 description:
 tags:
  - approach
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Desorptivity-Based Approach for the Assessment of Phase Separation During Extrusion of Cementitious Materials ([2020-01](date/2020/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2020.103546" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2020.103546</a>
+#A Desorptivity-Based Approach for the Assessment of Phase Separation During Extrusion of Cementitious Materials ([2020-01](date/2020/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2020.103546" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2020.103546" target="_blank">10.1016/j.cemconcomp.2020.103546</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span>, <a href="../../../author/sharma_abhishek"><b>Sharma</b>&nbsp;Abhishek</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhanam_manu"><b>Santhanam</b>&nbsp;Manu</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 108
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sharma_abhishek"><b>Sharma</b> Abhishek</a>
-,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 108, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#extrusion`](keyword/extrusion)
-    [`#material`](keyword/material)
-    [`#phase`](keyword/phase)
-    [`#separation`](keyword/separation)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/separation"><button class="btn">#separation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Desorptivity-Based%20Approach%20for%20the%20Assessment%20of%20Phase%20Separation%20During%20Extrusion%20of%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078407055&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,24 +38,21 @@ tags:
 <a href="https://inciteful.xyz/p/W3002092900" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2020.103546" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2020.103546?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A critical criterion for the extrusion of cementitious materials is that the mix used must remain stable and homogeneous without undergoing phase separation. Therefore, it is important to have an assessment of water retention capacity of mortars to be used for such purposes. Although there are empirical methods like bleed test (ASTM C1741 – 18 [1]), these methods are single-point measurements, i.e., conducted at a single pressure value for a fixed amount of time. In the current approach, desorptivity is used as a fundamental material parameter to evaluate the water retaining capability of different cement mortars. Desorptivity values were obtained at different constant pressures to obtain a desorptivity-pressure relationship. The influence of various factors on desorptivity such as the addition of superplasticizer, the addition of water retaining admixtures like hydroxypropyl methylcellulose (HPMC), particle packing density, and water content were examined. Finally, the different mixes were examined for phase separation by using a piston-pump-based system. Based on the maximum pressure applied in the piston pump, an index was proposed that distinguishes the mortars with the required water retention capability for the extrusion process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../perr_rang_nere_mech.2018.EoCBM/">Extrusion of Cement-Based Materials:<br/>An Overview</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "48 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/yang_xia"><b>Yang</b> Xia</a>, <a href="../../../author/wang_jiuyuan"><b>Wang</b> Jiuyuan</a>, <a href="../../../author/huang_han"><b>Huang</b> Han</a>, <a href="../../../author/wu_gengchen"><b>Wu</b> Gengchen</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yang_wang_huan_wu.2025.AWCBMfUS3CP/">Anti-Washout Cement-Based Material for Under-Seawater 3D Concrete Printing:<br/>Design, Mechanical Properties and Microstructural Analysis</a></li>
       <li><a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pate_raph.2025.RCEi3PRS/">Reducing Carbon Emissions in 3D Printed RCC Slabs</a></li>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
@@ -121,4 +101,33 @@ tags:
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_titt_schu.2021.RaPBo3PCMwVAC/">Rheological and Pumping Behavior of 3D Printable Cementitious Materials with Varying Aggregate Content</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../rahu_sant.2020.EtPoCCLCA/">Evaluating the Printability of Concretes Containing Lightweight Coarse Aggregates</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rahu_shar_sant.2020.ADBAftAoPSDEoCM,
+      author            = "Attupurathu Vijayan Rahul and Abhishek Sharma and Manu Santhanam",
+      title             = "A Desorptivity-Based Approach for the Assessment of Phase Separation During Extrusion of Cementitious Materials",
+      doi               = "10.1016/j.cemconcomp.2020.103546",
+      year              = "2020",
+      journal           = "Cement and Concrete Composites",
+      volume            = "108",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. V. Rahul, A. Sharma and M. Santhanam, “A Desorptivity-Based Approach for the Assessment of Phase Separation During Extrusion of Cementitious Materials”, <i>Cement and Concrete Composites</i>, vol. 108, 2020, doi: 10.1016/j.cemconcomp.2020.103546.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rahul, Attupurathu Vijayan, Abhishek Sharma, and Manu Santhanam. “A Desorptivity-Based Approach for the Assessment of Phase Separation During Extrusion of Cementitious Materials”. <i>Cement and Concrete Composites</i> 108 (2020). https://doi.org/10.1016/j.cemconcomp.2020.103546.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

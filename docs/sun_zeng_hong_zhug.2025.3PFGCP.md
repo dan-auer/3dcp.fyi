@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hou-Qi Sun, Jun-Jie Zeng, Guang-Yao Hong, Yan Zhuge, Yue Liu, Yamei Zhang
+    - footer
+title: Sun Hou-Qi, Zeng Jun-Jie, Hong Guang-Yao, Zhuge Yan, Liu Yue, Zhang Yamei
 description:
 tags:
  - behavior
@@ -16,34 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2024.119551) 3D Printed Functionally Graded Concrete Plates:<br/>:aca-blank: Concept and Bending Behavior ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.engstruct.2024.119551" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2024.119551</a>
+#3D Printed Functionally Graded Concrete Plates&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">Concept and Bending Behavior</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2024.119551) <a href="https://doi.org/10.1016/j.engstruct.2024.119551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2024.119551" target="_blank">10.1016/j.engstruct.2024.119551</a>
 
--------------------------
+<a href="../../../author/sun_hou-qi"><b>Sun</b>&nbsp;Hou-Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <a href="../../../author/hong_guang-yao"><b>Hong</b>&nbsp;Guang-Yao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuge_yan"><b>Zhuge</b>&nbsp;Yan</a></span>, <a href="../../../author/liu_yue"><b>Liu</b>&nbsp;Yue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Engineering Structures, Vol. 327, No. 119551
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>
-,     <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> <a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hong_guang-yao"><b>Hong</b> Guang-Yao</a>
-,     <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> <a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_yue"><b>Liu</b> Yue</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 327, No. 119551
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#bending`](keyword/bending)
-    [`#concept`](keyword/concept)
-    [`#concrete`](keyword/concrete)
-    [`#function`](keyword/function)
-    [`#grade`](keyword/grade)
-    [`#plate`](keyword/plate)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/plate"><button class="btn">#plate</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Functionally%20Graded%20Concrete%20Plates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213835570&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406065295" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2024.119551" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2024.119551?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP), as an innovative technology, has become increasingly popular owing to advantages such as cost-effectiveness, labor-saving, free of formwork and materials-saving. Using the layer-by-layer construction technique enabled by 3DCP, functionally graded concretes with different ultimate tensile strain (UTS) capacities are proposed in this paper, leading to an optimum design of concrete plates. Three types of concrete, which are designed to have different UTS capacities, namely engineering cementitious composites (ECC), normal concrete (NC) and gepolymer concrete (GC), are developed. Six groups of 3D-printed functionally graded concrete plates are fabricated and tested under bending. The results revealed that the load-bearing capacity of FGC-3–2–1 was comparable to that of ECC plates, while FGC-1–2–3 exhibited the lowest load-bearing and deformation capacities. Increasing the number of ECC layers enhanced both the load-bearing and deformation capacities. Conversely, changing the number of GC and NC layers when the number of ECC layers remained constant resulted in similar performance. Additionally, using ECC as a reinforcing layer for 3D-printed concrete structures significantly improved their load-bearing and deformation capacities. These findings suggest that the proper design of functionally graded concrete can substantially reduce the CO2 of concrete plates without compromising their mechanical properties. Finally, a theoretical model based on bond-slip laws was proposed and validated against the test results, providing valuable insights for the design and optimization of 3D-printed concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/zheng_dapeng"><b>Zheng</b> Dapeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../cao_yu_zhen_cui.2022.NPtEtIBSi3PC/">Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete</a></li>
@@ -110,8 +87,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zeng_jian_yan_sun.2025.3PoCCFRPRfCC/">3D Printing of Continuous Carbon Fiber-Reinforced Polymer Reinforcement for Concrete Columns</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -130,4 +107,34 @@ tags:
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a></li>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/deng_run-bin"><b>Deng</b> Run-Bin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zeng_sun_deng_yan.2025.BPBFBa3PHPC/">Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_zeng_hong_zhug.2025.3PFGCP,
+      author            = "Hou-Qi Sun and Jun-Jie Zeng and Guang-Yao Hong and Yan Zhuge and Yue Liu and Yamei Zhang",
+      title             = "3D Printed Functionally Graded Concrete Plates: Concept and Bending Behavior",
+      doi               = "10.1016/j.engstruct.2024.119551",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "327",
+      pages             = "119551",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H.-Q. Sun, J.-J. Zeng, G.-Y. Hong, Y. Zhuge, Y. Liu and Y. Zhang, “3D Printed Functionally Graded Concrete Plates: Concept and Bending Behavior”, <i>Engineering Structures</i>, vol. 327, p. 119551, 2025, doi: 10.1016/j.engstruct.2024.119551.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Hou-Qi, Jun-Jie Zeng, Guang-Yao Hong, Yan Zhuge, Yue Liu, and Yamei Zhang. “3D Printed Functionally Graded Concrete Plates: Concept and Bending Behavior”. <i>Engineering Structures</i> 327 (2025): 119551. https://doi.org/10.1016/j.engstruct.2024.119551.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

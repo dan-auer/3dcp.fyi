@@ -8,7 +8,7 @@ search:
 
 # #superplasticizer
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
   <li><a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>, <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_seka.2025.Ei3P/">Extrudability in 3D Printing:<br/>A Comprehensive Approach to S/C, W/C Ratios and Superplasticizer Content</a></li>
   <li><a href="../../../author/jarabo_rocio"><b>Jarabo</b> Rocío</a>, <a href="../../../author/fuente-gonzalez_elena"><b>Fuente González</b> Elena</a>, <a href="../../../author/garcia-calvo_luis_jose"><b>García Calvo</b> José</a>, <a href="../../../author/carballosa_pedro"><b>Carballosa</b> Pedro</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jara_fuen_garc_carb.2024.NCCtRSDi3PoCM/">Nano-Crystalline-Cellulose to Reduce Superplasticizer-Demand in 3D Printing of Cementitious Materials</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mihail-Andrei Jipa, Mathias Bernhard, Mania Meibodi, Benjamin Dillenburger
+    - footer
+title: Jipa Mihail-Andrei, Bernhard Mathias, Meibodi Mania, Dillenburger Benjamin
 description:
 tags:
  - concrete
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-# 3D Printed Stay-in-Place Formwork for Topologically Optimized Concrete Slabs ([2016-11](date/2016/11))
-<a href="https://doi.org/10.3929/ethz-b-000237082" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3929/ethz-b-000237082</a>
+#3D Printed Stay-in-Place Formwork for Topologically Optimized Concrete Slabs ([2016-11](date/2016/11))
+ <a href="https://doi.org/10.3929/ethz-b-000237082" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3929/ethz-b-000237082" target="_blank">10.3929/ethz-b-000237082</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jipa_mihail-andrei"><b>Jipa</b>&nbsp;Mihail-Andrei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5128-4723" title="ORCID: 0000-0002-5128-4723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bernhard_mathias"><b>Bernhard</b>&nbsp;Mathias</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b>&nbsp;Mania</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Contribution - Proceedings of the 2016 TxA Emerging Design + Technology Conference
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> <a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a> <a href="https://orcid.org/0000-0002-5128-4723" title="ORCID: 0000-0002-5128-4723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2016 TxA Emerging Design + Technology Conference, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#formwork`](keyword/formwork)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#slab`](keyword/slab)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Stay-in-Place%20Formwork%20for%20Topologically%20Optimized%20Concrete%20Slabs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,20 +36,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2964848140" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3929/ethz-b-000237082" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3929/ethz-b-000237082?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Material efficiency is becoming a critical design driver in the construction industry. While many strategiesfor improving material efficiency focus on the end of a building s lifecycle (recycling materials, reusing compo-nents, reducing waste, extending life spans, etc.), thereis also great potential for reducing material use in theearly design phases. This is especially significant for materials that are difficult to recycle, such as concrete (Allwood et al. 2011).The usual means for achieving material reductionwith concrete are hollow-core construction systems,pre-stressing, and the use of lightweight concrete.Computational methods, such as the optimization ofsize, shape, and topology, can also be used to ensure theefficient distribution of concrete for a given part. While significant material reduction can be achieved with these methods, the resulting geometries are often so intricatethat fabrication becomes problematic (Dombernowskyand Søndergaard, 2011).The designer is confronted with the compromisebetween optimal material distribution and fabricationconstraints. Subtractive (e.g. milling) and formative(e.g. casting and moulding) fabrication processesimpose significant manufacturing constraints on the optimized form and its topological features. Three-axismilling, for example, is limited by tool-head accessibilityand therefore cannot be used to fabricate undercuts.Five-axis milling is more tolerant of undercuts, butoften parts must be split into smaller subdivisions toprevent clashes with the larger tool heads. Formativefabrication has directional limitations determinedby the rheology of the casting material and by thedemoulding process (fig. 1). However, 3D printing, or additive manufacturing, is aprocess that promises almost no fabrication constraints,potentially enabling the production of topologically optimized complex geometries. The aim of this research isto demonstrate that large-scale parts can be fabricatedwith additive manufacturing. To investigate this hypoth-esis, two concrete slab components were designed withthe aid of topology optimization algorithms, and fabri-cated using 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
       <li><a href="../../../author/ilerisoy_yesim_zeynep"><b>İlerisoy</b> Zeynep</a>, <a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../iler_takv_top_gokg.2025.TEo3CPTiAD/">The Effectiveness of 3D Concrete Printing Technology in Architectural Design:<br/>Different Corner-Wall Combinations in 3D Printed Elements and Geometric Form Configurations in Residential Buildings</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/pancho_paolo"><b>Pancho</b> Paolo</a>, <a href="../../../author/sanchez_daniela"><b>Sanchez</b> Daniela</a>, <a href="../../../author/poudel_suman"><b>Poudel</b> Suman</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../rami_panc_sanc_poud.2025.DaDoaLRCfC3P/">Design and Development of a Lean Robotic Cell for Concrete 3D Printing</a></li>
@@ -91,4 +71,33 @@ tags:
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../agus_jipa_habe.2019.EAoMFBECwDFT/">Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../jipa_bern_dill.2017.SF/">Submillimetre Formwork:<br/>3D Printed Plastic Formwork for Concrete Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{jipa_bern_meib_dill.2016.3PSiPFfTOCS,
+      author            = "Mihail-Andrei Jipa and Mathias Bernhard and Mania Aghaei Meibodi and Benjamin Dillenburger",
+      title             = "3D Printed Stay-in-Place Formwork for Topologically Optimized Concrete Slabs",
+      doi               = "10.3929/ethz-b-000237082",
+      year              = "2016",
+      booktitle         = "Proceedings of the 2016 TxA Emerging Design + Technology Conference",
+      editor            = "Kory Bieg",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M.-A. Jipa, M. Bernhard, M. A. Meibodi and B. Dillenburger, “3D Printed Stay-in-Place Formwork for Topologically Optimized Concrete Slabs”, in <i>Proceedings of the 2016 TxA Emerging Design + Technology Conference</i>,  2016. doi: 10.3929/ethz-b-000237082.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jipa, Mihail-Andrei, Mathias Bernhard, Mania Aghaei Meibodi, and Benjamin Dillenburger. “3D Printed Stay-in-Place Formwork for Topologically Optimized Concrete Slabs”. In <i>Proceedings of the 2016 TxA Emerging Design + Technology Conference</i>, edited by Kory Bieg, 2016. https://doi.org/10.3929/ethz-b-000237082.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

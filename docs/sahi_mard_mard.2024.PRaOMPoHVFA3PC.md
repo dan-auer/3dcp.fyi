@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hatice Şahin, Ali Mardani, Naz Mardani
+    - footer
+title: Şahin Hatice, Mardani Ali, Mardani Naz
 description:
 tags:
  - ash
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/7/2069/pdf?version=1721115754) Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete ([2024-07](date/2024/07))
-<a href="https://doi.org/10.3390/buildings14072069" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14072069</a>
+#Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/7/2069/pdf?version=1721115754) <a href="https://doi.org/10.3390/buildings14072069" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14072069" target="_blank">10.3390/buildings14072069</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span>, <a href="../../../author/mardani_naz"><b>Mardani</b>&nbsp;Naz</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 7, No. 2069
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a> <a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 7, No. 2069
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#mixing`](keyword/mixing)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#proportion`](keyword/proportion)
-    [`#requirement`](keyword/requirement)
-    [`#volume`](keyword/volume)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/proportion"><button class="btn">#proportion</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20Requirements%20and%20Optimum%20Mix%20Proportion%20of%20High-Volume%20Fly-Ash%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199595371&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400423877" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14072069" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14072069?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, a procedure for mixture design was proposed with the aim of meeting the requirements of extrudability, buildability, and shape stability in 3D printable concrete. Optimum water/binder ratio, sand/binder ratio, binder type, utilization ratio, aggregate particle distribution and quantity, and type and utilization ratio of chemical admixtures were determined for 3D printable concrete in terms of print quality and shape stability criteria. A total of 32 different mixtures were produced. It was determined that mixtures produced using a binder content with approximately 40% fly ash, a w/b ratio of 0.35, and aggregates with Dmax of 1 mm exhibit acceptable characteristics. Investigations were also conducted into the thixotropic behavior, rheological characteristics, and mechanical properties of the mixes that were deemed acceptable. As a result, it was determined that the increase in the amount of fly ash usage positively affected the buildability of the printed layers. Additionally, the dynamic yield stress ranging from 114 to 204 Pa, viscosity ranging from 22 to 43 Pa.s, and structural build-up value ranges suitable for the production of 3D printable concrete mixtures were determined.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "55 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/adi_n"><b>Adi</b> N.</a>, <a href="../../../author/kurniawan_e_m"><b>Kurniawan</b> M.</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../anto_adi_kurn_agra.2023.TIoVMAaCCo3PMC/">The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -126,8 +103,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
@@ -135,6 +112,36 @@ tags:
       <li><a href="../../../author/nieswiec_martyna"><b>Nieświec</b> Martyna</a>, <a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../nies_chaj_savi.2025.EoGCSotFPo3PCC/">Effect of Ground Copper Slag on the Fresh Properties of 3d Printed Cementitious Composites</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/kaya_yahya"><b>Kaya</b> Yahya</a>, <a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../sahi_kaya_akgu_mard.2025.DoMPo3FRPCMEtET/">Degradation of Mechanical Properties of 3D Fiber Reinforced Printed Concrete Mixtures Exposed to Elevated Temperatures</a></li>
       <li><a href="../../../author/bao_minh-phuong_ta"><b>Bao</b> Ta</a>, <a href="../../../author/yeakleang_muy"><b>Yeakleang</b> Muy</a>, <a href="../../../author/abdelouhab_sandra"><b>Abdelouhab</b> Sandra</a>, <a href="../../../author/courard_luc"><b>Courard</b> Luc</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../bao_yeak_abde_cour.2024.TMf3P/">Testing Mortars for 3D Printing:<br/>Correlation with Rheological Behavior</a></li>
-      <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../sahi_mard.2023.MPDPaILAo3M/">Mechanical Properties, Durability Performance and Inter-Layer Adhesion of 3DPC Mixtures:<br/>A State‐of‐the‐art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sahi_mard_mard.2024.PRaOMPoHVFA3PC,
+      author            = "Hatice Gizem Şahin and Ali Mardani and Naz Mardani",
+      title             = "Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete",
+      doi               = "10.3390/buildings14072069",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "7",
+      pages             = "2069",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. G. Şahin, A. Mardani and N. Mardani, “Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete”, <i>Buildings</i>, vol. 14, no. 7, p. 2069, 2024, doi: 10.3390/buildings14072069.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Şahin, Hatice Gizem, Ali Mardani, and Naz Mardani. “Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete”. <i>Buildings</i> 14, no. 7 (2024): 2069. https://doi.org/10.3390/buildings14072069.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Sergis Vasileios 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sergis_vasileios"><b>Sergis</b> Vasileios</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../serg_ouel.2024.AMDf3PM/">Algorithmic Mix-Design for 3D Printing Materials</a></li>
   <li><a href="../../../author/sergis_vasileios"><b>Sergis</b> Vasileios</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../serg_ouel.2023.AOMDMf3CPA/">An Optimum Mix-Design Method for 3D Concrete Printing Applications</a></li>
   <li><a href="../../../author/sergis_vasileios"><b>Sergis</b> Vasileios</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../serg_ouel.2022.AMDf3CPUOM/">Automating Mix-Design for 3D Concrete Printing Using Optimization Methods</a></li>

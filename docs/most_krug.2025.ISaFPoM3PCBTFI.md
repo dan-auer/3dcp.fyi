@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jean-Pierre Mostert, Jacques Kruger
+    - footer
+title: Mostert Jean-Pierre, Kruger Jacques
 description:
 tags:
  - beam
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2025.113159) Improving Shear and Flexural Performance of Macroscale 3D Printed Concrete Beams Through Filament Interlocking ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.jobe.2025.113159" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113159</a>
+#Improving Shear and Flexural Performance of Macroscale 3D Printed Concrete Beams Through Filament Interlocking ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.113159) <a href="https://doi.org/10.1016/j.jobe.2025.113159" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113159" target="_blank">10.1016/j.jobe.2025.113159</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-4222-1540" title="ORCID: 0009-0006-4222-1540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mostert_jean-pierre"><b>Mostert</b>&nbsp;Jean-Pierre</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113159
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a> <a href="https://orcid.org/0009-0006-4222-1540" title="ORCID: 0009-0006-4222-1540" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113159
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#filament`](keyword/filament)
-    [`#flexural`](keyword/flexural)
-    [`#improvement`](keyword/improvement)
-    [`#interlocking`](keyword/interlocking)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#shear`](keyword/shear)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20Shear%20and%20Flexural%20Performance%20of%20Macroscale%203D%20Printed%20Concrete%20Beams%20Through%20Filament%20Interlocking" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008294858&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411227557" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113159" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113159?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Weak interlayer bonding remains a critical challenge in the structural performance of reinforced three-dimensional concrete printed (3DCP) beams, leading to premature delamination and reduced shear capacity. This study investigates a novel interlocking filament approach to enhance interlayer adhesion and improve mechanical performance. Custom-designed 3D-printed nozzles were developed to extrude filaments with tongue-and-groove geometries, thereby increasing the degree of mechanical interlocking of interlayers. To evaluate its effectiveness, four macroscale reinforced 3DCP beams—two with conventional flat interlayers and two with interlocked interlayers—were fabricated and tested under four-point bending with different shear-spans. Experimental results demonstrate that interlocking interlayers significantly enhance structural performance, with the shear capacity of interlocked beams increasing by up to 97.6% compared to reference beams. Additionally, interlocked beams exhibited improved ductility and delayed interlayer delamination, with flexural strength increasing by up to 10.7%. Deterministic resistance calculations, based on modified Eurocode 2 models, revealed that shear capacity predictions for 3DCP beams with conventional layers overestimate experimental values by 108%, whereas interlocked beams align more closely, with a deviation of only 13.08%. These findings highlight the necessity of filament interlocking geometries to enhance the structural integrity of 3DCP beams, particularly under shear-dominant loading. The results provide insights into optimising interlayer bonding strategies, contributing to the development of structurally efficient, ductile and reliable 3DCP elements. Future research should further explore interlocking topologies in combination with other reinforcement techniques to maximise interlayer strength and long-term performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bai_xiao_wu_ding.2024.EaNSotFBo3PCBwUSEF/">Experimental and Numerical Study on the Flexural Behavior of 3D Printed Composite Beams with U-Shaped ECC Formwork</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
@@ -109,8 +88,36 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../weng_li_wong_tan.2021.SCaBADSfILBSEi3CP/">Synchronized Concrete and Bonding-Agent-Deposition-System for Inter-Layer Bond Strength Enhancement in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../krug_zijl.2024.ASEPoEB3CP/">A Structural Engineering Perspective on Extrusion-Based 3D Concrete Printing:<br/>From Green to Solid State</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{most_krug.2025.ISaFPoM3PCBTFI,
+      author            = "Jean-Pierre Mostert and Jacques Pienaar Kruger",
+      title             = "Improving Shear and Flexural Performance of Macroscale 3D Printed Concrete Beams Through Filament Interlocking",
+      doi               = "10.1016/j.jobe.2025.113159",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113159",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-P. Mostert  and J. P. Kruger, “Improving Shear and Flexural Performance of Macroscale 3D Printed Concrete Beams Through Filament Interlocking”, <i>Journal of Building Engineering</i>, p. 113159, 2025, doi: 10.1016/j.jobe.2025.113159.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mostert, Jean-Pierre, and Jacques Pienaar Kruger. “Improving Shear and Flexural Performance of Macroscale 3D Printed Concrete Beams Through Filament Interlocking”. <i>Journal of Building Engineering</i>, 2025, 113159. https://doi.org/10.1016/j.jobe.2025.113159.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

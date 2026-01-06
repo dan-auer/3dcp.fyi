@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jing Cao, Xiaojie Yang, Yaming Shi, Yi Yang, Yuan Qin, Junrui Chai, Zengguang Xu
+    - footer
+title: Cao Jing, Yang Xiaojie, Shi Yaming, Yang Yi, Qin Yuan, Chai Junrui, Xu Zengguang
 description:
 tags:
  - analysis
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing. ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.dibe.2025.100806" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2025.100806</a>
+#Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing. ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.dibe.2025.100806" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2025.100806" target="_blank">10.1016/j.dibe.2025.100806</a>
 
--------------------------
+<a href="../../../author/cao_jing"><b>Cao</b>&nbsp;Jing</a></span>, <a href="../../../author/yang_xiaojie"><b>Yang</b>&nbsp;Xiaojie</a></span>, <a href="../../../author/shi_yaming"><b>Shi</b>&nbsp;Yaming</a></span>, <a href="../../../author/yang_yi"><b>Yang</b>&nbsp;Yi</a></span>, <a href="../../../author/qin_yuan"><b>Qin</b>&nbsp;Yuan</a></span>, <a href="../../../author/chai_junrui"><b>Chai</b>&nbsp;Junrui</a></span>, <a href="../../../author/xu_zengguang"><b>Xu</b>&nbsp;Zengguang</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100806
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cao_jing"><b>Cao</b> Jing</a>
-,     <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>
-,     <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a>
-,     <a href="../../../author/yang_yi"><b>Yang</b> Yi</a>
-,     <a href="../../../author/qin_yuan"><b>Qin</b> Yuan</a>
-,     <a href="../../../author/chai_junrui"><b>Chai</b> Junrui</a>
-,     <a href="../../../author/xu_zengguang"><b>Xu</b> Zengguang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100806
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#steel`](keyword/steel)
-    [`#uniform`](keyword/uniform)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/uniform"><button class="btn">#uniform</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Analysis%20of%20Mechanical%20Properties%20of%20Steel%20Fiber%20Composite%20Cement%20Mortar%20Considering%20Non-Uniformity%20in%203D%20Printing." title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417259111" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2025.100806" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2025.100806?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed concrete has significant potential for applications in the construction industry. However, compatibility issues still exist when combining it with conventional steel reinforcement. Fiber-reinforced 3D-printed concrete is commonly used, but the fiber distribution affects the mechanical properties of the material. During the printing process, fiber agglomeration may occur, and currently, research on its influencing mechanism and microstructural analysis is relatively limited. To evaluate the influence of fiber agglomeration distribution characteristics on cement-based materials, this study established a two-dimensional finite element model of 3D-printed steel fiber-reinforced cement-based material (3DP-SFRCBM) using a parametric programming language. The model consists of steel fibers, cement mortar, and an interfacial transition zone (ITZ), and considers different fiber distribution widths (with β ratios of 20%, 40%, 60%, 80%, and 100%) and orientations (horizontal, vertical, and random). At the same time, the Weibull distribution was applied to describe the uniformity of the ITZ(with homogeneity parameters m = 6 and 20), simulating the entire failure process of cement under uniaxial tensile loading. The results show that the direction and orientation of fiber agglomeration have a significant effect on the peak strength of the material. When the interfacial homogeneity parameter is m = 6, the influence of fiber orientation on peak stress follows the order: vertical (parallel to the loading direction) > random > horizontal (parallel to the direction perpendicular to loading). When the homogeneity increases, the results are opposite. For a constant fiber orientation, the horizontal fiber agglomeration direction exhibits a higher peak stress; improved homogeneity contributes to higher peak stress and more stable results. In addition, the directionality and concentration of fibers have an important influence on the formation of final cracks; fiber agglomeration leads to the formation of local stress concentration regions, which cause cracks in these regions to propagate rapidly. This study further reveals the mechanism of the fiber agglomeration phenomenon in 3D-printed fiber-reinforced composites and provides a theoretical basis for optimizing printing processes and material mix designs in future research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -99,7 +71,36 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/lu_pengyuan"><b>Lu</b> Pengyuan</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/dong_liang"><b>Dong</b> Liang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yang_lu_liu_dong.2024.EoSFwDOoMPo3PSFRC/">Effect of Steel-Fiber with Different Orientations on Mechanical Properties of 3D Printed Steel-Fiber-Reinforced Concrete:<br/>Meso-Scale Finite-Element-Analysis</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhan_zhan_yang_liu.2022.EoAFaVDi3PC/">Evaluation of Aggregates, Fibers and Voids-Distribution in 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P,
+      author            = "Jing Cao and Xiaojie Yang and Yaming Shi and Yi Yang and Yuan Qin and Junrui Chai and Zengguang Xu",
+      title             = "Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.",
+      doi               = "10.1016/j.dibe.2025.100806",
+      year              = "2025",
+      journal           = "Developments in the Built Environment",
+      pages             = "100806",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Cao, “Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.”, <i>Developments in the Built Environment</i>, p. 100806, 2025, doi: 10.1016/j.dibe.2025.100806.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cao, Jing, Xiaojie Yang, Yaming Shi, Yi Yang, Yuan Qin, Junrui Chai, and Zengguang Xu. “Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.”. <i>Developments in the Built Environment</i>, 2025, 100806. https://doi.org/10.1016/j.dibe.2025.100806.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

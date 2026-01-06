@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Aravindhraj Mani, Muthu Sekar
+    - footer
+title: Mani Aravindhraj, Sekar Muthu
 description:
 tags:
  - concrete
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Non-Destructive Testing Techniques for Investigating Mechanical Property and Porosity-Disparities in Extrusion 3D Printed Concrete ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1080/10589759.2024.2393721" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/10589759.2024.2393721</a>
+#Non-Destructive Testing Techniques for Investigating Mechanical Property and Porosity-Disparities in Extrusion 3D Printed Concrete ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/10589759.2024.2393721" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10589759.2024.2393721" target="_blank">10.1080/10589759.2024.2393721</a>
 
--------------------------
+<a href="../../../author/mani_aravindhraj"><b>Mani</b>&nbsp;Aravindhraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8808-7208" title="ORCID: 0000-0001-8808-7208" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sekar_kumar_muthu"><b>Sekar</b>&nbsp;Muthu</a></span><br>
+Journal Article - Nondestructive Testing and Evaluation, pp. 1-37
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>
-,     <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="https://orcid.org/0000-0001-8808-7208" title="ORCID: 0000-0001-8808-7208" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Nondestructive Testing and Evaluation, pp. 1-37
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#destructive`](keyword/destructive)
-    [`#extrusion`](keyword/extrusion)
-    [`#investigation`](keyword/investigation)
-    [`#mechanics`](keyword/mechanics)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#technique`](keyword/technique)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Non-Destructive%20Testing%20Techniques%20for%20Investigating%20Mechanical%20Property%20and%20Porosity-Disparities%20in%20Extrusion%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202894507&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402094173" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/10589759.2024.2393721" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/10589759.2024.2393721?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three Dimensional Concrete printing (3DCP) stands at the forefront of modern construction methodologies, also named additive manufacturing, offering unparalleled time, cost, and labour savings compared to conventional approaches. The evaluation of fresh state parameters like extrudability and buildability through a specialised concrete extruder, combined with a methodical layer-by-layer deposition, ensures structural stability by precisely strengthening each layer. Mechanical strength evaluations highlight the printed material’s anisotropic nature, revealing extreme reductions of Fy = 27.94%, Fx = 19.07%, and Fy = 16.33% in compression, flexural, and split tensile strengths, respectively, compared to cast specimens. This emphasises the importance of direction-specific mechanical testing in understanding material behaviour completely. Non-destructive testing (NDT) methods, like Ultrasonic Pulse Velocity (UPV) testing, are crucial for the qualitative assessment of the integrity and mechanical strength of concrete structures, including both printed and cast specimens, by establishing a strong correlation with compressive strength without causing any damage. Limited research indicates that the microstructure of the material plays a significant role in its mechanical strength, particularly in printed specimens. This claim is reinforced by mercury intrusion porosimetry (MIP) results, which reveal that printed specimens have slightly higher overall porosity, concentrated between 1 µm and 0.1 µm, while cast specimens show higher porosity in pores smaller than 0.1 µm.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bhat_jain_sant.2023.D3PaBLCCBCCwHAC/">Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -112,10 +90,39 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>, <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mani_seka.2025.NTfEMPiGaFR3PM/">NDT Techniques for Evaluating Mechanical Properties in Green and Fiber-Reinforced 3D Printable Mixes</a></li>
       <li><a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ahn_han_shin_khay.2025.NMtE3PCQUUSET/">Novel Method to Evaluate 3D Printed Concrete Quality Using Ultrasonic Scatter-Energy-Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mani_seka.2024.NDTTfIMPaPDiE3PC,
+      author            = "Aravindhraj Mani and Muthu Kumar Sekar",
+      title             = "Non-Destructive Testing Techniques for Investigating Mechanical Property and Porosity-Disparities in Extrusion 3D Printed Concrete",
+      doi               = "10.1080/10589759.2024.2393721",
+      year              = "2024",
+      journal           = "Nondestructive Testing and Evaluation",
+      pages             = "1--37",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Mani  and M. K. Sekar, “Non-Destructive Testing Techniques for Investigating Mechanical Property and Porosity-Disparities in Extrusion 3D Printed Concrete”, <i>Nondestructive Testing and Evaluation</i>, pp. 1–37, 2024, doi: 10.1080/10589759.2024.2393721.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mani, Aravindhraj, and Muthu Kumar Sekar. “Non-Destructive Testing Techniques for Investigating Mechanical Property and Porosity-Disparities in Extrusion 3D Printed Concrete”. <i>Nondestructive Testing and Evaluation</i>, 2024, 1–37. https://doi.org/10.1080/10589759.2024.2393721.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

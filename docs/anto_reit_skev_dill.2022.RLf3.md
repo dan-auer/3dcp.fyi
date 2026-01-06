@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ana-Maria Anton, Lex Reiter, Eleni Skevaki, Benjamin Dillenburger
+    - footer
+title: Anton Ana-Maria, Reiter Lex, Skevaki Eleni, Dillenburger Benjamin
 description:
 tags:
  - 3dcp
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Reinforcement Lattices for 3DCP:<br/>:aca-blank: A Fabrication Method Based on Ruled Surfaces ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1201/9781003023555-33" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1201/9781003023555-33</a>
+#Reinforcement Lattices for 3DCP&nbsp;([2022-07](date/2022/07))
+<div class="h1-like">A Fabrication Method Based on Ruled Surfaces</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003023555-33" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003023555-33" target="_blank">10.1201/9781003023555-33</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4820-4048" title="ORCID: 0000-0003-4820-4048" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skevaki_eleni"><b>Skevaki</b>&nbsp;Eleni</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Contribution - Structures and Architecture, pp. 268-276
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a> <a href="https://orcid.org/0000-0003-4820-4048" title="ORCID: 0000-0003-4820-4048" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Structures and Architecture, pp. 268-276
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#base`](keyword/base)
-    [`#fabrication`](keyword/fabrication)
-    [`#lattice`](keyword/lattice)
-    [`#method`](keyword/method)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reinforcement%20Lattices%20for%203DCP" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285033306" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1201/9781003023555-33" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1201/9781003023555-33?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is one of the most used digital fabrication processes with concrete. As a technology, 3DCP promises an economy of resources by creating optimized geometries that require no formwork. But, before material reduction can be achieved, the 3DCP should be comparable in mechanical performance with conventionally reinforced concrete. Existing literature already acknowledges the difficulty of adding reinforcement compatible with 3DCP. Even if several reinforcement strategies for 3DCP are reported, the direct implementation of conventional rebar in 3DCP remains limited. The presented work shows how the geometric freedom for 3DCP enables the efficient placement of continuous and straight rebar in a lattice that activates both loading orientations. The presented prototypes reduce the overall concrete use. The material reduction is achieved by creating a hollow structural element in which the printed concrete acts as formwork for the infill and as a simple guide for reinforcement. This design strategy simultaneously simplifies the assembly of an elaborate reinforcement cage and utilizes linear, readily available, and cheap rebar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -86,8 +66,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kamh_meib.2024.TaSiEB3CPoCCtPPF/">Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jipa_anto_gebh_dill.2024.TNS/">The Nubian Slab:<br/>3D Concrete Printed Stay-in-Place Formwork for Vaulted Slabs</a></li>
       <li><a href="../../../author/soto_giraldo_alejandro"><b>Soto</b> Alejandro</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../soto_gebh_anto_dill.2024.STCfa3mT3PCT/">Structural Testing Campaign for a 30 m Tall 3D Printed Concrete Tower</a></li>
@@ -96,4 +76,34 @@ tags:
       <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/triantafyllidis_zafiris"><b>Triantafyllidis</b> Zafiris</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../raza_tria_anto_dill.2024.SPoFSPSSBCw3PPCF/">Seismic Performance of Fe-SMA Pre-Stressed Segmental Bridge Columns with 3D Printed Permanent Concrete Formwork</a></li>
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/lee_minu"><b>Lee</b> Minu</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../mata_gebh_lee_bisc.2023.AiSAoDFWC/">Advances in Structural Applications of Digital Fabrication With Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{anto_reit_skev_dill.2022.RLf3,
+      author            = "Ana-Maria Anton and Lex Reiter and Eleni Skevaki and Benjamin Dillenburger",
+      title             = "Reinforcement Lattices for 3DCP: A Fabrication Method Based on Ruled Surfaces",
+      doi               = "10.1201/9781003023555-33",
+      year              = "2022",
+      pages             = "268--276",
+      booktitle         = "Structures and Architecture: A Viable Urban Perspective?",
+      editor            = "Paulo Jorge Sousa Cruz and Marie Frier Hvejsel",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A.-M. Anton, L. Reiter, E. Skevaki and B. Dillenburger, “Reinforcement Lattices for 3DCP: A Fabrication Method Based on Ruled Surfaces”, in <i>Structures and Architecture: A Viable Urban Perspective?</i>,  2022, pp. 268–276. doi: 10.1201/9781003023555-33.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Anton, Ana-Maria, Lex Reiter, Eleni Skevaki, and Benjamin Dillenburger. “Reinforcement Lattices for 3DCP: A Fabrication Method Based on Ruled Surfaces”. In <i>Structures and Architecture: A Viable Urban Perspective?</i>, edited by Paulo Jorge Sousa Cruz and Marie Frier Hvejsel, 268–76, 2022. https://doi.org/10.1201/9781003023555-33.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

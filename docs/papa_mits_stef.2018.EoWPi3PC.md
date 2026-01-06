@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Michail Papachristoforou, Vasilios Mitsopoulos, Maria Stefanidou
+    - footer
+title: Papachristoforou Michail, Mitsopoulos Vasilios, Stefanidou Maria
 description:
 tags:
  - concrete
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.prostr.2018.09.023) Evaluation of Workability Parameters in 3D Printing Concrete ([2018-10](date/2018/10))
-<a href="https://doi.org/10.1016/j.prostr.2018.09.023" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.prostr.2018.09.023</a>
+#Evaluation of Workability Parameters in 3D Printing Concrete ([2018-10](date/2018/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.prostr.2018.09.023) <a href="https://doi.org/10.1016/j.prostr.2018.09.023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.prostr.2018.09.023" target="_blank">10.1016/j.prostr.2018.09.023</a>
 
--------------------------
+<a href="../../../author/papachristoforou_michail"><b>Papachristoforou</b>&nbsp;Michail</a></span>, <a href="../../../author/mitsopoulos_vasilios"><b>Mitsopoulos</b>&nbsp;Vasilios</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1428-9533" title="ORCID: 0000-0002-1428-9533" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stefanidou_maria"><b>Stefanidou</b>&nbsp;Maria</a></span><br>
+Journal Article - Procedia Structural Integrity, Vol. 10, pp. 155-162
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/papachristoforou_michail"><b>Papachristoforou</b> Michail</a>
-,     <a href="../../../author/mitsopoulos_vasilios"><b>Mitsopoulos</b> Vasilios</a>
-,     <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="https://orcid.org/0000-0002-1428-9533" title="ORCID: 0000-0002-1428-9533" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Procedia Structural Integrity, Vol. 10, pp. 155-162
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#workability`](keyword/workability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Workability%20Parameters%20in%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85060604844&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,27 +35,22 @@ tags:
 <a href="https://inciteful.xyz/p/W2895565558" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.prostr.2018.09.023" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.prostr.2018.09.023?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this paper was to examine workability of fresh concrete used as material for additive manufacturing. 3D concrete printing is an innovative construction method that promises to be highly advantageous in the construction field in terms of optimizing construction time, cost, design flexibility, error reduction, and environmental aspects. Quality of the final printed structure is significantly affected by the properties of fresh concrete which must possess adequate workability in order to be extruded through an extruder head (printability), maintain its shape once deposited and not collapse under the load of subsequent layers (buildability). In the present paper, workability of fresh concrete used as material for additive manufacturing was measured according to four different tests: flow table, ICAR rheometer, Vicat and an experimental applied in the laboratory by measuring the electric power consumption of the motor that rotates the screw extruder. By measuring a wide range of mixtures produced with different aggregates (limestone, river sand, combination of both) and binders (cement, fly ash, ladle furnace slag), printing them with a printing system with screw extruder and setting printable criteria, the range of printability was obtained. Flow table test was more consistent in relation to the other methods used. Printability range was found between 18 and 24 cm (flow table values). Time after mixing for moving from the upper limit to the lower was also measured and was highly depended on the type of aggregates and binders used. A maximum of 30 minutes was obtained without using any retarder additives. Electric power consumption was considered as a parameter of measuring real-time workability of the mixture, making it possible to modify it on time in real scale applications by adding chemical additives during printing. Regarding hardened concrete properties, density of concrete was measured, between 1.9 and 2.1 g/cm³, depending on the aggregate and binder. Compressive strength and Ultrasonic Pulse Velocity are significantly affected by the type and proportions of raw materials in the mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "88 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
@@ -159,4 +140,34 @@ tags:
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/arora_aashay"><b>Arora</b> Aashay</a>, <a href="../../../author/mehdipour_iman"><b>Mehdipour</b> Iman</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../nair_algh_aror_mehd.2019.LFPMRaECoCBf3P/">Linking Fresh Paste Microstructure, Rheology and Extrusion-Characteristics of Cementitious Binders for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{papa_mits_stef.2018.EoWPi3PC,
+      author            = "Michail Papachristoforou and Vasilios Mitsopoulos and Maria Stefanidou",
+      title             = "Evaluation of Workability Parameters in 3D Printing Concrete",
+      doi               = "10.1016/j.prostr.2018.09.023",
+      year              = "2018",
+      journal           = "Procedia Structural Integrity",
+      volume            = "10",
+      pages             = "155--162",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Papachristoforou, V. Mitsopoulos and M. Stefanidou, “Evaluation of Workability Parameters in 3D Printing Concrete”, <i>Procedia Structural Integrity</i>, vol. 10, pp. 155–162, 2018, doi: 10.1016/j.prostr.2018.09.023.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Papachristoforou, Michail, Vasilios Mitsopoulos, and Maria Stefanidou. “Evaluation of Workability Parameters in 3D Printing Concrete”. <i>Procedia Structural Integrity</i> 10 (2018): 155–62. https://doi.org/10.1016/j.prostr.2018.09.023.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

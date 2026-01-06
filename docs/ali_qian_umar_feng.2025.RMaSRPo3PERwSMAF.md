@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Ali, Hui Qian, Muhammad Umar, Liu Fenglin, Ali Raza, Syed Ali, Yang Chenglong
+    - footer
+title: Ali Muhammad, Qian Hui, Umar Muhammad, Fenglin Liu, Raza Ali, Ali Syed, Chenglong Yang
 description:
 tags:
  - ecc
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jobe.2025.114255" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114255</a>
+#Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114255" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114255" target="_blank">10.1016/j.jobe.2025.114255</a>
 
--------------------------
+<a href="../../../author/ali_faizan_muhammad"><b>Ali</b>&nbsp;Muhammad</a></span>, <a href="../../../author/qian_hui"><b>Qian</b>&nbsp;Hui</a></span>, <a href="../../../author/umar_muhammad"><b>Umar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/fenglin_liu"><b>Fenglin</b>&nbsp;Liu</a></span>, <a href="../../../author/raza_ali"><b>Raza</b>&nbsp;Ali</a></span>, <a href="../../../author/ali_basit_syed"><b>Ali</b>&nbsp;Syed</a></span>, <a href="../../../author/chenglong_yang"><b>Chenglong</b>&nbsp;Yang</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114255
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ali_faizan_muhammad"><b>Ali</b> Muhammad</a>
-,     <a href="../../../author/qian_hui"><b>Qian</b> Hui</a>
-,     <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a>
-,     <a href="../../../author/fenglin_liu"><b>Fenglin</b> Liu</a>
-,     <a href="../../../author/raza_ali"><b>Raza</b> Ali</a>
-,     <a href="../../../author/ali_basit_syed"><b>Ali</b> Syed</a>
-,     <a href="../../../author/chenglong_yang"><b>Chenglong</b> Yang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114255
-
-:aca-blank:{ .lg .middle}
-    [`#ecc`](keyword/ecc)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-    [`#self`](keyword/self)
-    [`#shape`](keyword/shape)
-
-
--------------------------
+<a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%2C%20Mechanical%2C%20and%20Self-Recovery%20Performance%20of%203D-Printed%20ECC%20Reinforced%20with%20Shape%20Memory%20Alloy%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018906913&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414977481" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114255" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114255?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The increasing demand for rapid and sustainable construction methods has accelerated the adoption of 3D-printed concrete (3DPC) technologies. However, integrating conventional steel reinforcement into layer-by-layer printing processes remains a significant challenge. This study investigates the influence of shape memory alloy (SMA) fibers on the rheological behaviour, extrudability, mechanical performance, and self-recovery capacity of 3D-printed engineered cementitious composites (3DP-ECC). SMA fibers with a 0.4 mm diameter, lengths of 26 mm and 32 mm, and volume fractions of 0.35%, 0.70%, and 1.0% were incorporated into the mix design to evaluate their effects on material performance. Results indicate that fiber length and content significantly affect rheology and extrudability, with static yield stress increasing by up to 50.64% and dynamic yield stress reaching 253 Pa at 1.0% fiber content. SMA-reinforced ECC exhibits superior strain-hardening behaviour, with cast specimens achieving peak stress up to 5.78 MPa, ultimate strain up to 7.67%, and strain recovery rates exceeding 53.9% compared to 3D-printed counterparts. Digital Image Correlation (DIC) analysis confirmed enhanced crack closure and improved recovery in SMA-reinforced mixtures. SEM analysis confirms enhanced fiber-matrix bonding and denser C–S–H gel formation, while EDS analyse the elemental composition of matrix. Additionally, the finite element model (FEM) validated stress redistribution and interfacial bonding mechanisms, with the calculated values closely aligning with the experimental results. These findings demonstrate that the developed SMA-reinforced 3DP-ECC mixtures offer improved strength, ductility, and self-healing capability, making them promising for use in 3D-printed structural elements requiring high durability and damage resilience.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_ye_jian_fedi.2024.PRf3PECC/">Printability Region for 3D Printable Engineered Cementitious Composites</a></li>
@@ -95,9 +69,38 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/yuan_chengfang"><b>Yuan</b> Chengfang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../raza_yuan.2025.DMaMPo3PECCwYRSUCIWDC/">Degradation Mechanisms and Microstructural Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Under Chloride Ion Wet-Dry Cycles</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ali_qian_umar_feng.2025.RMaSRPo3PERwSMAF,
+      author            = "Muhammad Faizan Ali and Hui Qian and Muhammad Umar and Liu Fenglin and Ali Raza and Syed Basit Ali and Yang Chenglong",
+      title             = "Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers",
+      doi               = "10.1016/j.jobe.2025.114255",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114255",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. F. Ali, “Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers”, <i>Journal of Building Engineering</i>, p. 114255, 2025, doi: 10.1016/j.jobe.2025.114255.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ali, Muhammad Faizan, Hui Qian, Muhammad Umar, Liu Fenglin, Ali Raza, Syed Basit Ali, and Yang Chenglong. “Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers”. <i>Journal of Building Engineering</i>, 2025, 114255. https://doi.org/10.1016/j.jobe.2025.114255.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

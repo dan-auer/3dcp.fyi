@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Surong Luo, Wenqiang Li, Dehui Wang
+    - footer
+title: Luo Surong, Li Wenqiang, Wang Dehui
 description:
 tags:
  - base
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study on Bending Performance of 3D Printed PVA-Fiber-Reinforced Cement-Based Material ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136637" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136637</a>
+#Study on Bending Performance of 3D Printed PVA-Fiber-Reinforced Cement-Based Material ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136637" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136637" target="_blank">10.1016/j.conbuildmat.2024.136637</a>
 
--------------------------
+<a href="../../../author/luo_surong"><b>Luo</b>&nbsp;Surong</a></span>, <a href="../../../author/li_wenqiang"><b>Li</b>&nbsp;Wenqiang</a></span>, <a href="../../../author/wang_dehui"><b>Wang</b>&nbsp;Dehui</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 433, No. 136637
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/luo_surong"><b>Luo</b> Surong</a>
-,     <a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a>
-,     <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 433, No. 136637
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#bending`](keyword/bending)
-    [`#cement`](keyword/cement)
-    [`#fiber`](keyword/fiber)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#pva`](keyword/pva)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20Bending%20Performance%20of%203D%20Printed%20PVA-Fiber-Reinforced%20Cement-Based%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193902682&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4398793090" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136637" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136637?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To deepen the application and development of 3D Printing Construction Technology, the rheological characteristics, compressive strength and bending performance of 3D printed polyvinyl alcohol fiber (PVA fiber) reinforced cement-based material were explored. The direction of the intralayer interfaces and the fiber’s distribution direction caused the anisotropy of 3D printed PVA fiber reinforced cement-based material. The printed specimens presented different failure patterns in different compressive directions, and there was certain anisotropy in the X, Y and Z directions. For the bending performance, the load-midpoint deflection curves of casted specimens and the Zx direction of printed specimens showed the strain hardening behavior, while the Zy direction of printed specimens did not. Compared with the Zy specimen, the bending strength of the Zx specimen was about 3 ∼ 4 times higher, and the peak deflection was about an order of magnitude higher. The anisotropy of the printed specimen can be used to improve the bending performance in a specific loading direction to a certain extent.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -112,8 +90,8 @@ tags:
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
       <li><a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT/">Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures</a></li>
@@ -125,4 +103,34 @@ tags:
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/wu_weihong"><b>Wu</b> Weihong</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../luo_jin_wu_zhan.2024.RaMPoPFR3PHSCwtAoFA/">Rheological and Mechanical Properties of Polyformaldehyde-Fiber-Reinforced 3D Printed High-Strength Concrete with the Addition of Fly-Ash</a></li>
       <li><a href="../../../author/han_kang"><b>Han</b> Kang</a>, <a href="../../../author/gu_fei"><b>Gu</b> Fei</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/tian_xinchen"><b>Tian</b> Xinchen</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../han_gu_yang_tian.2024.PFRRMBGf3P/">PVA-Fiber-Reinforced Red Mud-Based Geopolymer for 3D Printing:<br/>Printability, Mechanical Properties and Microanalysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{luo_li_wang.2024.SoBPo3PPFRCBM,
+      author            = "Surong Luo and Wenqiang Li and Dehui Wang",
+      title             = "Study on Bending Performance of 3D Printed PVA-Fiber-Reinforced Cement-Based Material",
+      doi               = "10.1016/j.conbuildmat.2024.136637",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "433",
+      pages             = "136637",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Luo, W. Li and D. Wang, “Study on Bending Performance of 3D Printed PVA-Fiber-Reinforced Cement-Based Material”, <i>Construction and Building Materials</i>, vol. 433, p. 136637, 2024, doi: 10.1016/j.conbuildmat.2024.136637.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Luo, Surong, Wenqiang Li, and Dehui Wang. “Study on Bending Performance of 3D Printed PVA-Fiber-Reinforced Cement-Based Material”. <i>Construction and Building Materials</i> 433 (2024): 136637. https://doi.org/10.1016/j.conbuildmat.2024.136637.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

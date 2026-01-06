@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qaisar Munir, Riku Peltonen, Timo Kärki
+    - footer
+title: Munir Qaisar, Peltonen Riku, Kärki Timo
 description:
 tags:
  - geopolymer
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/16/4758/pdf?version=1629802740) Printing Parameter Requirements for 3D Printable Geopolymer Materials Prepared from Industrial Side Streams ([2021-08](date/2021/08))
-<a href="https://doi.org/10.3390/ma14164758" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14164758</a>
+#Printing Parameter Requirements for 3D Printable Geopolymer Materials Prepared from Industrial Side Streams ([2021-08](date/2021/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/16/4758/pdf?version=1629802740) <a href="https://doi.org/10.3390/ma14164758" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14164758" target="_blank">10.3390/ma14164758</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5480-9540" title="ORCID: 0000-0001-5480-9540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/munir_qaisar"><b>Munir</b>&nbsp;Qaisar</a></span>, <a href="../../../author/peltonen_riku"><b>Peltonen</b>&nbsp;Riku</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7796-2572" title="ORCID: 0000-0001-7796-2572" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/karki_timo"><b>Kärki</b>&nbsp;Timo</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 16
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/munir_qaisar"><b>Munir</b> Qaisar</a> <a href="https://orcid.org/0000-0001-5480-9540" title="ORCID: 0000-0001-5480-9540" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/peltonen_riku"><b>Peltonen</b> Riku</a>
-,     <a href="../../../author/karki_timo"><b>Kärki</b> Timo</a> <a href="https://orcid.org/0000-0001-7796-2572" title="ORCID: 0000-0001-7796-2572" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 16, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#geopolymer`](keyword/geopolymer)
-    [`#industry`](keyword/industry)
-    [`#material`](keyword/material)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#requirement`](keyword/requirement)
-
-
--------------------------
+<a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printing%20Parameter%20Requirements%20for%203D%20Printable%20Geopolymer%20Materials%20Prepared%20from%20Industrial%20Side%20Streams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85113383134&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3193916324" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14164758" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14164758?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The objective of this investigation is to study the printing parameter requirements for sustainable 3D printable geopolymer materials. Side streams of the paper, mining, and construction industries were applied as geopolymer raw materials. The effect of printing parameters in terms of buildability, mixability, extrudability, curing, Al-to-Si ratio, and waste materials utilisation on the fresh and hardened state of the materials was studied. The material performance of a fresh geopolymer was measured using setting time and shape stability tests. Standardised test techniques were applied in the testing of the hardened material properties of compressive and flexural strength. The majority of developed suitable 3D printable geopolymers comprised 56-58% recycled material. Heating was used to improve the buildability and setting of the material significantly. A reactive recyclable material content of greater than 20% caused the strength and material workability to decrease. A curing time of 7-28 days increased the compressive strength but decreased the flexural strength. The layers in the test samples exhibited decreased and increased strength, respectively, in compressive and flexural strength tests. Geopolymer development was found to be a compromise between different strength values and recyclable material contents. By focusing on specialised and complex-shape products, 3D printing of geopolymers can compete with traditional manufacturing in limited markets.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -87,8 +67,8 @@ tags:
       <li><a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rash_khan_gham_koc.2020.AM/">Additive Manufacturing:<br/>Technology, Applications, Markets, and Opportunities for the Built Environment</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a>, <a href="../../../author/john_john"><b>John</b> John</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../irsh_amja_kuma_john.2025.AtFo3CPbEtUoEFM/">Advancing the Field of 3D Concrete Printing by Exploring the Use of Eco-Friendly Mortars</a></li>
@@ -103,4 +83,34 @@ tags:
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/basit_abdul_md"><b>Basit</b> Md</a>, <a href="../../../author/hasan_md-sadiqul_noor"><b>Hasan</b> Noor</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../paul_basi_hasa_dey.2023.3PoGM/">3D Printing of Geopolymer Mortar:<br/>Overview of the Effect of Mix-Design and Printing Parameters on the Strength</a></li>
       <li><a href="../../../author/dhaese_romain"><b>D'Haese</b> Romain</a>, <a href="../../../author/carpentier_olivier"><b>Carpentier</b> Olivier</a>, <a href="../../../author/dubois_vincent"><b>Dubois</b> Vincent</a>, <a href="../../../author/chafei_sawsen"><b>Chafei</b> Sawsen</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dha_carp_dubo_chaf.2022.3PMMwIB/">3D Printable Materials Made with Industrial Byproducts:<br/>Formulation, Fresh and Hardened Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{muni_pelt_kark.2021.PPRf3PGMPfISS,
+      author            = "Qaisar Munir and Riku Peltonen and Timo Kärki",
+      title             = "Printing Parameter Requirements for 3D Printable Geopolymer Materials Prepared from Industrial Side Streams",
+      doi               = "10.3390/ma14164758",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "16",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Munir, R. Peltonen and T. Kärki, “Printing Parameter Requirements for 3D Printable Geopolymer Materials Prepared from Industrial Side Streams”, <i>Materials</i>, vol. 14, no. 16, 2021, doi: 10.3390/ma14164758.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Munir, Qaisar, Riku Peltonen, and Timo Kärki. “Printing Parameter Requirements for 3D Printable Geopolymer Materials Prepared from Industrial Side Streams”. <i>Materials</i> 14, no. 16 (2021). https://doi.org/10.3390/ma14164758.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Patrick Bischof, Jaime Mata-Falcón, Rebecca Ammann, Andreas Näsbom, Walter Kaufmann
+    - footer
+title: Bischof Patrick, Mata-Falcón Jaime, Ammann Rebecca, Näsbom Andreas, Kaufmann Walter
 description:
 tags:
  - concrete
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1002/suco.202200732) Digitally Fabricated Weak Interfaces to Reduce Minimum Reinforcement in Concrete Structures ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1002/suco.202200732" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.202200732</a>
+#Digitally Fabricated Weak Interfaces to Reduce Minimum Reinforcement in Concrete Structures ([2022-12](date/2022/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1002/suco.202200732) <a href="https://doi.org/10.1002/suco.202200732" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202200732" target="_blank">10.1002/suco.202200732</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3032-5482" title="ORCID: 0000-0003-3032-5482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bischof_patrick"><b>Bischof</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9568-0624" title="ORCID: 0000-0001-9568-0624" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ammann_rebecca"><b>Ammann</b>&nbsp;Rebecca</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8823-3869" title="ORCID: 0000-0001-8823-3869" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nasbom_andreas"><b>Näsbom</b>&nbsp;Andreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaufmann_walter"><b>Kaufmann</b>&nbsp;Walter</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a> <a href="https://orcid.org/0000-0003-3032-5482" title="ORCID: 0000-0003-3032-5482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a> <a href="https://orcid.org/0000-0001-9568-0624" title="ORCID: 0000-0001-9568-0624" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nasbom_andreas"><b>Näsbom</b> Andreas</a> <a href="https://orcid.org/0000-0001-8823-3869" title="ORCID: 0000-0001-8823-3869" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#interface`](keyword/interface)
-    [`#minimum`](keyword/minimum)
-    [`#reduction`](keyword/reduction)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-    [`#weak`](keyword/weak)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/minimum"><button class="btn">#minimum</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/weak"><button class="btn">#weak</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digitally%20Fabricated%20Weak%20Interfaces%20to%20Reduce%20Minimum%20Reinforcement%20in%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137153522&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4311819993" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.202200732" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.202200732?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Crack initiators in reinforced concrete structures can facilitate fulfilling the serviceability requirements. They can be used as a design parameter to diminish the minimum reinforcement for members subject to imposed deformation and exposed to the environment as they reduce the crack spacing and width when arranged close enough. While crack initiators in conventional concrete construction are cumbersome to provide (e.g., by construction joints or taperings), they are inherent to layered extrusion processes with digital fabrication technologies: the tensile strength is typically reduced locally in interfaces between layers. Rather than trying to avoid these weak interfaces, this paper discusses the potential of taking advantage of them to act as crack initiators reducing the minimum reinforcement content. A tension chord-based model is developed to (i) account for the local strength reduction and (ii) predict the effect of weak interfaces on the expected crack spacing and width. As a key finding, the model predicts a reduction of the required minimum reinforcement ratio proportional to the locally decreased concrete tensile strength for a specified maximum crack width requirement under imposed deformations. An experimental campaign on five layered and three reference tension ties confirmed the clearly positive impact of weak interfaces on crack spacings and widths.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -93,9 +69,36 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/lee_minu"><b>Lee</b> Minu</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../mata_gebh_lee_bisc.2023.AiSAoDFWC/">Advances in Structural Applications of Digital Fabrication With Concrete</a></li>
-      <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bisc_mata_amma_nasb.2022.DFWItRMRiCS,
+      author            = "Patrick Bischof and Jaime Mata-Falcón and Rebecca Ammann and Andreas Näsbom and Walter Kaufmann",
+      title             = "Digitally Fabricated Weak Interfaces to Reduce Minimum Reinforcement in Concrete Structures",
+      doi               = "10.1002/suco.202200732",
+      year              = "2022",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Bischof, J. Mata-Falcón, R. Ammann, A. Näsbom and W. Kaufmann, “Digitally Fabricated Weak Interfaces to Reduce Minimum Reinforcement in Concrete Structures”, <i>Structural Concrete</i>, 2022, doi: 10.1002/suco.202200732.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bischof, Patrick, Jaime Mata-Falcón, Rebecca Ammann, Andreas Näsbom, and Walter Kaufmann. “Digitally Fabricated Weak Interfaces to Reduce Minimum Reinforcement in Concrete Structures”. <i>Structural Concrete</i>, 2022. https://doi.org/10.1002/suco.202200732.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

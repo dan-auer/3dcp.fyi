@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Peter Gappmeier, Sara Reichenbach, Benjamin Kromoser
+    - footer
+title: Gappmeier Peter, Reichenbach Sara, Kromoser Benjamin
 description:
 tags:
  - advance
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2024.105373) Advances in Formwork Automation, Structure and Materials in Concrete Construction ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.autcon.2024.105373" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105373</a>
+#Advances in Formwork Automation, Structure and Materials in Concrete Construction ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2024.105373) <a href="https://doi.org/10.1016/j.autcon.2024.105373" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105373" target="_blank">10.1016/j.autcon.2024.105373</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1246-3072" title="ORCID: 0000-0003-1246-3072" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gappmeier_peter"><b>Gappmeier</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9052-577X" title="ORCID: 0000-0002-9052-577X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reichenbach_sara"><b>Reichenbach</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3416-8146" title="ORCID: 0000-0003-3416-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kromoser_benjamin"><b>Kromoser</b>&nbsp;Benjamin</a></span><br>
+Journal Article - Automation in Construction, Vol. 162, No. 105373
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gappmeier_peter"><b>Gappmeier</b> Peter</a> <a href="https://orcid.org/0000-0003-1246-3072" title="ORCID: 0000-0003-1246-3072" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reichenbach_sara"><b>Reichenbach</b> Sara</a> <a href="https://orcid.org/0000-0002-9052-577X" title="ORCID: 0000-0002-9052-577X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kromoser_benjamin"><b>Kromoser</b> Benjamin</a> <a href="https://orcid.org/0000-0003-3416-8146" title="ORCID: 0000-0003-3416-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 162, No. 105373
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#formwork`](keyword/formwork)
-    [`#material`](keyword/material)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advances%20in%20Formwork%20Automation%2C%20Structure%20and%20Materials%20in%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187956321&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392876802" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105373" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105373?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This comprehensive study delves into scientific publications, distinguishing general literature from formwork-specific findings and giving an overview of research methods and formwork systems for concrete construction. A shift towards reusable materials and the widespread use of robotics, particularly in 3D printing is noticeable. Structural research maintains a balanced focus, with little attention set on beams. While automation is attracting interest, full integration into formwork-related publications is still evolving. The need for practical implementation, applicability to mass production and sustainability aspects requires further exploration. Concluding, a list of future challenges is presented, serving as a guidance for subsequent research and developments in research and the concrete industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics During Casting and Curing</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../burg_hube_llor_mata.2022.DaFoORCFSULS3PF/">Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork</a></li>
@@ -94,9 +74,39 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wang_yang_yao_ma.2022.IBPo3PPFwtPCC/">Interfacial Bonding Properties of 3D Printed Permanent Formwork with the Post-Casted Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hua_hao"><b>Hua</b> Hao</a>, <a href="../../../author/liu_yizhuo"><b>Liu</b> Yizhuo</a>, <a href="../../../author/hovestadt_ludger"><b>Hovestadt</b> Ludger</a>, <a href="../../../author/he_siyuan"><b>He</b> Siyuan</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hua_liu_hove_he.2025.DN/">Digital Nervi:<br/>Performance‐based Design of Lightweight Isostatic Ribbed Slab with 3D Printed Concrete Formwork</a></li>
       <li><a href="../../../author/kromoser_benjamin"><b>Kromoser</b> Benjamin</a>, <a href="../../../author/gappmeier_peter"><b>Gappmeier</b> Peter</a>, <a href="../../../author/ahmed_iyad"><b>Ahmed</b> Iyad</a>, <a href="../../../author/reichenbach_sara"><b>Reichenbach</b> Sara</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krom_gapp_ahme_reic.2024.ANAfADaRAPoSORCBE/">A New Approach for Automated Design and Robot-Assisted Production of Structurally Optimised Reusable Concrete Building Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gapp_reic_krom.2024.AiFASaMiCC,
+      author            = "Peter Gappmeier and Sara Reichenbach and Benjamin Kromoser",
+      title             = "Advances in Formwork Automation, Structure and Materials in Concrete Construction",
+      doi               = "10.1016/j.autcon.2024.105373",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "162",
+      pages             = "105373",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Gappmeier, S. Reichenbach and B. Kromoser, “Advances in Formwork Automation, Structure and Materials in Concrete Construction”, <i>Automation in Construction</i>, vol. 162, p. 105373, 2024, doi: 10.1016/j.autcon.2024.105373.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gappmeier, Peter, Sara Reichenbach, and Benjamin Kromoser. “Advances in Formwork Automation, Structure and Materials in Concrete Construction”. <i>Automation in Construction</i> 162 (2024): 105373. https://doi.org/10.1016/j.autcon.2024.105373.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

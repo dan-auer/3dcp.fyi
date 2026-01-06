@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuying Zhang, Xiaohong Zhu, Muduo Li, Chao Zhang, Yamei Zhang, Xiuli Du, Nemkumar Banthia, Viktor Mechtcherine, Josephine Carstensen, Paulo Monteiro, Daniel Tsang
+    - footer
+title: Zhang Yuying, Zhu Xiaohong, Li Muduo, Zhang Chao, Zhang Yamei, Du Xiuli, Banthia Nemkumar, Mechtcherine Viktor, Carstensen Josephine, Monteiro Paulo, Tsang Daniel
 description:
 tags:
  - concrete
@@ -12,35 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Technology in Concrete Construction ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1038/s44359-025-00047-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s44359-025-00047-z</a>
+#3D Printing Technology in Concrete Construction ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1038/s44359-025-00047-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s44359-025-00047-z" target="_blank">10.1038/s44359-025-00047-z</a>
 
--------------------------
+<a href="../../../author/zhang_yuying"><b>Zhang</b>&nbsp;Yuying</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3030-1317" title="ORCID: 0000-0003-3030-1317" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_xiaohong"><b>Zhu</b>&nbsp;Xiaohong</a></span>, <a href="../../../author/li_muduo"><b>Li</b>&nbsp;Muduo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chao"><b>Zhang</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <a href="../../../author/du_xiuli"><b>Du</b>&nbsp;Xiuli</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1885-2338" title="ORCID: 0000-0002-1885-2338" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carstensen_v_josephine"><b>Carstensen</b>&nbsp;Josephine</a></span>, <a href="../../../author/monteiro_j-m_paulo"><b>Monteiro</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6850-733X" title="ORCID: 0000-0002-6850-733X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tsang_c-w_daniel"><b>Tsang</b>&nbsp;Daniel</a></span><br>
+Journal Article - Nature Reviews Clean Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>
-,     <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a> <a href="https://orcid.org/0000-0003-3030-1317" title="ORCID: 0000-0003-3030-1317" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>
-,     <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> <a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_xiuli"><b>Du</b> Xiuli</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="https://orcid.org/0000-0002-1885-2338" title="ORCID: 0000-0002-1885-2338" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/monteiro_j-m_paulo"><b>Monteiro</b> Paulo</a>
-,     <a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> <a href="https://orcid.org/0000-0002-6850-733X" title="ORCID: 0000-0002-6850-733X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Nature Reviews Clean Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Technology%20in%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409174882" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s44359-025-00047-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s44359-025-00047-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete construction strategies can be material-intensive and labour-intensive and often rely on formwork that produces material waste. 3D printing (3DP) technologies could reduce the materials and time needed in concrete construction and could enable designs to optimize thermal management, energy efficiency and structural monitoring relative to formwork-based construction strategies. In this Review, we discuss 3D concrete printing and its application in construction. Large gantry printers and robotic arms have been used in the construction of houses (~100 m2), buildings (exceeding 1,000 m2) and other infrastructures, including bridges with spans up to 30 m. Advances in design and printer control, such as using topological optimization, allow for material efficiency (saving up to 70% materials) and use of features for thermal management and incorporation of vegetation into buildings. Strategies to integrate sensors for structural monitoring and materials for energy storage and thermal management of 3DP are also being developed. For example, self-sensing 3DP concrete has been integrated for structural health monitoring, and there are efforts to incorporate phase change materials to enhance thermal management. However, concrete 3DP ink has a high proportion of cement (owing to the need to balance pumpability and extrudability with buildability during printing), which increases the embodied carbon associated with 3DP concrete construction. Low-carbon inks and use of waste-derived materials are, therefore, needed to reduce the life-cycle impact and embodied carbon of 3DP concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "111 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
@@ -178,12 +153,40 @@ tags:
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zuo_cort_huan_chen.2023.PtWAoLS3P/">Propelling the Widespread Adoption of Large-Scale 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_zhu_li_zhan.2025.EIAo3PCbBI/">Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_zhu_li_zhan.2025.3PTiCC,
+      author            = "Yuying Zhang and Xiaohong Zhu and Muduo Li and Chao Zhang and Yamei Zhang and Xiuli Du and Nemkumar Banthia and Viktor Mechtcherine and Josephine V. Carstensen and Paulo J. M. Monteiro and Daniel C. W. Tsang",
+      title             = "3D Printing Technology in Concrete Construction",
+      doi               = "10.1038/s44359-025-00047-z",
+      year              = "2025",
+      journal           = "Nature Reviews Clean Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhang, “3D Printing Technology in Concrete Construction”, <i>Nature Reviews Clean Technology</i>, 2025, doi: 10.1038/s44359-025-00047-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Yuying, Xiaohong Zhu, Muduo Li, Chao Zhang, Yamei Zhang, Xiuli Du, Nemkumar Banthia, et al.. “3D Printing Technology in Concrete Construction”. <i>Nature Reviews Clean Technology</i>, 2025. https://doi.org/10.1038/s44359-025-00047-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

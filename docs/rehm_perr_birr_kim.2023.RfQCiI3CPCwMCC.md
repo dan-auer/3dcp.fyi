@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Atta Rehman, Arnaud Perrot, Bizu Birru, Jung-Hoon Kim
+    - footer
+title: Rehman Atta, Perrot Arnaud, Birru Bizu, Kim Jung-Hoon
 description:
 tags:
  - component
@@ -22,38 +23,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2023.100232) Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete:<br/>:aca-blank: A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.dibe.2023.100232" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2023.100232</a>
+#Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100232) <a href="https://doi.org/10.1016/j.dibe.2023.100232" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100232" target="_blank">10.1016/j.dibe.2023.100232</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_atta"><b>Rehman</b>&nbsp;Atta</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <a href="../../../author/birru_melesse_bizu"><b>Birru</b>&nbsp;Bizu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100232
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> <a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>
-,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100232
-
-:aca-blank:{ .lg .middle}
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#control`](keyword/control)
-    [`#critical`](keyword/critical)
-    [`#evaluation`](keyword/evaluation)
-    [`#industry`](keyword/industry)
-    [`#method`](keyword/method)
-    [`#mono`](keyword/mono)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#recommendation`](keyword/recommendation)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mono"><button class="btn">#mono</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/recommendation"><button class="btn">#recommendation</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Recommendations%20for%20Quality-Control%20in%20Industrial%203D%20Concrete%20Printing%20Construction%20with%20Mono-Component%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172027911&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386807639" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2023.100232" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2023.100232?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The critical assessment of the applicability of fresh concrete test methods for characterizing printable concrete quality and its structural build-up rate is rare in the literature. To address this gap, this study evaluates the potentials and limitations of eight offline test methods (hand vane, rheometer, compressive strength, squeeze flow, penetrometer, ultrasonic pulse velocity, slump, and flow table) and two inline test methods (slug test and extruder torque measurement). This research proposes a new parameter called “performance index” to assess the capability of any test to detect structural buildup. The study establishes a ranking of the eight offline tests on the proposed performance index and evaluates the advantages and disadvantages of each test in terms of portability, price, required human labor, and material. The results of this study can be used as a first guideline to select a proper quality control test for industrial 3D concrete printing construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "49 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -129,8 +102,8 @@ tags:
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/shi_mengyuan"><b>Shi</b> Mengyuan</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yang_che_shi.2021.IoCCNPotWaSo3PCMCLP/">Influences of Calcium-Carbonate-Nano-Particles on the Workability and Strength of 3D Printing Cementitious Materials Containing Limestone-Powder</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
@@ -155,4 +128,33 @@ tags:
       <li><a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../alha.2024.TDCPaaCASaAfaCSB/">Three-Dimensional Concrete Printing as a Construction-Automation-Strategy and Assessments from a Case Study Building</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_ik-gyeom"><b>Kim</b> Ik-Gyeom</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../rehm_kim_kim.2024.TFAi3CPC/">Towards Full Automation in 3D Concrete Printing Construction:<br/>Development of an Automated and In-Line Test-Method for In-Situ Assessment of Structural Build-Up and Quality of Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rehm_perr_birr_kim.2023.RfQCiI3CPCwMCC,
+      author            = "Atta Ur Rehman and Arnaud Perrot and Bizu Melesse Birru and Jung-Hoon Kim",
+      title             = "Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete: A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index",
+      doi               = "10.1016/j.dibe.2023.100232",
+      year              = "2023",
+      journal           = "Developments in the Built Environment",
+      pages             = "100232",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. U. Rehman, A. Perrot, B. M. Birru and J.-H. Kim, “Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete: A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index”, <i>Developments in the Built Environment</i>, p. 100232, 2023, doi: 10.1016/j.dibe.2023.100232.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rehman, Atta Ur, Arnaud Perrot, Bizu Melesse Birru, and Jung-Hoon Kim. “Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete: A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index”. <i>Developments in the Built Environment</i>, 2023, 100232. https://doi.org/10.1016/j.dibe.2023.100232.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

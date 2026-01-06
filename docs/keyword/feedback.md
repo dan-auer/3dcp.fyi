@@ -8,7 +8,7 @@ search:
 
 # #feedback
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/couque_pierre"><b>Couque</b> Pierre</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/corvez_dominique"><b>Corvez</b> Dominique</a>, <a href="../../../author/tanant_julien"><b>Tanant</b> Julien</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../couq_carn_corv_tana.2025.3PCAftI/">3D Printed Concrete - Applications for the Industry:<br/>Latest Feedback from France</a></li>
   <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
   <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_hao_zhan_xiao.2024.RTMaFOSf3PCBoCV/">Real-Time Monitoring and Feedback Operation System for 3D Printed Concrete Based on Computer-Vision</a></li>

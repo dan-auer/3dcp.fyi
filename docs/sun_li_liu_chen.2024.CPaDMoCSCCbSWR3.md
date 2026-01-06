@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chang Sun, Jiawang Li, Qiong Liu, Kailun Chen, Wengui Li, Feng Pan
+    - footer
+title: Sun Chang, Li Jiawang, Liu Qiong, Chen Kailun, Li Wengui, Pan Feng
 description:
 tags:
  - column
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03457) Compressive Performance and Damage Mechanism of Concrete Short Columns Confined by Steel-Wires-Reinforced 3DPM ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03457" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03457</a>
+#Compressive Performance and Damage Mechanism of Concrete Short Columns Confined by Steel-Wires-Reinforced 3DPM ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03457) <a href="https://doi.org/10.1016/j.cscm.2024.e03457" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03457" target="_blank">10.1016/j.cscm.2024.e03457</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_chang"><b>Sun</b>&nbsp;Chang</a></span>, <a href="../../../author/li_jiawang"><b>Li</b>&nbsp;Jiawang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_qiong"><b>Liu</b>&nbsp;Qiong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6448-2721" title="ORCID: 0000-0001-6448-2721" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_kailun"><b>Chen</b>&nbsp;Kailun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4651-1215" title="ORCID: 0000-0002-4651-1215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_wengui"><b>Li</b>&nbsp;Wengui</a></span>, <a href="../../../author/pan_feng"><b>Pan</b>&nbsp;Feng</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03457
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_chang"><b>Sun</b> Chang</a> <a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jiawang"><b>Li</b> Jiawang</a>
-,     <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> <a href="https://orcid.org/0000-0001-6448-2721" title="ORCID: 0000-0001-6448-2721" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_wengui"><b>Li</b> Wengui</a> <a href="https://orcid.org/0000-0002-4651-1215" title="ORCID: 0000-0002-4651-1215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_feng"><b>Pan</b> Feng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03457
-
-:aca-blank:{ .lg .middle}
-    [`#column`](keyword/column)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#confinement`](keyword/confinement)
-    [`#damage`](keyword/damage)
-    [`#mechanism`](keyword/mechanism)
-    [`#performance`](keyword/performance)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#short`](keyword/short)
-    [`#steel`](keyword/steel)
-    [`#wire`](keyword/wire)
-
-
--------------------------
+<a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/confinement"><button class="btn">#confinement</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Compressive%20Performance%20and%20Damage%20Mechanism%20of%20Concrete%20Short%20Columns%20Confined%20by%20Steel-Wires-Reinforced%203DPM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197230169&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400131714" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03457" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03457?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The incorporation of steel reinforcement in cast concrete can effectively enhance the ductility and strength of the concrete. In this paper, the steel wires reinforced 3D printed mortar (3DPM) was utilized as the external restraint for two series of short concrete columns (S-series: square section, C-series: circular section). Three different wire diameters (fine, medium, and thick) were considered as experimental variables. The experimental results indicate that the specimens reinforced with medium steel wires in both series exhibited strengths comparable to or superior to those of the unreinforced specimens. In terms of crack control, the specimens with the appropriate reinforcement ratio exhibited excellent performance, showing the smallest crack widths for both C-M and S-M specimens. It is found that in both S and C series that an appropriate reinforcement ratio positively influences the load-bearing capacity of the restrained columns. Furthermore, a calculated model for the uniaxial compression model of ECC confined concrete was proposed. The findings reveal that the calculated model is conservative and effective in predicting the compressive strength of the short column, with the exception of the C-F specimen.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../aram_cald_puen.2022.BSoSRPttH3PCL/">Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
@@ -95,8 +68,38 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/liu_yiming"><b>Liu</b> Yiming</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ding_li_liu.2025.SoMPaEBo3PLMOCFCBoTDMS/">Study on Mechanical Properties and Environmental Benefits of 3D Printed Lean Magnesium Ore Concrete Filled Columns Based on Three-Dimensional Meso-Structure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_li_liu_chen.2024.CPaDMoCSCCbSWR3,
+      author            = "Chang Sun and Jiawang Li and Qiong Liu and Kailun Chen and Wengui Li and Feng Pan",
+      title             = "Compressive Performance and Damage Mechanism of Concrete Short Columns Confined by Steel-Wires-Reinforced 3DPM",
+      doi               = "10.1016/j.cscm.2024.e03457",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "21",
+      pages             = "e03457",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Sun, J. Li, Q. Liu, K. Chen, W. Li and F. Pan, “Compressive Performance and Damage Mechanism of Concrete Short Columns Confined by Steel-Wires-Reinforced 3DPM”, <i>Case Studies in Construction Materials</i>, vol. 21, p. e03457, 2024, doi: 10.1016/j.cscm.2024.e03457.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Chang, Jiawang Li, Qiong Liu, Kailun Chen, Wengui Li, and Feng Pan. “Compressive Performance and Damage Mechanism of Concrete Short Columns Confined by Steel-Wires-Reinforced 3DPM”. <i>Case Studies in Construction Materials</i> 21 (2024): e03457. https://doi.org/10.1016/j.cscm.2024.e03457.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

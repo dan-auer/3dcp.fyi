@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Thadshajini Suntharalingam, Irindu Upasiri, Perampalam Gatheeshgar, Keerthan Poologanathan, Brabha Nagaratnam, Paulo Santos, Heshachanaa Rajanayagam
+    - footer
+title: Suntharalingam Thadshajini, Upasiri Irindu, Gatheeshgar Perampalam, Poologanathan Keerthan, Nagaratnam Brabha, Santos Paulo, Rajanayagam Heshachanaa
 description:
 tags:
  - concrete
@@ -14,33 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/11/10/432/pdf?version=1632566293) Energy Performance of 3D Printed Concrete Walls:<br/>:aca-blank: A Numerical Study ([2021-09](date/2021/09))
-<a href="https://doi.org/10.3390/buildings11100432" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings11100432</a>
+#Energy Performance of 3D Printed Concrete Walls&nbsp;([2021-09](date/2021/09))
+<div class="h1-like">A Numerical Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/11/10/432/pdf?version=1632566293) <a href="https://doi.org/10.3390/buildings11100432" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings11100432" target="_blank">10.3390/buildings11100432</a>
 
--------------------------
+<a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b>&nbsp;Thadshajini</a></span>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b>&nbsp;Irindu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b>&nbsp;Perampalam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b>&nbsp;Keerthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8818-7567" title="ORCID: 0000-0001-8818-7567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b>&nbsp;Brabha</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0134-6762" title="ORCID: 0000-0002-0134-6762" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santos_paulo"><b>Santos</b>&nbsp;Paulo</a></span>, <a href="../../../author/rajanayagam_heshachanaa"><b>Rajanayagam</b>&nbsp;Heshachanaa</a></span><br>
+Journal Article - Buildings, Vol. 11, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>
-,     <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>
-,     <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a> <a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> <a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a> <a href="https://orcid.org/0000-0001-8818-7567" title="ORCID: 0000-0001-8818-7567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santos_paulo"><b>Santos</b> Paulo</a> <a href="https://orcid.org/0000-0002-0134-6762" title="ORCID: 0000-0002-0134-6762" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajanayagam_heshachanaa"><b>Rajanayagam</b> Heshachanaa</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 11, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#energy`](keyword/energy)
-    [`#numeric`](keyword/numeric)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Energy%20Performance%20of%203D%20Printed%20Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85116043913&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3203556151" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings11100432" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings11100432?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional-printed concrete (3DPC), which is also termed as digital fabrication of concrete, offers potential development towards a sustainable built environment. This novel technique clearly reveals its development towards construction application with various global achievements, including structures such as bridges, houses, office buildings, and emergency shelters. However, despite the enormous efforts of academia and industry in the recent past, the application of the 3DPC method is still challenging, as existing knowledge about its performance is limited. The construction industry and building sectors have a significant share of the total energy consumed globally, and building thermal efficiency has become one of the main driving forces within the industry. Hence, it is important to study the thermal energy performance of the structures developed using the innovative 3DPC technique. Thermal characterization of walls is fundamental for the assessment of the energy performance, and thermal insulation plays an important role in performance enhancements. Therefore, in this study, different wall configurations were examined, and the conclusions were drawn based on their relative energy performance. The thermal performance of 32 different 3DPC wall configurations with and without cavity insulation were traced using validated finite element models by measuring the thermal transmittance value (U-value). Our study found that the considered 3DPC cavity walls had a low energy performance, as the U-values did not satisfy the standard regulations. Thus, their performance was improved with cavity insulation. The simulation resulted in a minimum thermal transmittance value of 0.34 W/m2·K. Additionally, a suitable equation was proposed to find the U-values of 100 mm-thick cavity wall panels with different configurations. Furthermore, this study highlights the importance of analytical and experimental solutions as an outline for further research
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
@@ -86,8 +64,9 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_jian_li_ma.2020.MBo3PLCSwHS/">Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "36 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/zoghlami_aya"><b>Zoghlami</b> Aya</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../aabb_mazi_ahac_zogh.2026.S3PCBICW/">Sustainable 3D Printed Clay Bricks Incorporating Coffee Waste:<br/>Toward Circular Economy in Construction</a></li>
       <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
@@ -124,4 +103,34 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sunt_upas_naga_pool.2022.FEMtPtFPoBI3PCWPEtRF/">Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sunt_upas_gath_pool.2021.EPo3PCW,
+      author            = "Thadshajini Suntharalingam and Irindu Upasiri and Perampalam Gatheeshgar and Keerthan Poologanathan and Brabha Nagaratnam and Paulo Santos and Heshachanaa Rajanayagam",
+      title             = "Energy Performance of 3D Printed Concrete Walls: A Numerical Study",
+      doi               = "10.3390/buildings11100432",
+      year              = "2021",
+      journal           = "Buildings",
+      volume            = "11",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Suntharalingam, “Energy Performance of 3D Printed Concrete Walls: A Numerical Study”, <i>Buildings</i>, vol. 11, no. 10, 2021, doi: 10.3390/buildings11100432.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Suntharalingam, Thadshajini, Irindu Upasiri, Perampalam Gatheeshgar, Keerthan Poologanathan, Brabha Nagaratnam, Paulo Santos, and Heshachanaa Rajanayagam. “Energy Performance of 3D Printed Concrete Walls: A Numerical Study”. <i>Buildings</i> 11, no. 10 (2021). https://doi.org/10.3390/buildings11100432.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

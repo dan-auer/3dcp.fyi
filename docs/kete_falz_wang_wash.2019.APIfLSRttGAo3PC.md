@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sabrina Ketel, Gabriel Falzone, Bu Wang, Newell Washburn, Gaurav Sant
+    - footer
+title: Ketel Sabrina, Falzone Gabriel, Wang Bu, Washburn Newell, Sant Gaurav
 description:
 tags:
  - attribute
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) A Printability Index for Linking Slurry Rheology to the Geometrical Attributes of 3D Printed Components ([2018-04](date/2018/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2018.03.022" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2018.03.022</a>
+#A Printability Index for Linking Slurry Rheology to the Geometrical Attributes of 3D Printed Components ([2018-04](date/2018/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.cemconcomp.2018.03.022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2018.03.022" target="_blank">10.1016/j.cemconcomp.2018.03.022</a>
 
--------------------------
+<a href="../../../author/ketel_sabrina"><b>Ketel</b>&nbsp;Sabrina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6125-6726" title="ORCID: 0000-0002-6125-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/falzone_gabriel"><b>Falzone</b>&nbsp;Gabriel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9294-0918" title="ORCID: 0000-0002-9294-0918" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_bu"><b>Wang</b>&nbsp;Bu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7843-8860" title="ORCID: 0000-0001-7843-8860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/washburn_newell"><b>Washburn</b>&nbsp;Newell</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sant_gaurav"><b>Sant</b>&nbsp;Gaurav</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 101, pp. 32-43
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ketel_sabrina"><b>Ketel</b> Sabrina</a>
-,     <a href="../../../author/falzone_gabriel"><b>Falzone</b> Gabriel</a> <a href="https://orcid.org/0000-0002-6125-6726" title="ORCID: 0000-0002-6125-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_bu"><b>Wang</b> Bu</a> <a href="https://orcid.org/0000-0002-9294-0918" title="ORCID: 0000-0002-9294-0918" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a> <a href="https://orcid.org/0000-0001-7843-8860" title="ORCID: 0000-0001-7843-8860" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> <a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 101, pp. 32-43
-
-:aca-blank:{ .lg .middle}
-    [`#attribute`](keyword/attribute)
-    [`#component`](keyword/component)
-    [`#geometry`](keyword/geometry)
-    [`#link`](keyword/link)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#slurry`](keyword/slurry)
-
-
--------------------------
+<a href="../../keyword/attribute"><button class="btn">#attribute</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/link"><button class="btn">#link</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/slurry"><button class="btn">#slurry</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Printability%20Index%20for%20Linking%20Slurry%20Rheology%20to%20the%20Geometrical%20Attributes%20of%203D%20Printed%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85064904717&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2794547366" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2018.03.022" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2018.03.022?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While the field of 3D-printing (3DP; formally known as additive manufacturing) has increasingly matured, its use in large-scale applications, e.g., building and infrastructure construction, remains limited. Although layer-wise slurry deposition/extrusion (LSD/E) methods are amenable to scale-up and offer versatility in terms of the materials that can be printed (i.e., “inks” that can be used), there is a lack of quantitative metrics to assess the geometrical attributes of printed components vis-à-vis their 3D-CAD (computer-aided design) inputs. To address this limitation, we present an original method to assess the external geometrical attributes of 3D-printed components using laser triangulation-based 3D-scanning. Significantly, a printability index (0 ≤ Ip ≤ 1, unitless) is presented which compares the overall geometric fidelity of the printed specimen to its CAD input. By adjusting the rheology of a model silicate-based slurry, we examine the relationships between slurry rheology, shrinkage and printability. The printability index offers a quantitative basis for assessment and quality control of 3D-printed components, while helping to develop an improved understanding of how slurry behavior, and optimizations therein can maximize printability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gibbons_john_gregory"><b>Gibbons</b> Gregory</a>, <a href="../../../author/williams_reuben"><b>Williams</b> Reuben</a>, <a href="../../../author/purnell_phil"><b>Purnell</b> Phil</a>, <a href="../../../author/farahi_elham"><b>Farahi</b> Elham</a> <a href="../../../date/2013/07">(2013-07)</a><br><a href="../../../gibb_will_purn_fara.2010.3PoCC/">3D Printing of Cement Composites</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -76,8 +53,8 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "41 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yu_zhan_pan.2025.MSODCMf3PCIbPS/">Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure</a></li>
@@ -120,4 +97,34 @@ tags:
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ma_sun_wang_asla.2018.EaMAPoCCf3PCWCS/">Electromagnetic and Microwave-Absorbing Properties of Cementitious Composite for 3D Printing Containing Waste Copper Solids</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kete_falz_wang_wash.2019.APIfLSRttGAo3PC,
+      author            = "Sabrina Ketel and Gabriel Falzone and Bu Wang and Newell Washburn and Gaurav Sant",
+      title             = "A Printability Index for Linking Slurry Rheology to the Geometrical Attributes of 3D Printed Components",
+      doi               = "10.1016/j.cemconcomp.2018.03.022",
+      year              = "2019",
+      journal           = "Cement and Concrete Composites",
+      volume            = "101",
+      pages             = "32--43",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Ketel, G. Falzone, B. Wang, N. Washburn and G. Sant, “A Printability Index for Linking Slurry Rheology to the Geometrical Attributes of 3D Printed Components”, <i>Cement and Concrete Composites</i>, vol. 101, pp. 32–43, 2019, doi: 10.1016/j.cemconcomp.2018.03.022.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ketel, Sabrina, Gabriel Falzone, Bu Wang, Newell Washburn, and Gaurav Sant. “A Printability Index for Linking Slurry Rheology to the Geometrical Attributes of 3D Printed Components”. <i>Cement and Concrete Composites</i> 101 (2019): 32–43. https://doi.org/10.1016/j.cemconcomp.2018.03.022.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

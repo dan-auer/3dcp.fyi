@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ata Nikravan, Olcay Aydoğan, Gözdem Dittel, Martin Scheurer, Shantanu Bhat, Nilüfer Özyurt, Thomas Gries
+    - footer
+title: Nikravan Ata, Aydoğan Olcay, Dittel Gözdem, Scheurer Martin, Bhat Shantanu, Özyurt Nilüfer, Gries Thomas
 description:
 tags:
  - cement
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Implementation of Continuous Textile-Fibers in 3D Printable Cementitious Composite ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1007/978-3-031-32519-9_126" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-32519-9_126</a>
+#Implementation of Continuous Textile-Fibers in 3D Printable Cementitious Composite ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-32519-9_126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32519-9_126" target="_blank">10.1007/978-3-031-32519-9_126</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1306-5810" title="ORCID: 0000-0002-1306-5810" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nikravan_ata"><b>Nikravan</b>&nbsp;Ata</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2513-047X" title="ORCID: 0000-0003-2513-047X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aydogan_gurabi_olcay"><b>Aydoğan</b>&nbsp;Olcay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8277-9251" title="ORCID: 0000-0002-8277-9251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dittel_gozdem"><b>Dittel</b>&nbsp;Gözdem</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5193-1871" title="ORCID: 0000-0002-5193-1871" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scheurer_martin"><b>Scheurer</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9213-2830" title="ORCID: 0000-0002-9213-2830" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bhat_shantanu"><b>Bhat</b>&nbsp;Shantanu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4533-8702" title="ORCID: 0000-0003-4533-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozyurt_nilufer"><b>Özyurt</b>&nbsp;Nilüfer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gries_thomas"><b>Gries</b>&nbsp;Thomas</a></span><br>
+Contribution - Proceedings of the fib Symposium 2023, pp. 1243-1252
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nikravan_ata"><b>Nikravan</b> Ata</a> <a href="https://orcid.org/0000-0002-1306-5810" title="ORCID: 0000-0002-1306-5810" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aydogan_gurabi_olcay"><b>Aydoğan</b> Olcay</a> <a href="https://orcid.org/0000-0003-2513-047X" title="ORCID: 0000-0003-2513-047X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a> <a href="https://orcid.org/0000-0002-8277-9251" title="ORCID: 0000-0002-8277-9251" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a> <a href="https://orcid.org/0000-0002-5193-1871" title="ORCID: 0000-0002-5193-1871" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bhat_shantanu"><b>Bhat</b> Shantanu</a> <a href="https://orcid.org/0000-0002-9213-2830" title="ORCID: 0000-0002-9213-2830" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> <a href="https://orcid.org/0000-0003-4533-8702" title="ORCID: 0000-0003-4533-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the fib Symposium 2023, pp. 1243-1252
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#continuous`](keyword/continuous)
-    [`#fiber`](keyword/fiber)
-    [`#implementation`](keyword/implementation)
-    [`#printability`](keyword/printability)
-    [`#textile`](keyword/textile)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Implementation%20of%20Continuous%20Textile-Fibers%20in%203D%20Printable%20Cementitious%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163932024&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4378806555" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-32519-9_126" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-32519-9_126?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) as an automated and digital manufacturing process, enables the construction sector to build complex elements rapidly without formwork requirements. Integrating reinforcement in 3DCP is an imperative need in order to print large-scale structures. Although some research has been done to integrate traditional steel bars and a variety of fibers into 3DCP, the reinforcement challenge is not yet fully addressed. The use of textiles mesh structures, as a reinforcing strategy, has been recently introduced to address this challenge, but research on the subject is yet very limited. This paper focuses on integrating different 2D textile mesh reinforcements in concrete printing and evaluating the behavior of printed textile-reinforced concrete (TRC) as a composite material. After conducting the rheological study, small reinforced beams were prepared by both casting and printing methods to compare the bonding characteristics and the flexural properties of the manufactured elements. Two different textiles with distinct coating materials were produced and tested. According to the results, printed beam reinforced with alkaline resistant (AR) glass textile and coated with styrene-butadiene rubber, showed better performance during the 3-point bending test and higher bonding to concrete, compared to other printed specimens. In addition, although the flexural strength of the casted beam was considerably higher compared to the printed ones, printed samples, reinforced with AR glass textile and coated with styrene-butadiene rubber showed better ductility behavior. In the future, other types of textiles with different characteristics and geometries will be studied, and contributing factors to improve bonding will be investigated comprehensively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../caro_demo_duco_mesn.2021.3PoMwCF/">3D Printing of Mortar with Continuous Fibers:<br/>Principle, Properties and Potential for Application</a></li>
       <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/dringenberg_steffen"><b>Dringenberg</b> Steffen</a>, <a href="../../../author/jitton_velasco_joaquin"><b>Jitton</b> Joaquin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ditt_sche_drin_jitt.2022.DCPwVTR/">Digital Concrete Production with Vertical Textile Reinforcement</a></li>
@@ -78,11 +54,42 @@ tags:
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>
       <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a>, <a href="../../../author/yu_jiamian"><b>Yu</b> Jiamian</a>, <a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_bu_yu_shao.2024.FBoTR3PCUQSaDIL/">Flexural Behavior of Textile Reinforced 3D Printed Concrete Under Quasi-Static and Dynamic Impact Loads</a></li>
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/xu_shanqing"><b>Xu</b> Shanqing</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../rame_raje_xu_sanj.2024.IRoTR3PCP/">Impact Response of Textile-Reinforced 3D Printed Concrete Panels</a></li>
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../rame_raje_sanj.2024.BSBoTRi3PC/">Bond-Slip Behavior of Textile-Reinforcement in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{nikr_aydo_ditt_sche.2023.IoCTFi3PCC,
+      author            = "Ata Nikravan and Olcay Gürabi Aydoğan and Gözdem Dittel and Martin Scheurer and Shantanu Bhat and Nilüfer Özyurt and Thomas Gries",
+      title             = "Implementation of Continuous Textile-Fibers in 3D Printable Cementitious Composite",
+      doi               = "10.1007/978-3-031-32519-9_126",
+      year              = "2023",
+      volume            = "349",
+      pages             = "1243--1252",
+      booktitle         = "Proceedings of the fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient",
+      editor            = "Alper Ilki and Derya Çavunt and Yavuz Selim Çavunt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Nikravan, “Implementation of Continuous Textile-Fibers in 3D Printable Cementitious Composite”, in <i>Proceedings of the fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient</i>,  2023, vol. 349, pp. 1243–1252. doi: 10.1007/978-3-031-32519-9_126.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nikravan, Ata, Olcay Gürabi Aydoğan, Gözdem Dittel, Martin Scheurer, Shantanu Bhat, Nilüfer Özyurt, and Thomas Gries. “Implementation of Continuous Textile-Fibers in 3D Printable Cementitious Composite”. In <i>Proceedings of the Fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient</i>, edited by Alper Ilki, Derya Çavunt, and Yavuz Selim Çavunt, 349:1243–52, 2023. https://doi.org/10.1007/978-3-031-32519-9_126.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

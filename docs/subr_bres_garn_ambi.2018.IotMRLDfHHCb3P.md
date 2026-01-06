@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kévin Subrin, Thomas Bressac, Sébastien Garnier, Alexandre Ambiehl, Elodie Paquet, Benoît Furet
+    - footer
+title: Subrin Kévin, Bressac Thomas, Garnier Sébastien, Ambiehl Alexandre, Paquet Elodie, Furet Benoît
 description:
 tags:
  - construction
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.ifacol.2018.08.403) Improvement of the Mobile Robot Location Dedicated for Habitable House Construction by 3D Printing ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1016/j.ifacol.2018.08.403" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ifacol.2018.08.403</a>
+#Improvement of the Mobile Robot Location Dedicated for Habitable House Construction by 3D Printing ([2018-09](date/2018/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.ifacol.2018.08.403) <a href="https://doi.org/10.1016/j.ifacol.2018.08.403" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ifacol.2018.08.403" target="_blank">10.1016/j.ifacol.2018.08.403</a>
 
--------------------------
+<a href="../../../author/subrin_kevin"><b>Subrin</b>&nbsp;Kévin</a></span>, <a href="../../../author/bressac_thomas"><b>Bressac</b>&nbsp;Thomas</a></span>, <a href="../../../author/garnier_sebastien"><b>Garnier</b>&nbsp;Sébastien</a></span>, <a href="../../../author/ambiehl_alexandre"><b>Ambiehl</b>&nbsp;Alexandre</a></span>, <a href="../../../author/paquet_elodie"><b>Paquet</b>&nbsp;Elodie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0505-4545" title="ORCID: 0000-0003-0505-4545" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/furet_benoit"><b>Furet</b>&nbsp;Benoît</a></span><br>
+Journal Article - IFAC-PapersOnLine, Vol. 51, Iss. 11, pp. 716-721
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/subrin_kevin"><b>Subrin</b> Kévin</a>
-,     <a href="../../../author/bressac_thomas"><b>Bressac</b> Thomas</a>
-,     <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a>
-,     <a href="../../../author/ambiehl_alexandre"><b>Ambiehl</b> Alexandre</a>
-,     <a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>
-,     <a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a> <a href="https://orcid.org/0000-0003-0505-4545" title="ORCID: 0000-0003-0505-4545" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IFAC-PapersOnLine, Vol. 51, Iss. 11, pp. 716-721
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#habitat`](keyword/habitat)
-    [`#house`](keyword/house)
-    [`#improvement`](keyword/improvement)
-    [`#local`](keyword/local)
-    [`#mobile`](keyword/mobile)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improvement%20of%20the%20Mobile%20Robot%20Location%20Dedicated%20for%20Habitable%20House%20Construction%20by%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052899173&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,23 +38,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2890415411" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.ifacol.2018.08.403" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.ifacol.2018.08.403?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Currently, building construction is beginning to consider the use of 3D printing which can be considered as an evolution or modernization of its proven traditional techniques. A new process based on FAM approach (Foam Additive Manufacturing) has been patented by Nantes University. The wall manufacturing is based on the laying of two polyurethane foam beads which plays the role of framework for the concrete and inside and outside thermal insulation. To perform the laying, the development of a robotic architecture integrates an automated guided vehicle and an industrial robot located on it. The printing environment is complex: printed walls, pipes inside the concrete slab, robot hoses, house form complexity, vertical steel reinforcement. Also, the concrete slab inspection shows a flatness defect close to 25mm (regular defect) which impacts the robot accuracy. The objective is then to find the best location for an AGV (Automated Guided Vehicle) in order to perform the printing in the best conditions. After a comparison on current mobile robot architecture for house manufacturing, we present the location of the mobile robot in its environment where, during the first day, the navigation is analysed and then improved to perform the house printing. Via the homogeneous transformation, we outline the Direct Geometrical Model and our implementation to improve the accuracy of the robotic system. Finally, we present the manufacturing principle and the final result: a habitable house by 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>
       <li><a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>, <a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../paqu_fure_perr.2024.3PREStCiCVOoC/">3D Printed Raw Earth Structures to Create in Cities Vegetated Oasis of Coolness</a></li>
       <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a></li>
@@ -95,4 +71,35 @@ tags:
       <li><a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../fure_poul_garn.2019.3PfCBoaCWoPFaC/">3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{subr_bres_garn_ambi.2018.IotMRLDfHHCb3P,
+      author            = "Kévin Subrin and Thomas Bressac and Sébastien Garnier and Alexandre Ambiehl and Elodie Paquet and Benoît Furet",
+      title             = "Improvement of the Mobile Robot Location Dedicated for Habitable House Construction by 3D Printing",
+      doi               = "10.1016/j.ifacol.2018.08.403",
+      year              = "2018",
+      journal           = "IFAC-PapersOnLine",
+      volume            = "51",
+      number            = "11",
+      pages             = "716--721",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Subrin, T. Bressac, S. Garnier, A. Ambiehl, E. Paquet and B. Furet, “Improvement of the Mobile Robot Location Dedicated for Habitable House Construction by 3D Printing”, <i>IFAC-PapersOnLine</i>, vol. 51, no. 11, pp. 716–721, 2018, doi: 10.1016/j.ifacol.2018.08.403.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Subrin, Kévin, Thomas Bressac, Sébastien Garnier, Alexandre Ambiehl, Elodie Paquet, and Benoît Furet. “Improvement of the Mobile Robot Location Dedicated for Habitable House Construction by 3D Printing”. <i>IFAC-PapersOnLine</i> 51, no. 11 (2018): 716–21. https://doi.org/10.1016/j.ifacol.2018.08.403.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

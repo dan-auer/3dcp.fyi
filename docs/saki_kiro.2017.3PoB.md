@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehmet Sakin, Yusuf Kiroglu
+    - footer
+title: Sakin Mehmet, Kiroglu Yusuf
 description:
 tags:
  - bim
@@ -15,29 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.egypro.2017.09.562) 3D Printing of Buildings:<br/>:aca-blank: Construction of the Sustainable Houses of the Future by BIM ([2017-10](date/2017/10))
-<a href="https://doi.org/10.1016/j.egypro.2017.09.562" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.egypro.2017.09.562</a>
+#3D Printing of Buildings&nbsp;([2017-10](date/2017/10))
+<div class="h1-like">Construction of the Sustainable Houses of the Future by BIM</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.egypro.2017.09.562) <a href="https://doi.org/10.1016/j.egypro.2017.09.562" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.egypro.2017.09.562" target="_blank">10.1016/j.egypro.2017.09.562</a>
 
--------------------------
+<a href="../../../author/sakin_mehmet"><b>Sakin</b>&nbsp;Mehmet</a></span>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b>&nbsp;Yusuf</a></span><br>
+Journal Article - Procedia Engineering, Vol. 134, pp. 702-711
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>
-,     <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Procedia Engineering, Vol. 134, pp. 702-711
-
-:aca-blank:{ .lg .middle}
-    [`#bim`](keyword/bim)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#future`](keyword/future)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85032697722&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,21 +38,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2765980088" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.egypro.2017.09.562" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.egypro.2017.09.562?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The paper presents the new technology of 3D printing of buildings for the sustainable houses of the future. 3D printing building technology is a new construction technique started with the invention of 3D printer. Latest technologies were described in this paper with pointing to Contour Crafting as a promising technique that may be able to revolutionize construction industry in near future. It has many advantages of this technology, such as reduction of the costs and time, minimizing the pollution of environment and decrease of injuries and fatalities on construction sites could be listed. Integration of Building Information Modeling with the 3D printing building technique are mentioned in comparison with the traditional construction techniques. Even though many advantages and benefits of this new technology, of course we have some concerns are summarized in the conclusions as the technology still has many limitations. A brief description of examples of 3D printing in construction industry are presented (Stupino town, Moscow, Russia - Apis Cor first company to develop a mobile construction 3D printer). Modeling a 3D model of building that will be appropriate for 3D printers is possible in many modeling software programs. One of the most popular formats for sharing such models is STL format common and it has been accepted by many proprietary software. Moreover, integration of BIM method with 3D printing modeling will be effective for energy efficiency, better design, cost reduction and isolation of structure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "112 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/kubjana_lucy"><b>Kubjana</b> Lucy</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/adekunle_peter"><b>Adekunle</b> Peter</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kubj_aigb_adek.2025.AS3PC/">Advancing Sustainable 3D-Printed Concrete:<br/>A Bibliometric Study on Financing Housing Options</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
@@ -179,4 +162,34 @@ tags:
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{saki_kiro.2017.3PoB,
+      author            = "Mehmet Sakin and Yusuf Caner Kiroglu",
+      title             = "3D Printing of Buildings: Construction of the Sustainable Houses of the Future by BIM",
+      doi               = "10.1016/j.egypro.2017.09.562",
+      year              = "2017",
+      journal           = "Procedia Engineering",
+      volume            = "134",
+      pages             = "702--711",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sakin  and Y. C. Kiroglu, “3D Printing of Buildings: Construction of the Sustainable Houses of the Future by BIM”, <i>Procedia Engineering</i>, vol. 134, pp. 702–711, 2017, doi: 10.1016/j.egypro.2017.09.562.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sakin, Mehmet, and Yusuf Caner Kiroglu. “3D Printing of Buildings: Construction of the Sustainable Houses of the Future by BIM”. <i>Procedia Engineering</i> 134 (2017): 702–11. https://doi.org/10.1016/j.egypro.2017.09.562.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

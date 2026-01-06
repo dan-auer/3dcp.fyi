@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Valentino Sangiorgio, Ignazio Floris, Dayan Duran
+    - footer
+title: Sangiorgio Valentino, Floris Ignazio, Duran Dayan
 description:
 tags:
  - approach
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Unified Integration Approach for Bridging BIM Model to 3D Construction Printing and Scale Prototyping ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1108/ci-06-2024-0179" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/ci-06-2024-0179</a>
+#Unified Integration Approach for Bridging BIM Model to 3D Construction Printing and Scale Prototyping ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/ci-06-2024-0179" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ci-06-2024-0179" target="_blank">10.1108/ci-06-2024-0179</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <a href="../../../author/floris_ignazio"><b>Floris</b>&nbsp;Ignazio</a></span>, <a href="../../../author/duran_dayan"><b>Duran</b>&nbsp;Dayan</a></span><br>
+Journal Article - Construction Innovation
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> <a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/floris_ignazio"><b>Floris</b> Ignazio</a>
-,     <a href="../../../author/duran_dayan"><b>Duran</b> Dayan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Innovation, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#bim`](keyword/bim)
-    [`#bridge`](keyword/bridge)
-    [`#construction`](keyword/construction)
-    [`#integration`](keyword/integration)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#prototype`](keyword/prototype)
-    [`#scale`](keyword/scale)
-    [`#uniform`](keyword/uniform)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/uniform"><button class="btn">#uniform</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Unified%20Integration%20Approach%20for%20Bridging%20BIM%20Model%20to%203D%20Construction%20Printing%20and%20Scale%20Prototyping" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216202093&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406915758" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/ci-06-2024-0179" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/ci-06-2024-0179?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work aims to develop a multi-step approach for the unified integration of 3D construction printing (3DCP) and building information modeling (BIM), allowing users to easily and automatically outline the instructions for 3D printing of buildings starting from BIM model and ensuring the wide spread of this new technology in Civil Engineering sector.The proposed methodology exploits Revit for 3D modeling and BIM, using Dynamo as a programming interface for generating G-code. The paper demonstrates how the proposed methodology can extract information from a BIM model to support building construction using digital fabrication techniques. This code guides the printer’s movements and operations, specifying the path, speed, layers and essential parameters to construct concrete structures layer by layer. It transforms digital designs into precise and efficient physical structures. This work allows overcoming some of the current limitations associated with bridging BIM models to 3D construction printing. The proposed approach integrates BIM and 3DCP. If the model undergoes changes in the BIM model, the proposed system allows for automatic updates in the 3D printing files. Furthermore, the possibility offered by the proposed methodology to test the G-code on a scaled model allows for the correction of any errors before printing on a large-scale machine. The novelty of the proposed approach is threefold: i) A new unified integration methodology for BIM and 3D construction printing is defined; ii) An example of a 3D printed building unit is modeled with BIM, incorporating various discipline models such as Architecture, Structure, and Mechanical, Electrical, Plumbing (MEP) systems; iii) The proposed approach allows for testing the G-code at scale before printing with a full-scale machine.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -98,7 +75,35 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sang_flor_dura.2025.UIAfBBMt3CPaSP,
+      author            = "Valentino Sangiorgio and Ignazio Floris and Dayan Duran",
+      title             = "Unified Integration Approach for Bridging BIM Model to 3D Construction Printing and Scale Prototyping",
+      doi               = "10.1108/ci-06-2024-0179",
+      year              = "2025",
+      journal           = "Construction Innovation",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Sangiorgio, I. Floris and D. Duran, “Unified Integration Approach for Bridging BIM Model to 3D Construction Printing and Scale Prototyping”, <i>Construction Innovation</i>, 2025, doi: 10.1108/ci-06-2024-0179.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sangiorgio, Valentino, Ignazio Floris, and Dayan Duran. “Unified Integration Approach for Bridging BIM Model to 3D Construction Printing and Scale Prototyping”. <i>Construction Innovation</i>, 2025. https://doi.org/10.1108/ci-06-2024-0179.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

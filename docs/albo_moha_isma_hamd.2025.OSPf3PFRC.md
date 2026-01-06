@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Asad Albostami, Malek Mohammad, Bashar Ismael, Rwayda Hamd
+    - footer
+title: Albostami Asad, Mohammad Malek, Ismael Bashar, Hamd Rwayda
 description:
 tags:
  - concrete
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete:<br/>:aca-blank: Machine Learning-Driven Insights ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.istruc.2025.110400" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.110400</a>
+#Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">Machine Learning-Driven Insights</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.istruc.2025.110400" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.110400" target="_blank">10.1016/j.istruc.2025.110400</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5372-6380" title="ORCID: 0000-0001-5372-6380" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/albostami_s_asad"><b>Albostami</b>&nbsp;Asad</a></span>, <a href="../../../author/mohammad_malek"><b>Mohammad</b>&nbsp;Malek</a></span>, <a href="../../../author/ismael_h_bashar"><b>Ismael</b>&nbsp;Bashar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8702-0279" title="ORCID: 0000-0002-8702-0279" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hamd_kh-s_rwayda"><b>al&nbsp;Hamd</b>&nbsp;Rwayda</a></span><br>
+Journal Article - Structures, Vol. 82
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/albostami_s_asad"><b>Albostami</b> Asad</a> <a href="https://orcid.org/0000-0001-5372-6380" title="ORCID: 0000-0001-5372-6380" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>
-,     <a href="../../../author/ismael_h_bashar"><b>Ismael</b> Bashar</a>
-,     <a href="../../../author/hamd_kh-s_rwayda"><b>al Hamd</b> Rwayda</a> <a href="https://orcid.org/0000-0002-8702-0279" title="ORCID: 0000-0002-8702-0279" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 82, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#insights`](keyword/insights)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#optimization`](keyword/optimization)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimized%20Strength%20Predictions%20for%203D%20Printed%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020892574&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415535371" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.110400" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.110400?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete (3DPC) has reshaped the building industry by producing intricate, tailored, and quick constructions in recent years. However, due to the complex interactions between the concrete's individual components, determining the compressive strength (CS) and flexural strength (FS) of 3D printed fiber-reinforced concrete (3DP-FRC) is challenging. The present study predicts the CS and FS using Soft Computing and Machine Learning (ML) models. Gene Expression Programming (GEP), K-Nearest Neighbors (KNN), Artificial Neural Network (ANN), and Gradient Boosting (GB) were the predictive ML models that were employed. This analysis extends to measuring accuracy and interpretability, thus combining multi-model comparative ML analysis with GEP-based sensitivity analysis and SHapley Additive exPlanations (SHAP)-based interpretability into a single framework. The GB model was the most accurate in predicting CS, with mean absolute errors (MAE) and root mean square errors (RMSE) of 6.21 MPa and 7.83 MPa in the training stage, and 7.03 MPa and 8.84 MPa in the testing stage, respectively. The coefficients of determination (R2) remained above 0.92. For FS, the GB model again outperformed other models, yielding MAEs and RMSEs of 1.81 MPa and 2.18 MPa in training and 2.21 MPa and 2.18 MPa in evaluation, respectively, with R2 higher than 0.94. The second-best models were those from GEP, which achieved nearly equal accuracy and, moreover, produced explicit symbolic regression equations that can be used directly in engineering without requiring retraining. According to the sensitivity and SHAP analyses, the parameters most influential on CS were fiber volume fraction (Fvolf), water/binder ratio (W/B), and silica fume content (SF). For FS, Fvolf, W/B, and fly ash content (FA) were the dominant parameters. These results demonstrated the intricate relationships between mix design parameters and mechanical responses, providing an engineering-transparent, data-driven approach for optimizing 3DP-FRC mixtures. Among the early studies that integrate SHAP interpretability with multi-model ML benchmarking and GEP symbolic regression for 3DP-FRC, this work aims to fill the gap between accuracy and practicality with an approach that empowers engineers to design optimized mixes that satisfy determinate strength requirements, taking into account material and process variability. The acquired knowledge thus directs the path toward establishing protocols for quality control, enhanced performance prediction of structures, and ultimately, the faster implementation of 3DP-FRC into sustainable construction applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -89,7 +66,36 @@ tags:
       <li><a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yu_leun.2019.Io3PDoMPoSHCCS/">Impact of 3D Printing-Direction on Mechanical Performance of Strain-Hardening Cementitious Composite (SHCC)</a></li>
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{albo_moha_isma_hamd.2025.OSPf3PFRC,
+      author            = "Asad S. Albostami and Malek Mohammad and Bashar H. Ismael and Rwayda Kh. S. al Hamd",
+      title             = "Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete: Machine Learning-Driven Insights",
+      doi               = "10.1016/j.istruc.2025.110400",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "82",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. S. Albostami, M. Mohammad, B. H. Ismael and R. K. S. al Hamd, “Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete: Machine Learning-Driven Insights”, <i>Structures</i>, vol. 82, 2025, doi: 10.1016/j.istruc.2025.110400.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Albostami, Asad S., Malek Mohammad, Bashar H. Ismael, and Rwayda Kh. S. al Hamd. “Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete: Machine Learning-Driven Insights”. <i>Structures</i> 82 (2025). https://doi.org/10.1016/j.istruc.2025.110400.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

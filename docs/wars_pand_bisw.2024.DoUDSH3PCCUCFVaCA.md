@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Syed Warsi, Biranchi Panda, Pankaj Biswas
+    - footer
+title: Warsi Syed, Panda Biranchi, Biswas Pankaj
 description:
 tags:
  - aggregate
@@ -21,36 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Ultra-Ductile Strain-Hardening 3D Printed Concrete Composite Utilizing Critical Fiber Volume and Coarse Aggregate ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.addma.2024.104541" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104541</a>
+#Development of Ultra-Ductile Strain-Hardening 3D Printed Concrete Composite Utilizing Critical Fiber Volume and Coarse Aggregate ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104541" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104541" target="_blank">10.1016/j.addma.2024.104541</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7784-4338" title="ORCID: 0000-0002-7784-4338" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/biswas_pankaj"><b>Biswas</b>&nbsp;Pankaj</a></span><br>
+Journal Article - Additive Manufacturing, No. 104541
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> <a href="https://orcid.org/0000-0002-7784-4338" title="ORCID: 0000-0002-7784-4338" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104541
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#coarse`](keyword/coarse)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#critical`](keyword/critical)
-    [`#development`](keyword/development)
-    [`#ductility`](keyword/ductility)
-    [`#fiber`](keyword/fiber)
-    [`#hardened`](keyword/hardened)
-    [`#print`](keyword/print)
-    [`#strain`](keyword/strain)
-    [`#util`](keyword/util)
-    [`#volume`](keyword/volume)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Ultra-Ductile%20Strain-Hardening%203D%20Printed%20Concrete%20Composite%20Utilizing%20Critical%20Fiber%20Volume%20and%20Coarse%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208677478&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404109269" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104541" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104541?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study presents a promising approach of integrating coarse aggregates and steel fibers (smooth straight and corrugated) into 3D printed concrete to enhance both strain-hardening and ductility properties. The research delves into the engineering design of fiber reinforced 3D printed concrete by analysing the effect of critical fiber volume and coarse aggregate addition on concrete tensile properties. The combination of coarse aggregate and fiber enhances the material ability to withstand increasing loads by promoting plastic deformation, while mitigating the crack formation and propagation. Experimental methodology for engineering design of fiber reinforced 3D printed concrete is elucidated via critical fiber volume analysis, strain hardening analysis, and ductility assessment under direct tensile loading. The results indicate synergistic effect of corrugated fibers and coarse aggregates on the tensile properties and unlike straight smooth fiber, corrugated long fibers significantly contribute to excellent strain hardening behaviour. The new 3D printed concrete composite developed in this study exhibited distinctive yield point with high strain hardening factor (1.62), ductile factor (10.86), and enhanced energy absorption capability (+105 kJ/m³). These enhanced properties make the material particularly suitable for applications in seismic-resistant structures and other load-bearing applications where ductility and energy absorption are critical.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
@@ -108,12 +82,41 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>
       <li><a href="../../../author/kumar_sai_s"><b>Kumar</b> S.</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kuma_muth_pand.2025.NIoSBo3PCW/">Numerical Investigation of Structural Behavior of 3D-Printed Concrete Walls:<br/>Insights from Damage Mechanics and Cohesive Zone Approaches</a></li>
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wars_pand_bisw.2025.DoER3PCWBoA31/">Design of Earthquake-Resistant 3D Printed Concrete Wall Based on ACI 318-19:<br/>Analytical Investigation and Numerical Modelling</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a>, <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhou_xu_meng_xie.2025.FS/">Filament Stitching:<br/>An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shukla_yash"><b>Shukla</b> Yash</a>, <a href="../../../author/rawal_rajan"><b>Rawal</b> Rajan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../dey_pand_shuk_rawa.2025.ACAoTPo3PCLW/">A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wars_pand_bisw.2024.DoUDSH3PCCUCFVaCA,
+      author            = "Syed Bustan Fatima Warsi and Biranchi Narayan Panda and Pankaj Biswas",
+      title             = "Development of Ultra-Ductile Strain-Hardening 3D Printed Concrete Composite Utilizing Critical Fiber Volume and Coarse Aggregate",
+      doi               = "10.1016/j.addma.2024.104541",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104541",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. B. F. Warsi, B. N. Panda and P. Biswas, “Development of Ultra-Ductile Strain-Hardening 3D Printed Concrete Composite Utilizing Critical Fiber Volume and Coarse Aggregate”, <i>Additive Manufacturing</i>, p. 104541, 2024, doi: 10.1016/j.addma.2024.104541.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Warsi, Syed Bustan Fatima, Biranchi Narayan Panda, and Pankaj Biswas. “Development of Ultra-Ductile Strain-Hardening 3D Printed Concrete Composite Utilizing Critical Fiber Volume and Coarse Aggregate”. <i>Additive Manufacturing</i>, 2024, 104541. https://doi.org/10.1016/j.addma.2024.104541.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

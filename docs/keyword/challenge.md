@@ -8,7 +8,7 @@ search:
 
 # #challenge
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gnanaraj_salomie-nivetha_anies"><b>Gnanaraj</b> Anies</a>, <a href="../../../author/moreno_cristel-coronel_leyla"><b>Moreno</b> Leyla</a>, <a href="../../../author/thabet_baher-fouad-mohamed_reham"><b>Thabet</b> Reham</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../gnan_more_thab_rang.2026.CAoOVO3PiC/">Comparative Analysis of Onsite Versus Offsite 3D Printing in Construction:<br/>Benefits, Challenges, and Case Studies</a></li>
   <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
   <li><a href="../../../author/cimini_jacopo"><b>Cimini</b> Jacopo</a>, <a href="../../../author/meroni_lorenzo"><b>Meroni</b> Lorenzo</a>, <a href="../../../author/chiantore_mariachiara"><b>Chiantore</b> Mariachiara</a>, <a href="../../../author/albicini_paolo"><b>Albicini</b> Paolo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cimi_mero_chia_albi.2026.ACiMAR/">Addressing Challenges in Marine Algal Restoration:<br/>Lessons Learned from 3D-Printed Structures on Artificial Reefs</a></li>

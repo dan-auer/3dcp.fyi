@@ -8,7 +8,7 @@ search:
 
 # #survey
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../jesu_teix_guim_rang.2025.F3SDoCHAt3PPBoCaLBM/">From 3D Survey Data of Cultural Heritage Artifacts to 3D Printed Prototypes Based on Cement and Lime-Based Mortars</a></li>
   <li><a href="../../../author/khalilidermani_mitra"><b>Khalilidermani</b> Mitra</a>, <a href="../../../author/knez_dariusz"><b>Knez</b> Dariusz</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khal_knez.2023.ASoEHSwaFoES3PT/">A Survey on Extraterrestrial Habitation Structures with a Focus on Energy-Saving 3D Printing Techniques</a></li>
   <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../mabo_gerk_hack_broh.2020.CSMftIoAMitCP/">Current Surveying Methods for the Integration of Additive Manufacturing in the Construction Process</a></li>

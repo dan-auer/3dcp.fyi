@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jindřich Melichar, Nikol Žižková, Jiří Brožovský, Lenka Mészárosová, Radek Hermann
+    - footer
+title: Melichar Jindřich, Žižková Nikol, Brožovský Jiří, Mészárosová Lenka, Hermann Radek
 description:
 tags:
  - ash
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/11/2008/pdf?version=1668689324) Study of the Interaction of Cement-Based Materials for 3D Printing with Fly-Ash and Superabsorbent Polymers ([2022-11](date/2022/11))
-<a href="https://doi.org/10.3390/buildings12112008" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12112008</a>
+#Study of the Interaction of Cement-Based Materials for 3D Printing with Fly-Ash and Superabsorbent Polymers ([2022-11](date/2022/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/11/2008/pdf?version=1668689324) <a href="https://doi.org/10.3390/buildings12112008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12112008" target="_blank">10.3390/buildings12112008</a>
 
--------------------------
+<a href="../../../author/melichar_jindrich"><b>Melichar</b>&nbsp;Jindřich</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1857-8081" title="ORCID: 0000-0003-1857-8081" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zizkova_nikol"><b>Žižková</b>&nbsp;Nikol</a></span>, <a href="../../../author/brozovsky_jiri"><b>Brožovský</b>&nbsp;Jiří</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0850-7570" title="ORCID: 0000-0003-0850-7570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meszarosova_lenka"><b>Mészárosová</b>&nbsp;Lenka</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6779-7259" title="ORCID: 0000-0002-6779-7259" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hermann_radek"><b>Hermann</b>&nbsp;Radek</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/melichar_jindrich"><b>Melichar</b> Jindřich</a>
-,     <a href="../../../author/zizkova_nikol"><b>Žižková</b> Nikol</a> <a href="https://orcid.org/0000-0003-1857-8081" title="ORCID: 0000-0003-1857-8081" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brozovsky_jiri"><b>Brožovský</b> Jiří</a>
-,     <a href="../../../author/meszarosova_lenka"><b>Mészárosová</b> Lenka</a> <a href="https://orcid.org/0000-0003-0850-7570" title="ORCID: 0000-0003-0850-7570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hermann_radek"><b>Hermann</b> Radek</a> <a href="https://orcid.org/0000-0002-6779-7259" title="ORCID: 0000-0002-6779-7259" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#interaction`](keyword/interaction)
-    [`#material`](keyword/material)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20of%20the%20Interaction%20of%20Cement-Based%20Materials%20for%203D%20Printing%20with%20Fly-Ash%20and%20Superabsorbent%20Polymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149255597&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4309461078" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12112008" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12112008?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of superabsorbent polymers (SAP) in construction is a relatively new trend, and not a completely explored area. However, SAP itself has been on the market for over 80 years. SAPs have a cross-linked three-dimensional structure, thanks to which they have the unique ability to absorb extreme amounts of water, up to a hundred times their weight. By using this property, it is possible to prevent water losses, which is important at the time of maturation in cementitious building materials. When there is a lack of water needed for hydration processes, the physical and mechanical properties deteriorate. The subject of this article is to determine the possible positive effect of the presence of SAP in the cement matrix in order to optimize the parameters of silicate composites for 3D printing. For this purpose, a special methodology was compiled consisting of tests through which it is possible to assess the suitability of the tested mixtures for 3D printing. This methodology consists of determining consistency, volumetric weight, ultrasonic analysis, buildability, X-ray diffraction, flexural tensile and compressive strength. For determining of buildability and ultrasonic analysis new methodologies were created in this research in order to be suitable for the 3D printing materials. Last but not least, efforts are also being made to increase the incorporation of secondary raw material (fly ash) in order to reduce the environmental impact of industrial production and, conversely, to increase its sustainability while maintaining or improving the mechanical–physical parameters of building materials. From the results presented in this paper it is apparent, that created methodology is efficient for determining properties of 3D printable mixtures. SAPs also significantly influenced properties of these mixtures. Mainly buildability and flexural tensile strength (by up to 30%) were increased and volumetric weight was decreased (by up to 5%).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
@@ -91,8 +69,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/archbold_paul"><b>Archbold</b> Paul</a>, <a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b> José</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../josh_gasp_arch_silv.2025.SotCoMBoFBFAfS3P/">Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing</a></li>
@@ -104,4 +82,34 @@ tags:
       <li><a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>, <a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../samu_muje_lanj_chip.2023.3PCfEEB/">3D Printable Concrete for Energy-Efficient Buildings</a></li>
       <li><a href="../../../author/li_xiao-sheng"><b>Li</b> Xiao-Sheng</a>, <a href="../../../author/li_long"><b>Li</b> Long</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../li_li_zou.2023.DLp3PCUSW/">Developing Low-pH 3D Printing Concrete Using Solid Wastes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{meli_zizk_broz_mesz.2022.SotIoCBMf3PwFAaSP,
+      author            = "Jindřich Melichar and Nikol Žižková and Jiří Brožovský and Lenka Mészárosová and Radek Hermann",
+      title             = "Study of the Interaction of Cement-Based Materials for 3D Printing with Fly-Ash and Superabsorbent Polymers",
+      doi               = "10.3390/buildings12112008",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Melichar, N. Žižková, J. Brožovský, L. Mészárosová and R. Hermann, “Study of the Interaction of Cement-Based Materials for 3D Printing with Fly-Ash and Superabsorbent Polymers”, <i>Buildings</i>, vol. 12, no. 11, 2022, doi: 10.3390/buildings12112008.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Melichar, Jindřich, Nikol Žižková, Jiří Brožovský, Lenka Mészárosová, and Radek Hermann. “Study of the Interaction of Cement-Based Materials for 3D Printing with Fly-Ash and Superabsorbent Polymers”. <i>Buildings</i> 12, no. 11 (2022). https://doi.org/10.3390/buildings12112008.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

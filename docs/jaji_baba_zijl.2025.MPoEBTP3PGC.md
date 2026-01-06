@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mustapha Jaji, Adewumi Babafemi, Gideon Zijl
+    - footer
+title: Jaji Mustapha, Babafemi Adewumi, Zijl Gideon
 description:
 tags:
  - advance
@@ -22,37 +23,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.mtsust.2025.101131) Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>:aca-blank: A Review of Advances in Laboratory and Real-Scale Construction Projects ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.mtsust.2025.101131" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.mtsust.2025.101131</a>
+#Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">A Review of Advances in Laboratory and Real-Scale Construction Projects</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.mtsust.2025.101131) <a href="https://doi.org/10.1016/j.mtsust.2025.101131" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtsust.2025.101131" target="_blank">10.1016/j.mtsust.2025.101131</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b>&nbsp;Mustapha</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Materials Today Sustainability, No. 101131
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> <a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today Sustainability, No. 101131
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#extrusion`](keyword/extrusion)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#labor`](keyword/labor)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#projection`](keyword/projection)
-    [`#real`](keyword/real)
-    [`#review`](keyword/review)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20of%20Extrusion-Based%20Two-Part%203D-Printed%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005486125&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410396787" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.mtsust.2025.101131" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.mtsust.2025.101131?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of geopolymer is considered an alternative to cement-based concrete due to its sustainability and novel manufacturing techniques. Comparisons have been drawn between one-part and two-part 3D-printed geopolymer concrete (OP3DPGPC and TP3DPGPC, respectively). Some articles have projected OP3DPGPC to be user-friendly since it is excited with powdered activators. However, the embodied energy and the carbon emission of liquid silicate reactants in TP3DPGPC are 70% and 50% less than the solid silicate used in OP3DPGPC. Also, studies show that TP3DPGPC exhibits superior mechanical performance compared to OP3DPGPC. This study comprehensively reviews the advances in the laboratory-scale and real-scale development of extrusion-based TP3DPGPC, their material composition, constituents’ proportion, and mechanical performance. Data were collected from articles published on TP3DPGPC across renowned journals from 2017 to 2024 and internet sources to identify real-scale TP3DPGPC structures. The mechanical properties of TP3DPGPC available in the literature include compression, flexure, interlayer bond, tensile bond, direct tensile, and splitting tensile strength. These studies show that the mechanical performance of TP3DPGPC depends on the type and proportion of precursor(s), type and composition of the reactants, aggregate type, aggregate-to-binder ratio, activator-to-binder ratio, the molarity of NaOH, SiO2/Na2O ratio, water-to-binder ratio, water-to-solid ratio, liquid-to-solid ratio, additive types, fibre (type, content, and aspect ratio), and curing (type and conditions). Similarly, the mechanical performance of TP3DPGPC is dependent on the printer parameters, the configuration, and the loading direction. The data generated will serve as the basis for future studies and the prediction of mechanical performance. Finally, a review of the microstructure properties is conducted to justify the mechanical performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "75 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -154,7 +128,36 @@ tags:
       <li><a href="../../../author/ziada_mahmoud"><b>Ziada</b> Mahmoud</a>, <a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ziad_tany_selo_cosk.2024.BBCHo3PPFRGM/">Bacteria-Based Crack-Healing of 3D Printed PVA-Fiber-Reinforced Geopolymer Mortars</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jaji_baba_zijl.2025.MPoEBTP3PGC,
+      author            = "Mustapha Bamidele Jaji and Adewumi John Babafemi and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete: A Review of Advances in Laboratory and Real-Scale Construction Projects",
+      doi               = "10.1016/j.mtsust.2025.101131",
+      year              = "2025",
+      journal           = "Materials Today Sustainability",
+      pages             = "101131",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. B. Jaji, A. J. Babafemi and G. P. A. G. van Zijl, “Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete: A Review of Advances in Laboratory and Real-Scale Construction Projects”, <i>Materials Today Sustainability</i>, p. 101131, 2025, doi: 10.1016/j.mtsust.2025.101131.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jaji, Mustapha Bamidele, Adewumi John Babafemi, and Gideon Pieter Adriaan Greeff van Zijl. “Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete: A Review of Advances in Laboratory and Real-Scale Construction Projects”. <i>Materials Today Sustainability</i>, 2025, 101131. https://doi.org/10.1016/j.mtsust.2025.101131.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

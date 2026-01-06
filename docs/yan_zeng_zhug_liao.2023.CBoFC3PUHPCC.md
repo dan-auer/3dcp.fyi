@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zitong Yan, Jun-Jie Zeng, Yan Zhuge, Jinjing Liao, Jie-Kai Zhou, Guowei Ma
+    - footer
+title: Yan Zitong, Zeng Jun-Jie, Zhuge Yan, Liao Jinjing, Zhou Jie-Kai, Ma Guowei
 description:
 tags:
  - behavior
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2023.108304) Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.jobe.2023.108304" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.108304</a>
+#Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders ([2023-12](date/2023/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2023.108304) <a href="https://doi.org/10.1016/j.jobe.2023.108304" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.108304" target="_blank">10.1016/j.jobe.2023.108304</a>
 
--------------------------
+<a href="../../../author/yan_zitong"><b>Yan</b>&nbsp;Zitong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuge_yan"><b>Zhuge</b>&nbsp;Yan</a></span>, <a href="../../../author/liao_jinjing"><b>Liao</b>&nbsp;Jinjing</a></span>, <a href="../../../author/zhou_jie-kai"><b>Zhou</b>&nbsp;Jie-Kai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Journal of Building Engineering, No. 108304
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>
-,     <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> <a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> <a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liao_jinjing"><b>Liao</b> Jinjing</a>
-,     <a href="../../../author/zhou_jie-kai"><b>Zhou</b> Jie-Kai</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 108304
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#confinement`](keyword/confinement)
-    [`#cylinder`](keyword/cylinder)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/confinement"><button class="btn">#confinement</button></a> <a href="../../keyword/cylinder"><button class="btn">#cylinder</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Compressive%20Behavior%20of%20FRP-Confined%203D%20Printed%20Ultra-High-Performance%20Concrete%20Cylinders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180535735&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389778781" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.108304" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.108304?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) concrete printing technology has attracted increasing applications due to its merits such as labor-saving. Due to difficulties in implementing reinforcements in 3D printed concrete (3DPC), 3DPC structures are commonly designed to predominantly resist compressive loadings. This paper proposes to further enhance the compressive performance of 3D printed ultra-high performance concrete (3DPU) elements by fiber-reinforced polymer (FRP) wrapping as FRP confinement can enhance both the shear strength and axial compressive strength of concrete. Axial compression tests on FRP-confined 3D printed UHPC (FC3DPU) and unconfined 3D printed UHPC (UC3DPU) cylinders were conducted. The key variables include the loading directions (i.e., X, Y, Z directions) of the 3DPU cylinders and the FRP confinement thickness (i.e., one and two layers). Test results show that FRP wrapping can substantially enhance the strength and deformation capacity of 3DPU. Furthermore, the compressive strengths of the UC3DPU and FC3DPU in the X-direction are the highest, while they are the lowest in the Z-direction. The actual confinement ratio threshold for sufficient confinement of FC3DPU is 0.1. Two existing models of FRP-confined concrete were assessed, and results show that Liao et al.’s model has good performance in predicting the ultimate axial stresses of FC3DPU, whereas Teng et al.’s model is more accurate in estimating the axial strains corresponding to the ultimate axial stresses. Microscopic analysis reveals 3DPU has more large defects (i.e., equivalent diameter (Eq) > 2 mm) in interlayers but less small defects (Eq < 2 mm) than cast counterparts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/du_wenfeng"><b>Du</b> Wenfeng</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhou_zhiyong"><b>Zhou</b> Zhiyong</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../du_zhu_zhan_zhou.2023.EaNIoaI3TSS/">Experimental and Numerical Investigation of an Innovative 3DPC Thin-Shell Structure</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
@@ -91,8 +67,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zeng_jian_yan_sun.2025.3PoCCFRPRfCC/">3D Printing of Continuous Carbon Fiber-Reinforced Polymer Reinforcement for Concrete Columns</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
@@ -114,4 +90,33 @@ tags:
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/beytekin_elif_hatice"><b>Beytekin</b> Hatice</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../sahi_mard_beyt.2024.EoSFUoSBUMaDSPoFR3PC/">Effect of Silica-Fume Utilization on Structural Build-Up, Mechanical and Dimensional Stability Performance of Fiber-Reinforced 3D Printable Concrete</a></li>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zeng_yan_jian_li.2024.3PoFGaBRfRCP/">3D Printing of FRP Grid and Bar Reinforcement for Reinforced Concrete Plates:<br/>Development and Effectiveness</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yan_zeng_zhug_liao.2023.CBoFC3PUHPCC,
+      author            = "Zitong Yan and Jun-Jie Zeng and Yan Zhuge and Jinjing Liao and Jie-Kai Zhou and Guowei Ma",
+      title             = "Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders",
+      doi               = "10.1016/j.jobe.2023.108304",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      pages             = "108304",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Yan, J.-J. Zeng, Y. Zhuge, J. Liao, J.-K. Zhou and G. Ma, “Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders”, <i>Journal of Building Engineering</i>, p. 108304, 2023, doi: 10.1016/j.jobe.2023.108304.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yan, Zitong, Jun-Jie Zeng, Yan Zhuge, Jinjing Liao, Jie-Kai Zhou, and Guowei Ma. “Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders”. <i>Journal of Building Engineering</i>, 2023, 108304. https://doi.org/10.1016/j.jobe.2023.108304.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

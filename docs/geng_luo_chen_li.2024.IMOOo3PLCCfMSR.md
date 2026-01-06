@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Songyuan Geng, Qiling Luo, Boyuan Cheng, Lixao Li, Dong-Chang Wen, Wujian Long
+    - footer
+title: Geng Songyuan, Luo Qiling, Cheng Boyuan, Li Lixao, Wen Dong-Chang, Long Wujian
 description:
 tags:
  - carbon
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Intelligent Multi-Objective Optimization of 3D Printing Low-Carbon Concrete for Multi-Scenario Requirements ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.jclepro.2024.141361" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2024.141361</a>
+#Intelligent Multi-Objective Optimization of 3D Printing Low-Carbon Concrete for Multi-Scenario Requirements ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2024.141361" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2024.141361" target="_blank">10.1016/j.jclepro.2024.141361</a>
 
--------------------------
+<a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <a href="../../../author/luo_qiling"><b>Luo</b>&nbsp;Qiling</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-5534-9419" title="ORCID: 0009-0000-5534-9419" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_boyuan"><b>Cheng</b>&nbsp;Boyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7889-8100" title="ORCID: 0000-0002-7889-8100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_lixao"><b>Li</b>&nbsp;Lixao</a></span>, <a href="../../../author/wen_dong-chang"><b>Wen</b>&nbsp;Dong-Chang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 445, No. 141361
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>
-,     <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>
-,     <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a> <a href="https://orcid.org/0009-0000-5534-9419" title="ORCID: 0009-0000-5534-9419" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_lixao"><b>Li</b> Lixao</a> <a href="https://orcid.org/0000-0002-7889-8100" title="ORCID: 0000-0002-7889-8100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wen_dong-chang"><b>Wen</b> Dong-Chang</a>
-,     <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> <a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 445, No. 141361
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#intelligence`](keyword/intelligence)
-    [`#low`](keyword/low)
-    [`#multi`](keyword/multi)
-    [`#objective`](keyword/objective)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#requirement`](keyword/requirement)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/objective"><button class="btn">#objective</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Intelligent%20Multi-Objective%20Optimization%20of%203D%20Printing%20Low-Carbon%20Concrete%20for%20Multi-Scenario%20Requirements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185830647&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391983706" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2024.141361" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2024.141361?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study presents, for the first time, a universal theoretical framework based on machine learning (ML) algorithms for the multi-objective optimization (MOO) design of 3D printing low-carbon concrete to meet the sustainability requirements of the construction industry. The study focuses on the simultaneous reduction of carbon emissions and costs during the design process. Specifically, the applicable scenarios are primarily classified into two categories: meet aesthetics requirements (printing layer height error-HE and printing layer width error-WE approaching 0) and strengths requirements (compressive strength-CS approaching 60 MPa and interlayer bonding strength-IBS as high as possible). Through a comparison with the traditional design method, 3D printing concrete based on the intelligent design method achieves a 44% reduction in costs and a 19% reduction in carbon emissions while meeting aesthetics requirements. Under strengths requirements, there is a 57% reduction in costs and a 22% reduction in carbon emissions. This demonstrates the indispensable and crucial role of the MOO method employed in this study in achieving the lowest costs and carbon emissions. Additionally, the results of experimental verification demonstrate that the models developed in this study have successfully achieved a close alignment between design values and experimental values within the allowable error range (The errors are 3.46%–9.83%). This not only holds the potential to drive the widespread application of 3D printing technology in the construction industry but also presents new possibilities for cleaner production, contributing to the achievement of sustainable development goals.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
@@ -98,8 +73,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
@@ -109,4 +84,34 @@ tags:
       <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jin_caro_ouel.2024.MtCFo3PC/">Minimizing the Carbon Footprint of 3D Printing Concrete:<br/>Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization</a></li>
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{geng_luo_chen_li.2024.IMOOo3PLCCfMSR,
+      author            = "Songyuan Geng and Qiling Luo and Boyuan Cheng and Lixao Li and Dong-Chang Wen and Wujian Long",
+      title             = "Intelligent Multi-Objective Optimization of 3D Printing Low-Carbon Concrete for Multi-Scenario Requirements",
+      doi               = "10.1016/j.jclepro.2024.141361",
+      year              = "2024",
+      journal           = "Journal of Cleaner Production",
+      volume            = "445",
+      pages             = "141361",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Geng, Q. Luo, B. Cheng, L. Li, D.-C. Wen and W. Long, “Intelligent Multi-Objective Optimization of 3D Printing Low-Carbon Concrete for Multi-Scenario Requirements”, <i>Journal of Cleaner Production</i>, vol. 445, p. 141361, 2024, doi: 10.1016/j.jclepro.2024.141361.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geng, Songyuan, Qiling Luo, Boyuan Cheng, Lixao Li, Dong-Chang Wen, and Wujian Long. “Intelligent Multi-Objective Optimization of 3D Printing Low-Carbon Concrete for Multi-Scenario Requirements”. <i>Journal of Cleaner Production</i> 445 (2024): 141361. https://doi.org/10.1016/j.jclepro.2024.141361.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

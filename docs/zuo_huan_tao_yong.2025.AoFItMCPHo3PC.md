@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zibo Zuo, Yulin Huang, Yaxin Tao, Yuan Yong, Wouter Corte
+    - footer
+title: Zuo Zibo, Huang Yulin, Tao Yaxin, Yong Yuan, Corte Wouter
 description:
 tags:
  - analysis
@@ -16,31 +17,11 @@ tags:
 
 ---
 
-# Analysis of Factors Influencing the Maximum Continuous Printing Height of 3D Printed Concrete ([2025-06](date/2025/06))
--------------------------
+#Analysis of Factors Influencing the Maximum Continuous Printing Height of 3D Printed Concrete ([2025-06](date/2025/06))
+<span class="author"><a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_zibo"><b>Zuo</b>&nbsp;Zibo</a></span>, <a href="../../../author/huang_yulin"><b>Huang</b>&nbsp;Yulin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <a href="../../../author/yong_yuan"><b>Yong</b>&nbsp;Yuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span><br>
+Contribution - Proceedings of the fib Symposium 2025
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> <a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yong_yuan"><b>Yong</b> Yuan</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#continuous`](keyword/continuous)
-    [`#factor`](keyword/factor)
-    [`#height`](keyword/height)
-    [`#influence`](keyword/influence)
-    [`#maximum`](keyword/maximum)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/maximum"><button class="btn">#maximum</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%20Factors%20Influencing%20the%20Maximum%20Continuous%20Printing%20Height%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -55,17 +36,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A quantitative assessment of the buildability of 3D printed concrete is essential. This can be done by investigating the factors that influence the maximum continuous printing height (MCPH) or maximum number of printed layers (MNPL). In this study, sixteen cases of indoor experiments of 3D printed concrete are collected and analyzed. The range of values for each statistical parameter and the failure modes of the MCPH are given. The results show that MCPH and MNPL are related to the material parameters, printing parameters and geometrical parameters of the designed 3D printing structure. Specifically, the material parameters mainly include density, early elastic modulus and compressive strength, while the printing parameters mainly include printing speed, printing time gap and printing time, and the geometric parameters mainly include layer height, layer width, single-layer length and quadratic moment of inertia. It is shown that the correlation coefficients of these parameters with the MNPL differ considerably. In addition, several data on the elastic buckling failure mode are used to assess Roussel's empirical formula for predicting the MCPH. This research is expected to support the quantitative assessment and prediction of buildability and parametric design of early age 3D printed concrete
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chan_xu_chen_gan.2021.ADLMfAoBPo3PC/">A Discrete Lattice-Model for Assessment of Buildability Performance of 3D Printed Concrete</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../chan_zhan_lian_schl.2022.NSoEBi3CPUtLMwGNL/">Numerical Simulation of Elastic Buckling in 3D Concrete Printing Using the Lattice-Model with Geometric Non-Linearity</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../duar_duar_brow_mema.2024.DfEASPo3PCS/">Design for Early-Age Structural Performance of 3D Printed Concrete Structures:<br/>A Parametric Numerical Modeling Approach</a></li>
@@ -81,7 +58,35 @@ tags:
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zuo_cort_huan_chen.2023.PtWAoLS3P/">Propelling the Widespread Adoption of Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/li_jin"><b>Li</b> Jin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS/">Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures:<br/>A Case Study of a Full-Size Two-Story Building</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{zuo_huan_tao_yong.2025.AoFItMCPHo3PC,
+      author            = "Zibo Zuo and Yulin Huang and Yaxin Tao and Yuan Yong and Wouter de Corte",
+      title             = "Analysis of Factors Influencing the Maximum Continuous Printing Height of 3D Printed Concrete",
+      year              = "2025",
+      booktitle         = "Proceedings of the fib Symposium 2025: Concrete Structures",
+      editor            = "fédération internationale du béton",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zuo, Y. Huang, Y. Tao, Y. Yong and W. de Corte, “Analysis of Factors Influencing the Maximum Continuous Printing Height of 3D Printed Concrete”, in <i>Proceedings of the fib Symposium 2025: Concrete Structures</i>,  2025.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zuo, Zibo, Yulin Huang, Yaxin Tao, Yuan Yong, and Wouter de Corte. “Analysis of Factors Influencing the Maximum Continuous Printing Height of 3D Printed Concrete”. In <i>Proceedings of the Fib Symposium 2025: Concrete Structures</i>, edited by fédération internationale du béton, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

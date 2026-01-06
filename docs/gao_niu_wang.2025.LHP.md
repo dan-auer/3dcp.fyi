@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianhao Gao, Yujun Niu, Chaofeng Wang
+    - footer
+title: Gao Jianhao, Niu Yujun, Wang Chaofeng
 description:
 tags:
  - approach
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Linear Helical Printing:<br/>:aca-blank: A Novel Approach to 3D Printing Concrete Structures with Enhanced Integrity ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.engstruct.2025.120219" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.120219</a>
+#Linear Helical Printing&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">A Novel Approach to 3D Printing Concrete Structures with Enhanced Integrity</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.120219" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120219" target="_blank">10.1016/j.engstruct.2025.120219</a>
 
--------------------------
+<a href="../../../author/gao_jianhao"><b>Gao</b>&nbsp;Jianhao</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-2781-7332" title="ORCID: 0009-0008-2781-7332" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/niu_yujun"><b>Niu</b>&nbsp;Yujun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8534-9276" title="ORCID: 0000-0001-8534-9276" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_chaofeng"><b>Wang</b>&nbsp;Chaofeng</a></span><br>
+Journal Article - Engineering Structures, Vol. 335, No. 120219
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gao_jianhao"><b>Gao</b> Jianhao</a>
-,     <a href="../../../author/niu_yujun"><b>Niu</b> Yujun</a> <a href="https://orcid.org/0009-0008-2781-7332" title="ORCID: 0009-0008-2781-7332" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_chaofeng"><b>Wang</b> Chaofeng</a> <a href="https://orcid.org/0000-0001-8534-9276" title="ORCID: 0000-0001-8534-9276" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 335, No. 120219
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#helical`](keyword/helical)
-    [`#linear`](keyword/linear)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/helical"><button class="btn">#helical</button></a> <a href="../../keyword/linear"><button class="btn">#linear</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Linear%20Helical%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003171703&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409652935" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.120219" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.120219?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) offers remarkable capabilities for rapid and customizable construction, but its reliance on the layer-by-layer deposition method introduces a critical limitation: weak interfaces between layers that undermine structural performance. In this study, we propose a novel approach, linear helical printing, to address this issue. Unlike conventional techniques, our method creates a continuous filament of concrete in a helical path, resulting in a unified structure with enhanced integrity. To evaluate its effectiveness, we conducted experiments and finite element analysis, comparing the bending strength of hollow beams produced using our helical printing technique to those made with the traditional layer-by-layer method. The findings are compelling: linear helical printing consistently delivers superior bending strength and improved structural performance across all tested conditions. More specifically, the strength of a linear helical printed specimen with specific dimensions and inter-layer properties can be up to 97.3% higher than that of a layer-by-layer printed specimen. This approach not only simplifies the construction process but also has the potential to redefine 3DCP methodologies, offering a robust alternative for future construction applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/cai_jianguo"><b>Cai</b> Jianguo</a>, <a href="../../../author/wang_jingsong"><b>Wang</b> Jingsong</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a>, <a href="../../../author/du_caixia"><b>Du</b> Caixia</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cai_wang_zhan_du.2024.SotAoMPo3PC/">State of the Art of Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
@@ -97,7 +78,37 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gao_niu_wang.2025.LHP,
+      author            = "Jianhao Gao and Yujun Niu and Chaofeng Wang",
+      title             = "Linear Helical Printing: A Novel Approach to 3D Printing Concrete Structures with Enhanced Integrity",
+      doi               = "10.1016/j.engstruct.2025.120219",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "335",
+      pages             = "120219",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Gao, Y. Niu and C. Wang, “Linear Helical Printing: A Novel Approach to 3D Printing Concrete Structures with Enhanced Integrity”, <i>Engineering Structures</i>, vol. 335, p. 120219, 2025, doi: 10.1016/j.engstruct.2025.120219.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gao, Jianhao, Yujun Niu, and Chaofeng Wang. “Linear Helical Printing: A Novel Approach to 3D Printing Concrete Structures with Enhanced Integrity”. <i>Engineering Structures</i> 335 (2025): 120219. https://doi.org/10.1016/j.engstruct.2025.120219.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

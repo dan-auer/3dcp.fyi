@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: José Vargas, Helena Westerlind, Luca Breseghello, Johan Silfwerbrand
+    - footer
+title: Vargas José, Westerlind Helena, Breseghello Luca, Silfwerbrand Johan
 description:
 tags:
  - concrete
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns ([2025-03](date/2025/03))
-<a href="https://doi.org/10.52842/conf.caadria.2025.2.151" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.caadria.2025.2.151</a>
+#Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.caadria.2025.2.151" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2025.2.151" target="_blank">10.52842/conf.caadria.2025.2.151</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0641-0567" title="ORCID: 0000-0002-0641-0567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vargas_hernandez_jose"><b>Vargas</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2313-8809" title="ORCID: 0000-0002-2313-8809" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/westerlind_helena"><b>Westerlind</b>&nbsp;Helena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1526-9331" title="ORCID: 0000-0002-1526-9331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b>&nbsp;Johan</a></span><br>
+Contribution - Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia, pp. 151-160
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> <a href="https://orcid.org/0000-0002-0641-0567" title="ORCID: 0000-0002-0641-0567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> <a href="https://orcid.org/0000-0002-2313-8809" title="ORCID: 0000-0002-2313-8809" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="https://orcid.org/0000-0002-1526-9331" title="ORCID: 0000-0002-1526-9331" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia, pp. 151-160
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#pattern`](keyword/pattern)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20of%20Porous%20Structures%20in%203D%20Concrete%20Printing%20Using%20Procedural%20Print%20Patterns" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023440645&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414834288" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.caadria.2025.2.151" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.caadria.2025.2.151?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) enables the manufacturing of complex structures without increasing the costs of the process. However, this increased complexity is limited by conventional design workflows based on boundary representation 3D modelling and conventional slicing methods. While previous research has demonstrated the potential of print paths as a design method for customised structures and surface qualities, their use to generate controlled porosity in 3DCP structures is still unexplored. This paper investigates the use of print patterns at the scale of the printed filament to control the porosity, material distribution, and surface area of 3DPC structures, creating variable porosity and permeability that enhance design flexibility in 3DCP. For this, seven printing patterns were developed and tested to assess the relationship between exposed surface area and material use. The findings demonstrated that alternating patterns could create permeable structures with an extended surface area, which enables the creation of multi-functional structures. This research contributes to extending the design possibilities of 3DCP, allowing the generation of material properties that can be embedded and graded throughout the printed part.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/schulte_martinez_dinorah"><b>Schulte</b> Dinorah</a>, <a href="../../../author/senol_ayca"><b>Şenol</b> Ayça</a>, <a href="../../../author/jeoffroy_etienne"><b>Jeoffroy</b> Etienne</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../beda_schu_seno_jeof.2021.R3PoMFfaLCFSP/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Facade Shading Panel</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bres_sani_nabo.2021.TPSDaMiR3CP/">Tool-Path Simulation, Design and Manipulation in Robotic 3D Concrete Printing</a></li>
@@ -71,7 +51,37 @@ tags:
       <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../west_varg.2020.KC/">Knitting Concrete</a></li>
       <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../west_varg_silf.2023.TtAoMi3CP/">Towards the Application of Mesostructures in 3D Concrete Printing:<br/>Evaluating Load-bearing Performance</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{varg_west_bres_silf.2025.DoPSi3CPUPPP,
+      author            = "José Hernández Vargas and Helena Westerlind and Luca Breseghello and Johan Silfwerbrand",
+      title             = "Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns",
+      doi               = "10.52842/conf.caadria.2025.2.151",
+      year              = "2025",
+      pages             = "151--160",
+      booktitle         = "Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia: Architectural Informatics",
+      editor            = "Dagmar Reinhardt and Nicolas Rogeau and Christiane M. Herr and Anastasia Globa and Jielin Chen and Taro Narahara",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. H. Vargas, H. Westerlind, L. Breseghello and J. Silfwerbrand, “Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns”, in <i>Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia: Architectural Informatics</i>,  2025, pp. 151–160. doi: 10.52842/conf.caadria.2025.2.151.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vargas, José Hernández, Helena Westerlind, Luca Breseghello, and Johan Silfwerbrand. “Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns”. In <i>Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia: Architectural Informatics</i>, edited by Dagmar Reinhardt, Nicolas Rogeau, Christiane M. Herr, Anastasia Globa, Jielin Chen, and Taro Narahara, 151–60, 2025. https://doi.org/10.52842/conf.caadria.2025.2.151.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

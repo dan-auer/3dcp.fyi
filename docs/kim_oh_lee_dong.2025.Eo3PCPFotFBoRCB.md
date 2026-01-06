@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tae Kim, Sangwoo Oh, Jinsuk Lee, Won-Jun Dong, Bunleang Mak, Seongcheol Choi, Chang Shim
+    - footer
+title: Kim Tae, Oh Sangwoo, Lee Jinsuk, Dong Won-Jun, Mak Bunleang, Choi Seongcheol, Shim Chang
 description:
 tags:
  - analysis
@@ -20,39 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04802) Effects of 3D-Printed Concrete Permanent Formwork on the Flexural Behavior of Reinforced Concrete Beams:<br/>:aca-blank: Experimental and Analytical Investigations ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04802" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04802</a>
+#Effects of 3D-Printed Concrete Permanent Formwork on the Flexural Behavior of Reinforced Concrete Beams&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Experimental and Analytical Investigations</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04802) <a href="https://doi.org/10.1016/j.cscm.2025.e04802" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04802" target="_blank">10.1016/j.cscm.2025.e04802</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-7233-9892" title="ORCID: 0009-0005-7233-9892" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_kyung_tae"><b>Kim</b>&nbsp;Tae</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-2874-9236" title="ORCID: 0009-0009-2874-9236" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oh_sangwoo"><b>Oh</b>&nbsp;Sangwoo</a></span>, <a href="../../../author/lee_jinsuk"><b>Lee</b>&nbsp;Jinsuk</a></span>, <a href="../../../author/dong_won-jun"><b>Dong</b>&nbsp;Won-Jun</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-3017-7068" title="ORCID: 0009-0007-3017-7068" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mak_bunleang"><b>Mak</b>&nbsp;Bunleang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6450-2742" title="ORCID: 0000-0002-6450-2742" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/choi_seongcheol"><b>Choi</b>&nbsp;Seongcheol</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7557-9553" title="ORCID: 0000-0001-7557-9553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shim_su_chang"><b>Shim</b>&nbsp;Chang</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04802
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a> <a href="https://orcid.org/0009-0005-7233-9892" title="ORCID: 0009-0005-7233-9892" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a> <a href="https://orcid.org/0009-0009-2874-9236" title="ORCID: 0009-0009-2874-9236" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>
-,     <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a>
-,     <a href="../../../author/mak_bunleang"><b>Mak</b> Bunleang</a> <a href="https://orcid.org/0009-0007-3017-7068" title="ORCID: 0009-0007-3017-7068" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="https://orcid.org/0000-0002-6450-2742" title="ORCID: 0000-0002-6450-2742" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shim_su_chang"><b>Shim</b> Chang</a> <a href="https://orcid.org/0000-0001-7557-9553" title="ORCID: 0000-0001-7557-9553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04802
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#beam`](keyword/beam)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#experiment`](keyword/experiment)
-    [`#flexural`](keyword/flexural)
-    [`#formwork`](keyword/formwork)
-    [`#investigation`](keyword/investigation)
-    [`#permanent`](keyword/permanent)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%203D-Printed%20Concrete%20Permanent%20Formwork%20on%20the%20Flexural%20Behavior%20of%20Reinforced%20Concrete%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007000136&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410799802" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04802" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04802?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In response to challenges such as skilled labor shortages, reduced productivity, and the slow pace of digital transformation, 3D concrete printing (3DCP) offers a promising solution. Despite the growing interest in 3DCP as a construction solution, existing studies have primarily focused on material-level behavior, while experimental verification of structural performance remains limited—particularly regarding the applicability of existing design codes and quality control specifications to members incorporating 3D-printed elements, highlighting the need for further structural-level investigations. To address this gap, this study examines effects of 3D-printed concrete permanent formwork (3DPF) on the flexural behavior of reinforced concrete (RC) beams. Two 3DPF and two cast-in-place beams were fabricated. Four-point bending tests evaluated crack patterns, failure modes, load–displacement relationships, and strain distributions, finding that 3DPF improved the flexural strength of RC beams, emphasizing its importance in structural design considerations. However, vertical crack patterns induced by weak interlayer bonding strength were observed, along with reduced displacement ductility in the 3DPF beams. Equivalent strengths between cast and printed materials were established to facilitate flexural strength analysis with cast specimens. A strain compatibility approach was proposed based on Eurocode 2, incorporating the equivalent strength of the printed material, an effective layer width, and the cross-sectional geometry of the 3DPF beam. The calculated values using this approach showed good agreement with the experimental results for nominal flexural strength and neutral axis depth.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../aram_cald_puen.2023.WJPo3PCBSUFL/">Wet Joint Performance of 3D Printed Concrete Beam Segments Under Flexural Loading</a></li>
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -111,9 +83,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
       <li><a href="../../../author/mak_bunleang"><b>Mak</b> Bunleang</a>, <a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a>, <a href="../../../author/shim_su_chang"><b>Shim</b> Chang</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mak_kim_dong_shim.2025.CWIoRCBw3CPFUMP/">Crack Width Investigation of Reinforced Concrete Beam with 3D Concrete Printed Formwork Using Modified Parameters</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kim_oh_lee_dong.2025.Eo3PCPFotFBoRCB,
+      author            = "Tae Kyung Kim and Sangwoo Oh and Jinsuk Lee and Won-Jun Dong and Bunleang Mak and Seongcheol Choi and Chang Su Shim",
+      title             = "Effects of 3D-Printed Concrete Permanent Formwork on the Flexural Behavior of Reinforced Concrete Beams: Experimental and Analytical Investigations",
+      doi               = "10.1016/j.cscm.2025.e04802",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04802",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. K. Kim, “Effects of 3D-Printed Concrete Permanent Formwork on the Flexural Behavior of Reinforced Concrete Beams: Experimental and Analytical Investigations”, <i>Case Studies in Construction Materials</i>, p. e04802, 2025, doi: 10.1016/j.cscm.2025.e04802.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kim, Tae Kyung, Sangwoo Oh, Jinsuk Lee, Won-Jun Dong, Bunleang Mak, Seongcheol Choi, and Chang Su Shim. “Effects of 3D-Printed Concrete Permanent Formwork on the Flexural Behavior of Reinforced Concrete Beams: Experimental and Analytical Investigations”. <i>Case Studies in Construction Materials</i>, 2025, e04802. https://doi.org/10.1016/j.cscm.2025.e04802.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

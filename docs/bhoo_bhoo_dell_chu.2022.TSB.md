@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shajay Bhooshan, Vishu Bhooshan, Alessandro Dell’Endice, Jianfei Chu, Philip Singer, Johannes Megens, Tom Mele, Philippe Block
+    - footer
+title: Bhooshan Shajay, Bhooshan Vishu, Dell’Endice Alessandro, Chu Jianfei, Singer Philip, Megens Johannes, Mele Tom, Block Philippe
 description:
 tags:
  - bridge
@@ -10,30 +11,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s44150-022-00051-y.pdf) The Striatus Bridge ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1007/s44150-022-00051-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s44150-022-00051-y</a>
+#The Striatus Bridge ([2022-06](date/2022/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44150-022-00051-y.pdf) <a href="https://doi.org/10.1007/s44150-022-00051-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44150-022-00051-y" target="_blank">10.1007/s44150-022-00051-y</a>
 
--------------------------
+<a href="../../../author/bhooshan_shajay"><b>Bhooshan</b>&nbsp;Shajay</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4160-3898" title="ORCID: 0000-0003-4160-3898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bhooshan_vishu"><b>Bhooshan</b>&nbsp;Vishu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4799-6015" title="ORCID: 0000-0002-4799-6015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b>&nbsp;Alessandro</a></span>, <a href="../../../author/chu_jianfei"><b>Chu</b>&nbsp;Jianfei</a></span>, <a href="../../../author/singer_philip"><b>Singer</b>&nbsp;Philip</a></span>, <a href="../../../author/megens_johannes"><b>Megens</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
+Journal Article - Architecture, Structures and Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>
-,     <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a> <a href="https://orcid.org/0000-0003-4160-3898" title="ORCID: 0000-0003-4160-3898" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a> <a href="https://orcid.org/0000-0002-4799-6015" title="ORCID: 0000-0002-4799-6015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a>
-,     <a href="../../../author/singer_philip"><b>Singer</b> Philip</a>
-,     <a href="../../../author/megens_johannes"><b>Megens</b> Johannes</a>
-,     <a href="../../../author/mele_tom"><b>van Mele</b> Tom</a> <a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architecture, Structures and Construction, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bridge`](keyword/bridge)
-    [`#striatus`](keyword/striatus)
-
-
--------------------------
+<a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/striatus"><button class="btn">#striatus</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Striatus%20Bridge" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +32,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4282822071" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s44150-022-00051-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s44150-022-00051-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The paper describes the physical realisation of a 3D-concrete-printed, mortar-free, unreinforced masonry arched footbridge, designed for disassembly and reuse. The paper also details the novel integrated design, engineering and fabrication framework and the manufacturing and assembly processes used for the project. The research, motivated by the rapid growth in large-scale 3D concrete printing (3DCP), addresses the current lack of both design tools and integrated design-to-production solutions. It is guided by the insight regarding the applicability of design and analysis methods used in unreinforced masonry to large-scale, layered 3D printing with compression dominant materials such as concrete. Thus, the underlying computational framework and integrated design environment further extends and adapts advances in the computational design and analysis of unreinforced masonry structures to 3DCP masonry blocks. Adopting an unreinforced masonry paradigm for the design of 3DCP structures can make it possible to (i) reduce the amount of concrete used by allowing precise placement of concrete only where needed along the compressive flow of forces, (ii) reduce the amount of steel needed by reducing tensile and flexural strength requirements through a compression-appropriate design of both the global, shape and the block discretisation, and (iii) reuse components, repair the structures and recycle materials more easily. This paper builds on the relevance of the computational masonry paradigm to both delivering the ecological promises of 3DCP and to the development of a 3DCP-specific, design-to-production toolkit.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/ladinig_johannes"><b>Ladinig</b> Johannes</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bhoo_ladi_mele_bloc.2019.FRfR3PC/">Function Representation for Robotic 3D Printed Concrete</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../bhoo_mele_bloc.2018.EASDfCP/">Equilibrium-Aware Shape Design for Concrete Printing</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../bhoo_mele_bloc.2020.MS/">Morph & Slerp:<br/>Shape Description for 3D Printing of Concrete</a></li>
@@ -74,8 +54,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "43 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/baritakis_mario"><b>Baritakis</b> Mario</a>, <a href="../../../author/traine_phillip"><b>Traine</b> Phillip</a>, <a href="../../../author/granzow_jan"><b>Granzow</b> Jan</a>, <a href="../../../author/dobert_christine"><b>Döbert</b> Christine</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bari_trai_gran_dobe.2024.3PCFfT/">3D-Printed Clay Formwork for Topology:<br/>Optimized Concrete Elements</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
@@ -120,4 +100,32 @@ tags:
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/megens_johannes"><b>Megens</b> Johannes</a>, <a href="../../../author/casucci_tommaso"><b>Casucci</b> Tommaso</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bhoo_bhoo_mege_casu.2023.PPDfIPR3PoUC/">Print-Path Design for Inclined-Plane Robotic 3D Printing of Unreinforced Concrete</a></li>
       <li><a href="../../../author/sitnikov_vasily"><b>Sitnikov</b> Vasily</a>, <a href="../../../author/kitani_lena"><b>Kitani</b> Lena</a>, <a href="../../../author/maneka_artemis"><b>Maneka</b> Artemis</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../sitn_kita_mane_llor.2022.DaFoSGCEwIAM/">Design and Fabrication of Spatially Graded Concrete Elements with Ice Aggregate Method</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bhoo_bhoo_dell_chu.2022.TSB,
+      author            = "Shajay Bhooshan and Vishu Bhooshan and Alessandro Dell’Endice and Jianfei Chu and Philip Singer and Johannes Megens and Tom van Mele and Philippe Block",
+      title             = "The Striatus Bridge",
+      doi               = "10.1007/s44150-022-00051-y",
+      year              = "2022",
+      journal           = "Architecture, Structures and Construction",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Bhooshan, “The Striatus Bridge”, <i>Architecture, Structures and Construction</i>, 2022, doi: 10.1007/s44150-022-00051-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bhooshan, Shajay, Vishu Bhooshan, Alessandro Dell’Endice, Jianfei Chu, Philip Singer, Johannes Megens, Tom van Mele, and Philippe Block. “The Striatus Bridge”. <i>Architecture, Structures and Construction</i>, 2022. https://doi.org/10.1007/s44150-022-00051-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

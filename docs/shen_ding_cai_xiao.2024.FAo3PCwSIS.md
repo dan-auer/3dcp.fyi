@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kaige Shen, Tao Ding, Chen Cai, Jianzhuang Xiao, Xuwen Xiao, Wan Liang
+    - footer
+title: Shen Kaige, Ding Tao, Cai Chen, Xiao Jianzhuang, Xiao Xuwen, Liang Wan
 description:
 tags:
  - analysis
@@ -17,35 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Feasibility-Analysis of 3D Printed Concrete with Sludge-Incineration-Slag:<br/>:aca-blank: Mechanical Properties and Environmental Impacts ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138521" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138521</a>
+#Feasibility-Analysis of 3D Printed Concrete with Sludge-Incineration-Slag&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Mechanical Properties and Environmental Impacts</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138521" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138521" target="_blank">10.1016/j.conbuildmat.2024.138521</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8550-8764" title="ORCID: 0000-0002-8550-8764" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shen_kaige"><b>Shen</b>&nbsp;Kaige</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <a href="../../../author/cai_chen"><b>Cai</b>&nbsp;Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/xiao_xuwen"><b>Xiao</b>&nbsp;Xuwen</a></span>, <a href="../../../author/liang_wan"><b>Liang</b>&nbsp;Wan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 449, No. 138521
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shen_kaige"><b>Shen</b> Kaige</a> <a href="https://orcid.org/0000-0002-8550-8764" title="ORCID: 0000-0002-8550-8764" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cai_chen"><b>Cai</b> Chen</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_xuwen"><b>Xiao</b> Xuwen</a>
-,     <a href="../../../author/liang_wan"><b>Liang</b> Wan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 449, No. 138521
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#environment`](keyword/environment)
-    [`#feasibility`](keyword/feasibility)
-    [`#imapct`](keyword/imapct)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/imapct"><button class="btn">#imapct</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Feasibility-Analysis%20of%203D%20Printed%20Concrete%20with%20Sludge-Incineration-Slag" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205242419&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402975223" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138521" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138521?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study substituted sludge incineration slag for natural sand in the application of 3D printed concrete technology (3DCP). It analyzed the influence of the sludge incineration slag incorporation on the workability, printability, mechanical properties, and the solidifying effect of heavy metals in 3DCP. Furthermore, the environmental and economic benefits were also examined. The results indicated that the incorporation of sludge incineration slag accelerated the loss of workability factors such as flowability and consistency in 3DCP. However, it significantly enhanced the early strength of 3DCP and improved its buildability. Additionally, the addition of sludge incineration slag diminished the mechanical properties of 3DCP. When the substitution rate reached 50 % of natural sand with sludge incineration slag, the strength of the 3D printed specimens decreased by 22.1 %. Experimental investigations at a micro-scale indicated that the porosity of interlayer interfaces was a crucial factor causing strength reduction and could be ameliorated by appropriately increasing the extrusion amount to address excessive pore sizes. Toxicity leaching tests for heavy metals demonstrated that the maximum heavy metal leaching concentration in 3DCP specimens with sludge incineration slag incorporation was 0.14 mg/L, meeting the specified requirements. The 3DCP with sludge incineration slag incorporation not only addressed the difficulty in handling incineration bottom slag but also conserved natural sand resources, presenting outstanding environmental and economic benefits. For instance, by substituting 100 % natural sand with sludge incineration slag, there were 5 % reduction in carbon emissions and 30 % increase in economic benefits.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
@@ -90,9 +66,39 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shen_ding_cai_xiao.2024.FAo3PCwSIS,
+      author            = "Kaige Shen and Tao Ding and Chen Cai and Jianzhuang Xiao and Xuwen Xiao and Wan Liang",
+      title             = "Feasibility-Analysis of 3D Printed Concrete with Sludge-Incineration-Slag: Mechanical Properties and Environmental Impacts",
+      doi               = "10.1016/j.conbuildmat.2024.138521",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "449",
+      pages             = "138521",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Shen, T. Ding, C. Cai, J. Xiao, X. Xiao and W. Liang, “Feasibility-Analysis of 3D Printed Concrete with Sludge-Incineration-Slag: Mechanical Properties and Environmental Impacts”, <i>Construction and Building Materials</i>, vol. 449, p. 138521, 2024, doi: 10.1016/j.conbuildmat.2024.138521.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shen, Kaige, Tao Ding, Chen Cai, Jianzhuang Xiao, Xuwen Xiao, and Wan Liang. “Feasibility-Analysis of 3D Printed Concrete with Sludge-Incineration-Slag: Mechanical Properties and Environmental Impacts”. <i>Construction and Building Materials</i> 449 (2024): 138521. https://doi.org/10.1016/j.conbuildmat.2024.138521.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

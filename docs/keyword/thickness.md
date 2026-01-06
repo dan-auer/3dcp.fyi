@@ -8,7 +8,7 @@ search:
 
 # #thickness
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ghod_sing_chow.2025.SIoRoWFTiRoCAB3PC/">Some Insights on Role of Water Film-Thickness in Rheology of Coarse Aggregate-Based 3D Printable Concrete</a></li>
   <li><a href="../../../author/zhang_junyi"><b>Zhang</b> Junyi</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_zhan_zhan_li.2025.DPCCwPBUaEWFTT/">Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory</a></li>
   <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/alsuwaidi_abdulla"><b>Alsuwaidi</b> Abdulla</a>, <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>, <a href="../../../author/binshaqooi_essa"><b>Binshaqooi</b> Essa</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mans_alsu_bina_bins.2025.CHTaUVAo3CPEwVTACiHAC/">Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates</a></li>

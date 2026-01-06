@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mattias Põldaru, Karl Tammkõrv, Tanel Tusik, Mihkel Kiviste, Raido Puust
+    - footer
+title: Põldaru Mattias, Tammkõrv Karl, Tusik Tanel, Kiviste Mihkel, Puust Raido
 description:
 tags:
  - characteristic
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/12/2917/pdf?version=1700722879) The Effect of Printing-Direction on the Strength Characteristics of a 3D Printed Concrete Wall-Section ([2023-11](date/2023/11))
-<a href="https://doi.org/10.3390/buildings13122917" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13122917</a>
+#The Effect of Printing-Direction on the Strength Characteristics of a 3D Printed Concrete Wall-Section ([2023-11](date/2023/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/12/2917/pdf?version=1700722879) <a href="https://doi.org/10.3390/buildings13122917" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13122917" target="_blank">10.3390/buildings13122917</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7959-6449" title="ORCID: 0000-0001-7959-6449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poldaru_mattias"><b>Põldaru</b>&nbsp;Mattias</a></span>, <a href="../../../author/tammkorv_karl"><b>Tammkõrv</b>&nbsp;Karl</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8597-7299" title="ORCID: 0000-0001-8597-7299" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tusik_tanel"><b>Tusik</b>&nbsp;Tanel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8726-070X" title="ORCID: 0000-0001-8726-070X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kiviste_mihkel"><b>Kiviste</b>&nbsp;Mihkel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0349-8348" title="ORCID: 0000-0002-0349-8348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/puust_raido"><b>Puust</b>&nbsp;Raido</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 12, No. 2917
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/poldaru_mattias"><b>Põldaru</b> Mattias</a> <a href="https://orcid.org/0000-0001-7959-6449" title="ORCID: 0000-0001-7959-6449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tammkorv_karl"><b>Tammkõrv</b> Karl</a>
-,     <a href="../../../author/tusik_tanel"><b>Tusik</b> Tanel</a> <a href="https://orcid.org/0000-0001-8597-7299" title="ORCID: 0000-0001-8597-7299" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kiviste_mihkel"><b>Kiviste</b> Mihkel</a> <a href="https://orcid.org/0000-0001-8726-070X" title="ORCID: 0000-0001-8726-070X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/puust_raido"><b>Puust</b> Raido</a> <a href="https://orcid.org/0000-0002-0349-8348" title="ORCID: 0000-0002-0349-8348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 12, No. 2917
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#direction`](keyword/direction)
-    [`#effect`](keyword/effect)
-    [`#print`](keyword/print)
-    [`#section`](keyword/section)
-    [`#strength`](keyword/strength)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Printing-Direction%20on%20the%20Strength%20Characteristics%20of%20a%203D%20Printed%20Concrete%20Wall-Section" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180617934&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388945195" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13122917" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13122917?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital construction is expected to reduce the high volume of waste and the labour shortage in the construction sector. The properties of hardened concrete used in 3D printing depend on numerous parameters within the manufacturing process. This study collected data using 208 specimens to measure the effect of the loading direction relative to the printing direction on the strength characteristics of printed concrete. The compressive strength was not significantly affected by the directions, but showed a 30% reduction from mould-casted strength due to lesser amount of compaction in the printing process. Flexural tensile strength showed a 14% reduction in one direction, possibly caused by heterogeneity due to the use of extrusion head with a 35% smaller diameter than the width of the layer. Splitting tensile strength was 14% lower when split between the printed layers. Splitting tensile strength is possibly 5% higher when PP fibres are oriented favourably.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -92,9 +69,40 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wu_mema_duar.2022.SotARoRSaTf3PoC/">State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/kulkarni_omkar"><b>Kulkarni</b> Omkar</a>, <a href="../../../author/thakur_singh_manideep"><b>Thakur</b> Manideep</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../subr_pari_kulk_thak.2024.Fi3PCB/">Fracture in 3D Printed Concrete Beams:<br/>Deflection and Penetration of Impinging Cracks at Layer Interfaces</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pold_tamm_tusi_kivi.2023.TEoPDotSCoa3PCWS,
+      author            = "Mattias Põldaru and Karl Tammkõrv and Tanel Tusik and Mihkel Kiviste and Raido Puust",
+      title             = "The Effect of Printing-Direction on the Strength Characteristics of a 3D Printed Concrete Wall-Section",
+      doi               = "10.3390/buildings13122917",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "12",
+      pages             = "2917",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Põldaru, K. Tammkõrv, T. Tusik, M. Kiviste and R. Puust, “The Effect of Printing-Direction on the Strength Characteristics of a 3D Printed Concrete Wall-Section”, <i>Buildings</i>, vol. 13, no. 12, p. 2917, 2023, doi: 10.3390/buildings13122917.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Põldaru, Mattias, Karl Tammkõrv, Tanel Tusik, Mihkel Kiviste, and Raido Puust. “The Effect of Printing-Direction on the Strength Characteristics of a 3D Printed Concrete Wall-Section”. <i>Buildings</i> 13, no. 12 (2023): 2917. https://doi.org/10.3390/buildings13122917.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

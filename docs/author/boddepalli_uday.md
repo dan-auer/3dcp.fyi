@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Boddepalli Uday 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gulia_preeti"><b>Gulia</b> Preeti</a>, <a href="../../../author/dogra_sourabh"><b>Dogra</b> Sourabh</a>, <a href="../../../author/gupta_arpan"><b>Gupta</b> Arpan</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../guli_dogr_gupt_bodd.2025.BaMSwGC/">Building a Metamaterial Slab with Gosper Curve</a></li>
   <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b> Revanth</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bodd_kand_nant.2025.EoAALCCMf3CPA/">Evaluation of Alkali-Activated Limestone Calcined Clay Mortars for 3D Concrete Printing Applications</a></li>
   <li><a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b> Revanth</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kand_bodd_nant.2025.NRTPfPCo3PM/">Novel Rheological Test Procedure for Printability Characterization of 3D Printable Mortar</a></li>

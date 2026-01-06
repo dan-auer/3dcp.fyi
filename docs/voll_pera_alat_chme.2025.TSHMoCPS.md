@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jasper Vollmert, Patricia Peralta, Adel Alatassi, Alexander Chmelnizkij, Kay Smarsly
+    - footer
+title: Vollmert Jasper, Peralta Patricia, Alatassi Adel, Chmelnizkij Alexander, Smarsly Kay
 description:
 tags:
  - clay
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-# Towards Structural Health Monitoring of Clay-Printed Structures ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3217/978-3-99161-057-1-149" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3217/978-3-99161-057-1-149</a>
+#Towards Structural Health Monitoring of Clay-Printed Structures ([2025-09](date/2025/09))
+ <a href="https://doi.org/10.3217/978-3-99161-057-1-149" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3217/978-3-99161-057-1-149" target="_blank">10.3217/978-3-99161-057-1-149</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-6245-912X" title="ORCID: 0009-0001-6245-912X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vollmert_jasper"><b>Vollmert</b>&nbsp;Jasper</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1923-7142" title="ORCID: 0000-0002-1923-7142" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peralta_patricia"><b>Peralta</b>&nbsp;Patricia</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-2862-5530" title="ORCID: 0009-0006-2862-5530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alatassi_adel"><b>Alatassi</b>&nbsp;Adel</a></span>, <a href="../../../author/chmelnizkij_alexander"><b>Chmelnizkij</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/smarsly_kay"><b>Smarsly</b>&nbsp;Kay</a></span><br>
+Contribution - Proceedings of the 13th International Conference on Structural Health Monitoring of Intelligent Infrastructure
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vollmert_jasper"><b>Vollmert</b> Jasper</a> <a href="https://orcid.org/0009-0001-6245-912X" title="ORCID: 0009-0001-6245-912X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a> <a href="https://orcid.org/0000-0002-1923-7142" title="ORCID: 0000-0002-1923-7142" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alatassi_adel"><b>Alatassi</b> Adel</a> <a href="https://orcid.org/0009-0006-2862-5530" title="ORCID: 0009-0006-2862-5530" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chmelnizkij_alexander"><b>Chmelnizkij</b> Alexander</a>
-,     <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 13th International Conference on Structural Health Monitoring of Intelligent Infrastructure, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Towards%20Structural%20Health%20Monitoring%20of%20Clay-Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7077890198" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3217/978-3-99161-057-1-149" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3217/978-3-99161-057-1-149?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Structural health monitoring (SHM) is a well-established practice to ensure safety and reliability of civil structures. With the increasing demand for environmentally responsible construction practices and the need to reduce the carbon footprint of construction projects, sustainable materials, such as clay, are gaining attention. Clay-printed structures introduce a novel domain to SHM that requires adaptations of established SHM strategies. Research on SHM strategies devised for clay-printed structures remains scarce, leaving a critical gap in understanding the long-term performance of clay-printed structures. Serving as a foundation for developing SHM strategies for clay-printed structures, this paper proposes a methodology to experimentally determine the structural behavior of clay-printed structures, including buckling, shrinkage, and load-bearing capacity, while identifying key factors critical for developing SHM strategies. The methodology proposed in this study incorporates condition assessment, constraint definition, design optimization, prototyping, and SHM strategy definition. The methodology is implemented for a wall component to experimentally determine shrinkage. Based on the structural behavior of the wall component, an SHM strategy is proposed that essentially consists of selecting appropriate SHM techniques, defining sensor placement, and establishing decision-making criteria. The results demonstrate the feasibility of constructing structurally stable clay-printed structures and provide key insights into SHM strategies for clay-printed structures, advancing sustainable construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -68,7 +49,36 @@ tags:
       <li><a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a>, <a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a>, <a href="../../../author/luckey_daniel"><b>Luckey</b> Daniel</a>, <a href="../../../author/heine_sebastian"><b>Heine</b> Sebastian</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../smar_pera_luck_hein.2021.BBCP/">BIM-Based Concrete Printing</a></li>
       <li><a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/paudel_satish"><b>Paudel</b> Satish</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../tana_jira_paud_tang.2022.EaNIo3PMWUUAC/">Experimental and Numerical Investigation of 3D Printed Mortar Walls Under Uniform Axial Compression</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{voll_pera_alat_chme.2025.TSHMoCPS,
+      author            = "Jasper Vollmert and Patricia Peralta and Adel Alatassi and Alexander Chmelnizkij and Kay Smarsly",
+      title             = "Towards Structural Health Monitoring of Clay-Printed Structures",
+      doi               = "10.3217/978-3-99161-057-1-149",
+      year              = "2025",
+      booktitle         = "Proceedings of the 13th International Conference on Structural Health Monitoring of Intelligent Infrastructure",
+      editor            = "Werner Lienhart and Markus Krüger",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Vollmert, P. Peralta, A. Alatassi, A. Chmelnizkij and K. Smarsly, “Towards Structural Health Monitoring of Clay-Printed Structures”, in <i>Proceedings of the 13th International Conference on Structural Health Monitoring of Intelligent Infrastructure</i>,  2025. doi: 10.3217/978-3-99161-057-1-149.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vollmert, Jasper, Patricia Peralta, Adel Alatassi, Alexander Chmelnizkij, and Kay Smarsly. “Towards Structural Health Monitoring of Clay-Printed Structures”. In <i>Proceedings of the 13th International Conference on Structural Health Monitoring of Intelligent Infrastructure</i>, edited by Werner Lienhart and Markus Krüger, 2025. https://doi.org/10.3217/978-3-99161-057-1-149.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

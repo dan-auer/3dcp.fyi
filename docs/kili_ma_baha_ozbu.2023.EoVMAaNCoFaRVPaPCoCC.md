@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ugur Kilic, Ji Ma, Ehsan Baharlou, Osman Ozbulut
+    - footer
+title: Kilic Ugur, Ma Ji, Baharlou Ehsan, Ozbulut Osman
 description:
 tags:
  - admixture
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.jobe.2023.106355" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.106355</a>
+#Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.106355" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106355" target="_blank">10.1016/j.jobe.2023.106355</a>
 
--------------------------
+<a href="../../../author/kilic_ugur"><b>Kilic</b>&nbsp;Ugur</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4228-6620" title="ORCID: 0000-0002-4228-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_ji"><b>Ma</b>&nbsp;Ji</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9889-6540" title="ORCID: 0000-0002-9889-6540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baharlou_ehsan"><b>Baharlou</b>&nbsp;Ehsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3836-3416" title="ORCID: 0000-0003-3836-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b>&nbsp;Osman</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 70
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>
-,     <a href="../../../author/ma_ji"><b>Ma</b> Ji</a> <a href="https://orcid.org/0000-0002-4228-6620" title="ORCID: 0000-0002-4228-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a> <a href="https://orcid.org/0000-0002-9889-6540" title="ORCID: 0000-0002-9889-6540" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="https://orcid.org/0000-0003-3836-3416" title="ORCID: 0000-0003-3836-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 70, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#clay`](keyword/clay)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#modification`](keyword/modification)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Viscosity-Modifying%20Admixture%20and%20Nano-Clay%20on%20Fresh%20and%20Rheo-Viscoelastic%20Properties%20and%20Printability%20Characteristics%20of%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151793381&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4360939205" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.106355" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.106355?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explores the effects of a viscosity modifying admixture (VMA) and attapulgite nanoclay (ANC) on rheological and viscoelastic properties as well as printability characteristics of mortar mixtures used for 3D printing. A total of sixteen mortar mixtures with varying dosages of VMA and ANC are prepared using a factorial design of experiments. Rheological properties of each mixture including static yield stress, plastic viscosity, and dynamic yield stress are evaluated through rotational rheometry tests such as ramp test and stress growth test. Then, the viscoelastic properties such as storage modulus, loss modulus and linear viscoelastic range are determined using oscillatory rheology tests. A thermogravimetric analysis (TGA) is conducted to assess the effects of VMA and ANC on hydration characteristics of mortar mixtures. A statistical analysis is performed to further evaluate the individual and joint effects of VMA and ANC on key performance parameters. An unsupervised clustering algorithm is used to group the mixtures into three clusters based on the obtained rheological and viscoelastic properties. A direct printing test using a screw type 3D concrete printing is conducted to assess the printability and buildability of the mortar mixtures selected from each cluster. Results indicate that the ANC can more effectively alter both rheological and viscoelastic properties of mortar composites for 3D printing compared with VMA. However, the combined use of VMA and ANC in printable mortar mixtures leads to a high static yield stress and storage modulus and the resulted mixture exhibits good buildability without any plastic collapse.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
@@ -101,8 +76,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
@@ -113,4 +88,33 @@ tags:
       <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/soliman_a_nancy"><b>Soliman</b> Nancy</a>, <a href="../../../author/omran_ahmed"><b>Omran</b> Ahmed</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kili_soli_omra_ozbu.2024.EoCNoRaMPo3PCC/">Effects of Cellulose Nanofibrils on Rheological and Mechanical Properties of 3D Printable Cement Composites</a></li>
       <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a>, <a href="../../../author/mahil_ahmed"><b>Mahil</b> Ahmed</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rahm_rawa_yang_mahi.2024.ACRoFaRPo3PCC/">A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kili_ma_baha_ozbu.2023.EoVMAaNCoFaRVPaPCoCC,
+      author            = "Ugur Kilic and Ji Ma and Ehsan Baharlou and Osman E. Ozbulut",
+      title             = "Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites",
+      doi               = "10.1016/j.jobe.2023.106355",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      volume            = "70",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. Kilic, J. Ma, E. Baharlou and O. E. Ozbulut, “Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites”, <i>Journal of Building Engineering</i>, vol. 70, 2023, doi: 10.1016/j.jobe.2023.106355.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kilic, Ugur, Ji Ma, Ehsan Baharlou, and Osman E. Ozbulut. “Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites”. <i>Journal of Building Engineering</i> 70 (2023). https://doi.org/10.1016/j.jobe.2023.106355.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

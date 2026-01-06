@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dragoș Ungureanu, Cătălin Onuțu, Dorina Isopescu, Nicolae Țăranu, Ștefan Zghibarcea, Ionuț Spiridon, Răzvan Polcovnicu
+    - footer
+title: Ungureanu Dragoș, Onuțu Cătălin, Isopescu Dorina, Țăranu Nicolae, Zghibarcea Ștefan, Spiridon Ionuț, Polcovnicu Răzvan
 description:
 tags:
  - approach
@@ -13,32 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/13/4609/pdf?version=1687782057) A Novel Approach for 3D Printing Fiber-Reinforced Mortars ([2023-06](date/2023/06))
-<a href="https://doi.org/10.3390/ma16134609" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16134609</a>
+#A Novel Approach for 3D Printing Fiber-Reinforced Mortars ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/13/4609/pdf?version=1687782057) <a href="https://doi.org/10.3390/ma16134609" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16134609" target="_blank">10.3390/ma16134609</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0128-7966" title="ORCID: 0000-0003-0128-7966" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ungureanu_dragos"><b>Ungureanu</b>&nbsp;Dragoș</a></span>, <a href="../../../author/onutu_catalin"><b>Onuțu</b>&nbsp;Cătălin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7530-7929" title="ORCID: 0000-0001-7530-7929" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/isopescu_nicolina_dorina"><b>Isopescu</b>&nbsp;Dorina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5547-8827" title="ORCID: 0000-0001-5547-8827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taranu_nicolae"><b>Țăranu</b>&nbsp;Nicolae</a></span>, <a href="../../../author/zghibarcea_vladimir_stefan"><b>Zghibarcea</b>&nbsp;Ștefan</a></span>, <a href="../../../author/spiridon_alexandru_ionut"><b>Spiridon</b>&nbsp;Ionuț</a></span>, <a href="../../../author/polcovnicu_andrei_razvan"><b>Polcovnicu</b>&nbsp;Răzvan</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 13
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a> <a href="https://orcid.org/0000-0003-0128-7966" title="ORCID: 0000-0003-0128-7966" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>
-,     <a href="../../../author/isopescu_nicolina_dorina"><b>Isopescu</b> Dorina</a> <a href="https://orcid.org/0000-0001-7530-7929" title="ORCID: 0000-0001-7530-7929" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a> <a href="https://orcid.org/0000-0001-5547-8827" title="ORCID: 0000-0001-5547-8827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zghibarcea_vladimir_stefan"><b>Zghibarcea</b> Ștefan</a>
-,     <a href="../../../author/spiridon_alexandru_ionut"><b>Spiridon</b> Ionuț</a>
-,     <a href="../../../author/polcovnicu_andrei_razvan"><b>Polcovnicu</b> Răzvan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 13, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#fiber`](keyword/fiber)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Novel%20Approach%20for%203D%20Printing%20Fiber-Reinforced%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164832466&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382468602" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16134609" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16134609?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing with cement-based materials is a promising manufacturing technique for civil engineering applications that already allows for the design and the construction of complex and highly customized structures using a layer-by-layer deposition approach. The extrusion mechanism is one of the most expensive parts of the 3D printer. Also, for low-scale 3D printers, based on the shape of the extruder and the geometry limitation of the mixing blade, the 3D mixture is often limited to a narrow range of materials due to the risk of layer splitting or blockage. Therefore, there is a need to develop affordable and feasible alternatives to the current design-fabrication-application approach of 3D printers. In this paper, various newly designed mixtures of fiber-reinforced mortars that can be 3D printed using only a commercially available screw pump are analyzed based on their fresh properties and mechanical characteristics. The results, in terms of extrudability, buildability, flowability, and flexural and compressive strengths, highlight the potential of using this technology for constructing complex structures with high strength and durability. Also, the reduced facility requirements of this approach enable 3D printing to be made more available for civil engineering applications. With further innovations to come in the future, this method and these mixtures can be extended for the sustainable and economically feasible printing of single-family housing units.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
@@ -109,8 +87,8 @@ tags:
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../xu_savi.2019.DoSHCCSRw3PPR/">Development of Strain-Hardening Cementitious Composite (SHCC) Reinforced with 3D Printed Polymeric Reinforcement:<br/>Mechanical Properties</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/makul_natt"><b>Makul</b> Natt</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../maku.2025.3CP/">3D Concrete Printing</a></li>
       <li><a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b> Sílvio</a>, <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b> Ester</a>, <a href="../../../author/freitas-daudt_natalia"><b>Freitas Daudt</b> Natália</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP/">Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process</a></li>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/liang_yu-fang"><b>Liang</b> Yu-Fang</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chi-hong"><b>Huang</b> Chi-Hong</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_lian_syu_huan.2024.SaDMCo3PABFRCM/">Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar</a></li>
@@ -119,4 +97,34 @@ tags:
       <li><a href="../../../author/duan_jiaqi"><b>Duan</b> Jiaqi</a>, <a href="../../../author/sun_shouzheng"><b>Sun</b> Shouzheng</a>, <a href="../../../author/chi_shengfeng"><b>Chi</b> Shengfeng</a>, <a href="../../../author/hu_chunyou"><b>Hu</b> Chunyou</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../duan_sun_chi_hu.2024.EoPPoFQaFSoCFRCB3PC/">Effect of Process Parameters on Forming Quality and Flexural Strength of Continuous-Fiber-Reinforced Cement-Based 3D Printed Composites</a></li>
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a>, <a href="../../../author/vornicu_nicoleta"><b>Vornicu</b> Nicoleta</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../ungu_onut_tara_vorn.2023.MaMPoCE3PCRwPF/">Microstructure and Mechanical Properties of Cost-Efficient 3D Printed Concrete Reinforced with Polypropylene Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ungu_onut_isop_tara.2023.ANAf3PFRM,
+      author            = "Dragoș Ungureanu and Cătălin Onuțu and Dorina Nicolina Isopescu and Nicolae Țăranu and Ștefan Vladimir Zghibarcea and Ionuț Alexandru Spiridon and Răzvan Andrei Polcovnicu",
+      title             = "A Novel Approach for 3D Printing Fiber-Reinforced Mortars",
+      doi               = "10.3390/ma16134609",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "13",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Ungureanu, “A Novel Approach for 3D Printing Fiber-Reinforced Mortars”, <i>Materials</i>, vol. 16, no. 13, 2023, doi: 10.3390/ma16134609.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ungureanu, Dragoș, Cătălin Onuțu, Dorina Nicolina Isopescu, Nicolae Țăranu, Ștefan Vladimir Zghibarcea, Ionuț Alexandru Spiridon, and Răzvan Andrei Polcovnicu. “A Novel Approach for 3D Printing Fiber-Reinforced Mortars”. <i>Materials</i> 16, no. 13 (2023). https://doi.org/10.3390/ma16134609.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

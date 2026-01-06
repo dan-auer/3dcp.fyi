@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Wang Yu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM/">Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars</a></li>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/lopez_garzon_cristian"><b>Lopez</b> Cristian</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rodr_lope_wang_olek.2022.EoDo3PCMfPAiSEtME/">Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments</a></li>
   <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/teng_huaijin"><b>Teng</b> Huaijin</a>, <a href="../../../author/liao_hengcheng"><b>Liao</b> Hengcheng</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../pan_teng_liao_jian.2022.EoSPAoMPo3PCBM/">Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials:<br/>Experimental and Numerical Studies</a></li>

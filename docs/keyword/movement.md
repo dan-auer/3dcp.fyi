@@ -8,7 +8,7 @@ search:
 
 # #movement
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_l_chenglin"><b>Li</b> Chenglin</a>, <a href="../../../author/jiao_c_y"><b>Jiao</b> Y.</a>, <a href="../../../author/ren_kai"><b>Ren</b> Kai</a>, <a href="../../../author/liu_n"><b>Liu</b> N.</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_jiao_ren_liu.2026.ANPMSfDRMAM/">A Novel Pivot-Move Strategy for Dual-Robot Manipulator Additive Manufacturing:<br/>Enabling Collision Avoidance Without Halting Deposition</a></li>
   <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bier.2025.SoAMCBH/">Sustainability of Additively Manufactured Cement-Based Housing:<br/>What's Our Next Move?</a></li>
   <li><a href="../../../author/santos-da-mata-gomes_daniela"><b>Santos da Mata Gomes</b> Daniela</a>, <a href="../../../author/rocutan_melina"><b>Rocutan</b> Melina</a>, <a href="../../../author/pereira_soares_lucas"><b>Pereira</b> Lucas</a>, <a href="../../../author/motezuki_kenji_fabio"><b>Motezuki</b> Fabio</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../sant_rocu_pere_mote.2024.So3CPUaIFotMPSIM/">Simulation of 3D Concrete Printing Using an Implicit Formulation of the Moving Particle Semi-Implicit Method</a></li>

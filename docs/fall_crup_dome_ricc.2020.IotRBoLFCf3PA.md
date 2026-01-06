@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Devid Falliano, Giuseppe Crupi, Dario Domenico, Giuseppe Ricciardi, Luciana Restuccia, Giuseppe Ferro, Ernesto Gugliandolo
+    - footer
+title: Falliano Devid, Crupi Giuseppe, Domenico Dario, Ricciardi Giuseppe, Restuccia Luciana, Ferro Giuseppe, Gugliandolo Ernesto
 description:
 tags:
  - application
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation on the Rheological Behavior of Lightweight Foamed Concrete for 3D Printing Applications ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_25" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_25</a>
+#Investigation on the Rheological Behavior of Lightweight Foamed Concrete for 3D Printing Applications ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_25" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_25" target="_blank">10.1007/978-3-030-49916-7_25</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6676-9187" title="ORCID: 0000-0001-6676-9187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/falliano_devid"><b>Falliano</b>&nbsp;Devid</a></span>, <a href="../../../author/crupi_giuseppe"><b>Crupi</b>&nbsp;Giuseppe</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1279-9529" title="ORCID: 0000-0003-1279-9529" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/domenico_dario"><b>de&nbsp;Domenico</b>&nbsp;Dario</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9765-9247" title="ORCID: 0000-0001-9765-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b>&nbsp;Giuseppe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6999-0466" title="ORCID: 0000-0002-6999-0466" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/restuccia_luciana"><b>Restuccia</b>&nbsp;Luciana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0622-4203" title="ORCID: 0000-0002-0622-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b>&nbsp;Giuseppe</a></span>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b>&nbsp;Ernesto</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 246-254
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a> <a href="https://orcid.org/0000-0001-6676-9187" title="ORCID: 0000-0001-6676-9187" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/crupi_giuseppe"><b>Crupi</b> Giuseppe</a>
-,     <a href="../../../author/domenico_dario"><b>de Domenico</b> Dario</a> <a href="https://orcid.org/0000-0003-1279-9529" title="ORCID: 0000-0003-1279-9529" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> <a href="https://orcid.org/0000-0001-9765-9247" title="ORCID: 0000-0001-9765-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a> <a href="https://orcid.org/0000-0002-6999-0466" title="ORCID: 0000-0002-6999-0466" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> <a href="https://orcid.org/0000-0002-0622-4203" title="ORCID: 0000-0002-0622-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 246-254
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#investigation`](keyword/investigation)
-    [`#light`](keyword/light)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20the%20Rheological%20Behavior%20of%20Lightweight%20Foamed%20Concrete%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088239658&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3040854279" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_25" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_25?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Unlike ordinary concrete, lightweight foamed concrete (LWFC) has the benefit of decreasing the self-weight of constructive elements while ensuring an efficient thermal insulation and acoustic absorption as well as high fire resistance. A novel version of LWFC has been recently developed by the authors, with the unique property of “extrudability” in a wide density range, meaning that its production process can be carried out without formworks and exploiting innovative 3D printing technologies. The present contribution is focused on the rheological behaviour of this innovative extrudable LWFC (ELWFC). The rheological behaviour in terms of yield stress of the ELWFC is studied via a rotational rheometer in two different modalities, namely constant shear rate and increasing shear rate. Comparison of the rheological behaviour between ELWFC and classical LWFC is also presented. Additionally, the dimensional stability of the cementitious paste at the fresh state having a given yield stress is assessed through an extrusion test. In particular, the experimental investigation is focused on a target dry density of 800 kg/m3, which is identified as a good compromise between insulating features and mechanical strengths. The experimental results show that the considered ELWFC, characterized by a zero slump in the extrusion test, has a yield stress of around 150 Pa (constant shear rate) and 130 Pa (increasing shear rate).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../cho_krug_zera_rooy.2019.MEo3PNSIFRLFC/">Mechanical Evaluation of 3D Printable Nano-Silica Incorporated Fiber-Reinforced Lightweight Foam-Concrete</a></li>
@@ -79,8 +54,8 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../wang_flat.2019.Pot1RICoCaDFb/">Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication:<br/>Correction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/muller_niklas"><b>Müller</b> Niklas</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../mull_cla.2025.AMoTOLSUFC/">Additive Manufacturing of Topology-Optimized Lightweight Slabs Using Foam Concrete</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a>, <a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../fall_rest_tull_ferr.2025.BtECaRoMwF/">Biochar to Enhance Curing and Rheology of Mortars without Formwork</a></li>
       <li><a href="../../../author/chai_kian_hwa"><b>Chai</b> Hwa</a>, <a href="../../../author/shiotani_tomoki"><b>Shiotani</b> Tomoki</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../chai_shio.2024.OLoRTQ/">Opening Letter of RILEM TC QPA:<br/>Quality and Performance Assurance of Additively Manufactured Cementitious Composites by Advanced Non-Invasive Techniques</a></li>
@@ -101,4 +76,35 @@ tags:
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{fall_crup_dome_ricc.2020.IotRBoLFCf3PA,
+      author            = "Devid Falliano and Giuseppe Crupi and Dario de Domenico and Giuseppe Ricciardi and Luciana Restuccia and Giuseppe Andrea Ferro and Ernesto Gugliandolo",
+      title             = "Investigation on the Rheological Behavior of Lightweight Foamed Concrete for 3D Printing Applications",
+      doi               = "10.1007/978-3-030-49916-7_25",
+      year              = "2020",
+      volume            = "28",
+      pages             = "246--254",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Falliano, “Investigation on the Rheological Behavior of Lightweight Foamed Concrete for 3D Printing Applications”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 246–254. doi: 10.1007/978-3-030-49916-7_25.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Falliano, Devid, Giuseppe Crupi, Dario de Domenico, Giuseppe Ricciardi, Luciana Restuccia, Giuseppe Andrea Ferro, and Ernesto Gugliandolo. “Investigation on the Rheological Behavior of Lightweight Foamed Concrete for 3D Printing Applications”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:246–54, 2020. https://doi.org/10.1007/978-3-030-49916-7_25.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kamoru Ibrahim, Mustapha Jaji, Gideon Zijl, Adewumi Babafemi
+    - footer
+title: Ibrahim Kamoru, Jaji Mustapha, Zijl Gideon, Babafemi Adewumi
 description:
 tags:
  - base
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matpr.2023.03.520) Influence of Effective Micro-Organisms on the Rheology and Fresh State Properties of SCMs-Based Concrete for Digital Fabrication ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.matpr.2023.03.520" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.03.520</a>
+#Influence of Effective Micro-Organisms on the Rheology and Fresh State Properties of SCMs-Based Concrete for Digital Fabrication ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matpr.2023.03.520) <a href="https://doi.org/10.1016/j.matpr.2023.03.520" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.520" target="_blank">10.1016/j.matpr.2023.03.520</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b>&nbsp;Kamoru</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b>&nbsp;Mustapha</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a> <a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> <a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#effect`](keyword/effect)
-    [`#fabrication`](keyword/fabrication)
-    [`#fresh`](keyword/fresh)
-    [`#influence`](keyword/influence)
-    [`#micro`](keyword/micro)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Effective%20Micro-Organisms%20on%20the%20Rheology%20and%20Fresh%20State%20Properties%20of%20SCMs-Based%20Concrete%20for%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151478999&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4362468367" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.03.520" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.03.520?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A reduction in the cost and anthropogenic CO2 emissions of Portland cement production can be achieved by adding supplementary cementitious materials (SCMs) obtained from industrial origins, like fly ash, silica fume, slagments, and naturally available such as limestone and kaolinitic clay. Replacement of large quantities of cement with SCMs profoundly influences the fresh and mechanical characteristics of structural concrete. This study presents an experimental investigation to evaluate the influence of effective microorganisms (EM) on freshly mixed fly ash- and limestone calcined clay (LC2) cement-based fibrereinforced printable concrete (FRPC). EM is a mixture of three different microorganisms: photosynthetic bacteria, lactic acid bacteria, and yeast. Its inclusion complements green concrete and is environmentally friendly for a sustainable environment. Four mixes (i.e., fly ash cement-based mix, LC2 cement-based mix, and both mixes induced by EM) were prepared and examined to achieve printable concrete of varying rheological properties, and tested for slump and slump flow, setting/open time, rheological characterisation of various parameters, and buildability performance. The findings from this study revealed that the SCMs and the EM considered exhibited satisfactory material rheological performance and other unique characteristics identified as critical early-age properties for suitable 3D printability. In addition, near zero slumps were displayed for all the mixes and the slump flows were in the range of 140 – 160 mm after standard small slump flow table impact agitation, implying remarkable and adequate results for printable concrete. The penetration, bleeding, and segregation was also reduced when compared with no SCM inclusion. Conclusively, good relationships between the fresh properties and buildability quantification are also presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/kearsley_elsabe"><b>Kearsley</b> Elsabe</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cho_rooy_kear_zijl.2022.FSo3PFC/">Foam Stability of 3D Printable Foamed Concrete</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
@@ -82,8 +57,8 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ibra_zijl_baba.2024.TDBo3PFRLCCCCUSL/">Time-Dependent Behavior of 3D Printed Fiber-Reinforced Limestone-Calcined-Clay-Cement Concrete Under Sustained Loadings</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ibra_zijl_baba.2024.MoLoFi3PLCCCCIbEMO/">Mitigation of Lack-of-Fusion in 3D Printed Limestone-Calcined-Clay-Cement Concrete Induced by Effective Micro-Organisms</a></li>
@@ -91,4 +66,32 @@ tags:
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ibra_zijl_baba.2023.CSoLaFABBBiFRPC/">Comparative Studies of LC³- and Fly-Ash-Based Blended Binders in Fiber-Reinforced Printed Concrete:<br/>Rheological and Quasi-Static Mechanical Characteristics</a></li>
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../vare_barl_sone.2023.RCo3PMwNCaBF/">Rheology Characterization of 3D Printing Mortars with Nano-Clays and Basalt-Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ibra_jaji_zijl_baba.2023.IoEMOotRaFSPoSBCfDF,
+      author            = "Kamoru Ademola Ibrahim and Mustapha Bamidele Jaji and Gideon Pieter Adriaan Greeff van Zijl and Adewumi John Babafemi",
+      title             = "Influence of Effective Micro-Organisms on the Rheology and Fresh State Properties of SCMs-Based Concrete for Digital Fabrication",
+      doi               = "10.1016/j.matpr.2023.03.520",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. A. Ibrahim, M. B. Jaji, G. P. A. G. van Zijl and A. J. Babafemi, “Influence of Effective Micro-Organisms on the Rheology and Fresh State Properties of SCMs-Based Concrete for Digital Fabrication”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.03.520.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ibrahim, Kamoru Ademola, Mustapha Bamidele Jaji, Gideon Pieter Adriaan Greeff van Zijl, and Adewumi John Babafemi. “Influence of Effective Micro-Organisms on the Rheology and Fresh State Properties of SCMs-Based Concrete for Digital Fabrication”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.03.520.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

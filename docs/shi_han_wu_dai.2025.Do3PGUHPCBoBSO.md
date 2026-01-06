@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ye Shi, Li Han, Pengtao Wu, Kaichao Dai, Zhongxian Liu, Chengqing Wu
+    - footer
+title: Shi Ye, Han Li, Wu Pengtao, Dai Kaichao, Liu Zhongxian, Wu Chengqing
 description:
 tags:
  - base
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04625) Design of 3D Printing Green Ultra-High Performance Concrete Based on Binder System Optimization ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04625" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04625</a>
+#Design of 3D Printing Green Ultra-High Performance Concrete Based on Binder System Optimization ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04625) <a href="https://doi.org/10.1016/j.cscm.2025.e04625" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04625" target="_blank">10.1016/j.cscm.2025.e04625</a>
 
--------------------------
+<a href="../../../author/shi_ye"><b>Shi</b>&nbsp;Ye</a></span>, <a href="../../../author/han_li"><b>Han</b>&nbsp;Li</a></span>, <a href="../../../author/wu_pengtao"><b>Wu</b>&nbsp;Pengtao</a></span>, <a href="../../../author/dai_kaichao"><b>Dai</b>&nbsp;Kaichao</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04625
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shi_ye"><b>Shi</b> Ye</a>
-,     <a href="../../../author/han_li"><b>Han</b> Li</a>
-,     <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a>
-,     <a href="../../../author/dai_kaichao"><b>Dai</b> Kaichao</a>
-,     <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>
-,     <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> <a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04625
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#green`](keyword/green)
-    [`#height`](keyword/height)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20of%203D%20Printing%20Green%20Ultra-High%20Performance%20Concrete%20Based%20on%20Binder%20System%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002293411&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409224589" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04625" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04625?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The technology of 3D-printed concrete is receiving considerable attention, yet its advancement is impeded by the preparation of printing materials. Low cement ultra-high performance concrete (LC-UHPC) is a promising material for 3D printing due to its excellent mechanical properties, low shrinkage, low environmental impact, and excellent durability. To inform the design of LC-UHPC suitable for 3D printing, this study presents a systematic investigation of the influence of binder material composition on printability, shrinkage, mechanical properties, and environmental impact. Moreover, the hydration, mechanical properties, and microstructure of the designed 3D-printed LC-UHPC are examined. The printability and mechanical performance of ultra-high performance concrete (UHPC) can be enhanced through the utilization of a reduced cement content. The correlation between binder material composition and printability has been determined. The incorporation of an appropriate quantity of nano-silica can result in further improvement in the printability and mechanical properties of LC-UHPC. It bears note that LC-UHPC exhibits an impressive 45.2% reduction in carbon emissions. Furthermore, it displays superior volume stability, as evidenced by the fact that drying shrinkage deformation occurs at only 70% of the levels observed in ordinary UHPC. The degree of cement hydration of 3D-printed LC-UHPC is 57% higher than that of UHPC. At the 28-day age, the 3D-printed LC-UHPC displays a superior pore structure in comparison to UHPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -93,8 +67,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shi_han_wu_dai.2025.Do3PGUHPCBoBSO,
+      author            = "Ye Shi and Li Han and Pengtao Wu and Kaichao Dai and Zhongxian Liu and Chengqing Wu",
+      title             = "Design of 3D Printing Green Ultra-High Performance Concrete Based on Binder System Optimization",
+      doi               = "10.1016/j.cscm.2025.e04625",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04625",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Shi, L. Han, P. Wu, K. Dai, Z. Liu and C. Wu, “Design of 3D Printing Green Ultra-High Performance Concrete Based on Binder System Optimization”, <i>Case Studies in Construction Materials</i>, p. e04625, 2025, doi: 10.1016/j.cscm.2025.e04625.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shi, Ye, Li Han, Pengtao Wu, Kaichao Dai, Zhongxian Liu, and Chengqing Wu. “Design of 3D Printing Green Ultra-High Performance Concrete Based on Binder System Optimization”. <i>Case Studies in Construction Materials</i>, 2025, e04625. https://doi.org/10.1016/j.cscm.2025.e04625.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

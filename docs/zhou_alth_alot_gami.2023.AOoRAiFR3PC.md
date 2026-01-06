@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yi Zhou, Fadi Althoey, Badr Alotaibi, Yaser Gamil, Bawar Iftikhar
+    - footer
+title: Zhou Yi, Althoey Fadi, Alotaibi Badr, Gamil Yaser, Iftikhar Bawar
 description:
 tags:
  - advance
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.frontiersin.org/articles/10.3389/fmats.2023.1289340/pdf?isPublishedV2=False) An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete ([2023-10](date/2023/10))
-<a href="https://doi.org/10.3389/fmats.2023.1289340" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fmats.2023.1289340</a>
+#An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete ([2023-10](date/2023/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fmats.2023.1289340/pdf?isPublishedV2=False) <a href="https://doi.org/10.3389/fmats.2023.1289340" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2023.1289340" target="_blank">10.3389/fmats.2023.1289340</a>
 
--------------------------
+<a href="../../../author/zhou_yi"><b>Zhou</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7223-213X" title="ORCID: 0000-0002-7223-213X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/althoey_fadi"><b>Althoey</b>&nbsp;Fadi</a></span>, <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b>&nbsp;Badr</a></span>, <a href="../../../author/gamil_yaser"><b>Gamil</b>&nbsp;Yaser</a></span>, <a href="../../../author/iftikhar_bawar"><b>Iftikhar</b>&nbsp;Bawar</a></span><br>
+Journal Article - Frontiers in Materials, Vol. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_yi"><b>Zhou</b> Yi</a>
-,     <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a> <a href="https://orcid.org/0000-0002-7223-213X" title="ORCID: 0000-0002-7223-213X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>
-,     <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a>
-,     <a href="../../../author/iftikhar_bawar"><b>Iftikhar</b> Bawar</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers in Materials, Vol. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#overview`](keyword/overview)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Overview%20of%20Recent%20Advancements%20in%20Fiber-Reinforced%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175864985&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387908417" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3389/fmats.2023.1289340" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3389/fmats.2023.1289340?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing, also known as additive manufacturing, has recently gained significant attention and popularity as a transformative technology across various industries. One area where 3D printing is making remarkable strides is in the construction field, particularly with the emergence of 3D printing concrete (3DPC). While 3DPC holds immense promise, there are still challenges to overcome, such as incorporating reinforcement. This study reviews the potential of using fibre reinforcement to overcome the challenge of making ductile concrete for 3D printing that can withstand substantial tensile stresses. Effects of various types of fibre addition on widespread aspects of 3DPC are systematically reviewed. This review study considers various aspects of 3DPC: rheological characteristics, buildability, anisotropic mechanical behavior, and ductility. These characteristics of fibre-reinforced 3DPC are discussed in light of the published literature. This research’s graphical and statistical visualizations offer valuable insights for academic scholars. This review summarizes recent advancements in fibre-reinforced 3DPC while highlighting the persisting challenges in developing fibre-reinforced 3DPC with desired properties for real-world applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "83 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -145,18 +124,47 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../zare_khos.2018.EoMIoEoCiCC/">Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
-      <li><a href="../../../author/zhou_yi"><b>Zhou</b> Yi</a>, <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhou_alth_alot_gami.2023.AOoRAiFR3PC/">An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a>, <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a>, <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME/">Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments</a></li>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a>, <a href="../../../author/john_john"><b>John</b> John</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../irsh_amja_kuma_john.2025.EtMDi3CPTSOP/">Enhancing the Mix Design in 3D Concrete Printing Through Systematic Optimization Process</a></li>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/albeitjali_naeem"><b>Albeitjali</b> Naeem</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../irsh_albe_amja_alnu.2025.FWtS/">From Waste to Strength:<br/>Recycled Steel Fibers for Sustainable 3D Printing of Cementitious Composites</a></li>
       <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/herdan_annika"><b>Herdan</b> Annika</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rei_herd_mech.2024.RBoSFRCitCoAM/">Rheological Behavior of Steel-Fiber-Reinforced Concrete in the Context of Additive Manufacturing</a></li>
       <li><a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dias_bran_figu_cruz.2024.TPoNFRi3PC/">The Potential of Natural Fiber-Reinforcement in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/setlak-nee-plawecka_kinga"><b>Setlak (nee Pławecka)</b> Kinga</a>, <a href="../../../author/gora_mateusz"><b>Góra</b> Mateusz</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../rudz_maro_setl_gora.2024.OoFPFRCMDf3P/">Optimization of Foams-Polypropylene Fiber-Reinforced Concrete Mixtures Dedicated for 3D Printing</a></li>
-      <li><a href="../../../author/zhou_yi"><b>Zhou</b> Yi</a>, <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhou_alth_alot_gami.2023.AOoRAiFR3PC/">An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_alth_alot_gami.2023.AOoRAiFR3PC,
+      author            = "Yi Zhou and Fadi Althoey and Badr Saad Alotaibi and Yaser Gamil and Bawar Iftikhar",
+      title             = "An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete",
+      doi               = "10.3389/fmats.2023.1289340",
+      year              = "2023",
+      journal           = "Frontiers in Materials",
+      volume            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhou, F. Althoey, B. S. Alotaibi, Y. Gamil and B. Iftikhar, “An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete”, <i>Frontiers in Materials</i>, vol. 10, 2023, doi: 10.3389/fmats.2023.1289340.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Yi, Fadi Althoey, Badr Saad Alotaibi, Yaser Gamil, and Bawar Iftikhar. “An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete”. <i>Frontiers in Materials</i> 10 (2023). https://doi.org/10.3389/fmats.2023.1289340.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

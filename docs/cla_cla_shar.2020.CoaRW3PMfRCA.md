@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Martin Claßen, Johannes Claßen, Rahul Sharma
+    - footer
+title: Claßen Martin, Claßen Johannes, Sharma Rahul
 description:
 tags:
  - concept
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC) ([2020-08](date/2020/08))
-<a href="https://doi.org/10.1002/best.202000023" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/best.202000023</a>
+#Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC) ([2020-08](date/2020/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202000023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202000023" target="_blank">10.1002/best.202000023</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span>, <a href="../../../author/classen_johannes"><b>Claßen</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6976-4530" title="ORCID: 0000-0002-6976-4530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sharma_rahul"><b>Sharma</b>&nbsp;Rahul</a></span><br>
+Journal Article - Beton- und Stahlbetonbau, Vol. 115, Iss. 12, pp. 934-942
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/classen_johannes"><b>Claßen</b> Johannes</a>
-,     <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="https://orcid.org/0000-0002-6976-4530" title="ORCID: 0000-0002-6976-4530" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Beton- und Stahlbetonbau, Vol. 115, Iss. 12, pp. 934-942
-
-:aca-blank:{ .lg .middle}
-    [`#concept`](keyword/concept)
-    [`#concrete`](keyword/concrete)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#world`](keyword/world)
-
-
--------------------------
+<a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/world"><button class="btn">#world</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Conception%20of%20a%20Real%20World%203D%20Printing%20Method%20for%20Reinforced%20Concrete%20%28AMoRC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85089253885&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3048449720" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/best.202000023" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/best.202000023?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Unreinforced concrete components that can be produced using extrusion-based 3D printing methods are only rarely suitable for use in real structures, as they fail brittle and have insufficient load-bearing capacities. Therefore, new methods are needed that enable the integration of steel reinforcement into the concrete printing process and thus the additive production of the composite material reinforced concrete. The conceptual design of a practice-oriented 3D printing process for reinforced concrete, the so-called "Additive Manufacturing of Reinforced Concrete" (AMoRC), is therefore the subject of this article. In the AMoRC process, prefabricated steel reinforcement bars are joined in sections using an arc stud welding process to form a three-dimensional reinforcement structure and simultaneously overprinted using a concrete extrusion process. This article describes the development of the process and initial preliminary investigations into its feasibility.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -83,8 +63,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b> Mukhagali</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sagy_stor_must_plas.2025.APo3PSwIRMBoSRB/">Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars</a></li>
       <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../enge_hegg_cla.2025.MAFwC/">Multimodal Automated Fabrication with Concrete:<br/>Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling</a></li>
@@ -96,4 +76,35 @@ tags:
       <li><a href="../../../author/meurer_maximilian"><b>Meurer</b> Maximilian</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../meur_cla.2021.MPoH3PCaM/">Mechanical Properties of Hardened 3D Printed Concretes and Mortars:<br/>Development of a Consistent Experimental Characterization-Strategy</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../neef_mull_mech.2020.3PwCC/">3D Printing with Carbon Concrete:<br/>Technology and the First Test Results</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cla_cla_shar.2020.CoaRW3PMfRCA,
+      author            = "Martin Claßen and Johannes Claßen and Rahul Sharma",
+      title             = "Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC)",
+      doi               = "10.1002/best.202000023",
+      year              = "2020",
+      journal           = "Beton- und Stahlbetonbau",
+      volume            = "115",
+      number            = "12",
+      pages             = "934--942",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Claßen, J. Claßen and R. Sharma, “Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC)”, <i>Beton- und Stahlbetonbau</i>, vol. 115, no. 12, pp. 934–942, 2020, doi: 10.1002/best.202000023.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Claßen, Martin, Johannes Claßen, and Rahul Sharma. “Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC)”. <i>Beton- Und Stahlbetonbau</i> 115, no. 12 (2020): 934–42. https://doi.org/10.1002/best.202000023.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

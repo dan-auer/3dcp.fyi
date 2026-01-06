@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: İsmail Tarhan, Yeşim Tarhan
+    - footer
+title: Tarhan İsmail, Tarhan Yeşim
 description:
 tags:
  - assessment
@@ -23,37 +24,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>:aca-blank: Experimental Mix Design and Numerical Structural Assessment ([2025-09](date/2025/09))
-<a href="https://doi.org/10.20528/cjsmec.2025.03.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.20528/cjsmec.2025.03.005</a>
+#Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Experimental Mix Design and Numerical Structural Assessment</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.20528/cjsmec.2025.03.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.20528/cjsmec.2025.03.005" target="_blank">10.20528/cjsmec.2025.03.005</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5161-3718" title="ORCID: 0000-0002-5161-3718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b>&nbsp;İsmail</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span><br>
+Journal Article - Challenge Journal of Structural Mechanics, Vol. 11, Iss. 3, No. 160
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a> <a href="https://orcid.org/0000-0002-5161-3718" title="ORCID: 0000-0002-5161-3718" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Challenge Journal of Structural Mechanics, Vol. 11, Iss. 3, No. 160
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#experiment`](keyword/experiment)
-    [`#infill`](keyword/infill)
-    [`#mixing`](keyword/mixing)
-    [`#nonlinear`](keyword/nonlinear)
-    [`#numeric`](keyword/numeric)
-    [`#pattern`](keyword/pattern)
-    [`#plane`](keyword/plane)
-    [`#print`](keyword/print)
-    [`#response`](keyword/response)
-    [`#structure`](keyword/structure)
-    [`#variation`](keyword/variation)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/nonlinear"><button class="btn">#nonlinear</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/plane"><button class="btn">#plane</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nonlinear%20In-Plane%20Response%20of%203D-Printed%20Concrete%20Walls%20with%20Varied%20Infill%20Patterns" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414326959" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.20528/cjsmec.2025.03.005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.20528/cjsmec.2025.03.005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the nonlinear in-plane structural behavior of 3D-printed concrete wall elements with two representative internal infill patterns ‒ lattice (L) and triangular (T) ‒ using finite element modeling informed by experimentally derived material properties. A printable concrete mixture was specifically developed using CEM I 42.5 R Portland cement, silica sand, and hydroxypropyl methylcellulose (HPMC) as a viscosity-modifying agent. Conventional cast specimens (40×40×160 mm³) achieved a 28-day flexural strength of 8.7 MPa and a compressive strength of approximately 63 MPa. Nonlinear behavior of wall panels with both infill types was investigated using numerical methods with advanced constitutive laws. These models account for the distinct compressive–tensile response of concrete and damage evolution under monotonic lateral loading, allowing assessment of the influence of geometry on load-bearing capacity and failure mechanisms. The results reveal that both infill patterns exhibit nonlinear load–displacement responses with an initial elastic regime, an early localized cracking peak, followed by a notable recovery in load-bearing capacity, and subsequently a global peak load prior to progressive post-peak softening. While the overall performance of both infill types was comparable, the T pattern exhibited a marginally higher peak load (1.7–2.7%) and improved ductility relative to the L form. These distinctions are attributed to the T-pattern’s more efficient diagonal force transfer and the development of a single continuous diagonal shear band, as opposed to the L-pattern’s multiple discontinuous cracks and broader damage zones.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
@@ -111,7 +85,38 @@ tags:
       <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/shields_yasmina"><b>Shields</b> Yasmina</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_tao_zhan_shie.2025.MPo3PCw2IPIPPC/">Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings</a></li>
       <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ye_yihang"><b>Ye</b> Yihang</a>, <a href="../../../author/hao_lulu"><b>Hao</b> Lulu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhan_zhan_ye_hao.2025.IoCi2IPoMPo3PCS/">Influence of Contacts in 2D Infill Patterns on Mechanical Properties of 3D Printed Concrete Structures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tarh_tarh.2025.NIPRo3PCWwVIP,
+      author            = "İsmail Hakkı Tarhan and Yeşim Tarhan",
+      title             = "Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns: Experimental Mix Design and Numerical Structural Assessment",
+      doi               = "10.20528/cjsmec.2025.03.005",
+      year              = "2025",
+      journal           = "Challenge Journal of Structural Mechanics",
+      volume            = "11",
+      number            = "3",
+      pages             = "160",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">İ. H. Tarhan  and Y. Tarhan, “Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns: Experimental Mix Design and Numerical Structural Assessment”, <i>Challenge Journal of Structural Mechanics</i>, vol. 11, no. 3, p. 160, 2025, doi: 10.20528/cjsmec.2025.03.005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tarhan, İsmail Hakkı, and Yeşim Tarhan. “Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns: Experimental Mix Design and Numerical Structural Assessment”. <i>Challenge Journal of Structural Mechanics</i> 11, no. 3 (2025): 160. https://doi.org/10.20528/cjsmec.2025.03.005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

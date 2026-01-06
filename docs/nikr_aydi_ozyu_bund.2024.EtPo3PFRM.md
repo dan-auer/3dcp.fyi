@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ata Nikravan, Tolga Aydin, Nilüfer Özyurt, Zeynep Bundur
+    - footer
+title: Nikravan Ata, Aydin Tolga, Özyurt Nilüfer, Bundur Zeynep
 description:
 tags:
  - agent
@@ -22,38 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing the Performance of 3D Printed Fiber-Reinforced Mortar:<br/>:aca-blank: Synergistic Effects of Clays and Bacterial Cells as Viscosity-Modifying-Agents ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1080/21650373.2024.2400295" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2024.2400295</a>
+#Enhancing the Performance of 3D Printed Fiber-Reinforced Mortar&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Synergistic Effects of Clays and Bacterial Cells as Viscosity-Modifying-Agents</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2024.2400295" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2400295" target="_blank">10.1080/21650373.2024.2400295</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1306-5810" title="ORCID: 0000-0002-1306-5810" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nikravan_ata"><b>Nikravan</b>&nbsp;Ata</a></span>, <a href="../../../author/aydin_tolga"><b>Aydin</b>&nbsp;Tolga</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4533-8702" title="ORCID: 0000-0003-4533-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozyurt_nilufer"><b>Özyurt</b>&nbsp;Nilüfer</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b>&nbsp;Zeynep</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-15
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nikravan_ata"><b>Nikravan</b> Ata</a> <a href="https://orcid.org/0000-0002-1306-5810" title="ORCID: 0000-0002-1306-5810" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>
-,     <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> <a href="https://orcid.org/0000-0003-4533-8702" title="ORCID: 0000-0003-4533-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a> <a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-15
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#bacteria`](keyword/bacteria)
-    [`#cell`](keyword/cell)
-    [`#clay`](keyword/clay)
-    [`#effect`](keyword/effect)
-    [`#enhancement`](keyword/enhancement)
-    [`#fiber`](keyword/fiber)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#synergy`](keyword/synergy)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/bacteria"><button class="btn">#bacteria</button></a> <a href="../../keyword/cell"><button class="btn">#cell</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20the%20Performance%20of%203D%20Printed%20Fiber-Reinforced%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203548601&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402450012" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2024.2400295" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2024.2400295?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The absence of standardized 3D concrete printing mixtures drives ongoing material exploration. This study investigates mineral and bio-based viscosity modifying agents (VMAs) application in fiber-reinforced cementitious mortar. Nano-montmorillonite, sepiolite, and bacterial cells function as supplementary materials, partially substituting cement with fly ash for sustainability assessment and compatibility evaluation in our study. Mechanical tests encompass compressive, flexural strength, and interlayer bonding in 3D-printed samples. Based on the results, incorporating 0.150% Polyamide (PA) fiber positively affected interlayer bonding strength and deceleration of the flow loss rate. Additionally, adding clays decreased workability and compressive strength but improved interlayer bonding and flexural properties. On the other hand, substituting 20% of cement with FA improved the flowability of the mixture and showed great compatibility with other materials during printing. Applying a cement paste layer was evaluated as a practical method for bond enhancement at the interface. Bacteria incorporation improved flexural strength but weakened interlayer bonding. However, the combination of bacteria and clays resulted in a superior improvement in mechanical properties. This study demonstrates clays and bacteria’s potential in enhancing rheological and mechanical features in cementitious fiber-reinforced mortar. Notably, this study introduces bacteria cells and sepiolite as rheology modifiers in 3D concrete printing for the first time. Additionally, it presents a novel dog-bone-shaped structure test for assessing interlayer bond performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
@@ -107,11 +80,40 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
       <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
       <li><a href="../../../author/cho_eunsan"><b>Cho</b> Eunsan</a>, <a href="../../../author/gwon_seongwoo"><b>Gwon</b> Seongwoo</a>, <a href="../../../author/cha_soowon"><b>Cha</b> Soowon</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cho_gwon_cha_shin.2025.IoAoRPoCCwCM/">Impact of Accelerator on Rheological Properties of Cement Composites with Cellulose Microfibers:<br/>3D Printing Perspective</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/mousavi_fateme"><b>Mousavi</b> Fateme</a>, <a href="../../../author/mahdavinia_pooneh"><b>Mahdavinia</b> Pooneh</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../mous_beng_mous_mahd.2025.ILBSPo3PCUANN/">Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network:<br/>Experimental and Modeling Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nikr_aydi_ozyu_bund.2024.EtPo3PFRM,
+      author            = "Ata Nikravan and Tolga Aydin and Nilüfer Özyurt and Zeynep Başaran Bundur",
+      title             = "Enhancing the Performance of 3D Printed Fiber-Reinforced Mortar: Synergistic Effects of Clays and Bacterial Cells as Viscosity-Modifying-Agents",
+      doi               = "10.1080/21650373.2024.2400295",
+      year              = "2024",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--15",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Nikravan, T. Aydin, N. Özyurt and Z. B. Bundur, “Enhancing the Performance of 3D Printed Fiber-Reinforced Mortar: Synergistic Effects of Clays and Bacterial Cells as Viscosity-Modifying-Agents”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–15, 2024, doi: 10.1080/21650373.2024.2400295.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nikravan, Ata, Tolga Aydin, Nilüfer Özyurt, and Zeynep Başaran Bundur. “Enhancing the Performance of 3D Printed Fiber-Reinforced Mortar: Synergistic Effects of Clays and Bacterial Cells as Viscosity-Modifying-Agents”. <i>Journal of Sustainable Cement-Based Materials</i>, 2024, 1–15. https://doi.org/10.1080/21650373.2024.2400295.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

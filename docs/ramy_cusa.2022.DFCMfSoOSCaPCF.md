@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Elham Ramyar, Gianluca Cusatis
+    - footer
+title: Ramyar Elham, Cusatis Gianluca
 description:
 tags:
  - concrete
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1061/(asce)em.1943-7889.0002059" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/(asce)em.1943-7889.0002059</a>
+#Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)em.1943-7889.0002059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)em.1943-7889.0002059" target="_blank">10.1061/(asce)em.1943-7889.0002059</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7118-4973" title="ORCID: 0000-0002-7118-4973" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramyar_elham"><b>Ramyar</b>&nbsp;Elham</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cusatis_gianluca"><b>Cusatis</b>&nbsp;Gianluca</a></span><br>
+Journal Article - Journal of Engineering Mechanics, Vol. 148, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ramyar_elham"><b>Ramyar</b> Elham</a> <a href="https://orcid.org/0000-0002-7118-4973" title="ORCID: 0000-0002-7118-4973" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cusatis_gianluca"><b>Cusatis</b> Gianluca</a> <a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Engineering Mechanics, Vol. 148, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#discrete`](keyword/discrete)
-    [`#flow`](keyword/flow)
-    [`#fresh`](keyword/fresh)
-    [`#model`](keyword/model)
-    [`#printability`](keyword/printability)
-    [`#self`](keyword/self)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Discrete%20Fresh%20Concrete-Model%20for%20Simulation%20of%20Ordinary%2C%20Self-Consolidating%2C%20and%20Printable%20Concrete-Flow" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120380813&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3215336508" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/(asce)em.1943-7889.0002059" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/(asce)em.1943-7889.0002059?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper deals with the formulation and validation of the discrete fresh concrete (DFC) model to simulate the rheological behavior of self-consolidating, ordinary, and printable concrete in the fluid state immediately after mixing. The DFC model is formulated within the framework of the discrete-element method (DEM), and it models the interaction among coarse aggregate particles embedded in a fine mortar. The formulation is based on stress-strain constitutive equations through which the behavior of fresh concrete can be described by parameters with clear physical meaning. This study presents a rigorous methodology for estimating the model key input parameters by the comparison of numerical simulations with experimental data. This methodology includes (1) a series of sensitivity analyses and simulations to establish the relationship between constitutive parameters and macroscopic properties; and (2) numerical simulations of experimental tests commonly used to characterize the fresh state behavior of concrete. Finally, the paper discusses the application of the DFC model to the simulation of concrete additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chan_xu_chen_gan.2021.ADLMfAoBPo3PC/">A Discrete Lattice-Model for Assessment of Buildability Performance of 3D Printed Concrete</a></li>
@@ -86,8 +66,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lale_erol"><b>Lale</b> Erol</a>, <a href="../../../author/ayhan_bahar"><b>Ayhan</b> Bahar</a>, <a href="../../../author/ahmed_ayesha"><b>Ahmed</b> Ayesha</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC/">Computational Simulations Fresh-to-Solid Transition for Additive Manufacturing of Ultra-High-Performance Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/meni_simone"><b>Meni</b> Simone</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rizz_meni_crem_ferr.2025.APFEMfItIoMaPPi3CP/">A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
@@ -100,4 +80,34 @@ tags:
       <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../rizz_ferr_crem.2023.NSotEaLDPi3CPwtPFEM/">Numerical Simulation of the Extrusion and Layer-Deposition-Processes in 3D Concrete Printing with the Particle-Finite-Element-Method</a></li>
       <li><a href="../../../author/shen_yuhang"><b>Shen</b> Yuhang</a>, <a href="../../../author/lin_li"><b>Lin</b> Li</a>, <a href="../../../author/wei_shengjie"><b>Wei</b> Shengjie</a>, <a href="../../../author/yan_jie"><b>Yan</b> Jie</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../shen_lin_wei_yan.2022.RotPaMPoS3PCM/">Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ramy_cusa.2022.DFCMfSoOSCaPCF,
+      author            = "Elham Ramyar and Gianluca Cusatis",
+      title             = "Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow",
+      doi               = "10.1061/(asce)em.1943-7889.0002059",
+      year              = "2022",
+      journal           = "Journal of Engineering Mechanics",
+      volume            = "148",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Ramyar  and G. Cusatis, “Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow”, <i>Journal of Engineering Mechanics</i>, vol. 148, no. 2, 2022, doi: 10.1061/(asce)em.1943-7889.0002059.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ramyar, Elham, and Gianluca Cusatis. “Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow”. <i>Journal of Engineering Mechanics</i> 148, no. 2 (2022). https://doi.org/10.1061/(asce)em.1943-7889.0002059.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

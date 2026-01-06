@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chuan He, Shiyu Zhang, Youwang Liang, Waqas Ahmad, Fadi Althoey, Saleh Alyami, Muhammad Javed, Ahmed Deifalla
+    - footer
+title: He Chuan, Zhang Shiyu, Liang Youwang, Ahmad Waqas, Althoey Fadi, Alyami Saleh, Javed Muhammad, Deifalla Ahmed
 description:
 tags:
  - concrete
@@ -12,32 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/14/4796/pdf?version=1657681431) A Scientometric Review on Mapping Research Knowledge for 3D Printing Concrete ([2022-07](date/2022/07))
-<a href="https://doi.org/10.3390/ma15144796" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15144796</a>
+#A Scientometric Review on Mapping Research Knowledge for 3D Printing Concrete ([2022-07](date/2022/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/14/4796/pdf?version=1657681431) <a href="https://doi.org/10.3390/ma15144796" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15144796" target="_blank">10.3390/ma15144796</a>
 
--------------------------
+<a href="../../../author/he_chuan"><b>He</b>&nbsp;Chuan</a></span>, <a href="../../../author/zhang_shiyu"><b>Zhang</b>&nbsp;Shiyu</a></span>, <a href="../../../author/liang_youwang"><b>Liang</b>&nbsp;Youwang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1668-7607" title="ORCID: 0000-0002-1668-7607" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmad_waqas"><b>Ahmad</b>&nbsp;Waqas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7223-213X" title="ORCID: 0000-0002-7223-213X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/althoey_fadi"><b>Althoey</b>&nbsp;Fadi</a></span>, <a href="../../../author/alyami_h_saleh"><b>Alyami</b>&nbsp;Saleh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5478-9324" title="ORCID: 0000-0001-5478-9324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/javed_faisal_muhammad"><b>Javed</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1758-3743" title="ORCID: 0000-0003-1758-3743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deifalla_farouk_ahmed"><b>Deifalla</b>&nbsp;Ahmed</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 14
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/he_chuan"><b>He</b> Chuan</a>
-,     <a href="../../../author/zhang_shiyu"><b>Zhang</b> Shiyu</a>
-,     <a href="../../../author/liang_youwang"><b>Liang</b> Youwang</a>
-,     <a href="../../../author/ahmad_waqas"><b>Ahmad</b> Waqas</a> <a href="https://orcid.org/0000-0002-1668-7607" title="ORCID: 0000-0002-1668-7607" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a> <a href="https://orcid.org/0000-0002-7223-213X" title="ORCID: 0000-0002-7223-213X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alyami_h_saleh"><b>Alyami</b> Saleh</a>
-,     <a href="../../../author/javed_faisal_muhammad"><b>Javed</b> Muhammad</a> <a href="https://orcid.org/0000-0001-5478-9324" title="ORCID: 0000-0001-5478-9324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/deifalla_farouk_ahmed"><b>Deifalla</b> Ahmed</a> <a href="https://orcid.org/0000-0003-1758-3743" title="ORCID: 0000-0003-1758-3743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 14, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#knowledge`](keyword/knowledge)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/knowledge"><button class="btn">#knowledge</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Scientometric%20Review%20on%20Mapping%20Research%20Knowledge%20for%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134559081&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285007059" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15144796" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15144796?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The scientometric analysis is statistical scrutiny of books, papers, and other publications to assess the "output" of individuals/research teams, organizations, and nations, to identify national and worldwide networks, and to map the creation of new (multi-disciplinary) scientific and technological fields that would be beneficial for the new researchers in the particular field. A scientometric review of 3D printing concrete is carried out in this study to explore the different literature aspects. There are limitations in conventional and typical review studies regarding the capacity of such studies to link various elements of the literature accurately and comprehensively. Some major problematic phases in advanced level research are: co-occurrence, science mapping, and co-citation. The sources with maximum articles, the highly creative researchers/authors known for citations and publications, keywords co-occurrences, and actively involved domains in 3D printing concrete research are explored during the analysis. VOS viewer application analyses bibliometric datasets with 953 research publications were extracted from the Scopus database. The current study would benefit academics for joint venture development and sharing new strategies and ideas due to the graphical and statistical depiction of contributing regions/countries and researchers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/heusi_alex"><b>Heusi</b> Alex</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../beda_szab_zani_heus.2022.R3PoMFfaLCCS/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -93,11 +71,41 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>
       <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a></li>
       <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../saha_bish_malv_kuma.2024.AoWMUa3CPDA/">Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>A Review</a></li>
       <li><a href="../../../author/haar_bjorn"><b>Haar</b> Bjorn</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../haar_krug_zijl.2023.OSCw3CP/">Off-Site Construction with 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{he_zhan_lian_ahma.2022.ASRoMRKf3PC,
+      author            = "Chuan He and Shiyu Zhang and Youwang Liang and Waqas Ahmad and Fadi Althoey and Saleh H. Alyami and Muhammad Faisal Javed and Ahmed Farouk Deifalla",
+      title             = "A Scientometric Review on Mapping Research Knowledge for 3D Printing Concrete",
+      doi               = "10.3390/ma15144796",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "14",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. He, “A Scientometric Review on Mapping Research Knowledge for 3D Printing Concrete”, <i>Materials</i>, vol. 15, no. 14, 2022, doi: 10.3390/ma15144796.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">He, Chuan, Shiyu Zhang, Youwang Liang, Waqas Ahmad, Fadi Althoey, Saleh H. Alyami, Muhammad Faisal Javed, and Ahmed Farouk Deifalla. “A Scientometric Review on Mapping Research Knowledge for 3D Printing Concrete”. <i>Materials</i> 15, no. 14 (2022). https://doi.org/10.3390/ma15144796.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

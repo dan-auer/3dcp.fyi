@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ana Capêto, Manuel Jesus, Braian Uribe, Ana Guimarães, Ana Oliveira
+    - footer
+title: Capêto Ana, Jesus Manuel, Uribe Braian, Guimarães Ana, Oliveira Ana
 description:
 tags:
  - advance
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/5/1323/pdf?version=1715134673) Building a Greener Future:<br/>:aca-blank: Advancing Concrete Production Sustainability and the Thermal Properties of 3D Printed Mortars ([2024-05](date/2024/05))
-<a href="https://doi.org/10.3390/buildings14051323" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14051323</a>
+#Building a Greener Future&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">Advancing Concrete Production Sustainability and the Thermal Properties of 3D Printed Mortars</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/5/1323/pdf?version=1715134673) <a href="https://doi.org/10.3390/buildings14051323" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14051323" target="_blank">10.3390/buildings14051323</a>
 
--------------------------
+<a href="../../../author/capeto_paula_ana"><b>Capêto</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7229-0874" title="ORCID: 0000-0002-7229-0874" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/uribe_e-b_braian"><b>Uribe</b>&nbsp;Braian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5445-1032" title="ORCID: 0000-0001-5445-1032" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oliveira_lucia-silva_ana"><b>Oliveira</b>&nbsp;Ana</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 5, No. 1323
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/capeto_paula_ana"><b>Capêto</b> Ana</a>
-,     <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a> <a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/uribe_e-b_braian"><b>Uribe</b> Braian</a> <a href="https://orcid.org/0000-0002-7229-0874" title="ORCID: 0000-0002-7229-0874" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oliveira_lucia-silva_ana"><b>Oliveira</b> Ana</a> <a href="https://orcid.org/0000-0001-5445-1032" title="ORCID: 0000-0001-5445-1032" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 5, No. 1323
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#future`](keyword/future)
-    [`#green`](keyword/green)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-    [`#property`](keyword/property)
-    [`#sustainability`](keyword/sustainability)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Building%20a%20Greener%20Future" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194462651&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396749293" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14051323" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14051323?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integration of waste materials in extrudable cement mixtures has the potential to make the construction industry more sustainable by reducing carbon footprints and developing eco-friendly materials. This along with advancements in 3D concrete printing (3DCP) provides engineering and architectural benefits by reducing material waste and costs. In this paper, the impact of waste incorporation on properties of mortar and concrete is examined. The use of waste materials, such as pumice, coal slag, agricultural lignocellulosic residues, and recycled rubber tyres, to improve thermal insulation and durability of cementitious composites is discussed. In addition, the incorporation of air-entraining admixtures with surfactant activity is explored for their indirect effect on thermal behaviour, pore size reduction, and enhancement in concrete properties. This review includes important topics such as a strength resistance to freezing and thawing, fire resistance, plasticising effect, and delay in cement hydration. These findings highlight the benefits of using diverse waste materials in construction, providing a multidimensional approach to waste management, cost optimization, and enhanced construction materials in the context of 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "63 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
@@ -138,8 +113,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/kim_ki_young"><b>Kim</b> Young</a>, <a href="../../../author/scoppa_martin"><b>Scoppa</b> Martin</a>, <a href="../../../author/haddad_madhar"><b>Haddad</b> Madhar</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_scop_hadd.2025.AIitRo3PiRB/">An Investigation into the Role of 3D Printing in Residential Buildings:<br/>An Emirati Housing Case Study</a></li>
@@ -148,4 +123,35 @@ tags:
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mim_shai_sark.2025.S3PCIAFA/">Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates:<br/>A Review</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cape_jesu_urib_guim.2024.BaGF,
+      author            = "Ana Paula Capêto and Manuel Jesus and Braian E. B. Uribe and Ana Sofia Guimarães and Ana Lúcia Silva Oliveira",
+      title             = "Building a Greener Future: Advancing Concrete Production Sustainability and the Thermal Properties of 3D Printed Mortars",
+      doi               = "10.3390/buildings14051323",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "5",
+      pages             = "1323",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. P. Capêto, M. Jesus, B. E. B. Uribe, A. S. Guimarães and A. L. S. Oliveira, “Building a Greener Future: Advancing Concrete Production Sustainability and the Thermal Properties of 3D Printed Mortars”, <i>Buildings</i>, vol. 14, no. 5, p. 1323, 2024, doi: 10.3390/buildings14051323.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Capêto, Ana Paula, Manuel Jesus, Braian E. B. Uribe, Ana Sofia Guimarães, and Ana Lúcia Silva Oliveira. “Building a Greener Future: Advancing Concrete Production Sustainability and the Thermal Properties of 3D Printed Mortars”. <i>Buildings</i> 14, no. 5 (2024): 1323. https://doi.org/10.3390/buildings14051323.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

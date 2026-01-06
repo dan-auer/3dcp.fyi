@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rocío Jarabo, Elena Fuente González, José García Calvo, Pedro Carballosa, Carlos Negro
+    - footer
+title: Jarabo Rocío, Fuente González Elena, García Calvo José, Carballosa Pedro, Negro Carlos
 description:
 tags:
  - cellulose
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/ma17174247) Nano-Crystalline-Cellulose to Reduce Superplasticizer-Demand in 3D Printing of Cementitious Materials ([2024-08](date/2024/08))
-<a href="https://doi.org/10.3390/ma17174247" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17174247</a>
+#Nano-Crystalline-Cellulose to Reduce Superplasticizer-Demand in 3D Printing of Cementitious Materials ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17174247) <a href="https://doi.org/10.3390/ma17174247" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17174247" target="_blank">10.3390/ma17174247</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5930-3415" title="ORCID: 0000-0002-5930-3415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jarabo_rocio"><b>Jarabo</b>&nbsp;Rocío</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0421-4607" title="ORCID: 0000-0003-0421-4607" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fuente-gonzalez_elena"><b>de la&nbsp;Fuente González</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0042-9822" title="ORCID: 0000-0002-0042-9822" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-calvo_luis_jose"><b>García Calvo</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3717-7614" title="ORCID: 0000-0002-3717-7614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carballosa_pedro"><b>Carballosa</b>&nbsp;Pedro</a></span>, <a href="../../../author/negro_carlos"><b>Negro</b>&nbsp;Carlos</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 17
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jarabo_rocio"><b>Jarabo</b> Rocío</a> <a href="https://orcid.org/0000-0002-5930-3415" title="ORCID: 0000-0002-5930-3415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fuente-gonzalez_elena"><b>de la Fuente González</b> Elena</a> <a href="https://orcid.org/0000-0003-0421-4607" title="ORCID: 0000-0003-0421-4607" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/garcia-calvo_luis_jose"><b>García Calvo</b> José</a> <a href="https://orcid.org/0000-0002-0042-9822" title="ORCID: 0000-0002-0042-9822" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/carballosa_pedro"><b>Carballosa</b> Pedro</a> <a href="https://orcid.org/0000-0002-3717-7614" title="ORCID: 0000-0002-3717-7614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/negro_carlos"><b>Negro</b> Carlos</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 17, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cellulose`](keyword/cellulose)
-    [`#cement`](keyword/cement)
-    [`#crystal`](keyword/crystal)
-    [`#demand`](keyword/demand)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#reduction`](keyword/reduction)
-    [`#superplasticizer`](keyword/superplasticizer)
-
-
--------------------------
+<a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/crystal"><button class="btn">#crystal</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nano-Crystalline-Cellulose%20to%20Reduce%20Superplasticizer-Demand%20in%203D%20Printing%20of%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203636221&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401962256" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17174247" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17174247?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One challenge for 3D printing is that the mortar must flow easily through the printer nozzle, and after printing, it must develop compressive strength fast and high enough to support the layers on it. This requires an exact and difficult control of the superplasticizer (SP) dosing. Nanocrystalline cellulose (CNC) has gained significant interest as a rheological modifier of mortar by interacting with the various cement components. This research studied the potential of nanocrystalline cellulose (CNC) as a mortar aid for 3D printing and its interactions with SPs. Interactions of a CNC and SP with cement suspensions were investigated by means of monitoring the effect on cement dispersion (by monitoring the particle chord length distributions in real time) and their impact on mortar mechanical properties. Although cement dispersion was increased by both CNC and SP, only CNC prevented cement agglomeration when shearing was reduced. Furthermore, combining SP and CNC led to faster development of compressive strength and increased compressive strength up to 30% compared to mortar that had undergone a one-day curing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/song_yu"><b>Song</b> Yu</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../das_song_mant_wang.2022.EoPotAVSo3PC/">Effect of Processing on the Air-Void System of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a>, <a href="../../../author/valadez-carranza_yvette"><b>Valadez-Carranza</b> Yvette</a>, <a href="../../../author/reese_r_steven"><b>Reese</b> Steven</a>, <a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../ghan_vala_rees_weis.2022.DBo3PCPCCNC/">Drying Behavior of 3D Printed Cementitious Pastes Containing Cellulose-Nano-Crystals</a></li>
@@ -77,8 +54,38 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jara_fuen_garc_carb.2024.NCCtRSDi3PoCM,
+      author            = "Rocío Jarabo and Elena de la Fuente González and José Luis García Calvo and Pedro Carballosa and Carlos Negro",
+      title             = "Nano-Crystalline-Cellulose to Reduce Superplasticizer-Demand in 3D Printing of Cementitious Materials",
+      doi               = "10.3390/ma17174247",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "17",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Jarabo, E. de la Fuente González, J. L. G. Calvo, P. Carballosa and C. Negro, “Nano-Crystalline-Cellulose to Reduce Superplasticizer-Demand in 3D Printing of Cementitious Materials”, <i>Materials</i>, vol. 17, no. 17, 2024, doi: 10.3390/ma17174247.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jarabo, Rocío, Elena de la Fuente González, José Luis García Calvo, Pedro Carballosa, and Carlos Negro. “Nano-Crystalline-Cellulose to Reduce Superplasticizer-Demand in 3D Printing of Cementitious Materials”. <i>Materials</i> 17, no. 17 (2024). https://doi.org/10.3390/ma17174247.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

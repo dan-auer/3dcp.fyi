@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeşim Tarhan, Flávio Craveiro, Helena Bártolo
+    - footer
+title: Tarhan Yeşim, Craveiro Flávio, Bártolo Helena
 description:
 tags:
  - composite
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} An Effective Solution for Reinforcing 3D Concrete Printable Composites ([2021-05](date/2021/05))
-<a href="https://doi.org/10.1007/978-3-031-26849-6_41" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-26849-6_41</a>
+#An Effective Solution for Reinforcing 3D Concrete Printable Composites ([2021-05](date/2021/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-26849-6_41" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-26849-6_41" target="_blank">10.1007/978-3-031-26849-6_41</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0454-8378" title="ORCID: 0000-0002-0454-8378" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/craveiro_flavio"><b>Craveiro</b>&nbsp;Flávio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bartolo_galha_helena"><b>Bártolo</b>&nbsp;Helena</a></span><br>
+Contribution - Proceedings of the 2nd International Conference on Water Energy Food and Sustainability, pp. 396-405
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a> <a href="https://orcid.org/0000-0002-0454-8378" title="ORCID: 0000-0002-0454-8378" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd International Conference on Water Energy Food and Sustainability, pp. 396-405
-
-:aca-blank:{ .lg .middle}
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#printability`](keyword/printability)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#solution`](keyword/solution)
-
-
--------------------------
+<a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Effective%20Solution%20for%20Reinforcing%203D%20Concrete%20Printable%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197925001&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4322153513" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-26849-6_41" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-26849-6_41?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of 3D concrete printing, a technology within the scope of Industry 4.0, is rapidly increasingworldwide.Despite its revolutionary advantages for the construction industry, several challenging problems need to be solved. Technical reinforcement is a critical issue. Several solutions have been proposed, though all of them limit the advantages 3D printing can provide. Considering that 3D printing technology allows almost unlimited geometric freedom, it is clear that these complex geometries will be hard to reinforce either with construction reinforcements or meshes. This work aims to overcome this constraint with textile reinforcements, allowing this way to take full potential of this new technology in terms of structural design and architectural shape.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
@@ -80,7 +61,37 @@ tags:
       <li><a href="../../../author/wang_weiqiang"><b>Wang</b> Weiqiang</a>, <a href="../../../author/konstantinidis_nikolaos"><b>Konstantinidis</b> Nikolaos</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wang_kons_aust_busw.2020.FBoAGTR3PCB/">Flexural Behavior of AR-Glass-Textile-Reinforced 3D Printed Concrete Beams</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{tarh_crav_bart.2023.AESfR3CPC,
+      author            = "Yeşim Tarhan and Flávio Craveiro and Helena Galha Bártolo",
+      title             = "An Effective Solution for Reinforcing 3D Concrete Printable Composites",
+      doi               = "10.1007/978-3-031-26849-6_41",
+      year              = "2023",
+      pages             = "396--405",
+      booktitle         = "Proceedings of the 2nd International Conference on Water Energy Food and Sustainability",
+      editor            = "Paulo Sérgio Duque de Brito and João Rafael da Costa Sanches Galvão and Pedro Monteiro and Roberta Panizio and Luís Calado and Ana Carolina Assis and Filipe dos Santos Neves and Flávio Craveiro and Henrique de Amorim Almeida and Joel Oliveira Correia Vasco and Ricardo de Jesus Gomes and Sandra de Jesus Martins Mourato and Vânia Sofia Santos Ribeiro",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tarhan, F. Craveiro and H. G. Bártolo, “An Effective Solution for Reinforcing 3D Concrete Printable Composites”, in <i>Proceedings of the 2nd International Conference on Water Energy Food and Sustainability</i>,  2023, pp. 396–405. doi: 10.1007/978-3-031-26849-6_41.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tarhan, Yeşim, Flávio Craveiro, and Helena Galha Bártolo. “An Effective Solution for Reinforcing 3D Concrete Printable Composites”. In <i>Proceedings of the 2nd International Conference on Water Energy Food and Sustainability</i>, edited by Paulo Sérgio Duque de Brito, João Rafael da Costa Sanches Galvão, Pedro Monteiro, Roberta Panizio, Luís Calado, Ana Carolina Assis, Filipe dos Santos Neves, et al., 396–405, 2023. https://doi.org/10.1007/978-3-031-26849-6_41.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anastasiia Puzatova (nee Sharanova), Pshtiwan Shakor, Vittoria Laghi, Maria Dmitrieva
+    - footer
+title: Puzatova (nee Sharanova) Anastasiia, Shakor Pshtiwan, Laghi Vittoria, Dmitrieva Maria
 description:
 tags:
  - application
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/11/2023/pdf?version=1669184472) Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer:<br/>:aca-blank: A Review ([2022-11](date/2022/11))
-<a href="https://doi.org/10.3390/buildings12112023" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12112023</a>
+#Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer&nbsp;([2022-11](date/2022/11))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/11/2023/pdf?version=1669184472) <a href="https://doi.org/10.3390/buildings12112023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12112023" target="_blank">10.3390/buildings12112023</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3798-4969" title="ORCID: 0000-0002-3798-4969" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b>&nbsp;Anastasiia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/laghi_vittoria"><b>Laghi</b>&nbsp;Vittoria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9593-8653" title="ORCID: 0000-0002-9593-8653" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b>&nbsp;Maria</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a> <a href="https://orcid.org/0000-0002-3798-4969" title="ORCID: 0000-0002-3798-4969" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> <a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="https://orcid.org/0000-0002-9593-8653" title="ORCID: 0000-0002-9593-8653" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#arm`](keyword/arm)
-    [`#construction`](keyword/construction)
-    [`#gantry`](keyword/gantry)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/gantry"><button class="btn">#gantry</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%203D%20Printing%20for%20Construction%20Application%20by%20Means%20of%20Robotic%20Arm%20and%20Gantry%203D%20Printer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148582242&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4309788319" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12112023" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12112023?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing technologies are becoming more popular in various industries, including the construction industry. Currently, construction 3D printing is sufficiently well studied from an academic point of view, leading towards the transition from experimental to mass largescale construction. Most questions arise about the applicability of construction 3D printers for printing entire buildings and structures. This paper provides an overview of the different types of construction 3D printing technologies currently in use, and their fundamental differences, as well as some significant data on the advantages of using these advanced technologies in construction. A description of the requirements for composite printing is also provided, with possible issues that may arise when switching from lab‐scale construction printing to mass large‐scale printing. All printers using additive manufacturing technologies for construction are divided into three types: robotic arm printers, portal‐type printers, and gantry 3D printers. It is noted that gantry printers are more suitable for large‐scale printing since some of their configurations have the ability to construct buildings that are practically unlimited in size. In addition, all printers are not capable of printing with concrete containing a coarse aggregate, which is a necessary requirement in terms of the strength and economic feasibility of 3D printing material for large‐scale applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "79 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -131,7 +109,6 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../shak_chu_puza_dini.2022.RoBJ3PitCI/">Review of Binder-Jetting 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../shak_neja_paul.2020.IitEoDBPLotMSoI3M/">Investigation into the Effect of Delays Between Printed Layers on the Mechanical Strength of Inkjet 3DP Mortar</a></li>
-      <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../shak_neja_paul_gowr.2021.EoDOASSRaHCoMBo3PCMwawGFiPB3/">Effects of Different Orientation-Angle, Size, Surface-Roughness, and Heat-Curing on Mechanical Behavior of 3D Printed Cement-Mortar with and without Glass-Fiber in Powder-Based 3DP</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/renneberg_jarred"><b>Renneberg</b> Jarred</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../shak_renn_neja_paul.2017.OoDCMDf3PbU6IR/">Optimization of Different Concrete Mix Designs for 3D Printing by Utilizing 6DOF Industrial Robot</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
@@ -150,8 +127,10 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "50 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bassi_utkarsh"><b>Bassi</b> Utkarsh</a>, <a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/verma_kumar_yash"><b>Verma</b> Yash</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bass_saha_bish_verm.2026.DAaDoaB3CP/">Design Analysis and Development of a Benchtop 3D Concrete Printer</a></li>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/alvarez_maria_luisa"><b>Álvarez</b> Luisa</a>, <a href="../../../author/fernandez_brian"><b>Fernandez</b> Brian</a>, <a href="../../../author/saldarriaga_federico"><b>Saldarriaga</b> Federico</a>, <a href="../../../author/romero_hector"><b>Romero</b> Héctor</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../alva_fern_sald_rome.2025.DaBEoPDGf3PCW/">Development and Bioclimatic Evaluation of Parametrically Designed Geometries for 3D-Printed Concrete Walls</a></li>
       <li><a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/amegouz_driss"><b>Amegouz</b> Driss</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../meso_foul_ameg.2025.3CP/">3D Concrete Printing:<br/>Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction</a></li>
@@ -201,4 +180,34 @@ tags:
       <li><a href="../../../author/pietras_daniel"><b>Pietras</b> Daniel</a>, <a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b> Wojciech</a>, <a href="../../../author/sadowski_tomasz"><b>Sadowski</b> Tomasz</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../piet_zbys_sado.2023.A3PMoCBFCCGCPFaaPNIL/">A 3D Printing Method of Cement-Based FGM Composites Containing Granulated Cork, Polypropylene Fibers, and a Polyethylene Net Inter-Layer</a></li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tami_alqa_khal_alha.2023.Fo3CPPaC/">Framework of 3D Concrete Printing Potential and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{puza_shak_lagh_dmit.2022.LS3PfCAbMoRAaG3P,
+      author            = "Anastasiia V. Puzatova (nee Sharanova) and Pshtiwan N. Shakor and Vittoria Laghi and Maria Dmitrieva",
+      title             = "Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer: A Review",
+      doi               = "10.3390/buildings12112023",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. V. P. (nee Sharanova), P. N. Shakor, V. Laghi and M. Dmitrieva, “Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer: A Review”, <i>Buildings</i>, vol. 12, no. 11, 2022, doi: 10.3390/buildings12112023.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sharanova), Anastasiia V. Puzatova (nee, Pshtiwan N. Shakor, Vittoria Laghi, and Maria Dmitrieva. “Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer: A Review”. <i>Buildings</i> 12, no. 11 (2022). https://doi.org/10.3390/buildings12112023.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

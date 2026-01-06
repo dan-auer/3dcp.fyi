@@ -8,7 +8,7 @@ search:
 
 # #byproduct
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ding_yong"><b>Ding</b> Yong</a>, <a href="../../../author/kindler_oswin_robert"><b>Kindler</b> Robert</a>, <a href="../../../author/cen_tianyu"><b>Cen</b> Tianyu</a>, <a href="../../../author/chen_xiulin"><b>Chen</b> Xiulin</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_kind_cen_chen.2025.VoDWaBBiSBMvCMa3P/">Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing</a></li>
   <li><a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b> Mohamad</a>, <a href="../../../author/daruari_harish"><b>Daruari</b> Harish</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/mendonca_paulo"><b>Mendonça</b> Paulo</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../hani_daru_figu_mend.2024.ECoSECwNMaBSfR3P/">Embodied Carbon of Structural Earthen Composites with Natural Materials and Byproducts Suitable for Robotic 3D Printing</a></li>
   <li><a href="../../../author/gonzalez-fonteboa_belen"><b>González-Fonteboa</b> Belén</a>, <a href="../../../author/seara-paz_sindy"><b>Seara-Paz</b> Sindy</a>, <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../gonz_sear_cane.2024.3PCwB/">3D Printing Concrete with Byproducts</a></li>

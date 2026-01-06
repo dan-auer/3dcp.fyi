@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mustapha Jaji, A. Kamoru, Gideon Zijl, Adewumi Babafemi
+    - footer
+title: Jaji Mustapha, Kamoru A., Zijl Gideon, Babafemi Adewumi
 description:
 tags:
  - absorbent
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matpr.2023.06.394) Effect of Anisotropy on Permeability Index and Water-Absorption of 3D Printed Metakaolin-Based Geopolymer Concrete ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.matpr.2023.06.394" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.06.394</a>
+#Effect of Anisotropy on Permeability Index and Water-Absorption of 3D Printed Metakaolin-Based Geopolymer Concrete ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matpr.2023.06.394) <a href="https://doi.org/10.1016/j.matpr.2023.06.394" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.06.394" target="_blank">10.1016/j.matpr.2023.06.394</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b>&nbsp;Mustapha</a></span>, <a href="../../../author/kamoru_a"><b>Kamoru</b>&nbsp;A.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> <a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kamoru_a"><b>Kamoru</b> A.</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#absorbent`](keyword/absorbent)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#permeability`](keyword/permeability)
-    [`#print`](keyword/print)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/permeability"><button class="btn">#permeability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Anisotropy%20on%20Permeability%20Index%20and%20Water-Absorption%20of%203D%20Printed%20Metakaolin-Based%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4383103852" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.06.394" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.06.394?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed geopolymer concrete (3DPGPC) is being showcased as a potential alternative to ordinary Portland cement concrete in digital construction. However, the widespread application is limited due to the unknown long-term durability properties of the material, which could also be influenced by the anisotropic behaviour of the prints. The durability index (DI) of metakaolin (MK) based 3DPGPC and mould-cast specimens from mixes modified with 0% and 5% slag and reinforced with 0.5% polypropylene fibre by volume are investigated using the oxygen permeability index (OPI) and water absorption test. 70 mm diameter by 30 mm thick specimens were cored perpendicular (D3-horizontal and D2-vertical) to the printing direction. OPI specimens were cured for 28 and 90 days, respectively, in the climatecontrolled room at 23 (±2°C) and 65 (±5%) relative humidity. 7 days before curing elapsed, specimens were placed in the oven and maintained at 50 ℃. Specimens were removed from the oven and cooled to 23 (±2°C) in the desiccator for 2 h before placing them in the permeameter cell for testing at 28 and 90 days of curing following SANS-3001-CO3-3 (2015). The OPI test comprised the supply of oxygen at the pressure of 120 kPa to the permeameter cell and testing terminated when the pressure dropped to 50 kPa. Also, the water absorption of mould cast and 3DPGPC specimens were determined following ASTM D570. The water absorption and permeability coefficients of 3DPGPC are compared with mouldcast to contextualise the durability of 3DPGPC. Slag inclusion reduced the permeability index of mould-cast and 3DPGPC at 28-and 90-day curing ages. However, mould-cast specimens had better OPI performance than 3DPGPC. D3 specimens are less permeable than D2. Also, mould-cast specimens exhibited lower water absorption characteristics than printed specimens. The OPI and water absorption tests indicate different migration characteristics under one-dimensional ingress in 3DPGPC in orthogonal directions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../jaji_ibra_zijl_baba.2023.TCoSM3PMBGC/">Thixotropic Characterisation of Slag-Modified 3D Printable Metakaolin-Based Geopolymer Composite</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../jaji_zijl_baba.2022.FPaSEoSMFRMBGCf3CPA/">Fresh Properties and Strength Evolution of Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer Composite for 3D Concrete Printing Application</a></li>
@@ -78,8 +55,8 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>, <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mani_seka.2025.NTfEMPiGaFR3PM/">NDT Techniques for Evaluating Mechanical Properties in Green and Fiber-Reinforced 3D Printable Mixes</a></li>
       <li><a href="../../../author/kaur_zinnia"><b>Kaur</b> Zinnia</a>, <a href="../../../author/goyal_shweta"><b>Goyal</b> Shweta</a>, <a href="../../../author/kwatra_naveen"><b>Kwatra</b> Naveen</a>, <a href="../../../author/bera_kumar_tarun"><b>Bera</b> Tarun</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB/">Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders</a></li>
@@ -89,4 +66,32 @@ tags:
       <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../jaji_zijl_baba.2023.SMMB3PG/">Slag-Modified Metakaolin-Based 3D Printed Geopolymer:<br/>Mechanical Characterisation, Microstructural Properties, and Nitrogen Physisorption Pore-Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jaji_kamo_zijl_baba.2023.EoAoPIaWAo3PMBGC,
+      author            = "Mustapha Bamidele Jaji and A. Kamoru and Gideon Pieter Adriaan Greeff van Zijl and Adewumi John Babafemi",
+      title             = "Effect of Anisotropy on Permeability Index and Water-Absorption of 3D Printed Metakaolin-Based Geopolymer Concrete",
+      doi               = "10.1016/j.matpr.2023.06.394",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. B. Jaji, A. Kamoru, G. P. A. G. van Zijl and A. J. Babafemi, “Effect of Anisotropy on Permeability Index and Water-Absorption of 3D Printed Metakaolin-Based Geopolymer Concrete”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.06.394.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jaji, Mustapha Bamidele, A. Kamoru, Gideon Pieter Adriaan Greeff van Zijl, and Adewumi John Babafemi. “Effect of Anisotropy on Permeability Index and Water-Absorption of 3D Printed Metakaolin-Based Geopolymer Concrete”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.06.394.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

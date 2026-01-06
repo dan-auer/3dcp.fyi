@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Volker Helm, Ercan Jenny, Fabio Gramazio, Matthias Kohler
+    - footer
+title: Helm Volker, Jenny Ercan, Gramazio Fabio, Kohler Matthias
 description:
 tags:
  - construction
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mobile Robotic Fabrication on Construction Sites:<br/>:aca-blank: DimRob ([2012-10](date/2012/10))
-<a href="https://doi.org/10.1109/iros.2012.6385617" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/iros.2012.6385617</a>
+#Mobile Robotic Fabrication on Construction Sites&nbsp;([2012-10](date/2012/10))
+<div class="h1-like">DimRob</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/iros.2012.6385617" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/iros.2012.6385617" target="_blank">10.1109/iros.2012.6385617</a>
 
--------------------------
+<a href="../../../author/helm_volker"><b>Helm</b>&nbsp;Volker</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6974-9296" title="ORCID: 0000-0001-6974-9296" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jenny_selen_ercan"><b>Jenny</b>&nbsp;Ercan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
+Contribution - 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 4335-4341
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/helm_volker"><b>Helm</b> Volker</a>
-,     <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> <a href="https://orcid.org/0000-0001-6974-9296" title="ORCID: 0000-0001-6974-9296" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 4335-4341
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#fabrication`](keyword/fabrication)
-    [`#mobile`](keyword/mobile)
-    [`#robot`](keyword/robot)
-    [`#site`](keyword/site)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mobile%20Robotic%20Fabrication%20on%20Construction%20Sites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84872307049&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,20 +36,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2083421359" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/iros.2012.6385617" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/iros.2012.6385617?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, viable applications for mobile robotic units on construction sites are explored. While identifying potential areas for in-situ fabrication in the construction sector, the intention is also to build upon innovative man-machine interaction paradigms to deal with the imprecision and tolerances often faced on construction sites. By combining the precision of the machine with the innate cognitive human skills, a simple but effective mobile fabrication system is tested for the building of algorithmically designed structures that would not be possible through conventional manual means. It is believed that this new approach to manmachine collaboration, aimed at a deeper integration of human ability with the strengths of digitally controlled machines, will result in advances in the construction sector, thus opening up new design and application fields for architects and planners.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a>, <a href="../../../author/leicht_m_robert"><b>Leicht</b> Robert</a>, <a href="../../../author/wagner_r_alan"><b>Wagner</b> Alan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zarg_leic_wagn_duar.2025.BTaE/">Beyond Trial and Error:<br/>Toward Construction-Aware Early Design-Optimization Considering Robotic Capabilities</a></li>
       <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a>, <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../capu_farr_bile_duar.2025.VBSaDTTiC3CP/">Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing:<br/>Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications</a></li>
       <li><a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/orr_lachlan"><b>Orr</b> Lachlan</a>, <a href="../../../author/kocer_bahadir_basaran"><b>Kocer</b> Basaran</a>, <a href="../../../author/kovac_mirko"><b>Kovac</b> Mirko</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../kaya_orr_koce_kova.2024.ARaAAM/">Aerial Repair and Aerial Additive Manufacturing</a></li>
@@ -79,4 +61,33 @@ tags:
       <li><a href="../../../author/helm_volker"><b>Helm</b> Volker</a>, <a href="../../../author/willmann_jan"><b>Willmann</b> Jan</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../helm_will_gram_kohl.2014.ISRF/">In-Situ Robotic Fabrication:<br/>Advanced Digital Manufacturing Beyond the Laboratory</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a>, <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2013/09">(2013-09)</a><br><a href="../../../hack_laue_lang_gram.2013.OR/">Overcoming Repetition:<br/>Robotic Fabrication Processes at a Large-Scale</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{helm_jenn_gram_kohl.2012.MRFoCS,
+      author            = "Volker Helm and Ercan Selen Jenny and Fabio Gramazio and Matthias Daniel Kohler",
+      title             = "Mobile Robotic Fabrication on Construction Sites: DimRob",
+      doi               = "10.1109/iros.2012.6385617",
+      year              = "2012",
+      pages             = "4335--4341",
+      booktitle         = "2012 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Helm, E. S. Jenny, F. Gramazio and M. D. Kohler, “Mobile Robotic Fabrication on Construction Sites: DimRob”, in <i>2012 IEEE/RSJ International Conference on Intelligent Robots and Systems</i>,  2012, pp. 4335–4341. doi: 10.1109/iros.2012.6385617.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Helm, Volker, Ercan Selen Jenny, Fabio Gramazio, and Matthias Daniel Kohler. “Mobile Robotic Fabrication on Construction Sites: DimRob”. In <i>2012 IEEE/RSJ International Conference on Intelligent Robots and Systems</i>, 4335–41, 2012. https://doi.org/10.1109/iros.2012.6385617.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shanmugaraj Senthilnathan, Benny Raphael
+    - footer
+title: Senthilnathan Shanmugaraj, Raphael Benny
 description:
 tags:
  - base
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Quality Monitoring of Concrete 3D Printed Elements Using Computer-Vision-Based Texture Extraction Technique ([2023-07](date/2023/07))
-<a href="https://doi.org/10.22260/isarc2023/0064" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2023/0064</a>
+#Quality Monitoring of Concrete 3D Printed Elements Using Computer-Vision-Based Texture Extraction Technique ([2023-07](date/2023/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2023/0064" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0064" target="_blank">10.22260/isarc2023/0064</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5725-0698" title="ORCID: 0000-0002-5725-0698" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b>&nbsp;Shanmugaraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raphael_benny"><b>Raphael</b>&nbsp;Benny</a></span><br>
+Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a> <a href="https://orcid.org/0000-0002-5725-0698" title="ORCID: 0000-0002-5725-0698" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#technique`](keyword/technique)
-    [`#texture`](keyword/texture)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/texture"><button class="btn">#texture</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quality%20Monitoring%20of%20Concrete%203D%20Printed%20Elements%20Using%20Computer-Vision-Based%20Texture%20Extraction%20Technique" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172869311&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382601281" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2023/0064" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2023/0064?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D Printing (3DP) has the potential to reduce construction time and the usage of labor and material in the construction industry. However, many parameters are found to influence the output of 3DP, and consequently, the variations in the quality of output are high. To fully realize the advantages of 3DP and to develop it into a technology for large-scale construction, quality monitoring and control are required. The workability of concrete is found to reduce with time, impacting the extrudability and buildability properties. This can be seen in 3DP elements where the bottom layers are found to have a smooth textural finish while the top layers have cracks, voids, and defects. To quantify the extrudability changes in the concrete, a new computer-vision-based methodology is proposed in this paper using a modified Histogram of Oriented Gradients (HOG) texture extraction method. Different levels of texture variations are extracted to quantify both minor and major textural changes. Weighted texture and normalized weighted texture metrics are introduced to have a combined single measure for minor and major textural variations. Further, a temporal textural change study is proposed to indirectly assess the buildability properties of concrete 3DP. This paper contributes to developing a non-intrusive autonomous quality monitoring and assessment technique for concrete 3D printed elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
@@ -79,11 +57,40 @@ tags:
       <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../sent_raph.2022.UCVfMtQo3PCS/">Using Computer-Vision for Monitoring the Quality of 3D Printed Concrete Structures</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
       <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sent_raph.2025.PBUtSTo3PCE/">Predicting Buildability Using the Surface Texture of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/gettu_ravindra"><b>Gettu</b> Ravindra</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hari_sent_gett_sant.2024.OTaEPAo3PCwRCFAURaCVT/">Open-Time and Extrudability-Performance-Analysis of 3D Printed Concrete with Recycled Concrete Fine Aggregates Using Rheological- and Computer-Vision-Techniques</a></li>
       <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sent_raph.2024.BAo3PCETCV/">Buildability-Assessment of 3D Printed Concrete Elements Through Computer-Vision</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sent_raph.2023.QMoC3PEUCVBTET,
+      author            = "Shanmugaraj Senthilnathan and Benny Raphael",
+      title             = "Quality Monitoring of Concrete 3D Printed Elements Using Computer-Vision-Based Texture Extraction Technique",
+      doi               = "10.22260/isarc2023/0064",
+      year              = "2023",
+      booktitle         = "Proceedings of the 40th International Symposium on Automation and Robotics in Construction",
+      editor            = "Borja García de Soto and Vincente Gonzalez-Moret and Ioannis Brilakis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Senthilnathan  and B. Raphael, “Quality Monitoring of Concrete 3D Printed Elements Using Computer-Vision-Based Texture Extraction Technique”, in <i>Proceedings of the 40th International Symposium on Automation and Robotics in Construction</i>,  2023. doi: 10.22260/isarc2023/0064.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Senthilnathan, Shanmugaraj, and Benny Raphael. “Quality Monitoring of Concrete 3D Printed Elements Using Computer-Vision-Based Texture Extraction Technique”. In <i>Proceedings of the 40th International Symposium on Automation and Robotics in Construction</i>, edited by Borja García de Soto, Vincente Gonzalez-Moret, and Ioannis Brilakis, 2023. https://doi.org/10.22260/isarc2023/0064.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guan Ting, Yi Tay, Tan Quah, Ming Tan, Teck Wong
+    - footer
+title: Ting Guan, Tay Yi, Quah Tan, Tan Ming, Wong Teck
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/14/17/7800/pdf?version=1725360050) Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology ([2024-09](date/2024/09))
-<a href="https://doi.org/10.3390/app14177800" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app14177800</a>
+#Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/14/17/7800/pdf?version=1725360050) <a href="https://doi.org/10.3390/app14177800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14177800" target="_blank">10.3390/app14177800</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ting_heng-andrew_guan"><b>Ting</b>&nbsp;Guan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6124-3020" title="ORCID: 0000-0001-6124-3020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quah_kai-noel_tan"><b>Quah</b>&nbsp;Tan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span><br>
+Journal Article - Applied Sciences, Vol. 14, Iss. 17, No. 7800
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a> <a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a> <a href="https://orcid.org/0000-0001-6124-3020" title="ORCID: 0000-0001-6124-3020" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 14, Iss. 17, No. 7800
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#overhang`](keyword/overhang)
-    [`#print`](keyword/print)
-    [`#support`](keyword/support)
-    [`#sustainability`](keyword/sustainability)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/overhang"><button class="btn">#overhang</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Support-Material%20for%20Overhang%20Printing%20in%203D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203625315&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402191912" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app14177800" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app14177800?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The advantage of 3DCP technologies is the ability to fabricate free-form structures. However, printing openings in concrete structures are limited by the presence of overhanging sections. While various 3D printing and additive manufacturing technologies have established methods for handling overhangs with temporary supports, many existing techniques for 3D concrete printing still rely on wooden planks and corbelling, which restrict the design flexibility and slope angles. The objective of this study is to develop a removable and sustainable support material with high printability performance. This support material serves as temporary support for overhang sections in 3D-printed structures and can be removed once the primary concrete has hardened sufficiently. This study observed that increasing the recycled glass content in the mixture raises both the dynamic and static yield stresses, with only mixtures containing up to 60% recycled glass remaining pumpable. Optimization of the mixture design aimed to balance high flowability and buildability, and the results indicated that a mixture with 60% recycled glass content is optimal. The effectiveness of the optimized support material was validated through the successful printing of a structure featuring a free-form opening and overhang section.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/brun_francis"><b>Brun</b> Francis</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>, <a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../brun_gasp_mate_vito.2020.ESo3PoCwO/">Experimental Study on 3D Printing of Concrete with Overhangs</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -90,8 +68,40 @@ tags:
       <li><a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../wang_xiao_sun_zhan.2023.MPo3PMCbC/">Mechanical Properties of 3D Printed Mortar Cured by CO2</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/gonsalves_a_nicolas"><b>Gonsalves</b> Nicolas</a>, <a href="../../../author/morgan_ashlei"><b>Morgan</b> Ashlei</a>, <a href="../../../author/thiele_heidi"><b>Thiele</b> Heidi</a>, <a href="../../../author/olarra_andre"><b>Olarra</b> Andre</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gons_morg_thie_olar.2025.3PoSIURSCCwBA/">3D Printing of Sustainable Infrastructure Using Rapid-Set Clay Concrete with Biobased Additives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ting_tay_quah_tan.2024.SSMfOPi3CPT,
+      author            = "Guan Heng Andrew Ting and Yi Wei Daniel Tay and Tan Kai Noel Quah and Ming Jen Tan and Teck Neng Wong",
+      title             = "Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology",
+      doi               = "10.3390/app14177800",
+      year              = "2024",
+      journal           = "Applied Sciences",
+      volume            = "14",
+      number            = "17",
+      pages             = "7800",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. H. A. Ting, Y. W. D. Tay, T. K. N. Quah, M. J. Tan and T. N. Wong, “Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology”, <i>Applied Sciences</i>, vol. 14, no. 17, p. 7800, 2024, doi: 10.3390/app14177800.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ting, Guan Heng Andrew, Yi Wei Daniel Tay, Tan Kai Noel Quah, Ming Jen Tan, and Teck Neng Wong. “Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology”. <i>Applied Sciences</i> 14, no. 17 (2024): 7800. https://doi.org/10.3390/app14177800.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

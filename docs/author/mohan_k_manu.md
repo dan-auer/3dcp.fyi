@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Mohan Manu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
   <li><a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/fakhrayee-nejad_siamak"><b>Fakhrayee Nejad</b> Siamak</a>, <a href="../../../author/ng_serina"><b>Ng</b> Serina</a>, <a href="../../../author/bose_baishakhi"><b>Bose</b> Baishakhi</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mikh_fakh_ng_bose.2024.PIaAiCP/">Practical Insights and Advances in Concrete Pumping</a></li>
   <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../moha_tao_schu_titt.2024.IoTVotPoTC3PM/">Influence of Temperature Variations on the Performance of Two-Component 3D Printable Mixtures</a></li>

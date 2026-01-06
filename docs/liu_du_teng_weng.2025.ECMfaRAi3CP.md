@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tong Liu, Song Du, Fei Teng, Yiwei Weng
+    - footer
+title: Liu Tong, Du Song, Teng Fei, Weng Yiwei
 description:
 tags:
  - arm
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://easychair.org/publications/paper/2Fbx/download) Energy Consumption Modeling for a Robot Arm in 3D Concrete Printing ([2025-08](date/2025/08))
-<a href="https://doi.org/10.29007/dcn2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.29007/dcn2</a>
+#Energy Consumption Modeling for a Robot Arm in 3D Concrete Printing ([2025-08](date/2025/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://easychair.org/publications/paper/2Fbx/download) <a href="https://doi.org/10.29007/dcn2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.29007/dcn2" target="_blank">10.29007/dcn2</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3132-8589" title="ORCID: 0000-0003-3132-8589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_tong"><b>Liu</b>&nbsp;Tong</a></span>, <a href="../../../author/du_song"><b>Du</b>&nbsp;Song</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_fei"><b>Teng</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
+Contribution - Proceedings of the 6th International Conference on Civil and Building Engineering Informatics, pp. 524-517
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_tong"><b>Liu</b> Tong</a> <a href="https://orcid.org/0000-0003-3132-8589" title="ORCID: 0000-0003-3132-8589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_song"><b>Du</b> Song</a>
-,     <a href="../../../author/teng_fei"><b>Teng</b> Fei</a> <a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 6th International Conference on Civil and Building Engineering Informatics, pp. 524-517
-
-:aca-blank:{ .lg .middle}
-    [`#arm`](keyword/arm)
-    [`#concrete`](keyword/concrete)
-    [`#consumption`](keyword/consumption)
-    [`#energy`](keyword/energy)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/consumption"><button class="btn">#consumption</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Energy%20Consumption%20Modeling%20for%20a%20Robot%20Arm%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,19 +37,44 @@ tags:
 <a href="https://inciteful.xyz/p/W4413784322" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.29007/dcn2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.29007/dcn2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction sector is a major contributor to global CO2 emissions and energy consumption. 3D concrete printing (3DCP) provides sustainable solutions to tackle the environmental challenges. However, the long-time and continuous operation of robotic arm printers in 3DCP incur critical challenges in energy efficiency. To address these challenges, this study aims to develop an energy consumption (EC) model of a robotic arm in 3DCP. The proposed EC model has desirable agreement compared to the experimental result, achieving an accuracy 99.51%. The impact of the proposed EC model is evaluated by printing a pre-designed path with various positions. Results reveal that the EC reduction can achieve up to 53.72% with varying positions. The findings reveal that the proposed EC model has the potential energy efficiency in 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{liu_du_teng_weng.2025.ECMfaRAi3CP,
+      author            = "Tong Liu and Song Du and Fei Teng and Yiwei Weng",
+      title             = "Energy Consumption Modeling for a Robot Arm in 3D Concrete Printing",
+      doi               = "10.29007/dcn2",
+      year              = "2025",
+      pages             = "524--517",
+      booktitle         = "Proceedings of the 6th International Conference on Civil and Building Engineering Informatics",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Liu, S. Du, F. Teng and Y. Weng, “Energy Consumption Modeling for a Robot Arm in 3D Concrete Printing”, in <i>Proceedings of the 6th International Conference on Civil and Building Engineering Informatics</i>,  2025, pp. 524–517. doi: 10.29007/dcn2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Tong, Song Du, Fei Teng, and Yiwei Weng. “Energy Consumption Modeling for a Robot Arm in 3D Concrete Printing”. In <i>Proceedings of the 6th International Conference on Civil and Building Engineering Informatics</i>, 524–17, 2025. https://doi.org/10.29007/dcn2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behzad Zahabizadeh, Vítor Cunha, João Pereira, Claúdia Gonçalves
+    - footer
+title: Zahabizadeh Behzad, Cunha Vítor, Pereira João, Gonçalves Claúdia
 description:
 tags:
  - base
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Effect of Loading-Direction on the Compressive Behavior of a 3D Printed Cement-Based Material ([2019-03](date/2019/03))
-<a href="https://doi.org/10.2749/guimaraes.2019.1658" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2749/guimaraes.2019.1658</a>
+#The Effect of Loading-Direction on the Compressive Behavior of a 3D Printed Cement-Based Material ([2019-03](date/2019/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/guimaraes.2019.1658" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/guimaraes.2019.1658" target="_blank">10.2749/guimaraes.2019.1658</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b>&nbsp;Vítor</a></span>, <a href="../../../author/pereira_joao"><b>Pereira</b>&nbsp;João</a></span>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b>&nbsp;Claúdia</a></span><br>
+Contribution - Proceedings of the 2019 IABSE Symposium, pp. 1658-1665
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a> <a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>
-,     <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2019 IABSE Symposium, pp. 1658-1665
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#compression`](keyword/compression)
-    [`#direction`](keyword/direction)
-    [`#effect`](keyword/effect)
-    [`#load`](keyword/load)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Loading-Direction%20on%20the%20Compressive%20Behavior%20of%20a%203D%20Printed%20Cement-Based%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3129214252" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2749/guimaraes.2019.1658" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2749/guimaraes.2019.1658?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nowadays, additive manufacturing is being widely employed in several areas and is starting to be considered for the construction sector amongst the digital construction trend. The advantages that the additive manufacturing techniques can bring over the traditional construction methods are propelling multiple research projects within the field of 3D concrete printing. Technologies used for printing, material compositions and their rheological and mechanical properties are some of the research areas on 3D concrete printing. In this work, it is used a wet extrusion method for printing a cement-based mortar mixture. The compressive behaviour of printed specimens was evaluated based on the direction of loading. The results showed that with a proper printing process and rheological properties, in the case of the current mid-strength matrix, the effect of the layers interfacial behaviour on the compressive behaviour of printed specimens was reduced.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -81,10 +58,39 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../aspr_menn_bos_mata.2022.SDaToDMCS/">Structural Design and Testing of Digitally Manufactured Concrete Structures</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../zaha_pere_gonc_cunh.2021.IAoTPBTf3PFRM/">Inverse Analysis of Three-Point Bending Tests for 3D Printed Fiber-Reinforced Mortars</a></li>
-      <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zaha_cunh_pere_gonc.2019.DoCBMf3PTWE/">Development of Cement-Based Mortars for 3D Printing Through Wet Extrusion</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{zaha_cunh_pere_gonc.2019.TEoLDotCBoa3PCBM,
+      author            = "Behzad Zahabizadeh and Vítor M. C. F. Cunha and João Pereira and Claúdia Gonçalves",
+      title             = "The Effect of Loading-Direction on the Compressive Behavior of a 3D Printed Cement-Based Material",
+      doi               = "10.2749/guimaraes.2019.1658",
+      year              = "2019",
+      pages             = "1658--1665",
+      booktitle         = "Proceedings of the 2019 IABSE Symposium: Towards a Resilient Built Environment",
+      editor            = "International Association for Bridge and Structural Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zahabizadeh, V. M. C. F. Cunha, J. Pereira and C. Gonçalves, “The Effect of Loading-Direction on the Compressive Behavior of a 3D Printed Cement-Based Material”, in <i>Proceedings of the 2019 IABSE Symposium: Towards a Resilient Built Environment</i>,  2019, pp. 1658–1665. doi: 10.2749/guimaraes.2019.1658.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zahabizadeh, Behzad, Vítor M. C. F. Cunha, João Pereira, and Claúdia Gonçalves. “The Effect of Loading-Direction on the Compressive Behavior of a 3D Printed Cement-Based Material”. In <i>Proceedings of the 2019 IABSE Symposium: Towards a Resilient Built Environment</i>, edited by International Association for Bridge and Structural Engineering, 1658–65, 2019. https://doi.org/10.2749/guimaraes.2019.1658.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

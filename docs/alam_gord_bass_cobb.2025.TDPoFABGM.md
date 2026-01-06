@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shaurav Alam, Stephen Gordon, Blake Bassett, Kevin Cobb, Brandon Jefferson, Nnamdi Nwoha, Tavir Manzur, Kelly Crittenden, John Matthews
+    - footer
+title: Alam Shaurav, Gordon Stephen, Bassett Blake, Cobb Kevin, Jefferson Brandon, Nwoha Nnamdi, Manzur Tavir, Crittenden Kelly, Matthews John
 description:
 tags:
  - ash
@@ -15,36 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Three-Dimensional Printing of Fly-Ash-Based Geopolymer Materials ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1007/978-3-031-69626-8_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-69626-8_2</a>
+#Three-Dimensional Printing of Fly-Ash-Based Geopolymer Materials ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-69626-8_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-69626-8_2" target="_blank">10.1007/978-3-031-69626-8_2</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0774-331X" title="ORCID: 0000-0003-0774-331X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alam_shaurav"><b>Alam</b>&nbsp;Shaurav</a></span>, <a href="../../../author/gordon_stephen"><b>Gordon</b>&nbsp;Stephen</a></span>, <a href="../../../author/bassett_blake"><b>Bassett</b>&nbsp;Blake</a></span>, <a href="../../../author/cobb_kevin"><b>Cobb</b>&nbsp;Kevin</a></span>, <a href="../../../author/jefferson_brandon"><b>Jefferson</b>&nbsp;Brandon</a></span>, <a href="../../../author/nwoha_nnamdi"><b>Nwoha</b>&nbsp;Nnamdi</a></span>, <a href="../../../author/manzur_tavir"><b>Manzur</b>&nbsp;Tavir</a></span>, <a href="../../../author/crittenden_kelly"><b>Crittenden</b>&nbsp;Kelly</a></span>, <a href="../../../author/matthews_john"><b>Matthews</b>&nbsp;John</a></span><br>
+Contribution - Proceedings of the 1st International Conference on Net-Zero Built Environment, pp. 13-24
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alam_shaurav"><b>Alam</b> Shaurav</a> <a href="https://orcid.org/0000-0003-0774-331X" title="ORCID: 0000-0003-0774-331X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gordon_stephen"><b>Gordon</b> Stephen</a>
-,     <a href="../../../author/bassett_blake"><b>Bassett</b> Blake</a>
-,     <a href="../../../author/cobb_kevin"><b>Cobb</b> Kevin</a>
-,     <a href="../../../author/jefferson_brandon"><b>Jefferson</b> Brandon</a>
-,     <a href="../../../author/nwoha_nnamdi"><b>Nwoha</b> Nnamdi</a>
-,     <a href="../../../author/manzur_tavir"><b>Manzur</b> Tavir</a>
-,     <a href="../../../author/crittenden_kelly"><b>Crittenden</b> Kelly</a>
-,     <a href="../../../author/matthews_john"><b>Matthews</b> John</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st International Conference on Net-Zero Built Environment, pp. 13-24
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#dimension`](keyword/dimension)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Printing%20of%20Fly-Ash-Based%20Geopolymer%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218466891&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,20 +37,47 @@ tags:
 <a href="https://inciteful.xyz/p/W4406152938" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-69626-8_2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-69626-8_2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Innovative materials and technologies in construction have spurred interest in fly ash-based geopolymer materials for three-dimensional (3D) printing. This study aims to design a 3D printer tailored for efficiently constructing multi-layered geopolymer walls. The geopolymer mixture, including fly ash, sand, sodium silicate, sodium hydroxide, and water, undergoes rapid curing via ohmic heating induced by alternating current (AC) voltage. After analyzing existing 3D printer designs, a bespoke printer was developed with a rotating auger assembly for controlled extrusion and parallel copper electrodes for AC heating during printing. The resulting printer successfully demonstrates the feasibility of electrically heated geopolymer wall construction. This research investigates ohmic heating’s role in expediting the curing process of Class F fly ash-based geopolymer cementitious (GPC) materials and outlines the prototype development of the 3D printer. This advancement presents eco-friendly alternatives in construction, potentially replacing traditional methods of using cement concrete. Coal-fired power plants are vital for global electricity production, contributing about 20% in the United States and over 36% worldwide [1]. However, coal combustion produces hazardous by-products like fly ash, with the United States alone generating 40.8 million tons and global production of 500 million tons annually [2, 3]. While fly ash is useful in various industries, its main application is in Portland cement concrete, enhancing properties such as hydration and workability. Unfortunately, more than half of the produced fly ash ends up in landfills, posing environmental risks due to potential contamination of soil and groundwater by heavy metals and toxins [4]. There are two main types of fly ash, Class C and Class F, each with distinct properties. While both classes of fly ash are useful for concrete production, the higher calcium content in class C fly ash allows it to be used in higher concentrations than class F fly ash [5]. Geopolymer, a relatively recent development, shows promise as an alternative to traditional concrete, especially in smaller-scale projects. However, further research is needed to make it a viable alternative to conventional cement concrete. Several studies have been conducted to evaluate the mechanical properties and feasibility of rapid-curing geopolymer concrete (RCGPC) compared to traditional OPC and oven-cured geopolymer concrete (OCGPC) [6, 7]. Additionally, the application of electrically conductive concrete (ECON) in heated-pavement systems (HPS) [8] shows promise in melting ice and snow, although widespread implementation remains a challenge. Ionic conductive mortar presents another innovative application for indoor heating systems, demonstrating stable electrical conductivity and resistance to repetitive heating cycles. Ionic conductive mortar has potential applications in indoor radiant heating floor tiles and partition walls [9]. Experimental findings indicate that the resistivity of this mortar increases with time but stabilizes after 28 days. When subjected to electric voltage, the mortar exhibits temperature increases, with significant drops in resistivity observed under both AC and DC voltages. Repetitive electric-heating cycles do not affect the mortar’s hydration products or internal structures, maintaining stable electrical conductivity over time [10]. An increase in reactive recyclable material content beyond 20% led to decreased strength and workability of the material. Longer curing times, between 7 and 28 days, improved compressive strength but reduced flexural strength. Test samples showed varying strengths between layers, indicating a compromise between strength values and recyclable material content in geopolymer development [11]. The development of 3D printing technologies offers new avenues for both geopolymer and conventional concrete applications. Geopolymer’s rapid curing property and high compressive strength make it particularly suitable for structural 3D printing applications. This technology allows for the creation of structural members or unique geometries on construction sites without the need for special ordering of materials or longer curing times associated with Ordinary Portland Cement (OPC) construction. The primary focus of this study is to analyze the printing parameter prerequisites for sustainable 3D printable geopolymer materials. This involves developing a prototype through the creation of engineering drawings, fabrication, and procurement of lab-scale components for the printer, followed by their assembly. Eventually, the study aims to utilize fly ash to produce rapid-curing geopolymer, offering a low-carbon alternative to ordinary Portland cement. Unlike traditional concrete, geopolymers can be rapidly cured with added heat, setting within minutes instead of hours or days. A properly formulated geopolymer mix achieves full strength within 24 hours, making fly ash a potential replacement for concrete rather than just an additive.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/munir_qaisar"><b>Munir</b> Qaisar</a>, <a href="../../../author/peltonen_riku"><b>Peltonen</b> Riku</a>, <a href="../../../author/karki_timo"><b>Kärki</b> Timo</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../muni_pelt_kark.2021.PPRf3PGMPfISS/">Printing Parameter Requirements for 3D Printable Geopolymer Materials Prepared from Industrial Side Streams</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{alam_gord_bass_cobb.2025.TDPoFABGM,
+      author            = "Shaurav Alam and Stephen Gordon and Blake Bassett and Kevin Cobb and Brandon Jefferson and Nnamdi Nwoha and Tavir Manzur and Kelly Crittenden and John Matthews",
+      title             = "Three-Dimensional Printing of Fly-Ash-Based Geopolymer Materials",
+      doi               = "10.1007/978-3-031-69626-8_2",
+      year              = "2025",
+      volume            = "237",
+      pages             = "13--24",
+      booktitle         = "Proceedings of the 1st International Conference on Net-Zero Built Environment",
+      editor            = "Mahdi Kioumarsi and Behrouz Shafei",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Alam, “Three-Dimensional Printing of Fly-Ash-Based Geopolymer Materials”, in <i>Proceedings of the 1st International Conference on Net-Zero Built Environment</i>,  2025, vol. 237, pp. 13–24. doi: 10.1007/978-3-031-69626-8_2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alam, Shaurav, Stephen Gordon, Blake Bassett, Kevin Cobb, Brandon Jefferson, Nnamdi Nwoha, Tavir Manzur, Kelly Crittenden, and John Matthews. “Three-Dimensional Printing of Fly-Ash-Based Geopolymer Materials”. In <i>Proceedings of the 1st International Conference on Net-Zero Built Environment</i>, edited by Mahdi Kioumarsi and Behrouz Shafei, 237:13–24, 2025. https://doi.org/10.1007/978-3-031-69626-8_2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

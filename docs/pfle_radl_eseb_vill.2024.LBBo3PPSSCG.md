@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marc-Patrick Pfleger, Elisabeth Radl, Osman Esebali, Markus Vill
+    - footer
+title: Pfleger Marc-Patrick, Radl Elisabeth, Esebali Osman, Vill Markus
 description:
 tags:
  - bearing
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Load Bearing Behavior of 3D Printed Pre-Stressed Segmental Concrete Girders ([2024-04](date/2024/04))
-<a href="https://doi.org/10.2749/manchester.2024.0938" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2749/manchester.2024.0938</a>
+#Load Bearing Behavior of 3D Printed Pre-Stressed Segmental Concrete Girders ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/manchester.2024.0938" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/manchester.2024.0938" target="_blank">10.2749/manchester.2024.0938</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-7967-3367" title="ORCID: 0009-0005-7967-3367" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b>&nbsp;Marc-Patrick</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-1118-3714" title="ORCID: 0009-0002-1118-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/radl_elisabeth"><b>Radl</b>&nbsp;Elisabeth</a></span>, <a href="../../../author/esebali_osman"><b>Esebali</b>&nbsp;Osman</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2608-2576" title="ORCID: 0009-0007-2608-2576" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vill_markus"><b>Vill</b>&nbsp;Markus</a></span><br>
+Contribution - Proceedings of the 2024 IABSE Symposium, No. 79
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a> <a href="https://orcid.org/0009-0005-7967-3367" title="ORCID: 0009-0005-7967-3367" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a> <a href="https://orcid.org/0009-0002-1118-3714" title="ORCID: 0009-0002-1118-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/esebali_osman"><b>Esebali</b> Osman</a>
-,     <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="https://orcid.org/0009-0007-2608-2576" title="ORCID: 0009-0007-2608-2576" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2024 IABSE Symposium, pp. 79
-
-:aca-blank:{ .lg .middle}
-    [`#bearing`](keyword/bearing)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#girder`](keyword/girder)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-    [`#segment`](keyword/segment)
-    [`#stress`](keyword/stress)
-
-
--------------------------
+<a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/girder"><button class="btn">#girder</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Load%20Bearing%20Behavior%20of%203D%20Printed%20Pre-Stressed%20Segmental%20Concrete%20Girders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4395479885" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2749/manchester.2024.0938" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2749/manchester.2024.0938?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research discusses the load-bearing behavior of prefabricated girder segments produced by a concrete 3D printing technology. The segments are joined together with grout and are prestressed to form load bearing bending members. Various hollow segments are printed individually where intended cold joints were created. Before continuing the printing process, different joint reinforcements were installed at the cold joints to improve the shear force transmission between the segments. The focus of this research was to observe the segment joints as well as the reinforced cold joints within a segment when high shear stresses are applied. The specimens were observed in a 3-point bending test. The deflection, cracking and failure behavior is evaluated and described in detail based on each specimen’s test results and compared to the numerical and analytical results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/geyer_sebastian"><b>Geyer</b> Sebastian</a>, <a href="../../../author/holzl_christian"><b>Hölzl</b> Christian</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pfle_geye_holz_vill.2023.ItItCFoTWCSb3PPE/">Investigations to Improve the Carbon Footprint of Thin Walled Concrete Structures by 3D Printing Prefabricated Elements</a></li>
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
@@ -75,7 +53,37 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{pfle_radl_eseb_vill.2024.LBBo3PPSSCG,
+      author            = "Marc-Patrick Pfleger and Elisabeth Radl and Osman Esebali and Markus Vill",
+      title             = "Load Bearing Behavior of 3D Printed Pre-Stressed Segmental Concrete Girders",
+      doi               = "10.2749/manchester.2024.0938",
+      year              = "2024",
+      pages             = "79",
+      booktitle         = "Proceedings of the 2024 IABSE Symposium: Construction's Role for a World in Emergency",
+      editor            = "International Association for Bridge and Structural Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M.-P. Pfleger, E. Radl, O. Esebali and M. Vill, “Load Bearing Behavior of 3D Printed Pre-Stressed Segmental Concrete Girders”, in <i>Proceedings of the 2024 IABSE Symposium: Construction's Role for a World in Emergency</i>,  2024, p. 79. doi: 10.2749/manchester.2024.0938.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pfleger, Marc-Patrick, Elisabeth Radl, Osman Esebali, and Markus Vill. “Load Bearing Behavior of 3D Printed Pre-Stressed Segmental Concrete Girders”. In <i>Proceedings of the 2024 IABSE Symposium: Construction's Role for a World in Emergency</i>, edited by International Association for Bridge and Structural Engineering, 79, 2024. https://doi.org/10.2749/manchester.2024.0938.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

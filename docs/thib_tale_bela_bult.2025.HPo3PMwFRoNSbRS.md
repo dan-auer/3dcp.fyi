@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Raghed Thib, Maria Taleb, Naima Belayachi, David Bulteel, Sébastien Rémond
+    - footer
+title: Thib Raghed, Taleb Maria, Belayachi Naima, Bulteel David, Rémond Sébastien
 description:
 tags:
  - full
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Hardened Properties of 3D Printable Mortars with Full Replacement of Natural Sand by Recycled Sand ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1617/s11527-025-02658-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02658-1</a>
+#Hardened Properties of 3D Printable Mortars with Full Replacement of Natural Sand by Recycled Sand ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-025-02658-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02658-1" target="_blank">10.1617/s11527-025-02658-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-3142-9397" title="ORCID: 0009-0006-3142-9397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thib_raghed"><b>al&nbsp;Thib</b>&nbsp;Raghed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taleb_maria"><b>Taleb</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4112-3368" title="ORCID: 0000-0003-4112-3368" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/belayachi_naima"><b>Belayachi</b>&nbsp;Naima</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bulteel_david"><b>Bulteel</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/thib_raghed"><b>al Thib</b> Raghed</a> <a href="https://orcid.org/0009-0006-3142-9397" title="ORCID: 0009-0006-3142-9397" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a> <a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a> <a href="https://orcid.org/0000-0003-4112-3368" title="ORCID: 0000-0003-4112-3368" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> <a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#full`](keyword/full)
-    [`#hardened`](keyword/hardened)
-    [`#mortar`](keyword/mortar)
-    [`#natural`](keyword/natural)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#replacement`](keyword/replacement)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hardened%20Properties%20of%203D%20Printable%20Mortars%20with%20Full%20Replacement%20of%20Natural%20Sand%20by%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004408588&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410169650" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02658-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02658-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Using recycled aggregates in concrete and mortar reduces environmental impact by minimizing both natural aggregate consumption and construction waste disposal. 3D printing offers innovative, cost-efficient construction methods, but it heavily relies on cement and sand. This research aims to investigate the hard properties of 3D printing mortars made with 100% substitution of natural sand by recycled sand. The effects of sand substitution and 3D printing process on the hard properties of printable mortars are studied. The mechanical strength of moulded and printed specimens of printable mortars based on recycled sand were studied and compared with those made from a reference printable mortar based on natural sand. Additionally, the microstructure of mortars, namely the density of the interfacial transition zone in these specimens was analysed to understand the mechanical strength results. The results showed that both the incorporation of recycled sand and the 3D printing process had little effect on the mechanical strength. This could be attributed to the decrease in the density of the interfacial transition zone caused by both the incorporation of recycled sand and the mortar printing process. Furthermore, the study investigated also the effect of incorporating recycled sand on autogenous, drying, and total shrinkage. It was observed that this incorporation reduces the autogenous shrinkage at an early age, while it increases both dry and total shrinkage.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
       <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/loulha_sarena"><b>Loulha</b> Sarena</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../bono_duco_loul_mesn.2025.T3PLCM/">Toward 3D Printable Low-Carbon Mortar:<br/>Method and Application</a></li>
@@ -92,8 +68,38 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{thib_tale_bela_bult.2025.HPo3PMwFRoNSbRS,
+      author            = "Raghed Al Thib and Maria Taleb and Naima Belayachi and David Bulteel and Sébastien Rémond",
+      title             = "Hardened Properties of 3D Printable Mortars with Full Replacement of Natural Sand by Recycled Sand",
+      doi               = "10.1617/s11527-025-02658-1",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. A. Thib, M. Taleb, N. Belayachi, D. Bulteel and S. Rémond, “Hardened Properties of 3D Printable Mortars with Full Replacement of Natural Sand by Recycled Sand”, <i>Materials and Structures</i>, vol. 58, no. 4, 2025, doi: 10.1617/s11527-025-02658-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Thib, Raghed Al, Maria Taleb, Naima Belayachi, David Bulteel, and Sébastien Rémond. “Hardened Properties of 3D Printable Mortars with Full Replacement of Natural Sand by Recycled Sand”. <i>Materials and Structures</i> 58, no. 4 (2025). https://doi.org/10.1617/s11527-025-02658-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

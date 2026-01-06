@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amardeep Singh, Yufei Wang, Yiyi Zhou, Junbo Sun, Xinglong Xu, Yutong Li, Zhonghe Liu, Jing Chen, Xiangyu Wang
+    - footer
+title: Singh Amardeep, Wang Yufei, Zhou Yiyi, Sun Junbo, Xu Xinglong, Li Yutong, Liu Zhonghe, Chen Jing, Wang Xiangyu
 description:
 tags:
  - approach
@@ -18,39 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Utilization of Antimony-Tailings in Fiber-Reinforced 3D Printed Concrete:<br/>:aca-blank: A Sustainable Approach for Construction Materials ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133689" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133689</a>
+#Utilization of Antimony-Tailings in Fiber-Reinforced 3D Printed Concrete&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">A Sustainable Approach for Construction Materials</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133689" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133689" target="_blank">10.1016/j.conbuildmat.2023.133689</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <a href="../../../author/zhou_yiyi"><b>Zhou</b>&nbsp;Yiyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <a href="../../../author/xu_xinglong"><b>Xu</b>&nbsp;Xinglong</a></span>, <a href="../../../author/li_yutong"><b>Li</b>&nbsp;Yutong</a></span>, <a href="../../../author/liu_zhonghe"><b>Liu</b>&nbsp;Zhonghe</a></span>, <a href="../../../author/chen_jing"><b>Chen</b>&nbsp;Jing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 408, No. 133689
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-,     <a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_xinglong"><b>Xu</b> Xinglong</a>
-,     <a href="../../../author/li_yutong"><b>Li</b> Yutong</a>
-,     <a href="../../../author/liu_zhonghe"><b>Liu</b> Zhonghe</a>
-,     <a href="../../../author/chen_jing"><b>Chen</b> Jing</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 408, No. 133689
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#fiber`](keyword/fiber)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#sustainability`](keyword/sustainability)
-    [`#tailing`](keyword/tailing)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Utilization%20of%20Antimony-Tailings%20in%20Fiber-Reinforced%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174935848&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387556824" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133689" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133689?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete (3DPC) is an innovative solution offering faster construction, reduced waste, and greater design flexibility. Antimony tailings (AT) enhance the material’s durability and strength while promoting sustainability by reducing waste. This provides a cost-effective and eco-friendly solution for construction. Based on it, this research tries to verify the viability of a 3D printing concrete with up to 100 % AT by assessing its fluidity, extrudability, buildability, and strength. This study used five different replacement percentages (0 %, 25 %, 50 %, 75 % and 100 %) of AT to partially replace the silica sand in the mix. Additionally, 1 % of the polyvinyl alcohol (PVA) fibers were used to improve the flexural capacity of the mixes because of the non-availability of the reinforcement in the 3DPC. Results showed that addition produced the highest compressive and flexural strength at 75 %AT. There was a smaller reduction in the compressive and flexural strength at 75 %AT anisotropically. The highest porosity was observed in the 100 %AT mix due to higher water absorption than control. This shows that the mix with 75 %AT can not only meet the printability requirements but can provide better strength which is beneficial for the practical application of 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../chri_cho_zijl_vill.2022.PCMIRBAi3PC/">Phase-Change-Material-Infused Recycled Brick-Aggregate in 3D Printed Concrete</a></li>
       <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../chri_zijl_vill.2022.TIoRBAi3PC/">The Incorporation of Recycled Brick-Aggregate in 3D Printed Concrete</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
@@ -97,8 +69,8 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/li_baidian"><b>Li</b> Baidian</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a>, <a href="../../../author/gu_kan"><b>Gu</b> Kan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_wu_gu.2026.EIPaSo3PUwAT/">Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
@@ -128,4 +100,34 @@ tags:
       <li><a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../birr_rehm_kim.2024.CAoSBUiOCSaTCSASoDMf3CP/">Comparative Analysis of Structural Build-Up in One-Component Stiff and Two-Component Shotcrete-Accelerated Set-on-Demand Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sing_wang_zhou_sun.2023.UoATiFR3PC,
+      author            = "Amardeep Singh and Yufei Wang and Yiyi Zhou and Junbo Sun and Xinglong Xu and Yutong Li and Zhonghe Liu and Jing Chen and Xiangyu Wang",
+      title             = "Utilization of Antimony-Tailings in Fiber-Reinforced 3D Printed Concrete: A Sustainable Approach for Construction Materials",
+      doi               = "10.1016/j.conbuildmat.2023.133689",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "408",
+      pages             = "133689",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Singh, “Utilization of Antimony-Tailings in Fiber-Reinforced 3D Printed Concrete: A Sustainable Approach for Construction Materials”, <i>Construction and Building Materials</i>, vol. 408, p. 133689, 2023, doi: 10.1016/j.conbuildmat.2023.133689.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Singh, Amardeep, Yufei Wang, Yiyi Zhou, Junbo Sun, Xinglong Xu, Yutong Li, Zhonghe Liu, Jing Chen, and Xiangyu Wang. “Utilization of Antimony-Tailings in Fiber-Reinforced 3D Printed Concrete: A Sustainable Approach for Construction Materials”. <i>Construction and Building Materials</i> 408 (2023): 133689. https://doi.org/10.1016/j.conbuildmat.2023.133689.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

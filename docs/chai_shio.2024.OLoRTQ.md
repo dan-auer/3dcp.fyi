@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hwa Chai, Tomoki Shiotani
+    - footer
+title: Chai Hwa, Shiotani Tomoki
 description:
 tags:
  - additive
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://letters.rilem.net/index.php/rilem/article/download/209/223) Opening Letter of RILEM TC QPA:<br/>:aca-blank: Quality and Performance Assurance of Additively Manufactured Cementitious Composites by Advanced Non-Invasive Techniques ([2025-03](date/2025/03))
-<a href="https://doi.org/10.21809/rilemtechlett.2024.209" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21809/rilemtechlett.2024.209</a>
+#Opening Letter of RILEM TC QPA&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">Quality and Performance Assurance of Additively Manufactured Cementitious Composites by Advanced Non-Invasive Techniques</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](http://letters.rilem.net/index.php/rilem/article/download/209/223) <a href="https://doi.org/10.21809/rilemtechlett.2024.209" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2024.209" target="_blank">10.21809/rilemtechlett.2024.209</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4153-9155" title="ORCID: 0000-0002-4153-9155" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chai_kian_hwa"><b>Chai</b>&nbsp;Hwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5993-5703" title="ORCID: 0000-0002-5993-5703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shiotani_tomoki"><b>Shiotani</b>&nbsp;Tomoki</a></span><br>
+Journal Article - RILEM Technical Letters, Vol. 9, pp. 127-133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chai_kian_hwa"><b>Chai</b> Hwa</a> <a href="https://orcid.org/0000-0002-4153-9155" title="ORCID: 0000-0002-4153-9155" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shiotani_tomoki"><b>Shiotani</b> Tomoki</a> <a href="https://orcid.org/0000-0002-5993-5703" title="ORCID: 0000-0002-5993-5703" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - RILEM Technical Letters, Vol. 9, pp. 127-133
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#advance`](keyword/advance)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#open`](keyword/open)
-    [`#performance`](keyword/performance)
-    [`#quality`](keyword/quality)
-    [`#rilem`](keyword/rilem)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/open"><button class="btn">#open</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/rilem"><button class="btn">#rilem</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Opening%20Letter%20of%20RILEM%20TC%20QPA" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001529121&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408777559" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21809/rilemtechlett.2024.209" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21809/rilemtechlett.2024.209?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This Opening Letter outlines the objectives and scope of the newly developed RILEM Technical Committee QPA "Quality and Performance Assurance of Additively Manufactured Cementitious Composites by Advanced Non-Invasive Techniques". The letter also provides quick overview of the current stateof- the-art on 3D concrete printing (3DCP) technology, and highlight key issues with regards to sustaining quality of the additive manufacturing process and the corresponding performance of the printed materials and structures. These are followed by discussion on prospect of developing and rationalising suitable non-destructive testing and evaluation methodologies to improve efficiency and quality of 3DCP through review of some previous studies. The letter also identifies potential achievements that can be obtained, and discusses key challenges and strategies in running the TC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
@@ -96,7 +75,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chai_shio.2024.OLoRTQ,
+      author            = "Hwa Kian Chai and Tomoki Shiotani",
+      title             = "Opening Letter of RILEM TC QPA: Quality and Performance Assurance of Additively Manufactured Cementitious Composites by Advanced Non-Invasive Techniques",
+      doi               = "10.21809/rilemtechlett.2024.209",
+      year              = "2024",
+      journal           = "RILEM Technical Letters",
+      volume            = "9",
+      pages             = "127--133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. K. Chai  and T. Shiotani, “Opening Letter of RILEM TC QPA: Quality and Performance Assurance of Additively Manufactured Cementitious Composites by Advanced Non-Invasive Techniques”, <i>RILEM Technical Letters</i>, vol. 9, pp. 127–133, 2024, doi: 10.21809/rilemtechlett.2024.209.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chai, Hwa Kian, and Tomoki Shiotani. “Opening Letter of RILEM TC QPA: Quality and Performance Assurance of Additively Manufactured Cementitious Composites by Advanced Non-Invasive Techniques”. <i>RILEM Technical Letters</i> 9 (2024): 127–33. https://doi.org/10.21809/rilemtechlett.2024.209.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

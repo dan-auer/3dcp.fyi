@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Feringa Jelle 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/feringa_jelle"><b>Feringa</b> Jelle</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../feri.2024.SES/">Scalable Equals Sustainable:<br/>The New Era of Sustainable and Digital Construction</a></li>
   <li><a href="../../../author/sondergaard_asbjorn"><b>Søndergaard</b> Asbjørn</a>, <a href="../../../author/feringa_jelle"><b>Feringa</b> Jelle</a>, <a href="../../../author/stan_florin"><b>Stan</b> Florin</a>, <a href="../../../author/maier_dana"><b>Maier</b> Dana</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../snd_feri_stan_maie.2019.RoTOCSURAWCoEPF/">Realization of Topology Optimized Concrete Structures Using Robotic Abrasive Wire-Cutting of Expanded Polystyrene Formwork</a></li>
 </ol>

@@ -8,7 +8,7 @@ search:
 
 # #identification
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../oztu_borg_ince.2026.3PitCS/">3D Printing in the Construction Sector:<br/>Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature</a></li>
   <li><a href="../../../author/dabbaghisouraki_farshad"><b>Dabbaghisouraki</b> Farshad</a>, <a href="../../../author/tanhadoust_amin"><b>Tanhadoust</b> Amin</a>, <a href="../../../author/nehdi_l_moncef"><b>Nehdi</b> Moncef</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dabb_tanh_nehd.2025.FRSi3CP/">Fiber Reinforcement Strategies in 3D Concrete Printing:<br/>Addressing Challenges and Identifying Research Gaps</a></li>
   <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a>, <a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../komp_levi_ferr.2025.IIFPi3PCSvMFT/">Identifying Interlayer Fracture Properties in 3D Printed Concrete Specimens via Multidirectional Flexural Tests</a></li>

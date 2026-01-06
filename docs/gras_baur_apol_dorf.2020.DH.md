@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Konrad Graser, Marco Baur, Aleksandra Apolinarska, Kathrin Dörfler, Norman Hack, Mihail-Andrei Jipa, Ena Lloret-Fritschi, Timothy Sandy, Daniel Pont, Daniel Hall, Matthias Kohler
+    - footer
+title: Graser Konrad, Baur Marco, Apolinarska Aleksandra, Dörfler Kathrin, Hack Norman, Jipa Mihail-Andrei, Lloret-Fritschi Ena, Sandy Timothy, Pont Daniel, Hall Daniel, Kohler Matthias
 description:
 tags:
  - architecture
@@ -14,37 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.research-collection.ethz.ch/bitstream/20.500.11850/447227/2/j.ctv13xpsvw.21.pdf) DFAB House:<br/>:aca-blank: A Comprehensive Demonstrator of Digital Fabrication in Architecture ([2020-09](date/2020/09))
-<a href="https://doi.org/10.2307/j.ctv13xpsvw.21" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2307/j.ctv13xpsvw.21</a>
+#DFAB House&nbsp;([2020-09](date/2020/09))
+<div class="h1-like">A Comprehensive Demonstrator of Digital Fabrication in Architecture</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.research-collection.ethz.ch/bitstream/20.500.11850/447227/2/j.ctv13xpsvw.21.pdf) <a href="https://doi.org/10.2307/j.ctv13xpsvw.21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/j.ctv13xpsvw.21" target="_blank">10.2307/j.ctv13xpsvw.21</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8129-6787" title="ORCID: 0000-0001-8129-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/graser_konrad"><b>Graser</b>&nbsp;Konrad</a></span>, <a href="../../../author/baur_marco"><b>Baur</b>&nbsp;Marco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0821-4981" title="ORCID: 0000-0002-0821-4981" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/apolinarska_anna_aleksandra"><b>Apolinarska</b>&nbsp;Aleksandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jipa_mihail-andrei"><b>Jipa</b>&nbsp;Mihail-Andrei</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6777-0857" title="ORCID: 0000-0002-6777-0857" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sandy_timothy"><b>Sandy</b>&nbsp;Timothy</a></span>, <a href="../../../author/pont_sanz_daniel"><b>Pont</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0957-484X" title="ORCID: 0000-0002-0957-484X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hall_m_daniel"><b>Hall</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
+Contribution - Fabricate 2020
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a> <a href="https://orcid.org/0000-0001-8129-6787" title="ORCID: 0000-0001-8129-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>
-,     <a href="../../../author/apolinarska_anna_aleksandra"><b>Apolinarska</b> Aleksandra</a> <a href="https://orcid.org/0000-0002-0821-4981" title="ORCID: 0000-0002-0821-4981" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> <a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sandy_timothy"><b>Sandy</b> Timothy</a> <a href="https://orcid.org/0000-0002-6777-0857" title="ORCID: 0000-0002-6777-0857" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pont_sanz_daniel"><b>Pont</b> Daniel</a>
-,     <a href="../../../author/hall_m_daniel"><b>Hall</b> Daniel</a> <a href="https://orcid.org/0000-0002-0957-484X" title="ORCID: 0000-0002-0957-484X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Fabricate 2020, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#comprehension`](keyword/comprehension)
-    [`#demonstration`](keyword/demonstration)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#house`](keyword/house)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/demonstration"><button class="btn">#demonstration</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=DFAB%20House" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,21 +37,16 @@ tags:
 <a href="https://inciteful.xyz/p/W3045078199" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2307/j.ctv13xpsvw.21" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2307/j.ctv13xpsvw.21?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper describes the making of DFAB HOUSE,  a multi-technology demonstrator of digital fabrication  in architecture, engineering and construction (AEC). While most individual digital fabrication technologies used to build DFAB HOUSE have been presented independently at conferences and in journal articles,  this paper describes how, in concert, they amount to  an architectural achievement that is more than the  sum of its parts. To do this, the paper does three things:  it describes the process of conceiving and delivering  the overall project; secondly, it highlights challenges in implementation; and finally it discusses the significance of DFAB HOUSE in the context of a rapidly transforming architectural research and practice.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/sandy_timothy"><b>Sandy</b> Timothy</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorf_hack_sand_gift.2019.MRFBFC/">Mobile Robotic Fabrication Beyond Factory Conditions:<br/>Case Study Mesh Mould Wall of the DFAB HOUSE</a></li>
-      <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>, <a href="../../../author/apolinarska_anna_aleksandra"><b>Apolinarska</b> Aleksandra</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../gras_baur_apol_dorf.2020.DH/">DFAB House:<br/>A Comprehensive Demonstrator of Digital Fabrication in Architecture</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a> et al. <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../kuma_hack_dorf_walz.2017.DDaEAoaREEfNSCA/">Design, Development and Experimental Assessment of a Robotic End-Effector for Non-Standard Concrete Applications</a></li>
@@ -89,8 +62,8 @@ tags:
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/benros_deborah"><b>Benros</b> Deborah</a>, <a href="../../../author/hashemi_arman"><b>Hashemi</b> Arman</a>, <a href="../../../author/yunsheng_su"><b>Yunsheng</b> Su</a>, <a href="../../../author/callaghan_carl"><b>Callaghan</b> Carl</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../benr_hash_yuns_call.2025.RMH/">Robotic Micro-House:<br/>Experience with 3D Concrete Printing for Housing Construction</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
       <li><a href="../../../author/benros_deborah"><b>Benros</b> Deborah</a>, <a href="../../../author/hashemi_arman"><b>Hashemi</b> Arman</a>, <a href="../../../author/yungshen_su"><b>Yungshen</b> Su</a>, <a href="../../../author/dungrani_mohan"><b>Dungrani</b> Mohan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../benr_hash_yung_dung.2024.MHURM/">Micro-House Using Robotic Manufacturing</a></li>
@@ -102,7 +75,34 @@ tags:
       <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/kahlert_aniko"><b>Kahlert</b> Aniko</a>, <a href="../../../author/hall_m_daniel"><b>Hall</b> Daniel</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../gras_kahl_hall.2021.DH/">DFAB HOUSE:<br/>Implications of a Building-Scale Demonstrator for Adoption of Digital Fabrication in AEC</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/lopez_william"><b>Lopez</b> William</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../hack_baha_huhn_lope.2021.DoaRBMDDFWPfAMUS3P/">Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/adel_arash"><b>Adel</b> Arash</a>, <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>, <a href="../../../author/pont_sanz_daniel"><b>Pont</b> Daniel</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gras_adel_baur_pont.2021.PPoI/">Parallel Paths of Inquiry:<br/>Detailing for DFAB HOUSE</a></li>
-      <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>, <a href="../../../author/apolinarska_anna_aleksandra"><b>Apolinarska</b> Aleksandra</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../gras_baur_apol_dorf.2020.DH/">DFAB House:<br/>A Comprehensive Demonstrator of Digital Fabrication in Architecture</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gras_baur_apol_dorf.2020.DH,
+      author            = "Konrad Graser and Marco Baur and Aleksandra Anna Apolinarska and Kathrin Dörfler and Norman Peter Hack and Mihail-Andrei Jipa and Ena Lloret-Fritschi and Timothy Sandy and Daniel Sanz Pont and Daniel M. Hall and Matthias Daniel Kohler",
+      title             = "DFAB House: A Comprehensive Demonstrator of Digital Fabrication in Architecture",
+      doi               = "10.2307/j.ctv13xpsvw.21",
+      year              = "2020",
+      booktitle         = "Fabricate 2020",
+      editor            = "Jane Burry and Jenny Sabin and Bob Sheil and Marilena Skavara",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Graser, “DFAB House: A Comprehensive Demonstrator of Digital Fabrication in Architecture”, in <i>Fabricate 2020</i>,  2020. doi: 10.2307/j.ctv13xpsvw.21.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Graser, Konrad, Marco Baur, Aleksandra Anna Apolinarska, Kathrin Dörfler, Norman Peter Hack, Mihail-Andrei Jipa, Ena Lloret-Fritschi, et al.. “DFAB House: A Comprehensive Demonstrator of Digital Fabrication in Architecture”. In <i>Fabricate 2020</i>, edited by Jane Burry, Jenny Sabin, Bob Sheil, and Marilena Skavara, 2020. https://doi.org/10.2307/j.ctv13xpsvw.21.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

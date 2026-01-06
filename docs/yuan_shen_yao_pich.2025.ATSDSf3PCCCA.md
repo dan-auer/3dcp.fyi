@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yong Yuan, Ruyi Sheng, Xupeng Yao, Bernhard Pichler, Herbert Mang, Jiao-Long Zhang
+    - footer
+title: Yuan Yong, Sheng Ruyi, Yao Xupeng, Pichler Bernhard, Mang Herbert, Zhang Jiao-Long
 description:
 tags:
  - aggregate
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Three-Step Development Strategy for 3D Printable Concrete Containing Coarse Aggregates ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04540" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04540</a>
+#A Three-Step Development Strategy for 3D Printable Concrete Containing Coarse Aggregates ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2025.e04540" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04540" target="_blank">10.1016/j.cscm.2025.e04540</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <a href="../../../author/sheng_ruyi"><b>Sheng</b>&nbsp;Ruyi</a></span>, <a href="../../../author/yao_xupeng"><b>Yao</b>&nbsp;Xupeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6468-1840" title="ORCID: 0000-0002-6468-1840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pichler_l-a_bernhard"><b>Pichler</b>&nbsp;Bernhard</a></span>, <a href="../../../author/mang_a_herbert"><b>Mang</b>&nbsp;Herbert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1912-1414" title="ORCID: 0000-0002-1912-1414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_jiao-long"><b>Zhang</b>&nbsp;Jiao-Long</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04540
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sheng_ruyi"><b>Sheng</b> Ruyi</a>
-,     <a href="../../../author/yao_xupeng"><b>Yao</b> Xupeng</a>
-,     <a href="../../../author/pichler_l-a_bernhard"><b>Pichler</b> Bernhard</a> <a href="https://orcid.org/0000-0002-6468-1840" title="ORCID: 0000-0002-6468-1840" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mang_a_herbert"><b>Mang</b> Herbert</a>
-,     <a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a> <a href="https://orcid.org/0000-0002-1912-1414" title="ORCID: 0000-0002-1912-1414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04540
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#development`](keyword/development)
-    [`#printability`](keyword/printability)
-    [`#step`](keyword/step)
-    [`#strategy`](keyword/strategy)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/step"><button class="btn">#step</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Three-Step%20Development%20Strategy%20for%203D%20Printable%20Concrete%20Containing%20Coarse%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000520354&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408541590" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04540" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04540?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of coarse aggregates in 3D printable concrete (3DPC) reduces the amount of cement. However, it presents challenges for 3D printing process. In this study, a three-step strategy is proposed for the development of 3DPC, containing coarse aggregates with a maximum particle size of 20 mm. This strategy integrates all stages of the 3D printing process, categorizing the stages of the concrete into the flow-state stage, the structural build-up stage, and the hardened-state stage. The 3DPC mix ratio is determined on the basis of experimental testing and predictive modeling. Experimental studies are conducted, using the mix ratios obtained from this strategy, followed by trial printing tests. The results indicate the usefulness of the three-step strategy. It is efficient to control the flowability in the flow-state stage and the mechanical properties in the structural build-up stage of 3DPC by adjusting the dosage of polycarboxylate ether superplasticizer and aluminum sulfate-based accelerator.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -101,10 +76,39 @@ tags:
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/wang_suguo"><b>Wang</b> Suguo</a>, <a href="../../../author/wang_xing"><b>Wang</b> Xing</a>, <a href="../../../author/yan_xueyuan"><b>Yan</b> Xueyuan</a>, <a href="../../../author/chen_shanghong"><b>Chen</b> Shanghong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_wang_yan_chen.2025.EoASaNDoPaMPo3PFSGC/">Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yuan_shen_yao_pich.2025.ATSDSf3PCCCA,
+      author            = "Yong Yuan and Ruyi Sheng and Xupeng Yao and Bernhard L. A. Pichler and Herbert A. Mang and Jiao-Long Zhang",
+      title             = "A Three-Step Development Strategy for 3D Printable Concrete Containing Coarse Aggregates",
+      doi               = "10.1016/j.cscm.2025.e04540",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04540",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yuan, R. Sheng, X. Yao, B. L. A. Pichler, H. A. Mang and J.-L. Zhang, “A Three-Step Development Strategy for 3D Printable Concrete Containing Coarse Aggregates”, <i>Case Studies in Construction Materials</i>, p. e04540, 2025, doi: 10.1016/j.cscm.2025.e04540.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Yong, Ruyi Sheng, Xupeng Yao, Bernhard L. A. Pichler, Herbert A. Mang, and Jiao-Long Zhang. “A Three-Step Development Strategy for 3D Printable Concrete Containing Coarse Aggregates”. <i>Case Studies in Construction Materials</i>, 2025, e04540. https://doi.org/10.1016/j.cscm.2025.e04540.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

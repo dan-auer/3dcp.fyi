@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Leonardo Souza Dias, Marcos Anjos, Marcella Barbosa, Ulisses Bezerra
+    - footer
+title: Souza Dias Leonardo, Anjos Marcos, Barbosa Marcella, Bezerra Ulisses
 description:
 tags:
  - 3dcp
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.scielo.br/j/ce/a/3hVWmvzDyg8QkHBMNBw84KJ/?lang=en&format=pdf) Evaluation of Mix-Design Parameters Based on Basic Constitutive-Relationships for 3DCP Printing ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1590/zxbr6170" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1590/zxbr6170</a>
+#Evaluation of Mix-Design Parameters Based on Basic Constitutive-Relationships for 3DCP Printing ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.scielo.br/j/ce/a/3hVWmvzDyg8QkHBMNBw84KJ/?lang=en&format=pdf) <a href="https://doi.org/10.1590/zxbr6170" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1590/zxbr6170" target="_blank">10.1590/zxbr6170</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5925-2171" title="ORCID: 0000-0001-5925-2171" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza-dias_leonardo"><b>de&nbsp;Souza Dias</b>&nbsp;Leonardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9563-2534" title="ORCID: 0000-0001-9563-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anjos_alyssandro-soares_marcos"><b>dos&nbsp;Anjos</b>&nbsp;Marcos</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2750-0756" title="ORCID: 0000-0002-2750-0756" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b>&nbsp;Marcella</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6008-3600" title="ORCID: 0000-0001-6008-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bezerra_t_ulisses"><b>Bezerra</b>&nbsp;Ulisses</a></span><br>
+Journal Article - Cerâmica, Vol. 70
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/souza-dias_leonardo"><b>de Souza Dias</b> Leonardo</a> <a href="https://orcid.org/0000-0001-5925-2171" title="ORCID: 0000-0001-5925-2171" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/anjos_alyssandro-soares_marcos"><b>dos Anjos</b> Marcos</a> <a href="https://orcid.org/0000-0001-9563-2534" title="ORCID: 0000-0001-9563-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a> <a href="https://orcid.org/0000-0002-2750-0756" title="ORCID: 0000-0002-2750-0756" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bezerra_t_ulisses"><b>Bezerra</b> Ulisses</a> <a href="https://orcid.org/0000-0001-6008-3600" title="ORCID: 0000-0001-6008-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cerâmica, Vol. 70, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#base`](keyword/base)
-    [`#constitutive`](keyword/constitutive)
-    [`#design`](keyword/design)
-    [`#evaluation`](keyword/evaluation)
-    [`#mixing`](keyword/mixing)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#relation`](keyword/relation)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Mix-Design%20Parameters%20Based%20on%20Basic%20Constitutive-Relationships%20for%203DCP%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200344771&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400855051" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1590/zxbr6170" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1590/zxbr6170?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Six printing mixtures with variations in cement:sand ratios (in mass) were analyzed, keeping the water/dry material ratio constant, evaluating their printability, considering visual aspects, pumpability and filament integrity. The mixtures were subjected to mini-slump tests, spread on a consistency table, squeeze-flow, and deformation under load of the printed filaments at printing intervals of 0 min, 15 min and 30 min, and then the proportions of the compatible mixtures were determined with the print. The properties in the hardened state, resistance to bending and compression, adhesion between layers, specific mass and voids index were determined for specimens extracted from printed parts. It was possible to observe that for the printing system used there is an ideal range for these constitutive relationships, and that the mixtures, even with different viscosities, measured according to the squeeze flow, can be printable, provided they meet the ideal ranges for the determined relationships. Regarding the interface of the printed layers, these are critical points of fragility, due to factors such as the formation of regions with voids and loss of surface moisture, which favors the reduction of the mechanical performance of the parts, with the increase in the deposition time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -104,7 +81,36 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{souz_anjo_barb_beze.2024.EoMDPBoBCRf3P,
+      author            = "Leonardo de Souza Dias and Marcos Alyssandro Soares dos Anjos and Marcella Sena Barbosa and Ulisses T. Bezerra",
+      title             = "Evaluation of Mix-Design Parameters Based on Basic Constitutive-Relationships for 3DCP Printing",
+      doi               = "10.1590/zxbr6170",
+      year              = "2024",
+      journal           = "Cerâmica",
+      volume            = "70",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. de Souza Dias, M. A. S. dos Anjos, M. S. Barbosa and U. T. Bezerra, “Evaluation of Mix-Design Parameters Based on Basic Constitutive-Relationships for 3DCP Printing”, <i>Cerâmica</i>, vol. 70, 2024, doi: 10.1590/zxbr6170.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Souza Dias, Leonardo de, Marcos Alyssandro Soares dos Anjos, Marcella Sena Barbosa, and Ulisses T. Bezerra. “Evaluation of Mix-Design Parameters Based on Basic Constitutive-Relationships for 3DCP Printing”. <i>Cerâmica</i> 70 (2024). https://doi.org/10.1590/zxbr6170.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

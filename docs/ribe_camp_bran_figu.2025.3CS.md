@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: João Ribeiro, Tatiana Campos, Filipe Brandão, Bruno Figueiredo, Paulo Cruz
+    - footer
+title: Ribeiro João, Campos Tatiana, Brandão Filipe, Figueiredo Bruno, Cruz Paulo
 description:
 tags:
  - 3dcp
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s44150-025-00162-2.pdf) 3DCP Composite Systems:<br/>:aca-blank: Additive Manufacturing of a Concrete and Cellulose Interlocking Wall ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1007/s44150-025-00162-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s44150-025-00162-2</a>
+#3DCP Composite Systems&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Additive Manufacturing of a Concrete and Cellulose Interlocking Wall</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44150-025-00162-2.pdf) <a href="https://doi.org/10.1007/s44150-025-00162-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44150-025-00162-2" target="_blank">10.1007/s44150-025-00162-2</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0908-3503" title="ORCID: 0000-0003-0908-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro_joao"><b>Ribeiro</b>&nbsp;João</a></span>, <a href="../../../author/campos_tatiana"><b>Campos</b>&nbsp;Tatiana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3378-0176" title="ORCID: 0000-0002-3378-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b>&nbsp;Filipe</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_bruno"><b>Figueiredo</b>&nbsp;Bruno</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b>&nbsp;Paulo</a></span><br>
+Journal Article - Architecture, Structures and Construction, Vol. 5, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a> <a href="https://orcid.org/0000-0003-0908-3503" title="ORCID: 0000-0003-0908-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/campos_tatiana"><b>Campos</b> Tatiana</a>
-,     <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> <a href="https://orcid.org/0000-0002-3378-0176" title="ORCID: 0000-0002-3378-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> <a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architecture, Structures and Construction, Vol. 5, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#additive`](keyword/additive)
-    [`#cellulose`](keyword/cellulose)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#interlocking`](keyword/interlocking)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#system`](keyword/system)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3DCP%20Composite%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019191134&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411384673" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s44150-025-00162-2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s44150-025-00162-2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explores the sequential use of Additive Manufacturing with two distinct materials– concrete and cellulose– for the fabrication of a modular hybrid wall system made up of a set of uniquely shaped, self-supporting interlocking blocks. At a functional level, the proposed system is composed of two layers: (1) a 3D-printed structural concrete panel which forms the exterior finish and ensures the fit between components; and (2) a 3D-printed cellulose coating that forms the interior finish of the wall and plays the role of acoustic insulator through a formal optimization process. Furthermore, the block design supports dry assembly and disassembly, aligning with principles of Design for Disassembly and promoting reusability. A full-scale wall section is prototyped and compared to its digital model to evaluate geometric conformity and assembly performance. This research underscores both the potential and current limitations of combining 3D Concrete Printing with 3D-printed biomaterials, advancing towards prefabrication solutions for adaptable, circular construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abstoss_marvin"><b>Abstoß</b> Marvin</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../abst_funk_gelb.2024.PoHPFEUPPCEaM/">Production of High-Precision Formwork Elements Using Parametrically Programmed Concrete-Extrusion and Machining</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../anto_dill.2024.TaS3CPA/">Towards a Sustainable 3D‐Concrete‐Printed Architecture:<br/>Assemblies, Detailing and Ornamentation</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/lin_wei_che"><b>Lin</b> Che</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/wang_mingyang"><b>Wang</b> Mingyang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../anto_lin_skev_wang.2024.TA/">Tor Alva:<br/>A 3D Concrete Printed Tower</a></li>
@@ -94,7 +71,37 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/patankar_yamini"><b>Patankar</b> Yamini</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_pata_flat.2024.SDC/">Sustainable Digital Concrete:<br/>Myth, Reality or Emerging Opportunity?</a></li>
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ribe_camp_bran_figu.2025.3CS,
+      author            = "João Ribeiro and Tatiana Campos and Filipe Jorge da Silva Brandão and Bruno Figueiredo and Paulo Jorge Sousa Cruz",
+      title             = "3DCP Composite Systems: Additive Manufacturing of a Concrete and Cellulose Interlocking Wall",
+      doi               = "10.1007/s44150-025-00162-2",
+      year              = "2025",
+      journal           = "Architecture, Structures and Construction",
+      volume            = "5",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Ribeiro, T. Campos, F. J. da Silva Brandão, B. Figueiredo and P. J. S. Cruz, “3DCP Composite Systems: Additive Manufacturing of a Concrete and Cellulose Interlocking Wall”, <i>Architecture, Structures and Construction</i>, vol. 5, no. 2, 2025, doi: 10.1007/s44150-025-00162-2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ribeiro, João, Tatiana Campos, Filipe Jorge da Silva Brandão, Bruno Figueiredo, and Paulo Jorge Sousa Cruz. “3DCP Composite Systems: Additive Manufacturing of a Concrete and Cellulose Interlocking Wall”. <i>Architecture, Structures and Construction</i> 5, no. 2 (2025). https://doi.org/10.1007/s44150-025-00162-2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

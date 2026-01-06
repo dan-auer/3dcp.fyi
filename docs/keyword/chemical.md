@@ -8,7 +8,7 @@ search:
 
 # #chemical
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wei_jingjie"><b>Wei</b> Jingjie</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wei_khay.2025.EoCAoPoLC3PM/">Effect of Chemical Additives on Performance of Low-Clinker 3D Printing Mortar</a></li>
   <li><a href="../../../author/li_long"><b>Li</b> Long</a>, <a href="../../../author/ji_weiyi"><b>Ji</b> Weiyi</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/xiao_jie"><b>Xiao</b> Jie</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_ji_xiao_xiao.2025.SfIBo3PCUCMaCA/">Strategy for Improving Buildability of 3D Printing Concrete Using CO2 Mixing and Chemical Admixtures</a></li>
   <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zou_cunjun"><b>Zou</b> Cunjun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../luo_zhao_yao_zou.2025.3PCITBoPaCM/">3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods:<br/>A Review</a></li>

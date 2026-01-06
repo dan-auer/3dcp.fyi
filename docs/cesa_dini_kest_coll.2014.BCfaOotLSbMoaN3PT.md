@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Giovanni Cesaretti, Enrico Dini, Xavier Kestelier, Valentina Colla, Laurent Pambaguian
+    - footer
+title: Cesaretti Giovanni, Dini Enrico, Kestelier Xavier, Colla Valentina, Pambaguian Laurent
 description:
 tags:
  - buildability
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology ([2013-08](date/2013/08))
-<a href="https://doi.org/10.1016/j.actaastro.2013.07.034" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.actaastro.2013.07.034</a>
+#Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology ([2013-08](date/2013/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.actaastro.2013.07.034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.actaastro.2013.07.034" target="_blank">10.1016/j.actaastro.2013.07.034</a>
 
--------------------------
+<a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b>&nbsp;Giovanni</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6323-3368" title="ORCID: 0000-0002-6323-3368" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dini_enrico"><b>Dini</b>&nbsp;Enrico</a></span>, <a href="../../../author/kestelier_xavier"><b>de&nbsp;Kestelier</b>&nbsp;Xavier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9574-0575" title="ORCID: 0000-0002-9574-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/colla_valentina"><b>Colla</b>&nbsp;Valentina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9994-0868" title="ORCID: 0000-0001-9994-0868" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pambaguian_laurent"><b>Pambaguian</b>&nbsp;Laurent</a></span><br>
+Journal Article - Acta Astronautica, Vol. 93, pp. 430-450
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>
-,     <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a> <a href="https://orcid.org/0000-0002-6323-3368" title="ORCID: 0000-0002-6323-3368" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kestelier_xavier"><b>de Kestelier</b> Xavier</a>
-,     <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> <a href="https://orcid.org/0000-0002-9574-0575" title="ORCID: 0000-0002-9574-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pambaguian_laurent"><b>Pambaguian</b> Laurent</a> <a href="https://orcid.org/0000-0001-9994-0868" title="ORCID: 0000-0001-9994-0868" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Acta Astronautica, Vol. 93, pp. 430-450
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#component`](keyword/component)
-    [`#print`](keyword/print)
-    [`#soil`](keyword/soil)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Building%20Components%20for%20an%20Outpost%20on%20the%20Lunar%20Soil%20by%20Means%20of%20a%20Novel%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84883341911&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,24 +35,20 @@ tags:
 <a href="https://inciteful.xyz/p/W1984025219" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.actaastro.2013.07.034" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.actaastro.2013.07.034?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printing technologies are receiving an always increasing attention in architecture, due to their potential use for direct construction of buildings and other complex structures, also of considerable dimensions, with virtually any shape. Some of these technologies rely on an agglomeration process of inert materials, e.g. sand, through a special binding liquid and this capability is of interest for the space community for its potential application to space exploration. In fact, it opens the possibility for exploiting in-situ resources for the construction of buildings in harsh spatial environments. The paper presents the results of a study aimed at assessing the concept of 3D printing technology for building habitats on the Moon using lunar soil, also called regolith. A particular patented 3D-printing technology – D-shape – has been applied, which is, among the existing rapid prototyping systems, the closest to achieving full scale construction of buildings and the physical and chemical characteristics of lunar regolith and terrestrial regolith simulants have been assessed with respect to the working principles of such technology. A novel lunar regolith simulant has also been developed, which almost exactly reproduces the characteristics of the JSC-1A simulant produced in the US. Moreover, tests in air and in vacuum have been performed to demonstrate the occurrence of the reticulation reaction with the regolith simulant. The vacuum tests also showed that evaporation or freezing of the binding liquid can be prevented through a proper injection method. The general requirements of a Moon outpost have been specified, and a preliminary design of the habitat has been developed. Based on such design, a section of the outpost wall has been selected and manufactured at full scale using the D-shape printer and regolith simulant. Test pieces have also been manufactured and their mechanical properties have been assessed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "215 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sara_rama.2025.EACBo3PM/">Early Age Creep Behavior of 3D Printable Mortar:<br/>Hydration and Viscoelasticity Coupling Model</a></li>
       <li><a href="../../../author/lyu_libo"><b>Lyu</b> Libo</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/yu_qiuchun"><b>Yu</b> Qiuchun</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lyu_li_deng_yu.2025.EPoMPCLSCUVCaI3PAfLDM/">Engineering Properties of Magnesium Phosphate Cement Lunar Soil Concrete Under Vacuum Conditions and Its 3D Printing Application for Lunar Dome Model</a></li>
@@ -285,4 +265,34 @@ tags:
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT,
+      author            = "Giovanni Cesaretti and Enrico Dini and Xavier de Kestelier and Valentina Colla and Laurent Pambaguian",
+      title             = "Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology",
+      doi               = "10.1016/j.actaastro.2013.07.034",
+      year              = "2014",
+      journal           = "Acta Astronautica",
+      volume            = "93",
+      pages             = "430--450",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Cesaretti, E. Dini, X. de Kestelier, V. Colla and L. Pambaguian, “Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology”, <i>Acta Astronautica</i>, vol. 93, pp. 430–450, 2014, doi: 10.1016/j.actaastro.2013.07.034.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cesaretti, Giovanni, Enrico Dini, Xavier de Kestelier, Valentina Colla, and Laurent Pambaguian. “Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology”. <i>Acta Astronautica</i> 93 (2014): 430–50. https://doi.org/10.1016/j.actaastro.2013.07.034.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

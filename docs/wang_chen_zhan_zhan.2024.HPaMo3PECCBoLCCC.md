@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuting Wang, Meng Chen, Tong Zhang, Mingzhong Zhang
+    - footer
+title: Wang Yuting, Chen Meng, Zhang Tong, Zhang Mingzhong
 description:
 tags:
  - base
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Hardening Properties and Microstructure of 3D Printed Engineered Cementitious Composites Based on Limestone-Calcined-Clay-Cement ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105641" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105641</a>
+#Hardening Properties and Microstructure of 3D Printed Engineered Cementitious Composites Based on Limestone-Calcined-Clay-Cement ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105641" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105641" target="_blank">10.1016/j.cemconcomp.2024.105641</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-7345-0562" title="ORCID: 0009-0007-7345-0562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yuting"><b>Wang</b>&nbsp;Yuting</a></span>, <a href="../../../author/chen_meng"><b>Chen</b>&nbsp;Meng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_tong"><b>Zhang</b>&nbsp;Tong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_mingzhong"><b>Zhang</b>&nbsp;Mingzhong</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 152, No. 105641
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="https://orcid.org/0009-0007-7345-0562" title="ORCID: 0009-0007-7345-0562" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>
-,     <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 152, No. 105641
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#hardened`](keyword/hardened)
-    [`#limestone`](keyword/limestone)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hardening%20Properties%20and%20Microstructure%20of%203D%20Printed%20Engineered%20Cementitious%20Composites%20Based%20on%20Limestone-Calcined-Clay-Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197657833&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400348720" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105641" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105641?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Comparison of three-dimensional (3D) printing and cast methods on the mechanical properties of cementitious materials is the basis for intelligent construction development. To achieve this, a series of experiments including the uniaxial tensile, compressive, flexural and interlayer bonding tests of mould-cast and 3D printed (3DP) specimens are conducted to investigate the effects of different preparation technologies on the microstructure and hardening properties of limestone calcined clay cement (LC3) based engineered cementitious composites (ECC). Results indicate that the tensile strength and strain capacity of the printed LC3-ECC decrease by 16.6%–22.7 % and 43.3%–54.6 % compared to the cast specimens, while it still possesses a strain capacity of 2 % and multiple cracking behaviour. The compressive and flexural properties of the printed LC3-ECC both show significant anisotropy, the maximum values of which are observed in the Z- and Y- directions, respectively. The interlayer bonding strength increases by 54.3%–91.9 % at 28 d compared to that at 7 d due to the hydration of LC3. The pore structure of the printed LC3-ECC is denser than that of the cast LC3-ECC, with more regular arrangement and finer size of pores. The macro-micro properties correlation analysis proves the better comprehensive performance of printed LC3-ECC relative to casted LC3-ECC, as well as reveals the relationship between pore structure and anisotropy. In terms of material sustainability, 3DP-LC3-ECC has a significant reduction in energy and carbon emissions compared to typical M45-ECC, contributing to the environmental development.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
@@ -108,8 +84,8 @@ tags:
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
@@ -129,4 +105,34 @@ tags:
       <li><a href="../../../author/silvestro_laura"><b>Silvestro</b> Laura</a>, <a href="../../../author/ribeiro_scoczynski_rodrigo"><b>Ribeiro</b> Rodrigo</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../silv_ribe_nava.2024.AiLCECf3P/">Advancements in Low Carbon-Emission Cements for 3D Printing:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/gyawali_biva"><b>Gyawali</b> Biva</a>, <a href="../../../author/haghnazar_ramtin"><b>Haghnazar</b> Ramtin</a>, <a href="../../../author/akula_pavan"><b>Akula</b> Pavan</a>, <a href="../../../author/alba_kamran"><b>Alba</b> Kamran</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../gyaw_hagh_akul_alba.2024.ARo3PwCaSNF/">A Review on 3D Printing with Clay and Sawdust/Natural Fibers:<br/>Printability, Rheology, Properties, and Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_chen_zhan_zhan.2024.HPaMo3PECCBoLCCC,
+      author            = "Yuting Wang and Meng Chen and Tong Zhang and Mingzhong Zhang",
+      title             = "Hardening Properties and Microstructure of 3D Printed Engineered Cementitious Composites Based on Limestone-Calcined-Clay-Cement",
+      doi               = "10.1016/j.cemconcomp.2024.105641",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "152",
+      pages             = "105641",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, M. Chen, T. Zhang and M. Zhang, “Hardening Properties and Microstructure of 3D Printed Engineered Cementitious Composites Based on Limestone-Calcined-Clay-Cement”, <i>Cement and Concrete Composites</i>, vol. 152, p. 105641, 2024, doi: 10.1016/j.cemconcomp.2024.105641.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yuting, Meng Chen, Tong Zhang, and Mingzhong Zhang. “Hardening Properties and Microstructure of 3D Printed Engineered Cementitious Composites Based on Limestone-Calcined-Clay-Cement”. <i>Cement and Concrete Composites</i> 152 (2024): 105641. https://doi.org/10.1016/j.cemconcomp.2024.105641.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manuel Jesus, Ana Guimarães, Bárbara Rangel, Jorge Alves
+    - footer
+title: Jesus Manuel, Guimarães Ana, Rangel Bárbara, Alves Jorge
 description:
 tags:
  - buildability
@@ -11,27 +12,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.emerald.com/insight/content/doi/10.1108/IJBPA-03-2022-0053/full/pdf?title=the-potential-of-3d-printing-in-building-pathology-rehabilitation-of-cultural-heritage) The Potential of 3D Printing in Building Pathology:<br/>:aca-blank: Rehabilitation of Cultural Heritage ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1108/ijbpa-03-2022-0053" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/ijbpa-03-2022-0053</a>
+#The Potential of 3D Printing in Building Pathology&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">Rehabilitation of Cultural Heritage</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.emerald.com/insight/content/doi/10.1108/IJBPA-03-2022-0053/full/pdf?title=the-potential-of-3d-printing-in-building-pathology-rehabilitation-of-cultural-heritage) <a href="https://doi.org/10.1108/ijbpa-03-2022-0053" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ijbpa-03-2022-0053" target="_blank">10.1108/ijbpa-03-2022-0053</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span><br>
+Journal Article - International Journal of Building Pathology and Adaptation, Vol. 41, Iss. 3, pp. 647-674
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a> <a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Building Pathology and Adaptation, Vol. 41, Iss. 3, pp. 647-674
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Potential%20of%203D%20Printing%20in%20Building%20Pathology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149300753&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4322629267" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/ijbpa-03-2022-0053" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/ijbpa-03-2022-0053?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The paper seeks to bridge the already familiar benefits of 3D printing (3DP) to the rehabilitation of cultural heritage, still based on the use of complex and expensive handcrafted techniques and scarce materials. Design/methodology/approach – A compilation of different information on frequent anomalies in cultural heritage buildings and commonly used materials is conducted; subsequently, some innovative techniques used in the construction sector (3DP and 3D scanning) are addressed, as well as some case studies related to the rehabilitation of cultural heritage building elements, leading to a reflection on the opportunities and challenges of this application within these types of buildings. The compilation of information summarised in the paper provided a clear reflection on the great potential of 3DP for cultural heritage rehabilitation, requiring the development of new mixtures (lime mortars, for example) compatible with the existing surface and, eventually, incorporating some residues that may improve interesting properties; the design of different extruders, compatible with the new mixtures developed and the articulation of 3D printers with the available mapping tools (photogrammetry and laser scanning) to reproduce the component as accurately as possible. This paper sets the path for a new application of 3DP in construction, namely in the field of cultural heritage rehabilitation, by identifying some key opportunities, challenges and for designing the process flow associated with the different technologies involved.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -82,11 +66,42 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/lopes_joana"><b>Lopes</b> Joana</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../jesu_lope_teix_guim.2026.AoSCPo3PBE/">Application of Self-Cleaning Products on 3D-Printed Building Elements:<br/>An Experimental Study</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../jesu_teix_guim_rang.2025.F3SDoCHAt3PPBoCaLBM/">From 3D Survey Data of Cultural Heritage Artifacts to 3D Printed Prototypes Based on Cement and Lime-Based Mortars</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tarh_tarh_jacq_perr.2024.MBo3PaTREFC/">Mechanical Behavior of 3D Printed and Textile-Reinforced Eco-Friendly Composites</a></li>
       <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jesu_guim_rang_alve.2023.TPo3PiBP,
+      author            = "Manuel Jesus and Ana Sofia Guimarães and Bárbara Rangel and Jorge Lino Alves",
+      title             = "The Potential of 3D Printing in Building Pathology: Rehabilitation of Cultural Heritage",
+      doi               = "10.1108/ijbpa-03-2022-0053",
+      year              = "2023",
+      journal           = "International Journal of Building Pathology and Adaptation",
+      volume            = "41",
+      number            = "3",
+      pages             = "647--674",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Jesus, A. S. Guimarães, B. Rangel and J. L. Alves, “The Potential of 3D Printing in Building Pathology: Rehabilitation of Cultural Heritage”, <i>International Journal of Building Pathology and Adaptation</i>, vol. 41, no. 3, pp. 647–674, 2023, doi: 10.1108/ijbpa-03-2022-0053.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jesus, Manuel, Ana Sofia Guimarães, Bárbara Rangel, and Jorge Lino Alves. “The Potential of 3D Printing in Building Pathology: Rehabilitation of Cultural Heritage”. <i>International Journal of Building Pathology and Adaptation</i> 41, no. 3 (2023): 647–74. https://doi.org/10.1108/ijbpa-03-2022-0053.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

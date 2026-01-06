@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yanjuan Chen, Khadija Cheikh, Hubert Rahier
+    - footer
+title: Chen Yanjuan, Cheikh Khadija, Rahier Hubert
 description:
 tags:
  - activation
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2025.142536) Methodology for the Design and Optimization of Potassium Silicate-Activated Slag Used as the Binder of 3D Printable Materials ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142536" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142536</a>
+#Methodology for the Design and Optimization of Potassium Silicate-Activated Slag Used as the Binder of 3D Printable Materials ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2025.142536) <a href="https://doi.org/10.1016/j.conbuildmat.2025.142536" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142536" target="_blank">10.1016/j.conbuildmat.2025.142536</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5381-1144" title="ORCID: 0000-0002-5381-1144" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yanjuan"><b>Chen</b>&nbsp;Yanjuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheikh_khadija"><b>el&nbsp;Cheikh</b>&nbsp;Khadija</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6936-828X" title="ORCID: 0000-0002-6936-828X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahier_hubert"><b>Rahier</b>&nbsp;Hubert</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 490, No. 142536
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a> <a href="https://orcid.org/0000-0002-5381-1144" title="ORCID: 0000-0002-5381-1144" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheikh_khadija"><b>el Cheikh</b> Khadija</a> <a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahier_hubert"><b>Rahier</b> Hubert</a> <a href="https://orcid.org/0000-0002-6936-828X" title="ORCID: 0000-0002-6936-828X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 490, No. 142536
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#binder`](keyword/binder)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#optimization`](keyword/optimization)
-    [`#printability`](keyword/printability)
-    [`#silica`](keyword/silica)
-    [`#slag`](keyword/slag)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Methodology%20for%20the%20Design%20and%20Optimization%20of%20Potassium%20Silicate-Activated%20Slag%20Used%20as%20the%20Binder%20of%203D%20Printable%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010183379&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412427801" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142536" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142536?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explores the development of potassium silicate-activated ground granulated blast furnace slag (GGBFS) as a binder for 3D printable construction materials. The initial mix design was guided by slump tests to meet basic printability requirements. To further define the workable time frame, which referred to as the printing window, ultrasonic pulse velocity (UPV) testing was employed to monitor the setting behavior of the mixtures in real time. To address key challenges such as rapid setting and poor extrudability, the study implemented targeted mix design optimizations. These included the incorporation of pure silica, adjustments to sand content and grading, and fine-tuning of water dosage during the final mixing phase. These strategies successfully extended the printing window and improved the rheological behavior of the fresh mixtures. The optimized printable mixtures achieved compressive strengths up to 100 MPa at 90 days and a limited shrinkage below 0.8% at 300 days. These findings offer practical insights into improving the printability and performance of alkali-activated slag (AAS) systems, supporting their potential as sustainable binders for 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
@@ -92,7 +69,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_chei_rahi.2025.MftDaOoPSASUatBo3PM,
+      author            = "Yanjuan Chen and Khadija El Cheikh and Hubert Rahier",
+      title             = "Methodology for the Design and Optimization of Potassium Silicate-Activated Slag Used as the Binder of 3D Printable Materials",
+      doi               = "10.1016/j.conbuildmat.2025.142536",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "490",
+      pages             = "142536",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, K. E. Cheikh and H. Rahier, “Methodology for the Design and Optimization of Potassium Silicate-Activated Slag Used as the Binder of 3D Printable Materials”, <i>Construction and Building Materials</i>, vol. 490, p. 142536, 2025, doi: 10.1016/j.conbuildmat.2025.142536.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yanjuan, Khadija El Cheikh, and Hubert Rahier. “Methodology for the Design and Optimization of Potassium Silicate-Activated Slag Used as the Binder of 3D Printable Materials”. <i>Construction and Building Materials</i> 490 (2025): 142536. https://doi.org/10.1016/j.conbuildmat.2025.142536.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

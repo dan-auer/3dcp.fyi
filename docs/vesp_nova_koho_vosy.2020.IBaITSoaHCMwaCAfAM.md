@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnošt Vespalec, Josef Novák, Alena Kohoutková, Petr Vosynek, Jan Podroužek, David Škaroupka, Tomáš Zikmund, Jozef Kaiser, David Paloušek
+    - footer
+title: Vespalec Arnošt, Novák Josef, Kohoutková Alena, Vosynek Petr, Podroužek Jan, Škaroupka David, Zikmund Tomáš, Kaiser Jozef, Paloušek David
 description:
 tags:
  - additive
@@ -19,40 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/13/22/5147/pdf?version=1605514159) Interface Behavior and Interface Tensile Strength of a Hardened Concrete Mixture with a Coarse Aggregate for Additive Manufacturing ([2020-11](date/2020/11))
-<a href="https://doi.org/10.3390/ma13225147" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma13225147</a>
+#Interface Behavior and Interface Tensile Strength of a Hardened Concrete Mixture with a Coarse Aggregate for Additive Manufacturing ([2020-11](date/2020/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/13/22/5147/pdf?version=1605514159) <a href="https://doi.org/10.3390/ma13225147" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13225147" target="_blank">10.3390/ma13225147</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8415-4346" title="ORCID: 0000-0001-8415-4346" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vespalec_arnost"><b>Vespalec</b>&nbsp;Arnošt</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2105-8151" title="ORCID: 0000-0002-2105-8151" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/novak_josef"><b>Novák</b>&nbsp;Josef</a></span>, <a href="../../../author/kohoutkova_alena"><b>Kohoutková</b>&nbsp;Alena</a></span>, <a href="../../../author/vosynek_petr"><b>Vosynek</b>&nbsp;Petr</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0493-5922" title="ORCID: 0000-0003-0493-5922" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/podrouzek_jan"><b>Podroužek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7398-5080" title="ORCID: 0000-0001-7398-5080" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skaroupka_david"><b>Škaroupka</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2948-5198" title="ORCID: 0000-0003-2948-5198" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zikmund_tomas"><b>Zikmund</b>&nbsp;Tomáš</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7397-125X" title="ORCID: 0000-0002-7397-125X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaiser_jozef"><b>Kaiser</b>&nbsp;Jozef</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4668-8763" title="ORCID: 0000-0003-4668-8763" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/palousek_david"><b>Paloušek</b>&nbsp;David</a></span><br>
+Journal Article - Materials, Vol. 13, Iss. 22
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vespalec_arnost"><b>Vespalec</b> Arnošt</a> <a href="https://orcid.org/0000-0001-8415-4346" title="ORCID: 0000-0001-8415-4346" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/novak_josef"><b>Novák</b> Josef</a> <a href="https://orcid.org/0000-0002-2105-8151" title="ORCID: 0000-0002-2105-8151" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohoutkova_alena"><b>Kohoutková</b> Alena</a>
-,     <a href="../../../author/vosynek_petr"><b>Vosynek</b> Petr</a>
-,     <a href="../../../author/podrouzek_jan"><b>Podroužek</b> Jan</a> <a href="https://orcid.org/0000-0003-0493-5922" title="ORCID: 0000-0003-0493-5922" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skaroupka_david"><b>Škaroupka</b> David</a> <a href="https://orcid.org/0000-0001-7398-5080" title="ORCID: 0000-0001-7398-5080" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zikmund_tomas"><b>Zikmund</b> Tomáš</a> <a href="https://orcid.org/0000-0003-2948-5198" title="ORCID: 0000-0003-2948-5198" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaiser_jozef"><b>Kaiser</b> Jozef</a> <a href="https://orcid.org/0000-0002-7397-125X" title="ORCID: 0000-0002-7397-125X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/palousek_david"><b>Paloušek</b> David</a> <a href="https://orcid.org/0000-0003-4668-8763" title="ORCID: 0000-0003-4668-8763" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 13, Iss. 22, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#aggregate`](keyword/aggregate)
-    [`#behavior`](keyword/behavior)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#hardened`](keyword/hardened)
-    [`#interface`](keyword/interface)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mixture`](keyword/mixture)
-    [`#strength`](keyword/strength)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interface%20Behavior%20and%20Interface%20Tensile%20Strength%20of%20a%20Hardened%20Concrete%20Mixture%20with%20a%20Coarse%20Aggregate%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85096236918&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3102176962" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma13225147" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma13225147?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing technology (3DCP) is a relatively new technology that was first established in the 1990s. The main weakness of the technology is the interface strength between the extruded layers, which are deposited at different time intervals. Consequently, the interface strength is assumed to vary in relation to the time of concrete casting. The proposed experimental study investigated the behavior of a hardened concrete mixture containing coarse aggregates that were up to 8 mm in size, which is rather unusual for 3DCP technology. The resulting direct tensile strength at the layer interface was investigated for various time intervals of deposition from the initial mixing of concrete components. To better understand the material behavior at the layer interface area, computed tomography (CT) scanning was conducted, where the volumetric and area analysis enabled validation of the pore size and count distribution in accordance with the layer deposition process. The analyzed CT data related the macroscopic anisotropy and the resulting crack pattern to the temporal and spatial variability that is inherent to the additive manufacturing process at construction scales while providing additional insights into the porosity formation during the extrusion of the cementitious composite. The observed results contribute to previous investigations in this field by demonstrating the causal relationships, namely, how the interface strength development is determined by time, deposition process, and pore size distribution. Moreover, in regard to the printability of the proposed coarse aggregate mixture, the specific time interval is presented and its interplay with interface roughness and porosity is discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/du_shupeng"><b>Du</b> Shupeng</a> et al. <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../ji_ding_xiao_du.2019.A3PRMCPDS/">A 3D Printed Ready-Mixed Concrete Power-Distribution Substation:<br/>Materials and Construction Technology</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -90,8 +60,8 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zou_cunjun"><b>Zou</b> Cunjun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../luo_zhao_yao_zou.2025.3PCITBoPaCM/">3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods:<br/>A Review</a></li>
       <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/li_bin"><b>Li</b> Bin</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../wang_li_chen.2025.EPaMPo3PMPCTSFM/">Enhancing Printability and Mechanical Performance of 3D Printed Magnesium Phosphate Cement Through Silica Fume Modification:<br/>Rheological, Microstructural, and Numerical Insights</a></li>
@@ -109,4 +79,34 @@ tags:
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../heev_ples_best_krug.2022.AMERMMtaMMGCSCMf3PC/">A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete</a></li>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/tan_ze-mei_jolyn"><b>Tan</b> Jolyn</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../he_tan_chow_li.2021.DoNNfHILSo3PCP/">Design of Novel Nozzles for Higher Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vesp_nova_koho_vosy.2020.IBaITSoaHCMwaCAfAM,
+      author            = "Arnošt Vespalec and Josef Novák and Alena Kohoutková and Petr Vosynek and Jan Podroužek and David Škaroupka and Tomáš Zikmund and Jozef Kaiser and David Paloušek",
+      title             = "Interface Behavior and Interface Tensile Strength of a Hardened Concrete Mixture with a Coarse Aggregate for Additive Manufacturing",
+      doi               = "10.3390/ma13225147",
+      year              = "2020",
+      journal           = "Materials",
+      volume            = "13",
+      number            = "22",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Vespalec, “Interface Behavior and Interface Tensile Strength of a Hardened Concrete Mixture with a Coarse Aggregate for Additive Manufacturing”, <i>Materials</i>, vol. 13, no. 22, 2020, doi: 10.3390/ma13225147.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vespalec, Arnošt, Josef Novák, Alena Kohoutková, Petr Vosynek, Jan Podroužek, David Škaroupka, Tomáš Zikmund, Jozef Kaiser, and David Paloušek. “Interface Behavior and Interface Tensile Strength of a Hardened Concrete Mixture with a Coarse Aggregate for Additive Manufacturing”. <i>Materials</i> 13, no. 22 (2020). https://doi.org/10.3390/ma13225147.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

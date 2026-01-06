@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jinyi Ma, Haiyan Zhang, Yanzhi Wang, Lu Xiong, Xiang Wu
+    - footer
+title: Ma Jinyi, Zhang Haiyan, Wang Yanzhi, Xiong Lu, Wu Xiang
 description:
 tags:
  - aggregate
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Clay Brick Powder and Recycled Fine Aggregates on Properties of 3D Printed Concrete After High Temperature Exposure ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142676" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142676</a>
+#Effect of Clay Brick Powder and Recycled Fine Aggregates on Properties of 3D Printed Concrete After High Temperature Exposure ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142676" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142676" target="_blank">10.1016/j.conbuildmat.2025.142676</a>
 
--------------------------
+<a href="../../../author/ma_jinyi"><b>Ma</b>&nbsp;Jinyi</a></span>, <a href="../../../author/zhang_haiyan"><b>Zhang</b>&nbsp;Haiyan</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-9971-4333" title="ORCID: 0009-0004-9971-4333" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yanzhi"><b>Wang</b>&nbsp;Yanzhi</a></span>, <a href="../../../author/xiong_lu"><b>Xiong</b>&nbsp;Lu</a></span>, <a href="../../../author/wu_xiang"><b>Wu</b>&nbsp;Xiang</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 491, No. 142676
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ma_jinyi"><b>Ma</b> Jinyi</a>
-,     <a href="../../../author/zhang_haiyan"><b>Zhang</b> Haiyan</a>
-,     <a href="../../../author/wang_yanzhi"><b>Wang</b> Yanzhi</a> <a href="https://orcid.org/0009-0004-9971-4333" title="ORCID: 0009-0004-9971-4333" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiong_lu"><b>Xiong</b> Lu</a>
-,     <a href="../../../author/wu_xiang"><b>Wu</b> Xiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 491, No. 142676
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#brick`](keyword/brick)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#exposure`](keyword/exposure)
-    [`#fine`](keyword/fine)
-    [`#height`](keyword/height)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Clay%20Brick%20Powder%20and%20Recycled%20Fine%20Aggregates%20on%20Properties%20of%203D%20Printed%20Concrete%20After%20High%20Temperature%20Exposure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010557434&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412461397" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142676" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142676?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To enhance the sustainability of 3D printed concrete (3DPC), this study investigates the synergistic utilization of recycled fine aggregate (RFA) and clay brick powder (CBP) as partial replacements for natural fine aggregate and cement, respectively. The primary objectives were to evaluate the effects of this combined substitution on the residual mechanical performance and crack evolution patterns of 3DPC specimens after exposure to elevated temperatures, aiming to develop a cost-effective, low-carbon 3DPC with enhanced thermal resilience. 3DPC mixtures and its mold-cast counterpart with 50 % RFA and 10 % CBP, alongside control specimens (without recycled materials), were exposed to temperatures ranging from 20 °C to 800 °C for 1 or 2 h. Post-exposure, residual compressive strength and crack patterns were analyzed. Microstructural evolution, including pore structure changes and phase transformations, was characterized using mercury intrusion porosimetry (MIP), sorptivity tests, and X-ray diffraction (XRD) to elucidate underlying degradation mechanisms. Test results demonstrate that although the incorporation of 10 % CBP and 50 % RFA reduced the compressive strength at ambient temperature, it significantly enhanced the residual strength retention rate after high-temperature exposure, due to the crack-inhibiting and internal curing effect provided by CBP and RFA. However, the internal curing effect was evident only at temperatures below 400 °C and for retaining times of 1 h or less. Although a similar degradation trend in the residual compressive strength with the increasing temperature was observed for 3DPC and mold-cast concrete having the same formulation, 3DPC exhibited unique cracking patterns, with cracks preferentially propagating along interlayer and interstrip interfaces due to steam channeling, contrasting with the dispersed cracking in mold-cast counterparts. Furthermore, the addition of recycled materials amplified the anisotropy of 3DPC at both ambient and elevated temperatures, with a minimum anisotropy observed at 200 °C due to directional strength variations. This work highlights the potential of using recycled materials in 3DPC to enhance its high temperature performance, providing valuable insights for sustainable 3D printing in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a>, <a href="../../../author/moelich_migael"><b>Moelich</b> Migael</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chri_zijl_vill_moel.2023.VSoTPoPCMIRBAi3PC/">Validated Simulation of Thermal Performance of Phase-Change-Material-Infused Recycled Brick-Aggregate in 3D Printed Concrete</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
@@ -94,9 +66,39 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ma_zhan_wang_xion.2025.EoCBPaRFAoPo3PCAHTE,
+      author            = "Jinyi Ma and Haiyan Zhang and Yanzhi Wang and Lu Xiong and Xiang Wu",
+      title             = "Effect of Clay Brick Powder and Recycled Fine Aggregates on Properties of 3D Printed Concrete After High Temperature Exposure",
+      doi               = "10.1016/j.conbuildmat.2025.142676",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "491",
+      pages             = "142676",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Ma, H. Zhang, Y. Wang, L. Xiong and X. Wu, “Effect of Clay Brick Powder and Recycled Fine Aggregates on Properties of 3D Printed Concrete After High Temperature Exposure”, <i>Construction and Building Materials</i>, vol. 491, p. 142676, 2025, doi: 10.1016/j.conbuildmat.2025.142676.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ma, Jinyi, Haiyan Zhang, Yanzhi Wang, Lu Xiong, and Xiang Wu. “Effect of Clay Brick Powder and Recycled Fine Aggregates on Properties of 3D Printed Concrete After High Temperature Exposure”. <i>Construction and Building Materials</i> 491 (2025): 142676. https://doi.org/10.1016/j.conbuildmat.2025.142676.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

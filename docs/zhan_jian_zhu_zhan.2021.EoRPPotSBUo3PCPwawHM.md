@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yi Zhang, Zhengwu Jiang, Yanmei Zhu, Jie Zhang, Qiang Ren, Tao Huang
+    - footer
+title: Zhang Yi, Jiang Zhengwu, Zhu Yanmei, Zhang Jie, Ren Qiang, Huang Tao
 description:
 tags:
  - buildability
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose ([2020-10](date/2020/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.120551" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.120551</a>
+#Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose ([2020-10](date/2020/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.120551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.120551" target="_blank">10.1016/j.conbuildmat.2020.120551</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_zhengwu"><b>Jiang</b>&nbsp;Zhengwu</a></span>, <a href="../../../author/zhu_yanmei"><b>Zhu</b>&nbsp;Yanmei</a></span>, <a href="../../../author/zhang_jie"><b>Zhang</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_qiang"><b>Ren</b>&nbsp;Qiang</a></span>, <a href="../../../author/huang_tao"><b>Huang</b>&nbsp;Tao</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 267
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a> <a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>
-,     <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a>
-,     <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> <a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_tao"><b>Huang</b> Tao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 267, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#paste`](keyword/paste)
-    [`#polymer`](keyword/polymer)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#without`](keyword/without)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Redispersible%20Polymer-Powders%20on%20the%20Structural%20Build-Up%20of%203D%20Printing%20Cement%20Paste%20with%20and%20without%20Hydroxypropyl-Methylcellulose" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85092387034&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,18 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3092302407" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.120551" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.120551?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper studies the effects of polyvinyl acetate-ethylene (VAE) based redispersible polymer powder (RPP) and polyvinyl acetate-vinyl versatate-ethylene (VVE) based RPP on the structural build-up of 3D printing cement paste within several hours of hydration. At the same time, two cases of the presence or absence of hydroxypropyl methylcellulose (HPMC) were considered. The build-up performance of cement paste was assessed by the hysteresis area, dynamic yield stress ratio, static yield stress, shear modulus and ultrasonic plus velocity from the dynamic shear test, static shear test and ultrasonic wave transmission test. In addition, the limit layer thickness and printing velocity were calculated by dynamic and static yield stresses to quantitatively characterize shape stability and printing efficiency of cement paste. Results indicate that both VAE with higher ethylene content (VAE1) and VVE decrease the structural build-up rate of cement paste, independent of shear test modes. However, VAE with lower ethylene content (VAE2) increases the structural build-up rate of cement paste under dynamic shear test whereas decreases the growth rate of static yield stress. The dynamic yield stress ratio of cement paste containing 2% VAE2 is 0.57, which is 83.9% higher than that of pure cement paste. In addition, HPMC alters the effects of VAE2 on the structural build-up of cement paste. VAE1 and VVE decrease the shape stability of cement pastes with and without HPMC, while VAE2 is beneficial to the shape stability of cement paste. Limit layer thicknesses of cement pastes with 4% VAE2 are 7.3 mm and 14 mm in the absence and presence of HPMC, which are about 3.0 and 5.8 times that of pure cement paste. In the absence of HPMC, VVE decreases the limit printing velocity of cement paste in the first tens of minutes. VAE1 and VAE2 can improve the printing efficiency due to the increase of limit printing velocity in the first tens of minutes. In the presence of HPMC, only VAE2 significantly improves the limit printing velocity of cement paste.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
@@ -85,8 +59,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "38 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
       <li><a href="../../../author/wang_cheinfei"><b>Wang</b> Cheinfei</a>, <a href="../../../author/lian_junyin"><b>Lian</b> Junyin</a>, <a href="../../../author/fang_yunhui"><b>Fang</b> Yunhui</a>, <a href="../../../author/fan_guangming"><b>Fan</b> Guangming</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_lian_fang_fan.2025.ROo3PCMURSM/">Rheological Optimization of 3D-Printed Cementitious Materials Using Response Surface Methodology</a></li>
@@ -126,4 +100,33 @@ tags:
       <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mira_lesa_schu.2021.UtSBURoCMf3P/">Understanding the Structural Build-Up-Rate of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC/">The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM,
+      author            = "Yi Zhang and Zhengwu Jiang and Yanmei Zhu and Jie Zhang and Qiang Ren and Tao Huang",
+      title             = "Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose",
+      doi               = "10.1016/j.conbuildmat.2020.120551",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "267",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhang, Z. Jiang, Y. Zhu, J. Zhang, Q. Ren and T. Huang, “Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose”, <i>Construction and Building Materials</i>, vol. 267, 2021, doi: 10.1016/j.conbuildmat.2020.120551.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Yi, Zhengwu Jiang, Yanmei Zhu, Jie Zhang, Qiang Ren, and Tao Huang. “Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and Without Hydroxypropyl-Methylcellulose”. <i>Construction and Building Materials</i> 267 (2021). https://doi.org/10.1016/j.conbuildmat.2020.120551.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

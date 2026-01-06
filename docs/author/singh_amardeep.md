@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Singh Amardeep 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sing_zhao_sun.2025.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D-Printed Concrete Through Recycled Ultra-Fine Waste Glass Powder:<br/>Corrigendum</a></li>
   <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_song"><b>Yang</b> Song</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sing_yang_wang_xiao.2025.CTFCfFTRi3PC/">Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete</a></li>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/wang_jiyuan"><b>Wang</b> Jiyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../nasr_wang_duan_deng.2025.AtVaIoRHDPFi3PCC/">Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites</a></li>

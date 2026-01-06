@@ -8,7 +8,7 @@ search:
 
 # #scan
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM/">Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods</a></li>
   <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rehm_kang_kim.2024.NISST/">Nozzle-Integrated Slump-Scanner-Test:<br/>Development of an Automated Shape-Stability and Instantaneous Yield-Stress-Measurement-Method for the Set-on-Demand 3D Concrete Printing</a></li>
   <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S/">Quantitative Surface Quality Evaluation for 3D Printed Concrete with Coarse Aggregate Through 3D Scanning</a></li>

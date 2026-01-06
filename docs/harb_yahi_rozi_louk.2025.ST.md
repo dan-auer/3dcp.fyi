@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ilhame Harbouz, Ammar Yahia, Emmanuel Rozière, Ahmed Loukili
+    - footer
+title: Harbouz Ilhame, Yahia Ammar, Rozière Emmanuel, Loukili Ahmed
 description:
 tags:
  - assessment
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Squeeze Test:<br/>:aca-blank: A Toolkit for Assessing the Printability of Stiff Cement-Based Materials. ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142521" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142521</a>
+#Squeeze Test&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142521" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142521" target="_blank">10.1016/j.conbuildmat.2025.142521</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0493-3089" title="ORCID: 0000-0003-0493-3089" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/harbouz_ilhame"><b>Harbouz</b>&nbsp;Ilhame</a></span>, <a href="../../../author/yahia_ammar"><b>Yahia</b>&nbsp;Ammar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5829-816X" title="ORCID: 0000-0001-5829-816X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roziere_emmanuel"><b>Rozière</b>&nbsp;Emmanuel</a></span>, <a href="../../../author/loukili_ahmed"><b>Loukili</b>&nbsp;Ahmed</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 491, No. 142521
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a> <a href="https://orcid.org/0000-0003-0493-3089" title="ORCID: 0000-0003-0493-3089" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>
-,     <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a> <a href="https://orcid.org/0000-0001-5829-816X" title="ORCID: 0000-0001-5829-816X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 491, No. 142521
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#squeeze`](keyword/squeeze)
-    [`#stiffness`](keyword/stiffness)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/squeeze"><button class="btn">#squeeze</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Squeeze%20Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010197678&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412452128" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142521" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142521?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The emergence of 3D printing concrete technology can revolutionize the construction industry by offering improved precision, customization, and sustainability. However, evaluating the printability of cement-based materials remains a challenge due to the complex rheological requirements they must meet. In many 3D printing applications, stiff cement-based materials with a high rate of structuration are often used in 3D printing applications to ensure the buildability and shape stability of printed elements. Yet, the inherent stiffness of these materials poses challenges of appropriate characterization methods to assess the rheological parameters related to printability. To address these challenges, this paper introduces the squeeze test as a simple yet effective test method. By applying a controlled compression load between two plates, the squeeze test replicates the conditions encountered during 3D printing processes. Printability characteristics are assessed by analyzing the material's response under various testing conditions. The paper outlines the methodology, highlighting its flexibility to simulate both the extrusion and layer-deposition stages. The study examines extrudability and buildability criteria based on squeeze test results for stiff cement-based materials, identifying key factors such as the impact of sand content on consolidation rate and plasticity, and the influence of viscosity modifying agents (VMA) on material elasticity. The findings reveal that increasing sand content reduces plastic deformations, making buckling failure more common, while VMA additions improve elasticity and plastic yield. Additionally, the squeeze test is extended to evaluate interlayer bonding by conducting tests on bi-layer samples, offering a means to fine-tune interlayer printing time. This experimental study validates the squeeze test as an effective tool for assessing printability and predicting failure mechanisms, particularly for stiff cement-based materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arreteau_manon"><b>Arrêteau</b> Manon</a>, <a href="../../../author/fabien_aurelie"><b>Fabien</b> Aurélie</a>, <a href="../../../author/haddaji_badreddine"><b>Haddaji</b> Badreddine</a>, <a href="../../../author/chateigner_daniel"><b>Chateigner</b> Daniel</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arre_fabi_hadd_chat.2023.RoAi3PToCM/">Review of Advances in 3D Printing Technology of Cementitious Materials:<br/>Key Printing Parameters and Properties Characterization</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
@@ -90,7 +69,37 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{harb_yahi_rozi_louk.2025.ST,
+      author            = "Ilhame Harbouz and Ammar Yahia and Emmanuel Rozière and Ahmed Loukili",
+      title             = "Squeeze Test: A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.",
+      doi               = "10.1016/j.conbuildmat.2025.142521",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "491",
+      pages             = "142521",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Harbouz, A. Yahia, E. Rozière and A. Loukili, “Squeeze Test: A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.”, <i>Construction and Building Materials</i>, vol. 491, p. 142521, 2025, doi: 10.1016/j.conbuildmat.2025.142521.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Harbouz, Ilhame, Ammar Yahia, Emmanuel Rozière, and Ahmed Loukili. “Squeeze Test: A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.”. <i>Construction and Building Materials</i> 491 (2025): 142521. https://doi.org/10.1016/j.conbuildmat.2025.142521.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhaoyang Sun, Yuyang Zhao, Dongshuai Hou, Zongjin Li, Binmeng Chen
+    - footer
+title: Sun Zhaoyang, Zhao Yuyang, Hou Dongshuai, Li Zongjin, Chen Binmeng
 description:
 tags:
  - application
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107731" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107731</a>
+#Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2024.107731" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107731" target="_blank">10.1016/j.cemconres.2024.107731</a>
 
--------------------------
+<a href="../../../author/sun_zhaoyang"><b>Sun</b>&nbsp;Zhaoyang</a></span>, <a href="../../../author/zhao_yuyang"><b>Zhao</b>&nbsp;Yuyang</a></span>, <a href="../../../author/hou_dongshuai"><b>Hou</b>&nbsp;Dongshuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zongjin"><b>Li</b>&nbsp;Zongjin</a></span>, <a href="../../../author/chen_binmeng"><b>Chen</b>&nbsp;Binmeng</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 187, No. 107731
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>
-,     <a href="../../../author/zhao_yuyang"><b>Zhao</b> Yuyang</a>
-,     <a href="../../../author/hou_dongshuai"><b>Hou</b> Dongshuai</a>
-,     <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 187, No. 107731
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#paste`](keyword/paste)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#situ`](keyword/situ)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology-Control%20of%20Cement-Paste%20by%20In-Situ%20Polymerization%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209589345&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404579722" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107731" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107731?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Rheology control is the most critical determinant of success in 3D concrete printing (3DCP), typically achieved through the hydration control of cement. However, this inevitably leads to overdesign of printed concrete featuring a low water-to-binder ratio (w/b), which is incompatible with its non-load bearing purpose and raises a series of environmental and durability problems, such as high carbon footprint and early-age shrinkage. Herein, we propose a novel rheology control strategy via in-situ polymerization, allowing the mix design of printed concrete with a high w/b ratio of 0.6. The proposed approach consists of two stages: 1) introducing monomers as retarders to extend the open time during pumping, and 2) incorporating initiators into the mixture to trigger polymerization, facilitating the structural build-up after deposition by forming polymer bridges between cement particles. We show that the addition of monomers significantly retards yield stress growth, while the following in-situ polymerization engenders a rapid strength development, satisfying the rheological requirements for 3DCP. Mechanistic experiments reveal that the retarding effect results from the complexation of monomers with aqueous species, such as Ca2+ ions, thereby hindering the nucleation of hydrates. As polymerization initiates, the impetus for the structural build-up of the cement pastes first originates from the proliferation of polymer bridges due to the gradual formation and adsorption of polymer, and then relies on the reinforcement of these polymer bridges through the formation of chemical bonds or crosslinks. On top of the environmental benefit, the proposed strategy holds the potential in avoiding admixtures conflict, mitigating early-age shrinkage, and improving mechanical properties. Our strategy opens possibilities for a novel technical route to achieve rheology control of 3DCP, and the discovery in this work will be a landmark for revealing the mechanism of 3DCP via in-situ polymerization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../das_reit_mant_flat.2022.EARaHCoTBf3PA/">Early-Age Rheology and Hydration-Control of Ternary Binders for 3D Printing Applications</a></li>
@@ -90,9 +67,39 @@ tags:
       <li><a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a>, <a href="../../../author/liu_zhaolong"><b>Liu</b> Zhaolong</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/wang_haochuan"><b>Wang</b> Haochuan</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../shao_liu_liu_wang.2024.ANStE3PoCBM/">A New Strategy to Enhance 3D Printability of Cement-Based Materials:<br/>In-Situ Polymerization</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tao_lesa_titt_yuan.2023.TPPSfSCo3PC/">Twin-Pipe Pumping-Strategy for Stiffening-Control of 3D Printable Concrete:<br/>From Transportation to Fabrication</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM/">Investigating the Impact of Material Rheology on Geometric Accuracy in 3D Concrete Printing Using Real-Time Monitoring</a></li>
       <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xu_sun_sun_chen.2025.RRMbAICfISP/">Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>Towards 3D Concrete Printing Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_zhao_hou_li.2025.RCoCPbISPf3PA,
+      author            = "Zhaoyang Sun and Yuyang Zhao and Dongshuai Hou and Zongjin Li and Binmeng Chen",
+      title             = "Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications",
+      doi               = "10.1016/j.cemconres.2024.107731",
+      year              = "2025",
+      journal           = "Cement and Concrete Research",
+      volume            = "187",
+      pages             = "107731",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Sun, Y. Zhao, D. Hou, Z. Li and B. Chen, “Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications”, <i>Cement and Concrete Research</i>, vol. 187, p. 107731, 2025, doi: 10.1016/j.cemconres.2024.107731.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Zhaoyang, Yuyang Zhao, Dongshuai Hou, Zongjin Li, and Binmeng Chen. “Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications”. <i>Cement and Concrete Research</i> 187 (2025): 107731. https://doi.org/10.1016/j.cemconres.2024.107731.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

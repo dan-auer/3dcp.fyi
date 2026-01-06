@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Martin Scheurer, Gözdem Dittel, Thomas Gries
+    - footer
+title: Scheurer Martin, Dittel Gözdem, Gries Thomas
 description:
 tags:
  - base
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Potential for the Integration of Continuous-Fiber-Based Reinforcements in Digital Concrete Production ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_70" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_70</a>
+#Potential for the Integration of Continuous-Fiber-Based Reinforcements in Digital Concrete Production ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_70" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_70" target="_blank">10.1007/978-3-030-49916-7_70</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5193-1871" title="ORCID: 0000-0002-5193-1871" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scheurer_martin"><b>Scheurer</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8277-9251" title="ORCID: 0000-0002-8277-9251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dittel_gozdem"><b>Dittel</b>&nbsp;Gözdem</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gries_thomas"><b>Gries</b>&nbsp;Thomas</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 701-711
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a> <a href="https://orcid.org/0000-0002-5193-1871" title="ORCID: 0000-0002-5193-1871" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a> <a href="https://orcid.org/0000-0002-8277-9251" title="ORCID: 0000-0002-8277-9251" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 701-711
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#continuous`](keyword/continuous)
-    [`#digital`](keyword/digital)
-    [`#fiber`](keyword/fiber)
-    [`#integration`](keyword/integration)
-    [`#potential`](keyword/potential)
-    [`#production`](keyword/production)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Potential%20for%20the%20Integration%20of%20Continuous-Fiber-Based%20Reinforcements%20in%20Digital%20Concrete%20Production" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088233611&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,25 +39,20 @@ tags:
 <a href="https://inciteful.xyz/p/W3041654105" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_70" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_70?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While digital concrete production is a highly promising and vibrant research topic regarding an increase of the degree of automation in the construction industry, some critical questions remain unanswered. One of these challenging questions concerns the integration of reinforcement into the production process. In this paper, the authors present continuous fiber-based materials as a viable and promising alternative reinforcing material for the integration in digital concrete production. To this end, current approaches for the integration of reinforcement into digital concrete production are summarized. The production process of different continuous fiber-based materials is described and their application in textile reinforced concrete is explained. The authors also evaluate the feasibility of one specific approach to the integration of textiles into the digital concrete production process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schneider_kai"><b>Schneider</b> Kai</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mech_mich_lieb_schn.2020.MICFCaNRfCC/">Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction:<br/>Material and Automation Perspectives</a></li>
-      <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../vasi.2020.AMiCC/">Additive Manufacturing in Concrete Construction:<br/>Current Status</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tarh_tarh_jacq_perr.2024.MBo3PaTREFC/">Mechanical Behavior of 3D Printed and Textile-Reinforced Eco-Friendly Composites</a></li>
       <li><a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../roth_huhn_gant_hack.2023.DWPoIFRSfAMiC/">Dynamic Winding Process of Individualized Fiber-Reinforcement Structures for Additive Manufacturing in Construction</a></li>
@@ -89,4 +66,35 @@ tags:
       <li><a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/quenzel_philipp"><b>Quenzel</b> Philipp</a>, <a href="../../../author/nolke_peter"><b>Nölke</b> Peter</a>, <a href="../../../author/reuter-schniete_jonas"><b>Reuter‐Schniete</b> Jonas</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../sche_quen_nolk_reut.2021.ItFoUCFTaRf3CP/">Investigating the Feasibility of Using Carbon Fiber Tapes as Reinforcement for 3D Concrete Printing</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../tarh_crav_bart.2023.AESfR3CPC/">An Effective Solution for Reinforcing 3D Concrete Printable Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sche_ditt_grie.2020.PftIoCFBRiDCP,
+      author            = "Martin Scheurer and Gözdem Dittel and Thomas Gries",
+      title             = "Potential for the Integration of Continuous-Fiber-Based Reinforcements in Digital Concrete Production",
+      doi               = "10.1007/978-3-030-49916-7_70",
+      year              = "2020",
+      volume            = "28",
+      pages             = "701--711",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Scheurer, G. Dittel and T. Gries, “Potential for the Integration of Continuous-Fiber-Based Reinforcements in Digital Concrete Production”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 701–711. doi: 10.1007/978-3-030-49916-7_70.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Scheurer, Martin, Gözdem Dittel, and Thomas Gries. “Potential for the Integration of Continuous-Fiber-Based Reinforcements in Digital Concrete Production”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:701–11, 2020. https://doi.org/10.1007/978-3-030-49916-7_70.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

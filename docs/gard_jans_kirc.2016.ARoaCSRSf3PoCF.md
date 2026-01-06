@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: James Gardiner, Steven Janssen, Nathan Kirchner
+    - footer
+title: Gardiner James, Janssen Steven, Kirchner Nathan
 description:
 tags:
  - complexity
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Realization of a Construction-Scale Robotic System for 3D Printing of Complex Formwork ([2016-07](date/2016/07))
-<a href="https://doi.org/10.22260/isarc2016/0062" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2016/0062</a>
+#A Realization of a Construction-Scale Robotic System for 3D Printing of Complex Formwork ([2016-07](date/2016/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2016/0062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2016/0062" target="_blank">10.22260/isarc2016/0062</a>
 
--------------------------
+<a href="../../../author/gardiner_b_james"><b>Gardiner</b>&nbsp;James</a></span>, <a href="../../../author/janssen_r_steven"><b>Janssen</b>&nbsp;Steven</a></span>, <a href="../../../author/kirchner_nathan"><b>Kirchner</b>&nbsp;Nathan</a></span><br>
+Contribution - Proceedings of the 33rd International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gardiner_b_james"><b>Gardiner</b> James</a>
-,     <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a>
-,     <a href="../../../author/kirchner_nathan"><b>Kirchner</b> Nathan</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 33rd International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#complexity`](keyword/complexity)
-    [`#construction`](keyword/construction)
-    [`#formwork`](keyword/formwork)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Realization%20of%20a%20Construction-Scale%20Robotic%20System%20for%203D%20Printing%20of%20Complex%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,20 +38,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2507952001" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2016/0062" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2016/0062?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The cost of producing complex formwork or moulds for precast concrete and GRC (glass reinforced concrete) is perhaps the most significant limitation when constructing architectural intentions from prefabricated concrete elements. Our contribution, FreeFAB™ Wax1 , employs a 6-axis gantry robot with interchangeable end effector tooling to coarsely 3D print and subsequently mill finish complex moulds for concrete at a construction scale. Significantly, FreeFAB moulds can be up to 30m x 4m x 1.5m with significant time and cost savings relative to traditional formwork. Furthermore, FreeFAB’s print material approaches 100% reusability, virtually eliminating waste and material costs within the process. This paper presents an overview of our method for construction scale 3D printing and its realisation. Our findings suggest a construction scale 3D printing is businessviable and significantly expands the feasibility of the wide spread use of bespoke moulds.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/pancho_paolo"><b>Pancho</b> Paolo</a>, <a href="../../../author/sanchez_daniela"><b>Sanchez</b> Daniela</a>, <a href="../../../author/poudel_suman"><b>Poudel</b> Suman</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../rami_panc_sanc_poud.2025.DaDoaLRCfC3P/">Design and Development of a Lean Robotic Cell for Concrete 3D Printing</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../chou_khee_ghaf.2023.AMatCI/">Additive Manufacturing and the Construction Industry</a></li>
       <li><a href="../../../author/nuh_mishael"><b>Nuh</b> Mishael</a>, <a href="../../../author/oval_robin"><b>Oval</b> Robin</a>, <a href="../../../author/orr_j_john"><b>Orr</b> John</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../nuh_oval_orr_shep.2022.DFoRCSUARCS/">Digital Fabrication of Ribbed Concrete Shells Using Automated Robotic Concrete Spraying</a></li>
@@ -90,4 +69,33 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/ferron_raissa"><b>Ferron</b> Raissa</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../delg_clay_brie_ferr.2017.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Prospective Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gard_jans_kirc.2016.ARoaCSRSf3PoCF,
+      author            = "James B. Gardiner and Steven R. Janssen and Nathan Kirchner",
+      title             = "A Realization of a Construction-Scale Robotic System for 3D Printing of Complex Formwork",
+      doi               = "10.22260/isarc2016/0062",
+      year              = "2016",
+      booktitle         = "Proceedings of the 33rd International Symposium on Automation and Robotics in Construction",
+      editor            = "Anoop Sattineni and Salman Azhar and Daniel Castro",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. B. Gardiner, S. R. Janssen and N. Kirchner, “A Realization of a Construction-Scale Robotic System for 3D Printing of Complex Formwork”, in <i>Proceedings of the 33rd International Symposium on Automation and Robotics in Construction</i>,  2016. doi: 10.22260/isarc2016/0062.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gardiner, James B., Steven R. Janssen, and Nathan Kirchner. “A Realization of a Construction-Scale Robotic System for 3D Printing of Complex Formwork”. In <i>Proceedings of the 33rd International Symposium on Automation and Robotics in Construction</i>, edited by Anoop Sattineni, Salman Azhar, and Daniel Castro, 2016. https://doi.org/10.22260/isarc2016/0062.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dong Cui, Yingxuan Wu, Xiaoying Xie, Guanfei Tian, Guantong Han, Yi Wan, Keren Zheng, Wenting Li
+    - footer
+title: Cui Dong, Wu Yingxuan, Xie Xiaoying, Tian Guanfei, Han Guantong, Wan Yi, Zheng Keren, Li Wenting
 description:
 tags:
  - investigation
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1080/21650373.2023.2184430" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2023.2184430</a>
+#Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2023.2184430" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2023.2184430" target="_blank">10.1080/21650373.2023.2184430</a>
 
--------------------------
+<a href="../../../author/cui_dong"><b>Cui</b>&nbsp;Dong</a></span>, <a href="../../../author/wu_yingxuan"><b>Wu</b>&nbsp;Yingxuan</a></span>, <a href="../../../author/xie_xiaoying"><b>Xie</b>&nbsp;Xiaoying</a></span>, <a href="../../../author/tian_guanfei"><b>Tian</b>&nbsp;Guanfei</a></span>, <a href="../../../author/han_guantong"><b>Han</b>&nbsp;Guantong</a></span>, <a href="../../../author/wan_yi"><b>Wan</b>&nbsp;Yi</a></span>, <a href="../../../author/zheng_keren"><b>Zheng</b>&nbsp;Keren</a></span>, <a href="../../../author/li_wenting"><b>Li</b>&nbsp;Wenting</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-14
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cui_dong"><b>Cui</b> Dong</a>
-,     <a href="../../../author/wu_yingxuan"><b>Wu</b> Yingxuan</a>
-,     <a href="../../../author/xie_xiaoying"><b>Xie</b> Xiaoying</a>
-,     <a href="../../../author/tian_guanfei"><b>Tian</b> Guanfei</a>
-,     <a href="../../../author/han_guantong"><b>Han</b> Guantong</a>
-,     <a href="../../../author/wan_yi"><b>Wan</b> Yi</a>
-,     <a href="../../../author/zheng_keren"><b>Zheng</b> Keren</a>
-,     <a href="../../../author/li_wenting"><b>Li</b> Wenting</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-14
-
-:aca-blank:{ .lg .middle}
-    [`#investigation`](keyword/investigation)
-    [`#leach`](keyword/leach)
-    [`#micro`](keyword/micro)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#tomography`](keyword/tomography)
-
-
--------------------------
+<a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/leach"><button class="btn">#leach</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/tomography"><button class="btn">#tomography</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20the%20Micro-Structure%20of%20a%203D%20Printed%20Mortar%20Through%20a%20Novel%20Leaching-Subsidiary%20Tomography" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150458600&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4323363818" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2023.2184430" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2023.2184430?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The microstructure of a 3D-printed mortar was investigated in present study. To enhance the density contrast between sand and cementitious slurry, a novel leaching strategy was used as an auxiliary method, based on which the spatial dispersion of sands in 3D-printed mortar was rendered. Meanwhile, to alleviate the problem of CT’s limited resolution, X-ray attenuation method (XRAM) was introduced in this study to investigate the spatial distribution of local porosity in 3D-printed mortar. Besides, focusing on single filaments, the upper part of the filaments presented lower sand rate and higher porosity than the lower part, and the difference between the filaments located near the top of 3D-printed mortar was more significant. Finally, based on the sliding method, the interlayer width, average porosity and average sand ratio of 3D-printed mortar were estimated as 640 lm, 21.9% and 43.1%, respectively. The research results would deepen the understanding of 3D-printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -101,7 +76,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cui_wu_xie_tian.2023.IotMSoa3PMTaNLST,
+      author            = "Dong Cui and Yingxuan Wu and Xiaoying Xie and Guanfei Tian and Guantong Han and Yi Wan and Keren Zheng and Wenting Li",
+      title             = "Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography",
+      doi               = "10.1080/21650373.2023.2184430",
+      year              = "2023",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--14",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Cui, “Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–14, 2023, doi: 10.1080/21650373.2023.2184430.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cui, Dong, Yingxuan Wu, Xiaoying Xie, Guanfei Tian, Guantong Han, Yi Wan, Keren Zheng, and Wenting Li. “Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography”. <i>Journal of Sustainable Cement-Based Materials</i>, 2023, 1–14. https://doi.org/10.1080/21650373.2023.2184430.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

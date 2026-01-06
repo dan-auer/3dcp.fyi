@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jingwen Liang, Zuo Zeng, Penglin Wang, Zhongxu Wang, Shifeng Wen, Yan Zhou, Cheng Zhou
+    - footer
+title: Liang Jingwen, Zeng Zuo, Wang Penglin, Wang Zhongxu, Wen Shifeng, Zhou Yan, Zhou Cheng
 description:
 tags:
  - bridge
@@ -17,36 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e05051) Emergency Response Mobile 3D Printing System:<br/>:aca-blank: A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05051" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05051</a>
+#Emergency Response Mobile 3D Printing System&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e05051) <a href="https://doi.org/10.1016/j.cscm.2025.e05051" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05051" target="_blank">10.1016/j.cscm.2025.e05051</a>
 
--------------------------
+<a href="../../../author/liang_jingwen"><b>Liang</b>&nbsp;Jingwen</a></span>, <a href="../../../author/zeng_zuo"><b>Zeng</b>&nbsp;Zuo</a></span>, <a href="../../../author/wang_penglin"><b>Wang</b>&nbsp;Penglin</a></span>, <a href="../../../author/wang_zhongxu"><b>Wang</b>&nbsp;Zhongxu</a></span>, <a href="../../../author/wen_shifeng"><b>Wen</b>&nbsp;Shifeng</a></span>, <a href="../../../author/zhou_yan"><b>Zhou</b>&nbsp;Yan</a></span>, <a href="../../../author/zhou_cheng"><b>Zhou</b>&nbsp;Cheng</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e05051
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liang_jingwen"><b>Liang</b> Jingwen</a>
-,     <a href="../../../author/zeng_zuo"><b>Zeng</b> Zuo</a>
-,     <a href="../../../author/wang_penglin"><b>Wang</b> Penglin</a>
-,     <a href="../../../author/wang_zhongxu"><b>Wang</b> Zhongxu</a>
-,     <a href="../../../author/wen_shifeng"><b>Wen</b> Shifeng</a>
-,     <a href="../../../author/zhou_yan"><b>Zhou</b> Yan</a>
-,     <a href="../../../author/zhou_cheng"><b>Zhou</b> Cheng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e05051
-
-:aca-blank:{ .lg .middle}
-    [`#bridge`](keyword/bridge)
-    [`#case`](keyword/case)
-    [`#foam`](keyword/foam)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mobile`](keyword/mobile)
-    [`#print`](keyword/print)
-    [`#rapid`](keyword/rapid)
-    [`#response`](keyword/response)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Emergency%20Response%20Mobile%203D%20Printing%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010891264&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412447127" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05051" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05051?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the context of increasing global natural disasters, the 72-hour golden rescue window imposes three critical requirements on rapid construction technologies: timeliness, multi-hazard adaptability, and systemic support. Addressing the current research gap in validating the structural performance of polyurethane foam as an independent load-bearing material, this study proposes an integrated rapid construction system centered on rigid polyurethane foam 3D printing (PF3DP) technology, incorporating a mobile construction platform (MCP), UAV-based 3D reconstruction modeling, and human-robot collaborative control. The system establishes a comprehensive "scanning-modeling-simulation-printing" workflow and demonstrates its efficacy through a bridge construction case study (6 × 1.2 × 0.6 m). Using rigid polyurethane foam (density of 30 kg/m³), the MCP achieved on-site printing within 20 minutes, with load-bearing tests confirming safe support for 2,600 N (equivalent to the weight of four adults) without deformation. This system is scalable to emergency shelters, flood barriers, and other disaster response scenarios, providing an engineering-feasible solution that combines timeliness, multi-hazard adaptability, and structural reliability for post-disaster construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/bello_d_nicholas"><b>Bello</b> Nicholas</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bell_mema.2023.CRotTaCSo3CPoBbSC/">Comparative Review of the Technology and Case Studies of 3D Concrete Printing of Buildings by Several Companies</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/pan_hao"><b>Pan</b> Hao</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../geng_pan_zuo_she.2022.FGLCBCwOMPvAM/">Functionally Graded Lightweight Cement-Based Composites with Outstanding Mechanical Performances via Additive Manufacturing</a></li>
@@ -86,7 +61,36 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lian_zeng_wang_wang.2025.ERM3PS,
+      author            = "Jingwen Liang and Zuo Zeng and Penglin Wang and Zhongxu Wang and Shifeng Wen and Yan Zhou and Cheng Zhou",
+      title             = "Emergency Response Mobile 3D Printing System: A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges",
+      doi               = "10.1016/j.cscm.2025.e05051",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e05051",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Liang, “Emergency Response Mobile 3D Printing System: A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges”, <i>Case Studies in Construction Materials</i>, p. e05051, 2025, doi: 10.1016/j.cscm.2025.e05051.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liang, Jingwen, Zuo Zeng, Penglin Wang, Zhongxu Wang, Shifeng Wen, Yan Zhou, and Cheng Zhou. “Emergency Response Mobile 3D Printing System: A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges”. <i>Case Studies in Construction Materials</i>, 2025, e05051. https://doi.org/10.1016/j.cscm.2025.e05051.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

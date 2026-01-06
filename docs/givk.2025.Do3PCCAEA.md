@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Givkashi
+    - footer
+title: Givkashi Mohammad
 description:
 tags:
  - agent
@@ -18,31 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>:aca-blank: Evaluating the Importance of Carbonation Resistance ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1108/ecam-06-2025-0939" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/ecam-06-2025-0939</a>
+#Durability of 3D Printed Concrete Containing Air-Entraining Agent&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Evaluating the Importance of Carbonation Resistance</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/ecam-06-2025-0939" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ecam-06-2025-0939" target="_blank">10.1108/ecam-06-2025-0939</a>
 
--------------------------
+<a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b>&nbsp;Mohammad</a></span><br>
+Journal Article - Engineering, Construction and Architectural Management, pp. 1-22
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering, Construction and Architectural Management, pp. 1-22
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#air`](keyword/air)
-    [`#carbonation`](keyword/carbonation)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#durability`](keyword/durability)
-    [`#evaluation`](keyword/evaluation)
-    [`#importance`](keyword/importance)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/importance"><button class="btn">#importance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Durability%20of%203D%20Printed%20Concrete%20Containing%20Air-Entraining%20Agent" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022688276&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7104521163" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/ecam-06-2025-0939" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/ecam-06-2025-0939?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study evaluates the carbonation resistance of 3D-printed concrete (3DPC), a critical durability aspect that has received limited attention despite the material’s growing prominence and its known structural reinforcement challenges. The research investigates the influence of air-entraining agents (AEAs) on the carbonation resistance of 3DPC. Carbonation depth was assessed using phenolphthalein solution, and permeability characteristics were evaluated through air content and water absorption measurements. The results indicate that single-layer 3DPC mixtures exhibit inherent resistance to carbonation, with no signs of CO2 penetration. The inclusion of AEAs increased air content by 30–50% in the fresh state and 45–70% in the hardened state, thereby reducing permeability and enhancing durability. Notably, water absorption decreased by 2.4–11.3% in AEA-modified samples over the 0.5-h to 90-d period. Nonetheless, interlayer bonding weaknesses and printing parameters may still pose durability concerns. This study offers new insights into the durability of 3DPC against carbonation, addressing a relatively underexplored aspect of 3D-printed concrete technology and providing practical implications for improving long-term performance in printed concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../beka_titt_schu.2023.TEoCCotSLo3PCF/">The Effect of Curing Conditions on the Service Life of 3D Printed Concrete Formwork</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../givk_mood_rame.2024.EoPPotPo3PCCAEA/">Effect of Pumping Process on the Properties of 3D Printed Concrete Containing Air-Entraining-Agent</a></li>
@@ -97,7 +77,36 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhan_zhan_yang_liu.2023.IotPFotWUi3PC/">Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{givk.2025.Do3PCCAEA,
+      author            = "Mohammad Rasul Givkashi",
+      title             = "Durability of 3D Printed Concrete Containing Air-Entraining Agent: Evaluating the Importance of Carbonation Resistance",
+      doi               = "10.1108/ecam-06-2025-0939",
+      year              = "2025",
+      journal           = "Engineering, Construction and Architectural Management",
+      pages             = "1--22",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Givkashi, “Durability of 3D Printed Concrete Containing Air-Entraining Agent: Evaluating the Importance of Carbonation Resistance”, <i>Engineering, Construction and Architectural Management</i>, pp. 1–22, 2025, doi: 10.1108/ecam-06-2025-0939.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Givkashi, Mohammad Rasul. “Durability of 3D Printed Concrete Containing Air-Entraining Agent: Evaluating the Importance of Carbonation Resistance”. <i>Engineering, Construction and Architectural Management</i>, 2025, 1–22. https://doi.org/10.1108/ecam-06-2025-0939.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

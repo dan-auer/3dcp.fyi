@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Laura Esposito, Lorenzo Casagrande, Costantino Menna, Domenico Asprone, Ferdinando Auricchio
+    - footer
+title: Esposito Laura, Casagrande Lorenzo, Menna Costantino, Asprone Domenico, Auricchio Ferdinando
 description:
 tags:
  - age
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1617/s11527-021-01800-z.pdf) Early-Age Creep Behavior of 3D Printable Mortars:<br/>:aca-blank: Experimental Characterisation and Analytical Modelling ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1617/s11527-021-01800-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-021-01800-z</a>
+#Early-Age Creep Behavior of 3D Printable Mortars&nbsp;([2021-10](date/2021/10))
+<div class="h1-like">Experimental Characterisation and Analytical Modelling</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-021-01800-z.pdf) <a href="https://doi.org/10.1617/s11527-021-01800-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-021-01800-z" target="_blank">10.1617/s11527-021-01800-z</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1619-1190" title="ORCID: 0000-0003-1619-1190" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/esposito_laura"><b>Esposito</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5691-0113" title="ORCID: 0000-0002-5691-0113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/casagrande_lorenzo"><b>Casagrande</b>&nbsp;Lorenzo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menna_costantino"><b>Menna</b>&nbsp;Costantino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asprone_domenico"><b>Asprone</b>&nbsp;Domenico</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3735-2400" title="ORCID: 0000-0002-3735-2400" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/auricchio_ferdinando"><b>Auricchio</b>&nbsp;Ferdinando</a></span><br>
+Journal Article - Materials and Structures, Vol. 54, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a> <a href="https://orcid.org/0000-0003-1619-1190" title="ORCID: 0000-0003-1619-1190" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a> <a href="https://orcid.org/0000-0002-5691-0113" title="ORCID: 0000-0002-5691-0113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a> <a href="https://orcid.org/0000-0002-3735-2400" title="ORCID: 0000-0002-3735-2400" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 54, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#analysis`](keyword/analysis)
-    [`#behavior`](keyword/behavior)
-    [`#characteristic`](keyword/characteristic)
-    [`#creep`](keyword/creep)
-    [`#early`](keyword/early)
-    [`#experiment`](keyword/experiment)
-    [`#model`](keyword/model)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/creep"><button class="btn">#creep</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Creep%20Behavior%20of%203D%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85118255917&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3210301083" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-021-01800-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-021-01800-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction sector is experiencing significant technological innovations with digitalisation tools and automated construction techniques, such as additive manufacturing. Additive manufacturing utilising cement-based materials can potentially remove the technological/economic barriers associated with innovative architectural/structural shapes which are not suitable for conventional formworks adopted for concrete material. However, in the ‘‘freeform’’ digital fabrication with concrete, the mechanical properties prediction of the material in the fresh state is essential for controlling both the element deformations and overall stability during printing. In this paper, the authors explore the critical aspects related to the determination of the early-age creep properties of a 3D printable cement-based material, particularly investigating such a behaviour at different resting times. The experimental results are used to calibrate the Burgers’ analytical model to consider both the elastic and the viscous response of the 3D printable mortar investigated in the fresh state. The visco-elastic model is validated by comparing the analytical total strain vs time curve with the corresponding experimental counterpart replicating the layer-by-layer stacking process in the 3D concrete printing process. It was found that the Burgers’ model represents a valuable numerical approach to evaluate the overall accumulation of layer deformation of a 3D printed element, since it is capable of taking into account the time dependency due to the time gap and the variable material stiffness over the process time
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -91,8 +67,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/li_xin"><b>Li</b> Xin</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wu_liu.2025.IoELotTDEo3PCwRSitGS/">Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq.2025.3CPbEaFD/">3D Concrete Printing by Extrusion and Filament-Deposition</a></li>
@@ -113,4 +89,34 @@ tags:
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rein_mesc.2022.AfAMwESBoaMS/">Algorithm for Aging Materials with Evolving Stiffness Based on a Multiplicative Split</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/jakubowska_patrycja"><b>Jakubowska</b> Patrycja</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../skib_jaku_kasz_sibe.2021.EAMPo3PMwSG/">Early-Age Mechanical Properties of 3D Printed Mortar with Spent Garnet</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{espo_casa_menn_aspr.2021.EACBo3PM,
+      author            = "Laura Esposito and Lorenzo Casagrande and Costantino Menna and Domenico Asprone and Ferdinando Auricchio",
+      title             = "Early-Age Creep Behavior of 3D Printable Mortars: Experimental Characterisation and Analytical Modelling",
+      doi               = "10.1617/s11527-021-01800-z",
+      year              = "2021",
+      journal           = "Materials and Structures",
+      volume            = "54",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Esposito, L. Casagrande, C. Menna, D. Asprone and F. Auricchio, “Early-Age Creep Behavior of 3D Printable Mortars: Experimental Characterisation and Analytical Modelling”, <i>Materials and Structures</i>, vol. 54, no. 6, 2021, doi: 10.1617/s11527-021-01800-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Esposito, Laura, Lorenzo Casagrande, Costantino Menna, Domenico Asprone, and Ferdinando Auricchio. “Early-Age Creep Behavior of 3D Printable Mortars: Experimental Characterisation and Analytical Modelling”. <i>Materials and Structures</i> 54, no. 6 (2021). https://doi.org/10.1617/s11527-021-01800-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

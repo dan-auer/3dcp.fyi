@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Long Li, Weiyi Ji, Jianzhuang Xiao, Jie Xiao, Shipeng Zhang, Chi Poon
+    - footer
+title: Li Long, Ji Weiyi, Xiao Jianzhuang, Xiao Jie, Zhang Shipeng, Poon Chi
 description:
 tags:
  - admixture
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Strategy for Improving Buildability of 3D Printing Concrete Using CO2 Mixing and Chemical Admixtures ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142122" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142122</a>
+#Strategy for Improving Buildability of 3D Printing Concrete Using CO2 Mixing and Chemical Admixtures ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142122" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142122" target="_blank">10.1016/j.conbuildmat.2025.142122</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-8518-3407" title="ORCID: 0009-0003-8518-3407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_long"><b>Li</b>&nbsp;Long</a></span>, <a href="../../../author/ji_weiyi"><b>Ji</b>&nbsp;Weiyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/xiao_jie"><b>Xiao</b>&nbsp;Jie</a></span>, <a href="../../../author/zhang_shipeng"><b>Zhang</b>&nbsp;Shipeng</a></span>, <a href="../../../author/poon_sun_chi"><b>Poon</b>&nbsp;Chi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 489, No. 142122
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_long"><b>Li</b> Long</a> <a href="https://orcid.org/0009-0003-8518-3407" title="ORCID: 0009-0003-8518-3407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ji_weiyi"><b>Ji</b> Weiyi</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jie"><b>Xiao</b> Jie</a>
-,     <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>
-,     <a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 489, No. 142122
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#buildability`](keyword/buildability)
-    [`#chemical`](keyword/chemical)
-    [`#co2`](keyword/co2)
-    [`#concrete`](keyword/concrete)
-    [`#improvement`](keyword/improvement)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strategy%20for%20Improving%20Buildability%20of%203D%20Printing%20Concrete%20Using%20CO2%20Mixing%20and%20Chemical%20Admixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007674945&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411229594" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142122" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142122?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Polycarboxylate superplasticizer (PCE) and hydroxypropyl methylcellulose (HPMC) are commonly used chemical admixtures to control the rheological properties of concrete, such as 3D printing concrete (3DPC). CO2 mixing is a promising technology that improves the rheological and mechanical properties of 3DPC and has the potential to sequestrate CO2. But at present, the coupling effects of CO2 mixing with PCE and HPMC on the properties of cementitious materials are unknown. Therefore, this study investigated the influence of CO2 mixing on the fresh and hardened properties of cement mortar with varying amounts of PCE and HPMC. The results showed that after using CO2 mixing, the effects of HPMC and PCE on the properties of cement mortar changed obviously. The PCE in cement mortar almost lost its effect after using CO2 mixing. The addition of 0.2 %PCE increased the workability of mortar by 50.3 % and increased setting time by 84.6 %, but after using CO2 mixing, the workability and setting time of mortar with 0.2 %PCE exhibited only limited increase compared to mortar without PCE. The effect of HPMC was also weakened after using CO2 mixing. Furthermore, the heat evolution and microstructural properties of fresh and hardened mortar were analyzed to reveal the mechanism of the coupling effects of CO2 mixing with PCE and HPMC. In addition, based on the coupling effect of CO2 mixing and PCE, a strategy for improving the buildability of 3DPC using CO2 mixing and PCE was proposed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
@@ -85,7 +60,37 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_ji_xiao_xiao.2025.SfIBo3PCUCMaCA,
+      author            = "Long Li and Weiyi Ji and Jianzhuang Xiao and Jie Xiao and Shipeng Zhang and Chi Sun Poon",
+      title             = "Strategy for Improving Buildability of 3D Printing Concrete Using CO2 Mixing and Chemical Admixtures",
+      doi               = "10.1016/j.conbuildmat.2025.142122",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "489",
+      pages             = "142122",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Li, W. Ji, J. Xiao, J. Xiao, S. Zhang and C. S. Poon, “Strategy for Improving Buildability of 3D Printing Concrete Using CO2 Mixing and Chemical Admixtures”, <i>Construction and Building Materials</i>, vol. 489, p. 142122, 2025, doi: 10.1016/j.conbuildmat.2025.142122.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Long, Weiyi Ji, Jianzhuang Xiao, Jie Xiao, Shipeng Zhang, and Chi Sun Poon. “Strategy for Improving Buildability of 3D Printing Concrete Using CO2 Mixing and Chemical Admixtures”. <i>Construction and Building Materials</i> 489 (2025): 142122. https://doi.org/10.1016/j.conbuildmat.2025.142122.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

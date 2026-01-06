@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jean-Marc Tulliani
+    - footer
+title: Tulliani Jean-Marc
 description:
 tags:
  - cement
@@ -15,28 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2571-6131/8/4/141/pdf?version=1763900141) Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>:aca-blank: Technologies, Prospects, and Challenges ([2025-11](date/2025/11))
-<a href="https://doi.org/10.3390/ceramics8040141" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ceramics8040141</a>
+#Latest Developments in 3D-Printed Engineered Cementitious Composites&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Technologies, Prospects, and Challenges</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2571-6131/8/4/141/pdf?version=1763900141) <a href="https://doi.org/10.3390/ceramics8040141" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ceramics8040141" target="_blank">10.3390/ceramics8040141</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2419-4383" title="ORCID: 0000-0003-2419-4383" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tulliani_jean-marc"><b>Tulliani</b>&nbsp;Jean-Marc</a></span><br>
+Journal Article - Ceramics, Vol. 8, Iss. 4, No. 141
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="https://orcid.org/0000-0003-2419-4383" title="ORCID: 0000-0003-2419-4383" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Ceramics, Vol. 8, Iss. 4, No. 141
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#challenge`](keyword/challenge)
-    [`#composite`](keyword/composite)
-    [`#development`](keyword/development)
-    [`#engineered`](keyword/engineered)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Latest%20Developments%20in%203D-Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106525261" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ceramics8040141" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ceramics8040141?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Engineered cementitious composites (ECCs) are fiber-reinforced materials with enhanced tensile strength, ultra-high ductility, crack resistance, and long-term durability. This review aims to explore the latest developments when combining ECC and 3D printing in depth. It will analyze the main technologies used, the specific properties of the materials employed, the results achieved so far, and the challenges still to be addressed for the wider deployment of these innovative solutions. The goal is to provide a comprehensive and up-to-date overview, highlighting the potential of this technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "84 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
@@ -147,7 +130,38 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tull.2025.LDi3PECC,
+      author            = "Jean-Marc Tulliani",
+      title             = "Latest Developments in 3D-Printed Engineered Cementitious Composites: Technologies, Prospects, and Challenges",
+      doi               = "10.3390/ceramics8040141",
+      year              = "2025",
+      journal           = "Ceramics",
+      volume            = "8",
+      number            = "4",
+      pages             = "141",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-M. Tulliani, “Latest Developments in 3D-Printed Engineered Cementitious Composites: Technologies, Prospects, and Challenges”, <i>Ceramics</i>, vol. 8, no. 4, p. 141, 2025, doi: 10.3390/ceramics8040141.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tulliani, Jean-Marc. “Latest Developments in 3D-Printed Engineered Cementitious Composites: Technologies, Prospects, and Challenges”. <i>Ceramics</i> 8, no. 4 (2025): 141. https://doi.org/10.3390/ceramics8040141.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Todd Rushing, Ghassan Chaar, Brian Eick, Jedadiah Burroughs, Jameson Shannon, Lynette Barna, Michael Case
+    - footer
+title: Rushing Todd, Chaar Ghassan, Eick Brian, Burroughs Jedadiah, Shannon Jameson, Barna Lynette, Case Michael
 description:
 tags:
  - additive
@@ -13,32 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation of Concrete Mixtures for Additive Construction ([2017-01](date/2017/01))
-<a href="https://doi.org/10.1108/rpj-09-2015-0124" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/rpj-09-2015-0124</a>
+#Investigation of Concrete Mixtures for Additive Construction ([2017-01](date/2017/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/rpj-09-2015-0124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-09-2015-0124" target="_blank">10.1108/rpj-09-2015-0124</a>
 
--------------------------
+<a href="../../../author/rushing_s_todd"><b>Rushing</b>&nbsp;Todd</a></span>, <a href="../../../author/chaar_k_ghassan"><b>al&nbsp;Chaar</b>&nbsp;Ghassan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4508-2201" title="ORCID: 0000-0002-4508-2201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/eick_andrew_brian"><b>Eick</b>&nbsp;Brian</a></span>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b>&nbsp;Jedadiah</a></span>, <a href="../../../author/shannon_d_jameson"><b>Shannon</b>&nbsp;Jameson</a></span>, <a href="../../../author/barna_a_lynette"><b>Barna</b>&nbsp;Lynette</a></span>, <a href="../../../author/case_p_michael"><b>Case</b>&nbsp;Michael</a></span><br>
+Journal Article - Rapid Prototyping Journal, Vol. 23, Iss. 1, pp. 74-80
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>
-,     <a href="../../../author/chaar_k_ghassan"><b>al Chaar</b> Ghassan</a>
-,     <a href="../../../author/eick_andrew_brian"><b>Eick</b> Brian</a> <a href="https://orcid.org/0000-0002-4508-2201" title="ORCID: 0000-0002-4508-2201" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a>
-,     <a href="../../../author/shannon_d_jameson"><b>Shannon</b> Jameson</a>
-,     <a href="../../../author/barna_a_lynette"><b>Barna</b> Lynette</a>
-,     <a href="../../../author/case_p_michael"><b>Case</b> Michael</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Rapid Prototyping Journal, Vol. 23, Iss. 1, pp. 74-80
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#investigation`](keyword/investigation)
-    [`#mixture`](keyword/mixture)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Concrete%20Mixtures%20for%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85013200712&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2579122073" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/rpj-09-2015-0124" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/rpj-09-2015-0124?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper aims to qualify traditional concrete mixtures for large-scale material extrusion in an automated, additive manufacturing process or additive construction. A robust and viable automated additive construction process must be developed that has the capability to construct full-scale, habitable structures using materials that are readily available near the location of the construction site. Accordingly, the applicability of conventional concrete mixtures for large-scale material extrusion in an additive construction process was investigated. A qualitative test was proposed in which concrete mixtures were forced through a modified clay extruder and evaluated on performance and potential to be suitable for nozzle extrusion typical of additive construction, or 3D printing with concrete. The concrete mixtures were further subjected to the standard drop table test for flow, and the results for the two tests were compared. Finally, the concrete mixtures were tested for setting time, compressive strength and flexural strength as final indicators for usefulness in large-scale construction. Conventional concrete mixtures, typically with a high percentage of coarse aggregate, were found to be unsuitable for additive construction application due to clogging in the extruder. However, reducing the amount of coarse aggregate provided concrete mixtures that were promising for additive construction while still using materials that are generally available worldwide. Much of the work performed in additive manufacturing processes on a construction scale using concrete focuses on unconventional concrete mixtures using synthetic aggregates or no coarse aggregate at all. This paper shows that a concrete mixture using conventional materials can be suitable for material extrusion in additive construction. The use of conventional materials will reduce costs and allow for additive construction to be used worldwide.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/spielberg_a_nathan"><b>Spielberg</b> Nathan</a>, <a href="../../../author/klein_john"><b>Klein</b> John</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2014/05">(2014-05)</a><br><a href="../../../keat_spie_klei_oxma.2014.ACAAtDC/">A Compound Arm Approach to Digital Construction:<br/>A Mobile Large-Scale Platform for On-Site Sensing, Design, and Digital Fabrication</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
@@ -71,8 +49,8 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "74 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/tseng_kuo-chang"><b>Tseng</b> Kuo-Chang</a>, <a href="../../../author/chi_maochieh"><b>Chi</b> Maochieh</a>, <a href="../../../author/yeih_weichung"><b>Yeih</b> Weichung</a>, <a href="../../../author/huang_ran"><b>Huang</b> Ran</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../tsen_chi_yeih_huan.2025.IoSFAaPCRoPaMPo3PC/">Influence of Slag/Fly Ash as Partial Cement Replacement on Printability and Mechanical Properties of 3D-Printed Concrete</a></li>
       <li><a href="../../../author/elango_s_k"><b>Elango</b> K.</a>, <a href="../../../author/saravanakumar_r"><b>Saravanakumar</b> R.</a>, <a href="../../../author/vivek_d"><b>Vivek</b> D.</a>, <a href="../../../author/yuvaraj_s"><b>Yuvaraj</b> S.</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../elan_sara_vive_yuva.2025.ACRoFHaDPo3PC/">A Critical Review of Fresh, Hardened and Durability Properties of 3D Printing Concrete</a></li>
@@ -148,4 +126,35 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rush_chaa_eick_burr.2017.IoCMfAC,
+      author            = "Todd S. Rushing and Ghassan K. Al Chaar and Brian Andrew Eick and Jedadiah F. Burroughs and Jameson D. Shannon and Lynette A. Barna and Michael P. Case",
+      title             = "Investigation of Concrete Mixtures for Additive Construction",
+      doi               = "10.1108/rpj-09-2015-0124",
+      year              = "2017",
+      journal           = "Rapid Prototyping Journal",
+      volume            = "23",
+      number            = "1",
+      pages             = "74--80",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. S. Rushing, “Investigation of Concrete Mixtures for Additive Construction”, <i>Rapid Prototyping Journal</i>, vol. 23, no. 1, pp. 74–80, 2017, doi: 10.1108/rpj-09-2015-0124.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rushing, Todd S., Ghassan K. Al Chaar, Brian Andrew Eick, Jedadiah F. Burroughs, Jameson D. Shannon, Lynette A. Barna, and Michael P. Case. “Investigation of Concrete Mixtures for Additive Construction”. <i>Rapid Prototyping Journal</i> 23, no. 1 (2017): 74–80. https://doi.org/10.1108/rpj-09-2015-0124.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

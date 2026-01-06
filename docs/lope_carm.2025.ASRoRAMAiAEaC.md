@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alexander Lopes de Aquino Brasil, Pena Carmo
+    - footer
+title: Lopes de Aquino Brasil Alexander, Carmo Pena
 description:
 tags:
  - additive
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/18/3336/pdf?version=1757936555) A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3390/buildings15183336" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15183336</a>
+#A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction ([2025-09](date/2025/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/18/3336/pdf?version=1757936555) <a href="https://doi.org/10.3390/buildings15183336" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15183336" target="_blank">10.3390/buildings15183336</a>
 
--------------------------
+<a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4016-8767" title="ORCID: 0000-0003-4016-8767" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b>&nbsp;Pena</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 18, No. 3336
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>
-,     <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="https://orcid.org/0000-0003-4016-8767" title="ORCID: 0000-0003-4016-8767" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 18, No. 3336
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#architecture`](keyword/architecture)
-    [`#construction`](keyword/construction)
-    [`#engineered`](keyword/engineered)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#review`](keyword/review)
-    [`#robot`](keyword/robot)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Systematic%20Review%20of%20Robotic%20Additive%20Manufacturing%20Applications%20in%20Architecture%2C%20Engineering%2C%20and%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017111182&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414205146" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15183336" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15183336?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) is gaining prominence in architecture, engineering, and construction (AEC). Within this context, robotic additive manufacturing (RAM) has emerged as a promising solution, offering enhanced flexibility and motion control for fabricating complex geometries and performing on-site production. However, it also introduces new, complex manufacturing processes that impact the design, making the control of manufacturing variables important for achieving accurate and feasible architectural results. In this sense, this study presents a systematic review of the state of the art in RAM for AEC, with a focus on extrusion-based 3D printing using flexible robotic arms and materials such as thermoplastics and paste-based mixtures (cementitious and earth-based compositions). This review includes 142 peer-reviewed journal and conference papers published between 2014 and 2025. It maps key research subfields, geographic trends, and RAM technology evolution, complemented by a bibliometric analysis of co-authorship and keyword networks. This review identifies four key areas of research: process, design, materials, and equipment. Most studies come from North America, Europe, and Asia, with clay emerging as a material receiving growing attention in construction within the RAM field. However, challenges like scalability, programming complexity, and AI integration still limit broader implementation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "65 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/anane_walid"><b>Anane</b> Walid</a>, <a href="../../../author/iordanova_ivanka"><b>Iordanova</b> Ivanka</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../anan_iord_ouel.2023.TUoBfR3CP/">The Use of BIM for Robotic 3D Concrete Printing</a></li>
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../asaf_lari_bent_spre.2024.TE/">Transforming Earths:<br/>Designing 3D Printable Materials for Robotic Earth Architecture</a></li>
@@ -133,7 +112,38 @@ tags:
       <li><a href="../../../author/zamani_alireza"><b>Zamani</b> Alireza</a>, <a href="../../../author/mohseni_alale"><b>Mohseni</b> Alale</a>, <a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zama_mohs_capu.2023.RFSfVICR3P/">Reconfigurable Formwork System for Vision-Informed Conformal Robotic 3D Printing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lope_carm.2025.ASRoRAMAiAEaC,
+      author            = "Alexander Lopes de Aquino Brasil and Pena Martinez Andressa Carmo",
+      title             = "A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction",
+      doi               = "10.3390/buildings15183336",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "18",
+      pages             = "3336",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. L. de Aquino Brasil  and P. M. A. Carmo, “A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction”, <i>Buildings</i>, vol. 15, no. 18, p. 3336, 2025, doi: 10.3390/buildings15183336.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aquino Brasil, Alexander Lopes de, and Pena Martinez Andressa Carmo. “A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction”. <i>Buildings</i> 15, no. 18 (2025): 3336. https://doi.org/10.3390/buildings15183336.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

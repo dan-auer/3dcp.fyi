@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: N. Salifu, Mohamed Bassuoni, Gursans Guven
+    - footer
+title: Salifu N., Bassuoni Mohamed, Guven Gursans
 description:
 tags:
  - blend
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04758) Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04758" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04758</a>
+#Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04758) <a href="https://doi.org/10.1016/j.cscm.2025.e04758" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04758" target="_blank">10.1016/j.cscm.2025.e04758</a>
 
--------------------------
+<a href="../../../author/salifu_n"><b>Salifu</b>&nbsp;N.</a></span>, <a href="../../../author/bassuoni_t_mohamed"><b>Bassuoni</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6943-8567" title="ORCID: 0000-0002-6943-8567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guven_gursans"><b>Guven</b>&nbsp;Gursans</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04758
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/salifu_n"><b>Salifu</b> N.</a>
-,     <a href="../../../author/bassuoni_t_mohamed"><b>Bassuoni</b> Mohamed</a>
-,     <a href="../../../author/guven_gursans"><b>Guven</b> Gursans</a> <a href="https://orcid.org/0000-0002-6943-8567" title="ORCID: 0000-0002-6943-8567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04758
-
-:aca-blank:{ .lg .middle}
-    [`#blend`](keyword/blend)
-    [`#cellulose`](keyword/cellulose)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#limestone`](keyword/limestone)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20Evaluation%20of%20Limestone-Blended%20Cement%20and%20Cellulose%20Nanomaterials%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005256110&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410431369" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04758" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04758?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-Dimensional Concrete Printing (3DCP) has emerged as a transformative technology to enhance efficiency, productivity, and safety in construction. However, the high cement content typically used in 3DCP presents sustainability challenges. This study explores the potential of low-carbon and sustainable materials, specifically portland limestone blended cement (GULb) and cellulose nanomaterials, to meet both rheological and mechanical performance criteria while addressing environmental concerns. The response surface methodology was employed to statistically evaluate the effects of water-to-binder ratio (w/b: 0.30–0.38), nano-fibrillated cellulose (NFC: 0–0.25%), and cellulose nanocrystals (CNC: 0.05–0.15%) on the properties of 17 GULb-based 3DCP mixtures. Key performance indicators included flowability, yield stress, setting time, compressive strength (in both horizontal and vertical directions), and interlayer bond strength. Thermal and microstructural analyses complemented these assessments to validate the observed trends. At a w/b of 0.38 and higher dosages of NFC (0.25%) and CNC (0.15%), superior rheological properties, mechanical strength, and interlayer adhesion were achieved. Numerical optimization revealed that GULb-based 3DCP formulations modified with cellulose nanomaterials can satisfy rheological requirements while achieving a balance of mechanical and interlayer properties. However, the optimum material proportions vary depending on specific design targets.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -115,7 +94,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sali_bass_guve.2025.PEoLBCaCNi3CP,
+      author            = "N. Salifu and Mohamed T. Bassuoni and Gursans Guven",
+      title             = "Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing",
+      doi               = "10.1016/j.cscm.2025.e04758",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04758",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Salifu, M. T. Bassuoni and G. Guven, “Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing”, <i>Case Studies in Construction Materials</i>, p. e04758, 2025, doi: 10.1016/j.cscm.2025.e04758.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Salifu, N., Mohamed T. Bassuoni, and Gursans Guven. “Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing”. <i>Case Studies in Construction Materials</i>, 2025, e04758. https://doi.org/10.1016/j.cscm.2025.e04758.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

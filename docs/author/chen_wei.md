@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,8 @@ search:
 
 #  Chen Wei 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
   <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../chen_pan_zhu_han.2025.NPMoBRIFCDi3PGC/">Nonlinear Predictive Modeling of Building Rates Incorporating Filament Compression Deformations in 3D Printed Geopolymer Concrete</a></li>
   <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/guan_yongying"><b>Guan</b> Yongying</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_guan_zhu_han.2025.IoESSaDotMPaPCo3PGC/">Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete</a></li>
   <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../chen_pan_zhu_ma.2023.IMPo3POPGCwSFR/">Improving Mechanical Properties of 3D Printable One-Part Geopolymer Concrete with Steel-Fiber-Reinforcement</a></li>

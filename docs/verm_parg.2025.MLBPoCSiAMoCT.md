@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shilpi Verma, Anant Parghi
+    - footer
+title: Verma Shilpi, Parghi Anant
 description:
 tags:
  - additive
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Machine Learning-Based Prediction of Compressive Strength in Additive Manufacturing of Concrete Technology ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1007/978-981-96-8834-0_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-96-8834-0_1</a>
+#Machine Learning-Based Prediction of Compressive Strength in Additive Manufacturing of Concrete Technology ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-8834-0_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-8834-0_1" target="_blank">10.1007/978-981-96-8834-0_1</a>
 
--------------------------
+<a href="../../../author/verma_shilpi"><b>Verma</b>&nbsp;Shilpi</a></span>, <a href="../../../author/parghi_anant"><b>Parghi</b>&nbsp;Anant</a></span><br>
+Contribution - Recent Advances in Structural Engineering, pp. 1-7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/verma_shilpi"><b>Verma</b> Shilpi</a>
-,     <a href="../../../author/parghi_anant"><b>Parghi</b> Anant</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Recent Advances in Structural Engineering, pp. 1-7
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#prediction`](keyword/prediction)
-    [`#strength`](keyword/strength)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Machine%20Learning-Based%20Prediction%20of%20Compressive%20Strength%20in%20Additive%20Manufacturing%20of%20Concrete%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020822524&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415325099" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-96-8834-0_1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-96-8834-0_1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Automated robotic systems are used to layer by layer deposit concrete in 3D printing. This new way of building has many benefits, such as being more environmentally friendly, using less material, saving money, and building faster. By leveraging ML and deep learning algorithms, including ANN, decision trees, and support vector machines, predictions of compressive strength are improved, ensuring enhanced structural performance and reliability. Additive manufacturing, commonly known as 3D printing, is an advanced digital technique used to construct three-dimensional structures with exceptional precision. In 3D concrete technology, the adoption of machine learning methods has introduced substantial benefits over traditional construction approaches. Machine learning models such as random forest, artificial neural networks (ANN), support vector regression (SVR), and linear regression facilitate accurate and efficient predictions of compressive strength and structural integrity. This technology employs automated robotic systems to deposit concrete layers systematically, offering sustainability, reduced material waste, cost efficiency, and faster construction timelines.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chan_xu_chen_gan.2021.ADLMfAoBPo3PC/">A Discrete Lattice-Model for Assessment of Buildability Performance of 3D Printed Concrete</a></li>
@@ -86,7 +64,38 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{verm_parg.2025.MLBPoCSiAMoCT,
+      author            = "Shilpi Verma and Anant Parghi",
+      title             = "Machine Learning-Based Prediction of Compressive Strength in Additive Manufacturing of Concrete Technology",
+      doi               = "10.1007/978-981-96-8834-0_1",
+      year              = "2025",
+      volume            = "690",
+      pages             = "1--7",
+      booktitle         = "Recent Advances in Structural Engineering",
+      editor            = "B. Kondraivendhan and S. A. Vasanwala and Indrajit N. Patel and U. Johnson Alengaram",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Verma  and A. Parghi, “Machine Learning-Based Prediction of Compressive Strength in Additive Manufacturing of Concrete Technology”, in <i>Recent Advances in Structural Engineering</i>,  2025, vol. 690, pp. 1–7. doi: 10.1007/978-981-96-8834-0_1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Verma, Shilpi, and Anant Parghi. “Machine Learning-Based Prediction of Compressive Strength in Additive Manufacturing of Concrete Technology”. In <i>Recent Advances in Structural Engineering</i>, edited by B. Kondraivendhan, S. A. Vasanwala, Indrajit N. Patel, and U. Johnson Alengaram, 690:1–7, 2025. https://doi.org/10.1007/978-981-96-8834-0_1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

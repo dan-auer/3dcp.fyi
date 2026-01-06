@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behrokh Khoshnevis, Richard Russell, Hongkyu Kwon, Satish Bukkapatnam
+    - footer
+title: Khoshnevis Behrokh, Russell Richard, Kwon Hongkyu, Bukkapatnam Satish
 description:
 tags:
  - craf
@@ -11,27 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Crafting Large Prototypes ([2001-09](date/2001/09))
-<a href="https://doi.org/10.1109/100.956812" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/100.956812</a>
+#Crafting Large Prototypes ([2001-09](date/2001/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/100.956812" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/100.956812" target="_blank">10.1109/100.956812</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/russell_richard"><b>Russell</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9789-3348" title="ORCID: 0000-0002-9789-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kwon_hongkyu"><b>Kwon</b>&nbsp;Hongkyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3312-8222" title="ORCID: 0000-0003-3312-8222" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b>&nbsp;Satish</a></span><br>
+Journal Article - IEEE Robotics & Automation Magazine, Vol. 8, Iss. 3, pp. 33-42
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>
-,     <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="https://orcid.org/0000-0002-9789-3348" title="ORCID: 0000-0002-9789-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="https://orcid.org/0000-0003-3312-8222" title="ORCID: 0000-0003-3312-8222" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IEEE Robotics & Automation Magazine, Vol. 8, Iss. 3, pp. 33-42
-
-:aca-blank:{ .lg .middle}
-    [`#craf`](keyword/craf)
-    [`#large`](keyword/large)
-    [`#prototype`](keyword/prototype)
-
-
--------------------------
+<a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Crafting%20Large%20Prototypes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-0035453995&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,22 +33,18 @@ tags:
 <a href="https://inciteful.xyz/p/W1979848033" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/100.956812" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/100.956812?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Contour crafting utilizes computer-aided ancient sculpting techniques for fabrication of large components. The article presents the essentials of the contour crafting process, the status of research and development of the process, experiments with thermoplastics and ceramics materials, engineering analysis of certain aspects of the technology, and its potential application areas.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "47 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lyu_wang_dai.2024.MPGCMbAB3CP/">Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing</a></li>
@@ -110,4 +93,35 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bekey_george"><b>Bekey</b> George</a> <a href="../../../date/2002/09">(2002-09)</a><br><a href="../../../khos_beke.2002.ACUCC/">Automated Construction Using Contour Crafting:<br/>Applications on Earth and Beyond</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khos_russ_kwon_bukk.2001.CLP,
+      author            = "Behrokh Khoshnevis and Richard Russell and Hongkyu Kwon and Satish Bukkapatnam",
+      title             = "Crafting Large Prototypes",
+      doi               = "10.1109/100.956812",
+      year              = "2001",
+      journal           = "IEEE Robotics & Automation Magazine",
+      volume            = "8",
+      number            = "3",
+      pages             = "33--42",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Khoshnevis, R. Russell, H. Kwon and S. Bukkapatnam, “Crafting Large Prototypes”, <i>IEEE Robotics & Automation Magazine</i>, vol. 8, no. 3, pp. 33–42, 2001, doi: 10.1109/100.956812.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khoshnevis, Behrokh, Richard Russell, Hongkyu Kwon, and Satish Bukkapatnam. “Crafting Large Prototypes”. <i>IEEE Robotics & Automation Magazine</i> 8, no. 3 (2001): 33–42. https://doi.org/10.1109/100.956812.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Szymon Skibicki, Mateusz Techman, Karol Federowicz, Norbert Olczyk, Marcin Hoffmann
+    - footer
+title: Skibicki Szymon, Techman Mateusz, Federowicz Karol, Olczyk Norbert, Hoffmann Marcin
 description:
 tags:
  - experiment
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/24/7643/pdf?version=1639225679) Experimental Study of Hardened Young's Modulus for 3D Printed Mortar ([2021-12](date/2021/12))
-<a href="https://doi.org/10.3390/ma14247643" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14247643</a>
+#Experimental Study of Hardened Young's Modulus for 3D Printed Mortar ([2021-12](date/2021/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/24/7643/pdf?version=1639225679) <a href="https://doi.org/10.3390/ma14247643" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14247643" target="_blank">10.3390/ma14247643</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/techman_mateusz"><b>Techman</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/federowicz_karol"><b>Federowicz</b>&nbsp;Karol</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4261-4946" title="ORCID: 0000-0002-4261-4946" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olczyk_norbert"><b>Olczyk</b>&nbsp;Norbert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 24
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> <a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> <a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a> <a href="https://orcid.org/0000-0002-4261-4946" title="ORCID: 0000-0002-4261-4946" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 24, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#experiment`](keyword/experiment)
-    [`#hardened`](keyword/hardened)
-    [`#modulus`](keyword/modulus)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#young`](keyword/young)
-
-
--------------------------
+<a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/modulus"><button class="btn">#modulus</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/young"><button class="btn">#young</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20of%20Hardened%20Young%27s%20Modulus%20for%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121303398&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200476344" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14247643" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14247643?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Few studies have focused on determining the Young's modulus of 3D printed structures. This study presents the results of experimental investigations of Young's modulus of a 3D printed mortar. Specimens were prepared in four different ways to investigate possible application of different methods for 3D printed structures. Study determines the influence of the number of layers on mechanical properties of printed samples. Results have shown a strong statistical correlation between the number of layers and value of Young's modulus. The compressive strength and Young's modulus reduction compared to standard cylindrical sample were up to 43.1% and 19.8%, respectively. Results of the study shed light on the differences between the current standard specimen used for determination of Young's modulus and the specimen prepared by 3D printing. The community should discuss the problem of standardization of test methods in view of visible differences between different types of specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../cho_krug_best_heev.2020.ACRMTfPAo3PC/">A Compendious Rheo-Mechanical Test for Printability-Assessment of 3D Printable Concrete</a></li>
@@ -108,8 +87,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sarikaya_kerem_m"><b>Sarıkaya</b> M.</a>, <a href="../../../author/benam_s_shaghayegh"><b>Benam</b> Shaghayegh</a>, <a href="../../../author/yilmaz_taner"><b>Yılmaz</b> Taner</a>, <a href="../../../author/erkmen_bulent"><b>Erkmen</b> Bülent</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sar_bena_ylm_erkm.2025.SPAo3PCS/">Seismic Performance Assessment of 3D-Printed Concrete Structures</a></li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../kasz_skib.2025.SDAf3CP/">Sustainable Development Approach for 3D Concrete Printing</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/dvorak_richard"><b>Dvořák</b> Richard</a>, <a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a>, <a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../skib_dvor_pazd_topo.2024.AMPo3PMDbSFaCTaAE/">Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission</a></li>
@@ -120,4 +99,34 @@ tags:
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../fede_tech_skib_chou.2023.Do3PHCCMA/">Development of 3D Printed Heavyweight Concrete Containing Magnetite-Aggregate</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/jakubowska_patrycja"><b>Jakubowska</b> Patrycja</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../skib_jaku_kasz_sibe.2021.EAMPo3PMwSG/">Early-Age Mechanical Properties of 3D Printed Mortar with Spent Garnet</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{skib_tech_fede_olcz.2021.ESoHYsMf3PM,
+      author            = "Szymon Skibicki and Mateusz Techman and Karol Federowicz and Norbert Olczyk and Marcin Hoffmann",
+      title             = "Experimental Study of Hardened Young's Modulus for 3D Printed Mortar",
+      doi               = "10.3390/ma14247643",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "24",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Skibicki, M. Techman, K. Federowicz, N. Olczyk and M. Hoffmann, “Experimental Study of Hardened Young's Modulus for 3D Printed Mortar”, <i>Materials</i>, vol. 14, no. 24, 2021, doi: 10.3390/ma14247643.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Skibicki, Szymon, Mateusz Techman, Karol Federowicz, Norbert Olczyk, and Marcin Hoffmann. “Experimental Study of Hardened Young's Modulus for 3D Printed Mortar”. <i>Materials</i> 14, no. 24 (2021). https://doi.org/10.3390/ma14247643.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

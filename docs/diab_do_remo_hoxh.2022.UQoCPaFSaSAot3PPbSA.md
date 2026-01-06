@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zeinab Diab, Duc Do, Sébastien Rémond, Dashnor Hoxha
+    - footer
+title: Diab Zeinab, Do Duc, Rémond Sébastien, Hoxha Dashnor
 description:
 tags:
  - analysis
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Uncertainty Quantification of Concrete Properties at Fresh State and Stability-Analysis of the 3D Printing Process by Stochastic Approach ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1007/978-3-031-06116-5_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-06116-5_23</a>
+#Uncertainty Quantification of Concrete Properties at Fresh State and Stability-Analysis of the 3D Printing Process by Stochastic Approach ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_23" target="_blank">10.1007/978-3-031-06116-5_23</a>
 
--------------------------
+<a href="../../../author/diab_zeinab"><b>Diab</b>&nbsp;Zeinab</a></span>, <a href="../../../author/do_phi_duc"><b>Do</b>&nbsp;Duc</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b>&nbsp;Dashnor</a></span><br>
+Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 155-160
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/diab_zeinab"><b>Diab</b> Zeinab</a>
-,     <a href="../../../author/do_phi_duc"><b>Do</b> Duc</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 155-160
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#fresh`](keyword/fresh)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#property`](keyword/property)
-    [`#quantification`](keyword/quantification)
-    [`#stability`](keyword/stability)
-    [`#state`](keyword/state)
-    [`#statistics`](keyword/statistics)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quantification"><button class="btn">#quantification</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/statistics"><button class="btn">#statistics</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Uncertainty%20Quantification%20of%20Concrete%20Properties%20at%20Fresh%20State%20and%20Stability-Analysis%20of%20the%203D%20Printing%20Process%20by%20Stochastic%20Approach" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133176166&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,25 +41,52 @@ tags:
 <a href="https://inciteful.xyz/p/W4285271921" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-06116-5_23" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-06116-5_23?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims at developing an efficient method that allows quantifying the uncertainties of concrete properties and their effect on the stability of structure during the 3D printing process. Following that, the well-known Bayesian inference will be chosen to characterize the uncertainties of the elastic and plastic properties of the cementitious material at fresh state using the results of experiments available in the literature. These characterized mechanical properties and their associated uncertainty will be then taken as input parameters for the stochastic analysis through which the probability of instability of the printed structure due to plastic and buckling collapses can be estimated. Our numerical results highlight the significant effect of uncertainty on the stability during printing of concrete structure, that has been ignored in the literature.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
       <li><a href="../../../author/do_phi_duc"><b>Do</b> Duc</a>, <a href="../../../author/diab_zeinab"><b>Diab</b> Zeinab</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../do_diab_remo_hoxh.2025.NSTf3P/">Numerical Simulation-Tools for 3D Printing</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_qian.2024.DDROBAo3CPCW/">Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall</a></li>
       <li><a href="../../../author/diab_zeinab"><b>Diab</b> Zeinab</a>, <a href="../../../author/do_phi_duc"><b>Do</b> Duc</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../diab_do_remo_hoxh.2023.PPoSFD3CPP/">Probabilistic Prediction of Structural Failure During 3D Concrete Printing Processes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{diab_do_remo_hoxh.2022.UQoCPaFSaSAot3PPbSA,
+      author            = "Zeinab Diab and Duc Phi Do and Sébastien Rémond and Dashnor Hoxha",
+      title             = "Uncertainty Quantification of Concrete Properties at Fresh State and Stability-Analysis of the 3D Printing Process by Stochastic Approach",
+      doi               = "10.1007/978-3-031-06116-5_23",
+      year              = "2022",
+      volume            = "37",
+      pages             = "155--160",
+      booktitle         = "Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022",
+      editor            = "Richard A. Buswell and Ana Blanco and Sergio Cavalaro and Peter Kinnell",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Diab, D. P. Do, S. Rémond and D. Hoxha, “Uncertainty Quantification of Concrete Properties at Fresh State and Stability-Analysis of the 3D Printing Process by Stochastic Approach”, in <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>,  2022, vol. 37, pp. 155–160. doi: 10.1007/978-3-031-06116-5_23.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Diab, Zeinab, Duc Phi Do, Sébastien Rémond, and Dashnor Hoxha. “Uncertainty Quantification of Concrete Properties at Fresh State and Stability-Analysis of the 3D Printing Process by Stochastic Approach”. In <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>, edited by Richard A. Buswell, Ana Blanco, Sergio Cavalaro, and Peter Kinnell, 37:155–60, 2022. https://doi.org/10.1007/978-3-031-06116-5_23.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zahra Miri, Hassan Baaj, Maria Polak
+    - footer
+title: Miri Zahra, Baaj Hassan, Polak Maria
 description:
 tags:
  - cohesion
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Exploring Interfaces in 3D-Printed Concrete Through Cohesive Zone Modelling ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1007/978-3-031-95288-3_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-95288-3_18</a>
+#Exploring Interfaces in 3D-Printed Concrete Through Cohesive Zone Modelling ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-95288-3_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-95288-3_18" target="_blank">10.1007/978-3-031-95288-3_18</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-5503-9502" title="ORCID: 0009-0006-5503-9502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/miri_sadat_zahra"><b>Miri</b>&nbsp;Zahra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0033-0803" title="ORCID: 0000-0003-0033-0803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baaj_hassan"><b>Baaj</b>&nbsp;Hassan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1653-3915" title="ORCID: 0000-0002-1653-3915" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/polak_anna_maria"><b>Polak</b>&nbsp;Maria</a></span><br>
+Contribution - Proceedings of the Canadian Society for Civil Engineering Annual Conference 2024, pp. 199-212
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a> <a href="https://orcid.org/0009-0006-5503-9502" title="ORCID: 0009-0006-5503-9502" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a> <a href="https://orcid.org/0000-0003-0033-0803" title="ORCID: 0000-0003-0033-0803" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="https://orcid.org/0000-0002-1653-3915" title="ORCID: 0000-0002-1653-3915" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the Canadian Society for Civil Engineering Annual Conference 2024, pp. 199-212
-
-:aca-blank:{ .lg .middle}
-    [`#cohesion`](keyword/cohesion)
-    [`#concrete`](keyword/concrete)
-    [`#exploration`](keyword/exploration)
-    [`#interface`](keyword/interface)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#zone`](keyword/zone)
-
-
--------------------------
+<a href="../../keyword/cohesion"><button class="btn">#cohesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/zone"><button class="btn">#zone</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Interfaces%20in%203D-Printed%20Concrete%20Through%20Cohesive%20Zone%20Modelling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019178328&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7084497644" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-95288-3_18" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-95288-3_18?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is a revolutionary construction technology in which concrete is deposited layer-by-layer from a nozzle mounted on a gantry or a robotic arm. The absence of formwork in this innovative technique enhances cost-effectiveness, accelerates the construction process, and offers a more sustainable alternative than conventional methods. Although knowledge concerning 3DCP is progressing, certain technical challenges need to be addressed for the industry to grow. One primary concern is the presence of interfaces between stacked layers of concrete that can induce anisotropy in the mechanical properties of 3D-printed components and affect their performance. Another critical issue is the absence of established experimental protocols and design standards for designers to follow. This study focuses on the finite element analysis of the interlayers within 3D-printed concrete as a dependable finite element model can offer valuable insights in-to the delamination of interfaces and expedite the process of establishing codified standards. 3D-printed concrete specimens subjected to uniaxial tension and compression were simulated in Abaqus, and then their results were compared to corresponding experimental tests. The interfaces were modelled using two different methods based on the cohesive zone modelling (CZM) approach. These methods include cohesive elements and cohesive surface contact. In each case, the constitutive relation of the interface was defined by the traction-separation law. The findings showed that cohesive elements provided more precise results in direct tension regarding the tensile strength and load-displacement response compared to a surface-based cohesive interaction. However, for specimens under compression, neither cohesive elements nor cohesive surface contact effectively captured interface failure despite demonstrating a reduction in compressive strength in 3D-printed concrete compared to mould-cast concrete. Moreover, the study explored the impact of interface stiffness and damage evolution parameters on the overall response of specimens with zero-thickness cohesive elements. It was concluded that the strength of the interface is not significantly affected by its stiffness if the latter exceeds the modulus of elasticity of the concrete material within the layer. Additionally, it was observed that a linear softening behaviour in damage evolution better conformed to the load-displacement curve of specimens subjected to tension.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../marc_sanj_nema_xia.2019.ILSo3PC/">Inter-Layer Strength of 3D Printed Concrete</a></li>
@@ -74,7 +54,38 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{miri_baaj_pola.2025.EIi3PCTCZM,
+      author            = "Zahra Sadat Miri and Hassan Baaj and Maria Anna Polak",
+      title             = "Exploring Interfaces in 3D-Printed Concrete Through Cohesive Zone Modelling",
+      doi               = "10.1007/978-3-031-95288-3_18",
+      year              = "2025",
+      volume            = "671",
+      pages             = "199--212",
+      booktitle         = "Proceedings of the Canadian Society for Civil Engineering Annual Conference 2024",
+      editor            = "Ehab Elsalakawy and Ahmed Elshaer and Ayman El Ansary",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. S. Miri, H. Baaj and M. A. Polak, “Exploring Interfaces in 3D-Printed Concrete Through Cohesive Zone Modelling”, in <i>Proceedings of the Canadian Society for Civil Engineering Annual Conference 2024</i>,  2025, vol. 671, pp. 199–212. doi: 10.1007/978-3-031-95288-3_18.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Miri, Zahra Sadat, Hassan Baaj, and Maria Anna Polak. “Exploring Interfaces in 3D-Printed Concrete Through Cohesive Zone Modelling”. In <i>Proceedings of the Canadian Society for Civil Engineering Annual Conference 2024</i>, edited by Ehab Elsalakawy, Ahmed Elshaer, and Ayman El Ansary, 671:199–212, 2025. https://doi.org/10.1007/978-3-031-95288-3_18.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

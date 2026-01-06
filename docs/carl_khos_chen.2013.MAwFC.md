@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tony Carlo, Behrokh Khoshnevis, Yong Chen
+    - footer
+title: Carlo Tony, Khoshnevis Behrokh, Chen Yong
 description:
 tags:
  - additive
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Manufacturing Additively, with Fresh Concrete ([2013-11](date/2013/11))
-<a href="https://doi.org/10.1115/imece2013-63996" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1115/imece2013-63996</a>
+#Manufacturing Additively, with Fresh Concrete ([2013-11](date/2013/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/imece2013-63996" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/imece2013-63996" target="_blank">10.1115/imece2013-63996</a>
 
--------------------------
+<a href="../../../author/carlo_tony"><b>di&nbsp;Carlo</b>&nbsp;Tony</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/chen_yong"><b>Chen</b>&nbsp;Yong</a></span><br>
+Contribution - Proceedings of the ASME International Mechanical Engineering Congress and Exposition
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/carlo_tony"><b>di Carlo</b> Tony</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yong"><b>Chen</b> Yong</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the ASME International Mechanical Engineering Congress and Exposition, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#fresh`](keyword/fresh)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Manufacturing%20Additively%2C%20with%20Fresh%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84903465187&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2330998900" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1115/imece2013-63996" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1115/imece2013-63996?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research explores mega-scale additive manufacturing, using fresh concrete. In traditional concreting, rigid forms mold and protect young concrete, like an exoskeleton. Typically, these forms are not removed until the maturing material has developed considerable load-bearing strength. Conversely, Contour Crafting, an automated construction technology under development at the University of Southern California, proposes to rapidly fabricate civil structures additively - layering continuous ribbons of fresh unconfined concrete. The process, which is akin to 3-D printing, leverages a special polymermodified concrete which is both highly workable and shape– stable. However, without exoskeleton, the freshly layered concrete must be load-bearing immediately upon placement. This is an unprecedented structural requirement, and little has been done to substantiate uncured concrete as a load-bearing member. This research establishes the build rates and material health monitoring necessary to erect these structures safely, and demonstrates the Contour Crafting process is viable.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
@@ -66,8 +49,8 @@ tags:
       <li><a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2009/09">(2009-09)</a><br><a href="../../../yeh_khos.2009.GCAfAFPGRS/">Geometric Conformity-Analysis for Automated Fabrication Processes Generating Ruled Surfaces:<br/>Demonstration for Contour Crafting</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/diab_zeinab"><b>Diab</b> Zeinab</a>, <a href="../../../author/do_phi_duc"><b>Do</b> Duc</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../diab_do_remo_hoxh.2023.PPoSFD3CPP/">Probabilistic Prediction of Structural Failure During 3D Concrete Printing Processes</a></li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tami_alqa_khal_alha.2023.Fo3CPPaC/">Framework of 3D Concrete Printing Potential and Challenges</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
@@ -79,4 +62,32 @@ tags:
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{carl_khos_chen.2013.MAwFC,
+      author            = "Tony Di Carlo and Behrokh Khoshnevis and Yong Chen",
+      title             = "Manufacturing Additively, with Fresh Concrete",
+      doi               = "10.1115/imece2013-63996",
+      year              = "2013",
+      booktitle         = "Proceedings of the ASME International Mechanical Engineering Congress and Exposition: ASME 2013",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. D. Carlo, B. Khoshnevis and Y. Chen, “Manufacturing Additively, with Fresh Concrete”,  2013. doi: 10.1115/imece2013-63996.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Carlo, Tony Di, Behrokh Khoshnevis, and Yong Chen. “Manufacturing Additively, with Fresh Concrete”. In <i>Proceedings of the ASME International Mechanical Engineering Congress and Exposition: ASME 2013</i>, 2013. https://doi.org/10.1115/imece2013-63996.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

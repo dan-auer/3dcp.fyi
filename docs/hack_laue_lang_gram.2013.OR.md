@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Norman Hack, Willi Lauer, Silke Langenberg, Fabio Gramazio, Matthias Kohler
+    - footer
+title: Hack Norman, Lauer Willi, Langenberg Silke, Gramazio Fabio, Kohler Matthias
 description:
 tags:
  - fabrication
@@ -14,31 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Overcoming Repetition:<br/>:aca-blank: Robotic Fabrication Processes at a Large-Scale ([2013-09](date/2013/09))
-<a href="https://doi.org/10.1260/1478-0771.11.3.285" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1260/1478-0771.11.3.285</a>
+#Overcoming Repetition&nbsp;([2013-09](date/2013/09))
+<div class="h1-like">Robotic Fabrication Processes at a Large-Scale</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1260/1478-0771.11.3.285" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1260/1478-0771.11.3.285" target="_blank">10.1260/1478-0771.11.3.285</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b>&nbsp;Willi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6114-2369" title="ORCID: 0000-0001-6114-2369" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/langenberg_silke"><b>Langenberg</b>&nbsp;Silke</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
+Journal Article - International Journal of Architectural Computing, Vol. 11, Iss. 3, pp. 285-299
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a>
-,     <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a> <a href="https://orcid.org/0000-0001-6114-2369" title="ORCID: 0000-0001-6114-2369" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Architectural Computing, Vol. 11, Iss. 3, pp. 285-299
-
-:aca-blank:{ .lg .middle}
-    [`#fabrication`](keyword/fabrication)
-    [`#large`](keyword/large)
-    [`#process`](keyword/process)
-    [`#repetition`](keyword/repetition)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/repetition"><button class="btn">#repetition</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Overcoming%20Repetition" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84885141166&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,23 +37,18 @@ tags:
 <a href="https://inciteful.xyz/p/W1983911299" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1260/1478-0771.11.3.285" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1260/1478-0771.11.3.285?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the context of the Future Cities Laboratory (FCL) of ETH Zurich, the Professorship for Architecture and Digital Fabrication of Fabio Gramazio and Matthias Kohler has set up a robotic laboratory to investigate the potentials of non-standard robotic fabrication for high rise constructions in Singapore. The high degree of industrialisation of this dominant building typology implies standardisation, simplification and repetition and accounts for the increasing monotony evident in many Asian metropolises. The aim of this research on material systems for robotic construction is to develop a new and competitive construction method that makes full use of the malleable potential of concrete as a building material. A novel, spatial, robotic “weaving” method of a tensile active material that simultaneously acts as the form defining mould, folds two separate aspects of concrete -reinforcement and formwork-into one single robotic fabrication process (see Figure 1). This in-situ process could permit the fabrication of structurally differentiated, spatially articulated and material efficient buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/helm_volker"><b>Helm</b> Volker</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2012/10">(2012-10)</a><br><a href="../../../helm_jenn_gram_kohl.2012.MRFoCS/">Mobile Robotic Fabrication on Construction Sites:<br/>DimRob</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a>, <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a> <a href="../../../date/2013/05">(2013-05)</a><br><a href="../../../llor_gram_kohl_lang.2013.CCC/">Complex Concrete Constructions:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
       <li><a href="../../../author/shukla_kant_bishnu"><b>Shukla</b> Bishnu</a>, <a href="../../../author/bharti_gaurav"><b>Bharti</b> Gaurav</a>, <a href="../../../author/parashar_bhupender"><b>Parashar</b> Bhupender</a>, <a href="../../../author/sharma_kumar_pushpendra"><b>Sharma</b> Pushpendra</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../shuk_bhar_para_shar.2025.VItPo3CPfSC/">Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction:<br/>Current Status and Future Prospects</a></li>
       <li><a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../roll_pras.2022.APCaCPo3CPTatFoSC/">Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction:<br/>A State of the Art Review</a></li>
@@ -81,4 +60,35 @@ tags:
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/martins_filipe_pedro"><b>Martins</b> Pedro</a>, <a href="../../../author/sousa_pedro_jose"><b>Sousa</b> José</a> <a href="../../../date/2014/09">(2014-09)</a><br><a href="../../../mart_sous.2014.DFTiCA/">Digital Fabrication Technology in Concrete Architecture</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hack_laue_lang_gram.2013.OR,
+      author            = "Norman Peter Hack and Willi Viktor Lauer and Silke Langenberg and Fabio Gramazio and Matthias Daniel Kohler",
+      title             = "Overcoming Repetition: Robotic Fabrication Processes at a Large-Scale",
+      doi               = "10.1260/1478-0771.11.3.285",
+      year              = "2013",
+      journal           = "International Journal of Architectural Computing",
+      volume            = "11",
+      number            = "3",
+      pages             = "285--299",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. P. Hack, W. V. Lauer, S. Langenberg, F. Gramazio and M. D. Kohler, “Overcoming Repetition: Robotic Fabrication Processes at a Large-Scale”, <i>International Journal of Architectural Computing</i>, vol. 11, no. 3, pp. 285–299, 2013, doi: 10.1260/1478-0771.11.3.285.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hack, Norman Peter, Willi Viktor Lauer, Silke Langenberg, Fabio Gramazio, and Matthias Daniel Kohler. “Overcoming Repetition: Robotic Fabrication Processes at a Large-Scale”. <i>International Journal of Architectural Computing</i> 11, no. 3 (2013): 285–99. https://doi.org/10.1260/1478-0771.11.3.285.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

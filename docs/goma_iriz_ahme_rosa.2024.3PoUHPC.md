@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shady Gomaa, Elmer Irizarry, Ayesha Ahmed, Raul Rosa, Hassan Ahmed, Jedadiah Burroughs, Eric Kreiger, Jiaqi Liu, Matthew Troemner, Gianluca Cusatis
+    - footer
+title: Gomaa Shady, Irizarry Elmer, Ahmed Ayesha, Rosa Raul, Ahmed Hassan, Burroughs Jedadiah, Kreiger Eric, Liu Jiaqi, Troemner Matthew, Cusatis Gianluca
 description:
 tags:
  - concrete
@@ -16,38 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing of Ultra-High-Performance Concrete:<br/>:aca-blank: Shape Stability for Various Printing Systems ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.139039" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.139039</a>
+#3D Printing of Ultra-High-Performance Concrete&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Shape Stability for Various Printing Systems</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.139039" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139039" target="_blank">10.1016/j.conbuildmat.2024.139039</a>
 
--------------------------
+<a href="../../../author/gomaa_shady"><b>Gomaa</b>&nbsp;Shady</a></span>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b>&nbsp;Elmer</a></span>, <a href="../../../author/ahmed_ayesha"><b>Ahmed</b>&nbsp;Ayesha</a></span>, <a href="../../../author/rosa_marrero_raul"><b>Rosa</b>&nbsp;Raul</a></span>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b>&nbsp;Hassan</a></span>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b>&nbsp;Jedadiah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span>, <a href="../../../author/liu_jiaqi"><b>Liu</b>&nbsp;Jiaqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3338-6013" title="ORCID: 0000-0002-3338-6013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/troemner_matthew"><b>Troemner</b>&nbsp;Matthew</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cusatis_gianluca"><b>Cusatis</b>&nbsp;Gianluca</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 456, No. 139039
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gomaa_shady"><b>Gomaa</b> Shady</a>
-,     <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a>
-,     <a href="../../../author/ahmed_ayesha"><b>Ahmed</b> Ayesha</a>
-,     <a href="../../../author/rosa_marrero_raul"><b>Rosa</b> Raul</a>
-,     <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>
-,     <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a>
-,     <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_jiaqi"><b>Liu</b> Jiaqi</a>
-,     <a href="../../../author/troemner_matthew"><b>Troemner</b> Matthew</a> <a href="https://orcid.org/0000-0002-3338-6013" title="ORCID: 0000-0002-3338-6013" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cusatis_gianluca"><b>Cusatis</b> Gianluca</a> <a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 456, No. 139039
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#shape`](keyword/shape)
-    [`#stability`](keyword/stability)
-    [`#system`](keyword/system)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209364708&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404553449" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.139039" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.139039?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, global attention has turned to concrete 3D printing for its potential in structure optimization, lifecycle extension, emission reduction, and cost savings. However, uncertainties persist regarding the printability of ultra-high-performance concrete (UHPC). Previous studies often tailor a mix to a specific printing system and evaluate its printability based on measurements of pumpability, extrudability, and buildability, assuming consistent shape stability regardless of the chosen printing system. To further investigate this assumption, an experimental program was conducted using various printing systems on a nano-modified UHPC mix. Nano clay was incorporated into the self-leveling UHPC mix to increase its viscosity and yield stress, thereby enhancing layer stability post-extrusion. The experimental parameters included the type of robotic system, extrusion system, nozzle design, and material pumping method. Two robotic systems were utilized: a medium-scale gantry and a large-scale ABB robotic arm. Two distinct extrusion systems, a piston-type extruder and an auger system, were employed. Various nozzles, including circular and rectangular designs, were tested. Two pumps were used: a cavity pump and a Thom-Katt pump (piston-type pump). The results indicated that the shape stability of the UHPC mix is significantly influenced by the printing system, suggesting that concrete printability is dependent on the printing system rather than being an inherent material property, as suggested by other researchers. Furthermore, the use of a circular nozzle demonstrated different shape stabilities when the extrusion system was changed from a piston-type extruder to an auger system. Shape stability improved with the auger system due to the lower accumulated pressure within the system. Additionally, the method of material pumping to the extrusion system was found to be critical for the shape stability of the printed layers. The mix failed to maintain its shape post-extrusion when the cavity pump was employed, which was attributed to the higher strain rates imposed on the material during the pumping process. In contrast, this issue was not observed when the piston-type pump was used.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -111,8 +84,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
@@ -124,4 +97,34 @@ tags:
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/albeitjali_naeem"><b>Albeitjali</b> Naeem</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../irsh_albe_amja_alnu.2025.FWtS/">From Waste to Strength:<br/>Recycled Steel Fibers for Sustainable 3D Printing of Cementitious Composites</a></li>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{goma_iriz_ahme_rosa.2024.3PoUHPC,
+      author            = "Shady Gomaa and Elmer M. Irizarry and Ayesha Ahmed and Raul Marrero Rosa and Hassan Ahmed and Jedadiah F. Burroughs and Eric L. Kreiger and Jiaqi Liu and Matthew Troemner and Gianluca Cusatis",
+      title             = "3D Printing of Ultra-High-Performance Concrete: Shape Stability for Various Printing Systems",
+      doi               = "10.1016/j.conbuildmat.2024.139039",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "456",
+      pages             = "139039",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Gomaa, “3D Printing of Ultra-High-Performance Concrete: Shape Stability for Various Printing Systems”, <i>Construction and Building Materials</i>, vol. 456, p. 139039, 2024, doi: 10.1016/j.conbuildmat.2024.139039.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gomaa, Shady, Elmer M. Irizarry, Ayesha Ahmed, Raul Marrero Rosa, Hassan Ahmed, Jedadiah F. Burroughs, Eric L. Kreiger, Jiaqi Liu, Matthew Troemner, and Gianluca Cusatis. “3D Printing of Ultra-High-Performance Concrete: Shape Stability for Various Printing Systems”. <i>Construction and Building Materials</i> 456 (2024): 139039. https://doi.org/10.1016/j.conbuildmat.2024.139039.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

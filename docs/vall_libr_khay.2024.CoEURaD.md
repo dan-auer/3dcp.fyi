@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kavya Vallurupalli, Nicolas Libre, Kamal Khayat
+    - footer
+title: Vallurupalli Kavya, Libre Nicolas, Khayat Kamal
 description:
 tags:
  - characteristic
@@ -11,26 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Characterization of Extrudability Using Rheology and Desorptivity ([2024-04](date/2024/04))
-<a href="https://doi.org/10.14359/51740301" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51740301</a>
+#Characterization of Extrudability Using Rheology and Desorptivity ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51740301" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51740301" target="_blank">10.14359/51740301</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8884-6411" title="ORCID: 0000-0001-8884-6411" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b>&nbsp;Kavya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0528-2639" title="ORCID: 0000-0002-0528-2639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/libre_ali_nicolas"><b>Libre</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 121, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a> <a href="https://orcid.org/0000-0001-8884-6411" title="ORCID: 0000-0001-8884-6411" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="https://orcid.org/0000-0002-0528-2639" title="ORCID: 0000-0002-0528-2639" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 121, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#extrusion`](keyword/extrusion)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%20Extrudability%20Using%20Rheology%20and%20Desorptivity" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190836770&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394766088" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51740301" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51740301?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Successful implementation of extrusion-based three-dimensional (3-D) printing requires the development of print materials with adapted rheology. In this study, filtration characteristics coupled with rheological properties of mortar mixtures are investigated to characterize the extrudability of print materials and establish a “printability window” (that is, the acceptable range of material properties for successful extrusion and shape stability). The extrudability was measured as the maximum force needed for the ram extrusion of the material. The fluid filtration rate was assessed in terms of desorptivity of the fresh mixture under pressure. The yield stress, plastic viscosity, and desorptivity were varied by changing the water-cement ratio (w/c), high-range water-reducing admixture (HRWRA) dosage, and welan gum (WG) content. Regression analysis indicated that during extrusion-based printing, the yield stress and desorptivity values can exhibit a more significant effect on extrudability than plastic viscosity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
@@ -79,10 +63,38 @@ tags:
       <li><a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a>, <a href="../../../author/hong_jinxiang"><b>Hong</b> Jinxiang</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../wi_hong_wang.2021.DPZoTDPMUFTT/">Determining Printable Zone of Three-Dimensional-Printable Mortar Using Flow-Table Tests</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../fasi_libr.2024.IBMaPPD3CEP/">Interaction Between Material and Process-Parameters During 3D Concrete-Extrusion-Process</a></li>
-      <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../fasi_libr.2024.FPtD/">From Pumping to Deposition:<br/>A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability</a></li>
-      <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b> Alfred</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../li_adda_krei_khay.2024.MtDEFFRCf3P/">Methodology to Design Eco-Friendly Fiber-Reinforced Concrete for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vall_libr_khay.2024.CoEURaD,
+      author            = "Kavya Vallurupalli and Nicolas Ali Libre and Kamal H. Khayat",
+      title             = "Characterization of Extrudability Using Rheology and Desorptivity",
+      doi               = "10.14359/51740301",
+      year              = "2024",
+      journal           = "ACI Materials Journal",
+      volume            = "121",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Vallurupalli, N. A. Libre and K. H. Khayat, “Characterization of Extrudability Using Rheology and Desorptivity”, <i>ACI Materials Journal</i>, vol. 121, no. 2, 2024, doi: 10.14359/51740301.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vallurupalli, Kavya, Nicolas Ali Libre, and Kamal H. Khayat. “Characterization of Extrudability Using Rheology and Desorptivity”. <i>ACI Materials Journal</i> 121, no. 2 (2024). https://doi.org/10.14359/51740301.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ece Öztürk, Ceren Ince, Yuri Borgianni, Demetris Nicolaides, Richard Ball
+    - footer
+title: Öztürk Ece, Ince Ceren, Borgianni Yuri, Nicolaides Demetris, Ball Richard
 description:
 tags:
  - accelerator
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1080/19648189.2025.2594585" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/19648189.2025.2594585</a>
+#Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1080/19648189.2025.2594585" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19648189.2025.2594585" target="_blank">10.1080/19648189.2025.2594585</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7940-7513" title="ORCID: 0000-0001-7940-7513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozturk_ece"><b>Öztürk</b>&nbsp;Ece</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5210-0228" title="ORCID: 0000-0002-5210-0228" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ince_ceren"><b>Ince</b>&nbsp;Ceren</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5284-4673" title="ORCID: 0000-0002-5284-4673" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borgianni_yuri"><b>Borgianni</b>&nbsp;Yuri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6027-6207" title="ORCID: 0000-0002-6027-6207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicolaides_demetris"><b>Nicolaides</b>&nbsp;Demetris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ball_j_richard"><b>Ball</b>&nbsp;Richard</a></span><br>
+Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-34
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a> <a href="https://orcid.org/0000-0001-7940-7513" title="ORCID: 0000-0001-7940-7513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a> <a href="https://orcid.org/0000-0002-5210-0228" title="ORCID: 0000-0002-5210-0228" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a> <a href="https://orcid.org/0000-0002-5284-4673" title="ORCID: 0000-0002-5284-4673" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> <a href="https://orcid.org/0000-0002-6027-6207" title="ORCID: 0000-0002-6027-6207" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a> <a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-34
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#cement`](keyword/cement)
-    [`#engineered`](keyword/engineered)
-    [`#environment`](keyword/environment)
-    [`#hydration`](keyword/hydration)
-    [`#implication`](keyword/implication)
-    [`#incorporation`](keyword/incorporation)
-    [`#lime`](keyword/lime)
-    [`#mortar`](keyword/mortar)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/lime"><button class="btn">#lime</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%2C%20Engineering%20Properties%20and%20Environmental%20Implications%20of%203D-Printed%20Cementitious%20Mortars%20Incorporating%20Hydrated%20Lime%2C%20Tile%20Powder%20and%20Accelerator" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417118594" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/19648189.2025.2594585" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/19648189.2025.2594585?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing offers transformative potential in construction, yet optimising the performance of cementitious materials before and after extrusion remains a critical challenge. This study presents a performance-based mix design framework targeting extrudability, buildability, and layer stability, while evaluating the individual and combined effects of cement (C), hydrated lime (L), recycled tile powder (T), and chemical accelerators (A). Results reveal that their synergy significantly enhances rheology, yield stress, and print stability, while maintaining sufficient flowability. A specifically optimised mix, CLTA, achieved a 40% reduction in shrinkage, improved interlayer bonding, and markedly increased mechanical strength, modulus of toughness, and failure strain, key for energy absorption in printed structures. Environmentally, CLTA reduced raw material demand and improved eco-strength and cost-efficiency by up to 20%, promoting circularity and resource efficiency. The findings provide a robust pathway for designing high-performance, sustainable 3D-printed mortars, integrating engineering functionality with ecological resilience, paving the way for broader adoption of additive manufacturing in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "54 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bao_minh-phuong_ta"><b>Bao</b> Ta</a>, <a href="../../../author/yeakleang_muy"><b>Yeakleang</b> Muy</a>, <a href="../../../author/abdelouhab_sandra"><b>Abdelouhab</b> Sandra</a>, <a href="../../../author/courard_luc"><b>Courard</b> Luc</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../bao_yeak_abde_cour.2024.TMf3P/">Testing Mortars for 3D Printing:<br/>Correlation with Rheological Behavior</a></li>
       <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/souza-dias_leonardo"><b>Souza Dias</b> Leonardo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../barb_anjo_cabr_souz.2022.DoCf3PwRCC/">Development of Composites for 3D Printing with Reduced Cement Consumption</a></li>
@@ -133,7 +105,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA,
+      author            = "Ece Öztürk and Ceren Ince and Yuri Borgianni and Demetris Nicolaides and Richard J. Ball",
+      title             = "Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator",
+      doi               = "10.1080/19648189.2025.2594585",
+      year              = "2025",
+      journal           = "European Journal of Environmental and Civil Engineering",
+      pages             = "1--34",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Öztürk, C. Ince, Y. Borgianni, D. Nicolaides and R. J. Ball, “Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator”, <i>European Journal of Environmental and Civil Engineering</i>, pp. 1–34, 2025, doi: 10.1080/19648189.2025.2594585.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Öztürk, Ece, Ceren Ince, Yuri Borgianni, Demetris Nicolaides, and Richard J. Ball. “Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator”. <i>European Journal of Environmental and Civil Engineering</i>, 2025, 1–34. https://doi.org/10.1080/19648189.2025.2594585.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

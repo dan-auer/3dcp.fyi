@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatima Ramirez Rodriguez, Rafiq Ahmad
+    - footer
+title: Ramirez Rodriguez Fatima, Ahmad Rafiq
 description:
 tags:
  - additive
@@ -15,29 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sustainable Technology Advances for Additive Construction:<br/>:aca-blank: A State-of-the-Art Review ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1007/s41693-025-00167-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41693-025-00167-9</a>
+#Sustainable Technology Advances for Additive Construction&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">A State-of-the-Art Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-025-00167-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-025-00167-9" target="_blank">10.1007/s41693-025-00167-9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-2185-5006" title="ORCID: 0009-0000-2185-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9353-3380" title="ORCID: 0000-0001-9353-3380" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmad_rafiq"><b>Ahmad</b>&nbsp;Rafiq</a></span><br>
+Journal Article - Construction Robotics, Vol. 9, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a> <a href="https://orcid.org/0009-0000-2185-5006" title="ORCID: 0009-0000-2185-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="https://orcid.org/0000-0001-9353-3380" title="ORCID: 0000-0001-9353-3380" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Robotics, Vol. 9, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#advance`](keyword/advance)
-    [`#construction`](keyword/construction)
-    [`#review`](keyword/review)
-    [`#state`](keyword/state)
-    [`#sustainability`](keyword/sustainability)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Technology%20Advances%20for%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414217699" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41693-025-00167-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41693-025-00167-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Housing shortages, environmental degradation, and affordability crises are pressing the construction sector to adopt integrated sustainable solutions. This review identifies the automation technology bottlenecks that currently hinder Additive Construction. Using a PRISMA-based protocol, we screened 1331 papers (2013–2025) and retained 77 to analyze five dimensions of Additive Construction: Sustainability, Materials, Masonry, Process Improvement, and Printing Technology. We explored research directions, advantages, achievements, and technological gaps, especially from a machinery-wise and automation perspective, and proposed system upgrades to address them. Evidence reveals issues on motion stability, accuracy and coordination for positioning systems, gaps in printers' components design, and unpredictability of material behavior during deposition. This approach identifies priority research areas for technological development, such as inline mixing, real-time monitoring systems, adaptive controllers, and advanced digital models. By reframing Additive Construction challenges as machine-design specifications, this review guides engineering teams in advancing construction automation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../ambi_kali_seba_shek.2023.MAf3PC/">Mixing Approach for 3D Printable Concrete:<br/>Method of Addition and Optimization of Superplasticizer Dosage</a></li>
@@ -116,7 +98,37 @@ tags:
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_sun_wang_wang.2025.RTaHADMf3CPUTN/">Real-Time and High-Accuracy Defect Monitoring for 3D Concrete Printing Using Transformer Networks</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rami_ahma.2025.STAfAC,
+      author            = "Fatima Mariana Ramirez Rodriguez and Rafiq Ahmad",
+      title             = "Sustainable Technology Advances for Additive Construction: A State-of-the-Art Review",
+      doi               = "10.1007/s41693-025-00167-9",
+      year              = "2025",
+      journal           = "Construction Robotics",
+      volume            = "9",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. M. R. Rodriguez  and R. Ahmad, “Sustainable Technology Advances for Additive Construction: A State-of-the-Art Review”, <i>Construction Robotics</i>, vol. 9, no. 2, 2025, doi: 10.1007/s41693-025-00167-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rodriguez, Fatima Mariana Ramirez, and Rafiq Ahmad. “Sustainable Technology Advances for Additive Construction: A State-of-the-Art Review”. <i>Construction Robotics</i> 9, no. 2 (2025). https://doi.org/10.1007/s41693-025-00167-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

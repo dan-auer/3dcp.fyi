@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abraham Mansouri, Alreem Binali, Abdulla Aljawi, Ahmed Alhammadi, Khalid Almir, Ebrahim Alnuaimi, Hamad Alyousuf, Edwin Rodriguez-Ubinas
+    - footer
+title: Mansouri Abraham, Binali Alreem, Aljawi Abdulla, Alhammadi Ahmed, Almir Khalid, Alnuaimi Ebrahim, Alyousuf Hamad, Rodriguez-Ubinas Edwin
 description:
 tags:
  - air
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1080/23311916.2022.2130203) Thermal Modeling of the Convective Heat-Transfer in the Large Air-Cavities of the 3D Concrete Printed Walls ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1080/23311916.2022.2130203" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/23311916.2022.2130203</a>
+#Thermal Modeling of the Convective Heat-Transfer in the Large Air-Cavities of the 3D Concrete Printed Walls ([2022-10](date/2022/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/23311916.2022.2130203) <a href="https://doi.org/10.1080/23311916.2022.2130203" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/23311916.2022.2130203" target="_blank">10.1080/23311916.2022.2130203</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mansouri_abraham"><b>Mansouri</b>&nbsp;Abraham</a></span>, <a href="../../../author/binali_alreem"><b>Binali</b>&nbsp;Alreem</a></span>, <a href="../../../author/aljawi_abdulla"><b>Aljawi</b>&nbsp;Abdulla</a></span>, <a href="../../../author/alhammadi_ahmed"><b>Alhammadi</b>&nbsp;Ahmed</a></span>, <a href="../../../author/almir_khalid"><b>Almir</b>&nbsp;Khalid</a></span>, <a href="../../../author/alnuaimi_ebrahim"><b>Alnuaimi</b>&nbsp;Ebrahim</a></span>, <a href="../../../author/alyousuf_hamad"><b>Alyousuf</b>&nbsp;Hamad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1453-7883" title="ORCID: 0000-0002-1453-7883" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b>&nbsp;Edwin</a></span><br>
+Journal Article - Cogent Engineering, Vol. 9, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a> <a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>
-,     <a href="../../../author/aljawi_abdulla"><b>Aljawi</b> Abdulla</a>
-,     <a href="../../../author/alhammadi_ahmed"><b>Alhammadi</b> Ahmed</a>
-,     <a href="../../../author/almir_khalid"><b>Almir</b> Khalid</a>
-,     <a href="../../../author/alnuaimi_ebrahim"><b>Alnuaimi</b> Ebrahim</a>
-,     <a href="../../../author/alyousuf_hamad"><b>Alyousuf</b> Hamad</a>
-,     <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a> <a href="https://orcid.org/0000-0002-1453-7883" title="ORCID: 0000-0002-1453-7883" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cogent Engineering, Vol. 9, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#cavity`](keyword/cavity)
-    [`#concrete`](keyword/concrete)
-    [`#heat`](keyword/heat)
-    [`#large`](keyword/large)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/cavity"><button class="btn">#cavity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Modeling%20of%20the%20Convective%20Heat-Transfer%20in%20the%20Large%20Air-Cavities%20of%20the%203D%20Concrete%20Printed%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139487585&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4304144928" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/23311916.2022.2130203" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/23311916.2022.2130203?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The cavity walls are a widely used construction system. They became popular in traditional masonry construction for their capacity to reduce the passage of moisture and improve the walls’ thermal performance. However, the latter only applied to narrow cavities with restricted internal air movement. Cavities are also present in emerging technologies, such as 3D concrete printed walls. However, the large cavities of the 3D printed concrete walls have high convective heat transfers that affect the envelope’s thermal performance. Therefore, the authors developed a conjugate heat transfer finite element model to study the large cavities in 3D printed concrete walls and determine the effect on the convective heat transfer of subdividing large cavities. The results show it is possible to reduce the heat flux four times, from 40.4 W/m2 to 9.1 W/m2, subdividing a large cavity into sixteen small ones. This reduction might be higher, increasing the number of cavity subdivisions. However, it is infeasible to restrict the air movements in unfilled air cavities over 25 mm wide for the Rayleigh numbers ≥ 105. Therefore, the practicality of minimizing heat transfer by subdividing large air cavities in 3D printed walls is limited.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
@@ -90,9 +63,10 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_jian_li_ma.2020.MBo3PLCSwHS/">Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wege_gehl_kort_meye.2021.BR/">Building Rethought:<br/>3D Concrete Printing in Building Practice</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
+      <li><a href="../../../author/sifan_mohamed"><b>Sifan</b> Mohamed</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/popo-ola_sunday"><b>Popo-Ola</b> Sunday</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sifa_upas_pool_popo.2025.FPaDoLWPw3PCaSLCS/">Fire Performance and Design of LSF Wall Panels with 3D Printed Concrete and Steel Lipped Channel Sections</a></li>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a>, <a href="../../../author/birhane_bezawit"><b>Birhane</b> Bezawit</a>, <a href="../../../author/denbel_nuhamin"><b>Denbel</b> Nuhamin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mans_mour_birh_denb.2025.NMoTRi3CPBEUISaA/">Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino</a></li>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/alsuwaidi_abdulla"><b>Alsuwaidi</b> Abdulla</a>, <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>, <a href="../../../author/binshaqooi_essa"><b>Binshaqooi</b> Essa</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mans_alsu_bina_bins.2025.CHTaUVAo3CPEwVTACiHAC/">Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates</a></li>
       <li><a href="../../../author/liu_ruiqing"><b>Liu</b> Ruiqing</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_du.2025.OTITGD/">Optimizing Thermal Insulation Through Geometric Design:<br/>Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns</a></li>
@@ -103,4 +77,34 @@ tags:
       <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/rashidi_kourosh"><b>Rashidi</b> Kourosh</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../sedg_rash_hoja.2024.LS3WP/">Large-Scale 3D Wall Printing:<br/>From Concept to Reality</a></li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../tami_hass_rodr_alha.2023.TPo3CPW/">Thermal Performance of 3D Concrete Printed Walls:<br/>Calculated and In-Situ Measured U-Values</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mans_bina_alja_alha.2022.TMotCHTitLACot3CPW,
+      author            = "Abraham Mansouri and Alreem Binali and Abdulla Aljawi and Ahmed Alhammadi and Khalid Almir and Ebrahim Alnuaimi and Hamad Alyousuf and Edwin Rodriguez-Ubinas",
+      title             = "Thermal Modeling of the Convective Heat-Transfer in the Large Air-Cavities of the 3D Concrete Printed Walls",
+      doi               = "10.1080/23311916.2022.2130203",
+      year              = "2022",
+      journal           = "Cogent Engineering",
+      volume            = "9",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Mansouri, “Thermal Modeling of the Convective Heat-Transfer in the Large Air-Cavities of the 3D Concrete Printed Walls”, <i>Cogent Engineering</i>, vol. 9, no. 1, 2022, doi: 10.1080/23311916.2022.2130203.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mansouri, Abraham, Alreem Binali, Abdulla Aljawi, Ahmed Alhammadi, Khalid Almir, Ebrahim Alnuaimi, Hamad Alyousuf, and Edwin Rodriguez-Ubinas. “Thermal Modeling of the Convective Heat-Transfer in the Large Air-Cavities of the 3D Concrete Printed Walls”. <i>Cogent Engineering</i> 9, no. 1 (2022). https://doi.org/10.1080/23311916.2022.2130203.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

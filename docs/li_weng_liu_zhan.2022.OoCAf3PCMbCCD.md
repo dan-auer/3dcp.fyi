@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mingyang Li, Yiwei Weng, Zhixin Liu, Dong Zhang, Teck Wong
+    - footer
+title: Li Mingyang, Weng Yiwei, Liu Zhixin, Zhang Dong, Wong Teck
 description:
 tags:
  - admixture
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.18063/msam.v1i3.16) Optimizing of Chemical Admixtures for 3D Printable Cementitious Materials by Central Composite Design ([2022-09](date/2022/09))
-<a href="https://doi.org/10.18063/msam.v1i3.16" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.18063/msam.v1i3.16</a>
+#Optimizing of Chemical Admixtures for 3D Printable Cementitious Materials by Central Composite Design ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.18063/msam.v1i3.16) <a href="https://doi.org/10.18063/msam.v1i3.16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.18063/msam.v1i3.16" target="_blank">10.18063/msam.v1i3.16</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9868-6116" title="ORCID: 0000-0001-9868-6116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhixin"><b>Liu</b>&nbsp;Zhixin</a></span>, <a href="../../../author/zhang_dong"><b>Zhang</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span><br>
+Journal Article - Materials Science in Additive Manufacturing, Vol. 1, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> <a href="https://orcid.org/0000-0001-9868-6116" title="ORCID: 0000-0001-9868-6116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Science in Additive Manufacturing, Vol. 1, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#cement`](keyword/cement)
-    [`#centricity`](keyword/centricity)
-    [`#chemical`](keyword/chemical)
-    [`#composite`](keyword/composite)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/centricity"><button class="btn">#centricity</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20of%20Chemical%20Admixtures%20for%203D%20Printable%20Cementitious%20Materials%20by%20Central%20Composite%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181534751&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4296518290" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.18063/msam.v1i3.16" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.18063/msam.v1i3.16?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Printability of 3D printable cementitious materials is related to material rheological properties, and is affected and controlled by modern concrete chemical admixtures. In this work, the influence of several chemical admixtures including superplasticizer, retarder, and accelerator on the rheological characteristics of printable materials was investigated using central composite design (CCD). Twenty test points with varying dosages of chemical admixtures were performed to evaluate the primary effects of chemical admixtures and their combined interactive effects on the rheological properties. The results indicate that with the increase of retarder or superplasticizer dosage, all rheological parameters decrease while accelerator possesses an opposite impact. The rheological properties are negatively proportional to the combined interactive effect of retarder and accelerator. The combined interactive effect of retarder and superplasticizer positively affects dynamic yield stress, plastic viscosity, and thixotropy, while it negatively impacts static yield stress. The combined interactive effect of accelerator and retarder positively affects the yield stress, whereas it negatively influences the plastic viscosity and thixotropy. The results indicate that the CCD is an efficient method to find the desirable formulation within a given boundary.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
@@ -96,8 +72,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../paul_lee_tay_lim.2026.UtSPo3CPwLAaSCC/">Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing</a></li>
       <li><a href="../../../author/kellnerova_vendula"><b>Kellnerová</b> Vendula</a>, <a href="../../../author/david_tomas"><b>David</b> Tomáš</a>, <a href="../../../author/reiterman_pavel"><b>Reiterman</b> Pavel</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kell_davi_reit.2025.MoPoFMf3PUCBM/">Modification of Properties of Fresh Mixture for 3D Printing Using Cement-Based Mortar</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
@@ -106,4 +83,34 @@ tags:
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/capitanelli_alessio"><b>Capitanelli</b> Alessio</a>, <a href="../../../author/bertolucci_riccardo"><b>Bertolucci</b> Riccardo</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../barj_capi_bert_cour.2024.DWfPCaPiRC3PBoAIP/">Digital Workflow for Printability Checking and Prefabrication in Robotic Construction 3D Printing Based on Artificial Intelligence Planning</a></li>
       <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../li_zhan_wong_tan.2023.MaEIoFOiCa3PCC/">Modeling and Experimental Investigation of Fiber Orientation in Cast and 3D Printed Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_weng_liu_zhan.2022.OoCAf3PCMbCCD,
+      author            = "Mingyang Li and Yiwei Weng and Zhixin Liu and Dong Zhang and Teck Neng Wong",
+      title             = "Optimizing of Chemical Admixtures for 3D Printable Cementitious Materials by Central Composite Design",
+      doi               = "10.18063/msam.v1i3.16",
+      year              = "2022",
+      journal           = "Materials Science in Additive Manufacturing",
+      volume            = "1",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Li, Y. Weng, Z. Liu, D. Zhang and T. N. Wong, “Optimizing of Chemical Admixtures for 3D Printable Cementitious Materials by Central Composite Design”, <i>Materials Science in Additive Manufacturing</i>, vol. 1, no. 3, 2022, doi: 10.18063/msam.v1i3.16.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Mingyang, Yiwei Weng, Zhixin Liu, Dong Zhang, and Teck Neng Wong. “Optimizing of Chemical Admixtures for 3D Printable Cementitious Materials by Central Composite Design”. <i>Materials Science in Additive Manufacturing</i> 1, no. 3 (2022). https://doi.org/10.18063/msam.v1i3.16.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

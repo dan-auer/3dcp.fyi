@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongyu Zhao, Xiangyu Wang, Zhaohui Chen, Xianda Liu, Yufei Wang, Jun Wang, Junbo Sun
+    - footer
+title: Zhao Hongyu, Wang Xiangyu, Chen Zhaohui, Liu Xianda, Wang Yufei, Wang Jun, Sun Junbo
 description:
 tags:
  - concrete
@@ -13,32 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Microcrack Investigations of 3D Printing Concrete Using Multiple Transformer Networks ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.autcon.2025.106017" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106017</a>
+#Microcrack Investigations of 3D Printing Concrete Using Multiple Transformer Networks ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2025.106017" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106017" target="_blank">10.1016/j.autcon.2025.106017</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhaohui"><b>Chen</b>&nbsp;Zhaohui</a></span>, <a href="../../../author/liu_xianda"><b>Liu</b>&nbsp;Xianda</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3384-4050" title="ORCID: 0000-0003-3384-4050" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_jun"><b>Wang</b>&nbsp;Jun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span><br>
+Journal Article - Automation in Construction, Vol. 172, No. 106017
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> <a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>
-,     <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-,     <a href="../../../author/wang_jun"><b>Wang</b> Jun</a> <a href="https://orcid.org/0000-0003-3384-4050" title="ORCID: 0000-0003-3384-4050" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 172, No. 106017
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#investigation`](keyword/investigation)
-    [`#network`](keyword/network)
-    [`#print`](keyword/print)
-    [`#transform`](keyword/transform)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/transform"><button class="btn">#transform</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Microcrack%20Investigations%20of%203D%20Printing%20Concrete%20Using%20Multiple%20Transformer%20Networks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216931173&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407240102" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106017" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106017?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-filament and no-framework craft significantly influence microcracks in 3D printing concrete (3DPC). A detailed analysis of these microcracks is essential to improve overall performance of material. However, fast and automated methods for capturing and measuring representative microcrack information in 3DPC are currently lacking. This paper presents a transformer based method for automatic quantization of microcosmic information in 3DPC, enabling a comprehensive analysis of microcracks. Additionally, a transformer network to rapidly and cost-effectively obtain high-quality microscopic images is introduced. The proposed quantization method involves a range of enhancement tactics over an existing baseline model, demonstrating higher accuracy in detecting inner microcracks of 3DPC compared to current advanced algorithms. This method surpasses existing microscopic imaging technologies in terms of information content, computational speed, and cost-efficiency. Therefore, this method will have promising applications for analyzing other micro-details in concrete when it is supplemented with a diverse and extensive training dataset.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/colyn_markus"><b>Colyn</b> Markus</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../coly_zijl_baba.2024.FaSPo3PCMUaHVoSAB/">Fresh and Strength Properties of 3D Printable Concrete Mixtures Utilising a High Volume of Sustainable Alternative Binders</a></li>
@@ -80,7 +58,37 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zhao_wang_sun_wang.2024.AIPRTQMfAMiC/">Artificial Intelligence Powered Real-Time Quality Monitoring for Additive Manufacturing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_wang_chen_liu.2025.MIo3PCUMTN,
+      author            = "Hongyu Zhao and Xiangyu Wang and Zhaohui Chen and Xianda Liu and Yufei Wang and Jun Wang and Junbo Sun",
+      title             = "Microcrack Investigations of 3D Printing Concrete Using Multiple Transformer Networks",
+      doi               = "10.1016/j.autcon.2025.106017",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "172",
+      pages             = "106017",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhao, “Microcrack Investigations of 3D Printing Concrete Using Multiple Transformer Networks”, <i>Automation in Construction</i>, vol. 172, p. 106017, 2025, doi: 10.1016/j.autcon.2025.106017.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Hongyu, Xiangyu Wang, Zhaohui Chen, Xianda Liu, Yufei Wang, Jun Wang, and Junbo Sun. “Microcrack Investigations of 3D Printing Concrete Using Multiple Transformer Networks”. <i>Automation in Construction</i> 172 (2025): 106017. https://doi.org/10.1016/j.autcon.2025.106017.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arslan Yousaf, Shoukat Khan, Muammer Koç
+    - footer
+title: Yousaf Arslan, Khan Shoukat, Koç Muammer
 description:
 tags:
  - design
@@ -21,36 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2025.113502) Material, Process, and Design Optimization of Local Earthen Soil Reinforced with Natural Fiber Waste and Nanoclay for 3DP of Functional Structures ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.jobe.2025.113502" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113502</a>
+#Material, Process, and Design Optimization of Local Earthen Soil Reinforced with Natural Fiber Waste and Nanoclay for 3DP of Functional Structures ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.113502) <a href="https://doi.org/10.1016/j.jobe.2025.113502" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113502" target="_blank">10.1016/j.jobe.2025.113502</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6814-695X" title="ORCID: 0000-0002-6814-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yousaf_arslan"><b>Yousaf</b>&nbsp;Arslan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_alim_shoukat"><b>Khan</b>&nbsp;Shoukat</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113502
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a> <a href="https://orcid.org/0000-0002-6814-695X" title="ORCID: 0000-0002-6814-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> <a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113502
-
-:aca-blank:{ .lg .middle}
-    [`#design`](keyword/design)
-    [`#earth`](keyword/earth)
-    [`#fiber`](keyword/fiber)
-    [`#function`](keyword/function)
-    [`#local`](keyword/local)
-    [`#material`](keyword/material)
-    [`#natural`](keyword/natural)
-    [`#optimization`](keyword/optimization)
-    [`#process`](keyword/process)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#soil`](keyword/soil)
-    [`#structure`](keyword/structure)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Material%2C%20Process%2C%20and%20Design%20Optimization%20of%20Local%20Earthen%20Soil%20Reinforced%20with%20Natural%20Fiber%20Waste%20and%20Nanoclay%20for%203DP%20of%20Functional%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011160536&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,23 +43,19 @@ tags:
 <a href="https://inciteful.xyz/p/W6959448733" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113502" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113502?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry urgently needs sustainable, locally sourced materials with enhanced performance and compatibility for 3D printing (3DP). Earthen soil, though abundant and eco-friendly, often lacks the rheological and mechanical properties necessary for optimum extrusion and buildability. This study develops a 3D printable composite using Qatari earthen soil, bio-waste coconut fibers (CF), and nanoclay (NC), aiming to overcome these limitations. Twelve different material compositions were evaluated to optimize flowability, structural build-up, and mechanical strength. Among these, Mix 7, containing 6% CF and 0.2% NC, demonstrated optimal performance, achieving 80% flow retention after 60 minutes, dynamic yield stress of 3213.76 Pa, and plastic viscosity of 64.63 Pa·s. It also exhibited the highest compressive and flexural strengths (12.43 MPa and 2.30 MPa in molded samples; 11.20 MPa and 2.00 MPa in 3DP samples). In contrast, mixtures with higher NC or fiber content, such as Mix 12, experienced brittleness, poor flowability, and structural failures due to fiber misalignment and particle aggregation. Using a design of experiment (DOE) approach, key printing parameters, specifically a layer height of 2.5 mm, printing speed of 30 mm/s, and extrusion multiplier of 2.0, were optimized to enable fabrication of free-form, acoustically functional wall elements via a knitting-concrete approach. Although the optimized parameters improved print quality and reduced cracking, curved regions still exhibited stress-induced failures, indicating a need for further geometrical refinement. This study proposes a material–process framework for sustainable 3DP using locally available resources, reinforcing the synergy between mix design, printing parameters, and functional performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
-      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
+      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
       <li><a href="../../../author/fan_dingqiang"><b>Fan</b> Dingqiang</a>, <a href="../../../author/zhu_jinyun"><b>Zhu</b> Jinyun</a>, <a href="../../../author/fan_mengxin"><b>Fan</b> Mengxin</a>, <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../fan_zhu_fan_lu.2023.IDaMoUHPC/">Intelligent Design and Manufacturing of Ultra-High-Performance Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
       <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../kaus_sone_amat_perr.2022.IoNCotFaRBo3PM/">Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar</a></li>
@@ -105,8 +79,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yous_rash_koc.2025.AMfVAULESaBWM/">Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yous_khan_koc.2025.MPaDOoLESRwNFWaNf3oFS,
+      author            = "Arslan Yousaf and Shoukat Alim Khan and Muammer Koç",
+      title             = "Material, Process, and Design Optimization of Local Earthen Soil Reinforced with Natural Fiber Waste and Nanoclay for 3DP of Functional Structures",
+      doi               = "10.1016/j.jobe.2025.113502",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113502",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Yousaf, S. A. Khan and M. Koç, “Material, Process, and Design Optimization of Local Earthen Soil Reinforced with Natural Fiber Waste and Nanoclay for 3DP of Functional Structures”, <i>Journal of Building Engineering</i>, p. 113502, 2025, doi: 10.1016/j.jobe.2025.113502.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yousaf, Arslan, Shoukat Alim Khan, and Muammer Koç. “Material, Process, and Design Optimization of Local Earthen Soil Reinforced with Natural Fiber Waste and Nanoclay for 3DP of Functional Structures”. <i>Journal of Building Engineering</i>, 2025, 113502. https://doi.org/10.1016/j.jobe.2025.113502.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

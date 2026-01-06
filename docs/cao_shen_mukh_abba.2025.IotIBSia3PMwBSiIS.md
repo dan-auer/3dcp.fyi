@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yifang Cao, Luming Shen, Abhijit Mukherjee, Ali Abbas, Daniel Da Dias Costa
+    - footer
+title: Cao Yifang, Shen Luming, Mukherjee Abhijit, Abbas Ali, Da Dias Costa Daniel
 description:
 tags:
  - bond
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2025.2521104) Improvement of the Interlayer Bonding Strength in a 3D-Printed Mortar with Biocement Sprayed into Interlayer Surfaces ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1080/17452759.2025.2521104" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2025.2521104</a>
+#Improvement of the Interlayer Bonding Strength in a 3D-Printed Mortar with Biocement Sprayed into Interlayer Surfaces ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2025.2521104) <a href="https://doi.org/10.1080/17452759.2025.2521104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2025.2521104" target="_blank">10.1080/17452759.2025.2521104</a>
 
--------------------------
+<a href="../../../author/cao_yifang"><b>Cao</b>&nbsp;Yifang</a></span>, <a href="../../../author/shen_luming"><b>Shen</b>&nbsp;Luming</a></span>, <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b>&nbsp;Abhijit</a></span>, <a href="../../../author/abbas_ali"><b>Abbas</b>&nbsp;Ali</a></span>, <a href="../../../author/da-dias-costa_daniel"><b>Da Dias Costa</b>&nbsp;Daniel</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 20, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cao_yifang"><b>Cao</b> Yifang</a>
-,     <a href="../../../author/shen_luming"><b>Shen</b> Luming</a>
-,     <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b> Abhijit</a>
-,     <a href="../../../author/abbas_ali"><b>Abbas</b> Ali</a>
-,     <a href="../../../author/da-dias-costa_daniel"><b>Da Dias Costa</b> Daniel</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 20, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#improvement`](keyword/improvement)
-    [`#interlayer`](keyword/interlayer)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#spray`](keyword/spray)
-    [`#strength`](keyword/strength)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improvement%20of%20the%20Interlayer%20Bonding%20Strength%20in%20a%203D-Printed%20Mortar%20with%20Biocement%20Sprayed%20into%20Interlayer%20Surfaces" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009839228&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412017768" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2025.2521104" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2025.2521104?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper proposes a method to improve the interlayer bonding strength in 3D-printed mortars by spraying bacteria and cement solutions (biocement) into the interlayer surfaces. The eectiveness of this approach is assessed using splitting strength tests. SEM and X-ray mapping of calcium carbonate crystals formed on the interlayers is used to investigate the synergistic eect of biocement in the bonding. A competing mechanism between the increased water content from spraying the biocement solution (which reduces strength) and the biocementation (which increases strength) is identied. The interlayer bond strength is shown to increase up to nearly six times for a spray application of bacteria and cementation solution at printing intervals of 120 min. This advanced manufacturing approach has benets and implications on the load-bearing strength of 3D-printed vertical structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -95,7 +72,37 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zuo_cort_huan_chen.2024.STLS3PWSC/">Strategies Towards Large-Scale 3D Printing Without Size-Constraints</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cao_shen_mukh_abba.2025.IotIBSia3PMwBSiIS,
+      author            = "Yifang Cao and Luming Shen and Abhijit Mukherjee and Ali Abbas and Daniel Da Dias Costa",
+      title             = "Improvement of the Interlayer Bonding Strength in a 3D-Printed Mortar with Biocement Sprayed into Interlayer Surfaces",
+      doi               = "10.1080/17452759.2025.2521104",
+      year              = "2025",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "20",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Cao, L. Shen, A. Mukherjee, A. Abbas and D. D. D. Costa, “Improvement of the Interlayer Bonding Strength in a 3D-Printed Mortar with Biocement Sprayed into Interlayer Surfaces”, <i>Virtual and Physical Prototyping</i>, vol. 20, no. 1, 2025, doi: 10.1080/17452759.2025.2521104.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cao, Yifang, Luming Shen, Abhijit Mukherjee, Ali Abbas, and Daniel Da Dias Costa. “Improvement of the Interlayer Bonding Strength in a 3D-Printed Mortar with Biocement Sprayed into Interlayer Surfaces”. <i>Virtual and Physical Prototyping</i> 20, no. 1 (2025). https://doi.org/10.1080/17452759.2025.2521104.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

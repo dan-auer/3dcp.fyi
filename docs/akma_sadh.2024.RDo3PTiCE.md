@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arabella Akman, Ayan Sadhu
+    - footer
+title: Akman Arabella, Sadhu Ayan
 description:
 tags:
  - construction
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Recent Development of 3D Printing Technology in Construction Engineering ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1061/ppscfx.sceng-1278" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/ppscfx.sceng-1278</a>
+#Recent Development of 3D Printing Technology in Construction Engineering ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/ppscfx.sceng-1278" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/ppscfx.sceng-1278" target="_blank">10.1061/ppscfx.sceng-1278</a>
 
--------------------------
+<a href="../../../author/akman_arabella"><b>Akman</b>&nbsp;Arabella</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5685-7087" title="ORCID: 0000-0001-5685-7087" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sadhu_ayan"><b>Sadhu</b>&nbsp;Ayan</a></span><br>
+Journal Article - Practice Periodical on Structural Design and Construction, Vol. 29, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>
-,     <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="https://orcid.org/0000-0001-5685-7087" title="ORCID: 0000-0001-5685-7087" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Practice Periodical on Structural Design and Construction, Vol. 29, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#engineered`](keyword/engineered)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Recent%20Development%20of%203D%20Printing%20Technology%20in%20Construction%20Engineering" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175171360&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387469122" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/ppscfx.sceng-1278" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/ppscfx.sceng-1278?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The current construction industry for civil and structural engineering is considered to be one of the growing industries in the world. With the push toward a more digitized industry, emerging trends such as additive manufacturing and the use of three-dimensional (3D) printing technology, along with consumer demand, are resulting in automated development with multiple benefits. Successful applications for small-scale construction projects that have implemented 3D printing have shown improvements in cost, production time, and design freedom and complexity. However, for large-scale applications, there are various limitations and factors hindering the adoption of additive manufacturing technologies. In this paper, a systematic literature survey of recent 3D printing technologies was conducted specific to the area of construction engineering, and the various techniques, materials, software, and technical and nontechnical aspects were analyzed. The key applications and their benefits are outlined, and their potential for large-scale applications is articulated. Future research areas for these components are suggested to strengthen the technical readiness and feasibility of adopting 3D printing technology in construction engineering and industries.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "93 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
@@ -153,8 +136,9 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
@@ -168,4 +152,34 @@ tags:
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/wu_weihong"><b>Wu</b> Weihong</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../luo_jin_wu_zhan.2024.RaMPoPFR3PHSCwtAoFA/">Rheological and Mechanical Properties of Polyformaldehyde-Fiber-Reinforced 3D Printed High-Strength Concrete with the Addition of Fly-Ash</a></li>
       <li><a href="../../../author/parida_lukesh"><b>Parida</b> Lukesh</a>, <a href="../../../author/moharana_sumedha"><b>Moharana</b> Sumedha</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../pari_moha.2024.SHMf3PCI/">Structural Health Monitoring for 3D Printed Civil Infrastructures:<br/>A Review of Challenges, Applications and Future Directions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{akma_sadh.2024.RDo3PTiCE,
+      author            = "Arabella Akman and Ayan Sadhu",
+      title             = "Recent Development of 3D Printing Technology in Construction Engineering",
+      doi               = "10.1061/ppscfx.sceng-1278",
+      year              = "2024",
+      journal           = "Practice Periodical on Structural Design and Construction",
+      volume            = "29",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Akman  and A. Sadhu, “Recent Development of 3D Printing Technology in Construction Engineering”, <i>Practice Periodical on Structural Design and Construction</i>, vol. 29, no. 1, 2024, doi: 10.1061/ppscfx.sceng-1278.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Akman, Arabella, and Ayan Sadhu. “Recent Development of 3D Printing Technology in Construction Engineering”. <i>Practice Periodical on Structural Design and Construction</i> 29, no. 1 (2024). https://doi.org/10.1061/ppscfx.sceng-1278.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

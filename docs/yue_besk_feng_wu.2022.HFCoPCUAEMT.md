@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: J. Yue, Dimitrios Beskos, C. Feng, Kai Wu
+    - footer
+title: Yue J., Beskos Dimitrios, Feng C., Wu Kai
 description:
 tags:
  - acoustic
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Hardened Fracture Characteristics of Printed Concrete Using Acoustic Emission Monitoring Technique ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.129684" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.129684</a>
+#Hardened Fracture Characteristics of Printed Concrete Using Acoustic Emission Monitoring Technique ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129684" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129684" target="_blank">10.1016/j.conbuildmat.2022.129684</a>
 
--------------------------
+<a href="../../../author/yue_g_j"><b>Yue</b>&nbsp;J.</a></span>, <a href="../../../author/beskos_e_dimitrios"><b>Beskos</b>&nbsp;Dimitrios</a></span>, <a href="../../../author/feng_c"><b>Feng</b>&nbsp;C.</a></span>, <a href="../../../author/wu_kai"><b>Wu</b>&nbsp;Kai</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 361
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yue_g_j"><b>Yue</b> J.</a>
-,     <a href="../../../author/beskos_e_dimitrios"><b>Beskos</b> Dimitrios</a>
-,     <a href="../../../author/feng_c"><b>Feng</b> C.</a>
-,     <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 361, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#acoustic`](keyword/acoustic)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#emission`](keyword/emission)
-    [`#fracture`](keyword/fracture)
-    [`#hardened`](keyword/hardened)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hardened%20Fracture%20Characteristics%20of%20Printed%20Concrete%20Using%20Acoustic%20Emission%20Monitoring%20Technique" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141802693&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4308832270" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.129684" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.129684?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a study on the fracture behavior of hardened printed concrete. The fracture properties of conventional cast and printed concrete (in three printing types) were compared by conducting the splitting and three-point bending tests. The anisotropic behavior of printed concrete was analyzed through the micro-cracking mechanism monitored by using the acoustic emission (AE) technique. Compared to the cast concrete, the fracture strength of printed concrete is reduced, especially when the load was applied at the interface between the successively printed filaments. The interfaces affect the micro-cracking modes during the fracture process of the printed concrete. When the number of shear micro-cracks increases, the values of splitting strength, flexural strength and fracture energy decrease. Useful criterial indicators for the design of a printed concrete member or a structure are suggested.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -96,8 +73,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/feng_xiaowei"><b>Feng</b> Xiaowei</a>, <a href="../../../author/carvelli_valter"><b>Carvelli</b> Valter</a>, <a href="../../../author/pan_dongjiang"><b>Pan</b> Dongjiang</a>, <a href="../../../author/zhu_chuankai"><b>Zhu</b> Chuankai</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_carv_pan_zhu.2025.AMoHSSCMfEMM/">Additive Manufacturing of Hybrid Straw-Soil-Cement Materials for Enhanced Mine Models</a></li>
       <li><a href="../../../author/geng_shao-bo"><b>Geng</b> Shao-bo</a>, <a href="../../../author/zhang_chen"><b>Zhang</b> Chen</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/hai_lu"><b>Hai</b> Lu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../geng_zhan_zhan_hai.2025.UCGCAi3PC/">Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete:<br/>Multi-Scale Mechanisms of Fracture Behaviour</a></li>
@@ -111,4 +88,33 @@ tags:
       <li><a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/li_jiawang"><b>Li</b> Jiawang</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sun_li_liu_chen.2024.CPaDMoCSCCbSWR3/">Compressive Performance and Damage Mechanism of Concrete Short Columns Confined by Steel-Wires-Reinforced 3DPM</a></li>
       <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a>, <a href="../../../author/kono_katsuya"><b>Kono</b> Katsuya</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../naka_hash_sugi_kono.2024.IoPPoMPaFPo3PC/">Influence of Print Paths on Mechanical Properties and Fracture Propagation of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yue_besk_feng_wu.2022.HFCoPCUAEMT,
+      author            = "J. G. Yue and Dimitrios E. Beskos and C. Feng and Kai Wu",
+      title             = "Hardened Fracture Characteristics of Printed Concrete Using Acoustic Emission Monitoring Technique",
+      doi               = "10.1016/j.conbuildmat.2022.129684",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "361",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. G. Yue, D. E. Beskos, C. Feng and K. Wu, “Hardened Fracture Characteristics of Printed Concrete Using Acoustic Emission Monitoring Technique”, <i>Construction and Building Materials</i>, vol. 361, 2022, doi: 10.1016/j.conbuildmat.2022.129684.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yue, J. G., Dimitrios E. Beskos, C. Feng, and Kai Wu. “Hardened Fracture Characteristics of Printed Concrete Using Acoustic Emission Monitoring Technique”. <i>Construction and Building Materials</i> 361 (2022). https://doi.org/10.1016/j.conbuildmat.2022.129684.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

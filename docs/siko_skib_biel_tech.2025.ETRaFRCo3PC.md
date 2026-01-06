@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paweł Sikora, Szymon Skibicki, Jakub Bielawski, Mateusz Techman, Karol Federowicz, Wojciech Węgrzyński
+    - footer
+title: Sikora Paweł, Skibicki Szymon, Bielawski Jakub, Techman Mateusz, Federowicz Karol, Węgrzyński Wojciech
 description:
 tags:
  - concrete
@@ -19,37 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s43452-025-01321-4.pdf) Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>:aca-blank: Small- to Medium-Scale Wall Experiments ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1007/s43452-025-01321-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s43452-025-01321-4</a>
+#Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Small- to Medium-Scale Wall Experiments</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s43452-025-01321-4.pdf) <a href="https://doi.org/10.1007/s43452-025-01321-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-025-01321-4" target="_blank">10.1007/s43452-025-01321-4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8392-7706" title="ORCID: 0000-0001-8392-7706" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bielawski_jakub"><b>Bielawski</b>&nbsp;Jakub</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/techman_mateusz"><b>Techman</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/federowicz_karol"><b>Federowicz</b>&nbsp;Karol</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7465-0212" title="ORCID: 0000-0002-7465-0212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wegrzynski_wojciech"><b>Węgrzyński</b>&nbsp;Wojciech</a></span><br>
+Journal Article - Archives of Civil and Mechanical Engineering, Vol. 25, Iss. 5-6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a> <a href="https://orcid.org/0000-0001-8392-7706" title="ORCID: 0000-0001-8392-7706" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> <a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> <a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wegrzynski_wojciech"><b>Węgrzyński</b> Wojciech</a> <a href="https://orcid.org/0000-0002-7465-0212" title="ORCID: 0000-0002-7465-0212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Archives of Civil and Mechanical Engineering, Vol. 25, Iss. 5-6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#elevation`](keyword/elevation)
-    [`#experiment`](keyword/experiment)
-    [`#fire`](keyword/fire)
-    [`#medium`](keyword/medium)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#response`](keyword/response)
-    [`#scale`](keyword/scale)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/medium"><button class="btn">#medium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Elevated%20Temperature%20Response%20and%20Fire%20Resistance%20Considerations%20of%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015137447&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414080739" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s43452-025-01321-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s43452-025-01321-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing introduces unique challenges in construction, particularly regarding fire safety. The layer-by-layer deposition leads to potential weaknesses such as interlayer debonding, spalling, and cracking when exposed to elevated temperatures and thermal gradients. Despite growing interest, large-scale fire performance of 3D-printed concrete (3DPC) remains underexplored. This study investigates the thermal and fire behaviour of 3DPC, both material wise and of printed full scale. Laboratory tests on small specimens (160 × 40 × 40 mm) assessed the mechanical performance of 3D-printed concrete exposed to temperatures up to 800 °C. The results show that over 80% of compressive strength was retained after heating the samples to 450 °C. Full-scale wall segments (500 mm × 180 mm × 500 mm) with three different internal topologies (hollow, triangular, and sinusoidal) were subjected to standard fire resistance tests. Elements with attached thermocouples were fixed in the oven without a load and exposed to ISO 834 temperature–time profile. The occurring damage on the exposed and unexposed surface was evaluated using optical measurements. Results has shown that the elements maintained integrity (E) and insulation (I) criteria up to 450 °C at 1 cm depth for 19–25 min, and at 2 cm for 45–65 min. Tests revealed extensive surface cracking in all samples, with the most significant damage observed in hollow-core elements. In contrast, samples with triangular and sinusoidal infill exhibited lower thermal penetration and reduced structural degradation. The findings indicate promising thermal insulating performance of 3DPC and highlight the critical role of internal geometry in fire response. However, further research is required to assess fire behaviour under mechanical loading and to validate performance across a wider range of infill designs and real-scale conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../amin_mema.2024.AoABi3CPfMPE/">Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/azimi_zahir"><b>Azimi</b> Zahir</a>, <a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/javadi_a_akbar"><b>Javadi</b> Akbar</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../azim_mous_beng_java.2023.SotPFMPoL3PCCEPaPRoNS/">Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand</a></li>
@@ -89,7 +63,6 @@ tags:
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC/">The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>A Review</a></li>
-      <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/khayatt_m_ahmed"><b>Khayatt</b> Ahmed</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../siko_tech_fede_khay.2022.IitMaDCo3PC/">Insight into the Microstructural and Durability Characteristics of 3D Printed Concrete:<br/>Cast versus Printed Specimens</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/dvorak_richard"><b>Dvořák</b> Richard</a>, <a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a>, <a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../skib_dvor_pazd_topo.2024.AMPo3PMDbSFaCTaAE/">Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../skib_fede_hoff_chou.2024.PoR3PC3FRAaaSTDCCi3/">Potential of Reusing 3D Printed Concrete (3DPC) Fine Recycled Aggregates as a Strategy Towards Decreasing Cement Content in 3DPC</a></li>
@@ -107,8 +80,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhou_biao"><b>Zhou</b> Biao</a>, <a href="../../../author/zhou_hongru"><b>Zhou</b> Hongru</a>, <a href="../../../author/yoshioka_hideki"><b>Yoshioka</b> Hideki</a>, <a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET/">Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{siko_skib_biel_tech.2025.ETRaFRCo3PC,
+      author            = "Paweł Sikora and Szymon Skibicki and Jakub Bielawski and Mateusz Techman and Karol Federowicz and Wojciech Węgrzyński",
+      title             = "Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete: Small- to Medium-Scale Wall Experiments",
+      doi               = "10.1007/s43452-025-01321-4",
+      year              = "2025",
+      journal           = "Archives of Civil and Mechanical Engineering",
+      volume            = "25",
+      number            = "5-6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Sikora, S. Skibicki, J. Bielawski, M. Techman, K. Federowicz and W. Węgrzyński, “Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete: Small- to Medium-Scale Wall Experiments”, <i>Archives of Civil and Mechanical Engineering</i>, vol. 25, no. 5–6, 2025, doi: 10.1007/s43452-025-01321-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sikora, Paweł, Szymon Skibicki, Jakub Bielawski, Mateusz Techman, Karol Federowicz, and Wojciech Węgrzyński. “Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete: Small- to Medium-Scale Wall Experiments”. <i>Archives of Civil and Mechanical Engineering</i> 25, no. 5-6 (2025). https://doi.org/10.1007/s43452-025-01321-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

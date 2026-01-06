@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Chen Chun 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a>, <a href="../../../author/shi_yifan"><b>Shi</b> Yifan</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_bant_shi_jia.2024.EASMaQSoWLKo3PFCMwSP/">Early-Age Shrinkage Mitigation and Quantitative Study on Water Loss Kinetics of 3D Printed Foam-Concrete Modified with Superabsorbent Polymers</a></li>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../liu_zhan_jia_cao.2024.QCoBSoFCTEP/">Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process:<br/>From Yield-Stress , Viscosity and Surface Tension Point of View</a></li>
   <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/luo_zhe"><b>Luo</b> Zhe</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhan_jia_luo_deng.2022.PaPSo3PLCCURCBPwVPF/">Printability and Pore-Structure of 3D Printing Low-Carbon Concrete Using Recycled Clay-Brick-Powder with Various Particle-Features</a></li>

@@ -8,7 +8,7 @@ search:
 
 # #alternative
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
   <li><a href="../../../author/bawab_jad"><b>Bawab</b> Jad</a>, <a href="../../../author/dieb_amr"><b>Dieb</b> Amr</a>, <a href="../../../author/hassan_hilal"><b>Hassan</b> Hilal</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bawa_dieb_hass.2025.PIitDoCFCUEAf3P/">Preliminary Investigation into the Development of Cement-Free Composites Using Emerging Alternatives for 3D Printing</a></li>
   <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../flor_scot_cluc_lopo.2025.IoASCMaPPotMPo3PM/">Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars</a></li>

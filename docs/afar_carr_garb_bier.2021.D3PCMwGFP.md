@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hajar Afarani, William Carroll, Edward Garboczi, Joseph Biernacki
+    - footer
+title: Afarani Hajar, Carroll William, Garboczi Edward, Biernacki Joseph
 description:
 tags:
  - cement
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Designing 3D Printable Cementitious Materials with Gel-Forming Polymers ([2020-11](date/2020/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.121709" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.121709</a>
+#Designing 3D Printable Cementitious Materials with Gel-Forming Polymers ([2020-11](date/2020/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.121709" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.121709" target="_blank">10.1016/j.conbuildmat.2020.121709</a>
 
--------------------------
+<a href="../../../author/afarani_taheri_hajar"><b>Afarani</b>&nbsp;Hajar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5383-1188" title="ORCID: 0000-0002-5383-1188" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carroll_william"><b>Carroll</b>&nbsp;William</a></span>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b>&nbsp;Edward</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/biernacki_j_joseph"><b>Biernacki</b>&nbsp;Joseph</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 268
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>
-,     <a href="../../../author/carroll_william"><b>Carroll</b> William</a> <a href="https://orcid.org/0000-0002-5383-1188" title="ORCID: 0000-0002-5383-1188" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>
-,     <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 268, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#design`](keyword/design)
-    [`#form`](keyword/form)
-    [`#material`](keyword/material)
-    [`#polymer`](keyword/polymer)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Designing%203D%20Printable%20Cementitious%20Materials%20with%20Gel-Forming%20Polymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097536161&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3112830444" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.121709" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.121709?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work explores the use of hydrogel-forming polymers as printing aids for cement-based pastes. The principal results suggest an inverse relationship between gel and paste rheology and printability. The preferred gel is mechanically stiff, while the preferred printing paste is malleable and retains shape. The results, which include printability indexes (PI), mix formulation factors, and rheological measurements, form a framework for selection of gel-based printing aids and can be used as a basis for quality control of three-dimensional (3D) printed objects. Such gel-forming polymers may reduce the need for more complex admixture packages as printing aids.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/guo_xiangyang"><b>Guo</b> Xiangyang</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chen_guo_zhen_li.2018.EoTAotPRaMPo3PSCP/">Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste</a></li>
@@ -95,8 +75,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/salam-mohammad_abdul"><b>Salam Mohammad</b> Abdul</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../sala_bier.2023.2SCPoCBPwTDR/">2D Stationary Computational Printing of Cement-Based Pastes with Time-Dependent Rheology</a></li>
       <li><a href="../../../author/onanuga_y_babajide"><b>Onanuga</b> Babajide</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../onan_bier.2023.AtRoCHBBa3PM/">Assessing the Robustness of Cement-Hydrogel-Based Binders as 3D Printing Materials</a></li>
       <li><a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a>, <a href="../../../author/brown_lesa"><b>Brown</b> Lesa</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../koss_brow_sanc.2023.NMCo3PCP/">Nano-Mechanical Characterization of 3D Printed Cement-Pastes</a></li>
@@ -108,4 +88,33 @@ tags:
       <li><a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/yang_qian"><b>Yang</b> Qian</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../jian_yang_zhu_zhan.2022.EtSEoCaSCotPoOM/">Evaluating the Stiffening Effect of CSA and Sodium Carbonate on the Printability of OPC Mortar</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../nair_sant_neit.2022.MMBPCATfGAo3PCE/">Mathematical Morphology-Based Point-Cloud-Analysis-Techniques for Geometry-Assessment of 3D Printed Concrete Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{afar_carr_garb_bier.2021.D3PCMwGFP,
+      author            = "Hajar Taheri Afarani and William Carroll and Edward J. Garboczi and Joseph J. Biernacki",
+      title             = "Designing 3D Printable Cementitious Materials with Gel-Forming Polymers",
+      doi               = "10.1016/j.conbuildmat.2020.121709",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "268",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. T. Afarani, W. Carroll, E. J. Garboczi and J. J. Biernacki, “Designing 3D Printable Cementitious Materials with Gel-Forming Polymers”, <i>Construction and Building Materials</i>, vol. 268, 2021, doi: 10.1016/j.conbuildmat.2020.121709.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Afarani, Hajar Taheri, William Carroll, Edward J. Garboczi, and Joseph J. Biernacki. “Designing 3D Printable Cementitious Materials with Gel-Forming Polymers”. <i>Construction and Building Materials</i> 268 (2021). https://doi.org/10.1016/j.conbuildmat.2020.121709.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yucun Gu, Shuyi Zheng, Hongyan Ma, Wujian Long, Kamal Khayat
+    - footer
+title: Gu Yucun, Zheng Shuyi, Ma Hongyan, Long Wujian, Khayat Kamal
 description:
 tags:
  - absorbent
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Absorption Kinetics of Superabsorbent Polymers on Printability and Inter-Layer Bond of 3D Printing Concrete ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105609" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105609</a>
+#Effect of Absorption Kinetics of Superabsorbent Polymers on Printability and Inter-Layer Bond of 3D Printing Concrete ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105609" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105609" target="_blank">10.1016/j.cemconcomp.2024.105609</a>
 
--------------------------
+<a href="../../../author/gu_yucun"><b>Gu</b>&nbsp;Yucun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7015-5719" title="ORCID: 0000-0001-7015-5719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zheng_shuyi"><b>Zheng</b>&nbsp;Shuyi</a></span>, <a href="../../../author/ma_hongyan"><b>Ma</b>&nbsp;Hongyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105609
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>
-,     <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> <a href="https://orcid.org/0000-0001-7015-5719" title="ORCID: 0000-0001-7015-5719" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_hongyan"><b>Ma</b> Hongyan</a>
-,     <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> <a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105609
-
-:aca-blank:{ .lg .middle}
-    [`#absorbent`](keyword/absorbent)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#inter`](keyword/inter)
-    [`#kinetic`](keyword/kinetic)
-    [`#layer`](keyword/layer)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/kinetic"><button class="btn">#kinetic</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Absorption%20Kinetics%20of%20Superabsorbent%20Polymers%20on%20Printability%20and%20Inter-Layer%20Bond%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194831519&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399007016" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105609" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105609?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study examines the effect of the material characteristics of superabsorbent polymers (SAPs) on the printability and interlayer bond strength of 3D printing concrete. Three types of SAP, including two acrylamide-co-acrylic polymers with coarse and fine particle sizes (S1 and S2) and an acrylic copolymer (S3), were employed. The investigated mortar mixtures had a fixed initial mini-slump flow of 195±10 mm and yield stress of 290±25 Pa. The fluidity of SAP-incorporated mortars was maintained by either adjusting the superplasticizer dosage or increasing the water content. Test results indicate that particle flocculation is dependent on SAP absorption kinetics shortly after the end of mixing. The use of S1 and S2 SAPs exhibiting high retention ability enhanced thixotropy, whereas the S3 SAP with rapid desorption reduced thixotropy. The S2 SAP improved the bridging effect of nucleation at early age due to its finer size, leading to a significant increase in the structuration rate at 30 min. Pull-out strength test and splitting tensile strength test were used to investigate the interlayer bond strength. The S1 SAP was the most significant in maintaining a higher internal relative humidity (IRH), thus resulting in higher 28-d interlayer bond strength, while the S2 SAP exhibited an intermediate ability to maintain elevated IRH, thus resulting in higher increase in 7-d interlayer bond strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abudawaba_fareh"><b>Abudawaba</b> Fareh</a>, <a href="../../../author/gomaa_eslam"><b>Gomaa</b> Eslam</a>, <a href="../../../author/gheni_a_ahmed"><b>Gheni</b> Ahmed</a>, <a href="../../../author/gawady_mohamed"><b>Gawady</b> Mohamed</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../abud_goma_ghen_gawa.2022.DMPfCCFABAA3PCM/">Developing Mix Proportions for Class C Fly-Ash-Based Alkali-Activated 3D Printed Concrete Mixtures</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -125,8 +100,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/oh_gyujong"><b>Oh</b> Gyujong</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM/">Effects of the Combined Incorporation of Superabsorbent Polymers and Polyvinyl Alcohol Fibers on Material Properties of 3D Printable Mortar:<br/>Rheology, Shrinkage, and Mechanical Behavior</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_zhu_li_zhan.2025.EIAo3PCbBI/">Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration</a></li>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
@@ -139,4 +114,33 @@ tags:
       <li><a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/zhao_tai-qi"><b>Zhao</b> Tai-Qi</a>, <a href="../../../author/lou_qi-ling"><b>Lou</b> Qi-Ling</a>, <a href="../../../author/ping_yang"><b>Ping</b> Yang</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../yu_zhao_lou_ping.2024.RPFwDSMfEILAi3PC/">Recycled PET Fibers with Dopamine Surface Modification for Enhanced Inter-Layer Adhesion in 3D Printed Concrete</a></li>
       <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/sun_yuanfeng"><b>Sun</b> Yuanfeng</a>, <a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_zhan_sun_pi.2024.MPaFMo3PUHPC/">Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gu_zhen_ma_long.2024.EoAKoSPoPaILBo3PC,
+      author            = "Yucun Gu and Shuyi Zheng and Hongyan Ma and Wujian Long and Kamal H. Khayat",
+      title             = "Effect of Absorption Kinetics of Superabsorbent Polymers on Printability and Inter-Layer Bond of 3D Printing Concrete",
+      doi               = "10.1016/j.cemconcomp.2024.105609",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105609",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Gu, S. Zheng, H. Ma, W. Long and K. H. Khayat, “Effect of Absorption Kinetics of Superabsorbent Polymers on Printability and Inter-Layer Bond of 3D Printing Concrete”, <i>Cement and Concrete Composites</i>, p. 105609, 2024, doi: 10.1016/j.cemconcomp.2024.105609.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gu, Yucun, Shuyi Zheng, Hongyan Ma, Wujian Long, and Kamal H. Khayat. “Effect of Absorption Kinetics of Superabsorbent Polymers on Printability and Inter-Layer Bond of 3D Printing Concrete”. <i>Cement and Concrete Composites</i>, 2024, 105609. https://doi.org/10.1016/j.cemconcomp.2024.105609.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

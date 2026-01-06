@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shih-Yuan Wang, Sze-Teng Liong, Y. Gan, Yu-Ting Sheng
+    - footer
+title: Wang Shih-Yuan, Liong Sze-Teng, Gan Y., Sheng Yu-Ting
 description:
 tags:
  - architecture
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Cost-Effective Concrete Fabrication for Large Irregularly Shaped Architectural Structures ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.autcon.2023.105119" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.105119</a>
+#Cost-Effective Concrete Fabrication for Large Irregularly Shaped Architectural Structures ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2023.105119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105119" target="_blank">10.1016/j.autcon.2023.105119</a>
 
--------------------------
+<a href="../../../author/wang_shih-yuan"><b>Wang</b>&nbsp;Shih-Yuan</a></span>, <a href="../../../author/liong_sze-teng"><b>Liong</b>&nbsp;Sze-Teng</a></span>, <a href="../../../author/gan_s_y"><b>Gan</b>&nbsp;Y.</a></span>, <a href="../../../author/sheng_yu-ting"><b>Sheng</b>&nbsp;Yu-Ting</a></span><br>
+Journal Article - Automation in Construction, Vol. 156, No. 105119
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_shih-yuan"><b>Wang</b> Shih-Yuan</a>
-,     <a href="../../../author/liong_sze-teng"><b>Liong</b> Sze-Teng</a>
-,     <a href="../../../author/gan_s_y"><b>Gan</b> Y.</a>
-,     <a href="../../../author/sheng_yu-ting"><b>Sheng</b> Yu-Ting</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 156, No. 105119
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#concrete`](keyword/concrete)
-    [`#cost`](keyword/cost)
-    [`#effect`](keyword/effect)
-    [`#fabrication`](keyword/fabrication)
-    [`#irregularity`](keyword/irregularity)
-    [`#large`](keyword/large)
-    [`#shape`](keyword/shape)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/irregularity"><button class="btn">#irregularity</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cost-Effective%20Concrete%20Fabrication%20for%20Large%20Irregularly%20Shaped%20Architectural%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173805551&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387657912" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.105119" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.105119?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integration of 3D concrete printing (3DCP) technology offers infinite possibilities and a wider palette of geometries for traditional concrete materials. This paper presents a pipeline for 3DCP by optimizing the material used in an irregularly shaped PETG formwork to ensure sufficient stiffness under dynamic loading conditions, while reducing the supporting equipment and costs in the manufacturing industry. The developed framework was validated through a case study that fabricated a concrete wall using a six-axis industrial robotic arm with a custom 3D printing system and parametric design modeling. Comprehensive failure analysis and numerical prediction performance were conducted to validate the proposed pipeline's viability. The formwork reinforcement process encourages smart manufacturing automation and customization, improving production precision. The presented insights offer exciting challenges and inspiration for future manufacturing industries.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>
@@ -87,11 +64,41 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/maciejewski_yannick"><b>Maciejewski</b> Yannick</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../wege_sten_gehl_maci.2021.AftCotF3PDHiG/">Approval for the Construction of the First 3D Printed Detached House in Germany:<br/>Significance of Large-Scale Element Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/liu_yiming"><b>Liu</b> Yiming</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ding_li_liu.2025.SoMPaEBo3PLMOCFCBoTDMS/">Study on Mechanical Properties and Environmental Benefits of 3D Printed Lean Magnesium Ore Concrete Filled Columns Based on Three-Dimensional Meso-Structure</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_lion_gan_shen.2023.CECFfLISAS,
+      author            = "Shih-Yuan Wang and Sze-Teng Liong and Y. S. Gan and Yu-Ting Sheng",
+      title             = "Cost-Effective Concrete Fabrication for Large Irregularly Shaped Architectural Structures",
+      doi               = "10.1016/j.autcon.2023.105119",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "156",
+      pages             = "105119",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S.-Y. Wang, S.-T. Liong, Y. S. Gan and Y.-T. Sheng, “Cost-Effective Concrete Fabrication for Large Irregularly Shaped Architectural Structures”, <i>Automation in Construction</i>, vol. 156, p. 105119, 2023, doi: 10.1016/j.autcon.2023.105119.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Shih-Yuan, Sze-Teng Liong, Y. S. Gan, and Yu-Ting Sheng. “Cost-Effective Concrete Fabrication for Large Irregularly Shaped Architectural Structures”. <i>Automation in Construction</i> 156 (2023): 105119. https://doi.org/10.1016/j.autcon.2023.105119.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

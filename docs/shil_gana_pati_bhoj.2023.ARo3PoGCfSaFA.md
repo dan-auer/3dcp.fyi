@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatheali Shilar, Sharanabasava Ganachari, Veerabhadragouda Patil, B. Bhojaraja, T. Yunus Khan, Naif Almakayeel
+    - footer
+title: Shilar Fatheali, Ganachari Sharanabasava, Patil Veerabhadragouda, Bhojaraja B., Yunus Khan T., Almakayeel Naif
 description:
 tags:
  - application
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132869" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132869</a>
+#A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132869" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132869" target="_blank">10.1016/j.conbuildmat.2023.132869</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2885-932X" title="ORCID: 0000-0003-2885-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shilar_a_fatheali"><b>Shilar</b>&nbsp;Fatheali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9895-1829" title="ORCID: 0000-0002-9895-1829" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b>&nbsp;Sharanabasava</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9410-6524" title="ORCID: 0000-0001-9410-6524" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b>&nbsp;Veerabhadragouda</a></span>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b>&nbsp;B.</a></span>, <a href="../../../author/yunus-khan_m_t"><b>Yunus Khan</b>&nbsp;T.</a></span>, <a href="../../../author/almakayeel_naif"><b>Almakayeel</b>&nbsp;Naif</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 400, No. 132869
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a> <a href="https://orcid.org/0000-0003-2885-932X" title="ORCID: 0000-0003-2885-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a> <a href="https://orcid.org/0000-0002-9895-1829" title="ORCID: 0000-0002-9895-1829" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a> <a href="https://orcid.org/0000-0001-9410-6524" title="ORCID: 0000-0001-9410-6524" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a>
-,     <a href="../../../author/yunus-khan_m_t"><b>Yunus Khan</b> T.</a>
-,     <a href="../../../author/almakayeel_naif"><b>Almakayeel</b> Naif</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 400, No. 132869
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#composite`](keyword/composite)
-    [`#function`](keyword/function)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%203D%20Printing%20of%20Geopolymer%20Composites%20for%20Structural%20and%20Functional%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169905320&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385778440" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132869" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132869?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D printing allows for the automated and quick building of structures, drastically reducing the time and labour necessary for traditional construction methods. An extensive analysis of more than 100 + articles aimed to present a thorough summary of the present research status on 3D printing of geopolymer substances, investigating different factors, including printing methods, material traits, and geopolymerization procedures. The fresh and mechanical properties result of 3D geopolymer composites are reviewed and represented in kernel density, radar, quantile–quantile plots, and multi-Y analysis plots for various binder ratios. The effect of Si/Al, activators, and factors that influence the acceleration of geopolymerization of 3D-based geopolymers is discussed. Different types of 3D printing machines, along with layer adhesion thixotropy and its relation to printability, printing speed, adhesion of layers, and storage condition, are studied, as are their mechanisms. Using pozzolanic materials in the chemical reaction between quicklime and silicate materials enhances the structural performance of the geopolymer material, resulting in superior properties. This review's findings and suggestions attempt to lay the foundation for future study in this field, which offers assistance in building 3D-printed composite materials with the necessary sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "62 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
@@ -130,8 +107,9 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
@@ -165,4 +143,34 @@ tags:
       <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC/">A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction</a></li>
       <li><a href="../../../author/fiala_lukas"><b>Fiala</b> Lukáš</a>, <a href="../../../author/lin_wei-ting"><b>Lin</b> Wei-Ting</a>, <a href="../../../author/hotek_petr"><b>Hotěk</b> Petr</a>, <a href="../../../author/cheng_an"><b>Cheng</b> An</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../fial_lin_hote_chen.2023.FSoDCBMa3PM/">Feasibility Study of Developing Cementless Blended Materials as 3D Printable Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA,
+      author            = "Fatheali A. Shilar and Sharanabasava V. Ganachari and Veerabhadragouda B. Patil and B. E. Bhojaraja and T. M. Yunus Khan and Naif Almakayeel",
+      title             = "A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications",
+      doi               = "10.1016/j.conbuildmat.2023.132869",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "400",
+      pages             = "132869",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. A. Shilar, S. V. Ganachari, V. B. Patil, B. E. Bhojaraja, T. M. Y. Khan and N. Almakayeel, “A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications”, <i>Construction and Building Materials</i>, vol. 400, p. 132869, 2023, doi: 10.1016/j.conbuildmat.2023.132869.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shilar, Fatheali A., Sharanabasava V. Ganachari, Veerabhadragouda B. Patil, B. E. Bhojaraja, T. M. Yunus Khan, and Naif Almakayeel. “A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications”. <i>Construction and Building Materials</i> 400 (2023): 132869. https://doi.org/10.1016/j.conbuildmat.2023.132869.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

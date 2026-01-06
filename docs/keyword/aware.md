@@ -8,7 +8,7 @@ search:
 
 # #aware
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chovghi_frederic"><b>Chovghi</b> Frederic</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chov_rich_dac.2025.FASFFfAM/">Fabrication-Aware Structural Form-Finding for Additive Manufacturing:<br/>An Equilibrium-Based Approach</a></li>
   <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a>, <a href="../../../author/leicht_m_robert"><b>Leicht</b> Robert</a>, <a href="../../../author/wagner_r_alan"><b>Wagner</b> Alan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zarg_leic_wagn_duar.2025.BTaE/">Beyond Trial and Error:<br/>Toward Construction-Aware Early Design-Optimization Considering Robotic Capabilities</a></li>
   <li><a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/asl_najian_reza"><b>Asl</b> Reza</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../schn_diet_rich_asl.2024.FADMaEAoaSCPBUST/">Fabrication-Aware Design Method and Experimental Assessment of a Segmented Concrete Pedestrian Bridge Using SPI Technology.</a></li>

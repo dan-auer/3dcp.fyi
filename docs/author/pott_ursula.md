@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Pott Ursula 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ji_yianliang"><b>Ji</b> Yianliang</a>, <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a>, <a href="../../../author/rossler_christiane"><b>Rößler</b> Christiane</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../ji_pott_mezh_rol.2025.MaESoSYSEaSBUoCPiESoCH/">Modelling and Experimental Study on Static Yield-Stress-Evolution and Structural Build-Up of Cement-Paste in Early-Stage of Cement Hydration</a></li>
   <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../pott_jako_dorn_step.2023.IoaSAfTCoMPf3CPIM/">Investigation of a Shotcrete-Accelerator for Targeted Control of Material-Properties for 3D Concrete Printing Injection-Method</a></li>
   <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/wolf_julian"><b>Wolf</b> Julian</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pott_jako_wolf_step.2023.CoPaPCMf3PAwtFotUUCT/">Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test</a></li>

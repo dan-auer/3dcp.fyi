@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marco Valente, Matteo Sambucci, Mehdi Chougan, Seyed Ghaffar
+    - footer
+title: Valente Marco, Sambucci Matteo, Chougan Mehdi, Ghaffar Seyed
 description:
 tags:
  - activation
@@ -21,37 +22,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jmrt.2023.03.213) Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing:<br/>:aca-blank: An Eco-Sustainable and Energy Saving Approach ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.jmrt.2023.03.213" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmrt.2023.03.213</a>
+#Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing&nbsp;([2023-04](date/2023/04))
+<div class="h1-like">An Eco-Sustainable and Energy Saving Approach</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2023.03.213) <a href="https://doi.org/10.1016/j.jmrt.2023.03.213" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2023.03.213" target="_blank">10.1016/j.jmrt.2023.03.213</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valente_marco"><b>Valente</b>&nbsp;Marco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sambucci_matteo"><b>Sambucci</b>&nbsp;Matteo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span><br>
+Journal Article - Journal of Materials Research and Technology, Vol. 24, pp. 3098-3117
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Research and Technology, Vol. 24, pp. 3098-3117
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#additive`](keyword/additive)
-    [`#alkali`](keyword/alkali)
-    [`#approach`](keyword/approach)
-    [`#composite`](keyword/composite)
-    [`#design`](keyword/design)
-    [`#energy`](keyword/energy)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#rubber`](keyword/rubber)
-    [`#savings`](keyword/savings)
-    [`#sustainability`](keyword/sustainability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> <a href="../../keyword/savings"><button class="btn">#savings</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Composite%20Alkali-Activated%20Materials%20with%20Waste-Tire-Rubber%20Designed%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152109817&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4362510240" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmrt.2023.03.213" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmrt.2023.03.213?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     There is an increasing trend in research projects and case studies to demonstrate the potential of Additive Manufacturing (AM) with concrete, better known as 3D concrete printing. Like ordinary construction, the latest upgrades on this topic are strongly focused towards improving eco-sustainability in terms of low-carbon materials. Low-carbon binders’ alternative to Portland cement and the utilisation of selected waste materials in place to virgin aggregates has high potential in fulfilling the sustainable development goals. In this paper, an experimental study was performed by incorporating ground waste tire rubber aggregates of different size gradation (0e1 mm and 1e3 mm) and replacement levels (50 v/v% and 100 v/v%) in a “greener” alkali-activated mix designed for 3D printing applications. First, the experimental program involved the optimization of mix design rheology and printing parameters to successfully integrate rubber aggregates into the printable alkali-activated mixtures. Then, a comprehensive characterization, including static mechanical testing, dynamic thermo-mechanical analysis, thermal conductivity testing, and acoustic insulation measurements was conducted. Comparison with identical Portland-based rubberized formulations designed for AM revealed better mechanical isotropy, flexural strength, thermo-mechanical behaviour, heat insulation, and highfrequency acoustic insulation for alkali-activated composites. The influence of rubber aggregate size on the fresh and hardened state behaviour of the mixes was also studied and discussed. Keeping the losses in mechanical strength restrained, the rubberized composites designed in this study have demonstrated significant thermal and acoustic insulation properties that are desired for energy-saving applications in buildings. The research verified the practicability of using waste aggregates in low-carbon binders for sustainable lightweight and thermo-acoustically effective applications, establishing an attractive starting point to address future research on material optimization for practical purposes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
@@ -97,14 +71,13 @@ tags:
       <li><a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/marini_danilo"><b>Marini</b> Danilo</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../samb_vale_siba_mari.2020.RCCfAM/">Rubber-Cement Composites for Additive Manufacturing:<br/>Physical, Mechanical and Thermo-Acoustic Characterization</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC/">The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>A Review</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pultorak_monika"><b>Pułtorak</b> Monika</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../skib_put_kasz_hoff.2022.TEoURPAoMaDPo3PM/">The Effect of Using Recycled PET-Aggregates on Mechanical and Durability Properties of 3D Printed Mortar</a></li>
-      <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../vale_samb_chou_ghaf.2023.CAAMwWTRDfAM/">Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing:<br/>An Eco-Sustainable and Energy Saving Approach</a></li>
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../xiao_zou_ding_duan.2021.FRMw1RFA/">Fiber-Reinforced Mortar with 100% Recycled Fine Aggregates:<br/>A Cleaner Perspective on 3D Printing</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yuan_gao_huan_zuo.2022.FItPoEB3PAAFASM/">Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/bhattacharjee_biswajoy"><b>Bhattacharjee</b> Biswajoy</a>, <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b> Prakash</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bhat_sahu.2025.RIaIo3PitBaCS/">Recent Innovations and Implementations of 3D Printing in the Building and Construction Sector</a></li>
       <li><a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/chen_xuemei"><b>Chen</b> Xuemei</a>, <a href="../../../author/deng_yongjun"><b>Deng</b> Yongjun</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_zou_chen_deng.2025.FSo3PRCaaPF/">Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork:<br/>Mechanical Properties, Interlayer Interface and Durability</a></li>
@@ -121,6 +94,35 @@ tags:
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../pess_jesu_guim_luca.2023.ECoHPoa3PCM/">Experimental Characterisation of Hygrothermal Properties of a 3D Printed Cementitious Mortar</a></li>
       <li><a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/kogbara_b_reginald"><b>Kogbara</b> Reginald</a>, <a href="../../../author/mansoor_bilal"><b>Mansoor</b> Bilal</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../mort_masa_kogb_mans.2023.DoCO2BGfAMUCWaNM/">Development of Ca(OH)2-Based Geopolymer for Additive Manufacturing Using Construction Wastes and Nano-Materials</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/ginigaddara_thusitha"><b>Ginigaddara</b> Thusitha</a>, <a href="../../../author/mendis_priyan"><b>Mendis</b> Priyan</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../liu_tran_gini_mend.2023.EoUGOfSEo3PCM/">Exploration of Using Graphene Oxide for Strength Enhancement of 3D Printed Cementitious Mortar</a></li>
-      <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../vale_samb_chou_ghaf.2023.CAAMwWTRDfAM/">Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing:<br/>An Eco-Sustainable and Energy Saving Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vale_samb_chou_ghaf.2023.CAAMwWTRDfAM,
+      author            = "Marco Valente and Matteo Sambucci and Mehdi Chougan and Seyed Hamidreza Ghaffar",
+      title             = "Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing: An Eco-Sustainable and Energy Saving Approach",
+      doi               = "10.1016/j.jmrt.2023.03.213",
+      year              = "2023",
+      journal           = "Journal of Materials Research and Technology",
+      volume            = "24",
+      pages             = "3098--3117",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Valente, M. Sambucci, M. Chougan and S. H. Ghaffar, “Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing: An Eco-Sustainable and Energy Saving Approach”, <i>Journal of Materials Research and Technology</i>, vol. 24, pp. 3098–3117, 2023, doi: 10.1016/j.jmrt.2023.03.213.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Valente, Marco, Matteo Sambucci, Mehdi Chougan, and Seyed Hamidreza Ghaffar. “Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing: An Eco-Sustainable and Energy Saving Approach”. <i>Journal of Materials Research and Technology</i> 24 (2023): 3098–3117. https://doi.org/10.1016/j.jmrt.2023.03.213.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

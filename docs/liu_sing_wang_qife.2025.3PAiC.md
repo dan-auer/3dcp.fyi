@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiong Liu, Amardeep Singh, Qiming Wang, Lyu Qifeng
+    - footer
+title: Liu Qiong, Singh Amardeep, Wang Qiming, Qifeng Lyu
 description:
 tags:
  - application
@@ -11,27 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D-Printed Application in Concretes ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/b978-0-443-29228-6.00020-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-443-29228-6.00020-7</a>
+#3D-Printed Application in Concretes ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-29228-6.00020-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-29228-6.00020-7" target="_blank">10.1016/b978-0-443-29228-6.00020-7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_qiong"><b>Liu</b>&nbsp;Qiong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1116-0910" title="ORCID: 0009-0001-1116-0910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_qiming"><b>Wang</b>&nbsp;Qiming</a></span>, <a href="../../../author/qifeng_lyu"><b>Qifeng</b>&nbsp;Lyu</a></span><br>
+Contribution - Multi-Material Additive Manufacturing, pp. 475-530
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a> <a href="https://orcid.org/0009-0001-1116-0910" title="ORCID: 0009-0001-1116-0910" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qifeng_lyu"><b>Qifeng</b> Lyu</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Multi-Material Additive Manufacturing, pp. 475-530
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D-Printed%20Application%20in%20Concretes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011435284&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410440951" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-443-29228-6.00020-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-443-29228-6.00020-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As an emerging technology, 3D printing has seen rapid advancements across various industries, thanks to its high levels of intelligence, digitization, and automation, along with its capacity for sustainability and labor cost reduction. In the construction sector, 3D concrete printing technology (3DPC), also known as additive manufacturing, has garnered significant attention in recent years. This article provides a comprehensive overview of the fundamental characteristics of 3DPC, examining the roles and impacts of key components like basic cementitious materials, aggregates, mineral admixtures, fiber materials, and admixtures. It addresses the current advantages and challenges of 3DPC, particularly its buildability and extrudability, and explores main solutions such as fiber reinforcement or steel bar reinforcement. These methods aim to resolve issues like the contradiction with pumpability, poor shrinkage resistance, insufficient interlayer bonding strength, and low flexural strength. The article delves into various reinforcement methods applied to 3DPC, including short-filament fibers, steel bars, and long filament fibers, and categorizes short- and long-filament fibers into rigid and flexible fibers for a detailed analysis. A significant focus is placed on the microenvironmental changes and enhancements brought about by short-filament fibers in 3DPC, and the relationship between the bonding strength of filament fibers and the strength of 3D printing mortar. In conclusion, the article summarizes the advantages and shortcomings of these reinforcement methods, speculates on potential challenges in actual construction processes, and compares these methods with traditional construction techniques.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "92 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
@@ -150,7 +133,36 @@ tags:
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_luo_anan_sing.2024.SUoURGiAMRPC/">Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{liu_sing_wang_qife.2025.3PAiC,
+      author            = "Qiong Liu and Amardeep Singh and Qiming Wang and Lyu Qifeng",
+      title             = "3D-Printed Application in Concretes",
+      doi               = "10.1016/b978-0-443-29228-6.00020-7",
+      year              = "2025",
+      pages             = "475--530",
+      booktitle         = "Multi-Material Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Liu, A. Singh, Q. Wang and L. Qifeng, “3D-Printed Application in Concretes”, in <i>Multi-Material Additive Manufacturing</i>,  2025, pp. 475–530. doi: 10.1016/b978-0-443-29228-6.00020-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Qiong, Amardeep Singh, Qiming Wang, and Lyu Qifeng. “3D-Printed Application in Concretes”. In <i>Multi-Material Additive Manufacturing</i>, 475–530, 2025. https://doi.org/10.1016/b978-0-443-29228-6.00020-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Styrmir Gislason, Simon Bruhn, Luca Breseghello, Burak Sen, Gang Liu, Roberto Naboni
+    - footer
+title: Gislason Styrmir, Bruhn Simon, Breseghello Luca, Sen Burak, Liu Gang, Naboni Roberto
 description:
 tags:
  - assessment
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://findresearcher.sdu.dk/ws/files/207275495/A9akxl7y_1g4nxyu_1bs.pdf) Porous 3D Printed Concrete Beams Show an Environmental Promise:<br/>:aca-blank: A Cradle-to-Grave Comparative Life Cycle Assessment ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1007/s10098-022-02343-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s10098-022-02343-9</a>
+#Porous 3D Printed Concrete Beams Show an Environmental Promise&nbsp;([2022-06](date/2022/06))
+<div class="h1-like">A Cradle-to-Grave Comparative Life Cycle Assessment</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://findresearcher.sdu.dk/ws/files/207275495/A9akxl7y_1g4nxyu_1bs.pdf) <a href="https://doi.org/10.1007/s10098-022-02343-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10098-022-02343-9" target="_blank">10.1007/s10098-022-02343-9</a>
 
--------------------------
+<a href="../../../author/gislason_styrmir"><b>Gislason</b>&nbsp;Styrmir</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6693-6640" title="ORCID: 0000-0002-6693-6640" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bruhn_simon"><b>Bruhn</b>&nbsp;Simon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2454-9287" title="ORCID: 0000-0003-2454-9287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sen_burak"><b>Sen</b>&nbsp;Burak</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7613-1985" title="ORCID: 0000-0002-7613-1985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_gang"><b>Liu</b>&nbsp;Gang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span><br>
+Journal Article - Clean Technologies and Environmental Policy
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gislason_styrmir"><b>Gislason</b> Styrmir</a>
-,     <a href="../../../author/bruhn_simon"><b>Bruhn</b> Simon</a> <a href="https://orcid.org/0000-0002-6693-6640" title="ORCID: 0000-0002-6693-6640" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sen_burak"><b>Sen</b> Burak</a> <a href="https://orcid.org/0000-0003-2454-9287" title="ORCID: 0000-0003-2454-9287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_gang"><b>Liu</b> Gang</a> <a href="https://orcid.org/0000-0002-7613-1985" title="ORCID: 0000-0002-7613-1985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Clean Technologies and Environmental Policy, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#beam`](keyword/beam)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#environment`](keyword/environment)
-    [`#life`](keyword/life)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#promise`](keyword/promise)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/promise"><button class="btn">#promise</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Porous%203D%20Printed%20Concrete%20Beams%20Show%20an%20Environmental%20Promise" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132355793&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4283277850" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s10098-022-02343-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s10098-022-02343-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is a rapidly expanding area in the field of architecture, engineering, and construction, but very limited research has quantitatively investigated its environmental impact. The existing Life Cycle Assessment (LCA) studies on 3DCP lack clearly defined functional units of comparison, especially considering load-bearing structures. This paper investigates the potential environmental benefits of 3DCP over conventional concrete construction for structural beams based on a cradle-to-grave comparative LCA. Unlike existing studies, this paper employs a recarbonation model to account for the carbon offsetting from the use-stage of 3DP concrete, which shows significant results. The assessment includes three-beam designs, each analyzed for both prefabrication and on-site construction scenarios. While currently, 3DCP has a generally higher environmental impact due to the larger quantity of cement employed in the process, the reduction of material through infill optimization for printed beams is a promising design principle to positively offset the environmental impacts in the construction sector. The paper draws recommendations for future research on material- and recarbonation-efficient 3DCP design for load-bearing structures, as well as on material development, e.g. integration of larger aggregates and low-clinker cement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -104,8 +79,8 @@ tags:
       <li><a href="../../../author/wang_weiqiang"><b>Wang</b> Weiqiang</a>, <a href="../../../author/konstantinidis_nikolaos"><b>Konstantinidis</b> Nikolaos</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wang_kons_aust_busw.2020.FBoAGTR3PCB/">Flexural Behavior of AR-Glass-Textile-Reinforced 3D Printed Concrete Beams</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>
       <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
@@ -126,4 +101,32 @@ tags:
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../jesu_pess_guim_rang.2023.ARoSOf3PiC/">A Reflection on Sustainable Opportunities for 3D Printing in Construction</a></li>
       <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../heyw_nich.2023.Sa3CP/">Sustainability and 3D Concrete Printing:<br/>Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gisl_bruh_bres_sen.2022.P3PCBSaEP,
+      author            = "Styrmir Gislason and Simon Bruhn and Luca Breseghello and Burak Sen and Gang Liu and Roberto Naboni",
+      title             = "Porous 3D Printed Concrete Beams Show an Environmental Promise: A Cradle-to-Grave Comparative Life Cycle Assessment",
+      doi               = "10.1007/s10098-022-02343-9",
+      year              = "2022",
+      journal           = "Clean Technologies and Environmental Policy",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Gislason, S. Bruhn, L. Breseghello, B. Sen, G. Liu and R. Naboni, “Porous 3D Printed Concrete Beams Show an Environmental Promise: A Cradle-to-Grave Comparative Life Cycle Assessment”, <i>Clean Technologies and Environmental Policy</i>, 2022, doi: 10.1007/s10098-022-02343-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gislason, Styrmir, Simon Bruhn, Luca Breseghello, Burak Sen, Gang Liu, and Roberto Naboni. “Porous 3D Printed Concrete Beams Show an Environmental Promise: A Cradle-to-Grave Comparative Life Cycle Assessment”. <i>Clean Technologies and Environmental Policy</i>, 2022. https://doi.org/10.1007/s10098-022-02343-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

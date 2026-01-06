@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mursaleen Shahid, Vincenzo Sglavo
+    - footer
+title: Shahid Mursaleen, Sglavo Vincenzo
 description:
 tags:
  - binary
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/17/7/1514/pdf?version=1711519772) Binder-Jetting 3D Printing of Binary Cement-Siliceous Sand Mixture ([2024-03](date/2024/03))
-<a href="https://doi.org/10.3390/ma17071514" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17071514</a>
+#Binder-Jetting 3D Printing of Binary Cement-Siliceous Sand Mixture ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/7/1514/pdf?version=1711519772) <a href="https://doi.org/10.3390/ma17071514" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17071514" target="_blank">10.3390/ma17071514</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3548-6242" title="ORCID: 0000-0003-3548-6242" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahid_mursaleen"><b>Shahid</b>&nbsp;Mursaleen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9133-7204" title="ORCID: 0000-0001-9133-7204" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b>&nbsp;Vincenzo</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 7, No. 1514
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahid_mursaleen"><b>Shahid</b> Mursaleen</a> <a href="https://orcid.org/0000-0003-3548-6242" title="ORCID: 0000-0003-3548-6242" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b> Vincenzo</a> <a href="https://orcid.org/0000-0001-9133-7204" title="ORCID: 0000-0001-9133-7204" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 7, No. 1514
-
-:aca-blank:{ .lg .middle}
-    [`#binary`](keyword/binary)
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/binary"><button class="btn">#binary</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Binder-Jetting%203D%20Printing%20of%20Binary%20Cement-Siliceous%20Sand%20Mixture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190065446&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393234659" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17071514" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17071514?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing allows accurate geometries to be obtained across a wide range of applications and it is now also moving into the architecture and construction industry. In the present work, a unique binary mix composed of ordinary Portland cement (OPC) and quick-setting cement (QSC) was combined with silica sand aggregate in different proportions for a customized binder jetting 3D printing (BJ3DP) process. Specimens were printed using the blended dry powders and deionized water to determine the impact of the processing variables on the properties of the realized specimens. The results show that the properties are influenced by the binary mix proportions and the layer thickness. The investigation found significant improvement in mechanical performance on increasing the proportion of OPC and optimal conditions were identified with proportions of 35 wt% OPC and 5 wt% QSC. Notable enhancements were also observed as the layer thickness was reduced.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/gibbons_john_gregory"><b>Gibbons</b> Gregory</a>, <a href="../../../author/williams_reuben"><b>Williams</b> Reuben</a>, <a href="../../../author/purnell_phil"><b>Purnell</b> Phil</a>, <a href="../../../author/farahi_elham"><b>Farahi</b> Elham</a> <a href="../../../date/2013/07">(2013-07)</a><br><a href="../../../gibb_will_purn_fara.2010.3PoCC/">3D Printing of Cement Composites</a></li>
@@ -79,9 +61,40 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/anop_darya"><b>Anop</b> Darya</a>, <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>, <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../anop_sade_beis_rude.2025.AMaaAtCSiCSA/">Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment</a></li>
       <li><a href="../../../author/liu_junxing"><b>Liu</b> Junxing</a>, <a href="../../../author/li_peiqi"><b>Li</b> Peiqi</a>, <a href="../../../author/piao_taiyan"><b>Piao</b> Taiyan</a>, <a href="../../../author/im_sumin"><b>Im</b> Sumin</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../liu_li_piao_im.2025.HACMfBJ3P/">High-Alumina Cementitious Materials for Binder-Jetting 3D Printing:<br/>Exploring Suitable Mixing-Ratio and Curing-Solution for Improving Mechanical Properties and Hydration-Reaction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_sgla.2024.BJ3PoBCSSM,
+      author            = "Mursaleen Shahid and Vincenzo M. Sglavo",
+      title             = "Binder-Jetting 3D Printing of Binary Cement-Siliceous Sand Mixture",
+      doi               = "10.3390/ma17071514",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "7",
+      pages             = "1514",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Shahid  and V. M. Sglavo, “Binder-Jetting 3D Printing of Binary Cement-Siliceous Sand Mixture”, <i>Materials</i>, vol. 17, no. 7, p. 1514, 2024, doi: 10.3390/ma17071514.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahid, Mursaleen, and Vincenzo M. Sglavo. “Binder-Jetting 3D Printing of Binary Cement-Siliceous Sand Mixture”. <i>Materials</i> 17, no. 7 (2024): 1514. https://doi.org/10.3390/ma17071514.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

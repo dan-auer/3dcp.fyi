@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Krause Martin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../mech_fata_bos_busw.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Underlying Physics</a></li>
   <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a></li>
   <li><a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/kortmann_jan"><b>Kortmann</b> Jan</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../otto_kort_krau.2020.CCoC3P/">Cost Calculation of Concrete 3D Printing</a></li>

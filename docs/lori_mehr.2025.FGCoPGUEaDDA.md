@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Lori, Mehdi Mehrali
+    - footer
+title: Lori Ali, Mehrali Mehdi
 description:
 tags:
  - approach
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2024.139853) Filament-Geometry-Control of Printable Geopolymer Using Experimental and Data-Driven Approaches ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.139853" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.139853</a>
+#Filament-Geometry-Control of Printable Geopolymer Using Experimental and Data-Driven Approaches ([2025-01](date/2025/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.139853) <a href="https://doi.org/10.1016/j.conbuildmat.2024.139853" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139853" target="_blank">10.1016/j.conbuildmat.2024.139853</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-3492-3469" title="ORCID: 0009-0000-3492-3469" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lori_rezaei_ali"><b>Lori</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mehrali_mehdi"><b>Mehrali</b>&nbsp;Mehdi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 461, No. 139853
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a> <a href="https://orcid.org/0009-0000-3492-3469" title="ORCID: 0009-0000-3492-3469" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 461, No. 139853
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#control`](keyword/control)
-    [`#data`](keyword/data)
-    [`#experiment`](keyword/experiment)
-    [`#filament`](keyword/filament)
-    [`#geometry`](keyword/geometry)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Filament-Geometry-Control%20of%20Printable%20Geopolymer%20Using%20Experimental%20and%20Data-Driven%20Approaches" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214326477&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406241162" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.139853" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.139853?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Geopolymers are gaining attention as a viable alternative cementitious material in extrusion-based 3D printing aimed at improving the sustainability of the construction sector. In this regard, this study investigates the impact of various printing parameters, including extrusion speed, printing speed, nozzle distance, and nozzle diameter, on the extrusion quality of printable geopolymers, with a focus on controlling filament geometry. Experimental data were analyzed to assess the influence of each parameter, leading to the identification of optimal printing conditions for improved extrusion quality. A stability map was developed to define a "safe" printing zone, minimizing filament instability. Three supervised machine learning models—Random Forest (RF), Support Vector Regression (SVR), and Gradient Boosting Machine (GBM)—were utilized to predict filament width and optimize the process. The models were compared based on performance, with SVR demonstrating the best performance due to the highest R2 score (0.9771) and the lowest RMSE (0.1178) and MAE score (0.0959) on the test set. Consequently, the SVR model was selected for Shapley Additive Explanations (SHAP) analysis. The SHAP results indicated that nozzle diameter had the most significant impact on filament width, followed by extrusion speed and nozzle distance, while printing speed was less influential. The machine learning models demonstrated their potential in predicting filament width and guiding process control for 3D printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../comm_silv_ande_stan.2020.IoPPotLGi3CP/">Influence of Processing Parameters on the Layer Geometry in 3D Concrete Printing:<br/>Experiments and Modelling</a></li>
@@ -88,8 +68,38 @@ tags:
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a>, <a href="../../../author/ascensao_guilherme"><b>Ascensão</b> Guilherme</a>, <a href="../../../author/fernandes_fabio"><b>Fernandes</b> Fábio</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../lori_nova_asce_fern.2025.CFGf3PA/">Chemically Foamed Geopolymers for 3D Printing Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lori_mehr.2025.FGCoPGUEaDDA,
+      author            = "Ali Rezaei Lori and Mehdi Mehrali",
+      title             = "Filament-Geometry-Control of Printable Geopolymer Using Experimental and Data-Driven Approaches",
+      doi               = "10.1016/j.conbuildmat.2024.139853",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "461",
+      pages             = "139853",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. R. Lori  and M. Mehrali, “Filament-Geometry-Control of Printable Geopolymer Using Experimental and Data-Driven Approaches”, <i>Construction and Building Materials</i>, vol. 461, p. 139853, 2025, doi: 10.1016/j.conbuildmat.2024.139853.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lori, Ali Rezaei, and Mehdi Mehrali. “Filament-Geometry-Control of Printable Geopolymer Using Experimental and Data-Driven Approaches”. <i>Construction and Building Materials</i> 461 (2025): 139853. https://doi.org/10.1016/j.conbuildmat.2024.139853.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

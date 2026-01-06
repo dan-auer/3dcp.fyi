@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shuo Dai, Huajun Zhu, Munan Zhai, Qisheng Wu, Zhifeng Yin, Hao Qian, Sudong Hua
+    - footer
+title: Dai Shuo, Zhu Huajun, Zhai Munan, Wu Qisheng, Yin Zhifeng, Qian Hao, Hua Sudong
 description:
 tags:
  - aggregate
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Stability of Steel-Slag as Fine Aggregate and Its Application in 3D Printing Materials ([2021-06](date/2021/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.123938" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.123938</a>
+#Stability of Steel-Slag as Fine Aggregate and Its Application in 3D Printing Materials ([2021-06](date/2021/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.123938" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.123938" target="_blank">10.1016/j.conbuildmat.2021.123938</a>
 
--------------------------
+<a href="../../../author/dai_shuo"><b>Dai</b>&nbsp;Shuo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4888-4258" title="ORCID: 0000-0003-4888-4258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_huajun"><b>Zhu</b>&nbsp;Huajun</a></span>, <a href="../../../author/zhai_munan"><b>Zhai</b>&nbsp;Munan</a></span>, <a href="../../../author/wu_qisheng"><b>Wu</b>&nbsp;Qisheng</a></span>, <a href="../../../author/yin_zhifeng"><b>Yin</b>&nbsp;Zhifeng</a></span>, <a href="../../../author/qian_hao"><b>Qian</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hua_sudong"><b>Hua</b>&nbsp;Sudong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 299, No. 123938
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dai_shuo"><b>Dai</b> Shuo</a>
-,     <a href="../../../author/zhu_huajun"><b>Zhu</b> Huajun</a> <a href="https://orcid.org/0000-0003-4888-4258" title="ORCID: 0000-0003-4888-4258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhai_munan"><b>Zhai</b> Munan</a>
-,     <a href="../../../author/wu_qisheng"><b>Wu</b> Qisheng</a>
-,     <a href="../../../author/yin_zhifeng"><b>Yin</b> Zhifeng</a>
-,     <a href="../../../author/qian_hao"><b>Qian</b> Hao</a>
-,     <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a> <a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 299, No. 123938
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#application`](keyword/application)
-    [`#fine`](keyword/fine)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#slag`](keyword/slag)
-    [`#stability`](keyword/stability)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Stability%20of%20Steel-Slag%20as%20Fine%20Aggregate%20and%20Its%20Application%20in%203D%20Printing%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108087903&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3175993701" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.123938" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.123938?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to the shortage of natural materials, using steel slag (SS) as replacement for natural sand to manufacture mortar has attracted worldwide attention and becomes a promising technology. This study aims at employing SS as fine aggregate for natural sand substitute in cement mortar synthesis. The measurement of expansion value generated by fine SS aggregate was performed by autoclave test. On the basis of further tests, the optimum content of SS fine aggregate was 25%. The autoclave experiment results indicate that the mortar bar was seriously damaged with higher dosages of SS fine aggregate. The X-ray diffraction (XRD) technique was offered to identify the mineralogical phases of the autoclaved SS. Additionally, this work investigated the printability of 3D printing mortar by assessing its fluidity, slump and mechanical strength. The printing mortar mixed with 25% SS was used in the printing of an actual 3D structure, demonstrating its feasibility to be used in 3D printing field. The microstructure and elements distribution were characterized by scanning electron microscopy (SEM) and the energy dispersive spectroscopy (EDS) techniques. The results showed that it is feasible to incorporate SS in 3D printing mortar, which contributes to the improvement of working properties and the enhancement of mechanical strength. This study provides a novel 3D printing SS mortar with good economic and potentially great environmental benefits.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -81,8 +56,9 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/tian_zehao"><b>Tian</b> Zehao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_tian_ma_zhan.2020.ILBIo3PCwPMM/">Inter-Layer Bonding Improvement of 3D Printed Concrete with Polymer-Modified Mortar:<br/>Experiments and Molecular Dynamics Studies</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mim_hosa_shai_sark.2025.RaEAMPo3PCCCHLRaFA/">Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
@@ -110,4 +86,34 @@ tags:
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/qian_hao"><b>Qian</b> Hao</a>, <a href="../../../author/yao_xiao"><b>Yao</b> Xiao</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yue_hua_qian_yao.2022.IoAoSEAFSaFAiSF3PC/">Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dai_zhu_zhai_wu.2021.SoSSaFAaIAi3PM,
+      author            = "Shuo Dai and Huajun Zhu and Munan Zhai and Qisheng Wu and Zhifeng Yin and Hao Qian and Sudong Hua",
+      title             = "Stability of Steel-Slag as Fine Aggregate and Its Application in 3D Printing Materials",
+      doi               = "10.1016/j.conbuildmat.2021.123938",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "299",
+      pages             = "123938",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Dai, “Stability of Steel-Slag as Fine Aggregate and Its Application in 3D Printing Materials”, <i>Construction and Building Materials</i>, vol. 299, p. 123938, 2021, doi: 10.1016/j.conbuildmat.2021.123938.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dai, Shuo, Huajun Zhu, Munan Zhai, Qisheng Wu, Zhifeng Yin, Hao Qian, and Sudong Hua. “Stability of Steel-Slag as Fine Aggregate and Its Application in 3D Printing Materials”. <i>Construction and Building Materials</i> 299 (2021): 123938. https://doi.org/10.1016/j.conbuildmat.2021.123938.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

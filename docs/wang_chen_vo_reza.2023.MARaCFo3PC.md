@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chaofan Wang, Bing Chen, Thanh Vo, Mohammad Rezania
+    - footer
+title: Wang Chaofan, Chen Bing, Vo Thanh, Rezania Mohammad
 description:
 tags:
  - anisotropy
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>:aca-blank: A Review ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.jobe.2023.107309" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.107309</a>
+#Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete&nbsp;([2023-07](date/2023/07))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107309" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107309" target="_blank">10.1016/j.jobe.2023.107309</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9800-9748" title="ORCID: 0000-0001-9800-9748" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_chaofan"><b>Wang</b>&nbsp;Chaofan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2862-3392" title="ORCID: 0000-0003-2862-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_bing"><b>Chen</b>&nbsp;Bing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9263-5462" title="ORCID: 0000-0002-9263-5462" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vo_liem_thanh"><b>Vo</b>&nbsp;Thanh</a></span>, <a href="../../../author/rezania_mohammad"><b>Rezania</b>&nbsp;Mohammad</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 76, No. 107309
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a> <a href="https://orcid.org/0000-0001-9800-9748" title="ORCID: 0000-0001-9800-9748" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_bing"><b>Chen</b> Bing</a> <a href="https://orcid.org/0000-0003-2862-3392" title="ORCID: 0000-0003-2862-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a> <a href="https://orcid.org/0000-0002-9263-5462" title="ORCID: 0000-0002-9263-5462" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 76, No. 107309
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#footprint`](keyword/footprint)
-    [`#mechanics`](keyword/mechanics)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Anisotropy%2C%20Rheology%20and%20Carbon%20Footprint%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165072341&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4383742769" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.107309" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.107309?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing (3DP) technology has gained more recognition in the construction industry in recent years. This technique puts forward stringent requirements for the performance of cementitious materials such as extrudability and buildability. However, due to the layer-by-layer printing process, 3D printing concrete (3DPC) shows characteristically different properties from conventional mold-casting concrete. This study critically reviews the mechanical behaviors and rheological properties of 3DPC, focusing on how important fibers, aggregates, printing parameters and environmental conditions impact mechanical anisotropy, and how well they could be described by different rheological models. The review found that fibers and aggregates significantly affect the anisotropic behavior of 3DPC. In particular, the interlayer bonding strength of 3DPC can be enhanced by introducing fibers and aggregates, but it can be diminished by some solid waste aggregates. Environmental conditions are found to have minor to some influences over the mechanical strength and anisotropy of 3DPC. In addition, this review has evaluated the carbon footprint of different 3DPC recipes reported in the literature and found that the sustainability of the 3DP construction technique is questionable from the mix design perspective, while additional research is urgently needed on this aspect of the technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "116 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -184,8 +163,8 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "41 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
@@ -228,4 +207,34 @@ tags:
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/beytekin_elif_hatice"><b>Beytekin</b> Hatice</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../sahi_mard_beyt.2024.EoSFUoSBUMaDSPoFR3PC/">Effect of Silica-Fume Utilization on Structural Build-Up, Mechanical and Dimensional Stability Performance of Fiber-Reinforced 3D Printable Concrete</a></li>
       <li><a href="../../../author/bumanis_girts"><b>Bumanis</b> Girts</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../buma_sapa_sink_spur.2023.AMoLGaEPGC/">Additive Manufacturing of Lightweight Gypsum and Expanded Polystyrene Granulate Composite</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_chen_vo_reza.2023.MARaCFo3PC,
+      author            = "Chaofan Wang and Bing Chen and Thanh Liem Vo and Mohammad Rezania",
+      title             = "Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete: A Review",
+      doi               = "10.1016/j.jobe.2023.107309",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      volume            = "76",
+      pages             = "107309",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Wang, B. Chen, T. L. Vo and M. Rezania, “Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete: A Review”, <i>Journal of Building Engineering</i>, vol. 76, p. 107309, 2023, doi: 10.1016/j.jobe.2023.107309.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Chaofan, Bing Chen, Thanh Liem Vo, and Mohammad Rezania. “Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete: A Review”. <i>Journal of Building Engineering</i> 76 (2023): 107309. https://doi.org/10.1016/j.jobe.2023.107309.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

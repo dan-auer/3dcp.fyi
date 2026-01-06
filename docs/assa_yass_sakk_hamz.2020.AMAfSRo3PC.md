@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joseph Assaad, Abdallah Yassin, Fatima Sakka, Farook Hamzeh
+    - footer
+title: Assaad Joseph, Yassin Abdallah, Sakka Fatima, Hamzeh Farook
 description:
 tags:
  - approach
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/12/10/4062/pdf?version=1589540324) A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>:aca-blank: Preliminary Study ([2020-05](date/2020/05))
-<a href="https://doi.org/10.3390/su12104062" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su12104062</a>
+#A Modular Approach for Steel Reinforcing of 3D Printed Concrete&nbsp;([2020-05](date/2020/05))
+<div class="h1-like">Preliminary Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/12/10/4062/pdf?version=1589540324) <a href="https://doi.org/10.3390/su12104062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su12104062" target="_blank">10.3390/su12104062</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2423-451X" title="ORCID: 0000-0002-2423-451X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/assaad_j_joseph"><b>Assaad</b>&nbsp;Joseph</a></span>, <a href="../../../author/yassin_abdallah"><b>abou&nbsp;Yassin</b>&nbsp;Abdallah</a></span>, <a href="../../../author/sakka_fatima"><b>el&nbsp;Sakka</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b>&nbsp;Farook</a></span><br>
+Journal Article - Sustainability, Vol. 12, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a> <a href="https://orcid.org/0000-0002-2423-451X" title="ORCID: 0000-0002-2423-451X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yassin_abdallah"><b>abou Yassin</b> Abdallah</a>
-,     <a href="../../../author/sakka_fatima"><b>el Sakka</b> Fatima</a>
-,     <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 12, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#modular`](keyword/modular)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Modular%20Approach%20for%20Steel%20Reinforcing%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085642440&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3025073012" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su12104062" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su12104062?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing technology has considerably progressed in terms of material proportioning and properties; however, it still suffers from the difficulty of incorporating steel reinforcement for structural applications. This paper aims at developing a modular approach capable of manufacturing 3D printed beam and column members reinforced with conventional steel bars. The cubic-shaped printed modules had 240 mm sides, possessing four holes on the corners for subsequent insertion of flexural steel and grouting operations. The transverse steel (i.e., stirrups) was manually incorporated during the printing process. The reinforced 3D printed beams were built by joining the various modules using high-strength epoxy resins. Test results showed that the compressive and flexural strengths of plain (i.e., unreinforced) 3D printed specimens are higher than traditionally cast-in-place (CIP) ones, which was mostly attributed to the injected high-strength grout that densifies the matrix and hinders the ease of crack propagation during loading. The flexural moment capacity of 3D reinforced printed beams were fairly close to the ACI 318-19 code provisions; however, about 22% lower than companion CIP members. The reduction in peak loads was attributed to the modular approach used to construct the 3D members, which might alter the fundamentals and concepts of reinforced concrete design, including the transfer and redistribution of stresses at ultimate loading conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
@@ -81,8 +62,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../yass_hamz_sakk.2020.ABMtOWoRSaC3P/">Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_ding_yu_li.2025.SSo3pEBTSWMaIT/">Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments</a></li>
       <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sant_raph_sant.2025.EoSBDUVPiC3P/">Exploration of Sustainable Beam Design Using Voronoi Patterns in Concrete 3D Printing</a></li>
@@ -104,4 +85,34 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xiao_chen_ding_zou.2022.BBoSCR3PCitDPttI/">Bending Behavior of Steel-Cable-Reinforced 3D Printed Concrete in the Direction Perpendicular to the Interfaces</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{assa_yass_sakk_hamz.2020.AMAfSRo3PC,
+      author            = "Joseph J. Assaad and Abdallah Abou Yassin and Fatima El Sakka and Farook R. Hamzeh",
+      title             = "A Modular Approach for Steel Reinforcing of 3D Printed Concrete: Preliminary Study",
+      doi               = "10.3390/su12104062",
+      year              = "2020",
+      journal           = "Sustainability",
+      volume            = "12",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. J. Assaad, A. A. Yassin, F. E. Sakka and F. R. Hamzeh, “A Modular Approach for Steel Reinforcing of 3D Printed Concrete: Preliminary Study”, <i>Sustainability</i>, vol. 12, no. 10, 2020, doi: 10.3390/su12104062.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Assaad, Joseph J., Abdallah Abou Yassin, Fatima El Sakka, and Farook R. Hamzeh. “A Modular Approach for Steel Reinforcing of 3D Printed Concrete: Preliminary Study”. <i>Sustainability</i> 12, no. 10 (2020). https://doi.org/10.3390/su12104062.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

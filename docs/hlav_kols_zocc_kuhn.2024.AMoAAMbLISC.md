@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Petr Hlaváček, Nico Kolsch, Andrea Zocca, Hans-Carsten Kühne, Jens Günster
+    - footer
+title: Hlaváček Petr, Kolsch Nico, Zocca Andrea, Kühne Hans-Carsten, Günster Jens
 description:
 tags:
  - activation
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-# Additive Manufacturing of Alkali-Activated Materials by Laser-Induced Slip Casting ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24355/dbbs.084-202408191216-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24355/dbbs.084-202408191216-0</a>
+#Additive Manufacturing of Alkali-Activated Materials by Laser-Induced Slip Casting ([2024-09](date/2024/09))
+ <a href="https://doi.org/10.24355/dbbs.084-202408191216-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202408191216-0" target="_blank">10.24355/dbbs.084-202408191216-0</a>
 
--------------------------
+<a href="../../../author/hlavacek_petr"><b>Hlaváček</b>&nbsp;Petr</a></span>, <a href="../../../author/kolsch_nico"><b>Kolsch</b>&nbsp;Nico</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0213-2766" title="ORCID: 0000-0002-0213-2766" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zocca_andrea"><b>Zocca</b>&nbsp;Andrea</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1358-6392" title="ORCID: 0000-0002-1358-6392" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kuhne_hans-carsten"><b>Kühne</b>&nbsp;Hans-Carsten</a></span>, <a href="../../../author/gunster_jens"><b>Günster</b>&nbsp;Jens</a></span><br>
+Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hlavacek_petr"><b>Hlaváček</b> Petr</a>
-,     <a href="../../../author/kolsch_nico"><b>Kolsch</b> Nico</a>
-,     <a href="../../../author/zocca_andrea"><b>Zocca</b> Andrea</a> <a href="https://orcid.org/0000-0002-0213-2766" title="ORCID: 0000-0002-0213-2766" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kuhne_hans-carsten"><b>Kühne</b> Hans-Carsten</a> <a href="https://orcid.org/0000-0002-1358-6392" title="ORCID: 0000-0002-1358-6392" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gunster_jens"><b>Günster</b> Jens</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#additive`](keyword/additive)
-    [`#alkali`](keyword/alkali)
-    [`#cast`](keyword/cast)
-    [`#induction`](keyword/induction)
-    [`#laser`](keyword/laser)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#slip`](keyword/slip)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/laser"><button class="btn">#laser</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/slip"><button class="btn">#slip</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Alkali-Activated%20Materials%20by%20Laser-Induced%20Slip%20Casting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,21 +39,44 @@ tags:
 <a href="https://inciteful.xyz/p/W6926448387" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24355/dbbs.084-202408191216-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24355/dbbs.084-202408191216-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The work focuses on the development of a laser-based process for the additive manufacturing of components with complex geometries from alkali-activated materials. The "Laser-Induced Slip Casting" (LIS) process, originally developed for the additive manufacturing of ceramics, was transferred to handle reactive suspensions such as alkali-activated fly ash and optimized for this pur-pose. In the LIS process, a suspension is layerwise applied and selectively treated with a laser. This produces a green body in the laser treated area, which can be easily removed from the suspension after finishing the printing-process and subsequently after-cured. The advantage of the alkali-activated materials over conventional cement-based binders is their ability to react quickly when heated, making them very suitable for the LIS additive manufacturing process. In addition, the alkali-activated binders have very high acid resistance when properly formulated, resulting in components with increased chemical resistance compared to conventional binders.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/hlavacek_petr"><b>Hlaváček</b> Petr</a>, <a href="../../../author/kolsch_nico"><b>Kolsch</b> Nico</a>, <a href="../../../author/zocca_andrea"><b>Zocca</b> Andrea</a>, <a href="../../../author/kuhne_hans-carsten"><b>Kühne</b> Hans-Carsten</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hlav_kols_zocc_kuhn.2024.AMoAAMbLISC/">Additive Manufacturing of Alkali-Activated Materials by Laser-Induced Slip Casting</a></li>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/hlavacek_petr"><b>Hlaváček</b> Petr</a>, <a href="../../../author/kolsch_nico"><b>Kolsch</b> Nico</a>, <a href="../../../author/zocca_andrea"><b>Zocca</b> Andrea</a>, <a href="../../../author/kuhne_hans-carsten"><b>Kühne</b> Hans-Carsten</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hlav_kols_zocc_kuhn.2024.AMoAAMbLISC/">Additive Manufacturing of Alkali-Activated Materials by Laser-Induced Slip Casting</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{hlav_kols_zocc_kuhn.2024.AMoAAMbLISC,
+      author            = "Petr Hlaváček and Nico Kolsch and Andrea Zocca and Hans-Carsten Kühne and Jens Günster",
+      title             = "Additive Manufacturing of Alkali-Activated Materials by Laser-Induced Slip Casting",
+      doi               = "10.24355/dbbs.084-202408191216-0",
+      year              = "2024",
+      booktitle         = "Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Hlaváček, N. Kolsch, A. Zocca, H.-C. Kühne and J. Günster, “Additive Manufacturing of Alkali-Activated Materials by Laser-Induced Slip Casting”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408191216-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hlaváček, Petr, Nico Kolsch, Andrea Zocca, Hans-Carsten Kühne, and Jens Günster. “Additive Manufacturing of Alkali-Activated Materials by Laser-Induced Slip Casting”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408191216-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

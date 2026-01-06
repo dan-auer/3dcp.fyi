@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Chen, Hossein Rahmani, Erik Schlangen, Oğuzhan Çopuroğlu
+    - footer
+title: Chen Yu, Rahmani Hossein, Schlangen Erik, Çopuroğlu Oğuzhan
 description:
 tags:
  - approach
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2023.105373) An Approach to Develop Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Calcium-Nitrate ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105373" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105373</a>
+#An Approach to Develop Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Calcium-Nitrate ([2023-11](date/2023/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2023.105373) <a href="https://doi.org/10.1016/j.cemconcomp.2023.105373" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105373" target="_blank">10.1016/j.cemconcomp.2023.105373</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6157-9747" title="ORCID: 0000-0001-6157-9747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahmani_hossein"><b>Rahmani</b>&nbsp;Hossein</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 145, No. 105373
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahmani_hossein"><b>Rahmani</b> Hossein</a> <a href="https://orcid.org/0000-0001-6157-9747" title="ORCID: 0000-0001-6157-9747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 145, No. 105373
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#demand`](keyword/demand)
-    [`#limestone`](keyword/limestone)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#setting`](keyword/setting)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Approach%20to%20Develop%20Set-on-Demand%203D%20Printable%20Limestone-Calcined-Clay-Based%20Cementitious%20Materials%20Using%20Calcium-Nitrate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181584392&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388947357" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105373" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105373?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The implementation of extrusion-based 3D concrete printing (3DCP) in large-scale constructions is currently limited by concerns regarding rheology control and the sustainability of this process. To address these issues, this study presents an approach to develop limestone-calcined clay-based cementitious (LC3) materials accelerated by Ca(NO3)2 solution in an inline static mixer-based 3DCP setup. Using this approach, a printable mixture containing only about 275 kg/m3 of Portland cement was formulated that can exhibit a good buildability performance and a 28-day compressive strength of over 30 MPa. Additionally, the effects of adding Ca(NO3)2 solution on the initial setting time, structural build-up, inline buildability, early-age hydration, and compressive strength of LC3 materials were investigated and discussed. Results show that the addition of Ca(NO3)2 solution improved the buildability and accelerated initial setting as well as the structuration due to the promoted ettringite precipitation and C–S–H nucleation. Furthermore, compressive strength at 7 and 28 days was improved through increasing the Ca(NO3)2 dosage, which can be attributed to the formation of NO3-AFm and the increase in the amount of C–S–H gels.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -118,12 +95,41 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
       <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../kurn_kim.2025.EtPo3PLCCCUHCAaSF/">Enhancing the Printability of 3D Printing Limestone Calcined Clay Cement Using Hydroxyethyl Cellulose Admixture and Silica Fume</a></li>
       <li><a href="../../../author/jin_peng"><b>Jin</b> Peng</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/kohestanian_mohammad"><b>Kohestanian</b> Mohammad</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../jin_hasa_kohe_mehr.2024.MNAi3PC/">Micro/Nano Additives in 3D Printing Concrete:<br/>Opportunities, Challenges, and Potential Outlook in Construction Applications</a></li>
       <li><a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../birr_rehm_kim.2024.CAoSBUiOCSaTCSASoDMf3CP/">Comparative Analysis of Structural Build-Up in One-Component Stiff and Two-Component Shotcrete-Accelerated Set-on-Demand Mixtures for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/skripkiunas_gintautas"><b>Skripkiūnas</b> Gintautas</a>, <a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/rishko_lyudmyla"><b>Rishko</b> Lyudmyla</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../skri_girs_rish.2024.LPCMwPf3PoCS/">Lightweight Portland Cement Mixtures with Perlite for 3D Printing of Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_rahm_schl_copu.2024.AAtDSoD3PLCCBCMUCN,
+      author            = "Yu Chen and Hossein Rahmani and Erik Schlangen and Oğuzhan Çopuroğlu",
+      title             = "An Approach to Develop Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Calcium-Nitrate",
+      doi               = "10.1016/j.cemconcomp.2023.105373",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "145",
+      pages             = "105373",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, H. Rahmani, E. Schlangen and O. Çopuroğlu, “An Approach to Develop Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Calcium-Nitrate”, <i>Cement and Concrete Composites</i>, vol. 145, p. 105373, 2024, doi: 10.1016/j.cemconcomp.2023.105373.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yu, Hossein Rahmani, Erik Schlangen, and Oğuzhan Çopuroğlu. “An Approach to Develop Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Calcium-Nitrate”. <i>Cement and Concrete Composites</i> 145 (2024): 105373. https://doi.org/10.1016/j.cemconcomp.2023.105373.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

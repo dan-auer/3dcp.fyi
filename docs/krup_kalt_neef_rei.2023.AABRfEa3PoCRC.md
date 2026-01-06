@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Henning Kruppa, Matthias Kalthoff, Tobias Neef, Silvia Reißig, Viktor Mechtcherine, Michael Raupach, Thomas Matschei, Anya Vollpacht
+    - footer
+title: Kruppa Henning, Kalthoff Matthias, Neef Tobias, Reißig Silvia, Mechtcherine Viktor, Raupach Michael, Matschei Thomas, Vollpacht Anya
 description:
 tags:
  - activation
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Alkali-Activated Binder-Requirements for Extrusion and 3D Printing of Carbon-Reinforced Concrete ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1007/978-3-031-32519-9_129" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-32519-9_129</a>
+#Alkali-Activated Binder-Requirements for Extrusion and 3D Printing of Carbon-Reinforced Concrete ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-32519-9_129" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32519-9_129" target="_blank">10.1007/978-3-031-32519-9_129</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8537-1094" title="ORCID: 0000-0001-8537-1094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruppa_henning"><b>Kruppa</b>&nbsp;Henning</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9313-7617" title="ORCID: 0000-0002-9313-7617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kalthoff_matthias"><b>Kalthoff</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8256-1455" title="ORCID: 0000-0002-8256-1455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neef_tobias"><b>Neef</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6763-3633" title="ORCID: 0000-0002-6763-3633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reissig_silvia"><b>Reißig</b>&nbsp;Silvia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0688-3839" title="ORCID: 0000-0003-0688-3839" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raupach_michael"><b>Raupach</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matschei_thomas"><b>Matschei</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9950-5046" title="ORCID: 0000-0002-9950-5046" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vollpacht_anya"><b>Vollpacht</b>&nbsp;Anya</a></span><br>
+Contribution - Proceedings of the fib Symposium 2023, pp. 1275-1284
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kruppa_henning"><b>Kruppa</b> Henning</a> <a href="https://orcid.org/0000-0001-8537-1094" title="ORCID: 0000-0001-8537-1094" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a> <a href="https://orcid.org/0000-0002-9313-7617" title="ORCID: 0000-0002-9313-7617" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a> <a href="https://orcid.org/0000-0002-8256-1455" title="ORCID: 0000-0002-8256-1455" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> <a href="https://orcid.org/0000-0002-6763-3633" title="ORCID: 0000-0002-6763-3633" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a> <a href="https://orcid.org/0000-0003-0688-3839" title="ORCID: 0000-0003-0688-3839" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vollpacht_anya"><b>Vollpacht</b> Anya</a> <a href="https://orcid.org/0000-0002-9950-5046" title="ORCID: 0000-0002-9950-5046" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the fib Symposium 2023, pp. 1275-1284
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#binder`](keyword/binder)
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#requirement`](keyword/requirement)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Alkali-Activated%20Binder-Requirements%20for%20Extrusion%20and%203D%20Printing%20of%20Carbon-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163965207&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4378806536" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-32519-9_129" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-32519-9_129?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The development of new building materials with a low CO2 footprint is the subject of current global research. Continuous and additive manufacturing methods such as extrusion and 3D printing of concrete can be used to produce lightweight and material-minimized components e.g. made of carbon textile reinforced concrete (TRC). For successful use of these manufacturing processes, high demands are placed on the rheological properties in order to ensure formwork-free production. During extrusion, the concrete must be soft enough to be transported by the extruder and stiff enough so that the concrete does not change its geometric shape after leaving the extruder. The requirements for 3D printing are even higher, since a layer structure must also be ensured, which means that the reaction speed of the concrete must be precisely matched to the manufacturing process. In order to develop sustainable concretes for the production of carbon TRC structures, alkali-activated materials (AAM) offer a high potential to substitute the high cement content in concrete. The development of these AAM is much more demanding compared to conventional concretes with cement, as the rheological and hardening properties are strongly dependent on the choice of raw materials and activators. In the investigations performed as part of the CRC/TRR280 project at RWTH Aachen University and TU Dresden, rheological test methods have been developed to predict the suitability ofAAM for the manufacturing process. Based on a suitability testing program for AAM, the opportunities and challenges for the use of AAM for extrusion as well as 3D concrete printing are highlighted. Furthermore, an outlook for the construction of carbon TRC structures made of AAM is given.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
@@ -88,7 +61,38 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rous_busw_duco_ivan.2022.AtFPoPCBM/">Assessing the Fresh Properties of Printable Cement-Based Materials:<br/>High-Potential Tests for Quality-Control</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{krup_kalt_neef_rei.2023.AABRfEa3PoCRC,
+      author            = "Henning Kruppa and Matthias Kalthoff and Tobias Neef and Silvia Reißig and Viktor Mechtcherine and Michael Raupach and Thomas Matschei and Anya Vollpacht",
+      title             = "Alkali-Activated Binder-Requirements for Extrusion and 3D Printing of Carbon-Reinforced Concrete",
+      doi               = "10.1007/978-3-031-32519-9_129",
+      year              = "2023",
+      volume            = "349",
+      pages             = "1275--1284",
+      booktitle         = "Proceedings of the fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient",
+      editor            = "Alper Ilki and Derya Çavunt and Yavuz Selim Çavunt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Kruppa, “Alkali-Activated Binder-Requirements for Extrusion and 3D Printing of Carbon-Reinforced Concrete”, in <i>Proceedings of the fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient</i>,  2023, vol. 349, pp. 1275–1284. doi: 10.1007/978-3-031-32519-9_129.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kruppa, Henning, Matthias Kalthoff, Tobias Neef, Silvia Reißig, Viktor Mechtcherine, Michael Raupach, Thomas Matschei, and Anya Vollpacht. “Alkali-Activated Binder-Requirements for Extrusion and 3D Printing of Carbon-Reinforced Concrete”. In <i>Proceedings of the Fib Symposium 2023: Building for the Future Durable, Sustainable, Resilient</i>, edited by Alper Ilki, Derya Çavunt, and Yavuz Selim Çavunt, 349:1275–84, 2023. https://doi.org/10.1007/978-3-031-32519-9_129.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

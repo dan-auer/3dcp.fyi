@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fernando Filho, Yu Chen, Oğuzhan Çopuroğlu
+    - footer
+title: Filho Fernando, Chen Yu, Çopuroğlu Oğuzhan
 description:
 tags:
  - cement
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://repository.tudelft.nl/islandora/object/uuid%3Abb73c05f-fd29-4e11-97a6-5a2b46cce0ff/datastream/OBJ/download) Nano-Modification in Digital Manufacturing of Cementitious Composites ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/b978-0-323-85229-6.00009-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-323-85229-6.00009-3</a>
+#Nano-Modification in Digital Manufacturing of Cementitious Composites ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.tudelft.nl/islandora/object/uuid%3Abb73c05f-fd29-4e11-97a6-5a2b46cce0ff/datastream/OBJ/download) <a href="https://doi.org/10.1016/b978-0-323-85229-6.00009-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-85229-6.00009-3" target="_blank">10.1016/b978-0-323-85229-6.00009-3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3240-6024" title="ORCID: 0000-0003-3240-6024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b>&nbsp;Fernando</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span><br>
+Contribution - Recent Advances in Nano-Tailored Multi-Functional Cementitious Composites, pp. 251-275
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> <a href="https://orcid.org/0000-0003-3240-6024" title="ORCID: 0000-0003-3240-6024" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Recent Advances in Nano-Tailored Multi-Functional Cementitious Composites, pp. 251-275
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#digital`](keyword/digital)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#modification`](keyword/modification)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nano-Modification%20in%20Digital%20Manufacturing%20of%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138345815&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4226337695" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-323-85229-6.00009-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-323-85229-6.00009-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As new construction technologies emerge, their development requires nonconventional approaches, which include using innovative functional components. The history of concrete technology has seen several significant leaps forward by adopting this strategy. A well-known example is the development and introduction of superplasticizers in the 1970s which opened the doors for high-performance concrete (Mehta & Aietcin, 1990). Later, during the 1990s and 2000s, mineral additions and supplementary cementitious materials became increasingly essential for the development of ultra-high performance concrete (Acker & Ulm, 2013). However, in recent years it has become clear that the highest demand for innovation in concrete is not in its mechanical properties, but in its digital manufacturing (Attaran, 2017). This new approach is quickly becoming a strong candidate for future construction technologies, and even for extra-terrestrial endeavors (Matsumoto et al., 1992; Reches, 2019). However, conventional materials appear to have limited resources to offer for further enhancing the digital manufacturing capabilities. Therefore there is a dire need for adopting nonconventional materialbased solutions, for which nanomaterials stand out for the development of this additive manufacturing technology (Khan et al., 2020). As defined by ASTM (ASTM & F279210, 2010), additive manufacturing is “a process of joining materials to make objects from 3D model data, usually layer upon layer, as opposed to subtractive manufacturing methodologies.” Until now, main techniques in the context of digital concrete manufacturing include layer extrusion (contour crafting, 3D concrete printing), particle bed printing (D-shape, binder jetting, or sand jetting), formwork printing (mesh mold), and temporary supports (flexible formwork, knitted textiles) (Wangler et al., 2019), as shown in Fig. 7.1. Detailed classifications of digital fabrication with concrete and descriptions of each specific technique are given in (Buswell et al., 2020; Reiter et al., 2020; Wangler et al., 2019). Extrusion-based method is the most popular and investigated 3D printing technology with concrete so far (Buswell et al., 2018; Marchon et al., 2018; Wangler et al., 2016). Remarkable attention from both academia and industry has been given to extrusion-based 3D concrete printing (3DCP) during the last decade. Many companies in the Netherlands, for example, Royal BAM Group, CyBe, Twente Additive Manufacturing, and Bruil, are attempting to implement this technology in practice. 3DCP is the digital concrete manufacturing technique under focus in this study. The development of printable cementitious composites is possibly the most critical aspect in 3DCP. Compared to mold-cast concrete process, several essential material parameters need to be controlled in 3DCP process, that is, pumpability, extrudability, buildability, and others (Le et al., 2012; Lim et al., 2012). Conventional materialbased technology appears to have limited resources to offer for further enhancing the capabilities of 3D printing. Therefore there is a dire need for adopting nonconventional materialbased solutions for which nanomaterials can play a vital role. Controlling the rheology is the key to successful 3DCP, as achieving dimensional stability and the minimum required mechanical properties in green state are the main challenges. Furthermore, achieving the required strength development rate and enabling smart monitoring of the 3DCP are the other goals that are desired in designing such materials. Recent research shows that successful modification of cementitious materials can be achieved by incorporating nanomaterials in the material design for the enhanced fresh and hardened state properties. In this chapter, a summary of these developments is compiled in the light of potential applications, safety issues, and technological challenges.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -93,9 +75,39 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../prem_ambi_kuma_ghod.2024.ATMtPtSBo3PC/">A Theoretical Model to Predict the Structural Buildability of 3D Printable Concrete</a></li>
       <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{filh_chen_copu.2022.NMiDMoCC,
+      author            = "Fernando França de Mendonça Filho and Yu Chen and Oğuzhan Çopuroğlu",
+      title             = "Nano-Modification in Digital Manufacturing of Cementitious Composites",
+      doi               = "10.1016/b978-0-323-85229-6.00009-3",
+      year              = "2022",
+      pages             = "251--275",
+      booktitle         = "Recent Advances in Nano-Tailored Multi-Functional Cementitious Composites",
+      editor            = "Mustafa Şahmaran and Faiz Uddin Ahmed Shaikh and Gürkan Yıldırım",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. F. de Mendonça Filho, Y. Chen and O. Çopuroğlu, “Nano-Modification in Digital Manufacturing of Cementitious Composites”, in <i>Recent Advances in Nano-Tailored Multi-Functional Cementitious Composites</i>,  2022, pp. 251–275. doi: 10.1016/b978-0-323-85229-6.00009-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mendonça Filho, Fernando França de, Yu Chen, and Oğuzhan Çopuroğlu. “Nano-Modification in Digital Manufacturing of Cementitious Composites”. In <i>Recent Advances in Nano-Tailored Multi-Functional Cementitious Composites</i>, edited by Mustafa Şahmaran, Faiz Uddin Ahmed Shaikh, and Gürkan Yıldırım, 251–75, 2022. https://doi.org/10.1016/b978-0-323-85229-6.00009-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

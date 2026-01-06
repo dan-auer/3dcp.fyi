@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnaud Perrot, Yannick Mélinge, Damien Rangeard, Francesca Micaelli, Patrice Estellé, Christophe Lanos
+    - footer
+title: Perrot Arnaud, Mélinge Yannick, Rangeard Damien, Micaelli Francesca, Estellé Patrice, Lanos Christophe
 description:
 tags:
  - behavior
@@ -20,38 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal.archives-ouvertes.fr/hal-00716752/file/Perrot_at_al_Rheologica_Acta_2012.pdf) Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate ([2012-06](date/2012/06))
-<a href="https://doi.org/10.1007/s00397-012-0638-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00397-012-0638-6</a>
+#Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate ([2012-06](date/2012/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.archives-ouvertes.fr/hal-00716752/file/Perrot_at_al_Rheologica_Acta_2012.pdf) <a href="https://doi.org/10.1007/s00397-012-0638-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00397-012-0638-6" target="_blank">10.1007/s00397-012-0638-6</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <a href="../../../author/melinge_yannick"><b>Mélinge</b>&nbsp;Yannick</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangeard_damien"><b>Rangeard</b>&nbsp;Damien</a></span>, <a href="../../../author/micaelli_francesca"><b>Micaelli</b>&nbsp;Francesca</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3305-7831" title="ORCID: 0000-0003-3305-7831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/estelle_patrice"><b>Estellé</b>&nbsp;Patrice</a></span>, <a href="../../../author/lanos_christophe"><b>Lanos</b>&nbsp;Christophe</a></span><br>
+Journal Article - Rheologica Acta, Vol. 51, Iss. 8, pp. 743-754
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>
-,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/micaelli_francesca"><b>Micaelli</b> Francesca</a>
-,     <a href="../../../author/estelle_patrice"><b>Estellé</b> Patrice</a> <a href="https://orcid.org/0000-0003-3305-7831" title="ORCID: 0000-0003-3305-7831" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lanos_christophe"><b>Lanos</b> Christophe</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Rheologica Acta, Vol. 51, Iss. 8, pp. 743-754
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#combination`](keyword/combination)
-    [`#extrusion`](keyword/extrusion)
-    [`#fluid`](keyword/fluid)
-    [`#height`](keyword/height)
-    [`#low`](keyword/low)
-    [`#ram`](keyword/ram)
-    [`#rate`](keyword/rate)
-    [`#strain`](keyword/strain)
-    [`#stress`](keyword/stress)
-    [`#use`](keyword/use)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/ram"><button class="btn">#ram</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Ram%20Extruder%20as%20a%20Combined%20Rheo-Tribometer%20to%20Study%20the%20Behavior%20of%20High-Yield-Stress%20Fluids%20at%20Low%20Strain-Rate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84864437106&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,20 +42,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2082645262" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00397-012-0638-6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00397-012-0638-6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     We propose in this work to provide an efficient and simple extruder device able to evaluate the rheological and tribological behaviour of high yield stress fluids, such as extrudible materials. An extruder able to measure simultaneously both the friction force acting on the extruder wall and the total extrusion force is developed. Based on previous studies, an efficient and accurate method of data analysis is then proposed and applied in order to obtain both a flow curve and a tribological law. Experimental tests are performed on soft modelling clay, kaolin paste and cement-based materials. Results are compared to conventional rheometry measurements. This comparison helps to evaluate the accuracy of the proposed experimental device and procedure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "63 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
@@ -144,4 +116,35 @@ tags:
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{perr_meli_rang_mica.2012.UoREaaCRTtStBoHYSFaLSR,
+      author            = "Arnaud Perrot and Yannick Mélinge and Damien Rangeard and Francesca Micaelli and Patrice Estellé and Christophe Lanos",
+      title             = "Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate",
+      doi               = "10.1007/s00397-012-0638-6",
+      year              = "2012",
+      journal           = "Rheologica Acta",
+      volume            = "51",
+      number            = "8",
+      pages             = "743--754",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Perrot, Y. Mélinge, D. Rangeard, F. Micaelli, P. Estellé and C. Lanos, “Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate”, <i>Rheologica Acta</i>, vol. 51, no. 8, pp. 743–754, 2012, doi: 10.1007/s00397-012-0638-6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Perrot, Arnaud, Yannick Mélinge, Damien Rangeard, Francesca Micaelli, Patrice Estellé, and Christophe Lanos. “Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate”. <i>Rheologica Acta</i> 51, no. 8 (2012): 743–54. https://doi.org/10.1007/s00397-012-0638-6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

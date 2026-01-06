@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Pei, Yingzhu Zhong, Shuai Wang, Luxi Zhang, Yuhao Lai
+    - footer
+title: Pei Qiang, Zhong Yingzhu, Wang Shuai, Zhang Luxi, Lai Yuhao
 description:
 tags:
  - aggregate
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142024" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142024</a>
+#Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142024" target="_blank">10.1016/j.conbuildmat.2025.142024</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3068-7371" title="ORCID: 0000-0002-3068-7371" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pei_qiang"><b>Pei</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-6980-6189" title="ORCID: 0009-0005-6980-6189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_yingzhu"><b>Zhong</b>&nbsp;Yingzhu</a></span>, <a href="../../../author/wang_shuai"><b>Wang</b>&nbsp;Shuai</a></span>, <a href="../../../author/zhang_luxi"><b>Zhang</b>&nbsp;Luxi</a></span>, <a href="../../../author/lai_yuhao"><b>Lai</b>&nbsp;Yuhao</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 486, No. 142024
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a> <a href="https://orcid.org/0000-0002-3068-7371" title="ORCID: 0000-0002-3068-7371" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhong_yingzhu"><b>Zhong</b> Yingzhu</a> <a href="https://orcid.org/0009-0005-6980-6189" title="ORCID: 0009-0005-6980-6189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_shuai"><b>Wang</b> Shuai</a>
-,     <a href="../../../author/zhang_luxi"><b>Zhang</b> Luxi</a>
-,     <a href="../../../author/lai_yuhao"><b>Lai</b> Yuhao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 486, No. 142024
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#bond`](keyword/bond)
-    [`#constitutive`](keyword/constitutive)
-    [`#difference`](keyword/difference)
-    [`#fine`](keyword/fine)
-    [`#grade`](keyword/grade)
-    [`#interlayer`](keyword/interlayer)
-    [`#model`](keyword/model)
-    [`#performance`](keyword/performance)
-    [`#shear`](keyword/shear)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interlayer%20Bonding%20Shear%20Performance%20and%20Constitutive%20Model%20of%203DPC%20with%20Different%20Fine%20Aggregate%20Gradations" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006995367&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410950578" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142024" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142024?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the effects of fine aggregate gradation on interlayer shear properties and constitutive relationships in 3D printed concrete (3DPC). Double shear tests and scanning electron microscopy (SEM) analysis were conducted on specimens with four particle sizes for single-graded and four Fuller gradation curve exponents for continuous-graded, analyzing the effects of different gradations on shear strength and stress-strain curves of interlayer. Results show that increasing coarse aggregate proportion enhances interlayer shear strength from 6.32 MPa to 7.76 MPa. SEM reveals optimal microstructural density with strong aggregate-matrix bonding. Experimental stress-strain data were fitted using Gauss Amp and ExpGrowDec functions to establish elastoplastic constitutive models for single and continuous gradations, respectively. The derived models demonstrate high consistency with experimental curves, providing a foundation for theoretical and numerical simulations of 3DPC interlayer shear mechanics. Findings highlight gradation optimization as a critical factor in improving interfacial mechanical performance through macro-microstructural synergy. This study provides an in-depth analysis of the interlayer shear behavior of 3DPC materials to provide a flexible framework for future material design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
@@ -88,7 +63,6 @@ tags:
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_titt_schu.2021.RaPBo3PCMwVAC/">Rheological and Pumping Behavior of 3D Printable Cementitious Materials with Varying Aggregate Content</a></li>
       <li><a href="../../../author/napolitano_rosanna"><b>Napolitano</b> Rosanna</a>, <a href="../../../author/forni_daniele"><b>Forni</b> Daniele</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../napo_forn_menn_aspr.2021.DCotLIPo3PCE/">Dynamic Characterization of the Layer-Interface Properties of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a>, <a href="../../../author/zhong_yingzhu"><b>Zhong</b> Yingzhu</a>, <a href="../../../author/wang_shuai"><b>Wang</b> Shuai</a>, <a href="../../../author/zhang_luxi"><b>Zhang</b> Luxi</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pei_zhon_wang_zhan.2025.IBSPaCMo3wDFAG/">Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../rahu_sant.2020.EtPoCCLCA/">Evaluating the Printability of Concretes Containing Lightweight Coarse Aggregates</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
       <li><a href="../../../author/ramani_ayyagari"><b>Ramani</b> Ayyagari</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a>, <a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../rama_chen_soto.2023.QtIoC3PotCSC/">Quantifying the Impact of Concrete 3D Printing on the Construction Supply Chain</a></li>
@@ -98,8 +72,37 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a>, <a href="../../../author/zhong_yingzhu"><b>Zhong</b> Yingzhu</a>, <a href="../../../author/wang_shuai"><b>Wang</b> Shuai</a>, <a href="../../../author/zhang_luxi"><b>Zhang</b> Luxi</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pei_zhon_wang_zhan.2025.IBSPaCMo3wDFAG/">Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pei_zhon_wang_zhan.2025.IBSPaCMo3wDFAG,
+      author            = "Qiang Pei and Yingzhu Zhong and Shuai Wang and Luxi Zhang and Yuhao Lai",
+      title             = "Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations",
+      doi               = "10.1016/j.conbuildmat.2025.142024",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "486",
+      pages             = "142024",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Pei, Y. Zhong, S. Wang, L. Zhang and Y. Lai, “Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations”, <i>Construction and Building Materials</i>, vol. 486, p. 142024, 2025, doi: 10.1016/j.conbuildmat.2025.142024.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pei, Qiang, Yingzhu Zhong, Shuai Wang, Luxi Zhang, and Yuhao Lai. “Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations”. <i>Construction and Building Materials</i> 486 (2025): 142024. https://doi.org/10.1016/j.conbuildmat.2025.142024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

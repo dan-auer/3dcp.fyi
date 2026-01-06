@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiming Yao, Jiawei Zhang, Yuanfeng Sun, Yilin Pi, Jingquan Wang, Cong Lu
+    - footer
+title: Yao Yiming, Zhang Jiawei, Sun Yuanfeng, Pi Yilin, Wang Jingquan, Lu Cong
 description:
 tags:
  - concrete
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138108" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138108</a>
+#Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138108" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138108" target="_blank">10.1016/j.conbuildmat.2024.138108</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5751-8180" title="ORCID: 0000-0002-5751-8180" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_yiming"><b>Yao</b>&nbsp;Yiming</a></span>, <a href="../../../author/zhang_jiawei"><b>Zhang</b>&nbsp;Jiawei</a></span>, <a href="../../../author/sun_yuanfeng"><b>Sun</b>&nbsp;Yuanfeng</a></span>, <a href="../../../author/pi_yilin"><b>Pi</b>&nbsp;Yilin</a></span>, <a href="../../../author/wang_jingquan"><b>Wang</b>&nbsp;Jingquan</a></span>, <a href="../../../author/lu_cong"><b>Lu</b>&nbsp;Cong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 447, No. 138108
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a> <a href="https://orcid.org/0000-0002-5751-8180" title="ORCID: 0000-0002-5751-8180" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>
-,     <a href="../../../author/sun_yuanfeng"><b>Sun</b> Yuanfeng</a>
-,     <a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>
-,     <a href="../../../author/wang_jingquan"><b>Wang</b> Jingquan</a>
-,     <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 447, No. 138108
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#failure`](keyword/failure)
-    [`#height`](keyword/height)
-    [`#mechanics`](keyword/mechanics)
-    [`#mechanism`](keyword/mechanism)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Failure%20Mechanism%20of%203D%20Printing%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202351764&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402029720" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138108" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138108?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Steel fiber reinforced 3D printing ultra-high performance concrete (3DP-UHPC) is prepared and experimentally studied. The effects of steel fiber content and various interlayer reinforcing materials on compressive, flexural, and splitting tensile properties are investigated, supplemented by Digital Image Correlation (DIC) technique for crack propagation analysis. Fabricated 3DP-UHPC specimens exhibited compressive strengths exceeding 160 MPa, with a peak at 205.2 MPa. Incremental increases in steel fiber content slightly enhanced compressive strength, whereas the addition of interlayer reinforcing materials, textile/steel wire mesh (SWM), reduced it due to altered interlayer bonding characteristics. The incorporation of textile/SWM significantly improved the flexural performance, enhancing energy absorption capacity and toughness. Specimens reinforced with SWM exhibited excellent flexural performance, with their flexural strength and ultimate deflection reaching 110.9 % and 192.5 % respectively of those before reinforcement. The splitting test revealed typical fractures along the interfaces between printed layers, with higher splitting strength obtained in the bottom layers. In specimens reinforced with carbon textile, glass textile, and SWM, the splitting strengths were more than double those of the subsequent layers. These insights contribute to a deeper understanding of 3DP-UHPC, paving the way for optimized use of reinforcing materials to improve structural integrity and performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -100,8 +76,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/dai_yecheng"><b>Dai</b> Yecheng</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ye_yang_yu_dai.2024.SEoFaFBo3PECC/">Size-Effect on Flexural and Fracture Behaviors of 3D Printed Engineered Cementitious Composites:<br/>Experimental and Numerical Studies</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/li_baidian"><b>Li</b> Baidian</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a>, <a href="../../../author/gu_kan"><b>Gu</b> Kan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_wu_gu.2026.EIPaSo3PUwAT/">Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
@@ -117,4 +93,34 @@ tags:
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/cai_bin"><b>Cai</b> Bin</a>, <a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_lafl_cai_lyu.2024.Io3PSSUCUGaHCM/">Investigation of 3D Printed Self-Sensing UHPC Composites Using Graphite and Hybrid Carbon Microfibers</a></li>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/hu_xianwen"><b>Hu</b> Xianwen</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/liu_yue"><b>Liu</b> Yue</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../zeng_hu_sun_liu.2025.TCBo3PPFRUHPC/">Triaxial Compressive Behavior of 3D Printed PE-Fiber-Reinforced Ultra-High-Performance Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yao_zhan_sun_pi.2024.MPaFMo3PUHPC,
+      author            = "Yiming Yao and Jiawei Zhang and Yuanfeng Sun and Yilin Pi and Jingquan Wang and Cong Lu",
+      title             = "Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.138108",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "447",
+      pages             = "138108",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yao, J. Zhang, Y. Sun, Y. Pi, J. Wang and C. Lu, “Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete”, <i>Construction and Building Materials</i>, vol. 447, p. 138108, 2024, doi: 10.1016/j.conbuildmat.2024.138108.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yao, Yiming, Jiawei Zhang, Yuanfeng Sun, Yilin Pi, Jingquan Wang, and Cong Lu. “Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete”. <i>Construction and Building Materials</i> 447 (2024): 138108. https://doi.org/10.1016/j.conbuildmat.2024.138108.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

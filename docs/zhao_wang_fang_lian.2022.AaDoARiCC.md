@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shun Zhao, Qiang Wang, Xinjun Fang, Wei Liang, Yu Cao, Changyi Zhao, Lu Li, Chunbao Liu, Kunyang Wang
+    - footer
+title: Zhao Shun, Wang Qiang, Fang Xinjun, Liang Wei, Cao Yu, Zhao Changyi, Li Lu, Liu Chunbao, Wang Kunyang
 description:
 tags:
  - application
@@ -15,36 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2504-446X/6/12/424/pdf?version=1671526298) Application and Development of Autonomous Robots in Concrete Construction:<br/>:aca-blank: Challenges and Opportunities ([2022-12](date/2022/12))
-<a href="https://doi.org/10.3390/drones6120424" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/drones6120424</a>
+#Application and Development of Autonomous Robots in Concrete Construction&nbsp;([2022-12](date/2022/12))
+<div class="h1-like">Challenges and Opportunities</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2504-446X/6/12/424/pdf?version=1671526298) <a href="https://doi.org/10.3390/drones6120424" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/drones6120424" target="_blank">10.3390/drones6120424</a>
 
--------------------------
+<a href="../../../author/zhao_shun"><b>Zhao</b>&nbsp;Shun</a></span>, <a href="../../../author/wang_qiang"><b>Wang</b>&nbsp;Qiang</a></span>, <a href="../../../author/fang_xinjun"><b>Fang</b>&nbsp;Xinjun</a></span>, <a href="../../../author/liang_wei"><b>Liang</b>&nbsp;Wei</a></span>, <a href="../../../author/cao_yu"><b>Cao</b>&nbsp;Yu</a></span>, <a href="../../../author/zhao_changyi"><b>Zhao</b>&nbsp;Changyi</a></span>, <a href="../../../author/li_lu"><b>Li</b>&nbsp;Lu</a></span>, <a href="../../../author/liu_chunbao"><b>Liu</b>&nbsp;Chunbao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3807-3697" title="ORCID: 0000-0003-3807-3697" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_kunyang"><b>Wang</b>&nbsp;Kunyang</a></span><br>
+Journal Article - Drones, Vol. 6, Iss. 12, No. 424
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_shun"><b>Zhao</b> Shun</a>
-,     <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>
-,     <a href="../../../author/fang_xinjun"><b>Fang</b> Xinjun</a>
-,     <a href="../../../author/liang_wei"><b>Liang</b> Wei</a>
-,     <a href="../../../author/cao_yu"><b>Cao</b> Yu</a>
-,     <a href="../../../author/zhao_changyi"><b>Zhao</b> Changyi</a>
-,     <a href="../../../author/li_lu"><b>Li</b> Lu</a>
-,     <a href="../../../author/liu_chunbao"><b>Liu</b> Chunbao</a>
-,     <a href="../../../author/wang_kunyang"><b>Wang</b> Kunyang</a> <a href="https://orcid.org/0000-0003-3807-3697" title="ORCID: 0000-0003-3807-3697" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Drones, Vol. 6, Iss. 12, No. 424
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#opportunity`](keyword/opportunity)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Application%20and%20Development%20of%20Autonomous%20Robots%20in%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144834650&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313408704" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/drones6120424" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/drones6120424?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Updated concrete construction robots are designed to optimize equipment operation, improve safety, enhance workspace awareness, and further ensure a proper working environment for construction workers. The importance of concrete construction robots has been constantly highlighted, as they have a profound impact on construction quality and efficiency. Autonomous vehicle driving monitoring has been widely employed in concrete construction robots; however, they lack clear relevance to the key functions in the building process. This paper aims to bridge this knowledge gap by systematically classifying and summarizing the existing concrete construction robots, analyzing their existing problems, and providing direction for their future development. The prescription criteria and selection of robots depend on the concrete construction process, which includes six common functional levels: distribution, leveling and compaction, floor finishing, surface painting, 3D printing, and surveillance. Misunderstood functions and the improper adjustment of construction robots may lead to increased cost, reduced effectiveness, and restricted application scenarios. Our review identifies current commercial and recently studied concrete construction robots to facilitate the standardization and optimization of robotic construction design. Moreover, this study may be able to guide future research and technology development efforts for autonomous robots in concrete construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
@@ -83,8 +58,39 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhao_yanhua"><b>Zhao</b> Yanhua</a>, <a href="../../../author/meng_wei"><b>Meng</b> Wei</a>, <a href="../../../author/wang_peifu"><b>Wang</b> Peifu</a>, <a href="../../../author/qian_dongqing"><b>Qian</b> Dongqing</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhao_meng_wang_qian.2022.RPoC3PTaIESMaMDC/">Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/dynowski_piotr"><b>Dynowski</b> Piotr</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../korn_gade_dyno_tran.2024.AMiUA/">Additive Manufacturing in Underwater Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_wang_fang_lian.2022.AaDoARiCC,
+      author            = "Shun Zhao and Qiang Wang and Xinjun Fang and Wei Liang and Yu Cao and Changyi Zhao and Lu Li and Chunbao Liu and Kunyang Wang",
+      title             = "Application and Development of Autonomous Robots in Concrete Construction: Challenges and Opportunities",
+      doi               = "10.3390/drones6120424",
+      year              = "2022",
+      journal           = "Drones",
+      volume            = "6",
+      number            = "12",
+      pages             = "424",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Zhao, “Application and Development of Autonomous Robots in Concrete Construction: Challenges and Opportunities”, <i>Drones</i>, vol. 6, no. 12, p. 424, 2022, doi: 10.3390/drones6120424.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Shun, Qiang Wang, Xinjun Fang, Wei Liang, Yu Cao, Changyi Zhao, Lu Li, Chunbao Liu, and Kunyang Wang. “Application and Development of Autonomous Robots in Concrete Construction: Challenges and Opportunities”. <i>Drones</i> 6, no. 12 (2022): 424. https://doi.org/10.3390/drones6120424.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hoseong Jeong, Sun-Jin Han, Seung-Ho Choi, Yoon Lee, Seong Yi, Kang Kim
+    - footer
+title: Jeong Hoseong, Han Sun-Jin, Choi Seung-Ho, Lee Yoon, Yi Seong, Kim Kang
 description:
 tags:
  - buildability
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/12/4/657/pdf?version=1550767158) Rheological Property Criteria for Buildable 3D Printing Concrete ([2019-02](date/2019/02))
-<a href="https://doi.org/10.3390/ma12040657" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma12040657</a>
+#Rheological Property Criteria for Buildable 3D Printing Concrete ([2019-02](date/2019/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/4/657/pdf?version=1550767158) <a href="https://doi.org/10.3390/ma12040657" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12040657" target="_blank">10.3390/ma12040657</a>
 
--------------------------
+<a href="../../../author/jeong_hoseong"><b>Jeong</b>&nbsp;Hoseong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3306-8645" title="ORCID: 0000-0003-3306-8645" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_sun-jin"><b>Han</b>&nbsp;Sun-Jin</a></span>, <a href="../../../author/choi_seung-ho"><b>Choi</b>&nbsp;Seung-Ho</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1158-6126" title="ORCID: 0000-0003-1158-6126" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_jung_yoon"><b>Lee</b>&nbsp;Yoon</a></span>, <a href="../../../author/yi_tae_seong"><b>Yi</b>&nbsp;Seong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4666-6057" title="ORCID: 0000-0002-4666-6057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_su_kang"><b>Kim</b>&nbsp;Kang</a></span><br>
+Journal Article - Materials, Vol. 12, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jeong_hoseong"><b>Jeong</b> Hoseong</a>
-,     <a href="../../../author/han_sun-jin"><b>Han</b> Sun-Jin</a> <a href="https://orcid.org/0000-0003-3306-8645" title="ORCID: 0000-0003-3306-8645" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/choi_seung-ho"><b>Choi</b> Seung-Ho</a>
-,     <a href="../../../author/lee_jung_yoon"><b>Lee</b> Yoon</a> <a href="https://orcid.org/0000-0003-1158-6126" title="ORCID: 0000-0003-1158-6126" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yi_tae_seong"><b>Yi</b> Seong</a>
-,     <a href="../../../author/kim_su_kang"><b>Kim</b> Kang</a> <a href="https://orcid.org/0000-0002-4666-6057" title="ORCID: 0000-0002-4666-6057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 12, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#criteria`](keyword/criteria)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Property%20Criteria%20for%20Buildable%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85062232693&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2917258958" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma12040657" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma12040657?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fresh concrete used in 3D printing should ensure adequate yield stress, otherwise the printed concrete layer may suffer intolerable deformation or collapse during the printing process. In response to this issue, an analytical study was carried out to derive the initial yield stress and hardening coefficient of fresh concrete suitable for 3D printing. The maximum shear stress distribution of fresh concrete was calculated using a stress transformation equation derived from the equilibrium condition of forces. In addition, the elapsed time experienced by fresh concrete during the printing processes was estimated and was then substituted into the elapsed time-yield stress function to calculate the yield stress distribution. Based on these results, an algorithm capable of deriving both the initial yield stress and the hardening coefficient required for printing fresh concrete up to the target height was proposed and computational fluid dynamics (CFD) analyses were performed to verify the accuracy of the proposed model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -75,7 +53,6 @@ tags:
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
@@ -83,8 +60,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "72 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
       <li><a href="../../../author/disu_oluwatimilehin"><b>Disu</b> Oluwatimilehin</a>, <a href="../../../author/ismail_o_sikiru"><b>Ismail</b> Sikiru</a>, <a href="../../../author/wood_luke"><b>Wood</b> Luke</a>, <a href="../../../author/chrysanthou_andreas"><b>Chrysanthou</b> Andreas</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../disu_isma_wood_chry.2025.ESoBo3PCBSUAS/">Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate</a></li>
       <li><a href="../../../author/yang_xia"><b>Yang</b> Xia</a>, <a href="../../../author/wang_jiuyuan"><b>Wang</b> Jiuyuan</a>, <a href="../../../author/huang_han"><b>Huang</b> Han</a>, <a href="../../../author/wu_gengchen"><b>Wu</b> Gengchen</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yang_wang_huan_wu.2025.AWCBMfUS3CP/">Anti-Washout Cement-Based Material for Under-Seawater 3D Concrete Printing:<br/>Design, Mechanical Properties and Microstructural Analysis</a></li>
       <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/archbold_paul"><b>Archbold</b> Paul</a>, <a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b> José</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../josh_gasp_arch_silv.2025.SotCoMBoFBFAfS3P/">Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing</a></li>
@@ -157,4 +135,34 @@ tags:
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a>, <a href="../../../author/dakhli_zakaria"><b>Dakhli</b> Zakaria</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lafh_dakh.2019.PIoPCM/">Performance Indicators of Printed Construction Materials:<br/>A Durability-Based Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jeon_han_choi_lee.2019.RPCfB3PC,
+      author            = "Hoseong Jeong and Sun-Jin Han and Seung-Ho Choi and Yoon Jung Lee and Seong Tae Yi and Kang Su Kim",
+      title             = "Rheological Property Criteria for Buildable 3D Printing Concrete",
+      doi               = "10.3390/ma12040657",
+      year              = "2019",
+      journal           = "Materials",
+      volume            = "12",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Jeong, S.-J. Han, S.-H. Choi, Y. J. Lee, S. T. Yi and K. S. Kim, “Rheological Property Criteria for Buildable 3D Printing Concrete”, <i>Materials</i>, vol. 12, no. 4, 2019, doi: 10.3390/ma12040657.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jeong, Hoseong, Sun-Jin Han, Seung-Ho Choi, Yoon Jung Lee, Seong Tae Yi, and Kang Su Kim. “Rheological Property Criteria for Buildable 3D Printing Concrete”. <i>Materials</i> 12, no. 4 (2019). https://doi.org/10.3390/ma12040657.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

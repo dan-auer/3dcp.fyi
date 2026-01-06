@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcin Serdeczny, Raphaël Comminal, David Pedersen, Jon Spangenberg
+    - footer
+title: Serdeczny Marcin, Comminal Raphaël, Pedersen David, Spangenberg Jon
 description:
 tags:
  - additive
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://backend.orbit.dtu.dk/ws/files/182695585/Numerical_modeling_of_mesostructure.pdf) Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing ([2019-05](date/2019/05))
-<a href="https://doi.org/10.1016/j.addma.2019.05.024" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2019.05.024</a>
+#Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing ([2019-05](date/2019/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://backend.orbit.dtu.dk/ws/files/182695585/Numerical_modeling_of_mesostructure.pdf) <a href="https://doi.org/10.1016/j.addma.2019.05.024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.05.024" target="_blank">10.1016/j.addma.2019.05.024</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1691-773X" title="ORCID: 0000-0003-1691-773X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/comminal_raphael"><b>Comminal</b>&nbsp;Raphaël</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7013-7614" title="ORCID: 0000-0002-7013-7614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pedersen_bue_david"><b>Pedersen</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 28, pp. 419-429
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a> <a href="https://orcid.org/0000-0003-1691-773X" title="ORCID: 0000-0003-1691-773X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> <a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a> <a href="https://orcid.org/0000-0002-7013-7614" title="ORCID: 0000-0002-7013-7614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 28, pp. 419-429
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#extrusion`](keyword/extrusion)
-    [`#form`](keyword/form)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#numeric`](keyword/numeric)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulations%20of%20the%20Mesostructure%20Formation%20in%20Material-Extrusion%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85067932921&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,22 +37,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2945555700" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2019.05.024" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2019.05.024?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A computational fluid dynamics model is used to predict the mesostructure formed by the successive deposition of parallel strands in material extrusion additive manufacturing. The numerical model simulates the extrusion of the material onto the substrate. The model takes into account the effect of the presence of the previously extruded material on the shape of the subsequently deposited strands. The simulated mesostructures are compared to optical micrographs of the mesostructures of 3D-printed samples, and the predictions agree well with the experiments. In addition, the influence of the layer thickness, the strand-to-strand distance, and the deposition configuration (with aligned or skewed layers) on the formation of the mesostructure is investigated. The simulations provide detailed information about the porosity, the inter- and intra-layer bond line densities, and the surface roughness of the mesostructures, which potentially can be used in a model-based slicing software.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/wagner_gabriel"><b>Wagner</b> Gabriel</a>, <a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wagn_silv_ribe_figu.2025.ANaFAtMtAMEoCM/">A Novel and Flexible Approach to Modeling the Additive Manufacturing Extrusion of Cementitious Materials</a></li>
@@ -89,4 +68,34 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../comm_serd_pede_span.2019.MPaNSoMDaCiEAM/">Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{serd_comm_pede_span.2019.NSotMFiMEAM,
+      author            = "Marcin P. Serdeczny and Raphaël Comminal and David Bue Pedersen and Jon Spangenberg",
+      title             = "Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing",
+      doi               = "10.1016/j.addma.2019.05.024",
+      year              = "2019",
+      journal           = "Additive Manufacturing",
+      volume            = "28",
+      pages             = "419--429",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. Serdeczny, R. Comminal, D. B. Pedersen and J. Spangenberg, “Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing”, <i>Additive Manufacturing</i>, vol. 28, pp. 419–429, 2019, doi: 10.1016/j.addma.2019.05.024.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Serdeczny, Marcin P., Raphaël Comminal, David Bue Pedersen, and Jon Spangenberg. “Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing”. <i>Additive Manufacturing</i> 28 (2019): 419–29. https://doi.org/10.1016/j.addma.2019.05.024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

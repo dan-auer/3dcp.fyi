@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yini Lin, Jiachuan Yan, Ming Sun, Xiaoyu Han, Boyang Tang
+    - footer
+title: Lin Yini, Yan Jiachuan, Sun Ming, Han Xiaoyu, Tang Boyang
 description:
 tags:
  - cohesion
@@ -21,38 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Inter-Layer Cohesion in 3D Printed Concrete:<br/>:aca-blank: The Role of Width-to-Height-Ratio in Modulating Transport Properties and Pore-Structure ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.jobe.2024.111009" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111009</a>
+#Inter-Layer Cohesion in 3D Printed Concrete&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">The Role of Width-to-Height-Ratio in Modulating Transport Properties and Pore-Structure</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111009" target="_blank">10.1016/j.jobe.2024.111009</a>
 
--------------------------
+<a href="../../../author/lin_yini"><b>Lin</b>&nbsp;Yini</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_jiachuan"><b>Yan</b>&nbsp;Jiachuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3401-1395" title="ORCID: 0000-0002-3401-1395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_ming"><b>Sun</b>&nbsp;Ming</a></span>, <a href="../../../author/han_xiaoyu"><b>Han</b>&nbsp;Xiaoyu</a></span>, <a href="../../../author/tang_boyang"><b>Tang</b>&nbsp;Boyang</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 98, No. 111009
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lin_yini"><b>Lin</b> Yini</a>
-,     <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a> <a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_ming"><b>Sun</b> Ming</a> <a href="https://orcid.org/0000-0002-3401-1395" title="ORCID: 0000-0002-3401-1395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>
-,     <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 98, No. 111009
-
-:aca-blank:{ .lg .middle}
-    [`#cohesion`](keyword/cohesion)
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#modular`](keyword/modular)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#ratio`](keyword/ratio)
-    [`#structure`](keyword/structure)
-    [`#transport`](keyword/transport)
-    [`#width`](keyword/width)
-
-
--------------------------
+<a href="../../keyword/cohesion"><button class="btn">#cohesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Cohesion%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206840015&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403562846" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111009" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111009?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to the extrusion-based printing and layer-to-layer deposition characteristics, the interlayer cohesion of 3D printed concrete is highly sensitive to the geometry of the printed layers, significantly influencing both mechanical performance and long-term durability. In this study, the width-to-height (W/H) ratio was employed as a geometric parameter to explore its relationship with interlayer transport and pore morphology. The research began by optimizing mix proportions through fluidity and printability tests. Subsequently, chloride ion permeation, mercury intrusion porosimetry, and micro-CT were used to analyze interfacial transport and pore distribution, revealing the influence of the W/H ratio on these properties. The results demonstrate that the W/H ratio plays a crucial role in densification and interfacial defect formation in 3D printed concrete. While the extrusion process enhances matrix compaction, a higher W/H ratio generally promotes stronger interlayer cohesion and reduces chloride ion permeability. However, an excessively large W/H ratio, especially when coupled with air entrainment, can introduce defects and increase porosity at the layer interfaces. The study concludes that maintaining a W/H ratio between 1.5 and 2.0 effectively strengthens interlayer cohesion. These results offer valuable theoretical insights and technical support for the design and application of 3D printed concrete materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
@@ -120,8 +93,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhan_zhan_yang_liu.2023.IotPFotWUi3PC/">Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/li_fuhai"><b>Li</b> Fuhai</a>, <a href="../../../author/xiao_sai"><b>Xiao</b> Sai</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/li_kepu"><b>Li</b> Kepu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xiao_yang_li.2025.MPaAo3PCMwMMBoOPPD/">Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design</a></li>
       <li><a href="../../../author/lin_yini"><b>Lin</b> Yini</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_yan_sun_tang.2025.EoWGPoPHaMo3PC/">Effects of Waste Glass Powder on Printability, Hydration and Microstructure of 3D Printing Concrete</a></li>
@@ -129,4 +102,34 @@ tags:
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abed_wari_alaw_jabr.2025.TLC3PI/">Transformative Low-Carbon 3D-Printed Infrastructure:<br/>Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lin_yan_sun_han.2024.ILCi3PC,
+      author            = "Yini Lin and Jiachuan Yan and Ming Sun and Xiaoyu Han and Boyang Tang",
+      title             = "Inter-Layer Cohesion in 3D Printed Concrete: The Role of Width-to-Height-Ratio in Modulating Transport Properties and Pore-Structure",
+      doi               = "10.1016/j.jobe.2024.111009",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "98",
+      pages             = "111009",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Lin, J. Yan, M. Sun, X. Han and B. Tang, “Inter-Layer Cohesion in 3D Printed Concrete: The Role of Width-to-Height-Ratio in Modulating Transport Properties and Pore-Structure”, <i>Journal of Building Engineering</i>, vol. 98, p. 111009, 2024, doi: 10.1016/j.jobe.2024.111009.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lin, Yini, Jiachuan Yan, Ming Sun, Xiaoyu Han, and Boyang Tang. “Inter-Layer Cohesion in 3D Printed Concrete: The Role of Width-to-Height-Ratio in Modulating Transport Properties and Pore-Structure”. <i>Journal of Building Engineering</i> 98 (2024): 111009. https://doi.org/10.1016/j.jobe.2024.111009.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

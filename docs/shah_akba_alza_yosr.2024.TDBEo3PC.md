@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qamar Shahzad, Muhammad Akbar, Majed Alzara, Ahmed Yosri, Nadeem Abbas, Yasser Zaghloul
+    - footer
+title: Shahzad Qamar, Akbar Muhammad, Alzara Majed, Yosri Ahmed, Abbas Nadeem, Zaghloul Yasser
 description:
 tags:
  - buildability
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Time-Dependent Buildability Evaluation of 3D Printed Concrete:<br/>:aca-blank: Experimental Validation and Numerical Simulation ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1080/21650373.2024.2380508" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2024.2380508</a>
+#Time-Dependent Buildability Evaluation of 3D Printed Concrete&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">Experimental Validation and Numerical Simulation</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2024.2380508" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2380508" target="_blank">10.1080/21650373.2024.2380508</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahzad_qamar"><b>Shahzad</b>&nbsp;Qamar</a></span>, <a href="../../../author/akbar_muhammad"><b>Akbar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/alzara_majed"><b>Alzara</b>&nbsp;Majed</a></span>, <a href="../../../author/yosri_m_ahmed"><b>Yosri</b>&nbsp;Ahmed</a></span>, <a href="../../../author/abbas_nadeem"><b>Abbas</b>&nbsp;Nadeem</a></span>, <a href="../../../author/zaghloul_r_yasser"><b>Zaghloul</b>&nbsp;Yasser</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-15
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>
-,     <a href="../../../author/alzara_majed"><b>Alzara</b> Majed</a>
-,     <a href="../../../author/yosri_m_ahmed"><b>Yosri</b> Ahmed</a>
-,     <a href="../../../author/abbas_nadeem"><b>Abbas</b> Nadeem</a>
-,     <a href="../../../author/zaghloul_r_yasser"><b>Zaghloul</b> Yasser</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-15
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#dependency`](keyword/dependency)
-    [`#evaluation`](keyword/evaluation)
-    [`#experiment`](keyword/experiment)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-    [`#time`](keyword/time)
-    [`#validation`](keyword/validation)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Time-Dependent%20Buildability%20Evaluation%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199258748&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400896244" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2024.2380508" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2024.2380508?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to determine the constructability of printed material, aiming to predict the potential maximum achievable height for the printed material without encountering any instances of printed specimen failure. Thus, a new experimental technique was suggested to assess the constructability of printed concrete in a fresh state. In the early development phase, tests were conducted to evaluate both the load-bearing capability and the maximum height achievable through the printing process of the structure. Afterward, experiments were conducted to explore time-dependent characteristics and integrate these findings into simulation models during a subsequent stage. Later, a constructability testing model based on the Drucker–Prager (DP) criterion was developed, and its accuracy was validated via numerical and experimental testing. The utilized model effectively and accurately represents the evolving mechanical characteristics of material properties over time. Additionally, the numerical model demonstrated considerable accuracy in forecasting the constructability capacity of early-stage printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/bhusal_shiva"><b>Bhusal</b> Shiva</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../bhus_sedg_hoja.2023.EtPaRaMPo3PEMfCNB/">Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings</a></li>
@@ -104,8 +79,37 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_akba_alza_yosr.2024.TDBEo3PC,
+      author            = "Qamar Shahzad and Muhammad Akbar and Majed Alzara and Ahmed M. Yosri and Nadeem Abbas and Yasser R. Zaghloul",
+      title             = "Time-Dependent Buildability Evaluation of 3D Printed Concrete: Experimental Validation and Numerical Simulation",
+      doi               = "10.1080/21650373.2024.2380508",
+      year              = "2024",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--15",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Shahzad, M. Akbar, M. Alzara, A. M. Yosri, N. Abbas and Y. R. Zaghloul, “Time-Dependent Buildability Evaluation of 3D Printed Concrete: Experimental Validation and Numerical Simulation”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–15, 2024, doi: 10.1080/21650373.2024.2380508.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahzad, Qamar, Muhammad Akbar, Majed Alzara, Ahmed M. Yosri, Nadeem Abbas, and Yasser R. Zaghloul. “Time-Dependent Buildability Evaluation of 3D Printed Concrete: Experimental Validation and Numerical Simulation”. <i>Journal of Sustainable Cement-Based Materials</i>, 2024, 1–15. https://doi.org/10.1080/21650373.2024.2380508.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #solution
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
   <li><a href="../../../author/yang_shuai"><b>Yang</b> Shuai</a>, <a href="../../../author/li_fei"><b>Li</b> Fei</a>, <a href="../../../author/lu_ya"><b>Lu</b> Ya</a>, <a href="../../../author/xu_xiaoming"><b>Xu</b> Xiaoming</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yang_li_lu_xu.2025.SotPCoa3PSftPoPO/">Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization</a></li>
   <li><a href="../../../author/munemo_rue"><b>Munemo</b> Rue</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mune_krug_zijl.2025.STo3IwSBSfEIB/">Surface Treatment of 3DPC Interlayers with Silicate-Based Solution for Enhanced Interfacial Bonding</a></li>

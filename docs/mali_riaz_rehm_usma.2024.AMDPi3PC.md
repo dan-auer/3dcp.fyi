@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Umair Malik, Raja Riaz, Saif Rehman, Muhammad Usman, Raja Riaz, Raja Hamaz
+    - footer
+title: Malik Umair, Riaz Raja, Rehman Saif, Usman Muhammad, Riaz Raja, Hamaz Raja
 description:
 tags:
  - advance
@@ -19,37 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03510) Advancing Mix-Design Prediction in 3D Printed Concrete:<br/>:aca-blank: Predicting Anisotropic Compressive Strength and Slump-Flow ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03510" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03510</a>
+#Advancing Mix-Design Prediction in 3D Printed Concrete&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">Predicting Anisotropic Compressive Strength and Slump-Flow</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03510) <a href="https://doi.org/10.1016/j.cscm.2024.e03510" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03510" target="_blank">10.1016/j.cscm.2024.e03510</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-8447-1072" title="ORCID: 0009-0009-8447-1072" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/malik_jalil_umair"><b>Malik</b>&nbsp;Umair</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9017-6397" title="ORCID: 0000-0002-9017-6397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/riaz_dilawar_raja"><b>Riaz</b>&nbsp;Raja</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-4430-1452" title="ORCID: 0009-0000-4430-1452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_saif"><b>Rehman</b>&nbsp;Saif</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2262-6429" title="ORCID: 0000-0003-2262-6429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/usman_muhammad"><b>Usman</b>&nbsp;Muhammad</a></span>, <a href="../../../author/riaz_ehsan_raja"><b>Riaz</b>&nbsp;Raja</a></span>, <a href="../../../author/hamaz_raja"><b>Hamaz</b>&nbsp;Raja</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e03510
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a> <a href="https://orcid.org/0009-0009-8447-1072" title="ORCID: 0009-0009-8447-1072" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a> <a href="https://orcid.org/0000-0002-9017-6397" title="ORCID: 0000-0002-9017-6397" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a> <a href="https://orcid.org/0009-0000-4430-1452" title="ORCID: 0009-0000-4430-1452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a> <a href="https://orcid.org/0000-0003-2262-6429" title="ORCID: 0000-0003-2262-6429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/riaz_ehsan_raja"><b>Riaz</b> Raja</a>
-,     <a href="../../../author/hamaz_raja"><b>Hamaz</b> Raja</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e03510
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#flow`](keyword/flow)
-    [`#mixing`](keyword/mixing)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#slump`](keyword/slump)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slump"><button class="btn">#slump</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Mix-Design%20Prediction%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198266996&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400555552" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03510" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03510?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Introducing 3D-concrete printing has started a revolution in the construction industry, presenting unique opportunities alongside undeniable challenges. Among these, the major challenge is the iterative process associated with mix design formulation, which results in significant material and time consumption. This research uses machine learning (ML) techniques such as Extreme Gradient Boosting (XGBoost), Support Vector Machine (SVM), Decision Tree Regression (DTR), Gaussian Process Regression (GPR), and Artificial Neural Network (ANN) to overcome these challenges. A dataset containing 21 mix constituent features and 4 output properties (cast and printed compressive strength, and slump flow) was extracted from the literature to investigate the relationship between mix design and performance. The models were assessed using a range of evaluation metrics, including Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), Mean Squared Error (MSE), and R-squared value. Gaussian Process Regression (GPR) yielded more favorable results. In the case of cast strength, GPR achieved an R2 value of 0.9069, along with RMSE, MSE, and MAE values of 13.04, 170.12, and 9.40, respectively. A similar trend was observed for printed strengths in directions 1, 2, and 3. GPR achieved R-squared values exceeding 0.91 for all directions, accompanied by significantly lower RMSE values (below 4.1). The machine learning models were also validated using four unique mix designs. These mixes were 3D printed and tested for compressive strength and slump flow. GPR's average error was 10.55%, while SVM achieved a slightly lower average error of 9.38%. Overall, this work presents a novel approach for optimizing 3D-printed concrete by enabling the prediction of slump flow and compressive strength directly from the mix design. This approach can facilitate the design and fabrication of 3D-printed concrete structures that fulfill the necessary strength and printability requirements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
@@ -116,8 +90,8 @@ tags:
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
@@ -127,4 +101,33 @@ tags:
       <li><a href="../../../author/park_keunhyoung"><b>Park</b> Keunhyoung</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../park_mema_hoja_radl.2024.EoAMBoNMCo3PCBwR/">Effects of Anisotropic Mechanical Behavior on Nominal Moment Capability of 3D Printed Concrete Beam with Reinforcement</a></li>
       <li><a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/kim_in-ho"><b>Kim</b> In-Ho</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../rehm_riaz_usma_kim.2024.ADDAT3PCMP/">Augmented Data-Driven Approach Towards 3D Printed Concrete Mix Prediction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mali_riaz_rehm_usma.2024.AMDPi3PC,
+      author            = "Umair Jalil Malik and Raja Dilawar Riaz and Saif Ur Rehman and Muhammad Usman and Raja Ehsan Riaz and Raja Hamaz",
+      title             = "Advancing Mix-Design Prediction in 3D Printed Concrete: Predicting Anisotropic Compressive Strength and Slump-Flow",
+      doi               = "10.1016/j.cscm.2024.e03510",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e03510",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. J. Malik, R. D. Riaz, S. U. Rehman, M. Usman, R. E. Riaz and R. Hamaz, “Advancing Mix-Design Prediction in 3D Printed Concrete: Predicting Anisotropic Compressive Strength and Slump-Flow”, <i>Case Studies in Construction Materials</i>, p. e03510, 2024, doi: 10.1016/j.cscm.2024.e03510.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Malik, Umair Jalil, Raja Dilawar Riaz, Saif Ur Rehman, Muhammad Usman, Raja Ehsan Riaz, and Raja Hamaz. “Advancing Mix-Design Prediction in 3D Printed Concrete: Predicting Anisotropic Compressive Strength and Slump-Flow”. <i>Case Studies in Construction Materials</i>, 2024, e03510. https://doi.org/10.1016/j.cscm.2024.e03510.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

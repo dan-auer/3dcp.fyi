@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Geoff Isaac, Paul Nicholas, Gavin Paul, Nico Pietroni, Teresa Vidal Calleja, Mike Xie, Tim Schork
+    - footer
+title: Isaac Geoff, Nicholas Paul, Paul Gavin, Pietroni Nico, Vidal Calleja Teresa, Xie Mike, Schork Tim
 description:
 tags:
  - automation
@@ -13,32 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automated Shotcrete:<br/>:aca-blank: A More Sustainable Construction Technology ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1007/978-3-031-47215-2_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-47215-2_19</a>
+#Automated Shotcrete&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">A More Sustainable Construction Technology</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-47215-2_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-47215-2_19" target="_blank">10.1007/978-3-031-47215-2_19</a>
 
--------------------------
+<a href="../../../author/isaac_geoff"><b>Isaac</b>&nbsp;Geoff</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_gavin"><b>Paul</b>&nbsp;Gavin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8271-2102" title="ORCID: 0000-0002-8271-2102" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pietroni_nico"><b>Pietroni</b>&nbsp;Nico</a></span>, <a href="../../../author/vidal-calleja_teresa"><b>Vidal Calleja</b>&nbsp;Teresa</a></span>, <a href="../../../author/xie_mike"><b>Xie</b>&nbsp;Mike</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4583-2439" title="ORCID: 0000-0002-4583-2439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schork_tim"><b>Schork</b>&nbsp;Tim</a></span><br>
+Contribution - Sustainable Engineering, pp. 331-345
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/isaac_geoff"><b>Isaac</b> Geoff</a>
-,     <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pietroni_nico"><b>Pietroni</b> Nico</a> <a href="https://orcid.org/0000-0002-8271-2102" title="ORCID: 0000-0002-8271-2102" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vidal-calleja_teresa"><b>Vidal Calleja</b> Teresa</a>
-,     <a href="../../../author/xie_mike"><b>Xie</b> Mike</a>
-,     <a href="../../../author/schork_tim"><b>Schork</b> Tim</a> <a href="https://orcid.org/0000-0002-4583-2439" title="ORCID: 0000-0002-4583-2439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Sustainable Engineering, pp. 331-345
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#construction`](keyword/construction)
-    [`#shotcrete`](keyword/shotcrete)
-    [`#sustainability`](keyword/sustainability)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Shotcrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185903279&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391581400" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-47215-2_19" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-47215-2_19?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Shotcreting is a technology that has been used in mining and tunnelling for decades and is now being investigated for its potential to reduce greenhouse gas emissions in the construction industry. This technology involves spraying concrete onto surfaces to reinforce them, and recent advancements in digital manufacturing have made it possible to automate the process, potentially reducing carbon emissions and increasing productivity. This chapter discusses the limitations of 3D extrusion printing of concrete and explores the advantages of shotcreting, such as the ability to produce complex geometric forms without the need for formwork. By eliminating formwork, carbon emissions can be significantly reduced while increasing sustainability and productivity. The chapter also discusses state-of-the-art control systems and identifies suitable cementitious materials designed to optimise shotcreting. The use of shotcrete has the potential to create longer-lasting, more sustainable buildings and can be used to repair or rehabilitate existing structures, delaying the need for demolition and reconstruction. The reduction in carbon emissions associated with the construction industry through the use of shotcrete could contribute to a more sustainable future, aligning with UN Sustainable Development Goal 12. However, there are still research challenges that need to be addressed to advance the widespread adoption of shotcreting.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
@@ -88,8 +67,38 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wu_mema_duar.2022.SotARoRSaTf3PoC/">State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{isaa_nich_paul_piet.2024.AS,
+      author            = "Geoff Isaac and Paul Nicholas and Gavin Paul and Nico Pietroni and Teresa Vidal Calleja and Mike Xie and Tim Schork",
+      title             = "Automated Shotcrete: A More Sustainable Construction Technology",
+      doi               = "10.1007/978-3-031-47215-2_19",
+      year              = "2024",
+      pages             = "331--345",
+      booktitle         = "Sustainable Engineering: Concepts and Practices",
+      editor            = "Israel Sunday Dunmade and Michael Olawale Daramola and Samuel Ayodele Iwarere",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Isaac, “Automated Shotcrete: A More Sustainable Construction Technology”, in <i>Sustainable Engineering: Concepts and Practices</i>,  2024, pp. 331–345. doi: 10.1007/978-3-031-47215-2_19.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Isaac, Geoff, Paul Nicholas, Gavin Paul, Nico Pietroni, Teresa Vidal Calleja, Mike Xie, and Tim Schork. “Automated Shotcrete: A More Sustainable Construction Technology”. In <i>Sustainable Engineering: Concepts and Practices</i>, edited by Israel Sunday Dunmade, Michael Olawale Daramola, and Samuel Ayodele Iwarere, 331–45, 2024. https://doi.org/10.1007/978-3-031-47215-2_19.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sara Alonso-Cañon, Elena Blanco-Fernandez, Eva Cuesta-Astorga, Irune Indacoechea-Vega, Joaquín Salas-Álvarez
+    - footer
+title: Alonso-Cañon Sara, Blanco-Fernandez Elena, Cuesta-Astorga Eva, Indacoechea-Vega Irune, Salas-Álvarez Joaquín
 description:
 tags:
  - analysis
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Selection of the Best 3D Printing High-Performance Mortars Using Multi-Criteria Analysis ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3390/buildings15183307" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15183307</a>
+#Selection of the Best 3D Printing High-Performance Mortars Using Multi-Criteria Analysis ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/buildings15183307" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15183307" target="_blank">10.3390/buildings15183307</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0080-4888" title="ORCID: 0000-0003-0080-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9147-468X" title="ORCID: 0000-0001-9147-468X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cuesta-astorga_eva"><b>Cuesta-Astorga</b>&nbsp;Eva</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9110-9084" title="ORCID: 0000-0001-9110-9084" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b>&nbsp;Irune</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-9644-5763" title="ORCID: 0009-0008-9644-5763" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salas-alvarez_joaquin"><b>Salas-Álvarez</b>&nbsp;Joaquín</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 18, No. 3307
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a> <a href="https://orcid.org/0000-0003-0080-4888" title="ORCID: 0000-0003-0080-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> <a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cuesta-astorga_eva"><b>Cuesta-Astorga</b> Eva</a> <a href="https://orcid.org/0000-0001-9147-468X" title="ORCID: 0000-0001-9147-468X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> <a href="https://orcid.org/0000-0001-9110-9084" title="ORCID: 0000-0001-9110-9084" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salas-alvarez_joaquin"><b>Salas-Álvarez</b> Joaquín</a> <a href="https://orcid.org/0009-0008-9644-5763" title="ORCID: 0009-0008-9644-5763" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 18, No. 3307
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#criteria`](keyword/criteria)
-    [`#height`](keyword/height)
-    [`#mortar`](keyword/mortar)
-    [`#multi`](keyword/multi)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#selective`](keyword/selective)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Selection%20of%20the%20Best%203D%20Printing%20High-Performance%20Mortars%20Using%20Multi-Criteria%20Analysis" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017125923&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414258414" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15183307" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15183307?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     High-performance concrete for 3D printing has recently attracted significant attention due to its potential to create structural elements without the need for traditional reinforcement. While various formulations have been proposed by researchers, evaluations are often limited to mechanical performance and printability, while cost and environmental impact are generally overlooked. This study expands the analysis by also considering cost and environmental impact, aiming to identify the optimal mix using a multi-criteria decision-making analysis (MCDMA). In the first phase, several high-strength mortar formulations were developed and assessed based on mechanical strength, printability, environmental impact, and cost. In the second phase, the most promising mix from the initial evaluation was further modified by incorporating different types of fibers, including aramid, carbon, glass, cellulose, and polypropylene. Comprehensive testing—covering mechanical properties and printability—together with cost and a life cycle assessment were conducted to determine the most effective mortar formulations. One of the main findings is that adding 0.05% of 20 mm length cellulose fibers in weight to a mortar containing Cem I 42.5R can increase the compressive strength by more than 9% without affecting the cost or environmental impact, also allowing the obtainment of a mortar apt for 3D printing. This increase in the compression strength is presumably related to a lateral restriction in movements of the mortar, which makes it increase the maximal principal stresses, and thus, its strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/alonso-estebanez_alejandro"><b>Alonso-Estebanez</b> Alejandro</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/bruncic_ana"><b>Brunčič</b> Ana</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../alon_alon_yori_brun.2025.RPRf3PSMUaNLCRR/">Rheological Parameter Ranges for 3D Printing Sustainable Mortars Using a New Low-Cost Rotational Rheometer</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../alon_blan_cast_yori.2024.CoRFi3PMUMCA/">Comparison of Reinforcement-Fibers in 3D Printing Mortars Using Multi-Criteria Analysis</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
@@ -96,7 +73,38 @@ tags:
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/hu_xianwen"><b>Hu</b> Xianwen</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/liu_yue"><b>Liu</b> Yue</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../zeng_hu_sun_liu.2025.TCBo3PPFRUHPC/">Triaxial Compressive Behavior of 3D Printed PE-Fiber-Reinforced Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alon_blan_cues_inda.2025.SotB3PHPMUMCA,
+      author            = "Sara Alonso-Cañon and Elena Blanco-Fernandez and Eva Cuesta-Astorga and Irune Indacoechea-Vega and Joaquín Salas-Álvarez",
+      title             = "Selection of the Best 3D Printing High-Performance Mortars Using Multi-Criteria Analysis",
+      doi               = "10.3390/buildings15183307",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "18",
+      pages             = "3307",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Alonso-Cañon, E. Blanco-Fernandez, E. Cuesta-Astorga, I. Indacoechea-Vega and J. Salas-Álvarez, “Selection of the Best 3D Printing High-Performance Mortars Using Multi-Criteria Analysis”, <i>Buildings</i>, vol. 15, no. 18, p. 3307, 2025, doi: 10.3390/buildings15183307.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alonso-Cañon, Sara, Elena Blanco-Fernandez, Eva Cuesta-Astorga, Irune Indacoechea-Vega, and Joaquín Salas-Álvarez. “Selection of the Best 3D Printing High-Performance Mortars Using Multi-Criteria Analysis”. <i>Buildings</i> 15, no. 18 (2025): 3307. https://doi.org/10.3390/buildings15183307.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

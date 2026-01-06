@@ -8,7 +8,7 @@ search:
 
 # #simple
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cao_cui.2025.SFNPTtR3PC/">Simple Floor Nail Placement Technique to Reinforce 3D-Printed Concrete:<br/>An Experimental Investigation</a></li>
   <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../kuma_pand_muth.2023.ASPEFf3CPSCtSEitBD/">A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction</a></li>
   <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/vu_h_tran"><b>Vu</b> Tran</a>, <a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../tran_vu_nguy.2023.SAfOP3PGCBoSaSFM/">Simplified Assessment for One-Part 3D Printable Geopolymer Concrete Based on Slump and Slump-Flow Measurements</a></li>

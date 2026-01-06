@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Gaspar Florindo 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/archbold_paul"><b>Archbold</b> Paul</a>, <a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b> José</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../josh_gasp_arch_silv.2025.SotCoMBoFBFAfS3P/">Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing</a></li>
   <li><a href="../../../author/pedrosa_ana"><b>Pedrosa</b> Ana</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pedr_gasp.2023.RAoMMfAM/">Rheology-Assessment of Mortar-Materials for Additive Manufacturing</a></li>
   <li><a href="../../../author/soares_cezar-maciel_augusto"><b>Soares</b> Augusto</a>, <a href="../../../author/costa_hugo"><b>Costa</b> Hugo</a>, <a href="../../../author/carmo_ricardo"><b>Carmo</b> Ricardo</a>, <a href="../../../author/rodrigues_ana"><b>Rodrigues</b> Ana</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../soar_cost_carm_rodr.2023.CDMf3PM/">Comprehensive Design Methodology for 3D Printing Mortars</a></li>

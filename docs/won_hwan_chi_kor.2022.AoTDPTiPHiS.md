@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daeyoun Won, Bon-Gang Hwang, Seokho Chi, Ju Kor
+    - footer
+title: Won Daeyoun, Hwang Bon-Gang, Chi Seokho, Kor Ju
 description:
 tags:
  - adoption
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Adoption of Three-Dimensional Printing Technology in Public Housing in Singapore:<br/>:aca-blank: Drivers, Challenges, and Strategies ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1061/(asce)me.1943-5479.0001065" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/(asce)me.1943-5479.0001065</a>
+#Adoption of Three-Dimensional Printing Technology in Public Housing in Singapore&nbsp;([2022-05](date/2022/05))
+<div class="h1-like">Drivers, Challenges, and Strategies</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)me.1943-5479.0001065" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)me.1943-5479.0001065" target="_blank">10.1061/(asce)me.1943-5479.0001065</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1843-4379" title="ORCID: 0000-0003-1843-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/won_daeyoun"><b>Won</b>&nbsp;Daeyoun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9034-2033" title="ORCID: 0000-0002-9034-2033" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hwang_bon-gang"><b>Hwang</b>&nbsp;Bon-Gang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0409-5268" title="ORCID: 0000-0002-0409-5268" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chi_seokho"><b>Chi</b>&nbsp;Seokho</a></span>, <a href="../../../author/kor_lin_ju"><b>Kor</b>&nbsp;Ju</a></span><br>
+Journal Article - Journal of Management in Engineering, Vol. 38, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/won_daeyoun"><b>Won</b> Daeyoun</a> <a href="https://orcid.org/0000-0003-1843-4379" title="ORCID: 0000-0003-1843-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hwang_bon-gang"><b>Hwang</b> Bon-Gang</a> <a href="https://orcid.org/0000-0002-9034-2033" title="ORCID: 0000-0002-9034-2033" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chi_seokho"><b>Chi</b> Seokho</a> <a href="https://orcid.org/0000-0002-0409-5268" title="ORCID: 0000-0002-0409-5268" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kor_lin_ju"><b>Kor</b> Ju</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Management in Engineering, Vol. 38, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#challenge`](keyword/challenge)
-    [`#dimension`](keyword/dimension)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-    [`#strategy`](keyword/strategy)
-    [`#technology`](keyword/technology)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Adoption%20of%20Three-Dimensional%20Printing%20Technology%20in%20Public%20Housing%20in%20Singapore" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130080675&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4225273897" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/(asce)me.1943-5479.0001065" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/(asce)me.1943-5479.0001065?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Although emphasis has been placed on three-dimensional (3D) printing technology that can alleviate increasing demand and lowproductivity issues in public housing developments, limited research has been conducted to examine perceptions surrounding this technology in the context of public housing projects in the built environment industry. Hence, this study aims to investigate the perceptions of practitioners working in the industry concerning the drivers, challenges, and strategies for 3D printing technology, together with the status quo of its implementation. To achieve these goals, nine drivers, eight challenges, and seven strategies were identified through a comprehensive literature review, followed by a structured questionnaire survey administered to industry practitioners. Based on the survey analyses, the top three drivers, challenges, and strategies were identified, and the differences in perceptions according to respondents and their organizational characteristics were explored. Moreover, postinterviews were carried out with several industry professionals to further substantiate the analyses results. The results serve as a starting point for the industry to reap the benefits from additive manufacturing technology throughout the project life cycle. This study contributes to the body of knowledge relating to the adoption of 3D printing technology in the industry, improving productivity in public housing projects and moving toward more sustainable and cleaner delivery processes in the built environment industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -91,9 +70,39 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/huo_yanlin"><b>Huo</b> Yanlin</a>, <a href="../../../author/chen_tiefeng"><b>Chen</b> Tiefeng</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../han_yan_huo_chen.2024.EoCCRo3PC/">Effect of Carbonation-Curing-Regime on 3D Printed Concrete:<br/>Compressive Strength, CO2 Uptake, and Characterization</a></li>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../besk_raza_zhon_skib.2024.3PvTC/">3D Printing vs. Traditional Construction:<br/>Cost Comparisons from Design to Waste Disposal Stages</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{won_hwan_chi_kor.2022.AoTDPTiPHiS,
+      author            = "Daeyoun Won and Bon-Gang Hwang and Seokho Chi and Ju Lin Kor",
+      title             = "Adoption of Three-Dimensional Printing Technology in Public Housing in Singapore: Drivers, Challenges, and Strategies",
+      doi               = "10.1061/(asce)me.1943-5479.0001065",
+      year              = "2022",
+      journal           = "Journal of Management in Engineering",
+      volume            = "38",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Won, B.-G. Hwang, S. Chi and J. L. Kor, “Adoption of Three-Dimensional Printing Technology in Public Housing in Singapore: Drivers, Challenges, and Strategies”, <i>Journal of Management in Engineering</i>, vol. 38, no. 4, 2022, doi: 10.1061/(asce)me.1943-5479.0001065.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Won, Daeyoun, Bon-Gang Hwang, Seokho Chi, and Ju Lin Kor. “Adoption of Three-Dimensional Printing Technology in Public Housing in Singapore: Drivers, Challenges, and Strategies”. <i>Journal of Management in Engineering</i> 38, no. 4 (2022). https://doi.org/10.1061/(asce)me.1943-5479.0001065.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

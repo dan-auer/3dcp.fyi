@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Narinder Singh, Francesco Colangelo, Ilenia Farina
+    - footer
+title: Singh Narinder, Colangelo Francesco, Farina Ilenia
 description:
 tags:
  - concrete
@@ -13,28 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/15/13/10121/pdf?version=1687774648) Sustainable Non-Conventional Concrete 3D Printing:<br/>:aca-blank: A Review ([2023-06](date/2023/06))
-<a href="https://doi.org/10.3390/su151310121" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su151310121</a>
+#Sustainable Non-Conventional Concrete 3D Printing&nbsp;([2023-06](date/2023/06))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/15/13/10121/pdf?version=1687774648) <a href="https://doi.org/10.3390/su151310121" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su151310121" target="_blank">10.3390/su151310121</a>
 
--------------------------
+<a href="../../../author/singh_narinder"><b>Singh</b>&nbsp;Narinder</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5240-5606" title="ORCID: 0000-0001-5240-5606" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/colangelo_francesco"><b>Colangelo</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9564-3935" title="ORCID: 0000-0002-9564-3935" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/farina_ilenia"><b>Farina</b>&nbsp;Ilenia</a></span><br>
+Journal Article - Sustainability, Vol. 15, Iss. 13, No. 10121
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/singh_narinder"><b>Singh</b> Narinder</a>
-,     <a href="../../../author/colangelo_francesco"><b>Colangelo</b> Francesco</a> <a href="https://orcid.org/0000-0001-5240-5606" title="ORCID: 0000-0001-5240-5606" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a> <a href="https://orcid.org/0000-0002-9564-3935" title="ORCID: 0000-0002-9564-3935" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 15, Iss. 13, No. 10121
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#conventional`](keyword/conventional)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Non-Conventional%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165031231&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382458731" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su151310121" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su151310121?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this review article, system materials for concrete 2D printing have been discussed, along with the various other aspects that are connected to sustainable construction. The article consists of an introduction giving the background of manufacturing that started almost two decades ago, including the non-conventional methods of building structures. It has been seen that there are various stainable materials in the field of 3D printing in construction, as the conversion of construction to 3D printing reduces waste generation. Further in this article, the cost comparison between conventional and non-conventional construction methods has been discussed, including the effectiveness of 3D printing; 3D printing is very effective in the sense that it requires the precise use of machinery and construction material. Full-scale 3D printing has also been seen in the building sector, but only to some extent. Some of the components of bridges, and even some of small bridges, have been constructed using 3D printing and ultra-high-performance concrete. Since there are various advantages to 3D building, there are also various disadvantages to 3D printing, such as how much it costs and finding the materials that are suitable for 3D printing, which might increase the cost. Polymers have also been used in 3D printing construction since polymers have a very long lifespan, and polymers may increase the strength of the final product by reinforcing the aggregate. Additionally, this technology gives us the opportunity to use various materials together for construction, such as recycled aggregates and geopolymers, along with concrete and cement, which might pose some challenges but are being used nowadays. A major concern with this technology is its impact on the labor market. Since in traditional construction huge amounts of man hours are required, concerns have been raised about the inclusion of this technology, as this might affect employment. Since most of the work will be done by machines, the need for labor will reduce. These are some of the issues that need attention. Finally, this article discusses the novelty and future scope of 3D printing in the construction sector, and concludes by outlining the scope of potential developments for 3D printing concrete by taking into account sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "65 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../agus_jipa_habe.2019.EAoMFBECwDFT/">Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
@@ -126,8 +109,8 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhon_huan_liu_wang.2025.DSfECCi3PSSM/">Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars:<br/>Material Modification and Curing Process Innovation</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
@@ -154,4 +137,35 @@ tags:
       <li><a href="../../../author/rogers_helen"><b>Rogers</b> Helen</a>, <a href="../../../author/srivastava_mohit"><b>Srivastava</b> Mohit</a>, <a href="../../../author/tsakou_myriam-elissavet"><b>Tsakou</b> Myriam-Elissavet</a>, <a href="../../../author/prashad_anisha"><b>Prashad</b> Anisha</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../roge_sriv_tsak_pras.2024.SSCMf3PH/">Sustainable Supply Chain Models for 3D Printed Houses</a></li>
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a>, <a href="../../../author/vornicu_nicoleta"><b>Vornicu</b> Nicoleta</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../ungu_onut_tara_vorn.2023.MaMPoCE3PCRwPF/">Microstructure and Mechanical Properties of Cost-Efficient 3D Printed Concrete Reinforced with Polypropylene Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sing_cola_fari.2023.SNCC3P,
+      author            = "Narinder Singh and Francesco Colangelo and Ilenia Farina",
+      title             = "Sustainable Non-Conventional Concrete 3D Printing: A Review",
+      doi               = "10.3390/su151310121",
+      year              = "2023",
+      journal           = "Sustainability",
+      volume            = "15",
+      number            = "13",
+      pages             = "10121",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Singh, F. Colangelo and I. Farina, “Sustainable Non-Conventional Concrete 3D Printing: A Review”, <i>Sustainability</i>, vol. 15, no. 13, p. 10121, 2023, doi: 10.3390/su151310121.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Singh, Narinder, Francesco Colangelo, and Ilenia Farina. “Sustainable Non-Conventional Concrete 3D Printing: A Review”. <i>Sustainability</i> 15, no. 13 (2023): 10121. https://doi.org/10.3390/su151310121.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

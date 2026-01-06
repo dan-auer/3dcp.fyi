@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang-Chen Wang, Si-Nan Yu, Zi-Xiao Chen, Yiwei Weng, Jin Yue, Xuan Liu
+    - footer
+title: Wang Qiang-Chen, Yu Si-Nan, Chen Zi-Xiao, Weng Yiwei, Yue Jin, Liu Xuan
 description:
 tags:
  - additive
@@ -17,35 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2023.100271) Promoting Additive Construction in Fast-Developing Areas:<br/>:aca-blank: A Q-Methodology-Analysis of Stakeholder-Perspectives on Policy-Mixes ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.dibe.2023.100271" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2023.100271</a>
+#Promoting Additive Construction in Fast-Developing Areas&nbsp;([2023-11](date/2023/11))
+<div class="h1-like">A Q-Methodology-Analysis of Stakeholder-Perspectives on Policy-Mixes</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100271) <a href="https://doi.org/10.1016/j.dibe.2023.100271" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100271" target="_blank">10.1016/j.dibe.2023.100271</a>
 
--------------------------
+<a href="../../../author/wang_qiang-chen"><b>Wang</b>&nbsp;Qiang-Chen</a></span>, <a href="../../../author/yu_si-nan"><b>Yu</b>&nbsp;Si-Nan</a></span>, <a href="../../../author/chen_zi-xiao"><b>Chen</b>&nbsp;Zi-Xiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <a href="../../../author/yue_jin"><b>Yue</b>&nbsp;Jin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9433-4033" title="ORCID: 0000-0001-9433-4033" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xuan"><b>Liu</b>&nbsp;Xuan</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100271
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_qiang-chen"><b>Wang</b> Qiang-Chen</a>
-,     <a href="../../../author/yu_si-nan"><b>Yu</b> Si-Nan</a>
-,     <a href="../../../author/chen_zi-xiao"><b>Chen</b> Zi-Xiao</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yue_jin"><b>Yue</b> Jin</a>
-,     <a href="../../../author/liu_xuan"><b>Liu</b> Xuan</a> <a href="https://orcid.org/0000-0001-9433-4033" title="ORCID: 0000-0001-9433-4033" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100271
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#area`](keyword/area)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#fast`](keyword/fast)
-    [`#method`](keyword/method)
-    [`#mixing`](keyword/mixing)
-    [`#promotion`](keyword/promotion)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/area"><button class="btn">#area</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/fast"><button class="btn">#fast</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/promotion"><button class="btn">#promotion</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Promoting%20Additive%20Construction%20in%20Fast-Developing%20Areas" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179626933&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388818002" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2023.100271" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2023.100271?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Construction 3D printing (C3DP) has emerged as an important force in automation and sustainable transformation of the construction industry. Despite the implementation of numerous incentive policies, its development and application remain at a relatively slow pace in developing countries. This research employs the Q methodology to explore the perspectives of China’s stakeholders on the innovation policies for the development and application of C3DP. The study reviews the development of C3DP in China and identifies statements related to C3DP promotion policy and development. Based on data from C3DP industrial experts, the results reveal four distinct policy perspectives: conservative exploration, aggressive progression, intensive investigation, and tentative stimulation. A consensus exists that provides direction for policymaking though the divergences among stakeholders highlight the complexity of implementing policy mixes. This study has theoretical and practical significance in supporting policy mixes for C3DP development and adoption in fast-growing areas.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
@@ -93,10 +69,39 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mararo_m_ian"><b>Mararo</b> Ian</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mara_baba_aigb.2025.TUtPo3CPiK/">Towards Understanding the Perceptions of 3D Construction Printing in Kenya</a></li>
       <li><a href="../../../author/raqeb_hanan"><b>Raqeb</b> Hanan</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../raqe_ghaf.2025.3CPiK/">3D Concrete Printing in Kuwait:<br/>Stakeholder Insights for Sustainable Waste Management Solutions</a></li>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_yu_chen_weng.2023.PACiFDA,
+      author            = "Qiang-Chen Wang and Si-Nan Yu and Zi-Xiao Chen and Yiwei Weng and Jin Yue and Xuan Liu",
+      title             = "Promoting Additive Construction in Fast-Developing Areas: A Q-Methodology-Analysis of Stakeholder-Perspectives on Policy-Mixes",
+      doi               = "10.1016/j.dibe.2023.100271",
+      year              = "2023",
+      journal           = "Developments in the Built Environment",
+      pages             = "100271",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q.-C. Wang, S.-N. Yu, Z.-X. Chen, Y. Weng, J. Yue and X. Liu, “Promoting Additive Construction in Fast-Developing Areas: A Q-Methodology-Analysis of Stakeholder-Perspectives on Policy-Mixes”, <i>Developments in the Built Environment</i>, p. 100271, 2023, doi: 10.1016/j.dibe.2023.100271.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Qiang-Chen, Si-Nan Yu, Zi-Xiao Chen, Yiwei Weng, Jin Yue, and Xuan Liu. “Promoting Additive Construction in Fast-Developing Areas: A Q-Methodology-Analysis of Stakeholder-Perspectives on Policy-Mixes”. <i>Developments in the Built Environment</i>, 2023, 100271. https://doi.org/10.1016/j.dibe.2023.100271.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

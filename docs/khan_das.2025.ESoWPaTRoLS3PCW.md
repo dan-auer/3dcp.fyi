@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohsen Khanverdi, Sreekanta Das
+    - footer
+title: Khanverdi Mohsen, Das Sreekanta
 description:
 tags:
  - cement
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2025.112286) Experimental Study on Water Penetration and Thermal Resistance of Large-Scale 3D-Printed Cementitious Walls ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.jobe.2025.112286" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112286</a>
+#Experimental Study on Water Penetration and Thermal Resistance of Large-Scale 3D-Printed Cementitious Walls ([2025-03](date/2025/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.112286) <a href="https://doi.org/10.1016/j.jobe.2025.112286" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112286" target="_blank">10.1016/j.jobe.2025.112286</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-9369-2948" title="ORCID: 0009-0007-9369-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b>&nbsp;Mohsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_sreekanta"><b>Das</b>&nbsp;Sreekanta</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112286
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a> <a href="https://orcid.org/0009-0007-9369-2948" title="ORCID: 0009-0007-9369-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112286
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#experiment`](keyword/experiment)
-    [`#large`](keyword/large)
-    [`#penetration`](keyword/penetration)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#scale`](keyword/scale)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Water%20Penetration%20and%20Thermal%20Resistance%20of%20Large-Scale%203D-Printed%20Cementitious%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000665736&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408211819" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112286" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112286?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is an innovative technology in construction, offering a faster and cost-effective way to build houses and other structures. However, challenges such as the increased presence of voids in interlayer joints and higher porosity in the printed material may negatively affect the performance of 3D-printed building envelopes. Hence, in the first phase of this study, the performance of large-scale 3D-printed cementitious walls was evaluated under wind-driven rain conditions. Wall specimens with cold joints, which were built and cured during the construction of an actual 3D-printed concrete building, were tested to evaluate the real-world performance of such building envelopes against wind-driven rain. In the second phase, the thermal resistance of printed walls with different printing patterns and insulation configurations was examined. The study found that although 3D-printed concrete walls are highly vulnerable to driving rain, the inclusion of an air cavity between two wythes effectively prevents rainwater from infiltrating into the building. Additionally, uninsulated 3D-printed walls with regular hollow sections and zig-zag patterns demonstrated higher thermal resistance compared to walls made of traditional concrete masonry units (CMU). The study also found that a printed concrete wall with regular hollow section (core) with insulation in the hollow core is able meet the requirement of thermal resistance specified by Canadian building code.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/weinhold_joachim"><b>Weinhold</b> Joachim</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a>, <a href="../../../author/kim_ji-su"><b>Kim</b> Ji-Su</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../cuev_wein_step_kim.2023.EoPPoPRMCaPoMf3CPUISaESIT/">Effect of Printing-Patterns on Pore-Related Microstructural Characteristics and Properties of Materials for 3D Concrete Printing Using In-Situ and Ex-Situ Imaging-Techniques</a></li>
@@ -85,12 +63,41 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhan_zhan_yang_liu.2023.IotPFotWUi3PC/">Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
       <li><a href="../../../author/crook_thomas"><b>Crook</b> Thomas</a>, <a href="../../../author/li_matthew"><b>Li</b> Matthew</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/allinson_david"><b>Allinson</b> David</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../croo_li_busw_alli.2025.AHPo3PC/">Anisotropic Hygrothermal Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/duan_yuhang"><b>Duan</b> Yuhang</a>, <a href="../../../author/wang_chuan"><b>Wang</b> Chuan</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../duan_wang_yin_liew.2025.MIFi3PCvP/">Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics</a></li>
       <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../khan_das.2025.PoFS3PCW/">Performance of Full-Scale 3D-Printed Concrete Walls:<br/>Effects of Vertical Reinforcements and Window Opening</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan_das.2025.ESoWPaTRoLS3PCW,
+      author            = "Mohsen Khanverdi and Sreekanta Das",
+      title             = "Experimental Study on Water Penetration and Thermal Resistance of Large-Scale 3D-Printed Cementitious Walls",
+      doi               = "10.1016/j.jobe.2025.112286",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112286",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Khanverdi  and S. Das, “Experimental Study on Water Penetration and Thermal Resistance of Large-Scale 3D-Printed Cementitious Walls”, <i>Journal of Building Engineering</i>, p. 112286, 2025, doi: 10.1016/j.jobe.2025.112286.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khanverdi, Mohsen, and Sreekanta Das. “Experimental Study on Water Penetration and Thermal Resistance of Large-Scale 3D-Printed Cementitious Walls”. <i>Journal of Building Engineering</i>, 2025, 112286. https://doi.org/10.1016/j.jobe.2025.112286.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

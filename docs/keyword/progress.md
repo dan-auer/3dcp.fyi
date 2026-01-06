@@ -8,7 +8,7 @@ search:
 
 # #progress
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
   <li><a href="../../../author/goel_devansh"><b>Goel</b> Devansh</a>, <a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b> Sudarshan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../goel_kore.2025.MtBPo3CP/">Mapping the Bibliometric Progression of 3D Concrete Printing:<br/>A Concise Review</a></li>
   <li><a href="../../../author/yang_jie"><b>Yang</b> Jie</a>, <a href="../../../author/xu_ke"><b>Xu</b> Ke</a>, <a href="../../../author/he_haijie"><b>He</b> Haijie</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_he.2025.MPSaAPoFR3PC/">Materials, Performance Studies, and Application Progress of Fiber-Reinforced 3D-Printed Concrete</a></li>

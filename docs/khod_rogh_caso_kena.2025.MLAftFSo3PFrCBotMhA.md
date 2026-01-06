@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nima Khodadadi, Hossein Roghani, Francisco Caso, El‐Sayed Kenawy, Yelena Yesha, Antonio Nanni
+    - footer
+title: Khodadadi Nima, Roghani Hossein, Caso Francisco, Kenawy El‐Sayed, Yesha Yelena, Nanni Antonio
 description:
 tags:
  - algorithm
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Machine Learning Approach for the Flexural Strength of 3D‐Printed Fiber‐reinforced Concrete Based on the Meta‐heuristic Algorithm ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1002/suco.70195" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.70195</a>
+#Machine Learning Approach for the Flexural Strength of 3D‐Printed Fiber‐reinforced Concrete Based on the Meta‐heuristic Algorithm ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.70195" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70195" target="_blank">10.1002/suco.70195</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8348-6530" title="ORCID: 0000-0002-8348-6530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khodadadi_nima"><b>Khodadadi</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0780-4952" title="ORCID: 0000-0003-0780-4952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roghani_hossein"><b>Roghani</b>&nbsp;Hossein</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5585-7819" title="ORCID: 0000-0001-5585-7819" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caso_francisco"><b>de&nbsp;Caso</b>&nbsp;Francisco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9221-7658" title="ORCID: 0000-0002-9221-7658" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kenawy_m_el-sayed"><b>el&nbsp;Kenawy</b>&nbsp;El‐Sayed</a></span>, <a href="../../../author/yesha_yelena"><b>Yesha</b>&nbsp;Yelena</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2678-9268" title="ORCID: 0000-0003-2678-9268" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nanni_antonio"><b>Nanni</b>&nbsp;Antonio</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khodadadi_nima"><b>Khodadadi</b> Nima</a> <a href="https://orcid.org/0000-0002-8348-6530" title="ORCID: 0000-0002-8348-6530" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roghani_hossein"><b>Roghani</b> Hossein</a> <a href="https://orcid.org/0000-0003-0780-4952" title="ORCID: 0000-0003-0780-4952" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caso_francisco"><b>de Caso</b> Francisco</a> <a href="https://orcid.org/0000-0001-5585-7819" title="ORCID: 0000-0001-5585-7819" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kenawy_m_el-sayed"><b>el Kenawy</b> El‐Sayed</a> <a href="https://orcid.org/0000-0002-9221-7658" title="ORCID: 0000-0002-9221-7658" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yesha_yelena"><b>Yesha</b> Yelena</a>
-,     <a href="../../../author/nanni_antonio"><b>Nanni</b> Antonio</a> <a href="https://orcid.org/0000-0003-2678-9268" title="ORCID: 0000-0003-2678-9268" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#algorithm`](keyword/algorithm)
-    [`#approach`](keyword/approach)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Machine%20Learning%20Approach%20for%20the%20Flexural%20Strength%20of%203D%E2%80%90Printed%20Fiber%E2%80%90reinforced%20Concrete%20Based%20on%20the%20Meta%E2%80%90heuristic%20Algorithm" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008764582&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411572358" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.70195" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.70195?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The increasing demand for concrete in construction presents challenges such as pollution, high energy consumption, and complex structural requirements. Three-dimensional printing (3DP) offers a promising solution by eliminating formwork, reducing waste, and enabling intricate geometries. Predicting the strength of 3D-printed fiber-reinforced concrete (3DP-FRC) remains challenging due to the nonlinear nature of neural networks and uncertainty in optimizing key parameters. In this study, we developed machine learning models using five metaheuristic algorithms—arithmetic optimization algorithm, African Vulture Optimization Algorithm, flow direction algorithm, generalized normal distribution optimization, and Mountain Gazelle Optimizer—to optimize the weights and biases in a feed-forward backpropagation network. Among all the algorithms, MGO demonstrated the best performance. To address data limitations, a data augmentation method combining Kernel density estimation and Wasserstein generative adversarial networks is employed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
@@ -110,7 +83,35 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khod_rogh_caso_kena.2025.MLAftFSo3PFrCBotMhA,
+      author            = "Nima Khodadadi and Hossein Roghani and Francisco de Caso and El‐Sayed M. El Kenawy and Yelena Yesha and Antonio Nanni",
+      title             = "Machine Learning Approach for the Flexural Strength of 3D‐Printed Fiber‐reinforced Concrete Based on the Meta‐heuristic Algorithm",
+      doi               = "10.1002/suco.70195",
+      year              = "2025",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Khodadadi, H. Roghani, F. de Caso, E. M. E. Kenawy, Y. Yesha and A. Nanni, “Machine Learning Approach for the Flexural Strength of 3D‐Printed Fiber‐reinforced Concrete Based on the Meta‐heuristic Algorithm”, <i>Structural Concrete</i>, 2025, doi: 10.1002/suco.70195.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khodadadi, Nima, Hossein Roghani, Francisco de Caso, El‐Sayed M. El Kenawy, Yelena Yesha, and Antonio Nanni. “Machine Learning Approach for the Flexural Strength of 3D‐Printed Fiber‐reinforced Concrete Based on the Meta‐heuristic Algorithm”. <i>Structural Concrete</i>, 2025. https://doi.org/10.1002/suco.70195.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

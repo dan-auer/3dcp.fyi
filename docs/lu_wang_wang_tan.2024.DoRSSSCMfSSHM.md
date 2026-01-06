@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bing Lu, Lining Wang, Xiangyu Wang, Ming Tan, King Li, Teck Wong
+    - footer
+title: Lu Bing, Wang Lining, Wang Xiangyu, Tan Ming, Li King, Wong Teck
 description:
 tags:
  - cement
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Robotic Sprayable Self-Sensing Cementitious Material for Smart Structural Health Monitoring ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.addma.2024.104161" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104161</a>
+#Development of Robotic Sprayable Self-Sensing Cementitious Material for Smart Structural Health Monitoring ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104161" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104161" target="_blank">10.1016/j.addma.2024.104161</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_bing"><b>Lu</b>&nbsp;Bing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4453-0516" title="ORCID: 0000-0003-4453-0516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_lining"><b>Wang</b>&nbsp;Lining</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6187-6434" title="ORCID: 0000-0001-6187-6434" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_ho-holden_king"><b>Li</b>&nbsp;King</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span><br>
+Journal Article - Additive Manufacturing, No. 104161
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> <a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> <a href="https://orcid.org/0000-0003-4453-0516" title="ORCID: 0000-0003-4453-0516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> <a href="https://orcid.org/0000-0001-6187-6434" title="ORCID: 0000-0001-6187-6434" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104161
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#development`](keyword/development)
-    [`#material`](keyword/material)
-    [`#monitoring`](keyword/monitoring)
-    [`#robot`](keyword/robot)
-    [`#self`](keyword/self)
-    [`#sensor`](keyword/sensor)
-    [`#smart`](keyword/smart)
-    [`#spray`](keyword/spray)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/smart"><button class="btn">#smart</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Robotic%20Sprayable%20Self-Sensing%20Cementitious%20Material%20for%20Smart%20Structural%20Health%20Monitoring" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191321398&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4395085584" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104161" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104161?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Self-sensing cementitious materials are critical to smart structural health monitoring with the piezoresistivity as an indicator for internal stress and cracks in the structure, which have been frequently utilized as functional coatings in engineering practices. To facilitate the automatic deployment of self-sensing cementitious materials, the compatibility with robotic spraying has been systematically investigated in this study. Pre- and post-spraying evaluations have been conducted for the mixtures with carbon fibers at different dosages, including rheology, tackiness, compressive strengths, and electromechanical responses. On this basis, the addition of 0.4 vol.% carbon fiber was confirmed as the optimal dosage with both competent spraying performance and self-sensing function in the corresponding mixture. Furthermore, the porosity characteristics and fiber agglomeration of the designed mixtures were quantitatively assessed by micro computed tomography (micro-CT), which suggested their relationship to the mechanical and self-sensing properties. Apart from the structural application potential of the developed self-sensing mixture, this study also provides detailed guidance for the optimization of other value-added robotic sprayable cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/atkinson_d_cynthia"><b>Atkinson</b> Cynthia</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../atki_asla.2023.Po3PCUSSCC/">Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../dorr_freu_herr_bagh.2023.AFFORIfS3P/">Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
@@ -94,9 +68,38 @@ tags:
       <li><a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../wang_asla.2023.SPoRCBw3PCBSEaSSCC/">Structural Performance of Reinforced Concrete Beams with 3D Printed Cement-Based Sensor Embedded and Self-Sensing Cementitious Composites</a></li>
       <li><a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b> Abhijit</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../wang_asla_mukh.2022.Do3PSSCC/">Development of 3D Printable Self-Sensing Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM/">Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods</a></li>
       <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/du_liangfen"><b>Du</b> Liangfen</a>, <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_du_liu_li.2024.3CCPwPRCR/">3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber:<br/>Mechanical and Acoustic Insulation Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lu_wang_wang_tan.2024.DoRSSSCMfSSHM,
+      author            = "Bing Lu and Lining Wang and Xiangyu Wang and Ming Jen Tan and King Ho Holden Li and Teck Neng Wong",
+      title             = "Development of Robotic Sprayable Self-Sensing Cementitious Material for Smart Structural Health Monitoring",
+      doi               = "10.1016/j.addma.2024.104161",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104161",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Lu, L. Wang, X. Wang, M. J. Tan, K. H. H. Li and T. N. Wong, “Development of Robotic Sprayable Self-Sensing Cementitious Material for Smart Structural Health Monitoring”, <i>Additive Manufacturing</i>, p. 104161, 2024, doi: 10.1016/j.addma.2024.104161.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lu, Bing, Lining Wang, Xiangyu Wang, Ming Jen Tan, King Ho Holden Li, and Teck Neng Wong. “Development of Robotic Sprayable Self-Sensing Cementitious Material for Smart Structural Health Monitoring”. <i>Additive Manufacturing</i>, 2024, 104161. https://doi.org/10.1016/j.addma.2024.104161.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>
